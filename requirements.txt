@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+fitz
+pandas
+openai
