@@ -1,0 +1,17 @@
+
+### Summary of Research Article: Developmental Verbal Dyspraxia I: A Review and Critique by Joy Stackhouse
+
+**Research Method**: The article employs a review-based methodology, critically examining the literature surrounding developmental verbal dyspraxia from clinical, phonetic, linguistic, and cognitive perspectives. The study identifies methodological gaps in existing research, arguing for the necessity of longitudinal case studies over time, as well as the inclusion of appropriate control groups.
+
+**Time Relevant Details**: The review emphasizes the importance of longitudinal data collection, indicating that the characteristics and symptoms of developmental verbal dyspraxia unfold over time. It suggests that the process of differential diagnosis is extensive, requiring data from various developments of a child. Implicit in the findings is the acknowledgment that longitudinal data may vary with time intervals as the child ages and develops speech skills.
+
+**Sampling Method and Entity Type**: The study does not specify a traditional sampling method as it synthesizes existing research. However, it discusses a range of entities (children) affected by developmental verbal dyspraxia. The units of analysis are primarily children's speech difficulties, encompassing children diagnosed with varying severities of speech disorders.
+
+**Statistical Model**: The article critiques the empirical approaches and analytical frameworks used in previous studies, highlighting that most lack statistical differentiation, particularly in their diagnostic classifications and group allocations. The paper does not apply a specific statistical model as it's a review.
+
+**Unit of Analysis**: The unit of analysis is the individual child's speech production capabilities and their developmental speech disorders. This includes examining speech characteristics, phonological processing, and the overall development environment of those affected by verbal dyspraxia.
+
+**Number of Entities or Sample Size**: The review references numerous studies, yet does not consolidate a singular sample size as it encompasses various studies with differing participant counts. For example, specific studies mentioned involve 10 children with a range of speech difficulties aged from 4 years to 13 years, but overall, the article discusses much larger samples aggregated in prior research, revealing the variable nature of research designs in the subject matter.
+
+### Conclusion
+The research article highlights the complexity of diagnosing developmental verbal dyspraxia and the limitations in existing methodologies. It argues for a more dynamic and longitudinal approach to understanding the disorder's developmental trajectory.

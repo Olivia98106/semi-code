@@ -1,0 +1,21 @@
+### Summary of Research Article by Susan Fountaine
+
+**Research Method:**
+The study employed a longitudinal, multi-method approach, focusing on gender representation in New Zealand's television program *Country Calendar* (CC) over a 25-year period from 1990 to 2015. The data collection involved a two-part process: first, a qualitative thematic analysis based on a stratified sample of 20 randomly selected episodes—one from each five-year interval—followed by a quantitative content analysis that documented the visibility of male and female participants. The entire data collection procedure was conducted over several months, with thematic analysis taking precedence initially, followed by content analysis in subsequent phases.
+
+**Time Relevant Details:**
+The episodes were analyzed at five-year intervals, specifically from 1990, 1995, 2000, 2005, 2010, and 2015. Each episode served as a snapshot of gender portrayal, allowing for temporal comparisons over the years. The content analysis examined the number and roles of male and female subjects and sources in each of the selected episodes.
+
+**Sampling Method and Entity Type:**
+The sampling method used was stratified random sampling, targeting episodes from each five-year bracket to ensure a representative analysis across the time frame. The entities involved in this study were individuals featured in the *Country Calendar* episodes, including both named male and female farmers and agricultural figures. These individuals served as the unit of analysis, showcasing the gender dynamics present in the narratives portrayed.
+
+**Statistical Model:**
+The analysis utilized a basic statistical approach to quantify the presence and speaking roles of male versus female subjects within each episode. This involved calculating ratios and percentages to compare visibility and representation across genders, highlighting disparities in their roles.
+
+**Unit of Analysis:**
+The unit of analysis was individuals depicted in the *Country Calendar* episodes, specifically focusing on named subjects and sources within the narratives. This included both male and female participants featured in the stories.
+
+**Number of Entities or Sample Size:**
+The analysis covered a total of 20 episodes across the specified time frame, comprising 87 named male subjects/sources and 41 named female subjects/sources. Additionally, it was noted that men were significantly more likely to appear and speak within the narratives compared to women across all sampled years.
+
+Overall, the research highlights persistent gender disparities in *Country Calendar*, revealing a trend where men were more prominently featured as central figures, while women, though acknowledged for their hard work and contributions, remained largely in supportive or secondary roles within the storytelling framework.

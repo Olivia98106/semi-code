@@ -1,0 +1,19 @@
+**Summary of the Research Article**
+
+**Research Method:** 
+The study conducted a bibliometric analysis using the Web of Science Citation Index to evaluate the scientific output related to product placement from 1992 to 2021. This longitudinal analysis aimed to assess visibility and impact, investigating the most cited authors, journals, and themes across generic and specific communication journals. The analysis utilized Scimat software on a sample of 694 indexed papers, seeking to present dynamic scientific maps that illustrate the evolution of research themes over time.
+
+**Time Relevant Details:** 
+Data was collected over a near 30-year span, specifically analyzing publications indexed between 1992 and 2021. Citations and scholarly activity were measured at two distinct periods, with attention given to shifts in trending themes and their development, ideally showcasing the temporal evolution in the research focus on product placement.
+
+**Sampling Method and Entity Type:** 
+A systematic sampling method was employed, identifying entities through citation analysis from the Web of Science, focusing on published papers that adhered to specific criteria centered on "product placement." The entities involved primarily consisted of academic papers constituted by individual researchers and their contributions across various interdisciplinary journals.
+
+**Statistical Model:** 
+The statistical model used for analysis likely involved employing bibliometric indicators, including citation counts and h-index values, to quantify and rank the visibility and impact of the research output associated with product placement.
+
+**Unit of Analysis:** 
+The unit of analysis in this study is the academic paper published on the subject of product placement. Each indexed paper serves as a focal point for evaluation of authorship, citations, and thematic contributions to the field.
+
+**Number of Entities or Sample Size:** 
+The analysis is based on a total sample size of 694 indexed papers. The results section identifies this sample, detailing their bibliometric characteristics, which includes insights into authors, journals, and prevailing themes within the specified timeframe.

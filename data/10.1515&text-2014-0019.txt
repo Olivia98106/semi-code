@@ -1,0 +1,15 @@
+**Summary of the Research Article**
+
+**Research Method:** The study employs discourse analysis as its primary research method. Data collection includes audio- and video-recorded interactions alongside longitudinal ethnographic observations conducted over a duration of one and a half years. The data is collected during the classroom interactions that occur bi-weekly, specifically during the Russian Heritage Language school sessions on Saturdays.
+
+**Time Relevant Details:** Data collection is structured over time with measurements taken during each class session. The interactions are analyzed longitudinally, focusing on subtleties in communication with time intervals typically around bi-weekly exchanges within the context of the school’s weekly program.
+
+**Sampling Method and Entity Type:** The sampling method utilized appears to be purposive sampling, specifically targeting children attending the Russian Orthodox Christian Heritage Language school. The entities involved can be classified as individuals, more specifically, the children who are the subjects of discourse during classroom interactions.
+
+**Statistical Model:** The article does not employ a traditional quantitative statistical model. Instead, it relies on qualitative discourse analysis which seeks to uncover patterns in spoken communication and interaction dynamics.
+
+**Unit of Analysis:** The unit of analysis in this study is the observed interactions between children and their teachers, particularly focusing on instances of hypothetical direct reported speech which illustrate the moral teachings imparted to the children.
+
+**Number of Entities or Sample Size:** Although the specific number of entities is not directly stated in the summary information, the analysis presents a range of interactions and appears to involve multiple classes with several children participating over time. The detailed interaction excerpts suggest a focus on qualitative rather than quantitative results, emphasizing comprehensive exploration over aggregation of numerical data. 
+
+In summary, Ekaterina Moore's study revolves around understanding how children in a Russian Heritage Language classroom learn respectful communication with parents through hypothetical speech patterns, while also elaborating on the application of these language strategies within a cultural context.

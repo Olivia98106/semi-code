@@ -1,0 +1,21 @@
+**Summary of the Research Article: "When Words Fail Us: Using Visual Composites in Research Reporting" by Frank X. Sligo and Elspeth Tilley**
+
+**Research Method:**  
+The study employed a qualitative approach focusing on a longitudinal investigation of adult literacy. Data collection involved a series of interviews conducted over a three-year span with 90 participants categorized as having 'low' functional literacy. Recruitment of participants occurred in the first year, followed by continuous engagement for follow-up interviews, allowing for a richly layered understanding of participants' experiences.
+
+**Time Relevant Details:**  
+The data collection procedure consisted of sequential interviews that took place over three years. The timeline included initial recruitments in the first year, followed by attempts to maintain contact for further interviews throughout the duration of the study to ensure depth and continuity in data collection.
+
+**Sampling Method and Entity Type:**  
+Participants were recruited through local adult literacy training providers. The sampling method was purposive, specifically targeting individuals defined as having low functional literacy. The entities involved were individuals, specifically the adult learners engaged in literacy training.
+
+**Statistical Model:**  
+The analysis of the data did not adhere to a conventional statistical model but instead focused on thematic analysis derived from the qualitative data of interviewed participants.
+
+**Unit of Analysis:**  
+The unit of analysis used in this study was the individual participant, characterized by their experiences and narratives regarding literacy.
+
+**Number of Entities or Sample Size:**  
+The study involved a sample size of 90 individuals. This is explicitly mentioned as part of the methodology where the authors report on interviewing 90 people defined through their involvement in adult literacy training. 
+
+Through this innovative use of visual composites, the authors sought to challenge traditional narratives surrounding literacy by emphasizing the complexity of participants' experiences in a way that transcends the limitations of text-based reporting.

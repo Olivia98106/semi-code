@@ -1,0 +1,15 @@
+The research article by Koteyko and Hunt investigates how individuals with type 1 and type 2 diabetes utilize Facebook to perform their health identities through multimodal discursive practices. Key aspects of the study are outlined below:
+
+- **Research Method**: The research employed a longitudinal ethnographic approach, involving systematic observation of Facebook profiles over a period of four months. The data collection included direct observation of participants' activities on Facebook and semi-structured interviews as follow-ups.
+
+- **Time Relevant Details**: Data collection was carried out continuously over the four-month duration, with the researchers visiting participants’ profiles every few days. This regular monitoring aimed to capture dynamic interactions and contributions related to diabetes management.
+
+- **Sampling Method and Entity Type**: Participants were purposively sampled through recruitment efforts by Diabetes UK. The sample consisted of 20 individuals, aged between 21 and 65 years, who communicated in English and had a diagnosis of either type 1 or type 2 diabetes.
+
+- **Statistical Model**: The study used constant comparative analysis to identify themes and concepts emerging from the data, comparing various types of multimodal data (textual and visual) to develop a nuanced understanding of identity construction.
+
+- **Unit of Analysis**: The unit of analysis in this study was the individual Facebook profile contributions of the participants, reflecting their interactions and identity performances in the context of living with diabetes.
+
+- **Number of Entities or Sample Size**: The sample included 20 participants. The analysis recorded a substantial number of contributions during the observational period, totaling 685 timeline contributions, 201 group and page contributions, and 508 likes, indicating active participation and varied engagement levels among the participants.
+
+Through this research, the authors explore how the participants utilized Facebook's platform features to share experiences and construct identities related to their health, providing insights into contemporary discourses surrounding chronic illness and social media interaction.

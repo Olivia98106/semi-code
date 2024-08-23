@@ -1,0 +1,17 @@
+**Research Method:**
+The study employed a quantitative research method utilizing survey data collected across two distinct time waves in the 1992 general election campaign. The data collection procedure spanned from September 8 to November 2, with the first wave occurring from September 8 to September 15, followed by a second wave from October 29 to November 2.
+
+**Time Relevant Details:**
+Data collection occurred in two rounds, the first covering a one-week period in early September and the second during the last few days leading up to the election in early November. The study systematically gathered information on participants' political views and media consumption at these intervals, ensuring variables were assessed consistently during each wave.
+
+**Sampling Method and Entity Type:**
+A random sampling method was applied, selecting 151 registered voters from the voting lists of a Midwestern county. The entities involved in the study are individual voters, which serve as the central unit of analysis, providing a granular understanding of political attitudes and media impact at the personal level.
+
+**Statistical Model:**
+The analysis utilized regression path analysis to examine the impact of traditional and non-traditional news media on voters' perceptions, attitudes, and voting intentions. This model allowed for the assessment of both direct and indirect relationships between variables by controlling for additional independent variables.
+
+**Unit of Analysis:**
+The unit of analysis in this statistical model is the individual voter, as the study seeks to explore the perceptions and behaviors of voters based on their media consumption during the campaign.
+
+**Number of Entities or Sample Size:**
+The sample size for the study was 151 registered voters, of which a substantial majority completed both survey phases, providing a robust dataset for analysis of their media consumption and its influence on political attitudes and voting behavior across the pre-election period.

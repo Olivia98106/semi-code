@@ -1,0 +1,15 @@
+The article titled "A Longitudinal Assessment of Trait Argumentativeness and Verbal Aggressiveness between Seventh and Eighth Grades" provides a comprehensive study on the communication traits of adolescents, particularly focusing on aggression. Here’s a structured summary of the research:
+
+**Research Method**: The study utilized a longitudinal assessment approach to track changes in aggressive communication traits over time. The data collection involved surveying two hundred thirty-eight eighth-grade students who had previously completed a one-week training program titled "Arguing Constructively." This assessment occurred approximately seven months to one year post-training, during which students were evaluated on their levels of argumentativeness and verbal aggressiveness.
+
+**Time Relevant Details**: The data collection procedure spanned from the initial training assessment to follow-up assessments conducted roughly one year later. Students were measured immediately after the training and then reassessed between seven months and one year later, highlighting how the traits evolved over this period.
+
+**Sampling Method and Entity Type**: The sampling method employed was a non-random selection of participants from a middle school in a suburb of Pittsburgh, Pennsylvania. The entities involved were adolescent students, specifically eighth graders, serving as the unit of analysis for the study.
+
+**Statistical Model**: The analysis of the data was conducted using dependent t-tests to evaluate any significant differences in the traits of argumentativeness and verbal aggressiveness between the two time points.
+
+**Unit of Analysis**: The unit of analysis in this study comprised individual students, with particular attention given to their levels of argumentativeness and verbal aggressiveness at the two different time intervals.
+
+**Number of Entities or Sample Size**: The study included a sample size of 238 students who participated in the follow-up assessment. Results were reported based on their measures of argumentativeness (ARGgt) and verbal aggressiveness at both measured time points, as detailed in the findings presented in the article.
+
+The findings revealed that while levels of argumentativeness remained stable over time, there was a significant increase in levels of verbal aggressiveness, suggesting possible implications for future communication training interventions for adolescents.

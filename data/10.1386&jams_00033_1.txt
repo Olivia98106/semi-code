@@ -1,0 +1,11 @@
+**Research Method**: The study employs a longitudinal approach, utilizing a series of questionnaires administered across three distinct time frames: 2012, 2014/2015, and 2018. Each questionnaire incorporates cross-sectional questions, enabling the author to analyze changes in the adoption of Information Communication Technologies (ICTs) by Egyptian newsrooms over this seven-year period. 
+
+**Time Relevant Details**: The data collection occurred in three waves over the span of seven years, specifically in 2012, 2014/2015, and 2018. This time structure allowed for the repeated assessment of probing questions regarding the integration of ICTs, providing a robust timeline for measuring evolution in newsroom practices and management perspectives concerning social media and ICT utility.
+
+**Sampling Method and Entity Type**: The sampling method principally involved purposive sampling of three Egyptian newsrooms: Al Ahram, Al Masry Al Youm, and Al Watan. The entities involved in the study are news organizations, which serve as the unit of analysis, focusing on their management and journalistic staff.
+
+**Statistical Model**: The analysis utilizes descriptive statistics to evaluate the aggregated data collected from questionnaires, enabling comparison and trend identification across the three surveyed years.
+
+**Unit of Analysis**: The unit of analysis identified in the statistical model is the individual news organization. This includes the operational practices, management perspectives, and journalistic activities pertaining to the ICT integration within each respective organization.
+
+**Number of Entities or Sample Size**: Although the article does not explicitly state the sample size, a thorough examination of the results sections and illustrative tables indicates that data was gathered from multiple respondents across the three newsrooms at each time point. The study reveals trends and transitions in practices based on the collective responses from these entities across the three periods, implying a significant response pool within each newsroom.

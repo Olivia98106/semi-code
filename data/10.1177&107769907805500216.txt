@@ -1,0 +1,21 @@
+### Summary of Research Article by Ardyth Broadrick Sohn
+
+#### Research Method
+The study conducted by Sohn employed a longitudinal analysis method focusing on how a local daily newspaper influences the community agenda over time. The data collection involved two main procedures: a content analysis of the newspaper and the collection of responses from a panel of respondents through open-ended questions. The data was collected during mid-July 1975 and again in April 1976, with a defined time interval of nine months between the two data collection points.
+
+#### Time Relevant Details
+The data collection lasted from a timeframe starting two months before the first interviews in mid-July 1975 and continued during the interviews until the second round of interviews in April 1976. This nine-month duration was chosen based on prior recommendations for longitudinal studies. Each time, the variables regarding newspaper content, reading habits, and community discussions were collected for comparison.
+
+#### Sampling Method and Entity Type
+A two-stage probability sampling method was implemented, targeting a representation of the community rather than solely newspaper subscribers. The entities involved in this study were individuals, specifically residents from a small southern Illinois city with a population of approximately 8,000. The sample size was 150 residents initially, although 69 respondents were successfully located for the follow-up interviews.
+
+#### Statistical Model
+The analysis utilized a cross-lagged panel correlation approach for testing the hypothesized causal relationships between the community’s reading and talking agendas and the newspaper content across the two time points.
+
+#### Unit of Analysis
+The unit of analysis in this study consisted of individual respondents from the community, each providing their insights into how the newspaper content influenced their reading and conversational agendas over time.
+
+#### Number of Entities or Sample Size
+The article mentions that data from a total of 150 initial respondents was collected, with 69 of these participants reachable for the second round of interviews in April 1976. The analysis provided insights into the connections between their media interactions and community discussions across both timeframes. 
+
+This research contributes to understanding the role of local media in shaping community discourse, particularly emphasizing non-political agenda-setting dynamics in a localized context.

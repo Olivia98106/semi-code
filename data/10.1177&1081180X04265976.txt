@@ -1,0 +1,21 @@
+### Summary of Holbert's Research Article
+
+**Research Method:**  
+The study utilized a quantitative approach, analyzing the influences of political talk radio on perceived fairness in the 2000 U.S. presidential election. It employed a structural equation modeling (SEM) framework using panel data from the American National Election Study (ANES) spanning 2000 to 2002. Data collection involved a two-phase survey method: pre-election interviews conducted over nine weeks leading up to November 7, 2000, and post-election reinterviews. The study then followed up in 2002 with similar pre-election and post-election data collection, allowing for a comprehensive analysis of changes over time.
+
+**Time Relevant Details:**  
+Data was collected at two significant time intervals: first, during the nine weeks leading up to the 2000 election, and subsequently after the election, followed by pre-election and post-election surveys in 2002. The retention rate between the 2000 pre-election and post-election phases was 86%, while the 2002 pre-election and post-election retention rate was 90%, indicating robust continuity for longitudinal analysis.
+
+**Sampling Method and Entity Type:**  
+The sampling method involved a national probability sample, yielding a diverse group of 1,807 participants in 2000, with 1,555 re-interviewed post-election. For the 2002 phase, 1,187 subjects from the 2000 sample were reinterviewed. The study analyzed individual citizens as entities, aggregating their perceptions and feelings towards candidates.
+
+**Statistical Model:**  
+The statistical model applied was Full-Information Maximum Likelihood (FIML) for structural equation modeling. This approach allowed for examining the complex relationships through multiple variables, including mediators and predictors, while accounting for measurement error.
+
+**Unit of Analysis:**  
+The unit of analysis was individual citizens, with data points representing their personal feelings and perceptions regarding political talk radio, candidates George W. Bush and Al Gore, and the perceived fairness of the 2000 presidential election.
+
+**Number of Entities or Sample Size:**  
+The sample size consisted of an initial 1,807 respondents in 2000, with a final analyzed sample of 1,070 respondents for the post-2002 election feelings assessment. The research detailed multiple statistical relationships drawn from the responses of these individuals, resulting in comprehensive findings on the study’s hypotheses.
+
+This synthesis of the article elucidates the multifaceted research design, highlighting the temporal and analytical frameworks that underpin Holbert's examination of political talk radio and its influence on electoral perceptions and political legitimacy.

@@ -1,0 +1,21 @@
+### Summary of the Research Article
+
+**Research Method:**
+The study employs a qualitative analysis of the parliamentary sitcom genre, which is analyzed through critical discourse analysis and cultural studies methodologies. Data collection involved a comprehensive review of selected sitcoms, where episodes from key series were examined for their political commentary and media critique over an extended period. This analysis spans from the inception of seminal shows like *Yes Minister* (1980-84) to contemporary examples such as *Veep* (2012-19), focusing on events that illustrate the evolution of political satire.
+
+**Time Relevant Details:**
+Data collection was iterative, with researchers continuously assessing the evolving landscape of parliamentary sitcoms in relation to current political contexts. The intervals of interest were primarily tied to significant political events and media interactions affecting both the shows and actual political outcomes, highlighting a temporal connection between sitcom narrative arcs and real-world political developments.
+
+**Sampling Method and Entity Type:**
+The sampling method used was purposive, focusing on notable sitcom series recognized for their political content. The entities analyzed consisted of television sitcoms, specifically character portrayals, plot developments, and audience reception, thereby establishing the sitcom itself as a crucial unit of analysis for assessing political satire.
+
+**Statistical Model:**
+A thematic analysis model was applied to interpret the evolving dynamics between media representation and political critique, utilizing qualitative coding to derive themes that articulate how sitcoms comment on prevailing political conditions and societal concerns.
+
+**Unit of Analysis:**
+The study identifies the television sitcom as the unit of analysis. Within this context, individual comedic episodes and their characters serve as lenses through which the interplay of media and political commentary is scrutinized.
+
+**Number of Entities or Sample Size:**
+The article references a variety of entities, focusing on approximately eight key sitcoms spanning several decades—including both British and American examples—detailing their episodes and specific instances of political satire. The sample size is implicitly supported by references to these series, alongside quantitative viewership and cultural impact data derived from audience reception studies. 
+
+By synthesizing this information, the research provides insights into how parliamentary sitcoms creatively negotiate the terrain of political critique, illustrating the complex relationship between entertainment, media discourse, and democratic engagement.

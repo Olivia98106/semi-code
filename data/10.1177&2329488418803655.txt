@@ -1,0 +1,19 @@
+### Summary of the Research Article
+
+**Research Method:**
+The study employs a quantitative approach using panel data analysis to explore the relationship between the institutional rank of authors and their propensity to pre-publish working papers before or during the double-blind peer review process. Data collection involved compiling a large dataset from eight journal archives (including the American Economic Review and Journal of Finance) over a time span from 2001 to 2016. 
+
+**Time Relevant Details:**
+The duration of the data collection spans 15 years, comprising work posted on the Social Science Research Network (SSRN) during this period. Specifically, the researchers examined the timing of when authors shared their working papers in relation to journal acceptance, thereby noting the intervals between the issuance of working papers and their reviewing timelines.
+
+**Sampling Method and Entity Type:**
+The sampling method used is a systematic approach where a selection of 7,884 papers published in high-ranking journals from the specified time frame is analyzed. The entities involved are individual authors from various academic institutions – notably those affiliated with top-tier universities, underlining the entity type as individuals within academic institutions.
+
+**Statistical Model:**
+The statistical model applied in the analysis is a logistic regression model. This model estimates the likelihood of whether a paper is posted on SSRN prior to journal acceptance based on the authors' institutional rank and their established reputation, controlling for additional variables like authors' gender and co-authorship.
+
+**Unit of Analysis:**
+The unit of analysis in the statistical model is the individual paper authored by researchers, as the study explores the pre-publication behavior of papers in relation to various independent variables.
+
+**Number of Entities or Sample Size:**
+The research encompasses a total sample size of 7,884 papers published in the selected journals, with a specific focus on 2,929 papers that were available for free download on SSRN. This indicates a thorough examination of a substantial body of work, thereby strengthening the validity of the findings regarding prepublication practices among authors at different institutional ranks.

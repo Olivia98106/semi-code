@@ -1,0 +1,13 @@
+### Summary of the Research Article
+
+**Research Method**: The study employs a longitudinal analysis methodology focusing on the evolution of techno-corporative discourse in European governance from 2000 to 2010. Data was collected from various documents and reports related to the European Union, using a critical discourse analysis approach to interpret the implications of language in political contexts.
+
+**Time Relevant Details**: The data collection occurred over a decade, starting from the year 2000 until 2010. The study analyzes various reports at key intervals, particularly looking at structural changes initiated by the Lisbon Strategy in 2000 and subsequent adjustments made in response to the economic landscape over the years. Each interval reveals changes and consistencies in the discourse surrounding employment, growth, and knowledge-based policies.
+
+**Sampling Method and Entity Type**: The sample employed in the study was selected through a purposive sampling method, focusing specifically on documents from European institutions such as the European Council and the European Round Table of Industrialists (ERT). The entities involved in the analysis are organizations and political institutions, which serve as the units of analysis, reflecting the collective discourse surrounding European governance rather than individual actors.
+
+**Statistical Model**: The analysis utilizes qualitative coding and discourse analysis techniques rather than traditional statistical models. Through tools like NVivo, the study assesses word frequency and semantic relationships to understand the ideological implications in the use of terminology.
+
+**Unit of Analysis**: The unit of analysis is the discourse itself, derived from documents produced by European political institutions. Specifically, it examines how certain keywords and phrases reflect broader ideological constructs and governance strategies over the years.
+
+**Number of Entities or Sample Size**: While precise figures for the number of documents analyzed are not detailed within the summary, the text refers to multiple reports and texts produced by the European Council and the ERT, providing a tacit understanding that the analysis draws upon a significant, yet unspecified, amount of discourse material to create a comprehensive overview of the techno-corporative dialogue during this period.

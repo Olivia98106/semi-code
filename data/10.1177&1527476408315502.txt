@@ -1,0 +1,17 @@
+**Research Method:**
+The study employed a longitudinal content analysis method, focusing on Olympic telecasts from a span of ten years, covering three Summer Olympics (1996, 2000, 2004) and three Winter Olympics (1998, 2002, 2006). A total of 348 hours of prime-time programming was systematically videotaped for analysis, encapsulating 100 percent of NBC’s (and CBS’s in 1998) coverage during those Olympic events. The data collection occurred between July 1996 and February 2006, capturing Olympic telecasts on designated dates (July 19–August 4, 1996; February 6–22, 1998; September 15–October 1, 2000; February 8–24, 2002; August 13–29, 2004; February 10–26, 2006). 
+
+**Time Relevant Details:**
+The data collection occurred during prime-time hours, which were specifically identified as Monday through Saturday from 8:00 PM to midnight EST and 7:00 PM to midnight EST on Sundays during the Olympic Closing Ceremony. The prime-time coverage consisted of varying hours: 55 hours in 1996, 51 hours in 1998, 54 hours in 2000, 52 hours in 2002, and 70 hours in 2004, culminating in 65 hours for the 2006 Winter Olympics.
+
+**Sampling Method and Entity Type:**
+The sampling method utilized a comprehensive approach by analyzing all relevant prime-time Olympic broadcasts, focusing entirely on the content aired rather than relying on a random sampling of specific events or times. The entities involved in this analysis were the televised Olympic events, categorized by gender (men's and women's events), making the broadcast segments the main unit of analysis.
+
+**Statistical Model:**
+The analysis applied quantitative content analysis to assess the proportion of clock time allocated to men's versus women's sports across the selected Olympic broadcasts. The findings highlighted trends and disparities in coverage, represented through statistical metrics such as chi-square tests to measure the significance of differences.
+
+**Unit of Analysis:**
+The unit of analysis for the statistical model was the clock time devoted to each individual Olympic event as broadcasted during the televised coverage. The study isolated specific time segments to categorize the coverage by gender.
+
+**Number of Entities or Sample Size:**
+The study analyzed 348 prime-time hours of Olympic telecasts, over a total of six Olympic events across multiple years. The results are substantiated by tables detailing the clock time allocated to both men's events and women's events, allowing for a comparative overview presented in the article's tables and figures. Specifically, 34 men's events and 31 women's events in the Summer Olympics, and 14 men's events and 13 women's events in the Winter Olympics were evaluated for clock time.

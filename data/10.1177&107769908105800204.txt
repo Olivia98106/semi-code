@@ -1,0 +1,19 @@
+### Summary of Research Article by Steven H. Chaffee and Sun Yuel Choe
+
+**Research Method:**
+The study used a longitudinal analysis based on secondary data from a national panel survey conducted by the Center for Political Studies (CPS) at the University of Michigan during the election campaigns of 1974 and 1976. The data collection involved two representative cross-sectional samples, one in 1974 (1,575 individuals) and one in 1976 (2,248 individuals). The panel for the study consisted of 1,201 respondents who were interviewed in both years, allowing the researchers to analyze changes in newspaper readership over time.
+
+**Time Relevant Details:**
+Data collection occurred twice across two years, with surveys conducted in 1974 and again in 1976. The primary data collection points involved asking respondents if they read a daily newspaper, enabling the identification of stable readers, non-readers, “droppers,” and “adders.” The temporal interval between these data collection points was two years, with an emphasis on recording changes in readership status across this period.
+
+**Sampling Method and Entity Type:**
+The sampling method utilized was representative cross-sectional sampling, focusing on adult Americans. The entity types involved were individuals from various backgrounds, allowing the analysis to consider a range of demographic factors such as socioeconomic status, education level, and political involvement—as these relate to newspaper readership behaviors. Hence, the unit of analysis is individual respondents, which is the finest granularity offered in this study.
+
+**Statistical Model:**
+A multiple discriminant analysis was applied to identify differences among four readership status groups based on various indicators of constraints (structural, transitional, and self-constraints). This approach permitted the examination of how these constraints interact to predict changes in newspaper readership.
+
+**Unit of Analysis:**
+The unit of analysis in the statistical model is the individual respondent, allowing insights into how different personal demographics and experiences relate to their newspaper reading habits over time.
+
+**Number of Entities or Sample Size:**
+The study analyzed a panel of 1,201 respondents, focusing specifically on 1,096 individuals whose readership status could be categorized as stable readers, stable non-readers, droppers, and adders due to their responses in both survey years. The sample sizes for each status group were substantial enough (e.g., 66 droppers) to provide reliable statistical estimates for the analysis presented in the results.

@@ -1,0 +1,21 @@
+### Summary of the Research Article
+
+**Research Method:**  
+The study utilizes a longitudinal approach to explore the mutual influences between media selectivity and media effects, conceptualized as reinforcing spirals. The data collection was conducted over a two-year period involving middle school students in the United States. Specific intervals for data collection were not delineated in the article but typically entail periodic assessments to capture the dynamics over time.
+
+**Time Relevant Details:**  
+Given the longitudinal nature of the study, data related to media usage, attitudes, and behaviors were likely gathered at multiple points. The study emphasizes the necessity for well-timed assessments to appropriately capture the evolving interactions that can occur between media effects and media selection over time.
+
+**Sampling Method and Entity Type:**  
+The study employed a panel sampling method, where a specific population of middle school students was tracked at various time points. The entities involved in this research are individuals, specifically adolescents, making them the unit of analysis.
+
+**Statistical Model:**  
+The analysis utilized autoregressive cross-lagged models to assess the reciprocal relationships between media use and its effects over time, allowing for the examination of how earlier use predicted later outcomes, and vice versa.
+
+**Unit of Analysis:**  
+The unit of analysis in the statistical model is the individual adolescent, as the research focuses on how their media consumption influences their beliefs and behaviors, and vice versa.
+
+**Number of Entities or Sample Size:**  
+The study involved a sample size of 2,550 middle school students. This was highlighted in the results section, where the findings regarding the relationship between media use and aggression were detailed, indicating significant predictive relationships confirmed through longitudinal data analysis. 
+
+Overall, this article presents a comprehensive investigation of the dynamics of media influence on adolescents through a robust longitudinal framework, emphasizing the importance of timing and methodological robustness in studying reciprocal processes in communication theory.
