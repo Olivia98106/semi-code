@@ -5,14 +5,6 @@ import json
 import PyPDF2 
 import fitz  # PyMuPDF
 from streamlit_pdf_viewer import pdf_viewer
-from dotenv import load_dotenv, find_dotenv
-import openai
-
-load_dotenv(find_dotenv())
-openai.api_key = os.environ["OPENAI_API_KEY"]
-
-# load env varibales
-load_dotenv()
 
 ##################################################
 # Define the models
@@ -114,11 +106,11 @@ def main():
       filename = mapping_file_doc[pdf_selection]
       summary_selection = filename.split('.pdf')[0]+'.txt'
       #chat with pdf
-      query = st.text_input('Ask question to PDF...')
-      cancel_button = st.button('Cancel')
-      if cancel_button:
-          st.stop()
-      chat_with_pdf(os.path.join('pdf', filename), query)
+    #   query = st.text_input('Ask question to PDF...')
+    #   cancel_button = st.button('Cancel')
+    #   if cancel_button:
+    #       st.stop()
+    #   chat_with_pdf(os.path.join('pdf', filename), query)
 
     if pdf_selection:
       with col1:
