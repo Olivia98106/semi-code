@@ -4,3 +4,4 @@ PyMuPDF
 pandas
 openai
 streamlit_pdf_viewer
+dotenv
