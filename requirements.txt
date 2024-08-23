@@ -1,5 +1,5 @@
 streamlit
 PyPDF2
-fitz
+PyMuPDF
 pandas
 openai
