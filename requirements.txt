@@ -3,3 +3,4 @@ PyPDF2
 PyMuPDF
 pandas
 openai
+streamlit_pdf_viewer
