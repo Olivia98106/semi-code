@@ -5,6 +5,7 @@ import json
 import PyPDF2 
 import fitz  # PyMuPDF
 from streamlit_pdf_viewer import pdf_viewer
+import openai
 
 ##################################################
 # Define the models

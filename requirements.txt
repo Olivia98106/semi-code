@@ -4,4 +4,5 @@ PyMuPDF
 pandas
 openai
 streamlit_pdf_viewer
-dotenv
+python-dotenv
+grobid-client-python
