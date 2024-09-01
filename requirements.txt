@@ -9,3 +9,4 @@ grobid-client-python
 beautifulsoup4
 lxml
 watchdog
+requests

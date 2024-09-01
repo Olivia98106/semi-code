@@ -7,6 +7,8 @@ from grobid_client.grobid_client import GrobidClient
 from streamlit_pdf_viewer import pdf_viewer
 
 from grobid.grobid_processor import GrobidProcessor
+import openai_service
+import json
 
 dotenv.load_dotenv(override=True)
 
@@ -137,35 +139,21 @@ def init_grobid():
 
 init_grobid()
 
+with open('resources/chain.json') as f:
+    chain_json = json.load(f)
 
-def get_file_hash(fname):
-    hash_md5 = blake2b()
-    with open(fname, "rb") as f:
-        for chunk in iter(lambda: f.read(4096), b""):
-            hash_md5.update(chunk)
-    return hash_md5.hexdigest()
-
+pdf_csv = pd.read_csv('resources/A2.csv')
+doc_ids = pdf_csv['DOC_ID'].to_list()
 
 st.title("PDF Viewer and Summary")
-pdf_files = os.listdir('pdf')
-pdf_files = [file for file in pdf_files if file.endswith(".pdf")]
-summary_files = os.listdir('data')
-summary_files = [file for file in summary_files if file.endswith(".txt")]
-pdf_files.sort()
-summary_files.sort()
-df = pd.read_csv('filenames.csv')
-mapping_doc_file = dict(zip(df.Filename,df.DOC_ID))
-mapping_file_doc = dict(zip(df.DOC_ID,df.Filename))
-doi_ids = [mapping_doc_file[pdf] for pdf in pdf_files]
-pdf_selection = st.selectbox("Choose a PDF", doi_ids)
-
+doc_id_selection = st.selectbox("Choose a PDF", doc_ids)
 col1, col2 = st.columns(2)
 
-if pdf_selection:
+if doc_id_selection:
     new_file()
-    filename = mapping_file_doc[pdf_selection]
-    summary_selection = filename.split('.pdf')[0] + '.txt'
-    pdf_path = os.path.join('pdf', filename)
+    filename = pdf_csv['Filename'][doc_ids.index(doc_id_selection)]
+    pdf_path = os.path.join('resources/pdf', filename)
+    summary = openai_service.chat_with_pdf(pdf_path, chain_json['summary'])
     if not st.session_state['binary']:
         with (st.spinner('Reading file, calling Grobid...')):
             with open(pdf_path, 'rb') as f:
@@ -238,10 +226,19 @@ if pdf_selection:
                 resolution_boost=resolution_boost
             )
         with col2:
-            st.header(f"Summary: {mapping_doc_file[filename]}")
-            summary_path = os.path.join('data', summary_selection)
-            with open(summary_path, "r") as file:
-                summary = file.read()
-            st.text_area("Summary", summary, height=int(height/2))
-
-
+            with st.container():
+                st.write(f"Summary: {doc_id_selection}")
+                st.text_area("Summary", summary, height=int(height / 2))
+            with st.container():
+                st.write("AI labeling area")
+                variable_selection = st.selectbox("Select a Variable:", ["v1", "v2"])
+                if variable_selection:
+                    st.text_area("ai label")
+                    ai_page_number = 1
+                    st.write(f"ai page number: {ai_page_number}")
+                    ok_button = st.button("Apply AI variable")
+                    with st.container():
+                        st.write(f"Manual labeling area for: {variable_selection}")
+                        manual_variable_selection = st.selectbox("Label:", ["others"])
+                        manual_variable_input = st.text_input("input variable value")
+                        manual_ok_button = st.button("Apply manual variable")
