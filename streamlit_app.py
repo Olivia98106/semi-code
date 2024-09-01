@@ -158,6 +158,8 @@ mapping_file_doc = dict(zip(df.DOC_ID,df.Filename))
 doi_ids = [mapping_doc_file[pdf] for pdf in pdf_files]
 pdf_selection = st.selectbox("Choose a PDF", doi_ids)
 
+col1, col2 = st.columns(2)
+
 if pdf_selection:
     new_file()
     filename = mapping_file_doc[pdf_selection]
@@ -222,26 +224,34 @@ if pdf_selection:
 
         if not highlight_affiliations:
             annotations = list(filter(lambda a: a['type'] != 'affiliation', annotations))
-        if height > -1:
-            pdf_viewer(
-                input=st.session_state['binary'],
-                width=width,
-                height=height,
-                annotations=annotations,
-                pages_vertical_spacing=pages_vertical_spacing,
-                annotation_outline_size=annotation_thickness,
-                pages_to_render=st.session_state['page_selection'],
-                render_text=enable_text,
-                resolution_boost=resolution_boost
-            )
-        else:
-            pdf_viewer(
-                input=st.session_state['binary'],
-                width=width,
-                annotations=annotations,
-                pages_vertical_spacing=pages_vertical_spacing,
-                annotation_outline_size=annotation_thickness,
-                pages_to_render=st.session_state['page_selection'],
-                render_text=enable_text,
-                resolution_boost=resolution_boost
-            )
+        with col1:
+            if height > -1:
+                pdf_viewer(
+                    input=st.session_state['binary'],
+                    width=width,
+                    height=height,
+                    annotations=annotations,
+                    pages_vertical_spacing=pages_vertical_spacing,
+                    annotation_outline_size=annotation_thickness,
+                    pages_to_render=st.session_state['page_selection'],
+                    render_text=enable_text,
+                    resolution_boost=resolution_boost
+                )
+            else:
+                pdf_viewer(
+                    input=st.session_state['binary'],
+                    width=width,
+                    annotations=annotations,
+                    pages_vertical_spacing=pages_vertical_spacing,
+                    annotation_outline_size=annotation_thickness,
+                    pages_to_render=st.session_state['page_selection'],
+                    render_text=enable_text,
+                    resolution_boost=resolution_boost
+                )
+        with col2:
+            st.header(f"Summary: {mapping_doc_file[filename]}")
+            summary_path = os.path.join('data', summary_selection)
+            with open(summary_path, "r") as file:
+                summary = file.read()
+            st.text_area("Summary", summary, height=2500)
+
