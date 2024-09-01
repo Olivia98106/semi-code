@@ -44,6 +44,7 @@ st.set_page_config(
     page_title="PDF Viewer and Summary",
     page_icon="",
     initial_sidebar_state="expanded",
+    layout="wide",
     menu_items={
         'Get Help': 'https://github.com/lfoppiano/pdf-struct',
         'Report a bug': "https://github.com/lfoppiano/pdf-struct/issues",
@@ -85,8 +86,8 @@ with st.sidebar:
 
     st.header("Height and width")
     resolution_boost = st.slider(label="Resolution boost", min_value=1, max_value=10, value=1)
-    width = st.slider(label="PDF width", min_value=100, max_value=10000, value=700)
-    height = st.slider(label="PDF height", min_value=-1, max_value=10000, value=-1)
+    width = st.slider(label="PDF width", min_value=100, max_value=1000, value=1000)
+    height = st.slider(label="PDF height", min_value=100, max_value=1000, value=1000)
 
     st.header("Page Selection")
     placeholder = st.empty()
@@ -225,33 +226,22 @@ if pdf_selection:
         if not highlight_affiliations:
             annotations = list(filter(lambda a: a['type'] != 'affiliation', annotations))
         with col1:
-            if height > -1:
-                pdf_viewer(
-                    input=st.session_state['binary'],
-                    width=width,
-                    height=height,
-                    annotations=annotations,
-                    pages_vertical_spacing=pages_vertical_spacing,
-                    annotation_outline_size=annotation_thickness,
-                    pages_to_render=st.session_state['page_selection'],
-                    render_text=enable_text,
-                    resolution_boost=resolution_boost
-                )
-            else:
-                pdf_viewer(
-                    input=st.session_state['binary'],
-                    width=width,
-                    annotations=annotations,
-                    pages_vertical_spacing=pages_vertical_spacing,
-                    annotation_outline_size=annotation_thickness,
-                    pages_to_render=st.session_state['page_selection'],
-                    render_text=enable_text,
-                    resolution_boost=resolution_boost
-                )
+            pdf_viewer(
+                input=st.session_state['binary'],
+                width=width,
+                height=height,
+                annotations=annotations,
+                pages_vertical_spacing=pages_vertical_spacing,
+                annotation_outline_size=annotation_thickness,
+                pages_to_render=st.session_state['page_selection'],
+                render_text=enable_text,
+                resolution_boost=resolution_boost
+            )
         with col2:
             st.header(f"Summary: {mapping_doc_file[filename]}")
             summary_path = os.path.join('data', summary_selection)
             with open(summary_path, "r") as file:
                 summary = file.read()
-            st.text_area("Summary", summary, height=2500)
+            st.text_area("Summary", summary, height=int(height/2))
+
 
