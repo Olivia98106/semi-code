@@ -5,14 +5,12 @@ import pandas as pd
 import dotenv
 from grobid_client.grobid_client import GrobidClient
 from streamlit_pdf_viewer import pdf_viewer
-
 from grobid.grobid_processor import GrobidProcessor
 import openai_service
 import json
+import streamlit as st
 
 dotenv.load_dotenv(override=True)
-
-import streamlit as st
 
 if 'doc_id' not in st.session_state:
     st.session_state['doc_id'] = None
@@ -141,12 +139,13 @@ init_grobid()
 
 with open('resources/chain.json') as f:
     chain_json = json.load(f)
-
-pdf_csv = pd.read_csv('resources/A2.csv')
+    variables = [k for k in chain_json if k != 'summary']
+pdf_csv_path = 'resources/A2.csv'
+pdf_csv = pd.read_csv(pdf_csv_path)
 doc_ids = pdf_csv['DOC_ID'].to_list()
 
 st.title("PDF Viewer and Summary")
-doc_id_selection = st.selectbox("Choose a PDF", doc_ids)
+doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, key="doc_id_selection_key")
 col1, col2 = st.columns(2)
 
 if doc_id_selection:
@@ -227,16 +226,24 @@ if doc_id_selection:
             )
         with col2:
             with st.container():
-                st.write(f"Summary: {doc_id_selection}")
+                st.write(f"Summary of {doc_id_selection}: ")
                 st.text_area("Summary", summary, height=int(height / 2))
             with st.container():
                 st.write("AI labeling area")
-                variable_selection = st.selectbox("Select a Variable:", ["v1", "v2"])
+                variable_selection = st.selectbox("Select a Variable:", variables, index=None)
                 if variable_selection:
-                    st.text_area("ai label")
+                    variable_value = openai_service.chat_with_pdf(pdf_path, chain_json[variable_selection])
+                    variable_text = st.text_area("AI variable", variable_value)
                     ai_page_number = 1
-                    st.write(f"ai page number: {ai_page_number}")
+                    st.write(f"ai page number: not support yet")
                     ok_button = st.button("Apply AI variable")
+                    if ok_button:
+                        print(variable_text)
+                        print(variable_selection)
+                        print(doc_ids.index(doc_id_selection))
+                        pdf_csv.loc[doc_ids.index(doc_id_selection)][variable_selection] = variable_text
+                        print(pdf_csv)
+                        pdf_csv.to_csv(pdf_csv_path, index=False)
                     with st.container():
                         st.write(f"Manual labeling area for: {variable_selection}")
                         manual_variable_selection = st.selectbox("Label:", ["others"])
