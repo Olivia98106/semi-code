@@ -64,21 +64,21 @@ st.set_page_config(
 
 with st.sidebar:
     st.header("Text")
-    enable_text = st.toggle('Render text in PDF', value=False, disabled=not st.session_state['uploaded'],
+    enable_text = st.toggle('Render text in PDF', value=True, disabled=not st.session_state['uploaded'],
                             help="Enable the selection and copy-paste on the PDF")
 
     st.header("Highlights")
-    highlight_title = st.toggle('Title', value=True, disabled=not st.session_state['uploaded'])
-    highlight_person_names = st.toggle('Person Names', value=True, disabled=not st.session_state['uploaded'])
-    highlight_affiliations = st.toggle('Affiliations', value=True, disabled=not st.session_state['uploaded'])
-    highlight_head = st.toggle('Head of sections', value=True, disabled=not st.session_state['uploaded'])
-    highlight_sentences = st.toggle('Sentences', value=False, disabled=not st.session_state['uploaded'])
+    highlight_title = st.toggle('Title', value=False, disabled=not st.session_state['uploaded'])
+    highlight_person_names = st.toggle('Person Names', value=False, disabled=not st.session_state['uploaded'])
+    highlight_affiliations = st.toggle('Affiliations', value=False, disabled=not st.session_state['uploaded'])
+    highlight_head = st.toggle('Head of sections', value=False, disabled=not st.session_state['uploaded'])
+    highlight_sentences = st.toggle('Sentences', value=True, disabled=not st.session_state['uploaded'])
     highlight_paragraphs = st.toggle('Paragraphs', value=True, disabled=not st.session_state['uploaded'])
-    highlight_notes = st.toggle('Notes', value=True, disabled=not st.session_state['uploaded'])
-    highlight_formulas = st.toggle('Formulas', value=True, disabled=not st.session_state['uploaded'])
+    highlight_notes = st.toggle('Notes', value=False, disabled=not st.session_state['uploaded'])
+    highlight_formulas = st.toggle('Formulas', value=False, disabled=not st.session_state['uploaded'])
     highlight_figures = st.toggle('Figures and tables', value=True, disabled=not st.session_state['uploaded'])
-    highlight_callout = st.toggle('References citations in text', value=True, disabled=not st.session_state['uploaded'])
-    highlight_citations = st.toggle('Citations', value=True, disabled=not st.session_state['uploaded'])
+    highlight_callout = st.toggle('References citations in text', value=False, disabled=not st.session_state['uploaded'])
+    highlight_citations = st.toggle('Citations', value=False, disabled=not st.session_state['uploaded'])
 
     st.header("Annotations")
     annotation_thickness = st.slider(label="Annotation boxes border thickness", min_value=1, max_value=6, value=1)
@@ -102,14 +102,14 @@ with st.sidebar:
             key=1
         )
 
-    st.header("Documentation")
-    st.markdown("https://github.com/lfoppiano/structure-vision")
-    st.markdown(
-        """Upload a scientific article as PDF document and see the structures that are extracted by Grobid""")
-
-    if st.session_state['git_rev'] != "unknown":
-        st.markdown("**Revision number**: [" + st.session_state[
-            'git_rev'] + "](https://github.com/lfoppiano/structure-vision/commit/" + st.session_state['git_rev'] + ")")
+    # st.header("Documentation")
+    # st.markdown("https://github.com/lfoppiano/structure-vision")
+    # st.markdown(
+    #     """Upload a scientific article as PDF document and see the structures that are extracted by Grobid""")
+    #
+    # if st.session_state['git_rev'] != "unknown":
+    #     st.markdown("**Revision number**: [" + st.session_state[
+    #         'git_rev'] + "](https://github.com/lfoppiano/structure-vision/commit/" + st.session_state['git_rev'] + ")")
 
 
 def new_file():
