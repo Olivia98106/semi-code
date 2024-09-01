@@ -6,3 +6,6 @@ openai
 streamlit_pdf_viewer
 python-dotenv
 grobid-client-python
+beautifulsoup4
+lxml
+watchdog
