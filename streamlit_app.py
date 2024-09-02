@@ -10,6 +10,7 @@ import openai_service
 import json
 import streamlit as st
 import logging
+import util
 
 logging.basicConfig(level=logging.INFO)
 
@@ -120,12 +121,6 @@ def new_file():
     st.session_state['uploaded'] = True
     st.session_state['annotations'] = []
     st.session_state['binary'] = None
-
-
-def query_add_md(query: str):
-    if not query.endswith('.') or not query.endswith('?'):
-        query = query + '.'
-    return query + "save the result in a json format, the keys are result, your confidence level(high/middle/low), and evidence."
 
 
 @st.cache_resource
@@ -243,11 +238,29 @@ if doc_id_selection:
                 with st.form("ai labeling form"):
                     st.write(f"AI labeling area for: {variable_selection}")
                     query = chain_json[variable_selection]
-                    variable_value = openai_service.chat_with_pdf(pdf_path, query_add_md(query))
-                    variable_text = st.text_area("AI variable", variable_value)
-                    ai_page_number = 1
+                    variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
+                    logging.info(variable_response)
+                    variable_response = variable_response[variable_response.find("{") : variable_response.rfind("}") + 1]
+                    result, confidence_level, evidence = None, None, None
+                    try:
+                        variable_json = json.loads(variable_response)
+                        if "result" in variable_json:
+                            raw_result = str(variable_json["result"])
+                            result = raw_result.replace(",", "")
+                        else:
+                            result = 'failed to get result from openai'
+                        if "confidence level" in variable_json:
+                            confidence_level = variable_json["confidence level"]
+                        if "confidence_level" in variable_json:
+                            confidence_level = variable_json["confidence_level"]
+                        if "evidence" in variable_json:
+                            evidence = variable_json["evidence"]
+                    except:
+                        st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
+                    variable_text = st.text_area("AI variable", result)
+                    st.write(f"evidence: {evidence}")
+                    st.write(f"confidence level: {confidence_level}")
                     st.write(f"page number from AI: not support yet")
-                    st.write(f"evidence:")
                     submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
                     if submit_ai_labeling_form:
                         pdf_csv.loc[doc_ids.index(doc_id_selection), variable_selection] = variable_text

@@ -4,6 +4,7 @@ import PyPDF2
 import openai
 import fitz  # PyMuPDF
 import random
+import util
 
 dotenv.load_dotenv()
 openai_key = os.getenv('OPENAI_KEY')
@@ -63,7 +64,10 @@ def chat_with_pdf(pdf_file_path, query):
 
 
 if __name__ == "__main__":
+    q = "What is the number of the case/entity in the study? Entity is the unit of analysis/granuality/ resolution in the study. Provide a number ONLY"
     result = chat_with_pdf(
         'resources/pdf/10.1080&03634520009379197.pdf',
-        "What is the number of the case/entity in the study? Entity is the unit of analysis/granuality/ resolution in the study. Provide a number ONLY")
-    print(result)
+        util.query_add_md(q))
+    for line in result.splitlines():
+        print(1)
+        print(line)
