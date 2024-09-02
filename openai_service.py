@@ -3,6 +3,7 @@ import os
 import PyPDF2
 import openai
 import fitz  # PyMuPDF
+import random
 
 dotenv.load_dotenv()
 openai_key = os.getenv('OPENAI_KEY')
@@ -39,24 +40,25 @@ def pdf_to_text(pdf_file_path, binsize=1, abstract=1, start_ratio=0.3, end_ratio
         return None
 
 
-def get_answer(knowledgeBase, query, model):
+def get_answer(knowledge_base, query, model):
     client = openai.Client()
     completion = client.chat.completions.create(
         model=model,
         messages=[
             {"role": "system",
-             "content": 'you are a social scentist with a PhD in communication and media. You have read a paper as below:' + knowledgeBase},
+             "content": 'you are a social scentist with a PhD in communication and media. You have read a paper as below:' + knowledge_base},
             {"role": "user", "content": query}
         ])
     return completion.choices[0].message.content
 
 
 def chat_with_pdf(pdf_file_path, query):
+    if os.environ["OPENAI_ENABLED"] != 'enabled':
+        return random.randint(0, 100)
     if pdf_file_path:
-        knowledgeBase = pdf_to_text(pdf_file_path)
-
+        knowledge_base = pdf_to_text(pdf_file_path)
     if query:
-        response = get_answer(knowledgeBase, query, model=gpt4o_model)
+        response = get_answer(knowledge_base, query, model=gpt4o_model)
         return response
 
 
