@@ -122,6 +122,12 @@ def new_file():
     st.session_state['binary'] = None
 
 
+def query_add_md(query: str):
+    if not query.endswith('.') or not query.endswith('?'):
+        query = query + '.'
+    return query + "save the result in a json format, the keys are result, your confidence level(high/middle/low), and evidence."
+
+
 @st.cache_resource
 def init_grobid():
     grobid_client = GrobidClient(
@@ -236,14 +242,17 @@ if doc_id_selection:
             if variable_selection:
                 with st.form("ai labeling form"):
                     st.write(f"AI labeling area for: {variable_selection}")
-                    variable_value = openai_service.chat_with_pdf(pdf_path, chain_json[variable_selection])
+                    query = chain_json[variable_selection]
+                    variable_value = openai_service.chat_with_pdf(pdf_path, query_add_md(query))
                     variable_text = st.text_area("AI variable", variable_value)
                     ai_page_number = 1
-                    st.write(f"ai page number: not support yet")
+                    st.write(f"page number from AI: not support yet")
+                    st.write(f"evidence:")
                     submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
                     if submit_ai_labeling_form:
                         pdf_csv.loc[doc_ids.index(doc_id_selection), variable_selection] = variable_text
                         pdf_csv.to_csv(pdf_csv_path, index=False)
+                st.write("Manual labeling area")
                 with st.form("Manual labeling form"):
                     st.write(f"Manual labeling area for: {variable_selection}")
                     manual_variable_selection = st.selectbox("Label:", ["others"])

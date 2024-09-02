@@ -57,10 +57,13 @@ def chat_with_pdf(pdf_file_path, query):
         return random.randint(0, 100)
     if pdf_file_path:
         knowledge_base = pdf_to_text(pdf_file_path)
-    if query:
-        response = get_answer(knowledge_base, query, model=gpt4o_model)
-        return response
+        if query:
+            response = get_answer(knowledge_base, query, model=gpt4o_model)
+            return response
 
 
 if __name__ == "__main__":
-    chat_with_pdf('resources/pdf/10.1080&03634520009379197.pdf', "What is the number of the case/entity in the study? Entity is the unit of analysis/granuality/ resolution in the study. Provide a number ONLY")
+    result = chat_with_pdf(
+        'resources/pdf/10.1080&03634520009379197.pdf',
+        "What is the number of the case/entity in the study? Entity is the unit of analysis/granuality/ resolution in the study. Provide a number ONLY")
+    print(result)
