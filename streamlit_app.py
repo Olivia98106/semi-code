@@ -106,14 +106,14 @@ with st.sidebar:
             key=1
         )
 
-    # st.header("Documentation")
-    # st.markdown("https://github.com/lfoppiano/structure-vision")
-    # st.markdown(
-    #     """Upload a scientific article as PDF document and see the structures that are extracted by Grobid""")
-    #
-    # if st.session_state['git_rev'] != "unknown":
-    #     st.markdown("**Revision number**: [" + st.session_state[
-    #         'git_rev'] + "](https://github.com/lfoppiano/structure-vision/commit/" + st.session_state['git_rev'] + ")")
+    st.header("Documentation")
+    st.markdown("https://github.com/lfoppiano/structure-vision")
+    st.markdown(
+        """Upload a scientific article as PDF document and see the structures that are extracted by Grobid""")
+
+    if st.session_state['git_rev'] != "unknown":
+        st.markdown("**Revision number**: [" + st.session_state[
+            'git_rev'] + "](https://github.com/lfoppiano/structure-vision/commit/" + st.session_state['git_rev'] + ")")
 
 
 def new_file():
@@ -141,6 +141,13 @@ def init_grobid():
 
 init_grobid()
 
+def get_file_hash(fname):
+    hash_md5 = blake2b()
+    with open(fname, "rb") as f:
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_md5.update(chunk)
+    return hash_md5.hexdigest()
+
 with open('resources/chain.json') as f:
     chain_json = json.load(f)
     variables = [k for k in chain_json if k != 'summary']
@@ -149,12 +156,12 @@ pdf_csv = pd.read_csv(pdf_csv_path)
 doc_ids = pdf_csv['DOC_ID'].to_list()
 
 st.title("PDF Viewer and Summary")
-doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, key="doc_id_selection_key")
+doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, on_change=new_file())
 col1, col2 = st.columns(2)
+
 
 if doc_id_selection:
     logging.info("doc id selected")
-    new_file()
     filename = pdf_csv['Filename'][doc_ids.index(doc_id_selection)]
     pdf_path = os.path.join('resources/pdf', filename)
     summary = openai_service.chat_with_pdf(pdf_path, chain_json['summary'])
