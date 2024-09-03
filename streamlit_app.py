@@ -16,6 +16,7 @@ logging.basicConfig(level=logging.INFO)
 
 dotenv.load_dotenv(override=True)
 
+variable_select_box_key = 'variable_select_box_key'
 if 'doc_id' not in st.session_state:
     st.session_state['doc_id'] = None
 
@@ -121,7 +122,7 @@ def new_file():
     st.session_state['uploaded'] = True
     st.session_state['annotations'] = []
     st.session_state['binary'] = None
-
+    st.session_state[variable_select_box_key] = None
 
 @st.cache_resource
 def init_grobid():
@@ -155,27 +156,26 @@ pdf_csv_path = 'resources/A2.csv'
 pdf_csv = pd.read_csv(pdf_csv_path)
 doc_ids = pdf_csv['DOC_ID'].to_list()
 
+
 st.title("PDF Viewer and Summary")
 doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, on_change=new_file())
 col1, col2 = st.columns(2)
 
 
 @st.fragment
-def manual_labeling_area(variable_selection, variable_text):
+def manual_labeling_area(variable_selection):
+    others = "others"
     st.subheader("Manual labeling area")
+    st.write(f"Manual labeling area for: {variable_selection}")
     with st.form("Manual labeling form"):
-        st.write(f"Manual labeling area for: {variable_selection}")
-        manual_variable_selection = st.selectbox("Label:", ["others"])
+        manual_variable_selection = st.selectbox("Label:", [others] + list(set(pdf_csv[variable_selection])), index=0)
         manual_variable_input = st.text_input("input variable value")
         submit_manual_labeling_form = st.form_submit_button("Apply manual variable")
-        if submit_manual_labeling_form:
-            pdf_csv.loc[doc_ids.index(doc_id_selection), variable_selection] = variable_text
-            pdf_csv.to_csv(pdf_csv_path, index=False)
 
 
 @st.fragment
 def labeling_area():
-    variable_selection = st.selectbox("Select a Variable:", variables, index=None)
+    variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
     if variable_selection:
         with st.form("ai labeling form"):
             st.write(f"AI labeling area for: {variable_selection}")
@@ -199,15 +199,15 @@ def labeling_area():
                     evidence = variable_json["evidence"]
             except:
                 st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
-            variable_text = st.text_area("AI variable", result)
+            st.write(f"AI labeling result: {result}")
             st.write(f"evidence: {evidence}")
             st.write(f"confidence level: {confidence_level}")
             st.write(f"page number from AI: not support yet")
             submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
             if submit_ai_labeling_form:
-                pdf_csv.loc[doc_ids.index(doc_id_selection), variable_selection] = variable_text
+                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = result
                 pdf_csv.to_csv(pdf_csv_path, index=False)
-        manual_labeling_area(variable_selection, variable_text)
+        manual_labeling_area(variable_selection)
 
 if doc_id_selection:
     logging.info("doc id selected")
