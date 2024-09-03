@@ -171,43 +171,56 @@ def manual_labeling_area(variable_selection):
         manual_variable_selection = st.selectbox("Label:", [others] + list(set(pdf_csv[variable_selection])), index=0)
         manual_variable_input = st.text_input("input variable value")
         submit_manual_labeling_form = st.form_submit_button("Apply manual variable")
+        if submit_manual_labeling_form:
+            if manual_variable_selection == others:
+                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = manual_variable_input
+            else:
+                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = manual_variable_selection
+            pdf_csv.to_csv(pdf_csv_path, index=False)
+    return
+
+
+def submit_ai_label(variable_response, variable_selection):
+    with st.form("ai labeling form"):
+        st.write(f"AI labeling area for: {variable_selection}")
+        variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
+        result, confidence_level, evidence = None, None, None
+        try:
+            variable_json = json.loads(variable_response)
+            if "result" in variable_json:
+                raw_result = str(variable_json["result"])
+                result = raw_result.replace(",", "")
+            else:
+                result = 'failed to get result from openai'
+            if "confidence level" in variable_json:
+                confidence_level = variable_json["confidence level"]
+            if "confidence_level" in variable_json:
+                confidence_level = variable_json["confidence_level"]
+            if "evidence" in variable_json:
+                evidence = variable_json["evidence"]
+        except:
+            st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
+        st.write(f"AI labeling result: {result}")
+        st.write(f"evidence: {evidence}")
+        st.write(f"confidence level: {confidence_level}")
+        st.write(f"page number from AI: not support yet")
+        submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
+        if submit_ai_labeling_form:
+            pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = result
+            pdf_csv.to_csv(pdf_csv_path, index=False)
+
 
 
 @st.fragment
 def labeling_area():
     variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
     if variable_selection:
-        with st.form("ai labeling form"):
-            st.write(f"AI labeling area for: {variable_selection}")
-            query = chain_json[variable_selection]
-            variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
-            logging.info(variable_response)
-            variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
-            result, confidence_level, evidence = None, None, None
-            try:
-                variable_json = json.loads(variable_response)
-                if "result" in variable_json:
-                    raw_result = str(variable_json["result"])
-                    result = raw_result.replace(",", "")
-                else:
-                    result = 'failed to get result from openai'
-                if "confidence level" in variable_json:
-                    confidence_level = variable_json["confidence level"]
-                if "confidence_level" in variable_json:
-                    confidence_level = variable_json["confidence_level"]
-                if "evidence" in variable_json:
-                    evidence = variable_json["evidence"]
-            except:
-                st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
-            st.write(f"AI labeling result: {result}")
-            st.write(f"evidence: {evidence}")
-            st.write(f"confidence level: {confidence_level}")
-            st.write(f"page number from AI: not support yet")
-            submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
-            if submit_ai_labeling_form:
-                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = result
-                pdf_csv.to_csv(pdf_csv_path, index=False)
+        query = chain_json[variable_selection]
+        variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
+        logging.info(variable_response)
+        submit_ai_label(variable_response, variable_selection)
         manual_labeling_area(variable_selection)
+
 
 if doc_id_selection:
     logging.info("doc id selected")
