@@ -54,8 +54,6 @@ def get_answer(knowledge_base, query, model):
 
 
 def chat_with_pdf(pdf_file_path, query):
-    if os.environ["OPENAI_ENABLED"] != 'enabled':
-        return random.randint(0, 100)
     if pdf_file_path:
         knowledge_base = pdf_to_text(pdf_file_path)
         if query:
