@@ -161,6 +161,7 @@ doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, on_change=n
 col1, col2 = st.columns(2)
 
 
+@st.fragment
 def submit_ai_label(variable_selection, result):
     with st.form("ai labeling form"):
         st.subheader("AI Labeling")
@@ -185,7 +186,6 @@ def submit_ai_label(variable_selection, result):
             pdf_csv.to_csv(pdf_csv_path)
     current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
     st.write(current_pdf_csv.loc[doc_id_selection])
-    # st.write(current_pdf_csv.loc[[doc_id_selection]])
 
 
 
@@ -303,6 +303,6 @@ if doc_id_selection:
                 render_text=enable_text,
                 resolution_boost=resolution_boost
             )
-        with col2:
             summary_area(summary, height)
+        with col2:
             labeling_area()
