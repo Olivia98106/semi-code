@@ -13,7 +13,6 @@ import logging
 import util
 
 logging.basicConfig(level=logging.INFO)
-
 dotenv.load_dotenv(override=True)
 
 variable_select_box_key = 'variable_select_box_key'
@@ -153,8 +152,8 @@ with open('resources/chain.json') as f:
     chain_json = json.load(f)
     variables = [k for k in chain_json if k != 'summary']
 pdf_csv_path = 'resources/A2.csv'
-pdf_csv = pd.read_csv(pdf_csv_path)
-doc_ids = pdf_csv['DOC_ID'].to_list()
+pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
+doc_ids = pdf_csv.index.to_list()
 
 
 st.title("PDF Viewer and Summary")
@@ -163,26 +162,41 @@ col1, col2 = st.columns(2)
 
 
 @st.fragment
-def manual_labeling_area(variable_selection):
-    others = "others"
-    st.subheader("Manual labeling area")
-    st.write(f"Manual labeling area for: {variable_selection}")
+def submit_ai_label(variable_selection, result):
+    with st.form("ai labeling form"):
+        st.subheader("AI Labeling")
+        st.write(f"set variable {variable_selection} to {result}")
+        submit_ai = st.form_submit_button("Apply AI variable", )
+        if submit_ai:
+            pdf_csv.loc[doc_id_selection, variable_selection] = result
+            pdf_csv.to_csv(pdf_csv_path)
+
     with st.form("Manual labeling form"):
+        others = "others"
+        st.subheader("Manual Labeling")
         manual_variable_selection = st.selectbox("Label:", [others] + list(set(pdf_csv[variable_selection])), index=0)
         manual_variable_input = st.text_input("input variable value")
-        submit_manual_labeling_form = st.form_submit_button("Apply manual variable")
-        if submit_manual_labeling_form:
-            if manual_variable_selection == others:
-                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = manual_variable_input
-            else:
-                pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = manual_variable_selection
-            pdf_csv.to_csv(pdf_csv_path, index=False)
-    return
+        if manual_variable_selection == others:
+            manual_result = manual_variable_input
+        else:
+            manual_result = manual_variable_selection
+        submit_manual = st.form_submit_button("Apply manual variable")
+        if submit_manual:
+            pdf_csv.loc[doc_id_selection, variable_selection] = manual_result
+            pdf_csv.to_csv(pdf_csv_path)
+    current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
+    st.write(current_pdf_csv.loc[[doc_id_selection]])
 
 
-def submit_ai_label(variable_response, variable_selection):
-    with st.form("ai labeling form"):
-        st.write(f"AI labeling area for: {variable_selection}")
+
+@st.fragment
+def labeling_area():
+    st.subheader("AI labeling area")
+    variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
+    if variable_selection:
+        query = chain_json[variable_selection]
+        variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
+        logging.info(variable_response)
         variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
         result, confidence_level, evidence = None, None, None
         try:
@@ -200,26 +214,17 @@ def submit_ai_label(variable_response, variable_selection):
                 evidence = variable_json["evidence"]
         except:
             st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
-        st.write(f"AI labeling result: {result}")
+        st.write(f"result: {result}")
         st.write(f"evidence: {evidence}")
         st.write(f"confidence level: {confidence_level}")
         st.write(f"page number from AI: not support yet")
-        submit_ai_labeling_form = st.form_submit_button("Apply AI variable")
-        if submit_ai_labeling_form:
-            pdf_csv.loc[doc_ids.index(doc_id_selection) + 1, variable_selection] = result
-            pdf_csv.to_csv(pdf_csv_path, index=False)
-
+        submit_ai_label(variable_selection, result)
 
 
 @st.fragment
-def labeling_area():
-    variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
-    if variable_selection:
-        query = chain_json[variable_selection]
-        variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
-        logging.info(variable_response)
-        submit_ai_label(variable_response, variable_selection)
-        manual_labeling_area(variable_selection)
+def summary_area(summary, height):
+    st.text_area(f"Summary of {doc_id_selection}: ", summary, int(height/2))
+
 
 
 if doc_id_selection:
@@ -299,7 +304,6 @@ if doc_id_selection:
                 resolution_boost=resolution_boost
             )
         with col2:
-            st.subheader(f"Summary of {doc_id_selection}: ")
-            st.write(summary)
-            st.subheader("AI labeling area")
+            summary_area(summary, height)
+
             labeling_area()
