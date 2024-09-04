@@ -170,7 +170,11 @@ def submit_ai_label(variable_selection, result):
         if submit_ai:
             pdf_csv.loc[doc_id_selection, variable_selection] = result
             pdf_csv.to_csv(pdf_csv_path)
+    submit_manual_label(variable_selection)
 
+
+@st.fragment
+def submit_manual_label(variable_selection):
     with st.form("Manual labeling form"):
         others = "others"
         st.subheader("Manual Labeling")
@@ -186,7 +190,6 @@ def submit_ai_label(variable_selection, result):
             pdf_csv.to_csv(pdf_csv_path)
     current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
     st.write(current_pdf_csv.loc[doc_id_selection])
-
 
 
 @st.fragment
