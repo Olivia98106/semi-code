@@ -22,13 +22,6 @@ if 'doc_id' not in st.session_state:
 if 'hash' not in st.session_state:
     st.session_state['hash'] = None
 
-if 'git_rev' not in st.session_state:
-    st.session_state['git_rev'] = "unknown"
-    if os.path.exists("revision.txt"):
-        with open("revision.txt", 'r') as fr:
-            from_file = fr.read()
-            st.session_state['git_rev'] = from_file if len(from_file) > 0 else "unknown"
-
 if 'uploaded' not in st.session_state:
     st.session_state['uploaded'] = False
 
@@ -48,22 +41,8 @@ st.set_page_config(
     page_title="PDF Viewer and Summary",
     page_icon="",
     initial_sidebar_state="expanded",
-    layout="wide",
-    menu_items={
-        'Get Help': 'https://github.com/lfoppiano/pdf-struct',
-        'Report a bug': "https://github.com/lfoppiano/pdf-struct/issues",
-        'About': "View the structures extracted by Grobid."
-    }
+    layout="wide"
 )
-
-# from glob import glob
-# import streamlit as st
-#
-# paths = glob("/Users/lfoppiano/kDrive/library/articles/materials informatics/polymers/*.pdf")
-# for id, (tab,path) in enumerate(zip(st.tabs(paths),paths)):
-#     with tab:
-#         with st.container(height=600):
-#             pdf_viewer(path, width=500, render_text=True)
 
 
 with st.sidebar:
@@ -90,7 +69,7 @@ with st.sidebar:
 
     st.header("Height and width")
     resolution_boost = st.slider(label="Resolution boost", min_value=1, max_value=10, value=1)
-    width = st.slider(label="PDF width", min_value=100, max_value=1000, value=1000)
+    width = st.slider(label="PDF width", min_value=100, max_value=2000, value=2000)
     height = st.slider(label="PDF height", min_value=100, max_value=1000, value=1000)
 
     st.header("Page Selection")
@@ -105,15 +84,6 @@ with st.sidebar:
             disabled=not st.session_state['pages'],
             key=1
         )
-
-    st.header("Documentation")
-    st.markdown("https://github.com/lfoppiano/structure-vision")
-    st.markdown(
-        """Upload a scientific article as PDF document and see the structures that are extracted by Grobid""")
-
-    if st.session_state['git_rev'] != "unknown":
-        st.markdown("**Revision number**: [" + st.session_state[
-            'git_rev'] + "](https://github.com/lfoppiano/structure-vision/commit/" + st.session_state['git_rev'] + ")")
 
 
 def new_file():
@@ -152,7 +122,9 @@ with open('resources/chain.json') as f:
     chain_json = json.load(f)
     variables = [k for k in chain_json if k != 'summary']
 pdf_csv_path = 'resources/A2.csv'
-pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
+pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
+log_csv_path = 'resources/A2_log.csv'
+log_csv = pd.read_csv(log_csv_path, index_col='DOC_ID', sep='\t')
 doc_ids = pdf_csv.index.to_list()
 
 
@@ -162,43 +134,15 @@ col1, col2 = st.columns(2)
 
 
 @st.fragment
-def submit_ai_label(variable_selection, result):
-    with st.form("ai labeling form"):
-        st.subheader("AI Labeling")
-        st.write(f"set variable {variable_selection} to {result}")
-        submit_ai = st.form_submit_button("Apply AI variable", )
-        if submit_ai:
-            pdf_csv.loc[doc_id_selection, variable_selection] = result
-            pdf_csv.to_csv(pdf_csv_path)
-    submit_manual_label(variable_selection)
-
-
-@st.fragment
-def submit_manual_label(variable_selection):
-    with st.form("Manual labeling form"):
-        others = "others"
-        st.subheader("Manual Labeling")
-        manual_variable_selection = st.selectbox("Label:", [others] + list(set(pdf_csv[variable_selection])), index=0)
-        manual_variable_input = st.text_input("input variable value")
-        if manual_variable_selection == others:
-            manual_result = manual_variable_input
-        else:
-            manual_result = manual_variable_selection
-        submit_manual = st.form_submit_button("Apply manual variable")
-        if submit_manual:
-            pdf_csv.loc[doc_id_selection, variable_selection] = manual_result
-            pdf_csv.to_csv(pdf_csv_path)
-    current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID')
-    st.write(current_pdf_csv.loc[doc_id_selection])
-
-
-@st.fragment
-def labeling_area():
+def labeling_area(pdf_csv, log_csv):
+    pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
+    log_csv = pd.read_csv(log_csv_path, index_col='DOC_ID', sep='\t')
     st.subheader("AI labeling area")
     variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
     if variable_selection:
         query = chain_json[variable_selection]
-        variable_response = str(openai_service.chat_with_pdf(pdf_path, util.query_add_md(query)))
+        query = util.query_add_md(query)
+        variable_response = str(openai_service.chat_with_pdf(pdf_path, query))
         logging.info(variable_response)
         variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
         result, confidence_level, evidence = None, None, None
@@ -206,7 +150,7 @@ def labeling_area():
             variable_json = json.loads(variable_response)
             if "result" in variable_json:
                 raw_result = str(variable_json["result"])
-                result = raw_result.replace(",", "")
+                result = raw_result.replace("\t", "")
             else:
                 result = 'failed to get result from openai'
             if "confidence level" in variable_json:
@@ -217,11 +161,46 @@ def labeling_area():
                 evidence = variable_json["evidence"]
         except:
             st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
-        st.write(f"result: {result}")
-        st.write(f"evidence: {evidence}")
-        st.write(f"confidence level: {confidence_level}")
-        st.write(f"page number from AI: not support yet")
-        submit_ai_label(variable_selection, result)
+        st.write(f"Result from AI: {result}")
+        st.write(f"Evidence: {evidence}")
+        st.write(f"Confidence level: {confidence_level}")
+        st.write(f"Page number from AI: not support yet")
+        submit_ai = st.button("Apply AI variable", )
+        if submit_ai:
+            pdf_csv.loc[doc_id_selection, variable_selection] = result
+            pdf_csv.to_csv(pdf_csv_path, sep='\t')
+            log = {'AI_label': result, 'prompts_version': query, 'human_label': 'nan'}
+            log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
+            log_csv.to_csv(log_csv_path, sep='\t')
+
+        st.subheader("Manual labeling area")
+        select_existed_label = 'select existed label'
+        input_label_manually = 'input label manually'
+        use_existed_label = st.radio("Input label style", [input_label_manually, select_existed_label], index=0)
+        if use_existed_label == select_existed_label:
+            with st.form("select existed label"):
+                value = st.selectbox("Select label:", list(set(pdf_csv[variable_selection])), index=None)
+                submitted = st.form_submit_button("Apply manual variable")
+                if submitted:
+                    pdf_csv.loc[doc_id_selection, variable_selection] = value
+                    pdf_csv.to_csv(pdf_csv_path, sep='\t')
+                    log = {'AI_label': result, 'prompts_version': query, 'human_label': value}
+                    log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
+                    log_csv.to_csv(log_csv_path, sep='\t')
+        else:
+            with st.form("input form"):
+                manual_variable_input = st.text_input("Input label:")
+                submitted = st.form_submit_button("Apply input variable")
+                if submitted:
+                    pdf_csv.loc[doc_id_selection, variable_selection] = manual_variable_input
+                    pdf_csv.to_csv(pdf_csv_path, sep='\t')
+                    log = {'AI_label': result, 'prompts_version': query, 'human_label': manual_variable_input}
+                    log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
+                    log_csv.to_csv(log_csv_path, sep='\t')
+
+        current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
+        st.write(current_pdf_csv.loc[doc_id_selection])
+
 
 
 @st.fragment
@@ -308,4 +287,4 @@ if doc_id_selection:
             )
             summary_area(summary, height)
         with col2:
-            labeling_area()
+            labeling_area(pdf_csv, log_csv)
