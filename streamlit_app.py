@@ -11,6 +11,7 @@ import json
 import streamlit as st
 import logging
 import util
+import sqlalchemy
 
 logging.basicConfig(level=logging.INFO)
 dotenv.load_dotenv(override=True)
@@ -118,29 +119,25 @@ def get_file_hash(fname):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
 
-with open('resources/chain.json') as f:
-    chain_json = json.load(f)
-    variables = [k for k in chain_json if k != 'summary']
-pdf_csv_path = 'resources/A2.csv'
-pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
-log_csv_path = 'resources/A2_log.csv'
-log_csv = pd.read_csv(log_csv_path, index_col='DOC_ID', sep='\t')
-doc_ids = pdf_csv.index.to_list()
+summary_prompt = "Please provide a summary of the research article focusing on the following aspects, using original phrases about time and unit of analysis from article if possible:\n- Research Method: Describe the overall research method employed in the study, also the data collection procedure and duration, time intervals\n- Time relevant details: state the data collection procedure and duration, time intervals of data collection between times. Usually research variables are collected each time.\n- Sampling Method and Entity Type: Explain the sampling method used and specify the type of entities (e.g., individuals, organizations) involved. Here, entity refers to an unit of analysis, or termed as analysis level, granuality or resolution. \n- Statistical Model: Outline the statistical model applied for analysis. DO NOT USE conceptual model name here.\n- Unit of Analysis: Identify the unit of analysis used in the statistical model.\n- Number of entities or Sample Size: the table and results parts ususally reveal the number of analysis unit.Analysis model details in figure and table are good references."
+conn = st.connection('sqlite.db', type='sql', url='sqlite:///resources/sqlite.db')
+chain = conn.query('select * from chain')
+chain_dict = dict(zip(chain['variable'], chain['prompt']))
 
+pdfs = conn.query('select * from pdf')
+pdf_dict = dict(zip(pdfs['doc_id'], pdfs['filename']))
 
 st.title("PDF Viewer and Summary")
-doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, on_change=new_file())
+doc_id_selection = st.selectbox("Choose a PDF", pdf_dict.keys(), index=None, on_change=new_file())
 col1, col2 = st.columns(2)
 
 
 @st.fragment
-def labeling_area(pdf_csv, log_csv):
-    pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
-    log_csv = pd.read_csv(log_csv_path, index_col='DOC_ID', sep='\t')
+def labeling_area():
     st.subheader("AI labeling area")
-    variable_selection = st.selectbox("Select a Variable:", variables, index=None, key=variable_select_box_key)
+    variable_selection = st.selectbox("Select a Variable:", chain_dict.keys(), index=None, key=variable_select_box_key)
     if variable_selection:
-        query = chain_json[variable_selection]
+        query = chain_dict[variable_selection]
         query = util.query_add_md(query)
         variable_response = str(openai_service.chat_with_pdf(pdf_path, query))
         logging.info(variable_response)
@@ -167,11 +164,16 @@ def labeling_area(pdf_csv, log_csv):
         st.write(f"Page number from AI: not support yet")
         submit_ai = st.button("Apply AI variable", )
         if submit_ai:
-            pdf_csv.loc[doc_id_selection, variable_selection] = result
-            pdf_csv.to_csv(pdf_csv_path, sep='\t')
-            log = {'AI_label': result, 'prompts_version': query, 'human_label': 'nan'}
-            log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
-            log_csv.to_csv(log_csv_path, sep='\t')
+            with conn.session as s:
+                sql = sqlalchemy.sql.text('insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                       'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+                s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                           variable=variable_selection,
+                                           label=result,
+                                           ai_label=result,
+                                           manual_label="",
+                                           prompt_version=query))
+                s.commit()
 
         st.subheader("Manual labeling area")
         select_existed_label = 'select existed label'
@@ -179,27 +181,40 @@ def labeling_area(pdf_csv, log_csv):
         use_existed_label = st.radio("Input label style", [input_label_manually, select_existed_label], index=0)
         if use_existed_label == select_existed_label:
             with st.form("select existed label"):
-                value = st.selectbox("Select label:", list(set(pdf_csv[variable_selection])), index=None)
+                existed = conn.query(f"select label from label where variable = '{variable_selection}'")
+                existed_label_value = st.selectbox("Select label:", existed['label'].to_list(), index=None)
                 submitted = st.form_submit_button("Apply manual variable")
                 if submitted:
-                    pdf_csv.loc[doc_id_selection, variable_selection] = value
-                    pdf_csv.to_csv(pdf_csv_path, sep='\t')
-                    log = {'AI_label': result, 'prompts_version': query, 'human_label': value}
-                    log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
-                    log_csv.to_csv(log_csv_path, sep='\t')
+                    with conn.session as s:
+                        sql = sqlalchemy.sql.text(
+                            'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                            'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+                        s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                                   variable=variable_selection,
+                                                   label=existed_label_value,
+                                                   ai_label=result,
+                                                   manual_label=existed_label_value,
+                                                   prompt_version=query))
+                        s.commit()
         else:
             with st.form("input form"):
                 manual_variable_input = st.text_input("Input label:")
                 submitted = st.form_submit_button("Apply input variable")
                 if submitted:
-                    pdf_csv.loc[doc_id_selection, variable_selection] = manual_variable_input
-                    pdf_csv.to_csv(pdf_csv_path, sep='\t')
-                    log = {'AI_label': result, 'prompts_version': query, 'human_label': manual_variable_input}
-                    log_csv.loc[doc_id_selection, variable_selection] = json.dumps(log)
-                    log_csv.to_csv(log_csv_path, sep='\t')
+                    with conn.session as s:
+                        sql = sqlalchemy.sql.text(
+                            'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                            'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+                        s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                                   variable=variable_selection,
+                                                   label=manual_variable_input,
+                                                   ai_label=result,
+                                                   manual_label=manual_variable_input,
+                                                   prompt_version=query))
+                        s.commit()
 
-        current_pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
-        st.write(current_pdf_csv.loc[doc_id_selection])
+        current_pdf_csv = conn.query("select * from label")
+        st.write(current_pdf_csv)
 
 
 
@@ -210,10 +225,9 @@ def summary_area(summary, height):
 
 
 if doc_id_selection:
-    logging.info("doc id selected")
-    filename = pdf_csv['Filename'][doc_ids.index(doc_id_selection)]
+    filename = pdf_dict[doc_id_selection]
     pdf_path = os.path.join('resources/pdf', filename)
-    summary = openai_service.chat_with_pdf(pdf_path, chain_json['summary'])
+    summary = openai_service.chat_with_pdf(pdf_path, summary_prompt)
     if not st.session_state['binary']:
         with (st.spinner('Reading file, calling Grobid...')):
             with open(pdf_path, 'rb') as f:
@@ -287,4 +301,4 @@ if doc_id_selection:
             )
             summary_area(summary, height)
         with col2:
-            labeling_area(pdf_csv, log_csv)
+            labeling_area()
