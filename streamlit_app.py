@@ -121,15 +121,95 @@ def get_file_hash(fname):
 
 summary_prompt = "Please provide a summary of the research article focusing on the following aspects, using original phrases about time and unit of analysis from article if possible:\n- Research Method: Describe the overall research method employed in the study, also the data collection procedure and duration, time intervals\n- Time relevant details: state the data collection procedure and duration, time intervals of data collection between times. Usually research variables are collected each time.\n- Sampling Method and Entity Type: Explain the sampling method used and specify the type of entities (e.g., individuals, organizations) involved. Here, entity refers to an unit of analysis, or termed as analysis level, granuality or resolution. \n- Statistical Model: Outline the statistical model applied for analysis. DO NOT USE conceptual model name here.\n- Unit of Analysis: Identify the unit of analysis used in the statistical model.\n- Number of entities or Sample Size: the table and results parts ususally reveal the number of analysis unit.Analysis model details in figure and table are good references."
 conn = st.connection('sqlite.db', type='sql', url='sqlite:///resources/sqlite.db')
-chain = conn.query('select * from chain')
+chain = conn.query('select * from chain', ttl=0)
 chain_dict = dict(zip(chain['variable'], chain['prompt']))
 
-pdfs = conn.query('select * from pdf')
+pdfs = conn.query('select * from pdf', ttl=0)
 pdf_dict = dict(zip(pdfs['doc_id'], pdfs['filename']))
 
 st.title("PDF Viewer and Summary")
 doc_id_selection = st.selectbox("Choose a PDF", pdf_dict.keys(), index=None, on_change=new_file())
 col1, col2 = st.columns(2)
+
+@st.fragment
+def submit_label():
+    variable_selection = st.session_state['variable_selection']
+    variable_response = st.session_state['variable_response']
+    variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
+    result, confidence_level, evidence = None, None, None
+    try:
+        variable_json = json.loads(variable_response)
+        if "result" in variable_json:
+            raw_result = str(variable_json["result"])
+            result = raw_result.replace("\t", "")
+        else:
+            result = 'failed to get result from openai'
+        if "confidence level" in variable_json:
+            confidence_level = variable_json["confidence level"]
+        if "confidence_level" in variable_json:
+            confidence_level = variable_json["confidence_level"]
+        if "evidence" in variable_json:
+            evidence = variable_json["evidence"]
+    except:
+        st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
+    st.write(f"Result from AI: {result}")
+    st.write(f"Evidence: {evidence}")
+    st.write(f"Confidence level: {confidence_level}")
+    st.write(f"Page number from AI: not support yet")
+    submit_ai = st.button("Apply AI variable", )
+    if submit_ai:
+        with conn.session as s:
+            sql = sqlalchemy.sql.text(
+                'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+            s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                       variable=variable_selection,
+                                       label=result,
+                                       ai_label=result,
+                                       manual_label="",
+                                       prompt_version="prompt version"))
+            s.commit()
+
+    st.subheader("Manual labeling area")
+    select_existed_label = 'select existed label'
+    input_label_manually = 'input label manually'
+    use_existed_label = st.radio("Input label style", [input_label_manually, select_existed_label], index=0)
+    if use_existed_label == select_existed_label:
+        with st.form("select existed label"):
+            existed = conn.query(f"select label from label where variable = '{variable_selection}'", ttl=0)
+            existed_label_value = st.selectbox("Select label:", existed['label'].to_list(), index=None)
+            submitted = st.form_submit_button("Apply manual variable")
+            if submitted:
+                with conn.session as s:
+                    sql = sqlalchemy.sql.text(
+                        'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                        'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+                    s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                               variable=variable_selection,
+                                               label=existed_label_value,
+                                               ai_label=result,
+                                               manual_label=existed_label_value,
+                                               prompt_version="prompt version"))
+                    s.commit()
+    else:
+        with st.form("input form"):
+            manual_variable_input = st.text_input("Input label:")
+            submitted = st.form_submit_button("Apply input variable")
+            if submitted:
+                with conn.session as s:
+                    sql = sqlalchemy.sql.text(
+                        'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
+                        'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
+                    s.execute(sql, params=dict(doc_id=doc_id_selection,
+                                               variable=variable_selection,
+                                               label=manual_variable_input,
+                                               ai_label=result,
+                                               manual_label=manual_variable_input,
+                                               prompt_version="prompt version"))
+                    s.commit()
+
+    current_pdf_csv = conn.query("select doc_id, variable, label from label", ttl=0)
+    st.write(current_pdf_csv)
 
 
 @st.fragment
@@ -141,80 +221,10 @@ def labeling_area():
         query = util.query_add_md(query)
         variable_response = str(openai_service.chat_with_pdf(pdf_path, query))
         logging.info(variable_response)
-        variable_response = variable_response[variable_response.find("{"): variable_response.rfind("}") + 1]
-        result, confidence_level, evidence = None, None, None
-        try:
-            variable_json = json.loads(variable_response)
-            if "result" in variable_json:
-                raw_result = str(variable_json["result"])
-                result = raw_result.replace("\t", "")
-            else:
-                result = 'failed to get result from openai'
-            if "confidence level" in variable_json:
-                confidence_level = variable_json["confidence level"]
-            if "confidence_level" in variable_json:
-                confidence_level = variable_json["confidence_level"]
-            if "evidence" in variable_json:
-                evidence = variable_json["evidence"]
-        except:
-            st.write(f"Failed to parse json. Print raw json: \n{variable_response}")
-        st.write(f"Result from AI: {result}")
-        st.write(f"Evidence: {evidence}")
-        st.write(f"Confidence level: {confidence_level}")
-        st.write(f"Page number from AI: not support yet")
-        submit_ai = st.button("Apply AI variable", )
-        if submit_ai:
-            with conn.session as s:
-                sql = sqlalchemy.sql.text('insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
-                       'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-                s.execute(sql, params=dict(doc_id=doc_id_selection,
-                                           variable=variable_selection,
-                                           label=result,
-                                           ai_label=result,
-                                           manual_label="",
-                                           prompt_version=query))
-                s.commit()
+        st.session_state['variable_response'] = variable_response
+        st.session_state['variable_selection'] = variable_selection
+        submit_label()
 
-        st.subheader("Manual labeling area")
-        select_existed_label = 'select existed label'
-        input_label_manually = 'input label manually'
-        use_existed_label = st.radio("Input label style", [input_label_manually, select_existed_label], index=0)
-        if use_existed_label == select_existed_label:
-            with st.form("select existed label"):
-                existed = conn.query(f"select label from label where variable = '{variable_selection}'")
-                existed_label_value = st.selectbox("Select label:", existed['label'].to_list(), index=None)
-                submitted = st.form_submit_button("Apply manual variable")
-                if submitted:
-                    with conn.session as s:
-                        sql = sqlalchemy.sql.text(
-                            'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
-                            'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-                        s.execute(sql, params=dict(doc_id=doc_id_selection,
-                                                   variable=variable_selection,
-                                                   label=existed_label_value,
-                                                   ai_label=result,
-                                                   manual_label=existed_label_value,
-                                                   prompt_version=query))
-                        s.commit()
-        else:
-            with st.form("input form"):
-                manual_variable_input = st.text_input("Input label:")
-                submitted = st.form_submit_button("Apply input variable")
-                if submitted:
-                    with conn.session as s:
-                        sql = sqlalchemy.sql.text(
-                            'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
-                            'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-                        s.execute(sql, params=dict(doc_id=doc_id_selection,
-                                                   variable=variable_selection,
-                                                   label=manual_variable_input,
-                                                   ai_label=result,
-                                                   manual_label=manual_variable_input,
-                                                   prompt_version=query))
-                        s.commit()
-
-        current_pdf_csv = conn.query("select * from label")
-        st.write(current_pdf_csv)
 
 
 
