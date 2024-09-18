@@ -87,3 +87,5 @@ class GrobidProcessor:
 
         return pages
 
+    def process_pdf_to_xml(self, input_path, output_path):
+        self.grobid_client.process("processFulltextDocument", input_path, output_path)

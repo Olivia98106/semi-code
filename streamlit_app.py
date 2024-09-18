@@ -132,6 +132,20 @@ doc_id_selection = st.selectbox("Choose a PDF", pdf_dict.keys(), index=None, on_
 col1, col2 = st.columns(2)
 
 @st.fragment
+def export_pdf_body():
+    init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
+    filename = pdf_dict[doc_id_selection]
+    filename = filename[:-4]
+    logging.info(f"export pdf body {filename}")
+    with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
+        btn = st.download_button(
+            label="Download PDF Body Content",
+            data=file,
+            file_name=f"{filename}.grobid.tei.xml",
+            mime="text/xml",
+        )
+
+@st.fragment
 def submit_label():
     variable_selection = st.session_state['variable_selection']
     variable_response = st.session_state['variable_response']
@@ -207,7 +221,6 @@ def submit_label():
                                                manual_label=manual_variable_input,
                                                prompt_version="prompt version"))
                     s.commit()
-
     current_pdf_csv = conn.query("select doc_id, variable, label from label", ttl=0)
     st.write(current_pdf_csv)
 
@@ -226,13 +239,9 @@ def labeling_area():
         submit_label()
 
 
-
-
 @st.fragment
 def summary_area(summary, height):
     st.text_area(f"Summary of {doc_id_selection}: ", summary, int(height/2))
-
-
 
 if doc_id_selection:
     filename = pdf_dict[doc_id_selection]
@@ -311,4 +320,5 @@ if doc_id_selection:
             )
             summary_area(summary, height)
         with col2:
+            export_pdf_body()
             labeling_area()
