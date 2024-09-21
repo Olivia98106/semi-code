@@ -148,7 +148,7 @@ def export_pdf_body():
 
 @st.fragment
 def export_pdf_selected_content():
-    init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
+    # init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
     filename = pdf_dict[st.session_state['doc_id_selection']]
     filename = filename[:-4]
     logging.info(f"export pdf select content {filename}")
