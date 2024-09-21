@@ -130,8 +130,8 @@ pdf_dict = dict(zip(pdfs['doc_id'], pdfs['filename']))
 st.title("PDF Semantic Search")
 
 col1, col2 = st.columns(2)
-doc_id_reference_dict = {}
-reference_text = ''
+doc_id_df = []
+reference_df = []
 with col1:
     input_keyword = st.text_input("Please input your keyword(e.g. within-subject experiment, time phrases)", key = 'input_keyword')
     keyword_button = st.button("OK")
@@ -145,21 +145,20 @@ with col1:
 
             try:
                 response_json = json.loads(response)
-                reference_list = []
                 for j in response_json:
                     ref = j['reference']
-                    reference_list.append(ref)
-                    reference_text = reference_text + f'#{ref} ({doc_id})\n\n'
-                doc_id_reference_dict[doc_id] = reference_list
+                    doc_id_df.append(doc_id)
+                    reference_df.append(ref)
             except:
-                doc_id_reference_dict[doc_id] = [response]
+                pass
+
         st.write(f"Notes about {input_keyword}:")
-        st.write(reference_text)
+        st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
 
 
 @st.fragment
 def select_doc():
-    doc_id_selection = st.selectbox("Choose a PDF", doc_id_reference_dict.keys(), index=None, on_change=new_file(),
+    doc_id_selection = st.selectbox("Choose a PDF", list(set(doc_id_df)), index=None, on_change=new_file(),
                                     key="doc_id_selection")
     if doc_id_selection:
         filename = pdf_dict[st.session_state['doc_id_selection']]
