@@ -12,6 +12,7 @@ import streamlit as st
 import logging
 import util
 import sqlalchemy
+from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO)
 dotenv.load_dotenv(override=True)
@@ -136,13 +137,48 @@ def export_pdf_body():
     init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
     filename = pdf_dict[st.session_state['doc_id_selection']]
     filename = filename[:-4]
-    logging.info(f"export pdf body {filename}")
+    logging.info(f"export pdf xml {filename}")
     with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
         st.download_button(
             label="Download PDF Content as XML",
             data=file,
             file_name=f"{filename}.grobid.tei.xml",
             mime="text/xml",
+        )
+
+@st.fragment
+def export_pdf_selected_content():
+    init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
+    filename = pdf_dict[st.session_state['doc_id_selection']]
+    filename = filename[:-4]
+    logging.info(f"export pdf select content {filename}")
+    with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
+        soup = BeautifulSoup(file, features="xml")
+        selected_content = {}
+        if highlight_sentences or highlight_paragraphs:
+            selected_content['paragraphs'] = []
+            for paragraph in soup.find_all('p'):
+                selected_content['paragraphs'].append(paragraph.text)
+        if highlight_title:
+            selected_content['title'] = [soup.title.text]
+        if highlight_person_names:
+            selected_content['person_names'] = []
+            for persName in soup.find_all('persName'):
+                pn = ''
+                for name in persName.children:
+                    pn = pn + name.text + " "
+                selected_content['person_names'].append(pn)
+        if highlight_figures:
+            selected_content['figures'] = []
+        for figure in soup.find_all('figure'):
+            if figure.head:
+                selected_content['figures'].append(figure.head.text)
+
+        st.download_button(
+            label="Download Selected Content as JSON",
+            data=json.dumps(selected_content),
+            file_name=f"{filename}.json",
+            mime="application/json",
         )
 
 @st.fragment
@@ -334,5 +370,6 @@ if doc_id_selection:
             summary_area(summary, height)
         with col2:
             export_pdf_body()
+            export_pdf_selected_content()
             export_label_csv()
             labeling_area()
