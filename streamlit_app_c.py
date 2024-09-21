@@ -3,6 +3,7 @@ from hashlib import blake2b
 from tempfile import NamedTemporaryFile
 import pandas as pd
 import dotenv
+from exceptiongroup import catch
 from grobid_client.grobid_client import GrobidClient
 from streamlit_pdf_viewer import pdf_viewer
 from grobid.grobid_processor import GrobidProcessor
@@ -11,6 +12,7 @@ import json
 import streamlit as st
 import logging
 import util
+import sqlalchemy
 
 logging.basicConfig(level=logging.INFO)
 dotenv.load_dotenv(override=True)
@@ -38,7 +40,7 @@ if 'page_selection' not in st.session_state:
     st.session_state['page_selection'] = []
 
 st.set_page_config(
-    page_title="PDF Viewer and Summary",
+    page_title="PDF Semantic Search",
     page_icon="",
     initial_sidebar_state="expanded",
     layout="wide"
@@ -118,34 +120,50 @@ def get_file_hash(fname):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
 
-with open('resources/chain.json') as f:
-    chain_json = json.load(f)
-    variables = [k for k in chain_json if k != 'summary']
-pdf_csv_path = 'resources/A2.csv'
-pdf_csv = pd.read_csv(pdf_csv_path, index_col='DOC_ID', sep='\t')
-log_csv_path = 'resources/A2_log.csv'
-log_csv = pd.read_csv(log_csv_path, index_col='DOC_ID', sep='\t')
-doc_ids = pdf_csv.index.to_list()
+conn = st.connection('sqlite.db', type='sql', url='sqlite:///resources/sqlite.db')
+chain = conn.query('select * from chain', ttl=0)
+chain_dict = dict(zip(chain['variable'], chain['prompt']))
 
+pdfs = conn.query('select * from pdf', ttl=0)
+pdf_dict = dict(zip(pdfs['doc_id'], pdfs['filename']))
 
+st.title("PDF Semantic Search")
 
-st.title("PDF Viewer and Summary")
 col1, col2 = st.columns(2)
-
+doc_id_reference_dict = {}
+reference_text = ''
 with col1:
-    with st.form("Private document indexing"):
-        kw = st.text_input("Keywords")
-        button = st.form_submit_button("OK")
-        if button:
-            pass
+    input_keyword = st.text_input("Please input your keyword(e.g. within-subject experiment, time phrases)", key = 'input_keyword')
+    keyword_button = st.button("OK")
+    if keyword_button and len(input_keyword) > 0:
+        for doc_id in pdf_dict.keys():
+            filename = pdf_dict[doc_id]
+            query = f"What are the {input_keyword} in the article? Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
+            response = openai_service.chat_with_pdf(os.path.join('resources/pdf', filename), query)
+            logging.info(response)
+            response = response[response.find("["): response.rfind("]") + 1]
 
-with col2:
-    doc_id_selection = st.selectbox("Choose a PDF", doc_ids, index=None, on_change=new_file())
+            try:
+                response_json = json.loads(response)
+                reference_list = []
+                for j in response_json:
+                    ref = j['reference']
+                    reference_list.append(ref)
+                    reference_text = reference_text + f'#{ref} ({doc_id})\n\n'
+                doc_id_reference_dict[doc_id] = reference_list
+            except:
+                doc_id_reference_dict[doc_id] = [response]
+        st.write(f"Notes about {input_keyword}:")
+        st.write(reference_text)
+
+
+@st.fragment
+def select_doc():
+    doc_id_selection = st.selectbox("Choose a PDF", doc_id_reference_dict.keys(), index=None, on_change=new_file(),
+                                    key="doc_id_selection")
     if doc_id_selection:
-        logging.info("doc id selected")
-        filename = pdf_csv['Filename'][doc_ids.index(doc_id_selection)]
+        filename = pdf_dict[st.session_state['doc_id_selection']]
         pdf_path = os.path.join('resources/pdf', filename)
-        summary = openai_service.chat_with_pdf(pdf_path, chain_json['summary'])
         if not st.session_state['binary']:
             with (st.spinner('Reading file, calling Grobid...')):
                 with open(pdf_path, 'rb') as f:
@@ -160,15 +178,15 @@ with col2:
                             'annotations']
                     st.session_state['pages'] = pages if not st.session_state['pages'] else st.session_state['pages']
 
-        if st.session_state['pages']:
-            st.session_state['page_selection'] = placeholder.multiselect(
-                "Select pages to display",
-                options=list(range(1, st.session_state['pages'])),
-                default=[],
-                help="The page number considered is the PDF number and not the document page number.",
-                disabled=not st.session_state['pages'],
-                key=2
-            )
+        # if st.session_state['pages']:
+        #     st.session_state['page_selection'] = placeholder.multiselect(
+        #         "Select pages to display",
+        #         options=list(range(1, st.session_state['pages'])),
+        #         default=[],
+        #         help="The page number considered is the PDF number and not the document page number.",
+        #         disabled=not st.session_state['pages'],
+        #         key=2
+        #     )
 
         with (st.spinner("Rendering PDF document")):
             annotations = st.session_state['annotations']
@@ -205,7 +223,6 @@ with col2:
 
             if not highlight_affiliations:
                 annotations = list(filter(lambda a: a['type'] != 'affiliation', annotations))
-
             pdf_viewer(
                 input=st.session_state['binary'],
                 width=width,
@@ -218,4 +235,5 @@ with col2:
                 resolution_boost=resolution_boost
             )
 
-
+with col2:
+    select_doc()

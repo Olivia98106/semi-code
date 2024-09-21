@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A longitudinal study on the effects of motivational mobile application uses on online news engagement</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ji</forename><surname>Won Kim</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sunyoung</forename><surname>Park</surname></persName>
+							<email>sunyoungpark@callutheran.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Yoonmo</forename><surname>Sang</surname></persName>
+							<email>yoonmo.sang@canberra.edu.au</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">College of Social Sciences</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">School of Communications</orgName>
+								<orgName type="institution">Dankook University</orgName>
+								<address>
+									<addrLine>152, Jukjeon-ro, Suji-gu</addrLine>
+									<postCode>16890</postCode>
+									<settlement>Yongin-si, Gyeonggi-do</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Master of Science in Clinical Psychology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Graduate School of Psychology</orgName>
+								<orgName type="institution">California Lutheran University</orgName>
+								<address>
+									<addrLine>60 West Olsen Road #4250</addrLine>
+									<postCode>91360</postCode>
+									<settlement>Thousand Oaks</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">News and Media Research Centre</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Faculty of Arts and Design</orgName>
+								<orgName type="institution">University of Canberra</orgName>
+								<address>
+									<addrLine>11 Kirinari St</addrLine>
+									<settlement>Bruce ACT 2617</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">College of Communications at Dankook University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">California Lutheran University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">University of Canberra</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">International Communication Association</orgName>
+								<address>
+									<addrLine>San Diego, 25-29 May 2017</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A longitudinal study on the effects of motivational mobile application uses on online news engagement</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">514BB7ECEC700A2EBC1C8519F17FF492</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-21T07:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>mobile facilitation hypothesis</term>
+					<term>uses and gratification</term>
+					<term>four-wave panel survey</term>
+					<term>structural equation modelling</term>
+					<term>mobile application</term>
+					<term>informational use</term>
+					<term>recreational use</term>
+					<term>relational use</term>
+					<term>online news engagement</term>
+					<term>South Korea</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Based on four-wave panel data, this study explored the relationships between different uses of motivational mobile applications and online news engagement. Three motivational mobile application uses -informational, recreational, and relational -were identified and rank-ordered according to respondents' everyday mobile application preferences. Results showed that only relational mobile application use had positive relationships with online news engagement. Results further indicate that over the four-year period examined (2013)(2014)(2015)(2016) only the use of relational mobile application led to continuous growth of online news engagement. This study advances the literature on mobile communication not only by introducing results of a longitudinal study that challenge and support conflicting previous findings but that also provide support for the possibility of the mobile facilitation hypothesis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>In recent years, the global popularity of mobile media uses has grown exponentially, made possible by the development of a broad array of applications (apps). Across numerous spheres, the ubiquity of mobile media has transformed the ways people communicate and interact with one another. Especially in the political arena, for example in uprisings in the Middle East and beyond, the efficacy of mobile media use as tools for activism, engagement, and participation has been widely demonstrated <ref type="bibr" target="#b7">(Eltantawy and Wiest, 2011;</ref><ref type="bibr" target="#b33">Zayani, 2015)</ref>. This rapid adoption and proliferation of mobile media have, in turn, led scholars to study the effects of mobile media uses in various aspects of people's lives, especially public engagement in political and public affairs.</p><p>To date, communication scholars have focused on examining specific ways that people use mobile media and how particular motivations behind different uses lead to perceptual, cognitive, and behavioural effects <ref type="bibr">(Campbell and</ref><ref type="bibr">Kwak, 2010, 2011;</ref><ref type="bibr" target="#b16">Kwak et al., 2011;</ref><ref type="bibr" target="#b18">Lee et al., 2014;</ref><ref type="bibr" target="#b17">Lee and Kwak, 2016)</ref>. For example, some people use mobile media mostly as a communication tool to stay connected with others (relational use) while other people use mobile devices mostly for entertainment purposes (recreational use). Indeed, the above distinctions help further understanding about the relationship between different modes of mobile media use and public engagement.</p><p>Meanwhile, how to categorise people's mobile media use for restricted purposes presents a greater challenge <ref type="bibr" target="#b19">(Leung, 2015)</ref>. That is, people's use of mobile media for informational purposes oftentimes cannot be separated from their relational or recreational uses. While many mobile applications were originally designed for specific purposes, actual uses of various modes of mobile communication often function in coordination with one another, especially those applications that allow for multifaceted functions. In the current study, that realisation led to the adoption of a rank scale of mobile app uses that accounts for individuals' primary preferences for mobile app use as opposed to a list of distinct uses that fails to represent the multi-purposes of mobile media use. In addition, previous studies have also failed to consider changes in mobile app usage that have evolved over time. As a result, it is difficult to determine which motivational use of mobile apps relates to public engagement and whether the public engagement has increased or decreased or remained unchanged. Therefore, the larger question as to whether mobile apps uses ultimately help to promote ongoing engagement has not been clearly answered, due in large part to limited availability of longitudinal data.</p><p>Therefore, the current study examines longitudinal panel data from South Korea where the adoption and demands of mobile media usage outweigh similar usage in most Western countries <ref type="bibr" target="#b28">(Poushter et al., 2018)</ref>. Not only is South Korea recognised as a world leader in the mobile industry but it has witnessed the power of mobile phones in organising, collaborating, and mobilising public engagement in support of democratic processes <ref type="bibr" target="#b18">(Lee et al., 2014)</ref>. Through use of longitudinal data, this research seeks to contribute to a body of knowledge that focuses on relationships between different motivational mobile apps uses and public engagement, more specifically, online news engagement. This study further attempts to answer the overarching question about whether mobile apps use ultimately helps to promote ongoing online news engagement by examining changes and trends over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1">Uses-and-gratifications approach: motivational mobile media uses and civic/political engagement</head><p>The rapidly growing popularity of mobile devices has prompted new research into "the intersections between new media and civic involvement" <ref type="bibr">[Campbell and Kwak, (2010), p.537]</ref>. Of particular interest is the rise in people's civic engagement along with the relationship that occurs between mobile communication and civic and political engagement <ref type="bibr">(Campbell and</ref><ref type="bibr">Kwak, 2010, 2011;</ref><ref type="bibr" target="#b18">Lee et al., 2014;</ref><ref type="bibr" target="#b17">Lee and Kwak, 2016;</ref><ref type="bibr" target="#b16">Kwak et al., 2011)</ref>. Based on the uses and gratifications approach (U&amp;G) that examines people's different needs and motives of media use, scholars have unbundled mobile media uses into specific types when exploring the association between individuals' uses of mobile media and different types of civic engagement <ref type="bibr" target="#b0">(Campbell and Kwak, 2010;</ref><ref type="bibr" target="#b16">Kwak et al., 2011)</ref>. The theoretical framework of uses and gratifications has demonstrated exploratory power in understanding individuals' use of media to fulfil their needs and motives <ref type="bibr" target="#b30">(Rubin, 2009)</ref> with an accumulating body of research that suggests users' motivations are related to their behavioural intention and actual media usage <ref type="bibr" target="#b26">(Park, 2010)</ref>. Therefore, to understand the significance of motivational factors that link media uses with civic and political engagement, studies have relied on the U&amp;G framework. Building on that approach, previous research has shown that people use media purposefully and actively in seeking to fulfil their needs and goals <ref type="bibr" target="#b15">(Katz et al., 1974)</ref>. The U&amp;G framework posits that individuals' motivations for media consumption determine their choices of media consumption <ref type="bibr" target="#b30">(Rubin, 2009)</ref>. Thus, as media choices have multiplied due to the exponential growth of technological advances, "motivation and satisfaction become even more crucial components of audience analysis" <ref type="bibr">[Ruggiero, (2000), p.14]</ref>. As <ref type="bibr">Chen (2011, p.756</ref>) notes, the U&amp;G approach "has experienced a resurgence in the study of the internet and new media."</p><p>With a plethora of mobile apps that support a large number and range of types of tasks that individuals can accomplish with their mobile devices, the U&amp;G approach has been extended to include mobile-based technologies such as social media <ref type="bibr" target="#b20">(Malik et al., 2016;</ref><ref type="bibr" target="#b29">Quan-Haase and Young, 2010)</ref>, mobile instant messengers <ref type="bibr" target="#b10">(Ha et al., 2015)</ref>, smartphones <ref type="bibr" target="#b13">(Joo and Sang, 2013;</ref><ref type="bibr" target="#b14">Kang and Jung, 2014)</ref>, and tablet devices <ref type="bibr" target="#b19">(Leung, 2015)</ref>. As for mobile media, previous studies have found that individuals use primarily three modes of motivations:</p><p>1 informational use for accessing and engaging with informational content such as news 3 recreational use for entertainment purposes including playing games, watching images, videos, and movies, and listening to music 2 relational use for maintaining personal connections through social networking and instant message sharing. <ref type="bibr">Campbell and Kwak (2011, p.209</ref>) note that "although most applications of U&amp;G emphasize the ways in which motivations shape media use behavior, the U&amp;G framework also posits that usage patterns play an integral role in shaping social outcomes." In fact, most studies have also found significant relationships between motivational mobile uses and civic and political engagement, spotlighting mobile media as an effective tool in the promotion of democratic benefits <ref type="bibr">(Campbell and</ref><ref type="bibr">Kwak, 2010, 2011;</ref><ref type="bibr" target="#b21">Martin, 2014)</ref>. For example, <ref type="bibr" target="#b0">Campbell and Kwak (2010)</ref>, building on the U&amp;G framework, examined relationships between patterns of mobile phone use and people's civic and political involvement.</p><p>As <ref type="bibr">Lee and Kwak (2016, p.536)</ref> note, "recent studies of new media have shifted toward distinctive forms of use that can yield different outcomes." In particular, much attention has been directed toward the relationship between informational use of mobile media and civic and political engagement. Findings show that informational mobile uses can predict greater political participation such as attending political meetings, donating money, or contacting political representatives <ref type="bibr" target="#b18">(Lee et al., 2014)</ref> and can further enhance opportunities for individuals to become involved in cross-cutting online discussions <ref type="bibr" target="#b1">(Campbell and Kwak, 2011;</ref><ref type="bibr" target="#b17">Lee and Kwak, 2016)</ref>. A recent study reported the positive relationship between individuals' informational use of mobile media and his or her enhanced engagement with others in both the American and Korean contexts <ref type="bibr" target="#b17">(Lee and Kwak, 2016)</ref>. Overall, numerous studies have found that informational uses of mobile media increase online civic engagement.</p><p>While previous studies demonstrate a positive relationship between informational use of mobile media and civic and political engagement <ref type="bibr">(Campbell and</ref><ref type="bibr">Kwak, 2010, 2011;</ref><ref type="bibr" target="#b18">Lee et al., 2014;</ref><ref type="bibr" target="#b17">Lee and Kwak, 2016;</ref><ref type="bibr" target="#b16">Kwak et al., 2011)</ref>, research findings offer an incomplete civic engagement. For example, <ref type="bibr" target="#b0">Campbell and Kwak (2010)</ref> found that use of mobile telephones for recreational purposes was positively related to interest in civic and political engagement, but the same study found little relationship between the relational use of mobile phones and political participation. More importantly, in addition to informational uses, Gil de Zúñiga and his colleagues (2014) documented that even relational uses of social media promoted online expression that, in turn, led to increased online and offline political participation.</p><p>Use of mobile phones for news and information had a positive influence on more frequent exchanges of cross-cutting content among Korean and American survey participants <ref type="bibr" target="#b17">(Lee and Kwak, 2016)</ref>. Interestingly, <ref type="bibr" target="#b17">Lee and Kwak's (2016)</ref> cross-national study also found a positive association between relational mobile uses for managing strong-tie social connections and engagement with unlike-minded discussants among Koreans, but this was not the case among survey respondents in the USA. Thus, cultural differences are assumed to play an important role in explaining the link between relational use of mobile communication and deliberative democracy. The distinctive results of <ref type="bibr" target="#b17">Lee and Kwak's (2016)</ref> study suggest the need for further investigation concerning the relationship between different modes of use of mobile devices and online engagement -not just within one society but across different cultural contexts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2">Facilitation vs. reinforcement: online news engagement</head><p>Today, the internet has created even more opportunities for political discussions to emerge and has further created a greater range of public's political engagement. Traditionally, political and civic engagement has been measured narrowly in terms of voting or attending town hall meetings or rallies. These days, lower costs of online engagement allow for more diverse types of engagement, such as contacting politicians through emails or signing petitions online, practices not easily exercised in offline environments. As Di Gennaro and Dutton (2006) pointed out, the Internet makes it possible for these engagements to take on new dimensions and forms.</p><p>In particular, researchers are paying greater attention to news engagement. While a majority of scholars agree that news engagement among the general public is highly correlated with, if not a necessary antecedent to, further participation in civic and political engagement <ref type="bibr" target="#b4">(Choi, 2016b;</ref><ref type="bibr" target="#b5">Choi and Lee, 2015;</ref><ref type="bibr" target="#b12">Hyun and Kim, 2015)</ref>, the debate continues about how to define news engagement. Choi (2016a) distinguished a person's news involvement into individually engaged 'internalising' and socially engaged 'externalising' behaviours while <ref type="bibr" target="#b12">Hyun and Kim (2015)</ref> examined behavioural characteristics of news engagement from three perspectives: reception, following, and dissemination. More recently, scholars have focused on individual trends of 'sharing' posts, images, and videos online as a part of important online news engagement <ref type="bibr">(Choi, 2016a;</ref><ref type="bibr" target="#b25">Oh and Sundar, 2016)</ref> that affects not only the senders but also the receivers. Therefore, this study advances a definition of online news engagement that includes forms that are action-centred: commenting and sharing.</p><p>Ultimately, the current study attempts to understand how mobile media use helps to promote public engagement in civic and political activities, specifically news engagement online. An earlier study by <ref type="bibr">Kwak and other colleagues (2011)</ref> presents two competing hypotheses: the mobile reinforcement hypothesis and the mobile facilitation hypothesis. The first hypothesis suggests that mobile media use may create a gap in the public's civic and political engagement between heavy engagers and low engagers by reinforcing participation of those already engaged. The second hypothesis suggests that mobile media use may facilitate general public engagement and promote engagement among those who have less interest in being involved in civic and political activities. The competing hypotheses, tested by <ref type="bibr">Kwak and colleagues (2011)</ref>, used cross-sectional data. The current study looks at similar issues by using longitudinal data to overcome the deficiency of causality in the previous study. To advance this investigation, the current study poses the following hypotheses and research questions:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H1</head><p>There will be a positive relationship between the levels of individuals' online news engagement and informational mobile application use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H2</head><p>There will be a significant relationship between the levels of individuals' online news engagement with recreational mobile application use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H3</head><p>There will be a significant relationship between the levels of individuals' online news engagement with relational mobile application use.</p><p>RQ1 Over the four-year period <ref type="bibr">(2013)</ref><ref type="bibr">(2014)</ref><ref type="bibr">(2015)</ref><ref type="bibr">(2016)</ref>, how did the level of people's online news engagement change?</p><p>RQ2 Across the same four-year period, how did relationships between informational, recreational, and relational uses of the mobile applications and online news engagement change?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Data and sample</head><p>The current study is based on Korea media panel survey data that measured cross-media usage in a convergence of multi-media environments over a seven-year period <ref type="bibr">(2010)</ref><ref type="bibr">(2011)</ref><ref type="bibr">(2012)</ref><ref type="bibr">(2013)</ref><ref type="bibr">(2014)</ref><ref type="bibr">(2015)</ref><ref type="bibr">(2016)</ref> . The current study focused on self-reported survey datasets with a sample that included 17 cities and provinces. The respondents were from 5,000 households. The sample size for the Korea media panel survey for the four-year period was 20,464 individuals (2013), 10,171 individuals (2014), 9,873 individuals (2015), and 9,788 individuals (2016). Excluded from this study were respondents who reported they did not use mobile applications related to the current study or answered they did not participate in any online political activities during the four-year period. The final sample size of respondents who participated all four years <ref type="bibr">(2013, 2014, 2015, and 2016)</ref> was 1,057. Characteristics of the sample included in the current study are summarised in Table <ref type="table" target="#tab_1">1</ref>. Because the original KISDI survey questions measured ranked scale, weighting was used in the current study to convert rank scale to continuous scale by allocating three points for the first preference, two points for the second preference, and one point for the third preference. Based on classification of the types of application usages and weighting preferences, the three types of application usage -informational use, recreational use, and relational use -were created. For example, if a subject answered that usage for the first preference was games, communication for the second preference, and social networking for the third preference, then the subject was given 0 points for informational use because games, communication, and social networking were not included in the informational use category, three points for recreational use as games was the first preference, and three points for relational use because both the second preference (two points) and the third preference (one point) were included in the relational use category. Because most people use mobile applications for various purposes rather than for only one purpose, weighting of the ranked variables as described above means that all individuals had scores for all three uses -informational use, recreational use, and relational use, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2">Online news engagement</head><p>In the original survey, respondents were asked two questions:</p><p>1 how frequently have you written your opinions on online news boards or discussion groups 2 how frequently have you shared the opinions of others on online news boards or discussion groups in your own communication space, such as a blog or Twitter.</p><p>Responses covered a six-point scale (1 = rare; 2 = once in three months; 3 = 1~3 times per month; 4 = 1~3 times per week; 5 = 4~6 times per week; 6 = every day). The mean and standard deviation for the three predictors (informational use, recreational use, and relational use), control variables (gender and age) and the dependent variable (online news engagement) for each time-point are shown in Table <ref type="table" target="#tab_2">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3">Control variables</head><p>Respondents' gender and age, as measured by the year of birth and converted to age in 2013, are also shown in Table <ref type="table" target="#tab_2">2</ref>. Note: SD = standard deviation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Statistical analysis</head><p>By adding control variables and predictors, the current study employed the latent growth model <ref type="bibr" target="#b32">(Singer and Willett, 2003)</ref> using the Mplus 7 statistical package <ref type="bibr" target="#b24">(Muthén and Muthén, 2013)</ref> to investigate individual changes in online news engagement over time. The latent growth model, which is a statistical model under structural equation modelling, is able to estimate not only latent variables that consider measurement errors in observed variables but also model fits that provide information about the validity of the statistical model for the data collected.</p><p>In the current study, restricted maximum likelihood estimation (REML) was used with the Mplus 7.0 program. First, this study used the unconditional growth model that included linear individual change over time at level-1 but did not include predictors for variation in the growth rates among respondents at level-2. Such unconditional analyses are useful for partitioning the outcome variation into variance components that describe the magnitude of variation in slope and intercept across individuals. Second, this study used the conditional model (see Figure <ref type="figure" target="#fig_0">1</ref>) that includes three predictors (informational use, recreational use, and relational use) and control variables (gender and age) to examine systematic inter-individual variations in the intercept and slope.  <ref type="bibr" target="#b11">(Hu and Bentler, 1999)</ref>. The significant intercept (β 00 = 2.50, p &lt; 0.05) indicated that the average usage of mobile applications for online news engagement in 2013 (the first time point) was significantly different from 0, and the time slope (β 10 = 0.53, p &lt; 0.05) showed that the average individual growth for online news engagement across the four-year period (2013-2016) increased significantly (RQ1). In terms of the variabilities among individuals, the variance component for intercept (r 0 = 1.43, p &lt; 0.05) was significant and the variance for the time slope (r 1 = 0.34, p &lt; 0.05) was also significant indicating that individual growth rates varied across individual respondents.</p><p>To explain the individual growth of variance components, the conditional growth model was employed to analyse three uses of mobile application predictorsinformational use, recreational use, and relational use and control variables (age and gender). Because the variance components of the intercept and slope were significant, the three predictors and three control variables were included in the intercept term and slope term to control the effects of predictors and control variables. The results of the conditional growth model are presented in Table <ref type="table" target="#tab_3">3</ref>, which shows the fixed effects and the remaining variance components at level-2. The results of model fit (x 2 = 40.18, p &lt; 0.05, RMSEA = 0.03, CFI = 0.90, TLI = 0.83) indicated good fitness of the model <ref type="bibr" target="#b11">(Hu and Bentler, 1999)</ref>. Specifically, the predictor of relational use (β 03 = 0.12, p &lt; 0.05) was found to be statistically significant on intercept.</p><p>In other words, respondents who reported higher uses of mobile applications for relational use were more involved in online news engagement on the first-time point, the year of 2013. While H1 and H2 were not supported, H3 was supported by showing a positive relationship between relational use and online news engagement.</p><p>With respect to individual growth trajectories (RQ2), relational use (β 13 = -0.12, p &lt; 0.05) and age (β 15 = -0.14, p &lt; 0.05) were found to be statistically significant for online news engagement across the four-year period of the current study. Growth across time (β 10 = 0.66, p &lt; 0.05) positively increased whereas predictors were negatively significant in terms of indicating the three predictors had a 'buffering effect' on growth. That is, if the subjects had a higher level of relational use, the growth for online news engagement across time tended to be smaller (slower) than for subjects who had relatively lower levels of relational use and age.</p><p>However, because respondents who had higher levels of relational use already had a relatively higher level of online news engagement in 2013, the buffering effect of the predictors across time might be partially explained by the 'ceiling effect' <ref type="bibr" target="#b22">(Miller, 1956)</ref>. In the current study, even though it was assumed that news engagement would continuously increase, the maximum value of the news engagement scale used was 12 points. Therefore, individuals who already had a higher level of news engagement at the first time point, did not attain much higher scores for news engagement across time due to the 'ceiling' of the scale. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p>Mobile devices, including smartphones, are unique in the sense that they are always on and 'always with' users <ref type="bibr" target="#b27">(Park, 2013)</ref>. These features of mobile devices warrant attention given they can have implications in terms of contributing to democratic benefits for public engagement via mobile media. Specifically, relying on the theoretical framework of uses and gratifications, this study hypothesised that different motivational mobile application uses -informational, recreational, and relational -would have different associations with online news engagement. In doing so, this study tested two competing hypotheses proposed by the previous study and examined whether the democratic benefits of online news engagement continued to grow over time, depending on individuals' different motivational mobile app uses.</p><p>Results of the study showed that online news engagement among South Korea's users grew continuously over the four-year period while the increased growth in online news engagement slowed down. In contrast to findings of previous studies, the informational and recreational app use did not indicate a significant relationship with individuals' online news engagement. Only the relational mobile app use was positively related with rising growth in online news engagement, offering several interesting and important discussion points related to individuals' motivations to use mobile apps and their effects on online news engagement.</p><p>The first discussion point is that contrary to findings of previous studies, informational mobile app use, presumably a critical predictor of online news engagement, was not found to be a determining factor in affecting news engagement online. Further, while results of the current study did not support any significant influence of recreational mobile app uses on online news engagement, the relational motivational use of mobile app was, in fact, found to be a significant predictor of online news engagement. In sum, these findings expand our understanding of the broader relationship between mobile app usage -especially use for relational purposes -and online news engagement.</p><p>One plausible explanation for these rather limited effects of mobile app uses, in general, on online news engagement may be attributed to specialised designs of mobile applications. That is, mobile applications are usually designed for specific purposes and, for that reason, rarely support multi-purpose activities, including easy access to online news engagement. Moreover, users of mostly recreational applications as well as users of mostly informational applications may have less time to spend on other types of applications that allow for easier online news engagement. By contrast, mobile applications that focus on relational applications, such as social networking, differ from most specialised mobile applications in terms of offering numerous opportunities for online news engagement -at anytime and anyplace. Furthermore, the fact that people use mobile devices most often to connect with others on social networking sites logically assumes that users of relational mobile applications experience greater ease in participating in online news engagement and are motivated to connect with other users of relational apps by sharing news. These findings do not imply that informational or recreational mobile uses discourage online news engagement. Rather, the more appropriate argument is that highly specialised mobile applications may lack features that would otherwise encourage active online news engagement.</p><p>Of equal importance, results of this research show that positive relationships between relational mobile app uses and online news engagement continued to grow over time; however, the rate of growth slowed. In other words, even though the acceleration of growth in the volume of online news engagement slowed during the four-year period covered by this study, the overall total volume of online news engagement increased. Thus, the growth trend should not be confused with the general increase of online news engagement.</p><p>A possible explanation for reduced acceleration of the growth slope found in the current study may be attributed to the 'ceiling effect'. Previous studies also observed 'ceiling effects' and recognised that this factor may lead to an underestimation or shrinkage of the regression parameters <ref type="bibr" target="#b8">(Genia, 2001;</ref><ref type="bibr" target="#b23">Murrell et al., 1999)</ref>. Considering the additional fact that a South Korean presidential election took place in 2012, the relatively high rate of online news engagement for that particular year may have led to a 'ceiling effect' as intense public interest in subsequent online news engagement may have slowed down.</p><p>What is notable is that the slopes for growth of online news engagement did not fluctuate from year to year but instead remained steady throughout the four-year period. This finding indicates two important possibilities. First, heavy news engagers probably continued to be involved across that time frame and, second, the use of relational applications may have helped to increase the number of people, who were previously less involved, to become more involved with online news engagement. In that respect, it is reasonable to predict that the use of relational mobile applications is likely to serve as a powerful motivator for online news engagement among larger groups of people. Together, these results support the mobile facilitation hypothesis that suggests mobile communication encourages the involvement of those who would otherwise be less likely to engage in public affairs <ref type="bibr" target="#b16">(Kwak et al., 2011)</ref>.</p><p>Academically, the findings of the current study support the potential role of mobile apps as channels for online news engagement, offering additional empirical findings better articulate the role of apps in the process of increased online news engagement. In particular, the significant influence of relational mobile app use on online news engagement indicates that individuals who engage in news-related activities may be motivated to share news information as a way to connect socially with one another and deepen common interests. Theoretically, the rather unexpected strong relationship found in this study between relational mobile app use and online news engagement suggests the need for development of other types of applications that, coincidentally, may also increase the motivation to participate in online news engagement. Importantly, for the research community this study further illustrates the need to employ the uses and gratification approach in longitudinal research in order to construct a baseline for future research.</p><p>For practitioners, findings of the current study enhance understanding about how mobile apps facilitate social interactions and at the same time also contribute to online news engagement. Therefore, practitioners interested in increasing public engagement may need to pay greater attention to the development and strengthening of relational components of other types of mobile applications, including features that encourage 'relation-based' activities or simply feature that allow easier access to news engagement activities.</p><p>Despite its contribution, the primary limitation of this study resides with time-points of the data. The linear growth latent model used for analysis in the current study assumes that individuals' online news engagement across time is linear. A follow-up study based on an analysis of future panel data regarding individuals' news engagement may examine nonlinear changes in individuals' online news engagement across time thereby offering additional implications about long-term patterns of online news engagement. Another limitation of the current study concerns the conversion of ranked scales of motivational mobile app uses into continuous variables by adopting weights applied to the ranked scales responses. While the weighting allowed us to better reflect individuals' motivations for mobile app uses, more interesting analyses could have been developed if continuous measurements had been included in the original data collected by the KISDI. Finally, the online news engagement was measured with a range of frequency, rather than countable frequency. A better measurement scale of news engagement could have given more validity. Future research should consider the measurement more carefully when collecting data.</p><p>Despite those limitations, the current study is an important addition to theory and research on mobile apps in terms of helping to develop a better understanding of how different motivational mobile app uses may or may not encourage individuals' online news engagement for the benefit of democratic societies. More significantly, this study offers one of a very few longitudinal analyses to ascertain the causality between different motivational mobile app uses and online news engagement in a non-Western society, such as South Korea. Most importantly, this study offers a hopeful message that relational mobile app use facilitates online news engagement over time by expanding user connections rather than by creating gaps between heavy engagers and low engagers.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Research framework with conditional latent growth model with predictors and four time points of online news engagement</figDesc><graphic coords="9,60.37,311.58,359.82,195.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Standardised estimates with conditional latent growth model with predictors and four time points of online news engagement</figDesc><graphic coords="11,60.61,291.12,359.34,196.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Demographic characteristics of sample (N = 1,057) for four-waves panel data Based on a list of 15 options (e.g., books/cartoons, navigation, news) respondents were asked to indicate their first, second, and third preferences for mobile application usage. Note that we used six options out of 15 options which were able to categorise as informational use, relational use, and recreational use. From that larger dataset, the current study categorised respondents' answers into three types of use: a informational use that included educational information and news applications b recreational use that included games, music, videos, broadcasting, and photo applications c relational use that included social networking and instant message applications.</figDesc><table><row><cell>Characteristics</cell><cell></cell><cell>Frequency</cell><cell>(%)</cell></row><row><cell>Gender</cell><cell>Male</cell><cell>585</cell><cell>55.3</cell></row><row><cell></cell><cell>Female</cell><cell>472</cell><cell>44.7</cell></row><row><cell>Age</cell><cell>Below 10</cell><cell>6</cell><cell>0.6</cell></row><row><cell></cell><cell>10-19</cell><cell>210</cell><cell>19.9</cell></row><row><cell></cell><cell>20-29</cell><cell>235</cell><cell>22.2</cell></row><row><cell></cell><cell>30-39</cell><cell>235</cell><cell>22.2</cell></row><row><cell></cell><cell>40-49</cell><cell>261</cell><cell>24.7</cell></row><row><cell></cell><cell>50-59</cell><cell>87</cell><cell>8.2</cell></row><row><cell></cell><cell>60-69</cell><cell>18</cell><cell>1.7</cell></row><row><cell></cell><cell>70-79</cell><cell>5</cell><cell>0.5</cell></row><row><cell>Highest level</cell><cell>Elementary</cell><cell>45</cell><cell>4.3</cell></row><row><cell>of education</cell><cell>Middle</cell><cell>68</cell><cell>6.4</cell></row><row><cell></cell><cell>High</cell><cell>330</cell><cell>31.2</cell></row><row><cell></cell><cell>University</cell><cell>584</cell><cell>55.3</cell></row><row><cell></cell><cell>Graduate</cell><cell>30</cell><cell>2.8</cell></row><row><cell>Marriage</cell><cell>No</cell><cell>528</cell><cell>50.0</cell></row><row><cell></cell><cell>Yes</cell><cell>513</cell><cell>48.5</cell></row><row><cell></cell><cell>Other</cell><cell>16</cell><cell>1.5</cell></row><row><cell>2.2 Measures</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">2.2.1 Mobile application uses</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Mean</figDesc><table><row><cell>Variables</cell><cell>Mean (SD)</cell></row><row><cell>Gender</cell><cell>0.45 (0.50)</cell></row><row><cell>Age</cell><cell>32.89 (13.32)</cell></row><row><cell>Use of mobile application</cell><cell></cell></row><row><cell>Informational use</cell><cell>1.76 (0.80)</cell></row><row><cell>Recreational use</cell><cell>2.27 (1.01)</cell></row><row><cell>Relational use</cell><cell>2.01 (0.70)</cell></row><row><cell>Time1 online news engagement</cell><cell>2.94 (1.57)</cell></row><row><cell>Time2 online news engagement</cell><cell>3.21 (1.86)</cell></row><row><cell>Time3 online news engagement</cell><cell>3.75 (2.08)</cell></row><row><cell>Time4 online news engagement</cell><cell>4.03 (1.94)</cell></row></table><note><p>, and standard deviation for the three predictors (informational use, recreational use, and relational use), control variables (gender and age) and the dependent variable (online news engagement)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Standardised estimates, unstandardised estimates, and standard errors for unconditional model and conditional model under latent growth model</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Unconditional model</cell><cell cols="2">Conditional model</cell></row><row><cell></cell><cell></cell><cell>Std. estimates</cell><cell>UnStd. estimates</cell><cell>S.E.</cell><cell>Std. estimates</cell><cell>UnStd. estimates</cell><cell>S.E.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Mean</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Intercept</cell><cell>2.50***</cell><cell>2.98***</cell><cell>(0.05)</cell><cell>2.70***</cell><cell>3.17*</cell><cell>(0.19)</cell></row><row><cell></cell><cell>Slope</cell><cell>0.53***</cell><cell>0.31***</cell><cell>(0.03)</cell><cell>0.66***</cell><cell>0.38*</cell><cell>(0.11)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Effects</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Informational Intercept</cell><cell></cell><cell></cell><cell></cell><cell>0.03</cell><cell>0.03</cell><cell>(0.05)</cell></row><row><cell>Recreational</cell><cell>Intercept</cell><cell></cell><cell></cell><cell></cell><cell>0.01</cell><cell>0.01</cell><cell>(0.04)</cell></row><row><cell>Relational</cell><cell>Intercept</cell><cell></cell><cell></cell><cell></cell><cell>0.12**</cell><cell>0.08**</cell><cell>(0.03)</cell></row><row><cell>Age</cell><cell>Intercept</cell><cell></cell><cell></cell><cell></cell><cell>-0.03</cell><cell>-0.01</cell><cell>(0.01)</cell></row><row><cell>Gender</cell><cell>Intercept</cell><cell></cell><cell></cell><cell></cell><cell>-0.01</cell><cell>-0.03</cell><cell>(0.10)</cell></row><row><cell>Informational</cell><cell>Slope</cell><cell></cell><cell></cell><cell></cell><cell>-0.04</cell><cell>-0.01</cell><cell>(0.03)</cell></row><row><cell>Recreational</cell><cell>Slope</cell><cell></cell><cell></cell><cell></cell><cell>-0.04</cell><cell>-0.02</cell><cell>(0.02)</cell></row><row><cell>Relational</cell><cell>Slope</cell><cell></cell><cell></cell><cell></cell><cell>-0.12*</cell><cell>-0.04*</cell><cell>(0.02)</cell></row><row><cell>Age</cell><cell>Slope</cell><cell></cell><cell></cell><cell></cell><cell>-0.14*</cell><cell>-0.01*</cell><cell>(0.00)</cell></row><row><cell>Gender</cell><cell>Slope</cell><cell></cell><cell></cell><cell></cell><cell>0.06</cell><cell>0.02</cell><cell>(0.06)</cell></row><row><cell cols="7">Notes: ***p &lt; 0.001, **p &lt; 0.01, *p &lt; 0.05, std. estimates = standardised estimates,</cell></row><row><cell cols="6">Unstd. estimates = unstandardised estimates, S.E = standard errors.</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mobile communication and civic life: linking patters of use to civic and political engagement</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="536" to="555" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mobile communication and civil society: linking patterns and places of use to engagement with others in public</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="207" to="222" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Tweet this: a uses and gratifications perspective on how active Twitter use gratifies a need to connect with others</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="755" to="762" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">News internalizing and externalizing: the dimensions of news sharing on online social networking site</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="816" to="835" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Differential use, differential effects: Investigating the roles of different modes of news use in promoting political participation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="436" to="450" />
+			<date type="published" when="2016">2016b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Investigating the effects of news sharing and political interest on social media network heterogeneity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="258" to="266" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Internet and the public: online and offline political participation in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Di Gennaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parliamentary Affairs</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="299" to="313" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Social media in the Egyptian revolution: reconsidering resource mobilization theory</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eltantawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wiest</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1207" to="1224" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Evaluation of the spiritual well-being scale in a sample of college students</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Genia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal for the Psychology of Religion</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="33" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Social media, political expression, and political participation: panel analysis of lagged and concurrent relationships</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Molyneux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="612" to="634" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Uses and gratifications of mobile SNSs: Facebook and KakaoTalk in Korea</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">W</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Libaque-Saenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Telematics and Informatics</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="425" to="483" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cutoff criteria for fit indexes in covariance structural analysis: conventional criteria versus new alternatives</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Differential and interactive influences on political participation by different types of news activities and political conversation through social media</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Hyun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="328" to="334" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Exploring Koreans&apos; smartphone usage: an integrated model of the technology acceptance model and uses and gratifications theory</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2512" to="2518" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Mobile communication for human needs: a comparison of smartphone use between the US and Korea</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="376" to="387" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Utilization of mass communication by the individual</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Blumler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gurevitch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Uses of Mass Communications: Current Perspectives on Gratifications Research</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Blumler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="1974">1974</date>
+			<biblScope unit="page" from="19" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Mobile communication and public affairs engagement in Korea: an examination of non-linear relationships between mobile phone use and engagement across age groups</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Bae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="485" to="503" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Mobile communication and cross-cutting discussion: a cross-national study of South Korea and the US</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Telematics and Informatics</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="534" to="545" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Mobile communication and political participation in South Korea: examining the intersections between informational and relational uses</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Using tablet in solitude for stress reduction: an examination of desire for aloneness, leisure boredom, tablet activities, and location of use</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="382" to="391" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Uses and gratifications of digital photo or video sharing on Facebook</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dhir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nieminen</surname></persName>
+		</author>
+		<idno type="DOI">.org/10.1016/j.tele.2015.06.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Telematics and Informatics</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="138" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mobile media and political participation: defining and developing an emerging field</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mobile Media &amp; Communication</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="195" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The magical number of seven, plus or minus two: some limits on our capacity for processing information</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="81" to="97" />
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Assessing quality of life (QoL) in persons with severe neurological disability associated with multiple sclerosis (MS): the psychometric evaluation of two QoL measures</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Murrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Kenealy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Lintern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="349" to="362" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthén</surname></persName>
+		</author>
+		<title level="m">Mplus User&apos;s Guide</title>
+		<meeting><address><addrLine>Los Angeles</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+	<note>Muthén and Muthén</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">User engagement with interactive media: a communication perspectives</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sundar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Why Engagement Matters: Cross-Disciplinary Perspectives of User Engagement in Digital Media</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>O'brien</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Cairns</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="177" to="198" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Adoption and use of computer-based voice over internet protocol phone service: toward an integrated model</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="72" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Always on and always with mobile tablet devices: a qualitative study on how young adults negotiate with continuous connected presence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technology &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="182" to="190" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Bulletin of Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Social media use continues to rise in developing countries but plateaus across developed ones</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Poushter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chwe</surname></persName>
+		</author>
+		<ptr target="http://www.pewglobal.org/2018/06/19/social-media-use-continues-to-rise-in-developing-countries-but-plateaus-across-developed-ones/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2018-11-18">2018. 18 November 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Uses and gratifications of social media: a comparison of Facebook and instant messaging</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quan-Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0270467610380009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Technology &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="350" to="361" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Bulletin of Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Uses-and-gratifications perspective on media effects</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Effects: Advances in Theory and Research</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Bryant</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Oliver</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="165" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Uses and gratifications theory in the 21st century</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Ruggiero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="37" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Willett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zayani</surname></persName>
+		</author>
+		<title level="m">Networked Publics and Digital Contention: the Politics of Everyday Life in Tunisia</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

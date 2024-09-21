@@ -128,22 +128,34 @@ pdfs = conn.query('select * from pdf', ttl=0)
 pdf_dict = dict(zip(pdfs['doc_id'], pdfs['filename']))
 
 st.title("PDF Viewer and Summary")
-doc_id_selection = st.selectbox("Choose a PDF", pdf_dict.keys(), index=None, on_change=new_file())
+doc_id_selection = st.selectbox("Choose a PDF", pdf_dict.keys(), index=None, on_change=new_file(), key="doc_id_selection")
 col1, col2 = st.columns(2)
 
 @st.fragment
 def export_pdf_body():
     init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
-    filename = pdf_dict[doc_id_selection]
+    filename = pdf_dict[st.session_state['doc_id_selection']]
     filename = filename[:-4]
     logging.info(f"export pdf body {filename}")
     with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
-        btn = st.download_button(
-            label="Download PDF Body Content",
+        st.download_button(
+            label="Download PDF Content as XML",
             data=file,
             file_name=f"{filename}.grobid.tei.xml",
             mime="text/xml",
         )
+
+@st.fragment
+def export_label_csv():
+    label_df = conn.query(
+        f"select doc_id, variable, label from label order by doc_id, variable", ttl=0)
+    st.download_button(
+        "Download Labels as CSV",
+        label_df.to_csv(index=False, sep='\t').encode('utf-8'),
+        "label.csv",
+        "text/csv"
+    )
+
 
 @st.fragment
 def submit_label():
@@ -176,7 +188,7 @@ def submit_label():
             sql = sqlalchemy.sql.text(
                 'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
                 'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-            s.execute(sql, params=dict(doc_id=doc_id_selection,
+            s.execute(sql, params=dict(doc_id=st.session_state['doc_id_selection'],
                                        variable=variable_selection,
                                        label=result,
                                        ai_label=result,
@@ -198,7 +210,7 @@ def submit_label():
                     sql = sqlalchemy.sql.text(
                         'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
                         'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-                    s.execute(sql, params=dict(doc_id=doc_id_selection,
+                    s.execute(sql, params=dict(doc_id=st.session_state['doc_id_selection'],
                                                variable=variable_selection,
                                                label=existed_label_value,
                                                ai_label=result,
@@ -214,14 +226,15 @@ def submit_label():
                     sql = sqlalchemy.sql.text(
                         'insert or replace into label(doc_id, variable, label, ai_label, manual_label, prompt_version) '
                         'values (:doc_id, :variable, :label, :ai_label, :manual_label, :prompt_version)')
-                    s.execute(sql, params=dict(doc_id=doc_id_selection,
+                    s.execute(sql, params=dict(doc_id=st.session_state['doc_id_selection'],
                                                variable=variable_selection,
                                                label=manual_variable_input,
                                                ai_label=result,
                                                manual_label=manual_variable_input,
                                                prompt_version="prompt version"))
                     s.commit()
-    current_pdf_csv = conn.query("select doc_id, variable, label from label", ttl=0)
+    doc_id = st.session_state['doc_id_selection']
+    current_pdf_csv = conn.query(f"select doc_id, variable, label from label where doc_id = '{doc_id}'", ttl=0)
     st.write(current_pdf_csv)
 
 
@@ -241,10 +254,10 @@ def labeling_area():
 
 @st.fragment
 def summary_area(summary, height):
-    st.text_area(f"Summary of {doc_id_selection}: ", summary, int(height/2))
+    st.text_area(f"Summary of {st.session_state['doc_id_selection']}: ", summary, int(height/2))
 
 if doc_id_selection:
-    filename = pdf_dict[doc_id_selection]
+    filename = pdf_dict[st.session_state['doc_id_selection']]
     pdf_path = os.path.join('resources/pdf', filename)
     summary = openai_service.chat_with_pdf(pdf_path, summary_prompt)
     if not st.session_state['binary']:
@@ -321,4 +334,5 @@ if doc_id_selection:
             summary_area(summary, height)
         with col2:
             export_pdf_body()
+            export_label_csv()
             labeling_area()

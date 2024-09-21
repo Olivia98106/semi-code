@@ -62,10 +62,8 @@ def chat_with_pdf(pdf_file_path, query):
 
 
 if __name__ == "__main__":
-    q = "What is the number of the case/entity in the study? Entity is the unit of analysis/granuality/ resolution in the study. Provide a number ONLY"
+    q = "What are the time phrases in the article? Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
     result = chat_with_pdf(
-        'resources/pdf/10.1080&03634520009379197.pdf',
-        util.query_add_md(q))
-    for line in result.splitlines():
-        print(1)
-        print(line)
+        'resources/pdf/10.1177&107769908105800204.pdf',
+        q)
+    print(result)

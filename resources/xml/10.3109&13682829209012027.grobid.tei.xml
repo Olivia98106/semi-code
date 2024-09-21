@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Developmental verbal dyspraxia I: A review and critique</title>
+				<funder ref="#_4p4uX6J">
+					<orgName type="full">Speech and Language Advances in Basic Research and Practice, Vol</orgName>
+				</funder>
+				<funder ref="#_sa5YM4N #_E5VHCnk #_QH6khNt #_EwQ6ATr">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Speech and Language Advances in Basic Research and Practice</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Academic Press</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Joy</forename><surname>Stackhouse</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Hospital&apos;s College of Speech Sciences</orgName>
+								<address>
+									<settlement>London</settlement>
+									<region>LIK</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Developmental verbal dyspraxia I: A review and critique</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FC7F21A80D0072ADD59DC56A8FD14E88</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-21T07:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>developmental verbal dyspraxia</term>
+					<term>differential diagnosis</term>
+					<term>psycholinguistic and educational consequences</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Developmental verbal dyspraxia is examined from four perspectives: clinical, phonetic, linguistic and cognitive. The paper critically discusses the problems encountered when criteria for identifying 20 STACKHOUSE</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>acquired speech disorders in the adult population are applied to children's speech difjiculties without modifications. It is argued that studies of verbal dyspraxia in children have ignored the unfolding nature of this condition and that a developmental perspective has been lacking in the literature. A need for the inclusion of appropriate control groups and longitudinal case studies is identified. The issue and process of differential diagnosis are addressed and a checklist of criteria for identifying developmental verbal dyspraxia is included. It is noted that this process will inevitably be lengthy with data needed from different aspects of a child's development. Phonetic characteristics alone may not be sufjicient to recognise this medical condition with its complex psycholinguistic and educational consequences.</p><p>L'article examine la dyspraxie verbale lors du dkveloppernent des enfants de quatre points de vue: clinique, phonique, linguistique et cognitif. I1 discute les problkmes qui se posent lorsqu'on applique tels quels aux difjicultks phoniques des enfants les critkres &amp;identification des dksordres phoniques acquis par les adultes. I1 avance l'hypothbe que les ktudes de la dyspraxie verbale chez les enfants ont jusqu'ici laisst de cdtk l'aspect kvolutif de cette condition et que les publications n'ont pas tenu compte d u n e perspective like au dkveloppement de la personne. I1 met l'accent sur la nkcessitk de faire des comparaisons avec des groupes convenables de contrdle et de prockder a des ktudes longitudinales. I1 s'intkresse aux p r o b l h e s et a w techniques du diagnostic diffkrentiel et il fournit une liste de critkres pour permettre didentifier la dyspraxie verbale lors du dkveloppernent. I1 note que cette prockdure nkcessite du temps et la prise en compte de toutes sortes de donnkes likes aux diffkrents aspecfi du dkveloppement de l'enfant. A elles seules les caractkristiques phonktiques ne sauraient sufjire pour identifier a coup sLir cette condition pathologique ainsi que ses conskquences complexes des points de vue psycholinguistique et kducationnel.</p><p>Die Sprechapraxie im Kindesalter wird aus klinischen, sprech-, sprachwissenschajilichen und kognitiven Hinsichten untersucht. Diese Arbeit stellt eine kritische Besprechung der Schwierigkeiten dar, die aujireten, wenn man die Kriterien zur Erkennung von erworbenen Sprechstorungen bei Erwachsenen ohne jede Modifizierung bei Sprechstorungen von Kindern anzuwenden versucht.</p><p>Wir vertreten die Meinung, dass Studien uber Sprechapraxie im Kindesalter die Entwicklungseigenschaften dieser Storung nicht betrachtet haben und dass diese Perspektive in der Fachliteratur fehlt. Die Notwendigkeit passende Kontrollgruppen und Langschnittstudien einzubeziehen, wird nachgewiesen. Die Frage und das Verfahren der Differentialdiagnose werden angesprochen und wir bieten eine Liste der Kriterien zur Erkennung von Sprechapraxie im Kindesalter an. Wir deuten darauf hin, dass dieses Verfahren unumganglich langwierig sein wird, da man Daten aus verschiedenen Aspekten der Entwicklung des Kindes braucht. Die Sprecheigenschaften alleine sind vielleicht ungenugend, u m diesen medizinischen Zustand rnit seinen komplexen psycholinguistischen und padagogischen Folgen rnit Sicherheit zu erkennen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The speech disorder described as 'developmental verbal dyspraxia' has proved to be one of the most controversial of the developmental speech disorders. Arguments surround not only the nature of the problem but indeed its very existence (Guyette &amp; Diedrich, 1981). Originally, the term was used with reference to the population of adults who had acquired a problem in programming motor speech output as the result of brain damage <ref type="bibr" target="#b6">(Broca, 1861)</ref>. Whether acquired dyspraxia of speech is a pure motor difficulty (Darley, Aronson &amp; Brown, 1975) or one of linguistic processing <ref type="bibr" target="#b17">(Martin, 1974)</ref> remains a moot point.</p><p>The term 'dyspraxia' was not applied to children with developmental speech disorders until the 1950s when Muriel Morley identified a 'dyspraxic' group of 12 children ranging in age from 4 to 10 years. She defined the condition as follows:</p><p>A defect of articulation which occurs when movements of the muscles used for speech . . . appear normal for involuntary and spontaneous movements . . . or even for voluntary imitation of movements . . . , but are inadequate for the complex and rapid movements used for articulation and reproduction of sequences of sounds used in speech. (Morley, 1965)   More recently, the validity of this description for a 'dyspraxic' subgroup of developmental speech disorder has been questioned. <ref type="bibr" target="#b39">In 1974, Yoss and</ref> Darley distinguished between children with dyspraxia and functional articulation disorders on the basis of neurological ratings and speech errors. However, <ref type="bibr">Williams,</ref><ref type="bibr">Ingham and Rosenthal(l981)</ref> failed to replicate these findings. They administered the same tests as Yoss and Darley to a group of 30 moderately to severely speech-disordered children whose articulatory difficulties could not be explained by low intelligence, poor hearing, slow language development or an organic aetiology. Although there was consistency between the two studies on the presence of slow diadochokinetic rates in the speech-disordered children, neither tests of isolated nor tests of sequenced volitional oral movements distinguished between the speech-disordered children and there were no significant neurological findings. <ref type="bibr">Williams et al., however, did</ref> not collect data on the suprasegmental features of the children's speech and therefore could not support or refute Yoss and Darley's observation of altered prosodic features in the children classified as having dyspraxia of speech. <ref type="bibr">Williams et al.</ref> suggested that their failure to replicate the earlier study may have been due to a difference in the severity of the speech disorders chosen, or even the referral source. Until such selection variables are controlled, it remains that no dyspraxic subgroup has been empirically identified in the speech-disordered population. The failure of these studies to reach a conclusive view led <ref type="bibr">Guyette and Diedrich (1981)</ref> to state that, 'developmental apraxia of speech is a label in search of a population'.</p><p>However, in spite of the lack of tight empirical evidence, there is a strong consensus among clinicians as to what constitutes 'developmental verbal dyspraxia' . <ref type="bibr">Williams, Packman, Ingham and Rosenthal (1980)</ref> reported the results of a study involving a questionnaire administered to 31 clinicians who had had between 3 and 20 years' experience. The clinicians were asked to classify 18 behaviours as being 'always', 'sometimes' or 'never' associated with three different types of articulatory problem: functional, dyspraxic or organic. The following four behaviours were 'always' associated with developmental verbal dyspraxia:</p><p>1. Deviant rather than immature articulatory behaviour. 2. Searching behaviour when trying to produce phonemes. 3. Inability to produce individual or sequences of phonemes volitionally. 4. Inconsistent pattern of errors.</p><p>Thus, clinicians believe that developmental verbal dyspraxia is an identifiable clinical entity. However, there are some problems in the way the questionnaire was designed. First, the clinicians were presented with a three-way classification of speech disorders: functional, dyspraxic and organic. Yet, the same authors had been unable to differentiate functional and dyspraxic difficulties in the study discussed above <ref type="bibr" target="#b36">(Williams et al., 1981)</ref>. Secondly, there was no definition of this classification and the questionnaire forced clinicians to differentiate the speech disorders by drawing on the traditional and accepted definitions. <ref type="bibr">Deputy (1984)</ref> refers to this phenomenon as the 'Authority Effect', whereby 'tentative conclusions and findings gain status through citation'. Thirdly, the behaviours identified as 'always' associated with dyspraxia may best describe the acquired rather than the developmental condition. It is, therefore, still unclear what behaviours typify developmental verbal dyspraxia in children, particularly during the pre-school years.</p><p>Three major areas would seem to account for the current confusion over differential diagnosis of developmental verbal dyspraxia:</p><p>1. Lack of a thorough description of the difficulties. 2. Methodological problems within individual studies. 3. Lack of a developmental perspective.</p><p>To date, few papers have included a detailed description of the speech difficulties found in children with developmental verbal dyspraxia. Furthermore, there have been some dangerous theoretical leaps from superficial observations of behaviour. When children's articulatory struggle behaviour was observed and labelled dyspraxic it was automatically explained, with reference to the 'adult' model, as a motor programming difficulty. It was not long before predictions were made about aetiology. <ref type="bibr">Rosenbek and Wertz (1972)</ref> discussed the location of 'lesions' and praxic centres in the brain; Ferry, <ref type="bibr">Hall and Hicks (1975)</ref> talked about a 'neurological disorder' and yet hard evidence of this is not apparent <ref type="bibr">(Gubbay, 1978)</ref>.</p><p>The second issue is a methodological one. A major criticism of the studies of children with developmental verbal dyspraxia surrounds the subject selection process. First, subjects have been included who also have dysarthria, nondescript language problems and mental handicap (Rosenbek &amp; Wertz, 1972;  Ferry et al., 1975). Secondly, wide age ranges have been incorporated in the same clinical group. <ref type="bibr">Rosenbek and Wertz (1972)</ref> tested pre-school children to teenagers, whereas <ref type="bibr" target="#b22">Morley (1965) and</ref><ref type="bibr">Ferry et al. (1975)</ref> extended the range to adults -from 4 to 20 years, and from 4 to 30 years respectively. Thirdly, subjects have been allocated to groups on shaky premises. These include:</p><p>1. Preconceived but not proven diagnostic criteriaslow diadochokinetic rates, inconsistency and groping for articulatory positions <ref type="bibr">(Ferry et al., 1975)</ref>. 2. Severity ratings -multiple articulation errors <ref type="bibr" target="#b10">(Crary, 1984)</ref>, failure to make progress in conventional therapy <ref type="bibr">(Ferry et al., 1975)</ref>. 3. Previous diagnosis by clinicians from different professions, thereby increasing the likelihood of differing diagnostic criteria (Prichard, Tekieli &amp;  KOZUP, 1979; Parsons, 1984). 4. Tests used for the selection procedure have been incorporated in the experimental procedure (Aram &amp; Honvitz, 1983; Milloy, 1986).</p><p>A circular argument has therefore evolved. Thus, criteria for allocation to the dyspraxic group have become the recognised symptoms of developmental verbal dyspraxia. Furthermore, the mixed populations studied invalidate the results.</p><p>The last, and perhaps most serious, barrier to developing our knowledge of developmental verbal dyspraxia is the lack of a developmental perspective. The unfolding nature of the problem in children has been ignored. Furthermore, what effect do dyspraxic speech errors have on the child's developing linguistic system? <ref type="bibr" target="#b19">Milloy (1985)</ref> has begun to address the issue of the developmental perspective by suggesting that repeated testing over a minimum of a 12-month period is necessary in order to establish the existence of verbal dyspraxia, but the effect of such speech errors on other areas of the child's development has not yet been addressed in the literature. However, four other perspectives have been taken: clinical, phonetic, linguistic and cognitive.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THE CLINICAL PERSPECTIVE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>'Hard Neurological Signs</head><p>Acquired verbal dyspraxia is normally accompanied by a right hemiparesid paralysis with lesions in Broca's area and the sensorimotor cortex. In contrast, hard clinical evidence of a neurological aetiology has been difficult to find in its developmental counterpart (Gubbay, 1978). In a review of 50 cases of developmental dyspraxia, whose age ranged from 2 to 14 years, <ref type="bibr">Rosenbek and Wertz (1972)</ref> found that 61% of the children presented as 'essentially normal' on neurological examination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>'Soft Neurological Signs</head><p>The incidence of neurological soft signs in developmental dyspraxics is reported more widely in the literature ( <ref type="table">Rosenbek</ref> &amp;<ref type="table" target="#tab_1">Wertz, 1972; Yoss</ref> &amp;<ref type="table" target="#tab_1">Darley, 1974;</ref>  <ref type="bibr">Ferry et al., 1975;</ref><ref type="bibr">Gubbay, 1978;</ref><ref type="bibr" target="#b10">Crary, 1984)</ref>. These include: drooling, early feeding difficulties, and clumsiness on gross and fine motor tasks such as bead threading, tying shoelaces and dressing. In <ref type="bibr" target="#b10">Crary's (1984)</ref> review of 25 dyspraxic children, 52% had motor coordination difficulties and 92% of these had a significant medical history such as convulsions, high fever or pneumonia. The incident usually occurred before the age of 2 years and was serious enough to lead to hospitalisation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oral Motor Skills</head><p>It is debatable whether a diagnosis of verbal dyspraxia can be made in the absence of oral dyspraxia. <ref type="bibr">Eisenson (1972)</ref> argued that, unlike the acquired condition, developmental verbal dyspraxia will always be accompanied by oral dyspraxia. In fact, all 25 of <ref type="bibr" target="#b10">Crary's (1984)</ref> cases had some degree of oral motor incoordination even though no obvious motor weakness was apparent. In a follow-up study of the motor skills of 10 boys between the ages of 5;2 and 8;8 years suspected of having verbal dyspraxia, <ref type="bibr" target="#b11">Crary and Anderson (1990)</ref> found that the boys had slower diadochokinetic rates than age-matched normal controls. Similarly, their performance on a non-speech facial posture task deteriorated as complexity of postures increased. In contrast, this was not the case on a hand posture task; although the normal controls still performed better overall, the performance of the speech-disordered group was not adversely affected by the complexity of the movements. Non-verbal oral skills, however, may respond well to oral training so that it is possible for an older child to be left with a verbal dyspraxia alone. Indeed, <ref type="bibr" target="#b12">Henry (1990)</ref> found that speechdisordered children aged 3-5 years did show some improvement with age on tests of diadochokinetic rates. In contrast, this was not the case in their performance on tests of rhythm and auditory memory.</p><p>It is doubtful whether developmental verbal dyspraxia can be differentiated from other developmental language disorders on the basis of non-verbal skills. The features of clumsiness, lack of facial expression, poor oral sensory motor feedback and slow diadochokinetic rates could equally be true of children with dysarthria, specific language disorder, phonological disability and dyslexia. Certainly, it can be difficult to differentiate developmental dysarthria and dyspraxia, particularly in the less severe cases, and the two conditions may coexist (Milloy &amp; Morgan-Barry, 1990).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Familial Factors</head><p>As with other language-related conditions there is a predominance of males compared to females in groups of dyspraxic children investigated. There were between 67 and 90% of boys in the studies quoted above. Along with this is the strong family incidence of 1anguageAearning problems. Sixty-seven per cent of families in <ref type="bibr" target="#b22">Morley's (1965)</ref> study demonstrated this. Similarly, <ref type="bibr" target="#b10">Crary (1984)</ref> reports that a high percentage of the subjects' fathers or paternal family members had a history of delayed speech development, articulation problems, stammering or dyslexic difficulties. In a recent familial study, <ref type="bibr" target="#b14">Lewis, Ekelman and Aram (1989)</ref> compared the performance of 20 children with severe phonological disorders and their siblings with normal controls on measures of phonological skill, word repetition, oral motor skills, gross and fine motor skills, language development and reading development. In addition, they compared case history information. The associated poor performances of the speech-disordered children's siblings on these measures, and the higher incidence of speech-language and dyslexic difficulties in their families, suggested a familial basis for the more severe forms of phonological disorder. The authors state that they do not differentiate speech disorders in this study; their term 'phonological disorder' includes children whose speech errors arise from a disordered phonological system as well as from an articulatory basis. It can, therefore, be assumed that some of these children would also meet the criteria for a diagnosis of verbal dyspraxia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THE PHONETIC PERSPECTIVE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>History of Speech Difficulty</head><p>In the clinical literature, it is widely held that developmental verbal dyspraxia is associated with three particular symptoms: (1) a history of delayed speech development, (2) unintelligibility and (3) resistance to remediation <ref type="bibr" target="#b15">(Macaluso-Haynes, 1985)</ref>. However, these general characteristics could be present in any moderate-to-severe speech disorder. Indeed, there is a misconception in the literature that developmental verbal dyspraxia will inevitably be a severe and obvious disability. Hall (1989), for example, describes a school-age child who initially presented as a case of mild /r/ defect. Closer investigation revealed other difficulties characteristic of dyspraxia: inconsistent and incoordinated speech production, breakdown in multisyllabic words, oral dyspraxia and prosodic problems. This subtle and sometimes 'hidden' speech difficulty has also been found in cases of dyslexic children (Snowling, 1981; Miles, 1982;  Brady, Poggie &amp; Rapala, 1989; Stackhouse &amp; Wells, 1991). It is, therefore, necessary to look for characteristics specific to developmental verbal dyspraxia, presence and persistence of the presenting symptoms perhaps being more significant than their severity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Articulatory Characteristics</head><p>The articulatory characteristics of developmental verbal dyspraxia have received the most attention in the literature and the phonetic perspective is perhaps the one most influenced by the model of acquired dyspraxia in adults. Thus, such diagnostic criteria as 'breakdown in multisyllabic words' , 'extreme variability in production' and 'groping for sounds' are often applied. However, it can be argued that these criteria are quite irrelevant to the diagnosis in a child who has not yet developed a complete sound system or the ability to produce multisyllabic words. Hence, other signs may be relevant to the developmental disorder, for example, distorted articulations, sound omissions, voice, place and manner errors, metatheses and vowel distortion. However, these could equally characterise what others might call a 'phonological disability' and differentiation between these two has proved difficult <ref type="bibr" target="#b24">(Parsons, 1984)</ref>. Phonetic features alone are unlikely to lead to an accurate diagnosis of developmental verbal dyspraxia in the young child.</p><p>Prosodic Factors <ref type="bibr">Edwards (1984)</ref> has shifted attention from the segmental to the suprasegmental level of speech production. The view that a prosodic disorder is an intrinsic part of verbal dyspraxia is in opposition to <ref type="bibr">Darley et al. (1975)</ref> who believe that any arrhythmia in dyspraxic speech is the consequence of struggling for articulatory postures. <ref type="bibr" target="#b13">Laver's (1970)</ref> model of skilled speech production cites two possible types of rhythmic disorder. The first is at a phonological level of linguistic programming and the second at a phonetic level of vocal tract incoordination resulting from neuromuscular dysfunction. Although Edwards has referred to this possibility, this notion has not been followed up in the developmental literature on verbal dyspraxia which generally assumes that one level of breakdownmotor programmingis the cause of the articulatory difficulties.</p><p>If a child with verbal dyspraxia has a prosodic disturbance, it can be assumed that this will have effects on phonological representation and the developing lexicon. Indeed, theories of lexical development indicate that a disturbance at this level will have far-reaching effects (Chiat, 1983; Chiat &amp; Hirson, 1987).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coordination of the Vocal Tract</head><p>A further barrier to speech production occurs when the vocal tract is incoordinated. In order to produce sounds contrastively, the child needs to control laryngeal vibration (pidbin), the velopharyngeal sphincter (bee/me), articulatory place change (pea/tea/key) and articulatory stricture (two/Sue/ chew/you). The accurate timing of such movements is another possible explanation of the speech characteristics of developmental verbal dyspraxia. <ref type="bibr" target="#b21">Milloy and Morgan-Barry (1990)</ref> describe the difficulties encountered by children with dyspraxia as ones of initiating, directing and controlling the speed and duration of movements of articulation. The literature, however, has been sparse on normal motor speech development (see <ref type="bibr">Hawkins, 1984</ref>, for a review), and no study has examined whether the speech errors found in developmental verbal dyspraxia are qualitatively or quantitatively different from normal speech development. If distinct, the condition should be differentiated from the normally developing population as well as other developmental speech disorders by a persisting mistiming and ordering of vocal tract sequences. The result would be inconsistent respiration, voicing, prosody, resonance and articulation.</p><p>In summary, the speech difficulties characteristic of developmental verbal dyspraxia could be the result of a single deficit or a combination of three levels of breakdown: phonological misrepresentations in the lexicon, inability to plan the speech output and/or vocal tract incoordination. In the adult with an acquired disorder, these levels may be differentially impaired; but, it is not clear what the effect of malfunction at any of these levels may be on the child's developing phonology for speech, reading and spelling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THE LINGUISTIC PERSPECTIVE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phonological Factors</head><p>Recent studies of children with developmental verbal dyspraxia have used phonological analysis to examine the integrity of the phonological system. <ref type="bibr">Crary, Landess and Towne (1984)</ref> analysed the continuous speech samples of 10 dyspraxic children in the age range 3;9-13;11 years. Twelve phonological processes were identified; six of these reflected syntagmatic errors which were sequential reductions dependent on the position within the word. For example, prevocalic voicing (pig + [brg]) will occur in prevocalic position regardless of whether the phoneme is /p/, /t/ or /W. Five processes were paradigmatic. These relate to the phoneme itself regardless of its position in the word, for example [p] for /f/ or [t] for /s/. The remaining process identified was vowel neutralisation. The syntagmatic errors were the most prevalent. Sequential simplification by omission was the most common of these, for example deletion or weakening of final and intervocalic consonants (dog -+ [ d ~] ,</p><p>baby -+ [be~ji]) and cluster reduction (truck -+ [ t ~k ] ) . The results indicated a deficit in phonological sequencing abilities and/or motor speech timing. The authors dismissed the possibility of lower level articulatory constraints because none of the children had physical abnormalities. Instead, they suggested that the children had 'programming limitations'. However, these results are interpreted cautiously because of the wide age range tested. It is feasible that the performance of the 3 to 7 year olds at least would be clouded by normal articulatory immaturity, or what <ref type="bibr" target="#b20">Milloy (1986)</ref> has called 'immature articulatory praxis', whereas that of the older children may have been characteristic of a specific speech disorder. Nevertheless, other case studies have suggested that sequencing problems and restricted use of phonotactic structures, particularly where the child has a well-developed sound repertoire, may be associated with an underlying motor programming problem <ref type="bibr" target="#b19">(Milloy , 1985;</ref><ref type="bibr">Grunwell &amp; Yavas, 1988)</ref>.</p><p>Frisch and Handler (1974) take this a step further by associating a predominance of omission errors with an underlying neurological aetiology. They differentiated a group of speech-disordered children on the basis of their substitution and omission errors. The 'omission' group was compared to adults with left cerebral dysfunction. They differed from the 'substitution' group on motor output tasks even though there were no obvious gross motor difficulties. The persistence of omission errors over the age of 3 years was interpreted as indicative of cerebral dysfunction and this group was viewed as qualitatively distinct from other developmental speech disorders.</p><p>Although this comparison with the adult must be treated with caution, the phonological approach may be illuminating if the children could be examined longitudinally. The 'qualitative' distinction suggested by Frisch and Handler may disintegrate as the children mature. In short, the distinction may reflect different phases of the developmental process rather than qualitatively distinct groups.</p><p>The lack of a developmental perspective renders much of the evidence on developmental verbal dyspraxia difficult to interpret. <ref type="bibr" target="#b24">Parsons (1984)</ref>, for example, criticised <ref type="bibr">Crary et al.3</ref> study for its lack of a control group. He, therefore, selected seven phonologically impaired children ranging in age from 4;6 years to 6;8 years, and matched them on number of articulation errors to seven children with developmental verbal dyspraxia ranging in age from 3;11 years to 7;9 years. Data were collected from both groups when naming pictures and from continuous speech. Twenty-four phonological processes were identified in the speech sample, but there was no significant difference in the distribution of these processes between the two groups. The author concluded that children with developmental verbal dyspraxia are no different from children with multiple errors found in phonological disability.</p><p>Parsons' study raises a number of points. First, selection of subjects: criteria for selection to the dyspraxic group were based on poor diadochokinetic rates, history of incoordination or clumsiness, and oraVarticulatory struggle when speaking. Children were assigned to the phonologically impaired group if they had multiple articulation errors in the absence of articulatory incoordination or struggle behaviour. The diagnostic limitations of these characteristics have been discussed in the clinical perspective section above. The findings suggest that they bear no relationship to the speech pattern. Children already labelled as dyspraxic by their clinicians were also included. This is worrying because diagnostic criteria, particularly in the younger children, have never been clarified. The nodifference result could therefore be an effect of the selection procedure.</p><p>Secondly, although the two speech-disordered groups were equivalent on the number of sounds in error, the dyspraxic group made more multiple errors, reflected in the description of simultaneous simplifying processes. Parsons suggested that this is why authors have noted inconsistencies in dyspraxic speech (Rosenbek &amp; Wertz, 1972; Ferry et al., 1975; Murdoch, Porter,  Younger &amp; Ozzane, 1984). It is a pity that Parsons then dismissed this evidence because it could be argued that multiple simultaneous errors may indicate a different or additional level of breakdown in the articulatory process. As no normal control group was included in Parsons' study, it is not possible to say if these multiple errors are unique to the dyspraxic population or merely an earlier stage of normal development.</p><p>Thirdly, Parsons' finding of more paradigmatic processes within the dyspraxic group is a direct contradiction of that of <ref type="bibr" target="#b11">Crary et al. (1984)</ref> who found a greater incidence of syntagmatic simplification. The conflicting results can be explained by the different age ranges studied <ref type="bibr">(Parsons: 3;</ref><ref type="bibr">9;</ref><ref type="bibr">Crary et al.: 3;</ref><ref type="bibr">(9)</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref><ref type="bibr">(13)</ref><ref type="bibr">ll)</ref>. If paradigmatic processes result mainly from articulatory immaturity and syntagmatic processes from higher level programming skills, then it would follow that the younger the child the more likely that both error types will occur. As the child with developmental verbal dyspraxia matures, the paradigmatic processes will decline because by definition he or she should not have any neuromuscular weakness, leaving the more specific syntagmatic difficulties. The two studies are, therefore, not in conflict but are tapping different developmental stages. However, a more detailed investigation of normally developing children is necessary in order to test this hypothesis (see the paper on page 35 of this Journal).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Syntax</head><p>Many papers have referred to 'delayed language development' in dyspraxic children (Morley, 1965; Rosenbek &amp; Wertz, 1972; Ferry et al., 1975) but only one study has systematically focused on the syntactic structure of dyspraxic children's utterances. <ref type="bibr">Ekelman and Aram (1983)</ref> collected 50 spontaneous utterances from each of 8 children previously diagnosed as dyspraxic and ranging in age from 4;4 years to 11;ll years. Although all of the children had the appropriate mean length of utterance for their age, this did not predict their use of grammatical markers as would normally be expected <ref type="bibr">(Brown, 1973)</ref>. Several of the children omitted grammatical markers associated with earlier stages of development. In addition, pronouns were confused and auxiliary substitutions occurred. The children maintained their mean length of utterance by stringing together simple sentences. They were able to use conjunctions but not necessarily embedded clauses.</p><p>The use of more advanced structures in the absence of simpler ones led the authors to conclude that the children were not simply delayed in their development of syntax. Furthermore, the results could not be explained by an articulatory difficulty alone. The children were able to produce /s/ in the final position of a word to mark noun plurality, but did not do so on another occasion to mark the third person singular ending in verbs. As the data were not supplied in this study, the results are questionable because the phonetic context of the responses cannot be controlled in children's spontaneous utterances. However, this study indicates that children with developmental verbal dyspraxia can sometimes present with a specific syntactic disability, although it is noted that children described as having developmental verbal dyspraxia are very variable in their syntactic abilities <ref type="bibr" target="#b0">(Adams, 1990)</ref>.</p><p>The addition of the linguistic perspectives to the clinical and phonetic perspectives has led <ref type="bibr" target="#b10">Crary (1984)</ref> to redefine dyspraxia as a 'motor-linguistic disorder'. The child's incoordination difficulties are no longer only located at the level of the vocal tract. <ref type="bibr">Crary and Towne (1984)</ref> suggest that there is also 'asynergy' between the linguistic levels of phonology, morphology and syntax.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THE COGNITIVE PERSPECTIVE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intelligence</head><p>It is not uncommon for a dyspraxic child to show a discrepancy between verbal and performance scores on standardised intelligence tests. Although it is normally the verbal scores that are lower, some dyspraxic children also have difficulties on performance tests. This is particularly the case when forms other than verbal dyspraxia exist, for example, dressing or limb dyspraxia. Clinicians have reported difficulties when teaching sign language to dyspraxics and many of the children have difficulties in sequencing non-speech motor acts (Walton,  Ellis &amp; Court, 1962; Morley, 1965; Yoss &amp; Darley, 1974; Gordon &amp; McKinlay,  1980; McLaughlin &amp; Kriegsmann, 1980). Surprisingly, however, there have been very few systematic studies of non-verbal processing in dyspraxic children. <ref type="bibr">Aram and Honvitz (1983)</ref> addressed two questions: the first was whether dyspraxic children's sequential difficulties were generalised or whether they were only related to verbal tasks, and the second was whether their praxic difficulties were evident only in speech or also in non-verbal tasks. Again, unfortunately, a wide age range was studied: 4;4 years to 13;2 years. Ten children were selected based on the criterion of having a moderate-to-severe speech disorder even though there was a 'full range of lip and tongue movements'. In addition, the children  -Wechsler, 1974) as well as non-standardised tests of single and sequenced volitional oral movements were administered. The children's sequencing difficulties were found to be specific to verbal tasks. It could not be concluded, however, that a verbal sequencing difficulty is unique to verbal dyspraxia. <ref type="bibr" target="#b39">Yoss and Darley (1974)</ref> found that the Denver test did not differentiate their two speech-disordered groups of functional articulatory problems and articulatory dyspraxia. Furthermore, verbal sequential difficulties are noted in a variety of disorders -developmental dysphasia <ref type="bibr" target="#b38">(Wyke, 1980)</ref>, hearing impairment <ref type="bibr">(Furth, 1966)</ref> and dyslexia <ref type="bibr" target="#b18">(Miles, 1982)</ref>.</p><p>A general point of interest is raised from this studyindividual variation within the group on the praxic tasks. Four of the children exhibited signs of a more generalised praxic disorder. It is a pity that the non-verbal sequencing skills of these children were not reported separately. Given that there are different types of dyspraxia <ref type="bibr" target="#b27">(Roy, 1978)</ref>, it is possible that verbal sequencing deficits only occur with verbal dyspraxia, whereas non-verbal sequencing deficits accompany non-verbal dyspraxias. This would not preclude both verbal and non-verbal deficits presenting within the same child. The individual variation is another reminder of the importance of subject selection criteria and the lack of homogeneity in many groups of dyspraxic children studied.</p><p>Perceptual Skills <ref type="bibr" target="#b5">Bridgeman and Snowling (1988)</ref> reported difficulties with the perception of phoneme sequences in dyspraxic children. Twelve children with developmental verbal dyspraxia ranging in age from 7;2 years to 11 years were tested on an auditory discrimination test and their performance was compared to readingage-matched children. The task was designed to test sequential auditory discrimination in real and non-words. Discrimination of 15 familiar and 15 nonsense monosyllabic word pairs comprising cluster reversals (lost/lots, vost/ vots) were compared to 15 word and non-word pairs without clusters (loss/lot, vos/vot). There was no difference between the speech-disordered children and normal controls when asked to discriminate pairs without clusters. Indeed, all of the children were at ceiling on this task. However, the speech-disordered children performed less well on the cluster reversal condition particularly on non-word items. Their performance cannot be explained by orthographic experience because these children were matched on reading age. Rather, the dyspraxic children had a specific difficulty in detecting the sequence of phonemes within words.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reading and Spelling</head><p>Finally, studies of the reading and spelling performance of children diagnosed as having developmental verbal dyspraxia suggest that the condition is more pervasive than a lower level articulatory disorder <ref type="bibr" target="#b28">(Stackhouse, 1982;</ref><ref type="bibr" target="#b28">Snowling &amp; Stackhouse, 1983;</ref><ref type="bibr" target="#b32">Stackhouse &amp; Snowling, 1992)</ref>. A breakdown in phonological processing prevents the child with verbal dyspraxia from utilising phoneme-grapheme correspondence rules. Furthermore, the inconsistent and variable output characteristic of the school-age child with verbal dyspraxia militates against the successful sound segmentation and blending skills needed when reading and spelling (for further discussion of reading and spelling problems in speech-disordered populations see <ref type="bibr" target="#b30">Stackhouse, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DIFFERENTIAL DIAGNOSIS</head><p>The characteristics shown in Table <ref type="table" target="#tab_1">1</ref> pertain to each perspective on developmental verbal dyspraxia discussed above. It is clear that few of the characteristics listed in Table <ref type="table" target="#tab_1">1</ref> are unique to developmental verbal dyspraxia. Furthermore, there are no guidelines as to which, if not all, need to be identified before a diagnosis of dyspraxia can be made. In the absence of these guidelines, it is perhaps not surprising that diagnosis is often made by exclusion.</p><p>However, in a longitudinal study of a boy with developmental verbal dyspraxia, <ref type="bibr" target="#b31">Stackhouse (1992)</ref> demonstrates that all of the characteristics listed in Table <ref type="table" target="#tab_1">1</ref> were present at some point in his development between the ages of 2 and 18 years. This shows the unfolding and changing nature of the condition as new demands were made on the child. The defining characteristics of the disorder will depend on the child's developmental level; not all of the features listed in Table <ref type="table" target="#tab_1">1</ref> will be present all of the time. Some may not occur at all. However, if the label of developmental verbal dyspraxia is to be applied with any confidence, there should be evidence from each of the four perspectives during the child's development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUMMARY</head><p>The term 'dyspraxia' was originally used to describe an articulatory difficulty in adults with acquired speech and language disorders. The terminology and diagnostic criteria have been applied to the developmental speech-disordered population without sufficient modification. Consequently, 'dyspraxia' has become an umbrella term for children with persisting and serious speech difficulties in the absence of obvious causation, regardless of the precise nature of their unintelligibility.</p><p>Methodological problems are mainly to blame for this situation. Group studies have been limited in their design for a number of reasons. First, the wide age ranges studied within one group seriously jeopardise the understanding of a developmental speech disorder: to include older subjects alongside preschoolers as though they will behave in the same way will inevitably influence the results. Secondly, subjects have been allocated to groups on the basis of preconceived ideas about the existence of different types of speech disorders, thus perpetuating possible myths about the existence of clear subgroups in the speech-disordered population. Furthermore, these subjects have had a range of mild-to-severe speech and language handicaps which have affected their performance on tasks and may account for the common observation of subject variability within groups. Thirdly, the majority of studies fail to acknowledge the importance of appropriate control subjects. This is true of studies of speech errors in particular. Although rapid speech development occurs in the normal child between the ages of 2 and 4 years, articulatory skills do not stabilise until around at least 7 years of age. Up until this time, the child is having to use a  + changing anatomical and physiological system <ref type="bibr" target="#b3">(Baken, 1983)</ref>, and studies have shown that, compared to adults, 3 year olds are three times more variable in their vowel quality and voice-onset time <ref type="bibr">(Eguchi &amp; Hirsch, 1969)</ref>. It is likely, therefore, that some speech errors found in young speech-disordered children may be accounted for by 'normal' immaturity. This needs to be taken into account when establishing the diagnostic criteria for developmental verbal dyspraxia. However, appropriately matched, younger normal controls have not yet featured in studies of the speech development of children assumed to have developmental verbal dyspraxia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>It is argued that the lack of a developmental perspective in the design of studies of speech-disordered children has hampered our understanding of the complex nature of the condition known as 'developmental verbal dyspraxia'. It is suggested that one way forward in the development of our knowledge is to carry out in-depth psycholinguistic and longitudinal investigations of individual cases. This approach will allow a detailed description of the child's speech and language difficulties as they unfold and interact with other aspects of development. The subsequent knowledge base should influence not only the design of more stringent group studies in the future but also the content and design of more appropriate assessment procedures and intervention programmes for children with speech disorders.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>History of delayed language development (b) Verbal comprehension often significantly ahead of expressive language (c) Phonological disability (d) Restricted use of syntax (e) Disordered verbal language development (f) Non-verbal communication may be well developed and compensatory development D. The cognitive perspective (a) Often a significant discrepancy between verbal and performance tasks (b) Problems with reading, spelling, writing and drawing (c) Poor auditory memory (d) Sequencing difficulties (e) Cross-modality difficulties (f) Selective attention problems w ).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>had normal non-verbal intelligence and verbal comprehension. Standardised tests of verbal and non-verbal sequencing (Illinois Test of Psycholinguistic Abilities -Kirk, McCarthy &amp; Kirk, 1968; Aten's Denver Auditory Phoneme Sequencing Test -Aten, 1979; the Wechsler Intelligence Scale for Children</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 : Perspectives on developmental verbal dyspraxia.</head><label>1</label><figDesc></figDesc><table><row><cell>perspective</cell><cell>cteristics</cell><cell>f delayed speech development</cell><cell>to therapy</cell><cell>ible</cell><cell>nt versus rigid pattern</cell><cell>experimentation</cell><cell>ish articulation</cell><cell>crease as word length and complexity increase</cell><cell>n in continuous speech</cell><cell>tion</cell><cell>is</cell><cell>schwa</cell><cell>issions -particularly in syllable-final position</cell><cell>ace and manner errors</cell><cell>stortion</cell><cell>show dysarthric features</cell><cell>riate stress and intonation</cell><cell>speed -may have rushes of</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The author would like to thank <rs type="person">Clare Henry</rs> for her help with the literature review and <rs type="person">Maggie Snowling</rs>, <rs type="person">Bill Wells</rs> and <rs type="person">Pam Grunwell</rs> for their helpful comments on the manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><p>EKELMAN: B. t. &amp; ARAM, D. M . (1983). Syntactic findings in developmental verbal dyspraxia. Journal of Communication Disorders <rs type="grantNumber">16</rs>, <rs type="grantNumber">237-250</rs>. FERRY, P. c., HALL, s. M . &amp; HICKS, J . L. (1975</p><p>). 'Dilapidated' speech: developmental verbal dyspraxia. Developmental Medicine and Child Neurology 17, <rs type="grantNumber">749-756</rs>. FRISCH, G . HANDLER, L. (1974). A neuropsychological investigation of 'functional disorders of speech articulation'. Journal of Speech and Hearing Research 17, 432-445. FURTH, H. G. (1966). A comparison of reading test norms of deaf and hearing children. American Annals of the Deaf 111, <rs type="grantNumber">461-462</rs>. GORDON, <rs type="person">N. &amp; MCKINLAY</rs>, I . (1980). Helping Clumsy Children. Edinburgh: Churchill Livingstone. GRUNWELL, P. &amp; YAVAS, M . (1988). Phonotactic restrictions in disordered child phonology: a case study. Clinical Linguistics and Phonetics 2(1), 1-16. GUBBAY, s. s. (1978). The management of developmental dyspraxia. Developmental Medicine and <rs type="person">Child Neurology 20</rs>, <rs type="grantNumber">643-646</rs>. GUYETTE, T. w. &amp; DIEDRICH, w. M. (1981). A critical review of apraxia of speech. In: <rs type="person">N. J. Lass</rs> (Ed.), <rs type="funder">Speech and Language Advances in Basic Research and Practice, Vol</rs>. 6. London: Academic Press. HALL, P. K. (1989). The occurrence of developmental apraxia of speech in a mild articulation disorder: a case study. Journal of Communication Disorders 22, 265-276. HAWKINS, s. (1984). On the development of motor control in speech: evidence from studies of temporal coordination. In: <rs type="person">N. J. Lass</rs> (Ed.), <rs type="funder">Speech and Language Advances in Basic Research and Practice</rs>, Vol. 11. London: <rs type="funder">Academic Press</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_sa5YM4N">
+					<idno type="grant-number">16</idno>
+				</org>
+				<org type="funding" xml:id="_E5VHCnk">
+					<idno type="grant-number">237-250</idno>
+				</org>
+				<org type="funding" xml:id="_QH6khNt">
+					<idno type="grant-number">749-756</idno>
+				</org>
+				<org type="funding" xml:id="_EwQ6ATr">
+					<idno type="grant-number">461-462</idno>
+				</org>
+				<org type="funding" xml:id="_4p4uX6J">
+					<idno type="grant-number">643-646</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Syntactic comprehension in children with expressive language impairment</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Disorders of Communication</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">149171</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sequential and non-speech praxis abilities in developmental verbal dyspraxia</title>
+		<author>
+			<persName><forename type="first">Aram</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Medicine and Child Neurology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="197" to="206" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Denver Auditory Phoneme Sequencing Test</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aten</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>College-Hill Press</publisher>
+			<pubPlace>Houston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Getting ready to talk. The infant&apos;s acquisition of motor capability for speech</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Baken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Neuropsychology of Language, Reading and Spelling. Educational Psychology Series</title>
+		<editor>
+			<persName><forename type="first">U</forename><surname>Kirk</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Speech repetition in children who differ in reading skill</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Poggie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rapala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language and Speech</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="109" to="122" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The perception of phoneme sequence: a com arison of dyspraxic and normal children</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bridgeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Snowling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Disorders of Communication</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="249" to="252" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Remarques sur le sitge de la facultt du langage articult, suivies d&apos;une observation d&apos;aphemie peste de la parole)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Broca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. SOC. d&apos;Anat., 2nd series</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="330" to="337" />
+			<date type="published" when="1861">1861</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">(19&apos;74. A First Language</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Why &apos;Mikey&apos;s&apos; right and &apos;my key&apos;s&apos; wrong: The significance of stress and word boundaries in a child&apos;s output system</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chiat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="275" to="300" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">From conceptual intention to utterance: a study of impaired language output in a child with developmental dysphasia</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chiat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hirson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Disorders of Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="37" to="64" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Crary</surname></persName>
+		</author>
+		<title level="m">A neurolinguistic perspective on developmental verbal dyspraxia. Communicative Disorders M(3)</title>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="33" to="49" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The asynergistic nature of developmental verbal dyspraxia. suspected dyspraxia of speech</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Crary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical and Experimental Neuropsychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Crary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Towne</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="37" />
+			<date type="published" when="1984">1990. 1984</date>
+		</imprint>
+	</monogr>
+	<note>Australian Journal of Human Communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The development of oral diadochokinesia and non-linguistic rhythmic skills in normal and speech-disordered young children</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Kirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>K I R K</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Linguistics and Phonetics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="1968">1990. 1968</date>
+			<publisher>Illinois Testof Psycholinguistic A b University of Illinois Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The production of speech</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Horizons of Linguistics. Harmondsworth: Penguin</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Lyons</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A family study of severe phonological disorders</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ekelman</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Aram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Speech and Hearing Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="713" to="724" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Developmental apraxia of speech: symptoms and treatment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macaluso-Haynes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Clinical Management of Neurogenic Communicative Disorders</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Johns</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Little Brown &amp; co</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Developmental dyspraxia in a family with X-linked mental retardation (Renpenning Syndrome)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kriegsmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Medicine and Child Neurology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">I</biblScope>
+			<biblScope unit="page" from="84" to="92" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Some objections to the term apraxia of speech</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Speech and Hearing Disorders</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="53" to="64" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Dyslexia: The Pattern of Dificulties</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Granada</publisher>
+			<pubPlace>St Albans</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The assessment and ident@cation of developmental articulatory dyspraxia and its effect on phonological development</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Milloy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<pubPlace>Leicester Polytechnic, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Unpublished PhD Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The discovery of a population</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Milloy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speech Therapy in Practice</title>
+		<imprint>
+			<date type="published" when="1986-12">1986. December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Developmental neurological disorders</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Milloy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morgan-Barry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Developmental Speech Disorders</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Grunwell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Churchill Livingstone</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Morley</surname></persName>
+		</author>
+		<title level="m">The Development and Disorders of Speech in Childhood</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Churchill Livingstone</publisher>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Behaviours identified by South Australian clinicians as differentially diagnostic of developmental articulatory dyspraxia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Murdoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Younger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ozzane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Human Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="55" to="69" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A comparison of phonological processes used by developmentally verbal dyspraxic children and non-dyspraxic phonologically impaired children</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Parsons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Human Communication Disorders</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="93" to="107" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Developmental apraxia: diagnostic considerations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Prichard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Tekieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kozup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication Disorders</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="337" to="348" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A review of fifty cases of developmental apraxia of speech</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Rosenbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wertz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language, Speech and Hearing Services in Schools</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="23" to="33" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Apraxia: a new look at an old syndrome</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J o u m l of Human Movement Studies</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="191" to="210" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">An investigation of reading and spelling performance in speech disordered 121-137. 219-234. dyspraxia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Snowling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Snowling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stackhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">children. British Journal of Disorders of Communication</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="1981">1981. 1983. 1982</date>
+		</imprint>
+	</monogr>
+	<note>Developmental Medicine and Child Neurology</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Phonological dyslexia in children with developmental verbal dyspraxia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stackhouse</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of London</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Phonological deficits in developmental reading and spelling disorders</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stackhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Developmental Speech Disorders</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Grunwell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Churchill Livingstone</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Developmental verbal dyspraxia: A longitudinal case study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stackhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mental Lives: Studies in Cognition</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Campbell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basil Blackwell</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Barriers to literacy development in two cases of developmental verbal dyspraxia: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stackhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Snowling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Neuropsychology</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Dyslexia: the obvious and hidden speech and language disorder</title>
+		<author>
+			<persName><forename type="first">1</forename><surname>Stackhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>&amp;wells</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dyslexia: Integrating Theory and Practice</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Snowling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Thomson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Whurr</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Clumsy children: developmental apraxia and agnosia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Walton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D M</forename><surname>&amp;court</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Wechsler Preschool and Primary Scale of Intelligence</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wechsler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>The Psychological Corporation</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A further analysis for developmental apraxia of speech in children with defective articulation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of S eech and Hearing Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="496" to="505" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">fTClinician agreement on behaviours that identif developmental articulatory dyspraxia</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ingham</forename><surname>Packman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Crosenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Human Communication Disordlrs</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="26" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Developmental Dysphasia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Wyke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Developmental spraxia of speech in children with defective articulation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Yoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Darley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Speech and Hearing Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="399" to="416" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dr</forename><forename type="middle">J</forename><surname>Address</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nhcss</forename><surname>Stackhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chandler</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wakefield</forename><surname>Street</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">London</forename><surname>Wcln Lpg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">K</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991-01">January 1991. November 1991</date>
+		</imprint>
+	</monogr>
+	<note>revised version</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
