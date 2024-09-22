@@ -166,7 +166,9 @@ with col1:
                     reference_df.append(ref)
             except:
                 pass
-        show_phrase()
+        # show_phrase()
+        st.write(f"Notes about {input_keyword}:")
+        st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
 
 
 @st.fragment
