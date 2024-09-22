@@ -180,6 +180,36 @@ def export_pdf_selected_content():
         )
 
 @st.fragment
+def export_pdf_selected_content_as_txt():
+    # init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
+    filename = pdf_dict[st.session_state['doc_id_selection']]
+    filename = filename[:-4]
+    logging.info(f"export pdf select content {filename}")
+    with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
+        soup = BeautifulSoup(file, features="xml")
+        selected_txt = soup.title.text + '\n\n'
+        if highlight_person_names:
+            for persName in soup.find_all('persName'):
+                pn = ''
+                for name in persName.children:
+                    pn = pn + name.text + " "
+                selected_txt = selected_txt + pn + '\n'
+            selected_txt = selected_txt + '\n'
+        if highlight_figures:
+            for figure in soup.find_all('figure'):
+                if figure.head:
+                    selected_txt = selected_txt + figure.head.text + '\n'
+            selected_txt = selected_txt + '\n'
+        if highlight_sentences or highlight_paragraphs:
+            for paragraph in soup.find_all('p'):
+                selected_txt = selected_txt + paragraph.text + '\n'
+        st.download_button(
+            label="Download Selected Content as TXT",
+            data=selected_txt,
+            file_name=f"{filename}.txt"
+        )
+
+@st.fragment
 def export_label_csv():
     label_df = conn.query(
         f"select doc_id, variable, label from label order by doc_id, variable", ttl=0)
@@ -370,5 +400,6 @@ if doc_id_selection:
             init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
             export_pdf_body()
             export_pdf_selected_content()
+            export_pdf_selected_content_as_txt()
             export_label_csv()
             labeling_area()

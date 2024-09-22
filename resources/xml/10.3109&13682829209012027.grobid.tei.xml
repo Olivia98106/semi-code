@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Developmental verbal dyspraxia I: A review and critique</title>
-				<funder>
-					<orgName type="full">Speech and Language Advances in Basic Research and Practice</orgName>
-				</funder>
-				<funder ref="#_pdaKRwD">
+				<funder ref="#_QjsMW9Q">
 					<orgName type="full">Speech and Language Advances in Basic Research and Practice, Vol</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Academic Press</orgName>
+					<orgName type="full">Speech and Language Advances in Basic Research and Practice</orgName>
 				</funder>
-				<funder ref="#_sUbWJga #_QTyjwPe #_fdXfWQA #_9Sm8tkn">
+				<funder ref="#_g8EbDkW #_SKcqbVx #_rjDfFa7 #_WmCuvyC">
 					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Academic Press</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -50,7 +50,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.0" ident="GROBID" when="2024-09-21T12:21+0000">
+				<application version="0.8.0" ident="GROBID" when="2024-09-22T01:37+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -103,19 +103,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>EKELMAN: B. t. &amp; ARAM, D. M . (1983). Syntactic findings in developmental verbal dyspraxia. Journal of Communication Disorders <rs type="grantNumber">16</rs>, <rs type="grantNumber">237-250</rs>. FERRY, P. c., HALL, s. M . &amp; HICKS, J . L. (1975</p><p>). 'Dilapidated' speech: developmental verbal dyspraxia. Developmental Medicine and Child Neurology 17, <rs type="grantNumber">749-756</rs>. FRISCH, G . HANDLER, L. (1974). A neuropsychological investigation of 'functional disorders of speech articulation'. Journal of Speech and Hearing Research 17, 432-445. FURTH, H. G. (1966). A comparison of reading test norms of deaf and hearing children. American Annals of the Deaf 111, <rs type="grantNumber">461-462</rs>. GORDON, <rs type="person">N. &amp; MCKINLAY</rs>, I . (1980). Helping Clumsy Children. Edinburgh: Churchill Livingstone. GRUNWELL, P. &amp; YAVAS, M . (1988). Phonotactic restrictions in disordered child phonology: a case study. Clinical Linguistics and Phonetics 2(1), 1-16. GUBBAY, s. s. (1978). The management of developmental dyspraxia. Developmental Medicine and <rs type="person">Child Neurology 20</rs>, <rs type="grantNumber">643-646</rs>. GUYETTE, T. w. &amp; DIEDRICH, w. M. (1981). A critical review of apraxia of speech. In: <rs type="person">N. J. Lass</rs> (Ed.), <rs type="funder">Speech and Language Advances in Basic Research and Practice, Vol</rs>. 6. London: Academic Press. HALL, P. K. (1989). The occurrence of developmental apraxia of speech in a mild articulation disorder: a case study. Journal of Communication Disorders 22, 265-276. HAWKINS, s. (1984). On the development of motor control in speech: evidence from studies of temporal coordination. In: <rs type="person">N. J. Lass</rs> (Ed.), <rs type="funder">Speech and Language Advances in Basic Research and Practice</rs>, Vol. 11. London: <rs type="funder">Academic Press</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_sUbWJga">
+				<org type="funding" xml:id="_g8EbDkW">
 					<idno type="grant-number">16</idno>
 				</org>
-				<org type="funding" xml:id="_QTyjwPe">
+				<org type="funding" xml:id="_SKcqbVx">
 					<idno type="grant-number">237-250</idno>
 				</org>
-				<org type="funding" xml:id="_fdXfWQA">
+				<org type="funding" xml:id="_rjDfFa7">
 					<idno type="grant-number">749-756</idno>
 				</org>
-				<org type="funding" xml:id="_9Sm8tkn">
+				<org type="funding" xml:id="_WmCuvyC">
 					<idno type="grant-number">461-462</idno>
 				</org>
-				<org type="funding" xml:id="_pdaKRwD">
+				<org type="funding" xml:id="_QjsMW9Q">
 					<idno type="grant-number">643-646</idno>
 				</org>
 			</listOrg>
