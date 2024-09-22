@@ -141,9 +141,10 @@ def show_phrase():
         "phrase.csv",
         "text/csv"
     )
-    st.write(f"Notes about {input_keyword}:")
+    notes = ''
     for i in range(len(doc_id_df)):
-        st.code(f'{reference_df[i]} ({doc_id_df[i]})')
+        notes = notes + f'{reference_df[i]} ({doc_id_df[i]})\n\n'
+    st.text_area(f"Notes about {input_keyword}:", notes, height=1000)
 
 
 with col1:
@@ -166,9 +167,9 @@ with col1:
                     reference_df.append(ref)
             except:
                 pass
-        # show_phrase()
-        st.write(f"Notes about {input_keyword}:")
-        st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
+        show_phrase()
+        # st.write(f"Notes about {input_keyword}:")
+        # st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
 
 
 @st.fragment
