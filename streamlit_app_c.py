@@ -132,6 +132,20 @@ st.title("PDF Semantic Search")
 col1, col2 = st.columns(2)
 doc_id_df = []
 reference_df = []
+
+@st.fragment
+def show_phrase():
+    st.download_button(
+        "Download Phrases as CSV",
+        pd.DataFrame({'DOC_ID': doc_id_df, 'reference': reference_df}, index=None).to_csv(index=False, sep='\t').encode('utf-8'),
+        "phrase.csv",
+        "text/csv"
+    )
+    st.write(f"Notes about {input_keyword}:")
+    for i in range(len(doc_id_df)):
+        st.code(f'{reference_df[i]} ({doc_id_df[i]})')
+
+
 with col1:
     input_keyword = st.text_input("Please input your keyword(e.g. within-subject experiment, time phrases)", key = 'input_keyword')
     keyword_button = st.button("OK")
@@ -147,13 +161,12 @@ with col1:
                 response_json = json.loads(response)
                 for j in response_json:
                     ref = j['reference']
+                    ref = str(ref).replace('\t', ' ')
                     doc_id_df.append(doc_id)
                     reference_df.append(ref)
             except:
                 pass
-
-        st.write(f"Notes about {input_keyword}:")
-        st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
+        show_phrase()
 
 
 @st.fragment
