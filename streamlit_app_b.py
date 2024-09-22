@@ -213,10 +213,38 @@ def export_pdf_selected_content_as_txt():
 def export_label_csv():
     label_df = conn.query(
         f"select doc_id, variable, label from label order by doc_id, variable", ttl=0)
+    doc_ids = label_df['doc_id'].to_list()
+    variables = label_df['variable'].to_list()
+    labels = label_df['label'].to_list()
+    doc_id_single = sorted(list(set(doc_ids)))
+    variables_single = sorted(list(set(variables)))
+    result_dict = {}
+    result_dict['DOC_ID'] = doc_id_single
+    for variable in variables_single:
+        current_list = ['' for i in range(len(doc_id_single))]
+        result_dict[variable] = current_list
+    for i in range(len(doc_ids)):
+        d = doc_ids[i]
+        v = variables[i]
+        l = labels[i]
+        idx = doc_id_single.index(d)
+        result_dict[v][idx] = l
+    result_df = pd.DataFrame(result_dict)
     st.download_button(
         "Download Labels as CSV",
-        label_df.to_csv(index=False, sep='\t').encode('utf-8'),
+        result_df.to_csv(index=False, sep='\t').encode('utf-8'),
         "label.csv",
+        "text/csv"
+    )
+
+@st.fragment
+def export_log_csv():
+    label_df = conn.query(
+        f"select doc_id, variable, label, ai_label, manual_label, prompt_version from label order by doc_id, variable", ttl=0)
+    st.download_button(
+        "Download Logs as CSV",
+        label_df.to_csv(index=False, sep='\t').encode('utf-8'),
+        "log.csv",
         "text/csv"
     )
 
@@ -402,4 +430,5 @@ if doc_id_selection:
             export_pdf_selected_content()
             export_pdf_selected_content_as_txt()
             export_label_csv()
+            export_log_csv()
             labeling_area()
