@@ -135,16 +135,17 @@ reference_df = []
 
 @st.fragment
 def show_phrase():
-    st.download_button(
-        "Download Phrases as CSV",
-        pd.DataFrame({'DOC_ID': doc_id_df, 'reference': reference_df}, index=None).to_csv(index=False, sep='\t').encode('utf-8'),
-        "phrase.csv",
-        "text/csv"
-    )
+    # st.download_button(
+    #     "Download Phrases as CSV",
+    #     pd.DataFrame({'DOC_ID': doc_id_df, 'reference': reference_df}, index=None).to_csv(index=False, sep='\t').encode('utf-8'),
+    #     "phrase.csv",
+    #     "text/csv"
+    # )
     notes = ''
     for i in range(len(doc_id_df)):
         notes = notes + f'{reference_df[i]} ({doc_id_df[i]})\n\n'
-    st.text_area(f"Notes about {input_keyword}:", notes, height=1000)
+    notes = st.text_area(f"Notes about {input_keyword}:", notes, height=500)
+    st.download_button("Download Notes as TXT", notes)
 
 
 with col1:
@@ -154,6 +155,8 @@ with col1:
         for doc_id in pdf_dict.keys():
             filename = pdf_dict[doc_id]
             query = f"What are the {input_keyword} in the article? Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
+            if not os.path.exists(os.path.join('resources/pdf', filename)):
+                continue
             response = openai_service.chat_with_pdf(os.path.join('resources/pdf', filename), query)
             logging.info(response)
             response = response[response.find("["): response.rfind("]") + 1]
