@@ -144,17 +144,17 @@ def show_phrase():
     notes = ''
     for i in range(len(doc_id_df)):
         notes = notes + f'{reference_df[i]} ({doc_id_df[i]})\n\n'
-    notes = st.text_area(f"Notes about {input_keyword}:", notes, height=500)
+    notes = st.text_area(f"Notes about {input_query}:", notes, height=500)
     st.download_button("Download Notes as TXT", notes)
 
 
 with col1:
-    input_keyword = st.text_input("Please input your keyword(e.g. within-subject experiment, time phrases)", key = 'input_keyword')
+    input_query = st.text_input("Please input your query (e.g. elaborate the within-subject experiment designs, find time-relevant phrases)", key = 'input_query')
     keyword_button = st.button("OK")
-    if keyword_button and len(input_keyword) > 0:
+    if keyword_button and len(input_query) > 0:
         for doc_id in pdf_dict.keys():
             filename = pdf_dict[doc_id]
-            query = f"What are the {input_keyword} in the article? Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
+            query = f"{input_query}. Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
             if not os.path.exists(os.path.join('resources/pdf', filename)):
                 continue
             response = openai_service.chat_with_pdf(os.path.join('resources/pdf', filename), query)
@@ -164,14 +164,14 @@ with col1:
             try:
                 response_json = json.loads(response)
                 for j in response_json:
-                    ref = j['reference']
+                    ref = j['result']
                     ref = str(ref).replace('\t', ' ')
                     doc_id_df.append(doc_id)
                     reference_df.append(ref)
             except:
                 pass
         show_phrase()
-        # st.write(f"Notes about {input_keyword}:")
+        # st.write(f"Notes about {inputs}:")
         # st.dataframe(pd.DataFrame({'DOC_ID':doc_id_df, 'reference':reference_df}, index=None), width=1000, height=1000)
 
 
