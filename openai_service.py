@@ -11,7 +11,7 @@ openai_key = os.getenv('OPENAI_KEY')
 
 gpt3_model = 'gpt-3.5-turbo-1106'
 fine_tuned_model = 'ft:gpt-3.5-turbo-1106:personal:label-datatype:9qirU0Ny'
-gpt4o_model = "gpt-4o-mini"
+gpt4o_model = "gpt-4o"
 gpt4 = "gpt-4-turbo"
 
 
