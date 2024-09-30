@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intensity of Facebook Use Is Associated With Lower Self-Concept Clarity Cross-Sectional and Longitudinal Evidence</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Markus</forename><surname>Appel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Koblenz-Landau</orgName>
+								<address>
+									<settlement>Landau</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Constanze</forename><surname>Schreiner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Koblenz-Landau</orgName>
+								<address>
+									<settlement>Landau</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Silvana</forename><surname>Weber</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Koblenz-Landau</orgName>
+								<address>
+									<settlement>Landau</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Martina</forename><surname>Mara</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Ars Electronica Futurelab</orgName>
+								<address>
+									<settlement>Linz</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Timo</forename><surname>Gnambs</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Leibniz Institute for Educational Trajectories</orgName>
+								<address>
+									<settlement>Bamberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intensity of Facebook Use Is Associated With Lower Self-Concept Clarity Cross-Sectional and Longitudinal Evidence</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BE5EC2B4C7867F555B88E8FB22C170FE</idno>
+					<idno type="DOI">10.1027/1864-1105/a000192</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Facebook</term>
+					<term>self-concept clarity</term>
+					<term>cross-lagged panel analysis</term>
+					<term>unity hypothesis</term>
+					<term>fragmentation hypothesis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social networking sites such as Facebook provide individuals with opportunities to express and gather information relevant to their self-concept. Previous theoretical work yielded contrasting assumptions about a potential link between individuals' Internet use and their selfconcept clarity, that is, individuals' perception of a clear and internally consistent self-concept content. Focusing on social networking sites, our aim was to provide cross-sectional as well as longitudinal evidence regarding the relationship between individuals' feelings of connectedness to Facebook (Facebook intensity) and self-concept clarity. Two cross-sectional studies (N 1 = 244; N 2 = 166) and one longitudinal study (N 3 = 101) are presented. Independent samples of adolescents, adults, and students from Austria participated. The statistical procedures included hierarchical regression analyses (Studies 1 and 2) and a cross-lagged panel analysis (Study 3). The studies provided consistent evidence of a negative relationship between Facebook intensity and self-concept clarity. Moreover, the longitudinal study showed that Facebook intensity predicted a decline in self-concept clarity over time whereas a reverse pathway was not supported. Future research should examine the content of the self-concept and should continue searching for specific Facebook activities that might explain the decline in self-concept clarity. Our results suggest that an intense attachment to Facebook contributes to an inconsistent and unclear selfconcept.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>As of December 2015, over 1.5 billion people actively use Facebook at least once a month, with over 1 billion daily active users on average <ref type="bibr" target="#b23">(Facebook, 2016)</ref>. Within a 1-min time-span on Facebook, users request a total of 100,000 new friends, give 3,125,000 likes, send 150,000 messages, and upload about 240,000 photos <ref type="bibr" target="#b0">(Ahmad, 2014)</ref>. The popularity of social networking sites (SNSs) has fueled questions among social scientists and the general public regarding the antecedents, correlates, and consequences of using these platforms. Of particular interest have been questions about the relationship between using SNSs and the user's self, that is, the knowledge, attitudes, and evaluations that an individual has about him-or herself (the "me" in William James' terms, cf. <ref type="bibr" target="#b62">Swann &amp; Bosson, 2010)</ref>. Users of SNSs have ample opportunities for communicating information about themselves, getting related feedback from communication partners, gathering information about others, and providing feedback themselves <ref type="bibr" target="#b1">(Appel, Mara, &amp; Weber, 2014)</ref>. These activities appear to be a potentially relevant source for the content of the self (Who am I? How do I feel about myself?). Moreover, these activities might affect the structure of the self as well (How sure am I about my own characteristics? Are my characteristics consistent?). Focusing on structural aspects of the self, the aim of the current work was to shed light on the relationship between individuals' feelings of connectedness to Facebook <ref type="bibr">(Facebook intensity)</ref> and their perception of a clear and internally consistent self-concept (self-concept clarity). After an integration of the (diverging) theory and findings connected to this relationship, the results of three studies with three independent samples are reported. Our empirical approach extends previous studies, as we focused on SNSs and used a well-established indicator of connectedness to Facebook, the Facebook Intensity Scale <ref type="bibr" target="#b21">(Ellison, Steinfield, &amp; Lampe, 2007)</ref>. We additionally examined particular Facebook activities and usage patterns. Importantly, we provide longitudinal evidence to disentangle causal influences underlying the association between the intensity of Facebook use and the clarity of the users' self-concept.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-Concept Clarity</head><p>Individuals strive for a firm sense of who they are <ref type="bibr" target="#b24">(Fiske, 2010)</ref>. At the same time, individuals differ with respect to how clearly and confidently the contents of their self-concept are defined, and to what extent the selfconcept is internally consistent and temporally stable. Individual differences in this regard have been investigated under the term of self-concept clarity <ref type="bibr" target="#b12">(Campbell et al., 1996)</ref>. Self-concept clarity (SCC) is a structural feature of the selfconcept and it is conceptually distinct from the particular attributes people ascribe to themselves or how they feel about themselves. SCC is conceived as a self-opinion <ref type="bibr" target="#b16">(Conley, 1984)</ref>, an individual difference that is useful to measure as a state or as a trait, because it is susceptible to environmental influences but it also shows substantial stability over time <ref type="bibr" target="#b12">(Campbell et al., 1996)</ref>. The standard measure for assessing SCC is the Self-Concept Clarity Scale, a self-report instrument with established psychometric properties <ref type="bibr" target="#b12">(Campbell et al., 1996;</ref><ref type="bibr" target="#b59">Stucke, 2002)</ref>. In recent years, studies associated higher SCC with higher psychological adjustment <ref type="bibr" target="#b11">(Campbell, Assanand, &amp; Di Paula, 2003)</ref> and well-being <ref type="bibr" target="#b14">(Church et al., 2014)</ref>, better adaptation to stress <ref type="bibr" target="#b50">(Ritchie, Sedikides, Wildschut, Arndt, &amp; Gidron, 2011)</ref>, better body image <ref type="bibr" target="#b74">(Vartanian &amp; Dey, 2013)</ref>, and higher explicit self-esteem <ref type="bibr" target="#b6">(Brandt &amp; Vonk, 2006)</ref>.</p><p>Communication is considered a key to achieving a clear sense of oneself. Individuals learn about themselves by observing their own (communicative) behavior (selfperception theory; <ref type="bibr" target="#b4">Bem, 1972)</ref>. Moreover, others' reactions to one's behavior are an important source for developing a firm self-concept (looking glass self; <ref type="bibr" target="#b17">Cooley, 1902;</ref><ref type="bibr">perceived appraisals;</ref><ref type="bibr" target="#b34">Kenny &amp; DePaulo, 1993)</ref>. In their attempt at establishing a firm self-concept, individuals can profit from other people's reactions on their appearance and behavior. A longitudinal study conducted with Dutch adolescents <ref type="bibr" target="#b25">(Frijns &amp; Finkenauer, 2009)</ref>, for example, showed that adolescents who openly communicated with their parents (i.e., kept fewer secrets) indicated higher SCC after a 6-month delay (SCC did not predict communication with parents at a later point of time; see also <ref type="bibr" target="#b73">van Dijk et al., 2014)</ref>. However, communication may also be related to an unclear sense of oneself. The more students engaged in intimate discussions with their peers and talked about their evaluations of others (i.e., tended to gossip), the lower their SCC <ref type="bibr" target="#b77">(Watson, 2011)</ref>. This is in line with research showing that social comparison processesboth upward and downward social comparisonsare associated with an unclear sense of self (cf. <ref type="bibr" target="#b8">Butzer &amp; Kuiper, 2006;</ref><ref type="bibr" target="#b74">Vartanian &amp; Dey, 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-Concept Clarity in the Digital Age: Competing Predictions</head><p>Today much of the communication of adolescents and adults is conducted over the Internet, which provides ample access to means of self-presentation and self-disclosure and to getting self-relevant feedback from others. Moreover, Internet applications provide individuals with the opportunity to communicate more or less anonymously, and to select which aspects of the self they wish to reveal. Thus, it is an intriguing question how online communication relates to users' SCC. There are basically two competing hypotheses regarding the influence of online activities on the clarity of the user's self-conceptthe fragmentation hypothesis and the self-concept unity hypothesis (cf. <ref type="bibr" target="#b72">Valkenburg &amp; Peter, 2011)</ref>.</p><p>The fragmentation hypothesis dates back to the early days of the Internet when chatrooms, bulletin boards, and multi-user dungeons (MUDs) were among the most popular applications. In these applications users were represented only by nicknames, which facilitated taking on different identities. MUDs typically required users to adopt a certain non-self-identity as part of a role-playing game. Social scientists observed that individuals indeed used the Internet to experiment with different identities that were only loosely tied to their identity in the offline world (e.g., <ref type="bibr" target="#b49">Reid, 1998;</ref><ref type="bibr" target="#b69">Turkle, 1995)</ref>. The extent to which users engaged in experimenting with different identities is a matter of some debate (cf. <ref type="bibr" target="#b61">Subrahmanyam &amp; Šmahel, 2011)</ref>, but it seems safe to say that even in the earlier days of the Internet, pretending to be someone completely else (e.g., pretending to have the opposite sex) was not very common <ref type="bibr" target="#b29">(Gross, 2004;</ref><ref type="bibr" target="#b61">Subrahmanyam &amp; Šmahel, 2011)</ref>.</p><p>In contrast to the early applications, SNSs such as Facebook require individuals to build an online representation of the user's true offline identity; pretending to be someone completely else is considered a norm violation. Still, users can and do present different facets of themselves that may more or less represent their true self. Michikyan and colleagues <ref type="bibr" target="#b44">(Michikyan, Dennis, &amp; Subrahmanyam, 2015;</ref><ref type="bibr" target="#b45">Michikyan, Subrahmanyam, &amp; Dennis, 2014)</ref> showed that users most often wish to express their real self on Facebook (e.g., "how I am in real life"), but other facets are communicated as well, such as the ideal self ("to show aspects of who I want to be"). The authors further identified three forms of false self, that are expressed on Facebook, that is, for the sake of exploration ("try out many aspects of who I am much more than I can in real life"), to deceive ("try to be someone other"), and to impress and compare with others ("I try to impress others with the photos I post of myself"). In many instances a Facebook activity arguably reflects a mixture of these different forms of representing oneself on Facebook. Likewise, Facebook users in a study by <ref type="bibr" target="#b66">Toma and Carlson (2015)</ref> perceived their profiles to be more positive than their actual selves on some dimensions (e.g., "outgoing," "adventurous," but also "relaxed"). On other dimensions they perceived their Facebook profiles to be accurate (e.g., "creative," "friendly," "physically attractive") and they felt their profiles came across more negative than their actual selves on even other dimensions ("reliable," "intelligent," or "deep"). Negative self-images on Facebook were attributed to postings by friends, which are difficult to control, but add to a Facebook profile.</p><p>According to the fragmentation hypothesis, the salience of many possible selves and the heterogeneity of selfexpressionsand others' feedback in response to these different facetsimpair the development of a consistent and temporally stable self-concept (cf. <ref type="bibr" target="#b49">Reid, 1998)</ref>. Consequently, the fragmentation hypothesis predicts that more intense use of Facebook should predict lower SCC.</p><p>The self-concept unity hypothesis emphasizes the overlap between offline and online selves. With respect to Facebook, a highly cited study indicates that Facebook profiles provide valid information on the users' personality, as observers could gauge users' real personalityrather than their ideal personalityjust by knowing their Facebook page <ref type="bibr" target="#b3">(Back et al., 2010)</ref>. In other contexts, however, the overlap between online and offline self might be smaller <ref type="bibr" target="#b27">(Gosling &amp; Mason, 2015)</ref>, because it is unlikely that individuals ever meet in person, such as in online gaming portals <ref type="bibr" target="#b28">(Graham &amp; Gosling, 2013)</ref>, or the incentive to express one's ideal self is particularly large, such as on dating websites <ref type="bibr" target="#b22">(Ellison, Hancock, &amp; Toma, 2012)</ref>. In line with the self-concept unity hypothesis, recent research reconstructed Facebook activities as means for selfaffirmation <ref type="bibr" target="#b65">(Toma, 2013;</ref><ref type="bibr" target="#b68">Toma &amp; Hancock, 2013)</ref>. Self-affirmation theory posits that individuals have a need for self-integrity and self-worth and that in everyone's life many incidents challenge this positive view of oneself <ref type="bibr" target="#b56">(Steele, 1988)</ref>. Given these challenges and threats, individuals construct the world in a way to preserve self-integrity. Applied to Facebook activities, this theoretical framework suggests that users are motivated to present themselves in a positive, yet honest manner <ref type="bibr" target="#b65">(Toma, 2013;</ref><ref type="bibr" target="#b68">Toma &amp; Hancock, 2013)</ref>. Thus, flattering postings about oneself are conceived as something that is an integral part of the "true self," rather than a dislocated "ideal self" or "false self." From a self-affirmation perspective, engaging in Facebook activities contributes to users' feelings of self-integrity <ref type="bibr" target="#b68">(Toma &amp; Hancock, 2013)</ref>. According to the self-concept unity hypothesis, Facebook users tend to communicate aspects of the true self to a large number of other individuals. These interaction partners in turn provide information to validate one's self-concept, which leads to a firm sense of oneself (cf. <ref type="bibr" target="#b10">Calvert, 2002)</ref>. Thus, more intense use of Facebook should predict higher SCC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Initial Empirical Evidence and Open Questions</head><p>In recent years, a substantial number of studies focused on the link between Internet and Facebook use and self-content measures, most notably between Facebook use and self-esteem and well-being. The findings have been mixed, with some indicating positive and some indicating negative relationships (e.g., <ref type="bibr" target="#b35">Kim &amp; Lee, 2011;</ref><ref type="bibr" target="#b37">Kross et al., 2013</ref>; see Huang, 2010, for a meta-analysis of early studies). Recent research suggests that for users who do not actively engage in producing content but rather prefer to read others' postings and comments, Facebook use is related to lower self-esteem whereas more positive associations were observed for more active usage patterns <ref type="bibr" target="#b13">(Chou &amp; Edge, 2012;</ref><ref type="bibr" target="#b20">große Deters &amp; Mehl, 2013;</ref><ref type="bibr" target="#b36">Krasnova, Wenninger, Widjaja, &amp; Buxmann, 2013;</ref><ref type="bibr">Verduyn et al., 2015)</ref>. Active versus passive usage patterns might also contribute to more rather than less SCC, because acts of self-presentation (e.g., posting comments and photos, commenting on things) appear to be a key for deriving self-relevant feedback that can facilitate the validation of the self-concept. On a more cautionary note, however, activities like changing one's profile picture frequently or even actively pretending to be someone else might indicate and perpetuate low rather than high SCC.</p><p>Empirical evidence on the relationship between Internet use and self-concept clarity is limited. In a cross-sectional study among Canadian undergraduates, <ref type="bibr" target="#b42">Matsuba (2006)</ref> reported negative relationships of SCC with the time spent online and pathological Internet use. Moreover, SCC was associated with the motives to use the Internet for communication and for entertainment. <ref type="bibr" target="#b71">Valkenburg and Peter (2008)</ref> focused on SCC as a potential consequence of identity experiments online. A cross-sectional survey on Dutch adolescents found a significant negative correlation between SCC and engaging in such experiments, whereas SCC was positively associated with the variety of communication partners. Both relationships were small and the latter vanished when observed as part of a larger structural equation model. Third, a cross-sectional study was conducted in Israel with adolescents in seventh to ninth grade <ref type="bibr" target="#b32">(Israelashvili, Kim, &amp; Bukobza, 2012)</ref>. SCC was unrelated to the hours surfing the Internet, but negatively related to Internet usage as indicated by the extent they engaged in a variety of Internet-related activities such as using chats, games, discussion groups, or exploring new websites. Moreover, SCC exhibited a negative association with the level of Internet addiction. Finally, a cross-sectional survey conducted with adolescents in Barbados <ref type="bibr" target="#b19">(Davis, 2013)</ref> showed that SCC was negatively linked to a self-conceived measure of online identity expression and identity exploration, but positively linked to friendship quality and mother relationship quality.</p><p>Overall, these findings have a common tenor in pointing at a negative relationship between Internet use and SCC. This pattern is in line with the fragmentation hypothesis and in contrast to the unity hypothesis. However, the findings are limited in key regards: First, no prior study focused on SNSs. At the time two of the studies were conducted <ref type="bibr" target="#b42">(Matsuba, 2006;</ref><ref type="bibr" target="#b71">Valkenburg &amp; Peter, 2008)</ref>, engaging in SNSs was a much less common activity than it is today and the measures of both other studies applied to Internet activities as a whole. As outlined earlier, in contrast to applications such as chatrooms, video gaming portals, or dating websites, SNSs have been described as facilitating a greater overlap between offline and online selves. Thus, the association between intensive use of Facebook and SCC could differ from earlier research that did not focus on SNSs. Second, the cross-sectional data of these studies allow for the possibility of alternative explanations of the results found. Possibly, the associations are due to the tendency of individuals with low SCC to search for self-relevant information by means of online communication and Facebook use. This is basically the reverse causality of the causal path expected from the fragmentation hypothesis. Third, the findings are based on single-item measures or ad hoc scales of Internet use. The use of validated measures would strengthen the evidence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overview and Predictions</head><p>The general aim of the current set of studies was to examine and disentangle the relationship between the intensity of Facebook use and SCC. We used a well-established measure of Facebook intensity, the Facebook Intensity Scale <ref type="bibr" target="#b21">(Ellison et al., 2007)</ref>, which was developed, "to tap the extent to which individuals are emotionally connected to Facebook, and the extent to which Facebook is integrated into individuals' daily lives" (p. 1150). Since its development it has been used in a large number of studies on the antecedents, corollaries, and consequences of Facebook use (e.g., <ref type="bibr" target="#b15">Clayton, Osborne, Miller, &amp; Oberle, 2013;</ref><ref type="bibr" target="#b48">Pabian, De Backer, &amp; Vandebosch, 2015;</ref><ref type="bibr" target="#b70">Valenzuela, Park, &amp; Kee, 2009)</ref>. This approach adds to the prior studies on Internet use and SCC, which frequently involved measures with unknown reliability and validity.</p><p>On the basis of this Facebook intensity measure, our first aim was to examine whether the negative relationship between Internet use and SCC translates to the use of SNSs, and Facebook in particular. To that end, data from two independent samples were collected (Studies 1 and 2).</p><p>In Study 2 we further examined particular activities and usage patterns on Facebook, including identity shifts (pretending to be someone else). Information on the prevalence of these activity patterns contributes to the literature on identity exploration (cf. <ref type="bibr" target="#b61">Subrahmanyam &amp; Šmahel, 2011)</ref>. We further examined relationships between these activities and SCC. Our second aim was to provide initial evidence on the causal patterns underlying the relationship between Facebook intensity and SCC, based on a shortterm longitudinal design (Study 3).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 1 Method Sample and Procedure</head><p>A convenience sample of 238 volunteers was recruited in a mid-sized Austrian city by research assistants. All ethical requirements for conducting empirical survey research were met. Among the volunteers, 13 had no Facebook account and were therefore excluded from further analyses; one participant reported that he or she had not answered the questionnaire seriously. The remaining sample consisted of 224 participants (62.9% women). About two thirds of the sample accessed the questionnaire over the Internet, one third worked on paper-and-pencil questionnaires. The sample consisted predominantly of adolescents (n = 66 were between 14 and 18 years old) and young adults (137 were between 19 and 26 years old, 34 participants were 27 years or older). The participants' age ranged from 14 to 48 years (M = 21.27 years; SD = 5.80).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>The measures reported here were administered as part of a larger survey. The means, standard deviations, and zeroorder correlations of the variables are displayed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-Concept Clarity</head><p>This construct was measured with the 12-item Self-Concept Clarity Scale <ref type="bibr" target="#b12">(Campbell et al., 1996</ref>; sample item "I spend a lot of time wondering what kind of person I really am"; reverse-coded, German adaptation, <ref type="bibr" target="#b59">Stucke, 2002)</ref>. Five-point response scales were provided (1 = not true at all to 5 = completely true). Higher mean scores indicated higher clarity. The reliability of this scale was good, as indicated by a Cronbach's α of .81.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook Intensity</head><p>We assessed this construct with the help of a German language version of the Facebook Intensity Scale <ref type="bibr" target="#b21">(Ellison et al., 2007)</ref>. 1 The six items (sample item: "Facebook is part of my everyday activity") went with 5-point scales ranging from 1 (= strongly disagree) to 5 (= strongly agree) and showed a good Cronbach's α reliability of .83. Higher mean scores indicated a more intense relation to Facebook.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook Access Frequency</head><p>As a second indicator of Facebook usage, we assessed how often participants went online to check Facebook. A 12-point scale was provided that ranged from 0 (= less than once a week) to 11 (= 12 times per day or more often).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Based on the prior research that addressed Internet use more broadly, a negative relationship between Facebook intensity and SCC was expected. Our hypothesis was examined with the help of a hierarchical regression analysis with SCC as the criterion. Age and gender were entered first in the equation, followed by Facebook intensity entered second. The demographic variables yielded a significant effect, F(2, 221) = 13.05, p &lt; .001, R 2 = .11, which can be attributed to a significant influence of age, B = 0.03, SE B = 0.01, β = .27, p &lt; .001, whereas gender was unrelated to SCC, B = À0.02, SE B = 0.08, β = À.01, p = .84. Facebook intensity turned out to be a significant predictor of SCC, B = À0.16, SE B = 0.05, β = À.23, p &lt; .001, ΔR 2 = .05. Thus, controlled for age and gender, more intensive use of Facebook predicted less SCC. We further inspected higher-order interactions to examine whether this relationship varied with respect to participants' gender or age. The three two-way and the three-way interactions yielded no significant result (all t values &lt; |1.43|, all p values &gt; .15).</p><p>Extending prior research on Internet use and SCC, we focused on the most popular SNS, Facebook, using a reliable and valid set of items. Our findings are in line with the fragmentation hypothesis and consistent with earlier studies that identified a negative association between SCC and measures of compulsive Internet use, Internet addiction, engaging in identity experiments online, and popular Internet activities <ref type="bibr" target="#b19">(Davis, 2013;</ref><ref type="bibr" target="#b32">Israelashvili et al., 2012;</ref><ref type="bibr" target="#b42">Matsuba, 2006;</ref><ref type="bibr" target="#b71">Valkenburg &amp; Peter, 2008)</ref>. Our rather diverse group of adolescents and adults allowed us to examine whether participants' age influenced the results; however, neither age nor gender moderated the core relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 2</head><p>Questions regarding the relationship between identity and Internet use are particularly pertinent for the group of adolescents (cf. <ref type="bibr" target="#b2">Arnett, 1995)</ref>. In this age group the development of a coherent self-concept is an important task, and adolescents belong to the Internet's most avid users <ref type="bibr" target="#b61">(Subrahmanyam &amp; Šmahel, 2011)</ref>. The aim of our second study was twofold. We aimed at replicating the findings from Study 1 with a different sample, in a different setting (see, for example, <ref type="bibr" target="#b5">Benoit &amp; Holbert, 2008</ref>, on the importance of replication). This time, our particular focus was on adolescents, as establishing a firm sense of one's self is especially important for this age group <ref type="bibr" target="#b72">(Valkenburg &amp; Peter, 2011)</ref>. Our second aim was to extend the set of variables examined in the first study, and we further asked for particular Facebook activities. We were interested in the prevalence of these activities and their relationships to SCC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Sample and Procedure</head><p>We recruited 206 students at secondary schools in a midsized Austrian city, who answered the questionnaire in class. All ethical requirements for conducting empirical survey research at schools were met. Among the students, 184 returned the completed questionnaire and indicated that they had answered the questions sincerely. Eighteen students had no Facebook account. The remaining sample 1 Originally, the Facebook Intensity Scale included two additional items with an open-ended response format <ref type="bibr" target="#b21">(Ellison et al., 2007)</ref>. Only the six rating-scale items were used in the current studies. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>To examine our main hypothesis, we ran a hierarchical regression analysis. SCC served as criterion and demographic variables (age and gender) were entered first; Facebook intensity was entered in a subsequent step. The demographic variables, taken together, had no significant effect on SCC, F(2,163) = 2.17, p = .12, R 2 = .03, with age being a significant single predictor variable, B = 0.07, SE B = 0.04, β = .16, p = .047. Importantly, Facebook intensity was a significant predictor of SCC, B = À0.12, SE B = 0.05, β = À.19, p = .02, ΔR 2 = .03. More intense use of Facebook predicted less SCC. In order to test whether or not this relationship was moderated by participants' gender or age, higher-order interactions were examined. Neither one of the three two-way nor the three-way interaction reached significance (all t values &lt; |1.14|, all p values &gt; .26).</p><p>To examine the role of the Facebook activities on SCC, over and above the influence of Facebook intensity, the 15 Facebook activities were entered in the regression equation as an alternative fourth step. The variables together made a marginally significant contribution in explaining SCC, F(15, 144) = 1.60, p = .08, ΔR 2 = .13. Among the 15 activities only two contributed significantly (α = .05) to the model. Those were "Look at others' reactions to my postings (e.g., status updates, links)", B = À0.10, SE B = 0.05, β = À.21, p = .03, and "Just browse and like, nothing else", B = À0.10, SE B = 0.05, β = À.22, p = .03. Of note, even if all 15 activities were entered into the equation, the predictive power of the Facebook Intensity Scale approached significance, B = À0.11, SE B = 0.06, β = À.16, p = .08.</p><p>Focusing on a sample of adolescents, we again found a negative association between Facebook intensity and SCC, for both genders, and irrespective of participants' age. In line with expectations (see also <ref type="bibr">Verduyn et al., 2015)</ref>, two rather passive specific modes of using Facebook were negatively related to SCC. The results of our cross-sectional studies are in contrast to the selfconcept unity hypothesis, which assumes that intense use of SNSs and related applications allows users to develop a particularly clear sense of their selves (cf. <ref type="bibr" target="#b72">Valkenburg &amp; Peter, 2011)</ref>. However, owing to the cross-sectional character of these studies we are hesitant to interpret the data as a support for the fragmentation hypothesis, which posits that the intense use of SNSs hinders rather than assists people's strivings for a clear self-concept. Individuals with low SCC might be more strongly attracted to Facebook and other SNSs (as compared to individuals with higher SCC), because they find the opportunities for self-presentation and receiving feedback from others on Facebook to be particularly attractive. In order to disentangle these competing causal pathways, a longitudinal study was conducted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 3</head><p>Although both previous studies concordantly demonstrate that Facebook intensity predicted SCC, causal interpretations of these results are inappropriate, because both studies adopted cross-sectional designs. Therefore, this study was based on a short-term longitudinal research design that assessed both constructs at two measurement occasions. Using cross-lagged panel analyses <ref type="bibr" target="#b43">(McArdle &amp; Nesselroade, 2014)</ref>, this design provides information on causality, that is, whether Facebook intensity influences SCC or, rather, SCC influences Facebook intensity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Sample and Procedure</head><p>The participants were students recruited from an introductory course in consumer behavior at an Austrian university. They answered the questionnaire in class and were invited to answer the same questions 3 months later. The second questionnaire was administered online. Participants received extra credit for participation. Of the 122 students who participated at both points of time, Gender was dummy-coded (0 = male, 1 = female). The activities (rows/columns 6-20) were introduced as follows:</p><p>"When I am on Facebook, the following activities are typical for me...". *p &lt; .05; **p &lt; .01; ***p &lt; .001. the relevant items. They were not included in the analyses. Two additional participants indicated that they had not seriously answered the questions. The remaining sample consisted of 101 persons (62 women) with an age range of 19-37 years (at T1: M = 22.37; SD = 3.34).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Facebook intensity and SCC were assessed with the same scales as in both previous studies. Reliabilities (Cronbach's α) were satisfactory for both scales at both points of time (Facebook intensity: α T1 = .81, α T2 = .84; self-concept clarity: α T1 = .83, α T2 = .89).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>The associations between Facebook intensity and SCC across the two measurement occasions were examined using cross-lagged panel analyses (cf. <ref type="bibr" target="#b43">McArdle &amp; Nesselroade, 2014)</ref> in Mplus 7 <ref type="bibr">(Muthén &amp; Muthén, 1998</ref><ref type="bibr">-2012)</ref> with a robust maximum likelihood estimator. In line with the previous studies, all models acknowledged gender and age as control variables. All analyses modeled the two constructs as latent factors. To create more parsimonious measurement models, we did not analyze individual item scores, but created three item parcels following the item-to-construct balance technique <ref type="bibr" target="#b40">(Little, Cunningham, Shahar, &amp; Widaman, 2002)</ref>. Because meaningful interpretations of longitudinal models require invariant measurement models <ref type="bibr" target="#b39">(Little, 2013;</ref><ref type="bibr" target="#b41">Little, Preacher, Selig, &amp; Card, 2007)</ref>, longitudinal factorial invariance was investigated for each construct by comparing a model with factor loadings for a given parcel constrained to be equal over time to a model without equality constraints. Following prevalent recommendations <ref type="bibr" target="#b41">(Little et al., 2007)</ref>, these models also included autocorrelations among the residuals of a given parcel, which accounts for the systematic variance associated with each parcel.</p><p>The goodness of fit of these models was evaluated using the comparative fit index (CFI) and the root mean square error of approximation (RMSEA). In line with conventional standards (e.g., <ref type="bibr" target="#b30">Hu &amp; Bentler, 1999;</ref><ref type="bibr" target="#b53">Schermelleh-Engel, Moosbrugger, &amp; Müller, 2003)</ref>, models with a CFI &gt; .90 and a RMSEA &lt; .10 are interpreted as "acceptable," and CFI ! .95 and RMSEA .05 as "good" fitting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Longitudinal measurement invariance was examined in two steps. First, we fitted an unconstrained longitudinal latent factor model for each construct to the data that included one latent factor at each measurement occasion.</p><p>The respective models for Facebook intensity, w 2 (5) = 4, CFI = 1.00, RMSEA = .00 [.00, .10], and SCC, w 2 (5) = 2, CFI = 1.00, RMSEA = .00 [.00, .09], showed good fits to the data. In the next step, the factor loadings were constrained across time. The respective models did not fit worse than the unconstrained models, Δw 2 (2) = 0.08, p = .96 for Facebook intensity, and Δw 2 (2) = 5.39, p = .07 for SCC. This confirms the assumption of invariant measurement structures; the meaning of both constructs did not change over time.</p><p>In light of the invariant measurement models, we fitted the cross-lagged models presented in Figure <ref type="figure" target="#fig_1">1</ref>  Thus, the results demonstrate that more intensive use of Facebook predicted less SCC over time, whereas the reverse effect could not be corroborated. This finding supports the fragmentation hypothesis, indicating that intensive use of Facebook contributes to a more diffuse sense of one's self. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General Discussion</head><p>SNSs such as Facebook offer plenty of possibilities to provide, share, and obtain information that is relevant for one's own view of oneself. The focus of our work was on the relationship between Facebook intensity (i.e., the emotional connection to Facebook and its relevance in people's daily lives; cf. <ref type="bibr" target="#b21">Ellison et al., 2007)</ref> on the one hand and self-concept clarity (i.e., the extent to which one's self-concept is perceived to be internally consistent and temporally stable; cf. <ref type="bibr" target="#b12">Campbell et al., 1996)</ref> on the other. One theoretical perspective, the self-concept unity hypothesis, assumes that the more intense the connection to Facebook, the better individuals know about themselves, owing to the vast opportunities for self-presentation and receiving self-relevant feedback through <ref type="bibr">Facebook and other means of computer-mediated communication (cf. Valkenburg &amp; Peter, 2011)</ref>. By contrast, the fragmentation hypothesis suggests that the more intense the connection to Facebook, the more confused individuals are about themselves, because the multifaceted expressions of the self and heterogeneous feedback complicate the development of a clear self-concept. Prior results were somewhat supportive of the fragmentation hypothesis, as negative relationships between several Internet use indicators and SCC were found in studies with cross-sectional designs <ref type="bibr" target="#b19">(Davis, 2013;</ref><ref type="bibr" target="#b32">Israelashvili et al., 2012;</ref><ref type="bibr" target="#b42">Matsuba, 2006;</ref><ref type="bibr" target="#b71">Valkenburg &amp; Peter, 2008)</ref>. These prior studies did not focus on SNSs. Do these findings translate to the use of Facebook?</p><p>With our first two studies, both cross-sectional as well, we provided evidence of a negative link between Facebook intensity and SCC. Moreover, the contribution of specific Facebook activities was examined. Adopting a completely different identity was very rare, which reflects the difference between the use of Facebook and the use of applications that were popular in the early days of the Internet, such as anonymous chatrooms or MUDs (cf. <ref type="bibr" target="#b69">Turkle, 1995)</ref>. The negative links between SCC and "Focusing on others' reactions to postings" and "Just browsing and liking" are in line with recent evidence suggesting that the passive use of Facebook might have particularly deleterious effects on users' self. However, owing to the cross-sectional methodology, the relationships observed might also have been the result of selective exposure, that is, the more individuals are unclear about themselves, the more intense their affiliation with Facebook.</p><p>Our third study provides evidence on the causal mechanisms underlying the relationship between SCC and Facebook intensity (this is one of only two longitudinal studies we are aware of in which any Internet-related variable and the clarity of one's self-concept was connected).<ref type="foot" target="#foot_3">2</ref> On the basis of a cross-lagged panel analysis, we found that higher Facebook intensity predicted lower SCC at a later point of time. The reverse causal relationship was not supported by our data, as higher SCC was unrelated to Facebook intensity at a later point of time. Thus, it appears that a strong attachment to Facebook impedes the development of a firm sense of oneself.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Future Research</head><p>Despite the contribution of our studies, the limitations and open questions associated with our research need to be noted. First, our focus was on SCC, a structural feature of the self-concept. Our research is silent on the content of the self-concept, for example, on the influence of Facebook intensity on self-ascribed attributes (e.g., thoughtful, sportive, artistic) or self-esteem (see, e.g., <ref type="bibr" target="#b33">Johnston et al., 2013;</ref><ref type="bibr" target="#b57">Steinfield, Ellison, &amp; Lampe, 2008;</ref><ref type="bibr" target="#b65">Toma, 2013;</ref><ref type="bibr" target="#b68">Toma &amp; Hancock, 2013;</ref><ref type="bibr">Verduyn et al., 2015)</ref>. Although a positive link between SCC and explicit (but not implicit) self-esteem was repeatedly found (see <ref type="bibr" target="#b6">Brandt &amp; Vonk, 2006</ref>, for an overview), we believe that it is important to stick to the conceptual separation between SCC and selfconcept content variables. We believe that theoretical models and empirical studies that connect patterns of SNS use with both SCC and self-esteem or well-being could provide intriguing insights. In a study using experience sampling, Kross and colleagues <ref type="bibr" target="#b37">(Kross et al., 2013)</ref> showed that the amount of Facebook use (item "How much have you used Facebook since the last time we asked?") predicted a decline in affective well-being. Given our findings, the reduction in SCC could be a process explaining this effect.</p><p>Second, it needs to be stressed that self-reported SCC does not equal an accuracy of the self-concept. In fact, SCC is positively related to tendencies of self-deception and the self-reported clarity might in part be due to a positive illusion of self-concept unity <ref type="bibr" target="#b6">(Brandt &amp; Vonk, 2006</ref>)a positive illusion that intense Facebook users might have problems to uphold.</p><p>Third, although Study 2 included specific activity measures, our research was focused on the Facebook Intensity Scale, which allows for a reliable and valid measurement as well as a latent factor analysis. Its psychometric properties are well-established. Keeping in mind the problem of cumulated alpha errors in significance testing, this is preferable to multiple single-items of variables. However, the Facebook Intensity Scale cannot illuminate particular activities or behavioral modes that can be made responsible for the observed decrease in SCC. Our additional findings show that pretending to be someone elsewhich could contribute to an unclear sense of the offline selfis rare on Facebook. Future research seems warranted that further examines the exact activities and stimuli that are responsible for decreases in SCC. Promising research avenues include the distinction between directed communication (interactions between the focal user and a friend) and consumption <ref type="bibr">(Burke, Marlo, &amp; Lento, 2010)</ref>, or between active and passive use <ref type="bibr">(Verduyn et al., 2015)</ref>. On a related note, social comparison processes (cf. <ref type="bibr" target="#b18">Corcoran, Crusius, &amp; Mussweiler, 2011</ref>) might be a crucial factor: People constantly compare themselves with others to gather information about their characteristics and abilities. These social comparisons are automatic whenever individuals are confronted with information about how other people behave, think, and feeland can even occur outside conscious awareness <ref type="bibr" target="#b46">(Mussweiler, Rüter, &amp; Epstude, 2004)</ref>. On SNSs individuals are constantly exposed to information about others (e.g., their current activities or achievements) and, thus, social comparisons are particularly likely. Indeed, Facebook intensity was associated with the frequency of social comparisons on Facebook <ref type="bibr" target="#b38">(Lee, 2014)</ref>. Comparison processes, in turn, were found to be associated with feelings of uncertainty about oneself (e.g., <ref type="bibr" target="#b8">Butzer &amp; Kuiper, 2006;</ref><ref type="bibr" target="#b74">Vartanian &amp; Dey, 2013)</ref>. This rationale connects to prior distinctions between directed communication and consumption <ref type="bibr" target="#b7">(Burke et al., 2010)</ref>, or between active and passive use <ref type="bibr">(Verduyn et al., 2015)</ref>. Passive activities such as reading others' postings or browsing others' photos on Facebook should trigger these comparison processes more readily than more selfcentered activities such as composing new status updates. Clearly, more research is warranted that explicitly addresses this mediating mechanism of social comparison processes.</p><p>Fourth, the longitudinal design of Study 3 allowed us to inspect relationships over several months, but future research might profit from more than two measurement occasions encompassing longer time spans. Facebook intensity showed higher stability estimates than SCC across the longitudinal design of Study 3. The interplay between the two constructs could be different when focusing on longer periods. A longer time-span, preferably several years, would likely yield larger variations in Facebook intensity. In that sense future research might allow for a more nuanced identification of reciprocal processes (cf. <ref type="bibr" target="#b54">Slater, 2007</ref><ref type="bibr" target="#b55">Slater, , 2015;;</ref><ref type="bibr" target="#b58">Stiglbauer, Gnambs, Gamsjäger, &amp; Batinic, 2013)</ref>.</p><p>Finally, in order to provide evidence on causality, our third study was longitudinal, adding to the small, but growing literature that examined antecedents and consequences of SNS use over time (e.g., <ref type="bibr" target="#b37">Kross et al., 2013;</ref><ref type="bibr" target="#b52">Saslow, Muise, Impett, &amp; Dubin, 2013;</ref><ref type="bibr" target="#b57">Steinfield, Ellison, &amp; Lampe, 2008;</ref><ref type="bibr" target="#b63">Teppers, Luyckx, Klimstra, &amp; Goossens, 2014;</ref><ref type="bibr" target="#b64">Trepte &amp; Reinecke, 2013;</ref><ref type="bibr">Verduyn et al., 2015)</ref>. To date, too few of the available evidence is based on longitudinal studies. When experimental designs are inappropriate, only longitudinal data are able to shed light on the direction of potential causal pathways. Despite the virtue of longitudinal studies, the unaccounted-for influence of third variables can pose a problem. We cannot rule out the possibility that variations of a third and unaccountedfor variable caused both Facebook intensity to increase and SCC to decrease. Future studies are encouraged to include control variables, such as users' personality or more state-like constructs such as loneliness, which may change substantially even if the retest interval is short (cf. <ref type="bibr" target="#b9">Cacioppo et al., 2000;</ref><ref type="bibr" target="#b26">Gnambs, 2014;</ref><ref type="bibr" target="#b51">Ryan &amp; Xenos, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Facebook ismore or less sopart of the life of many adolescents and adults. Our research indicates that with an increasing connection to Facebook (Facebook intensity) individuals perceive their self-concept to be less clear and less coherent (self-concept clarity). This intriguing finding needs additional support in the years to come, including further research on its mechanisms and boundary conditions.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>to the data. The model showed a good fit to the data, w 2 (52) = 62, CFI = 1.00, RMSEA = .00 [.00, .04]. Overall, the demographic variables showed only rather marginal effects on Facebook intensity and SCC: Age predicted Facebook intensity at the first measurement occasion, B = À0.07, SE B = 0.02, β = À.29, p &lt; .001, and SCC at the second measurement occasion, B = À0.03, SE B = 0.01, β = À.15, p = .03, whereas gender predicted SCC at the first measurement occasion, B = 0.12, SE B = 0.06, β = .22, p = .04. All other paths of gender or age on SCC and Facebook intensity were not significant, all p values &gt; .24. With regard to the focal constructs, both showed considerable stability across time, B = 1.02, SE B = 0.06, β = .95, p &lt; 001, for Facebook intensity, and B = 0.82, SE B = 0.14, β = .68, p &lt; 001, for SCC. Importantly, Facebook intensity predicted changes in SCC over time, B = À0.18, SE B = 0.09, β = À.22, p = .04. By contrast, SCC was not associated with respective changes in Facebook intensity, B = 0.03, SE B = 0.09, β = .02, p = .74.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Cross-lagged model for Facebook intensity and self-concept clarity with standardized effects. Measurement models and control variables are not presented. Effects in italics are significant at p &lt;. 05.</figDesc><graphic coords="8,303.31,70.30,232.80,124.61" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Study 1: Means (standard deviations) and zero-order correlations</figDesc><table><row><cell></cell><cell>M (SD)</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell></row><row><cell>1 Gender</cell><cell>0.63 (0.48)</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2 Age</cell><cell>21.27 (5.80)</cell><cell>À.01</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>3 Self-concept clarity</cell><cell>3.84 (0.62)</cell><cell>À.02</cell><cell>.32***</cell><cell>-</cell><cell></cell><cell></cell></row><row><cell>4 Facebook intensity</cell><cell>2.83 (0.87)</cell><cell>.04</cell><cell>À.23**</cell><cell>À.29***</cell><cell>-</cell><cell></cell></row><row><cell>5 Facebook access frequency</cell><cell>6.51 (2.70)</cell><cell>.04</cell><cell>À.31***</cell><cell>À.14*</cell><cell>.64***</cell><cell>-</cell></row></table><note><p><p><p><p><p>g.,</p><ref type="bibr" target="#b71">Valkenburg &amp; Peter, 2008)</ref></p>, and 130 (78.3%) had the lowest possible score on playing games. To avoid spurious results, both variables were excluded from further analyses. Table</p>2</p>provides the complete list of activities/usage patterns along with means, standard deviations, and zero-order-correlations.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Study 2: Means (standard deviations) and zero-order correlations</figDesc><table><row><cell>1 7 1 8 1 9</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>À.04 -</cell><cell></cell><cell>À.07 .43*** -</cell><cell>À.11 .17* .37***</cell><cell></cell></row><row><cell>1 1 1 2 1 3 1 4 1 5 1 6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell>.32*** -</cell><cell></cell><cell>.37*** .48*** -</cell><cell></cell><cell>.29*** .41*** .53*** -</cell><cell></cell><cell></cell><cell>.11 .14 .16* .14 -</cell><cell></cell><cell></cell><cell>.13 .16* .29*** .25** .34*** -</cell><cell></cell><cell>.05 .22** .22** .34*** .19* .30***</cell><cell>.07 À.08 .32*** .03 .01 .10</cell><cell></cell><cell>À.04 À.17* À.06 À.10 À.19* À.08</cell><cell>À.22** À.21** À.20* À.30*** À.04 .06</cell><cell></cell></row><row><cell>M (SD) 1 2 3 4 5 6 7 8 9 1 0</cell><cell>1. Gender 0.65 (0.48) -</cell><cell>2. Age 16.39 (1.36) .04 -</cell><cell>3. Self-concept clarity 3.60 (0.63) À.05 .15* -</cell><cell>4. Facebook intensity 2.94 (0.97) .27*** .01 À.19* -.</cell><cell>5. Facebook access 7.96 (2.91) .33*** À.02 À.20* .51*** -</cell><cell>frequency</cell><cell>6. Change profile picture 2.17 (1.03) .26** À.08 À.14 .24* .21** -</cell><cell>7. Upload pictures/ 2.47 (1.17) .26** À.03 À.04 .31*** .31*** .60*** -</cell><cell>videos</cell><cell>8. Share pictures/videos 1.93 (1.81) À.02 À.04 À.12 .22** .02 .19* .25** -</cell><cell>9. Share links 1.81 (1.07) À.04 .05 À.09 .14 .01 .15* .23** .61*** -</cell><cell>10. Look at others' 2.60 (1.28) .07 .07 À.20** .25** .18* .20* .32*** .08 .20** -</cell><cell>reactions to my postings</cell><cell>(e.g., status updates,</cell><cell>links)</cell><cell>11. Look at others' 3.28 (1.23) .23** À.01 À.08 .34*** .30*** .37*** .40*** .03 .07 .55***</cell><cell>reactions to photos I</cell><cell>have uploaded (e.g.,</cell><cell>comments, likes)</cell><cell>12. Chatting/writing 4.04 (1.11) .25** À.14 À.12 .33*** .33*** .25** .26** .09 .10 .17*</cell><cell>personal messages</cell><cell>13. Liking things others 3.90 (1.10) .33*** À.14 À.03 .34*** .35*** .20* .24** .15 .14 .19*</cell><cell>have uploaded</cell><cell>14. Commenting on 2.89 (1.21) .20** .04 .00 .49*** .25** .28*** .30*** .16* .10 .15</cell><cell>things others have</cell><cell>uploaded</cell><cell>15. Coordinating offline 2.30 (1.24) .03 À.01 À.04 .16* .11 .11 .20* .13 .16* .18*</cell><cell>activities/signaling</cell><cell>participation</cell><cell>16. Being remembered 3.14 (1.47) .30*** .11 .08 .27** .21** .10 .10 À.02 .07 .18*</cell><cell>about birthdays</cell><cell>17. Poking 2.01 (1.23) .14 À.08 À.10 .28*** .07 .22** .20** À.01 .04 .21**</cell><cell>18. Just browse and like, 3.27 (1.38) .06 À.12 À.18* .12 .09 À.13 À.17* .13 .10 .13</cell><cell>nothing else</cell><cell>19. Just browse 2.61 (1.43) À.15 .02 À.03 .00 À.02 À.18* À.18* .11 À.02 .04</cell><cell>20. Try to reveal 3.26 (1.24) À.10 .10 .09 À.23** À.14 À.29*** À.40*** À.18* À.15 À.13</cell><cell>minimum information</cell></row></table><note><p>Notes.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Ó 2016 Hogrefe PublishingJournal of Media Psychology (2018), 30(3), 160-172</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Notes. Gender was dummy-coded (0 = male, 1 = female). *p &lt; .05. **p &lt; .01. ***p &lt; .001.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_3"><p>The only other study<ref type="bibr" target="#b78">(Yang &amp; Brown, 2016</ref>) was published after the present studies were conducted. In two cross-sectional mediation models they showed that the intentional use of Facebook for self-presentation (sample item "When I posted or shared things on Facebook, I rarely thought about its consequences," reverse-coded) was positively related to general self-reflection (sample item "I frequently examine my feelings"), which was in turn negatively related to SCC. In a longitudinal model, higher SCC was predicted by higher self-esteem at an earlier point of time. Others' supportive reactions to the participants' Facebook activities (sample item "I felt supported by the feedback") was found to be unrelated to SCC cross-sectionally and longitudinally.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>Journal of MediaPsychology (2018), 30(3), 160-172Ó 2016 Hogrefe PublishingThis document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>We are grateful to <rs type="person">Alexandra Preslmayr</rs> and <rs type="person">Fabiola Gattringer</rs> for their support in conducting the studies.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ahmad</surname></persName>
+		</author>
+		<ptr target="http://www.digitalinformationworld.com/2014/06/what-happens-in-a-facebook-minute-infographic.html" />
+		<title level="m">What happens in just ONE minute on Facebook</title>
+		<imprint>
+			<date type="published" when="2014-06-11">2014. June 11</date>
+		</imprint>
+	</monogr>
+	<note>Web log message</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Media and identity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Appel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weber</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0267323114539432a</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Media and social life</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Oliver</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Raney</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="16" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Adolescents&apos; uses of media for selfsocialization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Arnett</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF01537054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="519" to="533" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Facebook profiles reflect actual personality, not self-idealization</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Back</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Stopfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vazire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gaddis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Schmukle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Egloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gosling</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797609360756</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="372" to="374" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Self-perception theory</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bem</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2601(08)60024-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="62" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Empirical intersections in communication research: Replication, multiple quantitative methods, and bridging the quantitative-qualitative divide</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Benoit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Holbert</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2008.00404.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="615" to="628" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Who do you think you are? On the link between self-knowledge and self-esteem</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vonk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Self-esteem: Issues and answers</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kernis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hove, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Psychology Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="224" to="229" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Social network activity and social well-being</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lento</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/1753326.1753613</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the SIGCHI Conference on Human Factors in Computing Systems</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2010-04">2010. April</date>
+			<biblScope unit="page" from="1909" to="1912" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Relationships between the frequency of social comparisons and self-concept clarity, intolerance of uncertainty, anxiety, and depression</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Butzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Kuiper</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2005.12.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="167" to="176" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Lonely traits and concomitant physiological processes: The MacArthur social neuroscience studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Cacioppo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ernst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Burleson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Mcclintock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Malarkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Hawkley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Spiegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/S0167-8760(99)00049-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Psychophysiology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="143" to="154" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Identity construction on the Internet</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Calvert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Children in the digital age: Influences of electronic media on development</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Calvert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Jordan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Cocking</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Westport, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="57" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The structure of the self-concept and its relation to psychological adjustment</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Assanand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Di Paula</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-6494.t01-1-00002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="115" to="140" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Self-concept clarity: Measurement, personality correlates, and cultural boundaries</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Trapnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Lavallee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Lehman</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.70.6.1114</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="141" to="156" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The impact of using Facebook on perceptions of others&apos; lives</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Edge</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2011.0324</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="117" to="121" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>They are happier and having better lives than I am</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Relating self-concept consistency to hedonic and eudaimonic well-being in eight cultures</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Church</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Katigbak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ibáñez-Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesús</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vargas-Flores</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tanaka-Matsumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y R</forename></persName>
+		</author>
+		<idno type="DOI">10.1177/0022022114527347</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cross-Cultural Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="695" to="712" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Loneliness, anxiousness, and substance use as predictors of Facebook use</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Clayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Oberle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.12.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="687" to="693" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The hierarchy of consistency: A review and model of longitudinal findings on adult individual differences in intelligence, personality and self-opinion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Conley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0191-8869(84)90133-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="11" to="25" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Human nature and the social order</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Cooley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1902">1902</date>
+			<publisher>Charles Scribner&apos;s Sons</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Social comparison: Motives, standards, and mechanisms</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Corcoran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crusius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mussweiler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Theories in social psychology</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Chadee</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="119" to="139" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Young people&apos;s digital lives: The impact of interpersonal relationships and digital media use on adolescents&apos; sense of identity</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.05.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2281" to="2293" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Does posting Facebook status updates increase or decrease loneliness? An online social networking experiment</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Große Deters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mehl</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1948550612469233</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychology and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="579" to="586" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Social capital and college students use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00367.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>The benefits of Facebook &quot;friends</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Profile as promise: A framework for conceptualizing veracity in online dating self-presentations</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hancock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Toma</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444811410395</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>New Media and Society</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="45" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Stats</title>
+		<author>
+			<persName><surname>Facebook</surname></persName>
+		</author>
+		<ptr target="http://newsroom.fb.com/company-info/" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Social beings. Core motives in social psychology</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Hoboken, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Longitudinal associations between keeping a secret and psychosocial adjustment in adolescence</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Frijns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Finkenauer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0165025408098020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Development</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="145" to="154" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A meta-analysis of dependability coefficients (test-retest reliabilities) for measures of the Big Five</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gnambs</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jrp.2014.06.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Research in Personality</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="20" to="28" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Internet research in psychology</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gosling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mason</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-psych-010814-015321</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="877" to="902" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Personality profiles associated with different motivations for playing World of Warcraft</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gosling</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2012.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="189" to="193" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Adolescent Internet use: What we expect, what teens report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Gross</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.appdev.2004.09.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="633" to="649" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10705519909540118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Internet use and psychological well-being: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2009.0217</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="241" to="249" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Adolescents&apos; overuse of the cyber world: Internet addiction or identity exploration</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Israelashvili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bukobza</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2011.07.015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="417" to="424" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Social capital: the benefit of Facebook &apos;friends</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kawalski</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0144929X.2010.550063</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour &amp; Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="24" to="36" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Do people know how others view them? An empirical and theoretical account</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Depaulo</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.114.1.145</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="145" to="161" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The Facebook paths to happiness: Effects of the number of Facebook friends and self-presentation on subjective well-being</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-E</forename><forename type="middle">R</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2010.0374</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="359" to="364" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Envy on Facebook: A hidden threat to users&apos; life satisfaction?</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Widjaja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buxmann</surname></persName>
+		</author>
+		<ptr target="http://aisel.aisnet.org/wi2013/92" />
+	</analytic>
+	<monogr>
+		<title level="m">Wirtschaftsinformatik Proceedings</title>
+		<imprint>
+			<date type="published" when="2013">2013. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0069841</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">How do people compare themselves with others on social network sites?: The case of Facebook</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.12.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="253" to="260" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Longitudinal Structural Equation Modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">To parcel or not to parcel: Exploring the question and weighing the merits</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Shahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Widaman</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15328007SEM0902_1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="151" to="173" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">New developments in latent variable panel analyses of longitudinal data</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Preacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Selig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Card</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0165025407077757</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Development</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="357" to="365" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Searching for self and relationships online</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Matsuba</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2006.9.275</idno>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="275" to="284" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Longitudinal data analysis using structural equation modeling</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Nesselroade</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>APA</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Can you guess who I am? Real, ideal, and false self-presentation on Facebook among emerging adults</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michikyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dennis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2167696814532442</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Emerging Adulthood</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="55" to="64" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Can you tell who I am? Neuroticism, extraversion, and online self-presentation among young adults</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michikyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dennis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.01.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="179" to="183" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The man who wasn&apos;t there: Subliminal social comparison standards influence self-evaluation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mussweiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rüter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Epstude</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2004.01.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="689" to="696" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthén</surname></persName>
+		</author>
+		<title level="m">Mplus user&apos;s guide</title>
+		<meeting><address><addrLine>Los Angeles, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Muthén &amp; Muthén</publisher>
+			<date type="published" when="1998">1998-2012</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Dark Triad personality traits and adolescent cyber-aggression</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pabian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>De Backer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2014.11.015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="41" to="46" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The self and the Internet: Variations on the illusion of one self</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Reid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychology and the Internet: Intrapersonal, interpersonal, and transpersonal implications</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Gackenbach</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Diego, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="29" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Self-concept clarity mediates the relation between stress and subjective well-being</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Ritchie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sedikides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wildschut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arndt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gidron</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15298868.2010.493066</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Self and Identity</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="493" to="508" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Who uses Facebook? An investigation into the relationship between the Big Five, shyness, narcissism, loneliness, and Facebook usage</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xenos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2011.02.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1658" to="1664" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Can you see how happy we are? Facebook images and relationship satisfaction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Saslow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Muise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Impett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1948550612460059</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychological and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="411" to="418" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Evaluating the fit of structural equation models: Test of significance and descriptive goodness-of-fit measures</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schermelleh-Engel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moosbrugger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods of Psychological Research Online</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="23" to="74" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Reinforcing spirals: The mutual influence of media selectivity and media effects and their impact on individual behavior and social identity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Slater</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2007.00296.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="281" to="303" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Reinforcing spirals model: Conceptualizing the relationship between media content exposure and the development and maintenance of attitudes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Slater</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2014.897236</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="370" to="395" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The psychology of self-affirmation: Sustaining the integrity of the self</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Steele</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2601(08)60229-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="261" to="302" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Social capital, self-esteem, and use of online social network sites: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.appdev.2008.07.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="434" to="445" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The upward spiral of adolescents&apos; positive school experiences and happiness: Investigating reciprocal effects over time</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiglbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gnambs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gamsjäger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Batinic</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsp.2012.12.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="231" to="242" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Überprüfung einer deutschen Version der Selbstkonzeptklarheits-Skala von Campbell [Investigation of a German version of Campbell&apos;s self</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Stucke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>concept clarity scale</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1024//0170-1789.23.4.475</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="475" to="484" />
+		</imprint>
+		<respStmt>
+			<orgName>Zeitschrift für Differentielle und Diagnostische Psychologie</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Digital youth: The role of media in development</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Šmahel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Self and identity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Swann</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Bosson</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9780470561119.socpsy001016</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of social psychology</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Lindzey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="589" to="628" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Loneliness and Facebook motives in adolescence: A longitudinal inquiry into directionality of effect</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Teppers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Luyckx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Klimstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goossens</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2013.11.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="691" to="699" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The reciprocal effects of social network site use and the disposition for self-disclosure: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.10.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1102" to="1112" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Feeling better but doing worse: Effects of Facebook self-presentation on implicit self-esteem and cognitive task performance</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Toma</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2012.762189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="199" to="220" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">How do Facebook users believe they come across in their profiles?: A meta-perception approach to investigating Facebook self-presentation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Toma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Carlson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1080/08824096.2014.990557</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research Reports</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="93" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Self-affirmation underlies Facebook use</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Toma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hancock</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0146167212474694</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="321" to="331" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">Life on the screen: Identity in the age of the Internet</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Turkle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Is there social capital in a social network site?: Facebook use and college students&apos; life satisfaction, trust, and participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kee</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2009.01474.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="875" to="901" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Adolescents&apos; identity experiments on the Internet. Consequences for social competence and self-concept unity</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650207313164</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="208" to="231" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Online communication among adolescents: An integrated model of its attraction, opportunities, and risks</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2010.08.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="121" to="127" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Self-concept clarity across adolescence: Longitudinal associations with open communication with parents and internalizing symptoms</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Van Dijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Branje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keijsers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Hawk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Meeus</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-013-0055-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1861" to="1867" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Self-concept clarity, thin-ideal internalization, and appearance-related social comparison as predictors of body dissatisfaction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Vartanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bodyim.2013.05.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Body Image</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="495" to="500" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shablack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orvell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000057</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Gossip and the self</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Watson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1559-1816.2011.00772.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1818" to="1833" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Online self-presentation on Facebook and self development during the college transition</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-015-0385</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="402" to="416" />
+			<date type="published" when="2014-03-03">2016. 2014. March 3, 2016</date>
+		</imprint>
+	</monogr>
+	<note>Revision</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">76829 Landau Germany appelm@uni-landau.de Markus Appel (PhD, University of Cologne, Germany) is a professor of media psychology at the University of Koblenz-Landau, Germany. His main research fields are the processing of stories, the correlates and consequences of using social networking sites, stereotype threat</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Markus Appel Department of Psychology University of Koblenz-Landau Fortstr</orgName>
+		</respStmt>
+	</monogr>
+	<note>and humanoid robots</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">University of Regensburg, Germany) is a PhD candidate at the Institute for Communication Psychology and Media Education at the University of Koblenz-Landau, Germany. Her research focuses on influencing factors, mechanisms</title>
+		<author>
+			<persName><forename type="first">Constanze</forename><surname>Schreiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">(</forename><surname>Msc</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>and boundary conditions of narrative persuasion</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<author>
+			<persName><forename type="first">Silvana</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">(</forename><surname>Phd</surname></persName>
+		</author>
+		<title level="m">Her research investigates effects of stereotyping communication against immigrants and women, social identity, health, and well-being</title>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint/>
+		<respStmt>
+			<orgName>University of Koblenz-Landau, Germany) is a postdoc at the Institute for Communication Psychology and Media Education, University of Koblenz-Landau</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">She is a key researcher for Robo Psychology at the Ars Electronica Futurelab in Linz, Austria. Her work focuses on human-robot relationships and psychological implications of digital media and emerging technologies. Timo Gnambs (PhD, University of Erlangen-Nuremberg) is head of scaling and test design at the Leibniz Institute for Educational Trajectories</title>
+		<author>
+			<persName><forename type="first">Martina</forename><surname>Mara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">His research focuses on technologybased psychological assessment (including computer-adaptive and web-based testing), methods of large-scale assessment, and metaanalytic methods</title>
+		<meeting><address><addrLine>Germany; Bamberg, Germany</addrLine></address></meeting>
+		<imprint/>
+		<respStmt>
+			<orgName>University of Koblenz-Landau</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

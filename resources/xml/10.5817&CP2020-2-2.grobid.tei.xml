@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Assessing the relationship between cyber and traditional forms of bullying and sexual harassment: Stepping stones or displacement?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Masaryk University Press</publisher>
+				<availability status="unknown"><p>Copyright Masaryk University Press</p>
+				</availability>
+				<date type="published" when="2020-05-13">2020-05-13</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Glenn</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Kutztown University</orgName>
+								<address>
+									<settlement>Kutztown</settlement>
+									<region>Pennsylvania</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Dorothy</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<settlement>Chapel Hill</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Social Studies</orgName>
+								<orgName type="institution">Masaryk University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Criminal Justice Kutztown University</orgName>
+								<address>
+									<addrLine>361 Old Main Kutztown Pennsylvania</addrLine>
+									<postCode>19530-0730</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Kutztown University in Kutztown</orgName>
+								<address>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">University of North</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Assessing the relationship between cyber and traditional forms of bullying and sexual harassment: Stepping stones or displacement?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology Journal of Psychosocial Research on Cyberspace</title>
+						<title level="j" type="abbrev">Cyberpsychology</title>
+						<idno type="ISSN">1802-7962</idno>
+						<imprint>
+							<publisher>Masaryk University Press</publisher>
+							<biblScope unit="volume">14</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2020-05-13" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">8A63C8C261EFE63F81E0BEA53D5F98FE</idno>
+					<idno type="DOI">10.5817/cp2020-2-2</idno>
+					<note type="submission">First submission received on June 29, 2019. Revisions received on January 13, 2020 and March 5, 2020. Accepted for publication on April 2, 2020.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Bullying</term>
+					<term>sexual harassment</term>
+					<term>cyber-behavior</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The purpose of this study was to determine whether cyberbullying and cyber-sexual harassment perpetration serve as antecedents or stepping stones to traditional bullying and sexual harassment, or whether traditional bullying and sexual harassment victimization encourage displacement in the form of anonymous aggressive activities like cyberbullying and cyber-sexual harassment. This research question was evaluated in a sample of 2,039 (52% female) high school students from the Illinois Study of Bullying and Sexual Violence (ISBSV) using two waves of longitudinal data. Two hypotheses were tested in two separate analyses, using bullying and cyberbullying data in one analysis, and sexual harassment and cyber-sexual harassment data in the other analysis. The stepping-stone hypothesis predicted that children would use the anonymity of cyber-bullying/harassment as a stepping stone or learning curve toward eventual involvement in face-to-face bullying/harassment. The displacement hypothesis, by contrast, held that children victimized face-to-face with traditional forms of bullying/harassment would seek release from their victimization by engaging in the largely anonymous activities of cyberbullying and cyber-sexual harassment. In both the bullying and harassment analyses, the pathway running from traditional bullying/harassment victimization to cyber-bullying/harassment perpetration proved significant, consistent with the displacement hypothesis. The pathway running from cyber aggression to traditional aggression failed to achieve significance in both the bullying and harassment analyses, providing no support for the stepping-stone hypothesis. These results imply that anonymity plays an important role in linking traditional and cyber forms of bullying and harassment.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The technological advances made possible by the internet and other corollaries of the cyber-revolution have produced growing opportunities for both positive and negative involvements. On the one hand, the internet has increased people's access to information and made a number of tasks, from paying bills to finding a date, more efficient and less daunting. On the other hand, the internet has opened up new avenues for criminal and non-criminal antisocial behavior. Two forms of antisocial behavior that could be considered offshoots of the cyber-revolution are cyberbullying and cyber-sexual harassment. Bullying and sexual harassment have been around for centuries, but their prevalence may have increased in recent years (Bureau of Justice Statistics, 2017; although see <ref type="bibr" target="#b49">Wolke et al., 2017, for</ref> an alternate view). If so, to what can we attribute this increase? Cyberbullying and cyber-sexual harassment, as antecedents of traditional (in-person) bullying and sexual harassment, respectively, are two such possibilities. Accordingly, the current investigation sought to determine whether cyberbullying and cyber-sexual harassment serve as potential antecedents or stepping stones to traditional bullying and sexual harassment and whether traditional bullying and sexual harassment victimization provide avenues to cyberbullying and sexual harassment perpetration through a process of displacement in a variable-level analysis of high school students' responses to survey questions administered one year apart.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traditional and Cyber Forms of Interpersonal Aggression</head><p>The prevalence of cyberbullying varies as a function of demographics (age, sex, and race), time frame (last month, last year, or lifetime) and whether a broad or narrow definition is employed <ref type="bibr" target="#b31">(Kowalski et al., 2019)</ref>. This variability has produced a wide range of prevalence rates. In a review of 159 prevalence studies, for instance, <ref type="bibr">Brochado et al. (2016)</ref> observed rates of past year cyberbullying victimization that ranged from 1% to 61% and lifetime estimates that ranged from 5% to 65%. Cyberbullying perpetration, by comparison, ranged from 3% to 39% for the past year and from 1% to 44% over the lifetime. There is less information on the prevalence of cyber-sexual harassment victimization and perpetration than there is on cyberbullying, but the data that are available suggest that it too is a major health issue for young adults and juveniles. In a recent national survey of American adults, 41% of women and 22% of men reported being victimized by cyber-sexual harassment <ref type="bibr" target="#b28">(Kearl, 2018)</ref>. In an earlier survey of students in grades 7-12, 44% reported being sexually harassed face-to-face, 30% reported being sexually harassed online, 15% reported engaging in face-toface sexual harassment, and 10% reported involvement in cyber-sexual harassment <ref type="bibr" target="#b25">(Hill &amp; Kearl, 2011)</ref>. It would appear then that traditional and cyber forms of interpersonal aggression are quite common in children, adolescents, and adults.</p><p>Bullying (defined as behavior, often performed repeatedly and designed to harm, hurt, or humiliate another person physically or emotionally) and sexual harassment (defined as behavior of a clearly sexual nature, often performed repeatedly with the intention of harming, hurting, or humiliating another person physically or emotionally) have typically been studied separately <ref type="bibr" target="#b21">(Espelage et al., 2003)</ref>, although the two behavior have been found to overlap moderately. For instance, impulsivity, substance misuse, anger, low empathy, weak social support, and exposure to neighborhood violence have been found to correlate with both bullying and sexual harassment perpetration <ref type="bibr" target="#b5">(Basile et al., 2009;</ref><ref type="bibr" target="#b19">Endresen &amp; Olweus, 2001;</ref><ref type="bibr" target="#b23">Farrington &amp; Baldry, 2010;</ref><ref type="bibr" target="#b27">Hong &amp; Espelage, 2012;</ref><ref type="bibr" target="#b34">Low &amp; Espelage, 2013;</ref><ref type="bibr" target="#b43">Tharp et al., 2013)</ref>. Traditional bullying and cyberbullying also share some of the same risk factors, to include low peer support, anger, and traditional masculinity <ref type="bibr" target="#b32">(Leemis et al., 2019;</ref><ref type="bibr" target="#b34">Low &amp; Espelage, 2013)</ref>. High self-esteem and exposure to pornography, on the other hand, are common risk factors for traditional and cyber sexual harassment <ref type="bibr" target="#b32">(Leemis et al., 2019)</ref>. In a latent class analysis of student reports of traditional and cyber bullying and traditional sexual harassment perpetration and victimization, <ref type="bibr" target="#b16">Doty et al. (2017)</ref> discovered that 7% of the students scored high in all areas assessed, 6% fell into a physical bullying perpetration latent class, and 8% were assigned to a sexual harassment perpetration and victimization class. <ref type="bibr" target="#b32">Leemis et al. (2019)</ref> performed a similar analysis on a separate group of participants and found roughly the same percentages, although their low risk group was somewhat smaller than the one identified by <ref type="bibr">Doty et al. (50% vs. 62%)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Connecting the Different Forms of Traditional and Cyber Interpersonal Aggression</head><p>There are several ways in which traditional and cyber interpersonal aggression may be connected. One way is by using traditional bullying/harassment to hone one's cyberbullying and harassment skills. Such a pattern might exist in a society where children do not have access to the internet until mid-adolescence but that is clearly no longer the case in the United States. An alternate and perhaps more defensible conceptualization is that children learn the techniques of bullying, not only from each other, as postulated by social learning theory <ref type="bibr" target="#b0">(Akers, 1998;</ref><ref type="bibr" target="#b2">Bandura, 1986)</ref>, but also by experimenting with bullying in a relatively safe environment. Although the internet can present dangers to a child or adult, it can also provide a relatively safe environment for bullying/harassment given the anonymity and low likelihood of detection it provides compared to traditional forms of bullying and sexual harassment. This is particularly true if the individual has been schooled in cyber technology. In recent years there has been a trend in education toward greater use of information technology, cyberlearning, and cyber-classrooms to instruct students <ref type="bibr" target="#b14">(Dabas, 2018)</ref>. It would therefore not be unusual for a child to use the internet to master a behavior, whether it be math or bullying. Accordingly, the first model tested in this study proposed that cyberbullying and harassment serve as stepping stones to traditional bullying and harassment by providing the individual with the opportunity to learn skills and techniques for bullying/harassment within the relatively safe confines of the internet. Another possible explanation for the association between cyber and traditional bullying and sexual harassment, which like the stepping-stone explanation, capitalizes on the anonymity of cyberbullying/harassment, is a process we refer to as displacement. In this case, traditional forms of interpersonal violence precede rather than follow cyber interpersonal violence, and rather than running from perpetration to perpetration, like the stepping-stone pattern, the effect runs from victimization to perpetration. A student victimized by bullying or sexual harassment may not possess the physical strength, size, confidence, or social status to retaliate directly one-on-one. Cyberbullying and cyber-sexual harassment offer such individuals an alternative means of achieving interpersonal control in response to being victimized. Bullying has traditionally been defined as interpersonal aggression characterized by a power imbalance <ref type="bibr" target="#b39">(Olweus, 1993;</ref><ref type="bibr" target="#b41">Schumann et al., 2014)</ref>. Cyberbullying and cyber-sexual harassment can create a shift in power, whereby the individual goes from victim in a face-to-face bullying or harassment encounter, to perpetrator in a cyber bullying or harassment encounter where they know the victim, but the victim may not know them. The power imbalance goes from one based on physical strength or social status to one based on knowledge. The displacement referred to here is similar to the Freudian defense mechanism of the same name <ref type="bibr" target="#b6">(Baumeister et al., 1998)</ref>, except that instead of redirecting one's anger toward a less threatening object, one selects a less threatening option or venue in which to express the anger (i.e., engaging in an episode of cyberbullying/harassment instead of a face-to-face encounter).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Current Study</head><p>Research has traditionally shown that cyberbullying increases from middle school to high school, whereas traditional bullying decreases from middle school to high school <ref type="bibr" target="#b26">(Hinduja &amp; Patchin, 2008;</ref><ref type="bibr" target="#b45">Vandebosch &amp; Van Cleemput, 2009)</ref>. On the basis of these results, it could be argued that traditional bullying is more likely to precede cyberbullying than the other way around. However, more recent surveys indicating that cyberbullying is more widespread in middle and high school students than previously thought <ref type="bibr" target="#b24">(Gan et al., 2014;</ref><ref type="bibr" target="#b44">Vaillancourt et al., 2017)</ref>, coupled with the results of a recent study by <ref type="bibr" target="#b4">Barlett and Kowalewski (2019)</ref>, suggest otherwise. In their study, <ref type="bibr" target="#b4">Barlett and Kowalewski (2019)</ref>, using longitudinal data divided into waves separated by three weeks, discovered that anonymity perceptions at Wave 1 predicted pro-cyberbullying attitudes at Wave 2, and that pro-cyberbullying attitudes at Wave 2 predicted cyberbullying at Wave 3. Under cover of anonymity, cyberbullying and cyber-sexual harassment may provide a child unwilling to directly bully or harass a classmate with the opportunity to do so online <ref type="bibr" target="#b30">(Kowalski et al., 2012)</ref>. In this way, cyberbullying and cyber-sexual harassment could serve as conduits through which children learn traditional forms of bullying and sexual harassment, similar to how other children learn to bully and harass from observing the interpersonally intrusive actions of their parents, siblings, or peers. This suggests that cyber bullying/harassment perpetration could lead to traditional bullying/harassment perpetration by providing the child with the opportunity to learn the types of attitudes and actions that facilitate the transition from online forms of interpersonal aggression to traditional forms of interpersonal aggression.</p><p>There is growing evidence that bullying victimization and perpetration form a reciprocal or bidirectional relationship <ref type="bibr" target="#b46">(Walters, 2020)</ref> and there is at least one study showing that sexual harassment victimization and perpetration may do likewise <ref type="bibr">(Ybarra &amp; Thompson, 2018)</ref>. In searching for a mechanism capable of explaining the victimization-perpetration nexus, <ref type="bibr">Walters and Espelage (2018a)</ref> discovered that a hostile attitude toward others mediated the relationship between prior bullying victimization and future bullying perpetration. This, however, may explain the relationship, only in part. A youth who is small, weak, or low on the school social hierarchy has few opportunities to strike back at his or her tormentors. Their victim must therefore be smaller, weaker, or even lower on the social hierarchy than them. The child must therefore find an alternative means of expressing their anger and hostility. One alternate avenue by which small, weak, or socially rejected children express their hostility is through cyber forms of aggression, particularly if the child possesses above average cyber skills. This is how the child shifts the power balance without having to become larger, stronger, or more socially dominate. It's the displacement of the means by which an individual expresses his or her hostility over being victimized that serves as a second possible explanation for the cyber bullying/harassment-traditional bullying/harassment relationship.</p><p>Two sets of analyses were computed as part of the current investigation on the association between traditional and cyber forms of interpersonal aggression. The first set of analyses were conducted on traditional and cyber bullying across two waves of data separated by a year. The first hypothesis tested in these analyses predicted that prior cyberbullying perpetration would correlate positively with a rise in traditional bullying perpetration (stepping-stone hypothesis). The second hypothesis predicted that prior traditional bullying victimization would correlate positively with a rise in cyberbullying perpetration (displacement hypothesis). These same two hypotheses were then tested in a second set of analyses using traditional and cyber sexual harassment in place of traditional bullying and cyberbullying. The same sample and design (longitudinal with one year between waves) were used in both analyses. Repeating the analyses using sexual harassment instead of bullying data was done in order to test the generalizability of the effects obtained in the bullying analyses. Given that the two hypotheses are not necessarily mutually exclusive, it was reasoned that both would receive support in the current set of analyses. Sensitivity testing was conducted on all significant relationships in an effort to determine the specificity of each effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants</head><p>The sample for the current longitudinal study consisted of 2,039 high school students (47.8% male, 52.2% female) from the Illinois Study of Bullying and Sexual Violence (ISBSV: <ref type="bibr" target="#b22">Espelage et al., 2014)</ref>. This represents 85% of all eligible students enrolled in the three high schools surveyed as part of the ISBSV. The average age of participants in the sample was 15.81 years (SD = 1.04, range = 11-19) and the racial/ethnic breakdown was 37.2% White, 43.1% African American, 7.9% Hispanic, 3.1% Asian, and 8.0% other. The disproportionate number of African American students in this sample was due, in part, to an influx of minority families in the school districts where the study took place following the closing of several public housing units in Chicago, Illinois. Each year, about 30% of families move out of the school districts where the ISBSV took place.</p><p>Waves 6 and 7 of ISBSV data were collected on students from three high schools located in two urban school districts of a mid-western state in 2012 and 2013, respectively. The principal investigator or a research assistant notified students about the research project prior to administering the survey, which took approximately 40-45 minutes to complete. The evaluation was repeated a year later. Confidentiality was guarded by seating between 25 and 40 students in a classroom a meaningful distance from one another. Students were assured that their responses were confidential, their participation was voluntary, and that they could skip any questions that made them feel uncomfortable. In addition, they were informed that they could terminate their participation in the study at any time. After completing the survey, students were instructed on how to contact the research team if they had any questions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics Approval</head><p>Parents provided passive consent for the children to participate in the ISBSV and participants provided their informed assent to complete the survey. The ISBSV was originally approved by the University of Illinois at Urbana-Champaign Institutional Review Board (IRB) and the current secondary data analysis was approved by the Kutztown University IRB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures Traditional Bullying Victimization</head><p>The University of Illinois Victimization scale assessed at Wave 6 of the ISBSV served as one of the independent variables in the bullying analyses. This measure consisted of three items (i.e., "other students picked on me;" "other students called me names;" "I got hit and pushed by other students") rated for the past 30 days on a five-point frequency scale (0 = never, 1 = once or twice, 2 = three or four times, 3 = five or six times, 4 = seven or more times). When summed across the three items, the scale achieved a Cronbach alpha (α) coefficient of .72 in the current sample of participants. Research indicates that the University of Illinois Victimization scale correlates well with peer nominations of bullying <ref type="bibr" target="#b21">(Espelage et al., 2003)</ref> and like the other bullying and sexual harassment scales used in this study, a total score was calculated by summing the individual ratings from each item to form a scale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyberbullying Victimization</head><p>Three items from a cyberbullying victimization scale (i.e., "someone made a threatening or aggressive comment to me online;" "someone made a rude or mean comment to me online;" "someone spread rumors about me online, whether they were true or not") administered at Wave 6 of the ISBSV were used to construct a cyberbullying victimization scale. The items were rated for the past year using the same five-point frequency scale as was used to assess traditional bullying victimization. The internal consistency of this scale, which served as an alternate independent variable in one of the bullying sensitivity analyses, rose to a moderately high level in the current sample of participants (α = .82).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traditional Bullying Perpetration</head><p>Traditional bullying perpetration, as assessed with the Illinois Bully Scale, served as both an independent and dependent variable in the bullying analyses. As an independent variable, it was assessed at Wave 6 of the ISBSV and as a dependent variable it was assessed at Wave 7. The nine items that contribute to the traditional bullying perpetration scale (i.e., "I upset other students for the fun of it;" "I spread rumors about other students," "I teased other students;" "I teased other students while we were in a group;" "I started arguments or conflicts;" "I helped harass other students;" "I threatened to hit or hurt another student;" "I encouraged people to fight;" "I was mean to someone when I was angry") were rated for the past 30 days using the same five-point frequency scale as was used to assess traditional and cyberbullying victimization. The concurrent validity of this scale is well established <ref type="bibr" target="#b21">(Espelage et al., 2003)</ref> and the scale achieved good internal consistency (α = .83-.84) and adequate construct validity (Comparative Fit Index [CFI] = .91-.93) in the current sample of participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyberbullying Perpetration</head><p>The other independent/dependent variable included in the bullying analyses was a measure of cyberbullying perpetration. The four items on this scale (i.e., "made rude or mean comments to anyone on line;" "spread rumors about someone online, whether or not they were true;" "sent a text message that said mean or rude things;" "made aggressive or threatening comments to anyone on line") were evaluated for the past year using the same five-point frequency scale as was used with all four bullying measures included in this study. Internal consistency was adequate (α = .76-.78) and construct validity good (CFI = .99) for these four items across Waves 6 and 7 of the ISBSV. This measure has been tested for and shown evidence of concurrent validity <ref type="bibr" target="#b50">(Ybarra et al., 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traditional Sexual Harassment Victimization</head><p>Traditional in-school sexual harassment victimization and perpetration were assessed with items from the American Association of University Women Educational Foundation (AAUW) Sexual Harassment Survey <ref type="bibr" target="#b8">(Bryant, 1993)</ref>. Six items from the AAUW were used to assess in-school sexual harassment victimization (i.e., "physically intimidated you in a sexual way;" "spread sexual rumors about you;" "made unwelcome sexual comments, jokes, or gestures to you;" "touched you in an unwelcome sexual way;" "showed you sexy or sexual pictures that you did not want to see;" "forced you to do something sexual you did not want to do"), with each item rated on a four-point scale (0 = never, 1 = rarely, 2 = occasionally, 3 = often). The time frame for the ratings was the past year, the internal consistency was modest (α = .62), and the construct validity was fair (CFI = .88). A manifest variable was constructed by summing the individual scores for these six items for use as an independent variable in the sexual harassment analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyber-Sexual Harassment Victimization</head><p>An alternate independent variable in the sexual harassment sensitivity analyses was constructed from three cyber-sexual harassment victimization items (i.e., "someone online asked me for sexual information about myself that I didn't want to tell them;" "someone tried to get me to talk about sex online when I didn't want to;" "someone asked me to do something sexual online that I did not want to do"). Each item was assessed with the five-point frequency scale used with bullying victimization and perpetration items (0 = never, 1 = once or twice, 2 = three or four times, 3 = five or six times, 4 = seven or more times). The time frame, as was the case with all of the sexual harassment measures, was the past year. The internal consistency of this three-item scale was strong (α = .87). Youth who report high scores on this scale have been found to experience above average levels of depression <ref type="bibr">(Ybarra et al., 2004)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traditional Sexual Harassment Perpetration</head><p>One of the independent/dependent variables for the second set of analyses was in-school traditional sexual harassment perpetration as measured with six items from the AAUW (i.e., "made unwelcome sexual contacts, jokes, or gestures to other students;" "spread sexual rumors about them;" "showed student sexy or sexual pictures they did not want to see;" "touched them in an unwelcome sexual way;" "physically intimidated them in a sexual way;" "forced them to do something sexual when they did not want to"). Each item was assessed for the past year on a four-point scale (0 = never, 1 = rarely, 2 = occasionally, 3 = often). Internal consistency and construct validity were acceptable across Waves 6 and 7 of the ISBSV (α = .68-.76; CFI = .89-.96). The concurrent validity of the AAUW perpetration and victimization items is also reasonably well established <ref type="bibr" target="#b20">(Espelage &amp; Holt, 2001;</ref><ref type="bibr" target="#b33">Lindberg et al., 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyber-Sexual Harassment Perpetration</head><p>The other independent/dependent variable for the sexual harassment analyses was cyber-sexual harassment perpetration, as assessed with a three-item scale (e.g., "asked someone to do something sexual online that they didn't want to do;" "tried to get someone else to talk about sex online when they did not want to;" "sent a picture that was sexual in any way when that person did not want to receive it"). The items were rated using the previously mentioned five-point frequency scale to produce a total score that could range from 0 to 12. The internal consistency of this scale was excellent in the current sample of participants (α = .95).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Variables</head><p>The same four control variables were included in both sets of analyses as a means of controlling for the demographic diversity of the current sample of participants. These four control variables included age (in years), sex (1 = male, 2 = female), and two dummy variables for race, White (1 = White, 2 = non-White), and Black (1 = Black, 2 = non-Black).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>The current study made use of two waves of longitudinal data separated by a year. The first time period (Wave 6) encompassed the largest number of variables, to include the four control variables (age, sex, white, and black), two dummy variables representing the three schools providing participants for the study, the independent variables (Cyberbullying Perpetration-6 and Traditional Victimization-6 for the bullying analyses and Cyber-Sexual Harassment Perpetration-6 and Traditional Sexual Harassment Victimization-6 for the sexual harassment analyses), and the precursors to each dependent variable (Bullying Perpetration-6 and Cyberbullying Perpetration-6 in the bullying analyses and Sexual Harassment Perpetration-6 and Cyber-Sexual Harassment Perpetration-6 in the sexual harassment analyses). The two dependent variables in the bullying analyses were Bullying Perpetration-7 and Cyberbullying Perpetration-7 and the two dependent variables in the sexual harassment analyses were Sexual Harassment Perpetration-7 and Cyber-Sexual Harassment Perpetration-7. Cyberbullying Victimization-6 and Cyber-Sexual Harassment Victimization-6 served as alternate independent variables in the bullying and sexual harassment sensitivity analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Design</head><p>The current study consisted of a secondary data analysis of longitudinally collected variables. Because the data were temporally ordered and there was no overlap between time periods (Waves 6 and 7 of the ISBSV) the current study qualifies as prospective in nature. Precursor measures of each dependent variable were used to establish the causal direction of variables and rule out the possibility that a dependent variable predicted an independent variable rather than the other way around <ref type="bibr" target="#b12">(Cole &amp; Maxwell, 2003)</ref>. It was hypothesized that the stepping-stone and displacement pathways would be significant for both bullying and sexual harassment and that alternate pathways tested in a series of sensitivity analyses would be non-significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>A multiple regression path analysis composed of two regression equations (one for each dependent variable) was computed using a maximum likelihood estimator. 1 This was done twice, once using bullying variables and a second time using sexual harassment variables. All bullying and sexual harassment variables were computed as manifest variables and all analyses were performed with Mplus 8.3 <ref type="bibr">(Muthén &amp; Muthén, 1998</ref><ref type="bibr">-2017)</ref>. Sensitivity tests were performed to evaluate alternate models and determine the specificity of effects. The sensitivity test for the stepping-stone hypothesis involved reversing variable order (e.g., from Cyberbullying Perpetration → Traditional Bullying Perpetration to Traditional Bullying Perpetration → Cyberbullying Perpetration) to determine whether the results changed. Support for the specificity of the stepping-stone hypothesis should come in the form of a nonsignificant Traditional Bullying Perpetration → Cyberbullying Perpetration effect. Two sensitivity tests were performed on the displacement hypothesis. The first test involved replacing the independent variable (e.g., Traditional Bullying Perpetration) with an alternate independent variable (i.e., Cyberbullying Victimization) to determine whether the effect persisted when the alternate independent variable was assessed with and without the original independent variable present. The second test involved replacing the dependent variable (e.g., Cyberbullying Perpetration) with an alternate dependent variable (i.e., Traditional Bullying Perpetration) to determine whether the effect was specific to the cyberbullying/harassment perpetration outcome.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Missing Data</head><p>Approximately two-thirds of the sample had complete data on all 18 study variables (66.4%). Of the remaining participants, 2.3% were missing data on one or two variables, 0.8% were missing data on three or four variables, 28.7% were missing data on five or six variables, and 1.6% were missing data on 7 to 11 variables. The only variables with more than 5% missing data were the four Wave 7 bullying and sexual harassment outcome measures (30.6% each). Most of these missing data points can be attributed to the 30% annual mobility rate experienced by the school districts supplying participants to the study. Missing data were handled with full information maximum likelihood (FIML), a well-respected procedure that estimates model parameters and standard errors by analyzing all non-missing data and applying the results to the rest of the sample <ref type="bibr" target="#b1">(Allison, 2012;</ref><ref type="bibr" target="#b40">Peyre et al., 2011)</ref>.</p><p>To enhance the plausibility and precision of FIML, the regression analyses were performed with auxiliary variables <ref type="bibr" target="#b13">(Collins et al., 2001)</ref>. Auxiliary variables are used to compute FIML but are not part of the analysis. In the current study the following measures were included as auxiliary variables: anger (Waves 6 and 7), delinquency (Waves 6 and 7), depression (Waves 6 and 7), empathy (Waves 6 and 7), fighting (Waves 6 and 7), impulsivity (Waves 6 and 7), interest in pornography (Waves 6 and 7), parental knowledge (Waves 6 and 7), peer delinquency (Waves 6 and 7), pro-aggression attitudes (Wave 7), and social support (Waves 6 and 7).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bullying Analyses</head><p>Descriptive statistics and inter-correlations for the four control variables included in this study are summarized in Table <ref type="table" target="#tab_0">1</ref>. The next table, Table <ref type="table" target="#tab_1">2</ref>, provides an overview of the results of the bullying analyses. There was no evidence of a stepping-stone effect based on the fact that prior cyberbullying perpetration did not correlate with a rise in future traditional bullying perpetration (Z = 0.83, p = .41). There was, however, ample support for the displacement hypothesis in the current study as evidenced by the fact that traditional bullying victimization correlated positively with future cyberbullying perpetration, after controlling for prior levels of cyberbullying perpetration (Z = 4.95, p &lt; .001). Sensitivity testing on the displacement model produced mixed results. Contrary to predictions, Wave 6 cyberbullying victimization correlated with future cyberbullying perpetration whether (Z = 5.30, p &lt; .001) or not (Z = 5.99, p &lt; .001) it was accompanied by Wave 6 bullying victimization. Congruent with predictions, there was no relationship between prior traditional bullying victimization and subsequent traditional bullying perpetration (Z = 0.64, p = .52). These results imply that the effect of traditional bullying victimization on cyberbullying perpetration was moderately specific to the extent that it ran from face-to-face victimization to cyber perpetration but not from face-to-face victimization to face-to-face perpetration, though it also ran from cyber victimization to cyber perpetration, a finding inconsistent with the specificity of the effect.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sexual Harassment Analyses</head><p>A path analysis was also performed on the sexual harassment measures (see Table <ref type="table" target="#tab_2">3</ref>). Paralleling the results obtained in the bullying analyses, the stepping-stone hypothesis failed to garner support in the sexual harassment analysis by virtue of a nonsignificant correlation between Wave 6 cyber-sexual harassment and Wave 7 traditional sexual harassment, after Wave 6 traditional sexual harassment had been controlled (Z = 0.64, p = .53). The displacement hypothesis, on the other hand, was corroborated by a significant positive correlation between traditional sexual harassment victimization at Wave 6 and a rise in cyber-sexual harassment perpetration from Wave 6 to Wave 7 (Z = 4.06, p &lt; .001).</p><p>Sensitivity testing of the significant displacement effect for sexual harassment produced mixed results, just as it did with the significant displacement effect for bullying. Whereas cyber-sexual harassment victimization failed to forge a meaningful connection with future cyber-sexual harassment perpetration, whether or not it was accompanied (Z = -0.17, p = .86) or unaccompanied (Z = 1.20, p = .23) by traditional sexual harassment victimization, a finding congruent with the displacement hypothesis, traditional sexual harassment victimization correlated with future traditional sexual harassment perpetration (Z = 3.24, p &lt; .01), a finding incongruent with the specificity of the displacement effect.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Two hypotheses were tested in this study. The first or stepping-stone hypothesis predicted that cyberbullying/harassment perpetration would correlate with later traditional bullying/harassment perpetration, controlling for prior levels of traditional bullying/harassment perpetration. Analyses conducted on the relationships between prior cyberbullying perpetration and subsequent traditional bullying perpetration and between prior cybersexual harassment perpetration and subsequent traditional sexual harassment perpetration failed to corroborate this hypothesis. The second or displacement hypothesis maintained that traditional bullying/harassment victimization would correlate with subsequent cyberbullying/harassment perpetration, controlling for prior levels of cyberbullying/harassment perpetration. This hypothesis found support in both the bullying and sexual harassment analyses, although sensitivity testing results were mixed. Whereas the effect was specific to cyberbullying perpetration (traditional bullying victimization did not correlate with subsequent traditional bullying perpetration), it was not specific to traditional bullying victimization (cyberbullying victimization correlated with subsequent cyberbullying perpetration when entered with or without traditional bullying victimization). The results of the sexual harassment sensitivity analyses conducted with respect to the displacement hypothesis found just the opposite: the effect was specific to traditional sexual harassment victimization but not to cyber-sexual harassment perpetration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory and Practice</head><p>In all likelihood, bullying and sexual harassment are learned in many ways and through multiple channels, only two of which were tested in the current study. In a recent test of <ref type="bibr" target="#b3">Barlett and Gentile's (2012)</ref> cyberbullying model (BGCM), <ref type="bibr" target="#b4">Barlett and Kowalewski (2019)</ref> discovered that anonymity played a key role in cyberbullying. According to the BGCM, continued exposure to cyberbullying stimuli, actions, and rewards creates cognitive scripts and attitudes that support and maintain the cyberbullying pattern. The current study failed to provide support for the notion that involvement in cyberbullying or cyber-sexual harassment leads to response generalization to where the individual learns and masters a new set of behaviors conducive to traditional or face-to-face bullying or sexual harassment. It bears repeating that this is only one of several paths potentially capable of stimulating traditional bullying and sexual harassment perpetration and there is no reason to believe that it is even the most common path. Research indicates that only about half of cyberbullies remain anonymous to their victims <ref type="bibr" target="#b29">(Kowalski &amp; Limber, 2007)</ref>. The same has been found for online harassment, although individual prevalence figures for cyber-sexual harassment are generally unavailable <ref type="bibr" target="#b17">(Duggan, 2017)</ref>. Hence, the prospect of cyber-sexual harassment serving as a stepping stone to face-to-face sexual harassment through the anonymitypromoting properties of online interpersonal violence should continue to be explored, along with other potential pathways, though in the current study the stepping-stone hypothesis received no support.</p><p>The second bullying/harassment pathway proposed in this study as a potential link between traditional and cyber forms of interpersonal aggression ran from traditional victimization to cyber perpetration. Founded on the assumption that most victims are not in a position to retaliate physically or socially against their tormentors, it holds that children victimized by face-to-face bullying and sexual harassment will use participation in cyberbullying and sexual harassment to vent their anger or hostility toward their oppressors, those they associate with their oppressors, and people in general.</p><p>The anonymity of cyberbullying and cyber-sexual harassment makes it possible for children to avoid the dangers associated with a face-to-face encounter. What is learned then is that the bad feelings they have about being victimized can be displaced onto the same or a different target in a venue where there is a much lower likelihood of them being personally identified. It could be argued that cyberbullying and cyber-sexual harassment do not meet standard definitions of bullying/harassment (cf. <ref type="bibr" target="#b39">Olweus, 1993)</ref> because there is no real power imbalance between parties when a weaker or socially rejected child uses cyber-techniques against a stronger or more socially dominant child. What this argument fails to take into account, however, is that a power imbalance still exists, but rather than being based on size or social influence, it is based on knowledge and cyber-technology skill.</p><p>In an effort to understand and prevent crime, routine activities theory <ref type="bibr" target="#b11">(Cohen &amp; Felson, 1979)</ref> focuses on the overlap between potential offenders and victims across time and space. Three factors are instrumental in bringing about such convergence: a motivated offender, a suitable target, and the absence of capable guardians. <ref type="bibr" target="#b9">Choi (2008)</ref> has modified routine activities theory to fit the cyber-world. The three quintessential components of this modified routine activities model are a potential offender, a potential target, and a virtual network. Prevention techniques designed to identify and discourage potential offenders, protect and harden potential targets, and improve security management operations within virtual networks continue to be proposed and studied <ref type="bibr" target="#b10">(Choi &amp; Lee, 2017)</ref>. Recommendations for greater parental oversight of child online behavior, workshops and school assemblies that educate students and teachers about the hidden costs of bullying and sexual harassment, and counseling for those who perpetrate and are victimized by online interpersonal violence flow directly from the current results. To the extent that pro-bullying, pro-harassment, and proaggression attitudes are known to support bullying and sexual harassment through a mediating or intervening process <ref type="bibr" target="#b15">(Datta et al., 2016;</ref><ref type="bibr" target="#b18">Eliot &amp; Cornell, 2009;</ref><ref type="bibr" target="#b35">McConville &amp; Cornell, 2003;</ref><ref type="bibr" target="#b36">McMaster, 2001;</ref><ref type="bibr" target="#b43">Tharp et al., 2013;</ref><ref type="bibr">Ybarra &amp; Thompson, 2018)</ref>, cognitive-behavioral therapy may be particularly effective in meeting the needs of those who engage in or are victimized by cyberbullying, cyber-sexual harassment, or both.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>From the standpoint of external validity, the current results are limited by the fact that this study was conducted in three schools from two school districts in a single state. In addition, only a little over a third of the sample was White. The prominence of minorities in this sample was due to the urban nature of the school districts and, as previously mentioned, a large influx of families from low income housing areas in Chicago following the closing of several public housing units. The non-normative ethnic distribution of the current sample could potentially limit the generalizability of the current results to less ethnically diverse school districts. In addition, the annual rate of attrition or mobility from the two school districts providing participants for this study was 30%. This closely approximates the dropout rate for the current study when participants were resurveyed one year later during Wave 7 of the ISBSV. On the other hand, the size, diversity, and age (mid-to late-adolescence) of the present sample could be considered strengths of this study. Thus, while attrition may have played a role in the results of the current investigation, FIML and auxiliary variables were utilized in an effort to minimize the deleterious effects of participant attrition.</p><p>Anonymity played a major role in constructing a rationale for this study. It was proposed that cyber bullying and sexual harassment perpetration would lead to traditional cyber bullying and sexual harassment perpetration and that traditional bullying and sexual harassment victimization would lead to cyber bullying and sexual harassment perpetration through the anonymity of cyber bullying/harassment. Such anonymity, it was reasoned, would encourage some individuals who might not otherwise be inclined to bully face-to-face because of their size, strength, or social reputation, to bully and sexually harass others online. Initial involvement in cyber bullying/harassment could therefore open the door to face-toface bullying and sexual harassment by means of a stepping-stone effect or encourage children who have been subjected to traditional forms of bullying and sexual harassment to vent their anger and hostility by engaging in cyber forms of interpersonal retaliation. Unlike the <ref type="bibr" target="#b4">Barlett and Kowalewski (2019)</ref> study, however, there was no measure of anonymity included in the current investigation. Anonymity was assumed rather than measured. Future research in this area should include a measure of perceived anonymity as a check on the motivation that drives cyber bullying and sexual harassment.</p><p>One could argue that the power imbalance central to most definitions of bullying and sexual harassment was never clearly articulated in any of the bullying or victimization items included in this study. Each of the bullying/harassment victimization and perpetration measures, however, clearly stated that the victimization was unwanted and something that had been imposed on the individual. Moreover, repeated physical victimization or perpetration as well as any form of social ostracization would seem to imply a power imbalance between the parties involved in the encounter. Even so, the power imbalance in a bullying/harassment relationship, like the anonymity of cyberbullying and sexual harassment, was assumed rather than specifically stated and so more attention needs to be paid to the power imbalance specifically in future research on cyber bullying and sexual harassment, although power differentials are difficult to measure and require multiple follow-up items to score (relative age, size, wealth, popularity, etc.: <ref type="bibr" target="#b21">Espelage et al., 2003)</ref>. A further limitation of this study is that all measures were based on self-report, leaving the results vulnerable to mono-operational bias, shared method variance, and social desirability effects <ref type="bibr" target="#b42">(Shadish et al., 2002)</ref>. Finally, the autocorrelation for cybersexual harassment, unlike the autocorrelations for traditional bullying, cyberbullying, and traditional sexual harassment, were nonsignificant, suggesting that the scores on this measure were variable and unstable over time. It is uncertain whether this reflects a limitation of the measures used or the instability of cyber-sexual harassment in high school students, but it is certainly an issue requiring further attention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In closing, we would like to reiterate that the pathways running from cyber bullying/harassment perpetration to traditional bullying/harassment perpetration and from traditional bullying/harassment victimization to cyber bullying/harassment are but two of several avenues through which youth come to engage in face-to-face bullying/harassment and cyber bullying/harassment, respectively. What is now required is research on the mechanisms that link the various independent variables in this study to their respective dependent variables. This, of course, requires mediation analysis, something that was not possible using the ISBSV high school database because it consists of only two waves of data. In future research, investigators might want to consider general attitude toward aggression <ref type="bibr" target="#b15">(Datta et al., 2016;</ref><ref type="bibr" target="#b18">Eliot &amp; Cornell, 2009)</ref> as a possible mediator of the stepping-stone effect-which did not surface in the current study but could well surface with the addition of a mediator <ref type="bibr">(Walters &amp; Espelage, 2018b</ref>)-and anger/hostility <ref type="bibr">(Walters &amp; Espelage, 2018a</ref>) as a possible mediator of the displacement effect. We conclude on the basis of these results and prior research that there are multiple pathways to traditional (face-to-face) and cyber bullying and sexual harassment. The contribution made by the current study is that it offers preliminary data on an initial attempt to isolate two of these pathways using the anonymity of cyber forms of interpersonal aggression, the power imbalance inherent in bullying and sexual harassment, and an overarching social learning explanation for these patterns to guide the research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Footnote</head><p>1. An attempt was made to conduct a structural equation modeling analysis with latent variables but model fit was poor. Consequently, a path analysis with manifest variables was computed instead.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Note.</head><label></label><figDesc>Bullying Perp-7 (Outcome) = regression equation with traditional bullying perpetration measured at Wave 7 as the outcome variable, Cyberbullying Perp-7 (Outcome) = regression equation with cyberbullying perpetration measured at Wave 7 as the outcome variable, Age = age in years, Sex = male (1) vs. female (2), White = White (1) vs. non-White (2), Black = Black (1) vs. non-Black (2), Cyberbullying Perp-6 = cyberbullying perpetration measured at Wave 6, Bullying Perp-6 = traditional bullying perpetration measured at Wave 6, Bullying Victim-6 = traditional bullying victimization measured at Wave 6, Cyberbullying Perp-6 = cyberbullying perpetration measured at Wave 6, Cyber Perp-6 with Bully Vic-6 = covariance between cyberbullying perpetration measured at Wave 6 and traditional bullying victimization measured at Wave 6, Bully Perp-7 with Cyber Perp-7 = covariance between traditional bullying perpetration measured at Wave 7 and cyberbullying perpetration measured at Wave 7, b [95% CI] = unstandardized coefficient and the lower and upper limits of the 95% confidence interval for the unstandardized coefficient (in parentheses), β = standardized coefficient, z = Wald Z test, p = significance level of the Wald Z test, N = 2,039.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Note. SH Perp-7 (Outcome) = regression equation with traditional sexual harassment perpetration measured at Wave 7 as the outcome variable, Cyber-SH Perp-7 (Outcome) = regression equation with cyber-sexual harassment perpetration measured at Wave 7 as the outcome variable, Age = age in years, Sex = male (1) vs. female (2), White = White (1) vs. non-White (2), Black = Black (1) vs. non-Black (2), Cyber-SH Perp-6 = cybersexual harassment perpetration measured at Wave 6, SH Perp-6 = traditional sexual harassment perpetration measured at Wave 6, SH Victim-6 = traditional sexual harassment victimization measured at Wave 6, Cyber-SH Perp-6 = cyber-sexual harassment perpetration measured at Wave 6, Cyber-SH Perp-6 with SH Vic-6 = covariance between cyber-sexual harassment perpetration measured at Wave 6 and traditional sexual harassment victimization measured at Wave 6, SH Perp-7 with Cyber-SH Perp-7 = covariance between traditional sexual harassment perpetration measured at Wave 7 and cyber-sexual harassment perpetration measured at Wave 7, b [95% CI] = unstandardized coefficient and the lower and upper limits of the 95% confidence interval for the unstandardized coefficient (in parentheses), β = standardized coefficient, z = Wald Z test, p = significance level of the Wald Z test, N = 2,039.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Descriptive Statistics and Correlations for the 4 Control Variables.</figDesc><table><row><cell>Variable</cell><cell>n</cell><cell>M</cell><cell>SD</cell><cell>Range</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>1. Age</cell><cell>2015</cell><cell>15.81</cell><cell>1.04</cell><cell>11-19</cell><cell>-.03</cell><cell>.01</cell><cell>-.04</cell></row><row><cell>2. Sex</cell><cell>2028</cell><cell>1.52</cell><cell>-</cell><cell>1-2</cell><cell></cell><cell>.05</cell><cell>-.05</cell></row><row><cell>3. White</cell><cell>2012</cell><cell>1.63</cell><cell>-</cell><cell>1-2</cell><cell></cell><cell></cell><cell>-.72</cell></row><row><cell>4. Black</cell><cell>2012</cell><cell>1.56</cell><cell>-</cell><cell>1-2</cell><cell></cell><cell></cell><cell></cell></row></table><note><p>Note. Age = age in years, Sex = male (1) vs. female (2), White = White (1) vs. non-White (2), Black = Black (1) vs. non-Black (2), n = number of cases with complete data, M = mean, SD = standard deviation, Range = range of values in current sample, N = 2039.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Maximum Likelihood Regression Analysis of Wave 7 Bullying and Cyberbullying Perpetration.</figDesc><table><row><cell>Predictor</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Maximum Likelihood Regression Analysis of </figDesc><table><row><cell>Predictor</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Social learning and social structure: A general theory of crime and deviance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Akers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Northeastern University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Handling missing data by maximum likelihood</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Allison</surname></persName>
+		</author>
+		<ptr target="https://support.sas.com/resources/papers/proceedings12/312-2012.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of SAS Global Forum</title>
+		<meeting>SAS Global Forum</meeting>
+		<imprint>
+			<date type="published" when="2012">2012. 2012</date>
+			<biblScope unit="page" from="312" to="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Social foundations of thought and action: A social cognitive theory</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Prentice Hall</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Attacking others online: The formation of cyberbullying in late adolescence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0028113</idno>
+		<ptr target="https://doi.org/10.1037/a0028113" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="135" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Learning to cyberbully: An extension of the Barlett Gentile cyberbullying model</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kowalewski</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/ppm0000183</idno>
+		<ptr target="http://dx.doi.org/10.1037/ppm0000183" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="437" to="443" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The theoretical and empirical links between bullying behavior and male sexual violence perpetration</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Basile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rivers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.avb.2009.06.001</idno>
+		<ptr target="https://doi.org/10.1016/j.avb.2009.06.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Aggression and Violent Behavior</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="336" to="347" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Freudian defense mechanisms and empirical findings in modern social psychology: Reaction formation, projection, displacement, undoing, isolation, sublimation, and denial</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Baumeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Sommer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-6494.00043</idno>
+		<ptr target="https://doi.org/10.1111/1467-6494.00043" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1081" to="1095" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A scoping review on studies of cyberbullying prevalence among adolescents</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brochado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fraga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trauma, Violence, &amp; Abuse</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="523" to="531" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hostile Hallways: The AAUW Survey on Sexual Harassment in America&apos;s Schools</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bryant</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1746-1561.1993.tb07153.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1746-1561.1993.tb07153.x" />
+	</analytic>
+	<monogr>
+		<title level="m">Bureau of Justice Statistics</title>
+		<imprint>
+			<date type="published" when="1993">1993. 2017</date>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="355" to="357" />
+		</imprint>
+	</monogr>
+	<note>School Crime Supplement (SCS) to the National Crime Victimization Survey (NCVS). Department of Justice</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Computer crime victimization and integrated theory: An empirical assessment</title>
+		<author>
+			<persName><forename type="first">K.-S</forename><surname>Choi</surname></persName>
+		</author>
+		<ptr target="https://www.cybercrimejournal.com/Choiijccjan2008.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Cyber Criminology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="308" to="333" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Theoretical analysis of cyber-interpersonal violence victimization and offending using cyber-routine activities theory</title>
+		<author>
+			<persName><forename type="first">K.-S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2017.03.061</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2017.03.061" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="394" to="402" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Social change and crime rate trends: A routine activity approach</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Felson</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2094589</idno>
+		<ptr target="https://doi.org/10.2307/2094589" />
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="588" to="608" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Testing mediational models with longitudinal data: Questions and tips in the use of structural equation modeling</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Maxwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0021-843X.112.4.558</idno>
+		<ptr target="https://doi.org/10.1037/0021-843X.112.4.558" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal Psychology</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="558" to="577" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A comparison of inclusive and restrictive strategies in modern missing data procedures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Schafer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-M</forename><surname>Kam</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1082-989X.6.4.330</idno>
+		<ptr target="https://doi.org/10.1037/1082-989X.6.4.330" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="330" to="351" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Role of computer and information technology in education system</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dabas</surname></persName>
+		</author>
+		<idno type="DOI">10.29126/23951303/IJET-V4I1P78</idno>
+		<ptr target="https://doi.org/10.29126/23951303/IJET-V4I1P78" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Engineering and Technique</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="570" to="574" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Aggressive attitudes and prevalence of bullying bystander behavior in middle school</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Datta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cornell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pits.21944</idno>
+		<ptr target="https://doi.org/10.1002/pits.21944" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology in the Schools</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="804" to="816" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Patterns of bullying and sexual harassment: Connections with parents and teachers as direct protective factors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Doty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Gower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Rudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Mcmorris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">W</forename><surname>Borowsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-017-0698-0</idno>
+		<ptr target="https://doi.org/10.1007/s10964-017-0698-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2289" to="2304" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Online harassment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/internet/2017/07/11/online-harassment-2017/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center: Internet &amp; Technology</title>
+		<imprint>
+			<date type="published" when="2017-07-11">2017, July 11. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Bullying in middle school as a function of insecure attachment and aggressive attitudes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Cornell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0143034309104148</idno>
+		<ptr target="https://doi.org/10.1177/0143034309104148" />
+	</analytic>
+	<monogr>
+		<title level="j">School Psychology International</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="201" to="214" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Self-reported empathy in Norwegian adolescents: Sex differences, age trends, and relationship to bullying</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Endresen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Olweus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Constructive and destructive behavior: Implications for family, school, and society</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Bohart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Stipek</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>American Psychological Association</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="147" to="165" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Bullying and victimization during early adolescence</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Holt</surname></persName>
+		</author>
+		<idno type="DOI">10.1300/J135v02n02_08</idno>
+		<ptr target="https://doi.org/10.1300/J135v02n02_08" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Emotional Abuse</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="123" to="142" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Examination of peer-group contextual effects on aggression during early adolescence</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Henkel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-8624.00531</idno>
+		<ptr target="https://doi.org/10.1111/1467-8624.00531" />
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="205" to="220" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Bullying, sexual, and dating violence trajectories from early to late adolescence</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Low</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>De La Rue</surname></persName>
+		</author>
+		<idno>No. 246830</idno>
+		<ptr target="https://www.ncjrs.gov/pdffiles1/nij/grants/246830.pdf" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Individual risk factors for school bullying</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Farrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Baldry</surname></persName>
+		</author>
+		<idno type="DOI">10.5042/jacpr.2010.0001</idno>
+		<ptr target="https://doi.org/10.5042/jacpr.2010.0001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Aggression, Conflict and Peace Research</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="16" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The prevalence of bullying and cyberbullying in high school: A 2011 survey</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Gan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Willis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tully</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/ijamh-2012-0106</idno>
+		<ptr target="https://doi.org/10.1515/ijamh-2012-0106" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Adolescent Medicine and Health</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="31" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Crossing the line: Sexual harassment at school</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kearl</surname></persName>
+		</author>
+		<ptr target="https://www.aauw.org/app/uploads/2020/03/Crossing-the-Line-Sexual-Harassment-at-School.pdf" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>American Association of University Women</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cyberbullying: An exploratory analysis of factors related to offending and victimization</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hinduja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Patchin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01639620701457816</idno>
+		<ptr target="https://doi.org/10.1080/01639620701457816" />
+	</analytic>
+	<monogr>
+		<title level="j">Deviant Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="156" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A review of research on bullying and peer victimization in school: An ecological system analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.avb.2012.03.003</idno>
+		<ptr target="https://doi.org/10.1016/j.avb.2012.03.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Aggression and Violent Behavior</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="311" to="322" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The facts behind the #metoo movement: A national study on sexual harassment and assault</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kearl</surname></persName>
+		</author>
+		<ptr target="http://www.stopstreetharassment.org/wp-content/uploads/2018/01/Full-Report-2018-National-Study-on-Sexual-Harassment-and-Assault.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Stop Street Harassment</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Electronic bullying among middle school students</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kowalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Limber</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2007.08.017</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2007.08.017" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="22" to="S30" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kowalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Limber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Agatston</surname></persName>
+		</author>
+		<title level="m">Cyberbullying: Bullying in the digital age</title>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A developmental approach to cyberbullying: Prevalence and protective factors</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kowalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Limber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mccord</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.avb.2018.02.009</idno>
+		<ptr target="http://doi.org/10.1016/j.avb.2018.02.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Aggression and Violent Behavior</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="20" to="32" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Traditional and cyber bullying and sexual harassment: A longitudinal assessment of risk and protective factors across the social ecology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Leemis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Basile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Mercer Kollar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ab.21808</idno>
+		<ptr target="https://doi.org/10.1002/ab.21808" />
+	</analytic>
+	<monogr>
+		<title level="j">Aggressive Behavior</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="181" to="192" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Gender, pubertal development, and peer sexual harassment predict objectified body consciousness in early adolescence</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hyde</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1532-7795.2007.00544.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1532-7795.2007.00544.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Research on Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="723" to="742" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Differentiating cyber bullying perpetration from non-physical bullying: Commonalities across race, individual, and family predictors</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Low</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Espelage</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0030308</idno>
+		<ptr target="https://doi.org/10.1037/a0030308" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Violence</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="52" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Aggressive attitudes predict aggressive behavior in middle school students</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mcconville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Cornell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/10634266030110030501</idno>
+		<ptr target="https://doi.org/10.1177/10634266030110030501" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Emotional and Behavioral Disorders</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="179" to="187" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The role of harassment-supporting attitudes, aggressive behaviours, and peer context in adolescent sexual harassment: A developmental-contextual approach (UMI No</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Mcmaster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NQ</title>
+		<imprint>
+			<biblScope unit="volume">59148</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Doctoral Dissertation, York University</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m">ProQuest Dissertations and Theses database</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthén</surname></persName>
+		</author>
+		<title level="m">Mplus user&apos;s guide</title>
+		<imprint>
+			<publisher>Muthén &amp; Muthén</publisher>
+			<date type="published" when="1998">1998-2017</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Bullying at school: What we know and what we can do</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Olweus</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Blackwell</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Missing data methods for dealing with missing items in quality of life questionnaires: A comparison by simulation of personal mean score, full information maximum likelihood, multiple imputation, and hot deck techniques applied to the SF-36 in the French 2003 decennial health survey</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Peyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leplège</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coste</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11136-010-9740-3</idno>
+		<ptr target="http://doi.org/10.1007/s11136-010-9740-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Quality of Life Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="287" to="300" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Power differentials in bullying: Individuals in a community context</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosu</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0886260513505708</idno>
+		<ptr target="https://doi.org/10.1177/0886260513505708" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interpersonal Violence</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="846" to="865" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Experimental and quasi-experimental designs for generalized causal inference</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Shadish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Mifflin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A systematic qualitative review of risk and protective factors for sexual violence perpetration</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Tharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Degue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Brookmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Massetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Matjasko</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1524838012470031</idno>
+		<ptr target="https://doi.org/10.1177/1524838012470031" />
+	</analytic>
+	<monogr>
+		<title level="j">Trauma, Violence, &amp; Abuse</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="133" to="167" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Cyberbullying in children and youth: Implications for health and clinical practice</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vaillancourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Faris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mishna</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0706743716684791</idno>
+		<ptr target="https://doi.org/10.1177/0706743716684791" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="368" to="373" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Cyberbullying among youngsters: Profiles of bullies and victims</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Cleemput</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444809341263</idno>
+		<ptr target="https://doi.org/10.1177/1461444809341263" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1349" to="1371" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">School-age bullying victimization and perpetration: A meta-analysis of prospective studies and research</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1524838020906513</idno>
+		<ptr target="https://doi.org/10.1177/1524838020906513" />
+	</analytic>
+	<monogr>
+		<title level="m">Trauma, Violence, &amp; Abuse. Advance online publication</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">From victim to victimizer: Hostility, anger, and depression as mediators of the bullying victimization-bullying perpetration association</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsp.2017.12.003</idno>
+		<ptr target="https://doi.org/10.1016/j.jsp.2017.12.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Psychology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="73" to="83" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>a)</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Resurrecting the empathy-bullying relationship with a pro-bullying attitudes mediator: The Lazarus effect in mediation research</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10802-017-0355-9</idno>
+		<ptr target="https://doi.org/10.1007/s10802-017-0355-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1229" to="1239" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>b)</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Cyberbullying: A storm in a teacup?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wolke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00787-017-0954-6</idno>
+		<ptr target="https://doi.org/10.1007/s00787-017-0954-6" />
+	</analytic>
+	<monogr>
+		<title level="j">European Child &amp; Adolescent Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="899" to="908" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The co-occurrence of Internet harassment and unwanted sexual solicitation victimization and perpetration: Associations with psychosocial indicators</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Espelage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2007.09.010</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2007.09.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="31" to="S41" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

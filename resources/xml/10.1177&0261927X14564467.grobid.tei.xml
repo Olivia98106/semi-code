@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Changes in Ethnic Self-Identification and Heritage Language Preference in Adolescence</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2014-12-23">2014-12-23</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jolien</forename><surname>Geerlings</surname></persName>
+							<email>j.geerlings@uu.nl</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Utrecht University</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maykel</forename><surname>Verkuyten</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Utrecht University</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jochem</forename><surname>Thijs</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Utrecht University</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Social and Behavioural Sciences</orgName>
+								<orgName type="institution" key="instit1">ERCOMER</orgName>
+								<orgName type="institution" key="instit2">Utrecht University</orgName>
+								<address>
+									<addrLine>Padualaan 14</addrLine>
+									<postCode>3584 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Changes in Ethnic Self-Identification and Heritage Language Preference in Adolescence</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Language and Social Psychology</title>
+						<title level="j" type="abbrev">Journal of Language and Social Psychology</title>
+						<idno type="ISSN">0261-927X</idno>
+						<idno type="eISSN">1552-6526</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">34</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="501" to="520"/>
+							<date type="published" when="2014-12-23" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">6ED0C0600809E3903DDA798FA24B893A</idno>
+					<idno type="DOI">10.1177/0261927x14564467</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ethnic self-identification</term>
+					<term>heritage language</term>
+					<term>adolescence</term>
+					<term>ethnolinguistic vitality</term>
+					<term>longitudinal</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study analyses data of the U.S. Children of Immigrants Longitudinal Study and focuses on the relations and changes in ethnic self-identification and preferred language use from early to late adolescence. The findings show that over time (pan-)ethnic self-identification increased and preference to use the heritage language decreased from early to late adolescence. These results were found to be influence by period effects. Furthermore, self-identification and language use predicted each other over time. However, there were differences between adolescents from Spanish speaking (Latin American) immigrant families and adolescents from non-Spanish speaking (Asian) immigrant families. Ethnic self-identification and heritage language preference was stronger in the Asian subsample. In addition, ethnic self-identification is found to influence preferred language use for the Spanish speaking group, while language preference predicted ethnic self-identification over time among Asian adolescents.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr" target="#b1">Mclaughlin-Volpe, 2004;</ref><ref type="bibr" target="#b34">Phinney, 1990)</ref><p>, and ethnolinguistic identity theory suggests that language represents a core aspect of one's ethnic identity <ref type="bibr" target="#b17">(Giles &amp; Johnson, 1987</ref>). Yet, empirical research shows that the relation between heritage language and ethnic identity is complex <ref type="bibr" target="#b26">(Liebkind, 2009)</ref>, and very little is known about how this relationship develops in adolescence. Although there has been some mention of stability in heritage language use among second generations <ref type="bibr" target="#b27">(Lotherington, 1991)</ref>, most studies have found linguistic assimilation to mainstream society <ref type="bibr" target="#b30">(Milivojević, 1990;</ref><ref type="bibr" target="#b41">Rumbaut, Massey, &amp; Bean, 2006;</ref><ref type="bibr" target="#b46">Xi, 2013)</ref>. Findings on changes in ethnic identity have not only indicated a move toward a greater identification with American society and the selfdescriptive adoption of American labels <ref type="bibr" target="#b14">(Fuligni, Kiang, Witkow, &amp; Baldelomar, 2008)</ref> but also strengthening of ethnic minority identity (e.g., <ref type="bibr" target="#b12">French, Seidman, Allen, &amp; Aber, 2006;</ref><ref type="bibr" target="#b33">Pahl &amp; Way, 2006;</ref><ref type="bibr" target="#b47">Yip, Seaton, &amp; Sellers, 2006)</ref>.</p><p>In addition to these inconclusive findings, research has not systematically examined developmental changes in the association between heritage language use and ethnic identity. Some studies have focused on usage influencing ethnic identity (e.g., <ref type="bibr" target="#b36">Phinney, Romero, Nava, &amp; Huang, 2001;</ref><ref type="bibr" target="#b32">Oh &amp; Fuligni, 2010)</ref>, but the causal relationship might also be reversed, and there is the possibility of mutual influences <ref type="bibr" target="#b29">(Matsunaga, Hecht, Elek, &amp; Ndiaye, 2010)</ref>. One way to assess these causal paths among second-generation adolescents is to examine the overtime changes in both phenomena.</p><p>Furthermore, there is some evidence that for certain ethnic groups a close relationship between ethnic identity and heritage language usage exist (e.g., <ref type="bibr" target="#b23">Kalbach, 2005)</ref>, whereas this is not found for other groups (e.g., <ref type="bibr" target="#b28">MacCafferty, 2001)</ref>. For example, <ref type="bibr" target="#b36">Phinney et al. (2001)</ref> found a much stronger association among Vietnamese American adolescents than among Mexican Americans. In contrast, <ref type="bibr" target="#b24">Kim and Chao (2009)</ref> found heritage language to be an important component of ethnic identity for second-generation Mexican adolescents but not for second-generation Chinese adolescents. These inconclusive cross-sectional findings further indicate the need for longitudinal analyses. They also show that the relation between the two phenomena can differ between ethnic groups and this might be because of their ethnolinguistic position in society.</p><p>The current study uses a cross-lagged panel design for analyzing two waves of data from the "Children of Immigrants Longitudinal Study" collected in the United States in the 1990s <ref type="bibr" target="#b37">(Portes &amp; Rumbaut, 2001</ref><ref type="bibr" target="#b23">, 2005)</ref>. Our focus is on second-generation adolescents from immigrant families that belong to various ethnic minority groups living in Southern Florida and Southern California. Participants' age ranged from early to late adolescence and, thus, encompassed most of the adolescence period. We examine changes in adolescents' ethnic self-identification, whether these changes coincide with shifts in heritage language preference, and whether changes in ethnic self-identification and language preference differ between ethnolinguistic communities. Considering the available data, the role of ethnolinguistic community is investigated broadly by making a distinction between adolescents originating from a Latin American country where Spanish is the main language and adolescents from immigrant families originating from an Asian country.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethnic Self-Identification</head><p>Longitudinal examinations of changes in ethnic self-identification are relatively scarce but show that there is considerable flexibility in how adolescents define themselves ethnically (e.g., <ref type="bibr" target="#b10">Eschbach &amp; Gómez, 1998;</ref><ref type="bibr" target="#b14">Fuligni et al., 2008;</ref><ref type="bibr" target="#b19">Hitlin, Brown, &amp; Elder, 2006;</ref><ref type="bibr" target="#b31">Nishina, Bellmore, Witkow, &amp; Nylund-Gibson, 2010;</ref><ref type="bibr" target="#b37">Portes &amp; Rumbaut, 2001)</ref>. For example, studying students of Hispanic origin in their sophomore and senior years, <ref type="bibr" target="#b10">Eschbach and Gómez (1998)</ref> found that only 68% was consistent in their self-identification with 16% switching from non-Hispanic to Hispanic, and 21% switching from non-Hispanic to Hispanic <ref type="bibr" target="#b45">(Tovar &amp; Feliciano, 2009)</ref>. Similarly, <ref type="bibr" target="#b31">Nishina et al. (2010)</ref> found that ethnic self-identification remained stable for only about 60% of a sample of middle school students. Furthermore, findings on changes in ethnic self-identification have indicated a move toward a stronger identification with American society and the self-descriptive adoption of American labels <ref type="bibr" target="#b14">(Fuligni et al., 2008)</ref> but, in contrast, also strengthening of ethnic minority identity (e.g., <ref type="bibr" target="#b12">French et al., 2006;</ref><ref type="bibr" target="#b33">Pahl &amp; Way, 2006;</ref><ref type="bibr" target="#b47">Yip et al., 2006)</ref>.</p><p>Theoretically, two alternative predictions can be made about changes in ethnic selfidentification in adolescence. First, a decline of ethnic self-identification might be observed. One reason is that adolescents gradually tend to emotionally distance themselves somewhat from their parents and this might weaken their sense of connection to their families' ethnic origin <ref type="bibr" target="#b13">(Fuligni, 1998)</ref>. Another reason is that increased contact with the broader (official) society and with other-ethnic peers and increased awareness of the ethnic landscape of American society, can lead second-generation immigrants to adopt (hyphenated-)American labels more.</p><p>Second, there might be an increase rather than a decrease in ethnic self-identification because adolescents from immigrant-origin families are in the process of examining their cultural background and place in society <ref type="bibr" target="#b35">(Phinney, 1993)</ref>. This could mean that in late adolescence ethnic self-identification is stronger than in early adolescence when one's ethnic background is rather unexamined. In late adolescence, individuals become clearer as to the meaning of ethnicity in their life and tend to develop stability and self-confidence in defining themselves in terms of their ethnic origin (e.g., <ref type="bibr" target="#b34">Phinney, 1990;</ref><ref type="bibr" target="#b47">Yip et al., 2006)</ref>. This leads to the prediction that ethnic self-identification becomes gradually stronger from middle adolescence to late adolescence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethnic Self-Identification and Language Preference</head><p>Shifts in ethnic self-identification can be expected to coincide with changes in linguistic markers of ethnicity such as speech style, accent, and language usage (see <ref type="bibr" target="#b11">Fischman, 2009)</ref>. Adolescents from immigrant families often feel that they cannot consider themselves "really" Mexican or Chinese when they do not speak the language very well (e.g., <ref type="bibr">Bélanger &amp; Verkuyten, 2010)</ref>. However, research has not systematically examined over time changes in the relation between heritage language and ethnic identity in adolescence. Correlation research shows that individuals who prefer to speak the language of their heritage culture tend to express stronger identification with their ethnic community (e.g., <ref type="bibr" target="#b2">Bankston &amp; Zhou, 1995;</ref><ref type="bibr" target="#b32">Oh &amp; Fuligni, 2010;</ref><ref type="bibr" target="#b22">Imbens-Bailey, 1996)</ref>. The preference and ability to speak, for example, Spanish or Vietnamese, provides access to the ethnic community and enables adolescents to communicate with various family members and to consume ethnic origin information sources. This allows them to explore their families' cultural and ethnic heritage more fully. Furthermore, individuals are socialized to speak a certain language in childhood and this tends to lead to identification with the speakers of that language <ref type="bibr" target="#b0">(Aitchison, 2001;</ref><ref type="bibr" target="#b26">Liebkind, 2009)</ref>. Thus, more heritage language usage over time can be expected to be associated with increased ethnic self-identification (e.g., <ref type="bibr" target="#b32">Oh &amp; Fuligni, 2010;</ref><ref type="bibr" target="#b36">Phinney et al., 2001)</ref>.</p><p>Yet, this relation might also be reversed. Self-verification theory <ref type="bibr" target="#b43">(Swann, 1983</ref>) and identity theory <ref type="bibr" target="#b6">(Burke &amp; Stetts, 2009)</ref> argue that people desire to socially validate how they see themselves. Individuals display identity cues or lay claim to an identity by using a particular dialect or language so that others recognize and validate their identity. Among second-generation Italian Australians, it was found that those who identify stronger with their ethnolinguistic group tend to use the Italian language more <ref type="bibr" target="#b20">(Hogg &amp; Rigoli, 1996)</ref>. And among Hispanic adolescents living in Sydney, it was found that ethnic identification is associated with Spanish language maintenance that signals resistance to the social pressure to assimilate <ref type="bibr" target="#b15">(Gibbons &amp; Ramirez, 2004)</ref>. This implies that adolescents from immigrant families who define themselves in ethnic terms might enact their identity by communicating in their heritage language that symbolizes and exemplifies their ethnic belonging. Thus, across age, ethnic self-identification can be expected to predict the enactment of ethnic identity through heritage language use.</p><p>A third view claims that the two processes of ethnic self-identification and language use coincide and mutually influence each other <ref type="bibr" target="#b26">(Liebkind, 2009;</ref><ref type="bibr" target="#b29">Matsunaga et al., 2010)</ref>. Language usage influences the formation of ethnic identity, whereas ethnic identity, in turn, influences patterns of ethnic language use <ref type="bibr" target="#b17">(Giles &amp; Johnson, 1987;</ref><ref type="bibr" target="#b42">Sachdev &amp; Bourhis, 1990)</ref>. Following this line of reasoning, ethnic self-identification at an earlier point in time can be expected to predict increased heritage language preference at a later point in time, and increased language preference at Time 1 can be expected to predict ethnic self-identification at Time 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adolescence From Latin American Spanish Speaking and Asian Immigrant Families</head><p>Not every ethnic group has its own distinctive language. An example is the ethnic diversity of the Spanish speaking communities in the United States. Although there are important linguistic differences (e.g., accent, dialect) between these communities, the Spanish language is not uniquely related to a specific ethnic group and therefore not a marker. "I speak Spanish and therefore I am a Mexican" is much less obvious than "I am a Mexican and thus I speak Spanish." Furthermore, in the context of Florida and California, the Spanish language is very present in the linguistic landscape and thereby an important aspect of ethnolinguistic vitality <ref type="bibr" target="#b16">(Giles, Bourhis, &amp; Taylor, 1977;</ref><ref type="bibr" target="#b25">Landry &amp; Bourhis, 1997)</ref>. The public use of the Spanish language is widespread and its meaning as a marker of one's families' culture and country of origin is limited <ref type="bibr" target="#b9">(Daily, Giles &amp; Jansma, 2005)</ref>. This makes it not very likely that Spanish language use predicts adolescent's ethnic self-identification. Rather, it is more likely to expect that over time increase in (pan-)ethnic self-labeling is associated with higher preference for Spanish language use. A move toward adopting pan-ethnic (Hispanic, Latino) or ethnic (Mexican, Cuban) self-labels might predict a greater tendency to prefer Spanish as the language to communicate in.</p><p>The situation for most of the non-Spanish speaking Asian immigrant groups is different. Their ethnolinguistic vitality tends to be lower because they are relatively smaller in size and, compared with Spanish, their specific languages are not as institutionalized and present in public life. For adolescents, the ability to speak the heritage language, like Vietnamese or Chinese, is important for developing a sense of ethnic belonging and for exploring the meaning of their ethnic identity. It provides access to the ethnic community and the ability to participate in their cultural community can have important consequences for the development of ethnic identity <ref type="bibr" target="#b2">(Bankston &amp; Zhou, 1995;</ref><ref type="bibr" target="#b22">Imbens-Bailey, 1996)</ref>. In addition, the use of one's heritage language is a relatively clear social marker of identity and can indicate identification with and connectedness to one's ethnic background. This could mean that for adolescents from Asian immigrant families heritage language use in early adolescence might predict ethnic self-identification in later adolescence.</p><p>We will examine whether the over-time changes in ethnic self-identification and in heritage language usage do indeed differ for adolescents from Spanish speaking (Latin American) and non-Spanish speaking (Asian) immigrant families. In addition, it is examined whether the over-time relations between these two phenomena differ between the two communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In Summary</head><p>We sought to test alternative hypotheses about what might be observed for changes in ethnic self-identification and heritage language preference: a linear increase or a decrease. Furthermore, we used cross-lagged panel analysis to examine the over-time relation between self-identification and language preference: ethnic self-identification might predict heritage language preference, language preference might predict selfidentification, and mutual influences might exist. Additionally, we examine whether the changes differ for adolescents from families that migrated from Spanish speaking countries (Latin America) and families that migrated from non-Spanish speaking (Asian) countries. For the former sample, it might be that ethnic self-identification predicts the preference to use the heritage language, whereas for the latter sample heritage language use might predict ethnic self-identification.</p><p>Various studies have investigated different correlates of ethnic identity and of heritage language preference and use. These correlates might affect the changes in these phenomena and their relationship, and therefore should be taken into account in the analyses. For example, when the parents originate from different countries, language preferences and ethnic self-labeling might be less straightforward then if both parents originate from the same country. Therefore, we will control statistically for these and other variables to assess the relationship and changes in ethnic self-identification and language preference. In this study, we took the effects of gender, time lived in the United States, origin of the parents, and heritage language proficiency, into account.</p><p>Furthermore, we will consider the possibility of period effects. Changes in the ways in which adolescence define themselves do not have to imply developmental changes but may also reflect changes in societal circumstances. The time period between the first and second wave of the data that we analyzed <ref type="bibr">(1992 and 1996</ref>) was a turbulent one in terms of political discourse on immigration, particularly in Florida and California. In Florida, there was debate about the revision of the Cuban Adjustment Act of 1966. Where, before 1995, all Cuban immigrants were allowed to seek residency in the United States, Cubans were now only allowed to do so if they were able to reach U.S. soil. In California, Proposition 187 was voted into legislation in 1995. This proposition intensified border patrols and severely restricted the use of social services (e.g., health care and education) by undocumented immigrants. Both pieces of legislation were fiercely debated whereby anti-and proimmigration and immigrant stances were strongly voiced. It is possible that these changing circumstances had an effect on the ways in which adolescents defined themselves ethnically.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and Procedure</head><p>Participants were 2,575 males and 2,687 females included in the Children of Immigrants Longitudinal Study <ref type="bibr" target="#b37">(Portes &amp; Rumbaut, 2001</ref><ref type="bibr" target="#b23">, 2005)</ref>. The CILS is a threewave panel survey among samples of second-generation youngsters. At the first wave (W1), participants attended 8th or 9th grades in public or private schools in the metropolitan areas of Miami/Ft. Lauderdale (Florida) and San Diego (California). The study has a broad operational definition of second generation, and it includes native-born children of foreign parents, or foreign-born children who came to the United States before adolescence. The sample reflects the most sizable immigrant nationalities in each area, including Cubans, Puerto Ricans, Mexicans, and Filipinos in Florida, and Mexicans, Puerto Ricans, Filipinos, and Vietnamese in California.</p><p>Data were gathered in three waves (see <ref type="bibr" target="#b37">Portes &amp; Rumbaut, 2001</ref><ref type="bibr" target="#b23">, 2005</ref>, for full details of the research). The first survey (Wave 1 [W1]) was conducted in 1992 when the participants were in early-to mid-adolescence (M age = 14.23, SD = 0.86). The second survey (Wave 2 [W2]) was held 3 years later when most (mid-to late-) adolescents were graduating from high school (M age = 17.19, SD = 0.85). Ten years after the first survey <ref type="bibr">(2001)</ref><ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref>, a final follow-up was conducted (Wave 3 [W3]) when the participants were young adults (M age = 24.16; SD = 0.84). In the first two waves, face-to-face interviews were conducted but in the third wave mailed questionnaires were used because participants had moved to 30 different states.</p><p>For our analysis, a selection of the available data was made based on several criteria. First, one of our dependent variables (heritage language preference) was measured differently in the third wave of data gathering. Therefore we could only use the data gathered in Waves 1 and 2. Additionally, to examine group differences in ethnic selfidentification and language preference, participants were selected based on either their Latin American origin or their Asian origin. Respondents were considered to belong to the former group if both parents originated from a Latin American country were Spanish is the common spoken language, including Mexico, Nicaragua, Colombia, and Cuba (n = 2,466). Respondents were indicated to belong to the latter group when both parents originated from an Asian country, including, for the most part, Vietnam, Laos, and Cambodia (n = 732). We excluded participants if both parents originated from the Philippines, given that English is one of the official languages of that country and thus it would be difficult to establish the difference between English and the heritage language for this group of participants.</p><p>Furthermore, we conducted a listwise deletion of the missing values on the predictor variables and the dependent variables. Missing values were mostly caused by sample loss at Wave 2 (7.7%). Independent sample t tests showed that these dropouts did not differ significantly from the remaining participants in heritage language preference but did differ significantly in ethnic self-identification. However, this latter difference was very small, with η 2 partial at 0.011 <ref type="bibr" target="#b8">(Cohen, 1988)</ref>. This left us with a total of 2,777 respondents, of which 638 were of Asian origin and 2,139 of Latin American background.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Both dependent variables were measured in the same way in both waves. Ethnic selfidentification was measured with the open-ended question, "How do you identify, that is, what do you call yourself?" Research has shown that there is a great variety in answers to this question <ref type="bibr">(Portes &amp; Rumbaud, 2001</ref>; see also <ref type="bibr" target="#b14">Fuligni et al., 2008)</ref>. For the present purposes, four categories were created: American (coded 0), hyphenated-American (1), pan-ethnic (2), and ethnic/national origin (3). Answers that did not fit in these categories, such as "human being," "Black or Black-American," or "mixed nationalities," were treated as missing data (n = 143, 2.7% of data in Wave 1; n = 277, 5.2% of data in Wave 2). The four categories were analyzed as an interval variable ranging from American identification to ethnic/national identification. A hyphenated label, like "Mexican-American," makes reference to the United States and, therefore, was considered to be closer to an American self-identification than a pan-ethnic label. The hierarchical distinction between pan-ethnic and ethnic identification is more difficult. However, it can be argued that a pan-ethnic identification, like Asian or Latino, is more influenced by American society than an ethnic/national identification, like "Cuban," because pan-ethnic labels are commonly used in the United States but not in the countries of origin. These labels are also often used by governmental and social institutions, making identification with these pan-ethnic labels more "American" than ethnic labels, which refer to a specific origin nationality <ref type="bibr" target="#b37">(Portes &amp; Rumbaut, 2001)</ref>.</p><p>Importantly, additional analyses using dummy variables for each of the categories as dependent variables and for each of the analyses conducted, supported our interval scaling. In all of these additional analyses, the results were similar to the results when using the interval variable for ethnic self-identification. As models with the latter are easier to interpret, we preferred to use the interval variable.</p><p>Heritage Language Preference. For heritage language, the focus of this study is on spoken ethnic language. The reason is that the proposition of identity enactment and validation is not concerned with abilities or competences but rather with behavioral expressions (i.e., speech) that symbolize and exemplify group belonging <ref type="bibr" target="#b6">(Burke &amp; Stetts, 2009)</ref>. Moreover, speaking a heritage language is more frequent among secondgeneration adolescents than, for example, being able to write or read that language <ref type="bibr" target="#b37">(Portes &amp; Rumbaut, 2001)</ref>. Spoken heritage language preference was assessed with the open-ended question, "In what language do you prefer to speak most of the time?" For our analyses, language use was recoded into a binary variable: English as the most preferred language (score 0), and a preference for a heritage language (score 1). Mostly, respondents indicated a single language. In the second wave, however, 14% of the respondents indicated that their preference depended on the situation, or that they prefer both English and their heritage language equally. Though this answer category is meaningful, we decided to exclude it from our analysis, in order for the answers to be comparable between the two waves and, thus, to be able to examine our questions longitudinally. These answers were, therefore, treated as missing values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional Measures</head><p>Various measures were included as controls in our analyses. Time lived in the United States (TUS) was measured in years at Wave 1, and constructed out of two questions indicating the year of entry to the United States and the length of stay. For those who had spent their entire life in the United States, TUS was coded to be equal to their age. For the other participants, TUS was calculated by subtracting the year of entry from the year of the survey. A number of participants (168) did not report a year of entry but indicated their length of stay in one of three categories, "10 years or more," "5 to 9 years," or "less than 5 years." For these participants, we entered TUS scores of, respectively, 10.38, 4.75, and 1.42, based on the average year of entry within each of these categories. Same origin of parents, measured at Wave 1, refers to the question whether the two parents of the respondent migrated from the same origin country or whether the parents originated from different countries. A dummy variable was created were score 1 indicates parents originated form the same country. Heritage language proficiency was measured in both waves by asking if the adolescent spoke another language than English at home, and if yes, to indicate on a 4-point scale how well he or she was able to do so. These questions were combined to indicate ethnic language proficiency ranging from no proficiency (coded 0) to high proficiency (coded 4). Finally, Age at W1 was measured in years and Time was also measured in years; scored 0 for Wave 1 and scored 3 for Wave 2, because it took place 3 years after the first wave of the survey.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>We conducted multilevel analyses to test the different expectations. Multilevel modeling is used to examine hierarchically nested data and is appropriate for analyzing longitudinal designs. It is preferred over repeated measures multivariate analysis of variance because it can handle various numbers of observations per individual participant <ref type="bibr" target="#b21">(Hox, 2010)</ref>. Ethnic self-identification was examined as an interval measure and heritage language preference was examined using a binary categorical measure. Thus, for the latter logistic regression analysis was used. All analyses were performed in MLwiN version 2.30 <ref type="bibr" target="#b40">(Rasbash, Browne, Healy, Cameron, &amp; Charlton, 2009)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preliminary Findings</head><p>Prior to evaluating our hypotheses we inspected mean levels and correlations between all the variables used in our analysis for the two linguistic subsamples (see Table <ref type="table" target="#tab_0">1</ref>). Independent sample t tests and chi-square tests revealed that adolescents from the Asian subsample tended to define themselves significantly more in (pan-)ethnic terms (e.g., Asian) than the Latin American adolescents who tended to define themselves more strongly in hyphenated terms (e.g., Mexican-American). The difference in mean scores between the Latin American adolescents and Asian adolescents shows that the latter more often prefer to speak their heritage language than the former, though in both groups most participants favored to speak English (around 60% to 80%). Additionally, adolescents in the Asian subsample migrated somewhat more recently to the United States and were significantly less proficient in speaking their heritage language. The association between ethnic self-identification and heritage language preference was positive. Furthermore, all control variables were correlated with ethnic self-identification and heritage language preference. We continued our preliminary analysis by inspecting the means of ethnic self-identification and language preferences at the two waves (W1-2) separately for the different age groups (see Table <ref type="table" target="#tab_1">2</ref>). On average, participants' self-identification varied between hyphenated-American (1) and pan-ethnic (2). The means show an increase in ethnic selfidentification from W1 to W2. Despite differences in mean levels at each wave, this pattern holds for all age-cohorts (Table <ref type="table" target="#tab_1">2</ref>) and for the Latin American subsample and the Asian subsample as well (Table <ref type="table" target="#tab_0">1</ref>). 1 In Tables <ref type="table" target="#tab_0">1</ref> and<ref type="table" target="#tab_1">2</ref>, it is shown that-for the different age groups and linguistic subsamples alike-heritage language preference declines from Wave 1 to Wave 2. Because these patterns are similar across age-cohorts and across ethnic groups, this suggests that period effects are involved. Furthermore, we would expect approximately similar means for adolescents who were, for example, 16 at Waves 1 and 16 at Wave 2 (aged 13 at Wave 1). Table <ref type="table" target="#tab_1">2</ref>, however, show that the former have lower means than the latter. This suggests that the means for the different ages are, in part, dependent on the time of the survey. Thus, there seems to be period effects that influence the over-time changes in ethnic self-labeling and heritage language use. It is, however, notoriously difficult to disentangle age, cohort and period effects <ref type="bibr" target="#b3">(Bell &amp; Jones, 2013)</ref>. Taking period effects into account would require that we add a variable "exact time of the survey" to the analyses. However, the dataset did not contain this information. We decided to estimate period effects by including into the analysis a time-invariant variable to indicate between-subject age effect, namely, "Age at W1," and a time-varying variable, "Time," to measure the changes over time from Wave 1 to Wave 2. We thus disentangle the age differences in ethnic self-identification and language preference between participants within the same wave (Age at W1-effect), from the effect of the over-time changes in the societal context (time-effect). We also included and interaction effect between Age at Wave 1 and time in the analysis. After all, given what we know about the different stages of identity development in adolescent period <ref type="bibr" target="#b35">(Phinney, 1993)</ref>, we would that expect that patterns over time might be different for children who were in early adolescence (12 to 14 years old) at the time at the first survey, compared to children who were already in middle adolescence (15 to 17 years old) at that time. However, if period-effects were present in the data, the overtime patterns would be similar for all ages alike, and the interaction would not be significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Main Findings</head><p>Our main analyses consisted of two parts. First, we examined the development of ethnic self-identification and heritage language preference by considering these variables as repeated measures nested within individuals. More specifically, ethnic self-identification and preferred language use were regressed on age at Wave 1, time and the control variables, all of which were centered on their grand mean. Second, we conducted cross-lagged analyses to test the unique effects of self-identification and language preference over time. For this, we created a time-leaded version of the variables ethnic self-identification and heritage language preference, representing their values one wave later (i.e., W2 for W1). These time-leaded variables were then regressed on the original variables (i.e., ethnic self-identification and heritage language preference at W1), and the control variables. Both sets of analyses were initially performed on the whole sample (Spanish speaking and Asian non-Spanish speaking combined) and differences between the two linguistic groups were tested by specifying dummy interactions. Most of the interactions turned out to be significant (p &lt; .05), and therefore, we performed separate analyses for each of the two subsamples. The results of these separate analyses are discussed below.</p><p>Changes in Self-Identification. Table <ref type="table" target="#tab_2">3</ref> shows the analyses for the effect of time on ethnic self-identification for the two subsamples. 2 For both groups the direct effect of time on ethnic self-identification was positive and significant, indicating that over time, adolescents identified themselves more in ethnic terms. This change over time was found independent of the "age at Wave 1" effect, which was estimated to be positive among the Latin American adolescents, showing that the older participants had a stronger tendency to use ethnic self-labels in self-identification. To examine whether the overtime changes in self-identification depend on this age effect, we also included the interaction between time and age at Wave 1 in our analyses. These effects were not significant. Thus, the overall increase in ethnic self-identification was found for younger and older participants alike, indicating that period effects are likely at play. The over-time changes in ethnic identification can therefore not only be solely interpreted as being individual, intrapersonal developments in ethnic identification, but also reflect that something external to individuals affected all participants in a way that caused them to identify themselves more strongly in ethnic terms.</p><p>Changes in Heritage Language Preference. Because heritage language preference was analyzed using a dichotomous variable, we predicted its logits, that is, the log of its odds (the chance of preference over the chance of nonpreference). Results are shown in Table <ref type="table" target="#tab_2">3</ref>. 3 For both the Latin American and the Asian subsample, the effect of time was negative and significant for heritage language preference. Thus, over time, adolescents increasingly favored English over their heritage preference. This is found independently of the age effect, which was positive and significant. This indicates that for older participants there was higher preference for the heritage language than among those who were younger. Similar to self-identification, the interaction between age at Wave 1 and time were not found to be significant, suggesting period effects. The decline in heritage language preference thus reflects that all participants were effected by external influences in a way that caused they to prefer English over their heritage language, although intrapersonal developmental processes may simultaneously be at work here.</p><p>Reciprocal Effects of Self-Identification and Language Preference. Two sets of cross-lagged analyses were performed for examining the reciprocal effects of self-identification and heritage language preference over time. First, we regressed the lead-scores for selfidentification on the original scores for self-identification and heritage language preference, participants' age (age at W1) and the control variables. Second, we regressed heritage language preference on the same set of predictors. The results are presented in Table <ref type="table" target="#tab_3">4</ref>.</p><p>For the Latin American sample, ethnic self-identification and heritage language preference at a later time were positively predicted by, respectively, self-identification and language preference at an earlier time. The cross-lagged effect of heritage language preference on self-identification was positive and significant but fairly small. This effect remained significant, even when controlling for the fact that this effect is dependent on age at Wave 1: The effect of heritage language preference on ethnic selfidentification is larger for older than for younger adolescents. Moreover, the crosslagged effect of ethnic self-identification was positive and significant on heritage language preference. Thus, preferring heritage language use predicted a change in the direction of (pan-)ethnic self-identification, and vice versa, though the path from ethnic identification to heritage language preference seems to be the stronger of the two.</p><p>For the Asian sample, the autoregressive effects of ethnic self-identification and heritage language preference were positive and significant. Furthermore, heritage language preference has a significant positive effect on self-identification. In addition, neither the direct effect of age on ethnic self-identification, nor its interactions with the cross-lagged effects were significant. Together these findings indicate that for the Asian adolescents, language preference predicts ethnic self-identification but not vice versa.</p><p>For both samples we conducted additional analyses to assess whether the results also hold for the different nationalities that are lumped together in each of these samples. These analyses could only be conducted for the m ore sizeable nationalities in the data set. Within the Latin American sample we analyzed participants of Nicaraguan, Cuban, and Mexican origin. The results among these groups are fairly similar. The effect of heritage language preference on ethnic identification is positive but, among these smaller samples, often does not reach significance. The cross-lagged effect of ethnic identification on heritage language preference is positive and significant for all groups, except for Cuban participants. 4 In general, these additional analyses confirm our main findings that, for the Spanish speaking Latin American sample, it is mostly ethnic identification that predicts heritage language preferences over time. In the Asian sample, we compared participants with a Laotian and Vietnamese background. For both these samples we find, in accordance with our main findings, that heritage language preference predicts ethnic identification but not vice versa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>To our knowledge, the current study is the first that examines in adolescence changes in ethnic self-identification and preferred language use as well as their mutual overtime relation. A first finding is that the changes over time were independent of the age of the participants, which suggests that the differences between the two waves (partly) reflect period effects that have to do with the changing societal circumstances at the times of the data collection. These circumstances can have an impact on the ways that youngsters define themselves ethnically and whether they tend to mark their ethnicity with the use of their heritage language <ref type="bibr" target="#b17">(Giles &amp; Johnson, 1987)</ref>. Situational factors have been found to influence self-reports of ethnicity and race, for example, in the context of school or home (e.g., <ref type="bibr" target="#b18">Harris &amp; Sim, 2002;</ref><ref type="bibr" target="#b19">Hitlin et al., 2006)</ref>. The current findings add to this by showing the importance of societal circumstances for the ways in which youngsters define themselves ethnically and the language they prefer to use. Unfortunately, age and time are exactly mathematically dependent, if the exact date of assessment is not recorded in data or if all participants are assessed at the same time, which makes it impossible to disentangle the two. The evidence presented here convincingly shows the need for accurate and independent measurements of both time and age. If age and time are not modelled separately, over-time changes might be interpreted as being age-effects while in fact these changes may partly represent period effects. Future longitudinal studies into ethnic identification and language use, especially those that span across several years, would need to include time as a factor, to be able to accurately estimate developmental changes from societal shifts.</p><p>In the particular settings of this study, the increased debated about immigrant legislation seems to have affected youths in a way that led them to identify themselves more strongly in ethnic terms, but at the same time, the expression of that identity through language was preferred less often, perhaps in fear of negative reactions. The findings not only suggest period effects but may also indicate changes during adolescence. In general, adolescents tended to adopt a hyphenated-American or pan-ethnic label and the great majority preferred to communicate in English. Over time, ethnic self-identification showed an increase toward more (pan-)ethnic self-identification. This increase was found among both subsamples, although ethnic self-identification was stronger in the Asian subsample compared to the Latin American subsample. Theoretically, this increase corresponds with <ref type="bibr" target="#b35">Phinney's (1993)</ref> ethnic identity model that argues that identity development implies increasing exploration of one's family's ethnic and cultural origin <ref type="bibr" target="#b12">(French et al., 2006;</ref><ref type="bibr" target="#b14">Fuligni et al., 2008;</ref><ref type="bibr" target="#b33">Pahl &amp; Way, 2006)</ref>.</p><p>The results for language indicate a decrease in the preference to use heritage languages. This pattern is found for both Asian and Latin American adolescents. Most likely, adolescents over time will more often interact in a predominantly Englishspeaking environment to which they increasingly have to adapt when they grow older. In contrast to other studies (e.g., <ref type="bibr" target="#b32">Oh &amp; Fuligni, 2010)</ref>, however, the Spanish speaking, Latin American, sample indicated a lower preference for heritage language use compared to the non-Spanish speaking, Asian sample. These group differences cannot be explained by differences in heritage language proficiency <ref type="bibr" target="#b24">(Kim &amp; Chao, 2009)</ref> because we controlled for this factor in the analyses. Therefore, the higher heritage language preference of the Asian group is probably related to the demographic position of the Asian nationalities included in this study, among which Vietnam and Laos feature most prominently. These groups, unlike for instance Chinese or Philippine migrants <ref type="bibr" target="#b39">(Portes &amp; Zhou, 1993)</ref>, came to the United States as refugees. After migration, these groups tended, more so than other Asian migrant communities, to reside in tightly knit communities, where social cohesion is strong and English language proficiency, especially among older generations, is often low <ref type="bibr" target="#b44">(Teranishi, 2004)</ref>. In these communities, heritage language use may be necessary for communication among relatives and is likely an important feature in social and cultural encounters <ref type="bibr">(Bankston &amp; Zou, 1995)</ref>.</p><p>Previous research has found an association between heritage language usage and ethnic identity among some ethnolinguistic groups but not among other groups (e.g., <ref type="bibr" target="#b23">Kalbach, 2005;</ref><ref type="bibr" target="#b28">MacCafferty, 2001)</ref>. For example, <ref type="bibr" target="#b24">Kim and Chao (2009)</ref> found in the Los Angeles area that heritage language is an important component of ethnic identity for second-generation Mexican adolescents, but not for second-generation Chinese adolescents. Similar to these results, we found for the Spanish speaking sample a pattern of mutual relations: (pan-)ethnic identification predicted a stronger preference for using Spanish at a later age, and, although to a lesser extent, preferring the use of Spanish predicted (pan-)ethnic identification at a later age. The prominence of the Spanish language in public life in Southern California and Florida provides adolescents with opportunities to use the language and to attain Spanish fluency and this usage and fluency can become a factor in defining their ethnic belonging. Although there are linguistic differences such as dialect, the Spanish language is also not uniquely related to one specific ethnic group but spoken by many ethnic groups originating from Latin America. Adolescents who move toward adopting a pan-ethnic (Hispanic, Latino) label may start to increasingly use Spanish to confirm and manifest their commitments and similarity with the Spanish speaking community.</p><p>Most of the Asian immigrant groups have their own specific heritage language and speaking the language enables adolescents to participate more fully in their cultural community and to explore their cultural and national heritage more deeply. Therefore, we expected for the adolescents of these groups that heritage language usage would predict ethnic self-identification. Indeed, our findings show that an over-time association between heritage language use and ethnic self-identification. Thus, among these Asian adolescents, speaking heritage language seems to signal their ethnic background to themselves and others, thereby solidifying their ethnic identification. This is in line with previous finding that indicate the importance of language for ethnic identification among Vietnamese-American adolescents <ref type="bibr" target="#b2">(Bankston &amp; Zhou, 1995;</ref><ref type="bibr" target="#b36">Phinney et al., 2001)</ref>.</p><p>All in all, this study illustrates the complexities of researching ethnic identification and heritage language use. Our measures of both concepts are limited in the sense that they examine merely one aspect of these concepts, respectively self-labeling and preference for language use. Nonetheless, examining ethnic self-labeling and language use is important for understanding ethnic identity development during adolescence. Most of the research, however, has focused on processes of identity exploration or affirmation and the resulting ethnic identity statuses (e.g., <ref type="bibr" target="#b47">Yip et al., 2006)</ref>, and on ethnic centrality and group esteem (e.g., <ref type="bibr" target="#b12">French et al., 2006)</ref>. In addition, there is more work on heritage language proficiency than on language use. Future studies should examine, for example, how ethnic self-identification is affected by ethnic identity statuses and how heritage language proficiency and heritage language use are related to each other and to ethnic identity development. Some studies have started to examine these issues (e.g., <ref type="bibr" target="#b14">Fuligni et al., 2008;</ref><ref type="bibr" target="#b29">Matsunaga et al., 2010;</ref><ref type="bibr" target="#b32">Oh &amp; Fuligni, 2010</ref>) but more research is needed to improve our understanding of these complex issues. In doing so it is important to examine different ethnic groups and different societal contexts. We had theoretical reasons for making a distinction between adolescents from Spanish speaking and non-Spanish speaking (Asian) immigrant families. However, it is important to examine differences between and within ethnic communities in changing sociopolitical circumstances and within various contexts, such as neighborhoods, schools and regions (e.g., <ref type="bibr" target="#b5">Brody et al., 2006;</ref><ref type="bibr" target="#b7">Caughy, Nettles, O'Campo, &amp; Lohrfink, 2006)</ref>.</p><p>To summarize, this study has mapped the over-time changes in ethnic self-identification and preferred language usage from early to late adolescence. (Pan-)Ethnic labeling was found to increase in adolescence whereas heritage language preference decreased with age, in favor of the use of English. Furthermore, the cross-lagged panel analysis shows that ethnic self-identification and language preference were mutual related. However, these mutual influences were only found for adolescents from Latin American (Spanish speaking) immigrant families and nor for adolescents from Asian (non-Spanish speaking) immigrant families. To further understand these changes and relations, future research should examine other time periods and social settings, other ethnic groups, and additional variables that might be relevant for ethnic self-identification and language preference and use.</p><p>3. Most of the control variables were significantly related to preferred language use (see Table <ref type="table" target="#tab_3">4</ref>). Heritage language was preferred less often when respondents had lived longer in the United States. Respondents whose parents originated from the same country and those who were more proficient in their heritage language were more likely to prefer their heritage language. 4. Perhaps this result is due to the different background of Cuban migrants, who, unlike Mexican or Nicaraguan migrants, often were higher educated refugees, rather than lower educated economic migrants.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Mean Levels and Correlations Between All Variables for Both Waves and Both Linguistic Subsamples.</figDesc><table><row><cell>S1 S2 L1 L2</cell><cell>Asian Spanish Asian Spanish Asian Spanish Asian Spanish</cell><cell>--</cell><cell>.25** .39** --</cell><cell>.14** .26** .17** .17** --</cell><cell>.08 .20** .19** .22** .33** .47** --</cell><cell></cell><cell>.06 .06** .09* .07** .14** .04* .13** .03</cell><cell>.06 .07** -.04 .02 -.10** .01 -.13** .01</cell><cell>-.12** -.32** -.18** -.38** -.35** -.14** -.31** -.20**</cell><cell>.08* .13** .12** .07** .06 .08** .02 .09**</cell><cell></cell><cell>.10** .18** .12** .13** .30** .27** .21** .18**</cell><cell></cell><cell>.10** .18** .15** .13** .19** .21** .22** .26**</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean</cell><cell>difference</cell><cell>0.43***</cell><cell>0.31***</cell><cell>0.12***</cell><cell>0.15***</cell><cell></cell><cell>0.14***</cell><cell>0.01</cell><cell>2.23**</cell><cell>0.03**</cell><cell></cell><cell>0.17***</cell><cell></cell><cell>0.28***</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Asian Spanish</cell><cell>M M</cell><cell>1.62 S1: Self-identification W1 2.05</cell><cell>1.91 S2: Self-identification W2 2.22</cell><cell>0.32 L1: Language preference W1 0.44</cell><cell>0.16 L2: Language preference W2 0.32</cell><cell>Control variables</cell><cell>14.23 Age at W1 14.37</cell><cell>0.50 Gender (ref. Male) 0.49</cell><cell>12.13 Time spent in U.S. 9.90</cell><cell>0.91 Same Origin Parents (ref. 0.94</cell><cell>Mixed Origin)</cell><cell>3.34 Heritage Language 3.16</cell><cell>Proficiency W1</cell><cell>3.36 Heritage Language 3.09</cell><cell>Proficiency W2</cell><cell>Note. SI = self-identification; W = wave.</cell><cell>*p &lt; .05. **p &lt; .01. ***p &lt; .001.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Mean Levels of Ethnic Self-Identification (SI) and Heritage Language Preference (HLP) for the Two Waves and the Different Age Groups at Wave 1.</figDesc><table><row><cell></cell><cell>Wave 1, SI</cell><cell>Wave 2, SI</cell><cell>Wave 1, HLP</cell><cell>Wave 2, HLP</cell></row><row><cell>Age at Wave 1</cell><cell>M (SD)</cell><cell>M (SD)</cell><cell>%</cell><cell>%</cell></row><row><cell>13</cell><cell>1.60 (1.04)</cell><cell>1.86 (0.85)</cell><cell>0.31</cell><cell>0.19</cell></row><row><cell>14</cell><cell>1.68 (1.04)</cell><cell>1.98 (0.86)</cell><cell>0.32</cell><cell>0.16</cell></row><row><cell>15</cell><cell>1.79 (1.05)</cell><cell>2.06 (0.85)</cell><cell>0.38</cell><cell>0.24</cell></row><row><cell>16</cell><cell>1.89 (1.00)</cell><cell>2.15 (0.87)</cell><cell>0.41</cell><cell>0.28</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Effects of Time on Ethnic Self-Identification and Heritage Language Preference.</figDesc><table><row><cell></cell><cell cols="2">Ethnic self-identification</cell><cell cols="2">Heritage language preference</cell></row><row><cell></cell><cell>Asian</cell><cell>Latin American</cell><cell>Asian</cell><cell>Latin American</cell></row><row><cell></cell><cell>b (SE)</cell><cell>b (SE)</cell><cell>b (SE)</cell><cell>b (SE)</cell></row><row><cell>Intercept</cell><cell>1.724 (0.119)***</cell><cell>1.453 (0.057)***</cell><cell cols="2">-0.628 (0.295)*** -1.825 (0.190)***</cell></row><row><cell>Time</cell><cell>0.066 (0.018)***</cell><cell>0.106 (0.009)***</cell><cell cols="2">-0.155 (0.047)*** -0.289 (0.030)***</cell></row><row><cell>Age at Wave 1</cell><cell>0.029 (0.035)</cell><cell>0.046 (0.019)*</cell><cell>0.141 (0.084)***</cell><cell>0.105 (0.055)*</cell></row><row><cell>Time * Age at</cell><cell>0.007 (0.019)</cell><cell>-0.012 (0.010)</cell><cell>-0.055 (0.051)</cell><cell>-0.021 (0.035)</cell></row><row><cell>Wave 1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Controls</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gender (ref.</cell><cell>0.069 (0.062)</cell><cell>0.060 (0.033)</cell><cell cols="2">-0.563 (0.149)*** -0.059 (0.093)</cell></row><row><cell>Male)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time spent in</cell><cell cols="2">-0.029 (0.009)*** -0.096 (0.005)***</cell><cell cols="2">-0.164 (0.021)*** -0.066 (0.014)***</cell></row><row><cell>U.S.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Same origin</cell><cell>0.361 (0.120)***</cell><cell>0.236 (0.057)***</cell><cell>0.338 (0.298)</cell><cell>0.589 (0.188)**</cell></row><row><cell>parents (ref.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mixed origin)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Heritage</cell><cell>0.112 (0.035)***</cell><cell>0.109 (0.022)***</cell><cell>0.509 (0.093)***</cell><cell>1.034 (0.081)***</cell></row><row><cell>language</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>proficiency</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Variance</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level 1</cell><cell>0.174 (0.042)***</cell><cell>0.239 (0.021)***</cell><cell>0.497 (.189)***</cell><cell>0.835 (0.132)***</cell></row><row><cell>Level 2</cell><cell>0.736 (0.047)***</cell><cell>0.546 (0.020)***</cell><cell>-</cell><cell>-</cell></row><row><cell>Deviance</cell><cell>3,018.044</cell><cell>9,205.463</cell><cell>-</cell><cell>-</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Cross-Leaded Analyses for the Two Subsamples.</figDesc><table><row><cell></cell><cell cols="2">Ethnic self-identification (lead)</cell><cell cols="2">Heritage language preference (lead)</cell></row><row><cell></cell><cell></cell><cell>Latin American, b</cell><cell></cell><cell>Latin American, b</cell></row><row><cell></cell><cell>Asian, b (SE)</cell><cell>(SE)</cell><cell>Asian, b (SE)</cell><cell>(SE)</cell></row><row><cell>Intercept</cell><cell>1.881 (0.136)</cell><cell>1.928 (0.066)***</cell><cell cols="2">-1.219 (0.447)*** -3.425 (0.393)***</cell></row><row><cell>Ethnic self-</cell><cell>0.170 (0.033)***</cell><cell>0.243 (0.019)***</cell><cell>0.067 (0.107)</cell><cell>0.274 (0.085)***</cell></row><row><cell>identification</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Heritage language</cell><cell>0.150 (0.077)*</cell><cell>0.090 (0.040)**</cell><cell>1.052 (0.233)***</cell><cell>2.360 (0.170)***</cell></row><row><cell>preference</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age at Wave 1</cell><cell>0.021 (0.038)</cell><cell>0.009 (0.025)</cell><cell>0.059 (0.124)</cell><cell>-0.214 (0.149)</cell></row><row><cell>× Heritage</cell><cell>-</cell><cell>0.095 (0.044)*</cell><cell>-</cell><cell>0.332 (0.195)*</cell></row><row><cell>language</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>preference</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Controls</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Gender (ref. Male) -0.053 (0.069)</cell><cell>-0.030 (0.035)</cell><cell>-0.401 (0.223)</cell><cell>0.060 (0.162)</cell></row><row><cell cols="2">Time spent in U.S. -0.025 (0.010)**</cell><cell>-0.073 (0.006)***</cell><cell cols="2">-0.115 (0.031)*** -0.099 (0.023)***</cell></row><row><cell>Same origin</cell><cell cols="2">0.345 (0.132)*** -0.028 (0.064)</cell><cell>0.096 (0.436)</cell><cell>0.725 (0.383)</cell></row><row><cell>parents (ref.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mixed origin)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Heritage language</cell><cell>0.048 (.042)</cell><cell>-0.006 (0.026)</cell><cell>0.355 (0.144)**</cell><cell>0.129 (0.131)</cell></row><row><cell>proficiency</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Variance</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level 1</cell><cell>0.688 (0.040)***</cell><cell>0.545 (0.018)***</cell><cell>0.047 (0.351)</cell><cell>0.000 (0.000)</cell></row><row><cell>Level 2</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Deviance</cell><cell>1468.375</cell><cell>3983.016</cell><cell>-</cell><cell>-</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>*p &lt; .05. **p &lt; .01. ***p &lt; .001.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>Special thanks to <rs type="person">Howard Giles</rs> and the reviewers for their helpful thoughts and comments on an earlier version of this article.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) received no financial support for the research and/or authorship of this article.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared no potential conflicts of interests with respect to the authorship and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. Additional analysis of over time changes in ethnic identification, which included the third wave of the survey, show a decline in ethnic identification from the second wave onwards. This pattern is likewise found among all age-cohorts and in both subsamples, which strengthens our hypothesis that the peak in ethnic identification might have been cause but something other than mere developmental processes of adolescence. 2. Almost all control variables had significant effects (see Table <ref type="table">3</ref>). Specifically, participants less often labeled themselves in (pan-)ethnic terms when they had spent more time in the United States. Conversely, (pan-)ethnic self-identification was more likely when participants were female, had parents from the same-compared to mixed origin countries-and when they were more proficient in speaking the heritage language.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Biographies</head><p>Jolien Geerlings is PhD researcher at the European Research Centre on Migration and Ethnic Relations (ERCOMER), Utrecht University, the Netherlands. Her research interests include migration, youth, education, multiculturalism, and identity. Her current research explores student-teacher interactions in ethnically diverse classrooms.</p><p>Maykel Verkuyten is a professor at the Department of Interdisciplinary Social Sciences at Utrecht University and research director at the European Research Centre on Migration and Ethnic Relations (ERCOMER). His main research interest is in ethnic identity and interethnic relations.</p><p>Jochem Thijs is an assistant professor at the Department of Interdisciplinary Social Science and a researcher at ERCOMER at Utrecht University in the Netherlands. His research interest is in (ethnic) relations in educational contexts and educational adjustments of ethnic minority children and adolescents.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Language change: Progress or decay?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aitchison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, England</pubPlace>
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">An organizing framework for collective identity: Articulation and significance of multidimentionality</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Ashmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Deaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mclaughlin-Volpe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="80" to="114" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effects of minority-language literacy on the academic achievement of Vietnamese youth in New Orleans</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bankston</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociology of Education</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The impossibility of separating age, period and cohort effects</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2013.04.029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="163" to="165" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Hyphenated identities and acculturation: Second generation Chinese of Canada and the Netherlands</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Verkuyten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Identity: An International Journal of Theory and Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="141" to="163" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Perceived discrimination and the adjustment of African American youths: A five-year longitudinal analysis with contextual moderation effects</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Murry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Somins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">X</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Cutrona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1170" to="1189" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Stetts</surname></persName>
+		</author>
+		<title level="m">Identity theory</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Racial socialization and African American child development: The importance of neighbourhood context</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caughy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Nettles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>O'campo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Lohrfink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1220" to="1236" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Statistical power analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Hillsdale, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Language attitudes in an Anglo-Hispanic context: The role of the linguistic landscape</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Daily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Jansma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language and Communication</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="27" to="38" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Choosing Hispanic identity: Ethnic identity switching among respondents to high school and beyond</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eschbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gómez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="74" to="90" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Fischman</surname></persName>
+		</author>
+		<title level="m">Handbook of language and ethnic identity</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The development of ethnic identity during adolescence</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Seidman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Aber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The adjustment of children from immigrant families. Current directions in psychological science</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Fuligni</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="99" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stability and change in ethnic labeling among adolescents from Asian and Latin-American immigrant families</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Fuligni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Witkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Baldelomar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="944" to="956" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Different beliefs: Beliefs and the maintenance of a minority language</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ramirez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="99" to="117" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Towards a theory of language in ethnic group relations</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bourhis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Language, ethnicity and intergroup relations</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="34" to="57" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ethnolinguistic identity theory: A social psychological approach to language maintenance</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of the Sociology of Language</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="69" to="99" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Who is multiracial? Assessing the complexity of lived lives</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Sim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="614" to="627" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Racial self-categorization in adolescence: Multiracial development and social pathways</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hitlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Elder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1298" to="1308" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effects of ethnolinguistic vitality, ethnic identification, and linguistic contacts on minority language use</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hogg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rigoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="76" to="89" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hox</surname></persName>
+		</author>
+		<title level="m">Multilevel analysis: Techniques and applications</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ancestral language acquisition: Implications for aspects of ethnic identity among Armenian American children and adolescents</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Imbens-Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="422" to="443" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Language effects on ethnic identity in Canada</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kalbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Ethnic Studies Journal</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="3" to="19" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Heritage language fluency, ethnic identity, and school effort of immigrant Chinese and Mexican adolescents</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Chao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cultural Diversity and Ethnic Minority Psychology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="27" to="27" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Linguistic landscape and ethnolinguistic vitality: An empirical study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Landry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bourhis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="23" to="41" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Social psychology</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liebkind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of language and ethnic identity</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Fishman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O</forename><surname>Garcia</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="18" to="31" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Pacific</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lotherington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of language and ethnic identity</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Fishman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="152" to="163" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Ethnicity and language change: English in</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maccafferty</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Benjamins</publisher>
+			<pubPlace>London)Derry, Northern Ireland. Amsterdam, Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Ethnic identity development and acculturation: A longitudinal analysis of Mexican-heritage youth in the Southwest United States</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matsunaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Elek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ndiaye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cross-Cultural Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="410" to="427" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Language maintenance and language shift among Yugoslavs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Milivojević</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Slavic and East European Journal</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="208" to="223" />
+			<date type="published" when="1990">1990</date>
+			<pubPlace>New Orleans, Louisiana</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Ten years after</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Longitudinal consistency of adolescent ethnic identification across varying school ethnic contexts</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nishina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bellmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Witkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nylund-Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1389" to="1401" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The role of heritage language development in the ethnic identity and family relationships of adolescents from immigrant backgrounds</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fuligni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Development</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="202" to="220" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Longitudinal trajectories of ethnic identity among urban Black and Latino adolescents</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Way</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1403" to="1415" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ethnic identity in adolescents and adults: A review of research</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Phinney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="499" to="514" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A three stage model of ethnic identity development in adolescence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Phinney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ethnic identity: Formation and transmission among Hispanic and other minorities</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Bernal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Knight</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="61" to="80" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The role of language, parents and peers in ethnic identity among adolescents in immigrant families</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Phinney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="135" to="153" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Legacies: The story of the immigrant second generation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Rumbaut</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Introduction: Second generation and the children of immigrants longitudinal study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Rumbaut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethnic and Racial Studies</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="983" to="999" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The new second generation: Segmented assimilation and its variants</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the American Academy of Political and Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">530</biblScope>
+			<biblScope unit="page" from="74" to="96" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">MLwiN version 2.18</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rasbash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Healy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Charlton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Multilevel Models Project Institute of Education</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Linguistic life expectancies: Immigrant language retention in Southern California</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Rumbaut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Massey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Bean</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Population and Development Review</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="447" to="460" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Language and social identification</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sachdev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Bourhis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social identity theory: Constructive and critical advances</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Abrams</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Hogg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hemel Hempstead, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvester Wheatsheaf</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="211" to="229" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Self-verification: Bringing social reality into harmony with the self</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Swann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychological perspectives on the self</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Suls</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Greenwald</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="33" to="66" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Yellow and Brown: Emerging Asian American immigrant populations and residential segregation. Equity and Excellence in Education</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Teranishi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10665680490491551</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="255" to="263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Not Mexican-American, but Mexican: Shifting ethnic selfidentifications among children of Mexican immigrants</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tovar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feliciano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Latino Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="197" to="221" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">English fluency of the U.S. immigrants: Assimilation effects, cohort variations, and periodical changes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1109" to="1121" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">African American racial identity across the lifespan: Identity status, identity content, and depressive symptoms</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Seaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Sellers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1504" to="1517" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

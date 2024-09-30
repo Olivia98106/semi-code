@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Longitudinal Examination of Enacted Goal Attention in End-of-Life Communication in Families</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2022-03-10">2022-03-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Allison</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+							<email>allison.scott@uky.edu</email>
+							<idno type="ORCID">0000-0002-4806-7912</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Kentucky</orgName>
+								<address>
+									<addrLine>275 Blazer Dining Hall</addrLine>
+									<postCode>40506-0042</postCode>
+									<settlement>Lexington</settlement>
+									<region>KY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Kentucky</orgName>
+								<address>
+									<addrLine>275 Blazer Dining Hall</addrLine>
+									<postCode>40506-0042</postCode>
+									<settlement>Lexington</settlement>
+									<region>KY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Kentucky</orgName>
+								<address>
+									<addrLine>275 Blazer Dining Hall</addrLine>
+									<postCode>40506-0042</postCode>
+									<settlement>Lexington</settlement>
+									<region>KY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Longitudinal Examination of Enacted Goal Attention in End-of-Life Communication in Families</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Communication Research</title>
+						<title level="j" type="abbrev">Communication Research</title>
+						<idno type="ISSN">0093-6502</idno>
+						<idno type="eISSN">1552-3810</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">50</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="1044" to="1075"/>
+							<date type="published" when="2022-03-10" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">9231A8E8A8F6DEC65321527364B5506E</idno>
+					<idno type="DOI">10.1177/00936502211058040</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cognitive Rules Model</term>
+					<term>Goals Understanding Theory</term>
+					<term>multiple goals</term>
+					<term>serial argument</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Drawing on theoretical principles related to goal pursuit and inference, the present study investigated the extent to which specific message features led to better or worse conversational outcomes of end-of-life discussions between older adults and their adult children. Actor-partner interdependence modeling analysis of longitudinal reports from 66 parent/child dyads revealed that tactical attention to identity, relational, and task goals in conversation predicted change over a 1-year period in advance directive completion, concordance accuracy, and relationship satisfaction and closeness. Quantity features of communication (i.e., number of conversations, number of topics discussed) were not related to the measured outcomes. Routine relationship maintenance and explicit decision making had a positive impact on the outcomes, and underaccommodation, strategic relationship maintenance, avoidance, elaboration, and implicit decision making had a negative impact on the outcomes of end-of-life family talk. The findings provide insight on how to practically improve the quality of end-of-life conversations in families.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>unnecessary or unwanted EOL treatment <ref type="bibr" target="#b1">(Ahrens et al., 2003)</ref>. What has not emerged, however, is a clear picture of what makes for effective EOL communication in families <ref type="bibr" target="#b74">(Wallace, 2015)</ref>. In fact, previous research has yielded mixed findings regarding the impact of EOL family talk <ref type="bibr" target="#b60">(Scott, 2014)</ref>. Some studies show that such communication positively impacts a person's EOL experience (e.g., <ref type="bibr" target="#b79">Wright et al., 2008)</ref>, and other studies show that family communication has no impact (e.g., <ref type="bibr" target="#b45">Lautrette et al., 2007)</ref> or even a detrimental effect (e.g., <ref type="bibr" target="#b39">Jones et al., 2011)</ref> on a person's end of life.</p><p>One likely reason for the mixed findings is that extant work lacks theoretical grounding, which has led to the use of inconsistent definitions and measures of communication across studies. As a result, there is little evidence for what makes for a more or less effective family conversation about EOL decisions. This knowledge gap limits the extent to which recommendations can be made for improving family communication practice, and this gap could be filled by a theory-driven investigation into the specific features of EOL family talk that lead to better or worse outcomes. Thus, the purpose of the present study was to explore the impact of various theoreticallyderived message features on key EOL outcomes in families.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key Outcomes of End-of-Life Communication in Families</head><p>EOL decision making in families has significant financial, physiological, and psychosocial implications, particularly in terms of four key conversational outcomes. First, an advance directive (i.e., formal documentation of EOL preferences) decreases the use of unwanted life-sustaining treatment, increases the use of palliative care, and lowers healthcare costs at the end of life <ref type="bibr" target="#b11">(Brinkman-Stoppelenburg et al., 2014;</ref><ref type="bibr" target="#b29">Garrido et al., 2014;</ref><ref type="bibr" target="#b49">Nicholas et al., 2011)</ref>. The most prevalent types of advance directives include (a) the living will, which provides instructions for specific EOL medical treatments, (b) do not resuscitate (DNR) orders, which indicate a person's desire to not have cardiopulmonary resuscitation (CPR) or intubation if the person's heart or breathing stops, and (c) durable power of attorney for healthcare, which legally authorizes another individual to make health decisions on a person's behalf. Despite the utility of these documents, only one in three adults has completed an advance directive, and even those who have a directive may not have an updated version that reflects their most current preferences <ref type="bibr" target="#b80">(Yadav et al., 2017)</ref>. Family discussion is a key means of increasing the rates of advance directive completion <ref type="bibr" target="#b34">(Hemsley et al., 2019;</ref><ref type="bibr" target="#b51">Oczkowski et al., 2016)</ref>.</p><p>Second, concordance accuracy represents the degree to which family members correctly predict one another's EOL preferences. Nearly half of all adult patients cannot make their own EOL decisions <ref type="bibr" target="#b59">(Raymont et al., 2004)</ref>, in which case a surrogate (typically a family member) assumes responsibility for making choices on the patient's behalf. High levels of concordance among family members facilitate EOL care that matches the patient's preferences <ref type="bibr" target="#b14">(Candrian et al., 2017)</ref> and that avoids incurring unnecessary cost <ref type="bibr" target="#b1">(Ahrens et al., 2003)</ref>. In addition, better concordance leads to lower levels of stress, anxiety, and depression among patients' family members <ref type="bibr" target="#b23">(Detering et al., 2010)</ref>. Concordance rates among family members often are no better than chance agreement <ref type="bibr" target="#b46">(Meeker &amp; Jezewski, 2005;</ref><ref type="bibr" target="#b65">Shalowitz et al., 2006)</ref>, but they can be improved (or worsened) through family discussion <ref type="bibr" target="#b63">(Scott &amp; Caughlin, 2015;</ref><ref type="bibr" target="#b66">Shin et al., 2015)</ref>.</p><p>Finally, EOL communication has implications for family relationships. The way family members discuss EOL issues can bolster relational connection with family members <ref type="bibr" target="#b40">(Keeley, 2016)</ref> or create emotional distance in family relationships <ref type="bibr" target="#b62">(Scott &amp; Caughlin, 2014)</ref>. <ref type="bibr" target="#b40">Keeley (2016)</ref> has called for additional research on the impact of EOL conversations on family relationships, with specific consideration of "the contextual nuances of the relational climate (e.g., closeness, satisfaction)" <ref type="bibr">(p. 193)</ref>. Therefore, the present study focused on relationship closeness and relationship satisfaction as conversational outcomes of EOL family discourse.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical Framework</head><p>A number of theoretical perspectives suggest that a compelling way to connect communication to its outcomes is via goals. Communication goals are desired end states that require coordination with others to achieve or maintain <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. <ref type="bibr" target="#b19">Clark and Delia (1979)</ref> identified three types of interaction goals that people simultaneously pursue in almost every conversation, including identity goals (i.e., managing self-presentation), relational goals (i.e., maintaining desired relationships), and task goals (i.e., achieving certain action). Primary goals define what an interaction is about, and secondary goals shape and constrain how people attend to the primary goal in conversation <ref type="bibr" target="#b24">(Dillard, 1990</ref>). <ref type="bibr" target="#b75">Wilson's (1990)</ref> Cognitive Rules Model (CRM) and <ref type="bibr" target="#b54">Palomares' (2008</ref><ref type="bibr">Palomares' ( , 2009a) )</ref> Goal Understanding Theory (GUT) represent a particularly apt theoretical pairing to examine how communication leads to certain conversational outcomes via goals, because they outline the same underlying process in accounting for message production in goal pursuit and message interpretation in goal inference.</p><p>Goal pursuit and inference and communication quality. According to CRM and GUT, goals are linked to factors, which are the various aspects that provide structure and meaning in an interaction, such as settings, relationship types, or tactics <ref type="bibr" target="#b54">(Palomares, 2008;</ref><ref type="bibr" target="#b75">Wilson, 1990)</ref>. Factors are cognitively associated with goals in what CRM refers to as cognitive rules <ref type="bibr" target="#b75">(Wilson, 1990)</ref> and GUT refers to as factor-goal linkages <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. For instance, one type of factor-goal linkage is a context-goal linkage that associates EOL discussion with a decision-making goal. Factor-goal linkages and cognitive rules arise from conventional understanding about how certain goals are relevant in certain situations <ref type="bibr" target="#b77">(Wilson, 2002)</ref>. These goals can be pursued (through strategically designing messages; <ref type="bibr" target="#b75">Wilson, 1990)</ref> or inferred (through detecting and making sense of others' goals; <ref type="bibr" target="#b54">Palomares, 2008</ref><ref type="bibr">Palomares, , 2009a))</ref>. People typically attend to situationally relevant goals in their communication, even if they lack conscious awareness of the goals <ref type="bibr" target="#b78">(Wilson &amp; Caughlin, 2017)</ref>.</p><p>Thus, goal pursuit and goal inference are both a function of situational components in an interaction. In terms of goal pursuit, the better the fit between the situation and a person's cognitive rules, the more likely the person is to form specific goals and to produce messages that successfully achieve those goals <ref type="bibr" target="#b75">(Wilson, 1990)</ref>. <ref type="bibr" target="#b75">Wilson (1990)</ref> found that cognitive rules for different goals do not preclude one another. This means that certain situations can fit cognitive rules for a variety of goals, thereby calling for communication that simultaneously pursues multiple relevant goals. Communicating effectively in such cases can be challenging, because it is difficult to produce messages that attend well to all relevant goals as the number of goals increases. A further complexity of goal pursuit arises from individual differences in goal formation. <ref type="bibr" target="#b76">Wilson (1995)</ref> found that people with higher levels of cognitive complexity (i.e., interpersonal differentiation) have more complex and nuanced rules for forming goals than do people with lower levels of differentiation and thus tend to produce higher-quality messages.</p><p>In terms of message interpretation, when factor-goal linkages are activated, accessibility of inferable goals also increases. A person is more likely to infer more cognitively accessible goals over less accessible goals <ref type="bibr" target="#b54">(Palomares, 2008)</ref>, and people typically infer a single goal (usually the primary goal defining the conversation) rather than multiple (i.e., secondary) goals. As the number of highly accessible goals decreases, inference restrictions become narrower, which fosters accurate goal inference and thus effective communication <ref type="bibr">(Palomares, 2009a)</ref>. When situations are complex, situational factors can make multiple goals cognitively accessible due to a lack of goal inference restrictions. In such cases, goal inference tends to become more difficult and less accurate, and the communication tends to be less effective.</p><p>In other words, more effective goal attention results in higher quality communication <ref type="bibr" target="#b4">(Berger, 2000)</ref>. If a person does not pursue situationally relevant goals in a conversation, the person's communication tends to be evaluated negatively by others <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. Individuals who more accurately infer other people's goals are perceived to be more communicatively competent than those who inaccurately infer others' goals <ref type="bibr" target="#b44">(Lakey &amp; Canary, 2002)</ref>, and individuals who more accurately infer other people's goals perceive those others to be more communicatively competent <ref type="bibr" target="#b56">(Palomares, 2009b)</ref>. Furthermore, successful goal inference fosters successful goal pursuit, because accurately interpreting others' communication in terms of goals facilitates people's own ability to produce messages that successfully achieve their goals <ref type="bibr" target="#b4">(Berger, 2000)</ref>. In short, better goal attention leads to better communication, and the theoretical mechanism underlying this connection is the tactic-goal linkage.</p><p>Tactic-goal linkages. The present investigation applies theoretical principles from CRM and GUT to examine how one factor in particular-tactics-affect conversational outcomes in family EOL communication. Tactics, or the specific communicative behaviors a person enacts <ref type="bibr" target="#b56">(Palomares, 2009b)</ref>, are similar to message features or strategies in goal pursuit research. A tactic-goal linkage is the cognitive association between a tactic and the goal it typically achieves <ref type="bibr">(Palomares, 2009a)</ref>, and such linkages have implications for goal pursuit and inference. Goals activate tactics that are commonly understood as functioning to achieve that goal <ref type="bibr" target="#b54">(Palomares, 2008)</ref>, and tactics provide diagnostic information about what goals another person is pursuing in a conversation <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. This means that, for instance, in an EOL conversation, a maintain-relationship goal may lead a person to enact relationship maintenance strategies, and if a person engages in explicit facework, that person likely has a face-related goal.</p><p>Tactics are functional to the extent they efficiently (i.e., with expedience) and effectively (i.e., with success) achieve a goal <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. <ref type="bibr" target="#b4">Berger (2000)</ref> drew a connection between communication efficiency and effectiveness in observing that people who take longer to accomplish their goals in conversation are "less skilled than those who achieve the same goals with greater speed and less effort" (p. 160). This means that more communication is not always better communication, which comports with extant findings in EOL research. Previous work has used predominantly quantitybased definitions and measures of EOL family talk to study its impact. Perhaps not surprisingly, studies that assess communication in terms of presence/absence of discussion, number of topics discussed, or number, frequency, or length of interactions tend to show a null or negative association between EOL family conversations and outcomes. For example, <ref type="bibr" target="#b45">Lautrette et al. (2007)</ref> conducted a randomized, controlled trial in which they measured communication in terms of the length of a family conversation about EOL issues. They found that longer conversations did not significantly reduce the use of nonbeneficial medical interventions for patients at the end of life. In addition, <ref type="bibr" target="#b26">Ditto et al. (2001)</ref>, <ref type="bibr" target="#b35">Hines et al. (2001)</ref>, and <ref type="bibr" target="#b47">Moorman et al. (2009)</ref> all found that having an EOL discussion with a family surrogate decision maker did not significantly improve the surrogate's accuracy in predicting a person's EOL preferences. Each of these interventions defined and measured family communication in terms of quantity. Based on these null empirical findings and <ref type="bibr" target="#b4">Berger's (2000)</ref> theoretical reasoning related to tactic efficiency, the first research hypothesis predicted:</p><p>Hypothesis 1 (H1): The quantity of family communication about EOL decisions does not predict conversational outcomes.</p><p>By contrast, theoretical and empirical evidence suggests that the quality of EOL family communication, conceptualized in terms of tactical attention to relevant goals, does impact conversational outcomes. Theoretically, there is precedent in work using the Serial Argument Process Model (SAPM; <ref type="bibr" target="#b6">Bevan et al., 2008)</ref> for studying how goal-directed tactics affect conversational outcomes. EOL discussions fit the definition of a serial argument, which is "convergence-seeking discourse" in which people communicate about a particular topic over a series of conversations to reach agreement about future action <ref type="bibr">(Canary et al., 1995, p. 185)</ref>. According to the model, people's goals in a conversation prompt them to enact (and infer) various tactics, which in turn produce various outcomes <ref type="bibr" target="#b7">(Bevan et al., 2004)</ref>. Applying this logic in the current study requires identifying the specific goals that tactics function to achieve in the context of EOL family talk <ref type="bibr" target="#b75">(Wilson, 1990)</ref>. In a review of the EOL communication literature, <ref type="bibr" target="#b60">Scott (2014)</ref> identified several specific goals that are activated in the context of EOL family conversations. The primary goal in EOL discussions is to make decisions about EOL care. Other potential task goals include exchanging information about these decisions, influencing a family member's choices, or providing support for decisions. Relevant identity goals include preserving a person's autonomy in decision making, maintaining a sense of dignity, not imposing on or burdening family members, or negotiating new roles or the loss of roles. Relevant relational goals include affirming the importance of family relationships or healing any broken family relationships by extending or receiving needed forgiveness.</p><p>Empirically, evidence from EOL research supports this theoretical argument for how tactical goal attention to salient identity, relational, and task goals leads to conversational outcomes. For instance, <ref type="bibr" target="#b63">Scott and Caughlin (2015)</ref> found that the tactics of underaccommodation and overaccommodation (which represent poor attention to face goals in conversation; <ref type="bibr" target="#b32">Giles et al., 1991)</ref> were negatively associated with uncertainty and decision-making efficacy in family EOL discussions. Furthermore, <ref type="bibr" target="#b62">Scott and Caughlin (2014)</ref> found that enacted relational goal attention in EOL family conversations was associated with higher levels of conversational satisfaction and hopefulness and lower levels of relational distancing. Drawing on this research, as well as the theoretical reasoning of the CRM, GUT, and SAPM, which, taken together, hold that more effective enacted goal attention leads to better conversational outcomes, the second research hypothesis predicted:</p><p>Hypotheses 2-4: The extent to which people tactically pursue and infer situationally relevant identity goals (H2), relational goals (H3), and task goals (H4) in family communication about EOL decisions predicts conversational outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design</head><p>The research hypotheses were tested with several study design considerations in mind. First, the longitudinal impact of communication was examined. The consequences of serial arguments-even just one discussion-"can take months or years or even never occur" <ref type="bibr">(Bevan et al., 2008, p. 601)</ref>. Consequently, this study examined change in outcome variables over time. Second, studying dyadic interactions provides a deeper understanding of tactical goal pursuit and inference <ref type="bibr" target="#b54">(Palomares, 2008)</ref>. Moreover, many studies of EOL conversations in families have examined the perspective of only one family member, which limits scholarly understanding of how such communication operates at the level of the family as a system. Thus, the current study examined the impact of communication on two members of the same family.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Data collection took place in two waves. The Wave 1 sample was recruited from across the United States by using hard copy and electronic notices and by offering extra credit to undergraduate students at a large Midwestern university for referring a participating dyad to the study. Participation in Wave 1 involved completing a preconversation survey, having an audio recorded, face-to-face conversation with a parent or adult child about EOL decisions, and completing a postconversation survey. Participants chose the location for their research activities, which took place in participants' homes, local libraries, and coffee shops.</p><p>A member of the research team administered the preconversation survey, provided instructions for the conversational task, and then stepped outside the room for the participants' conversation. For the conversational task, participants received six cards, each containing a topic that reflected typical EOL issues families must consider <ref type="bibr" target="#b35">(Hines et al., 2001)</ref>, including (1) anticipated future health decisions, (2) perceptions of others' EOL decision making experience, (3) potential locations for EOL care, (4) specific EOL medical treatments, (5) personal definitions for "quality of life" and "reasonable chance of recovery," and (6) anything else they wanted to discuss. Participants discussed each topic (in the given order) for as long as they wanted. Conversations lasted an average of 20.33 minutes (SD = 10.06, range = 4.54-60.07). After the discussion, participants completed the postconversation survey in the presence of the researcher and provided contact information for Wave 2 follow-up. Each individual who completed Wave 1 received $20 for participation.</p><p>Wave 2 data collection took place 1 year later. A member of the research team contacted the Wave 1 participants to invite them to complete a follow-up survey, share the informed consent information, and give them the choice to complete an online or hard copy version of the survey. Participants responded with their modality preference, and the researcher emailed a secure link to the survey or mailed a hard copy of the survey along with a stamped, addressed return envelope, which they mailed back. A numerical code in each version of the survey identified members of the same dyad and connected responses with Wave 1 data. Respondents were strongly encouraged to refrain from speaking with their participating family member throughout survey completion. Individuals who completed Wave 2 received $10.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>The full Wave 1 sample consisted of 121 dyads of older adults and their adult children (242 individuals), including 182 (75.21%) females and 60 (24.79%) males. Parent participants ranged in age from 47 to 91 years old (M = 70.12, SD = 10.93), and child participants were between 29 and 66 years old (M = 43.55, SD = 9.16). The sample included White (n = 196, 80.99%), Black (n = 26, 10.74%), Latinx (n = 9, 3.72%), and Asian (n = 8, 3.31%) participants, as well as individuals who reported other ethnicities (n = 3, 1.24%). Participants reported a range of education levels, including grade school (n = 2, 0.83%), high school (n = 123, 50.83%), Bachelor's degree (n = 66, 27.27%), Master's degree (n = 31, 12.81%), and doctoral degree (n = 18, 7.43%), with 2 (0.83%) participants declining to respond.</p><p>The Wave 2 sample included 66 dyads from Wave 1, representing a response rate of 54.54%. The current analyses used the sample of intact dyads who participated in both waves of the study (N = 132). (Additionally, 38 individuals completed Wave 2 data collection, but their family member did not participate.) Wave 2 participants included 102 (77.27%) females and 30 (22.72%) males. Parent participants were 55 to 92 years old (M = 72.41, SD = 9.30), and adult child participants ranged in age from 31 to 67 years old (M = 45.91, SD = 10.09). The Wave 2 sample included White (n = 114, 86.37%), Black (n = 10, 7.58%), Asian (n = 4, 3.03%), and Latinx (n = 3, 2.27%) respondents and 1 person (0.76%) who reported another ethnicity. Wave 2 participants reported completing grade school (n = 1, 0.76%), high school (n = 60, 45.45%), a Bachelor's degree (n = 38, 28.79%), a Master's degree (n = 21, 15.91%), and a doctoral degree (n = 10, 7.58%), and 2 (1.52%) participants declined to report their level of education.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>The Wave 1 and Wave 2 surveys contained demographic items as well as measures of the outcome variables and communication quantity and quality (i.e., tactical goal attention). Descriptive statistics for Waves 1 and 2 appear by measure below, and the statistics reported for measures for Wave 1 include only participants who also participated in Wave 2.</p><p>Outcome variables. All outcome variables were assessed during Wave 1 and Wave 2. The difference scores between the two waves of measurements were used to operationalize the change in the outcome variables over time <ref type="bibr" target="#b15">(Castro-Schilo &amp; Grimm, 2018)</ref>.</p><p>Advance directive completion change. Following precedent in previous research <ref type="bibr" target="#b29">(Garrido et al., 2014)</ref>, advance directive completion was operationalized by asking respondents if they had completed a living will, DNR order, or durable power of attorney for healthcare. The change score represented whether the participant completed any of the three documents between Waves 1 and 2. Fourteen parents (10.61%) and 13 adult children (9.85%) completed a directive between the two waves of data collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concordance accuracy change.</head><p>Participants reported their own EOL preferences and predicted their family member's preferences by reporting "yes," "no," or "not sure" in response to 12 items (from <ref type="bibr" target="#b3">Beland &amp; Froman, 1995;</ref><ref type="bibr" target="#b10">Bonin-Scaon et al., 2009;</ref><ref type="bibr" target="#b31">Gauthier &amp; Froman, 2001)</ref>. The items included six statements about specific EOL treatments (e.g., "I want to be resuscitated," "I want to be able to get enough pain treatment") and six descriptions of EOL scenarios requiring a decision. Concordance rates were the proportion of each participant's preferences accurately predicted by the partner (creating a possible range of scores from 0 to 1). Change in concordance was calculated by subtracting the Wave 1 postconversation survey score (M = 0.74, SD = 0.15 for parents; M = 0.70, SD = 0.17 for children) from the Wave 2 score (M = 0.60, SD = 0.21 for parents; M = 0.52, SD = 0.21 for children) for each participant.</p><p>Relationship satisfaction change. Using nine 7-point semantic differential items from a version of the Marital Opinion Questionnaire <ref type="bibr" target="#b37">(Huston et al., 1986)</ref>, respondents rated their relationship satisfaction. To calculate satisfaction scores, the mean of the first eight items of the scale (e.g., "enjoyable/miserable," "worthwhile/useless," "hopeful/ discouraging") was averaged with the final item ("completely satisfying/completely dissatisfying"). The Wave 1 mean score was 6.31 for parents (SD = 0.89, α = .67) and 6.37 for children (SD = 0.96, α = .88), and the Wave 2 mean score was 6.51 for parents (SD = 0.85, α = .79) and 5.99 for children (SD = 1.19, α = .97). The difference in the scores for each wave represented the change score.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relationship closeness change.</head><p>Participants reported relationship closeness by responding to six questions (e.g., "How close are you to this person?") from Vangelisti and Caughlin (1997) using 7-point Likert-type responses (1 = not at all, 7 = extremely).</p><p>The Wave 1 mean score was 6.59 for parents (SD = 0.38, α = .55) and 6.44 for children (SD = 0.55, α = .78), and the Wave 2 mean score was 6.46 for parents (SD = 0.95, α = .94) and 6.21 for children (SD = 0.84, α = .90). Subtracting the Wave 1 score from the Wave 2 score yielded the change score.</p><p>Communication quantity. The measures of communication quantity appeared only in the Wave 2 survey because they assessed conversations that occurred between the waves.</p><p>Number of EOL conversations. Respondents reported "how many conversations about end-of-life choices" they had had with their family member in the past year. Some participants reported no conversations (n = 13, 19.70% for parents; n = 13, 19.70% for children), most reported 1 to 2 conversations (n = 31, 46.97% for parents; n = 30, 45.45% for children), and the remaining participants reported 3 to 5 conversations (n = 13, 19.70% for parents; n = 16, 24.24% for children), 6 to 10 conversations (n = 4, 6.06% for parents; n = 3, 4.55% for children), or more than 10 conversations (n = 1, 1.52% for parents; n = 3, 4.55% for children).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of EOL topics discussed.</head><p>Participants selected from a list of 10 EOL topics (i.e., mechanical ventilation, tube feedings, CPR, pain medication, assisted suicide, cost of EOL care, reasonable chance of recovery, quality of life, location of EOL care, and others' EOL decisions) those they had discussed with their family member in the past year. The parent mean score was 2.33 topics (SD = 2.30), and the child mean score was 2.71 topics (SD = 2.37).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Communication Quality</head><p>The Wave 1 conversations represented a useful means of objectively evaluating the quality of a kind of talk that occurs rarely and is not easily captured naturalistically (i.e., EOL discourse in families). Moreover, "naturally occurring" messages "exhibit goal-directed properties" <ref type="bibr">(Berger, 2000, p. 159)</ref>, often subconsciously <ref type="bibr" target="#b41">(Kellermann, 1992)</ref>, and so a "more complete account of goals" in conversations can be captured through observational analysis <ref type="bibr">(Bevan et al., 2004, p. 39)</ref>. We assessed the quality of participants' communication as a function of tactical attention to situationally relevant goals using Communication Quality Analysis <ref type="bibr" target="#b72">(Van Scoy et al., 2017)</ref>, an analytic method that involves rating observable message features that indicate attention to situationally relevant goals. The sections below describe the discourse analysis that laid the foundation for identifying these tactics, the specific message features indicating enacted attention to identity, relational, and task goals, and the rating procedure.</p><p>Discourse analysis. To identify the tactics that functioned as goal attention in the elicited conversations, verbatim transcripts of the Wave 1 discussions were first examined using discourse analysis with inductive techniques (see <ref type="bibr" target="#b61">Scott &amp; Caughlin, 2012)</ref>. This analysis revealed a set of message features that participants enacted to attend to situationally relevant identity, relational, and task goals, and it also revealed substantial variability among participants in terms of the skill with which they enacted goal pursuit and inference. Some participants showed sophisticated attention to relevant identity, relational, and task goals, whereas others ignored or even explicitly undermined relevant goals in their discourse.</p><p>Message features indicating tactical goal attention. Eight undergraduate students served as outside raters who assessed participants' enacted goal attention on a 7-point scale (1 = not at all, 7 = a lot) in terms of each of the following message features.</p><p>Tactical attention to identity goals. Positive face and negative face are constructs from Politeness Theory <ref type="bibr" target="#b12">(Brown &amp; Levinson, 1987</ref>) that describe the desire to be accepted by others and free from imposition by others, respectively. In the current study, raters assigned higher positive face scores based on the extent to which a participant verbally and nonverbally showed acceptance, affirmation, or appreciation for the other person. Raters gave higher negative face scores to the extent that participants verbally and nonverbally showed respect for the partner or expressed the desire to not be a burden to or imposition on the other person.</p><p>Accommodation (from Communication Accommodation Theory; <ref type="bibr" target="#b32">Giles et al., 1991</ref>) refers to how well (or not) people tailor their communication to others. Overaccommodation happens when someone accommodates too much (such as by using overly familiar language and tone), and underaccommodation happens when someone accommodates too little (such as by ignoring the other person's goals in the conversation). Higher overaccommodation ratings were given when participants oversimplified speech patterns (e.g., slowing the rate of speech, reducing vocabulary and grammatical complexity, using careful articulation), exaggerated intonation (e.g., using a higher pitch, a presumptive or patronizing tone, or rhetorical tag questions), or talked about superficial topics. Raters gave higher underaccommodation scores when a participant showed insensitivity to the other person's communication needs, such as by ignoring the conversational contributions of the partner (e.g., interrupting, not listening) or focusing on egocentric topics (e.g., disclosing inappropriate information, complaining).</p><p>Tactical attention to relational goals. Relationship maintenance consists of messages designed to keep a relationship in a desired condition <ref type="bibr" target="#b22">(Dainton &amp; Stafford, 1993)</ref>.</p><p>Strategic relationship maintenance occurs when a person says something intentionally and consciously, with the explicit goal of maintaining the relationship, whereas routine relationship maintenance occurs when a person says something that is not necessarily intended to maintain the relationship, but it still accomplishes that goal <ref type="bibr" target="#b22">(Dainton &amp; Stafford, 1993)</ref>. In the present study, raters assigned higher scores of strategic relationship maintenance when participants made obvious and explicitly relationally affirming statements (such as "I love you" or "We are getting closer"). Raters gave higher scores of routine relationship maintenance when participants more implicitly and less self-consciously affirmed the relationship, such as by displaying a relational orientation, affiliation, or nonverbal warmth.</p><p>Tactical attention to task goals. Avoidance occurs when a person demonstrates a lack of engagement in an interaction. Although not inherently problematic <ref type="bibr" target="#b0">(Afifi et al., 2007)</ref>, avoidance can indicate a lack of sophistication and quality in how goals are addressed when discussing a certain topic is situationally relevant, as in the current conversational task <ref type="bibr" target="#b8">(Bevan et al., 2007)</ref>. Participants received higher avoidance scores to the extent that they tried to not talk about the topics in the conversational task, such as by overtly or subtly refusing to answer, shifting the topic, or moving on to the next topic before their partner seemed ready.</p><p>Elaboration, a construct from Message Design Logic Theory, captures the degree to which individuals explain the reasoning underlying their messages (O' <ref type="bibr">Keefe &amp; McCornack, 1987)</ref>. Ratings for elaboration were based on the degree to which participants explained the logic behind their EOL values, preferences, or decisions, such as providing reasons why they would choose or refuse a certain treatment, detailing conditions under which their wishes would change, or using another person's experience to illustrate their choices.</p><p>The task goal of making EOL decisions also can be pursued (or ignored) through explicit or implicit decision making <ref type="bibr" target="#b68">(Sillars &amp; Kalbfleisch, 1989)</ref>. Explicit decision making involves open expressivity, active problem solving, no assumption of agreement (even if agreement is eventually reached), and direct verbal confirmations. Implicit decision making entails rushing to consensus, abbreviated discussion, reliance on off-record arrangements, and assumptions by family members that they know one another's wishes. Participants received higher explicit decision making scores when they directly expressed their EOL choices, did not assume agreement, asked clarifying questions (including questions not on the topic cards), and checked their perceptions about the partner's preferences. Participants received higher ratings of implicit decision making to the extent that they talked about how much they agreed rather than about the decisions themselves, rushed through the question sets, or talked about how they trusted their partner to make decisions on their behalf without clarifying their specific wishes.</p><p>Higher-quality communication was represented by higher scores of attention to positive and negative face, strategic and routine relationship maintenance, elaboration, and explicit decision making and lower scores of over-and underaccommodation, avoidance, and implicit decision making.</p><p>Rating procedure. The raters received in-person training about goals, communication quality, and message features, along with the information contained in a codebook. The rating procedure involved having raters listen to the audio recording of each conversation and follow along with a hard copy of the verbatim transcript. Participants' discussion in response to each of the six topics guiding the elicited conversation represented the unit of analysis. At the end of discussion for each topic, raters paused the audio recording and scored the parent's and the adult child's communication in terms of each tactic. Rather than acting as "detectors" who coded for micro-level behaviors that could mean different things depending on context, the raters analyzed the conversations as "cultural informants," which entailed using inference to understand the situated meaning of the communication <ref type="bibr">(Bakeman &amp; Gottman, 1997, p. 22)</ref>. The raters calibrated their assessments by first listening to five conversations from the sample and then rating five different conversations from the sample in a practice round. During the practice round, the raters completed the analysis independently and then met with the author as a group to discuss their ratings before beginning the main rating analyses.</p><p>Four raters assessed each tactic six times for each conversation. The mean of each rater's six ratings for each tactic for each participant was computed, and each participant's score for each tactic represented the mean across the four raters' scores. Interrater reliability, calculated using intraclass correlations ( ρ ; <ref type="bibr" target="#b67">Shrout &amp; Fleiss, 1979)</ref>, was within the "excellent range" for every tactic for both parent and adult child participants <ref type="bibr" target="#b17">(Cicchetti, 1994)</ref>. Descriptive and reliability statistics for each tactic appear in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Potential Covariates</head><p>Several demographic characteristics served as potential covariates in the analysis. Additionally, given that differentiation in a person's interpersonal constructs factors into goal pursuit and inference <ref type="bibr">(Palomares, 2009a</ref><ref type="bibr" target="#b56">(Palomares, , 2009b;;</ref><ref type="bibr" target="#b75">Wilson, 1990)</ref>, cognitive complexity was assessed during Wave 1 as a potential covariate. Participants completed the two-peer version of <ref type="bibr" target="#b20">Crockett's (1965)</ref> Role Category Questionnaire, which asked respondents to write free-response descriptions of two well-known peers, one liked and one disliked. Two coders independently coded 25.41% of the descriptions by counting the number of distinct interpersonal constructs in each. Intercoder reliability was excellent (α = .99), and so the rest of the data was coded by one coder. The scores for the two descriptions from each participant were summed, and the summary score served as the cognitive complexity variable (M = 11.56, SD = 6.24, range = 1-27 for parents; M = 17.82, SD = 6.44, range = 1-34 for children).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preliminary Analyses</head><p>Mean substitution was used for missing data from two parent participants regarding education level <ref type="bibr" target="#b69">(Tabachnick &amp; Fidell, 2007)</ref>. The bivariate correlations (using one-tailed significance tests) among the measured variables are available in the Appendix Table <ref type="table" target="#tab_0">A1</ref>. Participant age, education level, and cognitive complexity were each significantly correlated with at least one outcome variable, and so all analyses included these three variables as covariates. The statistically significant between-person (i.e., between parent and child within the same dyad) correlations for some of the variables (i.e., change in advance directive, change in concordance, number of conversations, positive face, over-and underaccommodation, strategic and routine maintenance, avoidance, elaboration, and explicit and implicit decision making) reflected the nonindependence of the data <ref type="bibr" target="#b43">(Kenny et al., 2006)</ref>, underscoring the importance of using a data analytic technique that accounted for the dyadic nature of the data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Actor-Partner Interdependence Modeling</head><p>The research hypotheses were tested using actor-partner interdependence modeling (APIM), which uses multilevel linear modeling to estimate intrapersonal (actor) effects and interpersonal (partner) effects <ref type="bibr" target="#b43">(Kenny et al., 2006)</ref>. APIM nests partners within dyads by specifying covariance between the errors for each dyad member's outcome variable and covariances among all predictor variables. In this way, the analyses accounted for the correlations between parent and child scores within each dyad and across dyads. Separate models were constructed for each outcome variable using maximum likelihood estimation, and significance tests for the hypotheses were onetailed. All statistical analyses were performed using the DyadR package developed for the R programming language by <ref type="bibr" target="#b42">Kenny (2017)</ref>.</p><p>The results for the research hypotheses appear by outcome measure in Tables <ref type="table" target="#tab_4">2 to 5</ref>, which display the intercept and coefficient estimates for each model. The intercept     represents the predicted score of change in the outcome variable when the actor and partner predictor variables equal zero, thus revealing the between-person actor effects. The coefficient estimate (b) represents the slope indicating the unit change in the outcome variable for every unit change in the predictor variable, thus revealing the within-person actor and partner effects. Actor effects indicate the relationship between a person's own communication and outcome, and partner effects indicate the relationship between a person's communication and the partner's outcome. All reported coefficients are unstandardized (following <ref type="bibr" target="#b43">Kenny et al., 2006)</ref>. <ref type="bibr" target="#b28">Garcia et al. (2015)</ref> argue that it is essential to evaluate whether actor and partner effects differ whenever examining distinguishable dyads. To do this, a dummy code designated "role" status for each participant (0 = adult child, 1 = older parent), and a predictor × role interaction term was included for each model (though it is displayed in a separate column in the tables for efficiency of space). The coefficients of the predictor × role terms represent slopes indicating the difference in the effect of each predictor on the outcome for parents and children. This means that the predictor coefficient represents the estimate for child participants, and the sum of the predictor coefficient and the predictor × role coefficient represents the estimate for parent participants (see e.g., <ref type="bibr" target="#b50">Nyhus &amp; Pons, 2005)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H1: Communication Quantity Does Not Predict Change in Outcomes</head><p>Quantity message features were not significantly related to change in advance directive completion, concordance accuracy, or relationship satisfaction or closeness for older adults or their adult children. These results support the first hypothesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H2-4: Communication Quality Predicts Change in Outcomes</head><p>After controlling for age, education level, and cognitive complexity, the APIM analyses revealed the following actor and partner effects. Tactical attention to identity goals (H2) had no significant actor effects; underaccommodation predicted negative change in partner relationship satisfaction. Regarding tactical relational goal attention (H3), strategic relationship maintenance was associated with negative change in own concordance accuracy and relationship satisfaction. By contrast, routine relationship maintenance was associated with positive change in partner advance directive completion and in own and partner concordance accuracy. For tactical attention to task goals (H4), avoidance was negatively related to partner closeness change, and elaboration was negatively related to partner advance directive completion and own relationship satisfaction and closeness change. Explicit decision making predicted positive change in own relationship satisfaction and closeness, and implicit decision making predicted negative change in partner advance directive completion. According to these results, H2, H3, and H4 were each partially supported.</p><p>Finally, though not hypothesized, the APIM analyses provided insight into differences between parent and child participants in the impact of EOL conversations. Specifically, regarding only the significant associations found in the main analyses, the estimates for older parents and adult children were statistically significantly different when routine relationship maintenance, elaboration, and implicit decision making predicted partner change in advance directive completion, when strategic maintenance led to change in own relationship satisfaction, and when underaccommodation predicted change in partner relationship satisfaction. In other words, the impact of underaccommodation, strategic and routine relationship maintenance, elaboration, and implicit decision making differed for older parents and their adult children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The purpose of the present study was to examine what specific message featuresincluding those related to quantity of communication (i.e., number of conversations and number of topics discussed) and those related to quality of communication (i.e., tactical attention to relevant identity, relational, and task goals)-predict key outcomes of EOL family conversations over time. The significant effects are summarized in Table <ref type="table" target="#tab_5">6</ref>. In short, quantity features of communication did not predict change in any outcomes for older adults or their adult children. Enacted attention to certain identity, relational, and task goals led to change in advance directive completion, concordance accuracy, and relationship satisfaction and closeness for older adults and their adult children, though not all aspects of tactical goal attention predicted significant changes over time in all outcomes.</p><p>As previously summarized, the atheoretical nature of existing research on the impact of EOL discussion in families is one explanation for the failure of numerous interventions that have conceptualized and operationalized EOL family communication in terms of quantity rather than in theoretically-grounded ways. Indeed, defining and measuring communication in terms of number of conversations or topics provided little insight into the impact of EOL communication over time in the present results. A small (but growing) number of studies suggest that the quality of EOL family communication is a better predictor of conversational outcomes. However, in many of these studies, the assessments of communication quality tend to be general in nature (e.g., <ref type="bibr" target="#b27">Engelberg et al., 2006)</ref>, and thus provide little insight into the specific communicative tactics that matter in predicting outcomes. In other studies of communication quality, the communication measure depends on behavioral checklists (e.g., <ref type="bibr" target="#b21">Curtis et al., 2002)</ref>, and so the results indicate only the impact of whether communication occurs, not the impact of how communication is tactically enacted <ref type="bibr" target="#b64">(Scott &amp; Van Scoy, 2020)</ref>. The present results demonstrate that family communication about EOL decisions can be robustly assessed in terms of tactical goal pursuit and inference.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tactical Attention to Relevant Goals in End-of-Life Family Communication</head><p>The present study provides valuable empirical evidence for specific theoreticallyderived message features that index tactical attention to various goals in EOL conversations. While extant work has provided empirical support for tactic-goal linkages in  communication, less is known about how goal attention is tactically enacted in conversations <ref type="bibr" target="#b7">(Bevan et al., 2004)</ref>. The current results reveal the impact of several tactics that function to achieve situationally relevant goals in EOL family communication, each of which is discussed below.</p><p>Enacted attention to identity goals. The current results reveal that tactical attention to identity goals in family EOL talk was not particularly salient in predicting conversational outcomes over time. Overaccommodation did not significantly predict any conversational outcomes, but underaccommodation led to a decrease in partner relationship satisfaction. This is consistent with <ref type="bibr" target="#b30">Gasiorek and Giles (2012)</ref>, who found that underaccommodation typically leads to worse conversational outcomes than overaccommodation and who suggest that the negative effect of underaccommodation is due to the inference of negative motives in the underaccommodating person. This reasoning comports with the theoretical grounding in the current study by underscoring the importance of goal inference in connecting communication to its outcomes.</p><p>Enacted attention to relational goals. Although the research hypotheses anticipated that both forms of relationship maintenance would lead to positive outcomes, strategic relationship maintenance had negative effects (i.e., lower actor concordance accuracy and relationship satisfaction), and routine relationship maintenance had positive effects (i.e., higher partner advance directive completion and actor and partner concordance accuracy). One explanation for this observed difference in the effects of the two types of relationship maintenance arises from previous research on invisible social support. A great deal of evidence demonstrates that social support is beneficial in relationships <ref type="bibr" target="#b33">(Goldsmith, 2004)</ref>. However, enacted social support can have negative effects when it is perceived by the support recipient, while enacted support leads to positive effects when it is "invisible," or not perceived by the supported person <ref type="bibr" target="#b9">(Bolger et al., 2000)</ref>. The current findings suggest that relationship maintenance in EOL family conversations may operate in the same way as social support; that is, affirming the relationship has a negative impact when it is done in a visible (i.e., strategic) way but a positive impact when it is invisible (i.e., routine).</p><p>Enacted attention to task goals. In the current study, a person's avoidance in the EOL discussion led to a decrease in the partner's perceptions of relationship closeness over time. This association between avoidance and relational distancing is consistent with <ref type="bibr" target="#b5">Bevan (2014)</ref>, who found that when relational goals were not important in a serial argument, avoidance was more likely. However, the present study did relatively little to illuminate the impact of avoidance in EOL family talk, and even this fits with previous SAPM work, which has yielded "either small or nonsignificant relationships <ref type="bibr" target="#b8">(Bevan et al., 2007</ref><ref type="bibr" target="#b6">(Bevan et al., , 2008) )</ref> between. . .serial argument elements and avoidance" (p. 792). A person's elaboration on EOL choices negatively impacted the partner's advance directive completion and the person's own relationship satisfaction and closeness. This finding was surprising given that elaboration is typically associated with more effective communication <ref type="bibr" target="#b52">(O'Keefe, 1988;</ref><ref type="bibr" target="#b53">O'Keefe &amp; McCornack, 1987)</ref> and that when family members have a closer relationship, both members are more likely to elaborate more (rather than less) in talking about a health decision <ref type="bibr" target="#b18">(Cicirelli, 2006)</ref>. However, the SAPM offers a possible explanation for this unexpected result. According to the model, the goal of serial argument conversations is to "change disagreement into agreement" <ref type="bibr">(Trapp &amp; Hoff, 1985, p. 6)</ref>, and consequently serial arguments often entail <ref type="bibr">reason-giving (i.e., elaboration)</ref>. This means that high levels of elaboration during EOL conversations may actually signal a lack of shared understanding or resolvability, necessitating further explanation and defense of one's decisions. Serial argument research consistently demonstrates that unresolvability leads to relational harm (e.g., <ref type="bibr" target="#b38">Johnson &amp; Roloff, 1998;</ref><ref type="bibr" target="#b48">Morrison &amp; Schrodt, 2017)</ref>, a connection that garners further support from the present negative association between elaboration and relationship satisfaction and closeness.</p><p>Finally, the current results revealed different effects for the two forms of decision making. Explicit decision making led to positive change in own relationship satisfaction and closeness, whereas implicit decision making negatively affected partner advance directive completion. Previous research has implied that families should engage in explicit decision making for health decisions because the direct verbal messages that characterize explicit decision making lead to clear mutual understanding <ref type="bibr" target="#b18">(Cicirelli, 2006;</ref><ref type="bibr" target="#b57">Pecchioni, 2001)</ref>. The present results extend this line of work by suggesting that explicit decision making also benefits family relationships. By contrast, previous research has found that implicit decision making, with its reliance on nonverbal messages and unspoken arrangements, reflects a lack of conversational thoroughness and shared understanding <ref type="bibr" target="#b57">(Pecchioni, 2001;</ref><ref type="bibr" target="#b68">Sillars &amp; Kalbfleisch, 1989)</ref>. In particular, older adults and their adult children may develop a false sense of familiarity with one another's health decision preferences based on their long history of interaction rather than formal documentation <ref type="bibr" target="#b18">(Cicirelli, 1992)</ref>, which helps explain the present finding that implicit decision making predicted lower rates of advance directive completion. Implicit decision making also may undermine advance directive completion because specific EOL choices are not clear enough to document without explicit discussion <ref type="bibr" target="#b36">(Holley et al., 1999)</ref>.</p><p>An important conceptual implication of the present findings related to message features is that the features represent orthogonal constructs. For example, previous research has framed strategic and routine relationship maintenance as either/or categories (see <ref type="bibr" target="#b25">Dindia, 2003)</ref>, and some scholars argue that explicit and implicit decision making are best conceptualized as two ends of the same continuum <ref type="bibr" target="#b58">(Radina, 2007)</ref>. However, in the current study, strategic and routine maintenance and explicit and implicit decision making are conceptually distinct constructs functioning as orthogonal dimensions of communication that impact outcomes differently. In the present results, strategic maintenance had actor effects while routine maintenance had partner effects, and explicit decision making affected relational (but not task) outcomes while implicit decision making affected task (but not relational) outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Improving the Practice of End-of-life Communication in Families</head><p>The present findings lay the groundwork for making at least three recommendations about how to engage effectively in EOL family conversations. An interesting result from the current analyses that applies to all of the following practical implications is that cognitive complexity was not a significant factor in any of the statistical models. This suggests that everyone can practically engage in high-quality EOL communication, not just those with high levels of interpersonal construct differentiation.</p><p>First, improvement efforts should focus on addressing how well family members tactically pursue and infer goals in EOL conversations rather than on improving the frequency or length of such conversations. The present results show that skillfully pursuing and inferring relevant goals leads to improved conversational outcomes, though sometimes in surprising ways. For example, it makes intuitive sense that relational goal attention would matter for relational outcomes (which they do), but it is not as obvious that relational goal attention would significantly impact task outcomes. Yet in the present study, strategic and routine relationship maintenance together had significant effects for advance directive completion and concordance accuracy over time, suggesting that how sensitive family members are to relational goals in EOL talk may be more important for improving rates of advance directive completion or concordance accuracy than is reaching a concrete decision by end of discussion. Similarly, it makes sense that tactical attention to task goals would predict task outcomes (and they do); however, task goal attention also impacted relational outcomes over time in the current study, suggesting that how (and not simply what) EOL health decisions are made in families has long-term relational implications.</p><p>Second, the present results provide insight into what specific communication tactics lead to better or worse outcomes of EOL family conversations. For instance, enacted relational goal attention is clearly important in predicting conversational outcomes, but it matters how the relational goal attention is enacted. The current findings show that awareness of relational goal attention can entail a cost, suggesting that relationship maintenance happens best when it is routine (i.e., not "visible") and thus not interpreted as relationship maintenance. It is somewhat difficult to make recommendations for how to practically enact routine relationship maintenance given that such maintenance occurs, by definition, "without thinking about maintaining the relationship" <ref type="bibr">(Dindia, 2003, p. 73</ref>). However, different families have different patterns of routine maintenance, and so the best course of action may be to allow those regular patterns that mark other kinds of family discourse to play out in EOL conversations as well. For example, if family members regularly say "I love you," engage in affectionate teasing, or make vulnerable self-disclosures as a means of relationship maintenance, then those same tactics during EOL talk would likely lead to positive outcomes. However, if those maintenance behaviors are not routine occurrences in the family, engaging in them during an EOL discussion likely draws attention to them, and that strategic relational attention can lead to unwelcome conversational outcomes.</p><p>Findings related to elaboration and decision making also have important practical implications when considered together. Elaboration (which involves reason-and example-giving) and implicit decision making (which involves not giving reasons or examples in discussing decisions) both led to negative conversational outcomes, whereas explicit decision making (which entails directly expressing one's preferences) led to positive outcomes. These results imply that best practice may be to state one's EOL preferences directly. If further reasoning seems to be needed to establish shared understanding, that can signal potential unresolvability. <ref type="bibr" target="#b7">Bevan et al. (2004)</ref> found that an unresolved serial argument can damage a relationship, but when people approach a seemingly unresolvable serial argument with the goal of better understanding the issue or their partner's point of view, they mitigate the relational damage. Thus, rather than resolving a lack of mutual understanding in an EOL discussion by elaborating to help others understand one's own choices, a more effective approach may be to ask questions and listen to deepen one's own understanding of others' choices.</p><p>Finally, valuable practical insight arises from the dyadic and longitudinal design of the present study. The current findings demonstrate that EOL conversations impact family members differently, and any practical recommendations for EOL conversations should take family role into account. For example, the current results show that an adult child's underaccommodation of an older parent in EOL talk is more relationally damaging for the parent than is a parent's underaccommodation of the child. This suggests that adult children should take care to avoid underaccommodating language when discussing EOL choices with a parent, such as by listening well and taking seriously their parent's contribution to the conversation. The present study also demonstrates the practical significance of family EOL communication over time. In the first (cross-sectional) wave of this study, enacted relational goal attention did not impact concordance between older parents and their adult children immediately following their conversation <ref type="bibr" target="#b62">(Scott &amp; Caughlin, 2014)</ref>. However, in the present results, strategic and routine relationship maintenance significantly predicted change in concordance 1 year later, which shows that it takes time for some tactics in EOL family talk to take effect. The finding that routine relationship maintenance improved concordance accuracy over a 1-year period is particularly compelling considering that overall concordance rates decreased between Waves 1 and 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Future Research</head><p>The current project had limitations that point to opportunities for future work. First, the present findings are specific to older parent/adult child conversations about EOL choices and cannot be used to make claims about other kinds of family discourse or EOL talk among other individuals. Given that research on EOL communication between patients and physicians also largely assumes that more communication is better communication, future work could examine whether tactical goal attention in EOL conversations between patients and their physicians predicts key outcomes over time. In addition, the current sample was one of convenience and thus may represent only certain parent/child dyads. Family members who do not get along well, who value medical privacy, who do not want to talk about a sensitive topic, or who had poor health probably did not participate. Second, while communication quantity was not a significant predictor in the present study, it is possible that communication quantity and quality interact in predicting outcomes of EOL conversations. The operationalizations of communication quantity and quality in the current study precluded investigation into potential interactions given the current sample size, but future work could use different measures to test for interaction effects. Perceptions of goals also affect conversational outcomes <ref type="bibr" target="#b54">(Palomares, 2008</ref><ref type="bibr">(Palomares, , 2009a</ref><ref type="bibr" target="#b56">(Palomares, , 2009b))</ref>, perhaps even moderating the impact of enacted goal attention <ref type="bibr" target="#b16">(Caughlin, 2010)</ref>, so accounting for family members' perceptions of their own and each other's goal attention in future work may shed additional light on the impact of tactical goal attention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>EOL talk is complex and difficult, and it has important implications for people's physical, mental, and relational well-being. Conversations with family members are critical to the provision of high-quality EOL care, and the present research demonstrates that tactical goal attention in EOL talk within families is one mechanism by which better or worse conversational outcomes are brought about over time. The current findings provide evidence for specific features of EOL communication that matter in predicting key outcomes of EOL discussions, laying the groundwork for practically improving the quality of family conversations about EOL decisions and demonstrating that scholarly effort will be well-invested to continue investigating how families can make their EOL communication as effective as possible.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Correlations for parent participants are presented in the upper triangle; correlations for adult child participants are presented in the lower triangle. Correlations between parent report and child report are presented along the diagonal in bold text. *p &lt; .05. **p &lt; .01. *** p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Ratings of Communication Quality.</figDesc><table><row><cell></cell><cell cols="2">Older parents</cell><cell></cell><cell cols="2">Adult children</cell><cell></cell></row><row><cell></cell><cell>M</cell><cell>SD</cell><cell>ρ</cell><cell>M</cell><cell>SD</cell><cell>ρ</cell></row><row><cell>Tactical attention to identity goals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Positive face</cell><cell>4.22</cell><cell>0.28</cell><cell>.85</cell><cell>4.24</cell><cell>0.42</cell><cell>.91</cell></row><row><cell>Negative face</cell><cell>4.17</cell><cell>0.21</cell><cell>.87</cell><cell>4.06</cell><cell>0.25</cell><cell>.90</cell></row><row><cell>Overaccommodation</cell><cell>1.19</cell><cell>0.43</cell><cell>.89</cell><cell>1.72</cell><cell>1.07</cell><cell>.93</cell></row><row><cell>Underaccommodation</cell><cell>1.68</cell><cell>0.55</cell><cell>.77</cell><cell>1.95</cell><cell>0.69</cell><cell>.88</cell></row><row><cell>Tactical attention to relational goals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Strategic relationship maintenance</cell><cell>1.29</cell><cell>0.45</cell><cell>.91</cell><cell>1.26</cell><cell>0.64</cell><cell>.98</cell></row><row><cell>Routine relationship maintenance</cell><cell>1.57</cell><cell>0.46</cell><cell>.84</cell><cell>1.58</cell><cell>0.47</cell><cell>.81</cell></row><row><cell>Tactical attention to task goals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Avoidance</cell><cell>2.45</cell><cell>0.81</cell><cell>.93</cell><cell>2.50</cell><cell>0.80</cell><cell>.93</cell></row><row><cell>Elaboration</cell><cell>2.91</cell><cell>0.84</cell><cell>.88</cell><cell>2.72</cell><cell>0.83</cell><cell>.90</cell></row><row><cell>Explicit decision making</cell><cell>2.88</cell><cell>0.88</cell><cell>.83</cell><cell>3.15</cell><cell>0.92</cell><cell>.88</cell></row><row><cell>Implicit decision making</cell><cell>3.26</cell><cell>0.98</cell><cell>.89</cell><cell>3.32</cell><cell>0.94</cell><cell>.86</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Effects of Communication on Change in Advance Directive Completion.</figDesc><table><row><cell>Partner's advance directive change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>2.24* 1.16</cell><cell>-0.13 1.69</cell><cell></cell><cell>0.01 0.01 -0.02** 0.01</cell><cell>0.03 0.04 -0.05 0.05</cell><cell>0.01 0.01 0.01 0.01</cell><cell></cell><cell>0.07 0.06 0.09 0.09</cell><cell>0.01 0.02 -0.01 0.04</cell><cell></cell><cell></cell><cell>0.05 0.16 -0.49* 0.24</cell><cell>-0.40 0.26 0.42 0.37</cell><cell>0.00 0.05 -0.24* 0.14</cell><cell>-0.08 0.09 -0.03 0.14</cell><cell></cell><cell>-0.15 0.15 0.44* 0.23</cell><cell>0.64** 0.23 -1.07*** 0.28</cell><cell></cell><cell>-0.16 0.10 0.29* 0.14</cell><cell>-0.38** 0.13 0.48** 0.19</cell><cell>-0.06 0.10 0.14 0.16</cell><cell>-0.13* 0.07 0.20** 0.08</cell></row><row><cell>Actor's advance directive change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>1.90 1.26</cell><cell>-2.80 1.81</cell><cell></cell><cell>0.00 0.01 0.01 0.01</cell><cell>-0.07 0.04 0.07 0.06</cell><cell>-0.01 0.01 -0.01 0.01</cell><cell></cell><cell>0.01 0.06 0.06 0.10</cell><cell>0.01 0.03 -0.04 0.04</cell><cell></cell><cell></cell><cell>-0.03 0.17 0.13 0.26</cell><cell>-0.36 0.28 0.49 0.40</cell><cell>0.01 0.06 0.15 0.15</cell><cell>-0.08 0.10 0.10 0.15</cell><cell></cell><cell>0.06 0.16 0.00 0.24</cell><cell>-0.13 0.25 0.46 0.30</cell><cell></cell><cell>0.10 0.11 -0.12 0.15</cell><cell>0.18 0.15 -0.47* 0.20</cell><cell>-0.05 0.11 0.03 0.17</cell><cell>0.01 0.07 -0.11 0.09</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Intercept</cell><cell>Role</cell><cell>Covariates</cell><cell>Age</cell><cell>Education level</cell><cell>Cognitive complexity</cell><cell>Quantity of communication</cell><cell>Number of conversations</cell><cell>Number of topics</cell><cell>Quality of communication</cell><cell>Tactical attention to identity goals</cell><cell>Positive face</cell><cell>Negative face</cell><cell>Overaccommodation</cell><cell>Underaccommodation</cell><cell>Tactical attention to relational goals</cell><cell>Strategic relationship maintenance</cell><cell>Routine relationship maintenance</cell><cell>Tactical attention to task goals</cell><cell>Avoidance</cell><cell>Elaboration</cell><cell>Explicit decision making</cell><cell>Implicit decision making</cell><cell>*p &lt; .05. **p &lt; .01. ***p &lt; .001.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Effects of Communication on Change in Concordance Accuracy.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Effects of Communication on Change in Relationship Satisfaction.</figDesc><table><row><cell>Partner's relationship satisfaction change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>1.57 3.71</cell><cell>-2.47 4.77</cell><cell></cell><cell>0.01 0.02 -0.00 0.02</cell><cell>0.24* 0.13 -0.23 0.16</cell><cell>-0.00 0.03 0.04 0.03</cell><cell></cell><cell>0.02 0.19 0.13 0.25</cell><cell>-0.01 0.08 -0.06 0.10</cell><cell></cell><cell></cell><cell>0.43 0.52 -0.44 0.68</cell><cell>-1.03 0.85 1.43 1.04</cell><cell>-0.18 0.17 -1.36*** 0.34</cell><cell>-0.55* 0.28 1.03** 0.39</cell><cell></cell><cell>-0.56 0.47 -0.21 0.63</cell><cell>0.86 0.73 -1.27 0.85</cell><cell></cell><cell>0.13 0.32 0.02 0.41</cell><cell>-0.10 0.44 -0.15 0.54</cell><cell>-0.11 0.33 0.48 0.43</cell><cell>0.09 0.21 -0.12 0.25</cell></row><row><cell>Actor's relationship satisfaction change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>-3.23 3.01</cell><cell>-0.29 4.94</cell><cell></cell><cell>0.03* 0.01 -0.04* 0.02</cell><cell>-0.09 0.10 0.21 0.15</cell><cell>-0.02 0.02 -0.01 0.04</cell><cell></cell><cell>0.11 0.16 -0.02 0.26</cell><cell>-0.04 0.06 -0.01 0.10</cell><cell></cell><cell></cell><cell>-0.00 0.42 1.04 0.71</cell><cell>0.98 0.68 -0.83 1.03</cell><cell>0.08 0.13 0.09 0.41</cell><cell>0.00 0.23 -0.01 0.42</cell><cell></cell><cell>-1.07** 0.38 1.37* 0.68</cell><cell>0.73 0.60 -0.59 0.82</cell><cell></cell><cell>-0.36 0.26 0.14 0.42</cell><cell>-1.03** 0.35 -0.04 0.55</cell><cell>0.52* 0.26 -0.05 0.46</cell><cell>0.14 0.17 0.09 0.25</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Intercept</cell><cell>Role</cell><cell>Covariates</cell><cell>Age</cell><cell>Education level</cell><cell>Cognitive complexity</cell><cell>Quantity of communication</cell><cell>Number of conversations</cell><cell>Number of topics</cell><cell>Quality of communication</cell><cell>Tactical attention to identity goals</cell><cell>Positive face</cell><cell>Negative face</cell><cell>Overaccommodation</cell><cell>Underaccommodation</cell><cell>Tactical attention to relational goals</cell><cell>Strategic relationship maintenance</cell><cell>Routine relationship maintenance</cell><cell>Tactical attention to task goals</cell><cell>Avoidance</cell><cell>Elaboration</cell><cell>Explicit decision making</cell><cell>Implicit decision making</cell><cell>*p &lt; .05. **p &lt; .01. ***p &lt; .001.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Effects of Communication on Change in Relationship Closeness.</figDesc><table><row><cell>Partner's relationship closeness change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>2.28 2.82</cell><cell>-1.87 3.23</cell><cell></cell><cell>-0.01 0.01 -0.00 0.01</cell><cell>0.22* 0.10 -0.17 0.11</cell><cell>-0.02 0.02 0.02 0.02</cell><cell></cell><cell>0.07 0.15 0.05 0.17</cell><cell>-0.03 0.06 0.04 0.07</cell><cell></cell><cell></cell><cell>-0.01 0.39 0.03 0.46</cell><cell>-0.71 0.65 1.16 0.72</cell><cell>-0.17 0.13 -1.04*** 0.20</cell><cell>0.14 0.22 0.19 0.26</cell><cell></cell><cell>0.09 0.35 -0.31 0.42</cell><cell>0.07 0.56 -0.22 0.60</cell><cell></cell><cell>-0.44* 0.24 0.36 0.28</cell><cell>-0.22 0.33 -0.06 0.37</cell><cell>0.21 0.25 -0.12 0.29</cell><cell>0.25 0.16 -0.20 0.18</cell></row><row><cell>Actor's relationship closeness change</cell><cell>Predictor Predictor × role</cell><cell>b SE b SE</cell><cell>-0.35 1.98</cell><cell>-0.89 3.90</cell><cell></cell><cell>0.01 0.01 -0.02 0.02</cell><cell>-0.07 0.07 0.13 0.12</cell><cell>0.00 0.01 -0.06 0.03</cell><cell></cell><cell>0.02 0.10 -0.14 0.21</cell><cell>-0.00 0.04 0.09 0.08</cell><cell></cell><cell></cell><cell>0.31 0.27 0.29 0.56</cell><cell>-0.06 0.44 0.14 0.78</cell><cell>0.03 0.09 -0.08 0.34</cell><cell>-0.03 0.17 0.07 0.34</cell><cell></cell><cell>-0.02 0.24 0.24 0.54</cell><cell>-0.09 0.38 -0.35 0.63</cell><cell></cell><cell>-0.13 0.17 -0.50 0.34</cell><cell>-0.65** 0.23 0.21 0.42</cell><cell>0.33* 0.17 0.28 0.36</cell><cell>0.11 0.11 0.33 0.20</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Intercept</cell><cell>Role</cell><cell>Covariates</cell><cell>Age</cell><cell>Education level</cell><cell>Cognitive complexity</cell><cell>Quantity of communication</cell><cell>Number of conversations</cell><cell>Number of topics</cell><cell>Quality of communication</cell><cell>Tactical attention to identity goals</cell><cell>Positive face</cell><cell>Negative face</cell><cell>Overaccommodation</cell><cell>Underaccommodation</cell><cell>Tactical attention to relational goals</cell><cell>Strategic relationship maintenance</cell><cell>Routine relationship maintenance</cell><cell>Tactical attention to task goals</cell><cell>Avoidance</cell><cell>Elaboration</cell><cell>Explicit decision making</cell><cell>Implicit decision making</cell><cell>*p &lt; .05. **p &lt; .01. ***p &lt; .001.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc>Statistically Significant Effects of Communication.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>University of Kentucky, Lexington, USA</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>University of Illinois at Urbana-Champaign, USA</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The author would like to thank <rs type="person">Erica Bauer</rs>, <rs type="person">Corky Coryell</rs>, <rs type="person">Theresa Gabel</rs>, <rs type="person">Jessie Quintero Johnson</rs>, <rs type="person">Mary Ramey</rs>, <rs type="person">Leigh Anne Dageforde</rs>, <rs type="person">Bethany Scott</rs>, <rs type="person">Marcia Scott</rs>, <rs type="person">Mike Scott</rs>, <rs type="person">Amanda Spinka</rs>, and <rs type="person">Sue Stranahan</rs> for their assistance in conducting this research. The author also would like to thank <rs type="person">John Caughlin</rs>, <rs type="person">Marko Dragojevic</rs>, and <rs type="person">Nancy Harrington</rs> for their invaluable feedback on an earlier version of this manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The author received no financial support for the research, authorship, and/or publication of this article.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' Note</head><p>This paper was presented at the 2012 annual convention of the International Communication Association in Phoenix, AZ.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The dark side (and light side) of avoidance and secrets</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The dark side of interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Spitzberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Cupach</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="61" to="92" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Improving family communications at the end of life: Implications for length of stay in the intensive care unit and resource use</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahrens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Yancey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kollef</surname></persName>
+		</author>
+		<idno type="DOI">10.4037/ajcc2003.12.4.317</idno>
+		<ptr target="https://doi.org/10.4037/ajcc2003.12.4.317" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="317" to="324" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bakeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gottman</surname></persName>
+		</author>
+		<title level="m">Observing interaction: An introduction to sequential analysis</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Preliminary validation of a measure of life support preferences</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Beland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Froman</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1547-5069.1995.tb00893.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1547-5069.1995.tb00893.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Image the Journal of Nursing Scholarship</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="307" to="310" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Goal detection and efficiency: Neglected aspects of message production</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Berger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2000.tb00185.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.2000.tb00185.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="156" to="166" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Dyadic perceptions of goals, conflict strategies, and perceived resolvability in serial arguments</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bevan</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407513504653</idno>
+		<ptr target="https://doi.org/10.1177/0265407513504653" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="773" to="795" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Modeling serial arguments in close relationships: The serial argument process model</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bevan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Finan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kaminsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2008.00334.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.2008.00334.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="600" to="624" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Identifying and characterizing goals of dating partners engaging in serial argumentation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bevan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00028533.2004.11821616</idno>
+		<ptr target="https://doi.org/10.1080/00028533.2004.11821616" />
+	</analytic>
+	<monogr>
+		<title level="j">Argumentation and Advocacy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="28" to="40" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Serial argumentation goals and their relationships to perceived resolvability and choice of conflict tactics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bevan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Tidgewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Bagley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cusanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hartstern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Holbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hale</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463370600998640</idno>
+		<ptr target="https://doi.org/10.1080/01463370600998640" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="61" to="77" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Invisible support and adjustment to stress</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bolger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zuckerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kessler</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.79.6.953</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.79.6.953" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="953" to="961" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">End-of-life preferences: A theory-driven inventory</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bonin-Scaon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Sastre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chasseigne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Sorum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mullet</surname></persName>
+		</author>
+		<idno type="DOI">10.2190/AG.68.1.a</idno>
+		<ptr target="https://doi.org/10.2190/AG.68.1.a" />
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Aging and Human Development</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The effects of advance care planning on end-of-life care: A systematic review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brinkman-Stoppelenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rietjens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Heide</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0269216314526272</idno>
+		<ptr target="https://doi.org/10.1177/0269216314526272" />
+	</analytic>
+	<monogr>
+		<title level="j">Palliative Medicine</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1000" to="1025" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Levinson</surname></persName>
+		</author>
+		<title level="m">Politeness: Some universals in language usage</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toward a theory of minimally rational argument: Analyses of episode-specific effects of argument structures</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Brossmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Brossmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Weger</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637759509376357</idno>
+		<ptr target="https://doi.org/10.1080/03637759509376357" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="183" to="212" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Designing effective interactions for concordance around end-of-life care decisions: Lessons from hospice admission nurses</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Candrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Broadfoot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Matlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kutner</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/bs7020022</idno>
+		<ptr target="https://doi.org/10.3390/bs7020022" />
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Sciences</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Using residualized change versus difference scores for longitudinal research</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Castro-Schilo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Grimm</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407517718387</idno>
+		<ptr target="https://doi.org/10.1177/0265407517718387" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="32" to="58" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A multiple goals theory perspective of personal relationships: Conceptual integration and program overview</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407510373262</idno>
+		<ptr target="https://doi.org/10.1177/0265407510373262" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="824" to="848" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Guidelines, criteria, and rules of thumb for evaluating normed and standardized assessment instruments in psychology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Cicchetti</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1040-3590.6.4.284</idno>
+		<ptr target="https://doi.org/10.1037/1040-3590.6.4.284" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="284" to="290" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Caregiving decision making by older mothers and adult children: Process and expected outcome</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Cicirelli</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Cicirelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0882-7974.21.2.209</idno>
+		<ptr target="https://doi.org/10.1037/0882-7974.21.2.209" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology and Aging</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="209" to="221" />
+			<date type="published" when="1992">1992. 2006</date>
+		</imprint>
+	</monogr>
+	<note>Family caregiving: Autonomous and paternalistic decision making</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">TOPOI and rhetorical competence</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Delia</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00335637909383470</idno>
+		<ptr target="https://doi.org/10.1080/00335637909383470" />
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Speech</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="187" to="206" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Cognitive complexity and impression formation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Crockett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Progress in experimental personality research</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Maher</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="37" to="90" />
+			<date type="published" when="1965">1965</date>
+			<publisher>Academic Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Studying communication about end-of-life care during the ICU family conference: Development of a framework</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Engelberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Wenrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Treece</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Tonelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Patrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Rubenfeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1053/jcrc.2002.35929</idno>
+		<ptr target="https://doi.org/10.1053/jcrc.2002.35929" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="147" to="160" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Routine maintenance behaviors: A comparison of relationship type, partner similarity and sex differences</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dainton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stafford</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/026540759301000206</idno>
+		<ptr target="https://doi.org/10.1177/026540759301000206" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="271" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The impact of advance care planning on end of life care in elderly patients: Randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Detering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hancock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Reade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Silvester</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.c1345</idno>
+		<ptr target="https://doi.org/10.1136/bmj.c1345" />
+	</analytic>
+	<monogr>
+		<title level="j">The BMJ</title>
+		<imprint>
+			<biblScope unit="page" from="340" to="1345" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The nature and substance of goals in tactical communication</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dillard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monographs in social psychology of language, 2. the psychology of tactical communication</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Cody</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Mclaughlin</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="70" to="90" />
+		</imprint>
+	</monogr>
+	<note>Multilingual Matters</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Definitions and perspectives on relational maintenance communication</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dindia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Maintaining relationships through communication: Relational, contextual, and cultural variations</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Dainton</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Psychology Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="1" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Advance directives as acts of communication: A randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Ditto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Danks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Smucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bookwala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Coppola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dresser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fagerlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Gready</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Houts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Lockhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zyzanski</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/archinte.161.3.421</idno>
+		<ptr target="https://doi.org/10.1001/archinte.161.3.421" />
+	</analytic>
+	<monogr>
+		<title level="j">Archive of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="421" to="430" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Psychometric characteristics of a quality of communication questionnaire assessing communication about end-of-life care</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Engelberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Downey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Curtis</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/jpm.2006.9.1086</idno>
+		<ptr target="https://doi.org/10.1089/jpm.2006.9.1086" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Palliative Medicine</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1086" to="1098" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Moderation in the actor-partner interdependence model</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ledermann</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/pere.12060</idno>
+		<ptr target="https://doi.org/10.1111/pere.12060" />
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="8" to="29" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Quality of life and cost of care at the end of life: The role of advance directives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Garrido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Maciejewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Prigerson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpainsymman.2014.09.015</idno>
+		<ptr target="https://doi.org/10.1016/j.jpainsymman.2014.09.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pain and Symptom Management</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="828" to="835" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effects of inferred motive on evaluations of nonaccommodative communication</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gasiorek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2012.01426.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.2012.01426.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="309" to="331" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Preferences for care near the end of life: Scale development and validation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Gauthier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Froman</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/nur.1031</idno>
+		<ptr target="https://doi.org/10.1002/nur.1031" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in Nursing &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="298" to="306" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Accommodation theory: Communication, context, and consequence</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Coupland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Coupland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Contexts of accommodation: Developments in applied sociolinguistics</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Giles</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Coupland</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Coupland</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="1" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Communicating social support</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Goldsmith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An integrative review of stakeholder views on advance care directives (ACD): Barriers and facilitators to initiation, documentation, storage, and implementation</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hemsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meredith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Georgiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balandin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pec.2019.01.007</idno>
+		<idno>01.007</idno>
+		<ptr target="https://doi.org/10.1016/j.pec" />
+	</analytic>
+	<monogr>
+		<title level="j">Patient Education and Counseling</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1067" to="1079" />
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Improving advance care planning by accommodating family preferences</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Glover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Babrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Holley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Badzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Moss</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/109662101753381629</idno>
+		<ptr target="https://doi.org/10.1089/109662101753381629" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Palliative Medicine</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="481" to="489" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Failure of advance care planning to elicit patients&apos; preferences for withdrawal from dialysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Holley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Glover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Babrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Badzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Moss</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0272-6386(99)70220-9</idno>
+		<ptr target="https://doi.org/10.1016/S0272-6386" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Kidney Diseases</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="70220" to="70229" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">When the honeymoon&apos;s over: Changes in the marriage relationship over the first year</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mchale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Crouter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The emerging field of personal relationships</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Gilman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="109" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Serial arguing and relational quality: Determinants and consequences of perceived resolvability</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Roloff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009365098025003004</idno>
+		<ptr target="https://doi.org/10.1177/009365098025003004" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="327" to="343" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Advance care planning in advanced cancer: Can it be achieved? An exploratory randomized patient preference trial of a care planning discussion</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tookman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>King</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1478951510000490</idno>
+		<ptr target="https://doi.org/10.1017/S1478951510000490" />
+	</analytic>
+	<monogr>
+		<title level="j">Palliative &amp; Supportive Care</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Family communication at the end of life</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Keeley</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15267431.2016.1181070</idno>
+		<ptr target="https://doi.org/10.1080/15267431.2016.1181070" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Communication</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="189" to="197" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Communication: Inherently strategic and primarily automatic</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kellermann</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637759209376270</idno>
+		<ptr target="https://doi.org/10.1080/03637759209376270" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="288" to="300" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">DyadR</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<ptr target="http://davidakenny.net/DyadR/DyadR.htm" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Retrieved January 2, 2020 from</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cook</surname></persName>
+		</author>
+		<title level="m">Dyadic data analysis</title>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Actor goal achievement and sensitivity to partner as critical factors in understanding interpersonal communication competence and conflict strategies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lakey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Canary</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637750216542</idno>
+		<ptr target="https://doi.org/10.1080/03637750216542" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="217" to="235" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">A communication strategy and brochure for relatives of patients dying in the ICU</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lautrette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Darmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Megarbane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Joly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chevret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Barnoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bleichner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bruel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Choukroun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Galliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garrouste-Orgeas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Georges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goldgran-Toledano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jourdain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Loubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Reignier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Azoulay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa063446</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa063446" />
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>New England Journal of Medicine</publisher>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="469" to="478" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Family decision making at end of life</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Meeker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jezewski</surname></persName>
+		</author>
+		<ptr target="https://doi.org/10.10170S1478951505050212" />
+	</analytic>
+	<monogr>
+		<title level="j">Palliative &amp; Supportive Care</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="131" to="142" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Do older adults know their spouses&apos; end-of-life treatment preferences?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Moorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Hauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Carr</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0164027509333683</idno>
+		<ptr target="https://doi.org/10.1177/0164027509333683" />
+	</analytic>
+	<monogr>
+		<title level="j">Research on Aging</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="463" to="491" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The perceived threat and resolvability of serial arguments as correlates of relational uncertainty in romantic relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schrodt</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10510974.2016.1263224</idno>
+		<ptr target="https://doi.org/10.1080/10510974.2016.1263224" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="56" to="71" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Regional variation in the association between advance directives and end-of-life Medicare expenditures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Nicholas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Langa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Iwashyna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Weir</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2011.1410</idno>
+		<ptr target="https://doi.org/10.1001/jama.2011.1410" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="page" from="1447" to="1453" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The effects of personality on earnings</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Nyhus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pons</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.joep.2004.07.001</idno>
+		<ptr target="https://doi.org/10.1016/j.joep.2004.07.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="363" to="384" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Communication tools for end-of-life decision-making in ambulatory care settings: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Oczkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hanvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mbuagbaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>You</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0150671</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0150671" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="page" from="11" to="e150671" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The logic of message design: Individual differences in reasoning about communication</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>O'keefe</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637758809376159</idno>
+		<ptr target="https://doi.org/10.1080/03637758809376159" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="80" to="103" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Message design logic and message goal structure effects on perceptions of message quality in regulative communication situations</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>O'keefe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mccornack</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.1987.tb00122.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.1987.tb00122.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="68" to="92" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Toward a theory of goal detection in social interaction: Effects of contextual ambiguity and tactical functionality on goal inferences and inference certainty</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Palomares</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650207309364</idno>
+		<ptr target="https://doi.org/10.1177/0093650207309364" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="109" to="148" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">It&apos;s not just your goal, but also who you know: How the cognitive associations among goals and relationships influence goal detection in social interaction</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Palomares</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2009.01362.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.2009.01362.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="534" to="560" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Did you see it coming? Effects of the specificity and efficiency of goal pursuit on the accuracy and onset of goal detection in social interaction</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Palomares</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650209333032</idno>
+		<ptr target="https://doi.org/10.1177/0093650209333032" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="475" to="509" />
+			<date type="published" when="2009">2009b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Implicit decision-making in family caregiving</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Pecchioni</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407501182004</idno>
+		<ptr target="https://doi.org/10.1177/0265407501182004" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="219" to="237" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Mexican American siblings caring for aging parents: Processes of caregiver selection/designation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Radina</surname></persName>
+		</author>
+		<idno type="DOI">10.3138/jcfs.38.1.143</idno>
+		<ptr target="https://doi.org/10.3138/jcfs.38.1.143" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Family Studies</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="143" to="168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Prevalence of mental incapacity in medical inpatients and associated risk factors: Cross-sectional study</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raymont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bingley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hayward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wessely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hotopf</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(04)17224-3</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">04</biblScope>
+			<biblScope unit="page" from="17224" to="17227" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Communication about end-of-life health decisions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Yearbook</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="243" to="277" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Managing multiple goals in family discourse about end-of-life health decisions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0164027512446942</idno>
+		<ptr target="https://doi.org/10.1177/0164027512446942" />
+	</analytic>
+	<monogr>
+		<title level="j">Research on Aging</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="670" to="691" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Enacted goal attention in family conversations about end-of-life health decisions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2014.925568</idno>
+		<ptr target="https://doi.org/10.1080/03637751.2014.925568" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="261" to="284" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Communication nonaccommodation in family conversations about end-of-life health decisions. Health Communication, 30</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2014.974128</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2014.974128" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="144" to="153" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">What counts as &quot;good&quot; clinical communication in the coronavirus disease 2019 era and beyond? Ditching checklists for juggling communication goals</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Van Scoy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chest.2020.05.539</idno>
+		<ptr target="https://doi.org/10.1016/j.chest.2020.05.539" />
+	</analytic>
+	<monogr>
+		<title level="j">Chest</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="879" to="880" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">The accuracy of surrogate decision makers: A systematic review. Archive of Internal Medicine</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Shalowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Garrett-Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wendler</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/archinte.166.5.493</idno>
+		<ptr target="https://doi.org/10.1001/archinte.166.5.493" />
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="493" to="497" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Discordance among patient preferences, caregiver preferences, and caregiver predictions of patient preferences regarding disclosure of terminal status and end-of-life choices</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pon.3631</idno>
+		<ptr target="https://doi.org/10.1002/pon.3631" />
+	</analytic>
+	<monogr>
+		<title level="j">Psycho-oncology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="212" to="219" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Intraclass correlations: Uses in assessing rater reliability</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Shrout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Fleiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.86.2.420</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.86.2.420" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="420" to="428" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Implicit and explicit decision-making styles in couples</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Sillars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Kalbfleisch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dyadic decision making</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Brinberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Jaccard</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page" from="179" to="215" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Tabachnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Fidell</surname></persName>
+		</author>
+		<title level="m">Using multivariate statistics</title>
+		<imprint>
+			<publisher>Pearson</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">A model of serial argument in interpersonal relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Trapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00028533.1985.11951297</idno>
+		<ptr target="https://doi.org/10.1080/00028533.1985.11951297" />
+	</analytic>
+	<monogr>
+		<title level="j">Argumentation and Advocacy</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Revealing family secrets: The influence of topic, function, and relationships</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407597145006</idno>
+		<ptr target="https://doi.org/10.1177/0265407597145006" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="679" to="705" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">From theory to practice: Measuring end-of-life communication quality using multiple goals theory</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Van Scoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Reading</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Chinchilli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Levi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Green</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pec.2016.12.010</idno>
+		<ptr target="https://doi.org/10.1016/j.pec.2016.12.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Patient Education and Counseling</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="909" to="918" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Dying in the hospital setting: A systematic review of quantitative studies identifying the elements of end-of-life care that patients and their families rank as being most important</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Virdun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Luckett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Phillips</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0269216315583032</idno>
+		<ptr target="https://doi.org/10.1177/0269216315583032" />
+	</analytic>
+	<monogr>
+		<title level="j">Palliative Medicine</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="774" to="796" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Family communication and decision making at the end of life: A literature review</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Wallace</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1478951514000388</idno>
+		<ptr target="https://doi.org/10.1017/S1478951514000388" />
+	</analytic>
+	<monogr>
+		<title level="j">Palliative &amp; Supportive Care</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="815" to="825" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Development and test of a cognitive rules model of interaction goals</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637759009376188</idno>
+		<ptr target="https://doi.org/10.1080/03637759009376188" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="81" to="103" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Elaborating the cognitive rules model of interaction goals: The problem of accounting for individual differences in goal formation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23808985.1995.11678905</idno>
+		<ptr target="https://doi.org/10.1080/23808985.1995.11678905" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the International Communication Association</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3" to="25" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Seeking and resisting compliance: Why people say what they do when trying to influence others</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SAGE</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Multiple goals theories: Motivations for family interactions and relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Engaging theories in family communication</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Braithwaite</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Suter</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">K</forename><surname>Floyd</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="199" to="209" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Associations between end-of-life discussions, patient mental health, medical care near death, and caregiver bereavement adjustment</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Mack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Trice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Balboni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Block</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Maciejewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Prigerson</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.300.14.1665</idno>
+		<ptr target="https://doi.org/10.1001/jama.300.14.1665" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page" from="1665" to="1673" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Approximately one in three US adults completes any type of advance directive for end-of-life care</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Gabler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Courtright</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hlthaff.2017.0175</idno>
+		<ptr target="https://doi.org/10.1377/hlthaff.2017.0175" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1244" to="1251" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

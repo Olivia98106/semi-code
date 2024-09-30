@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hope communication as a predictor of documented and undocumented Latina/o high school students’ college intentions across an academic year</title>
+				<funder ref="#_G2MTbWM">
+					<orgName type="full">Academic Faculty Senate&apos;s Pearl Chase Grant</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2018-04-18">2018-04-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jennifer</forename><forename type="middle">A</forename><surname>Kam</surname></persName>
+							<email>jkam@comm.ucsb.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Andy</forename><forename type="middle">J</forename><surname>Merolla</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Santa Barbara</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>4005</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Social Sciences &amp; Media Studies Bldg</orgName>
+								<address>
+									<postCode>93106-4020</postCode>
+									<settlement>Santa Barbara</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hope communication as a predictor of documented and undocumented Latina/o high school students’ college intentions across an academic year</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Communication Monographs</title>
+						<title level="j" type="abbrev">Communication Monographs</title>
+						<idno type="ISSN">0363-7751</idno>
+						<idno type="eISSN">1479-5787</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">85</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="399" to="422"/>
+							<date type="published" when="2018-04-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">4053E6482EC58D1AD7B7A2E211D8E912</idno>
+					<idno type="DOI">10.1080/03637751.2018.1463101</idno>
+					<note type="submission">Received 31 July 2017 Accepted 25 January 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Undocumented</term>
+					<term>immigrants</term>
+					<term>hope</term>
+					<term>college</term>
+					<term>Latino</term>
+					<term>crosslagged model</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Drawing from hope theory, we examined whether hope communication predicted undocumented and documented U.S. Latina/o youth's college intentions across an academic year. With three waves of survey data from 172 documented and 253 undocumented Latina/o high school students, auto-regressive cross-lagged analyses revealed that parent, teacher, and friend hope communication at the beginning of the year indirectly increased students' college intentions by the end of the year. A trend emerged whereby undocumented students reported significantly less hope communication and weaker college intentions than documented students within most of the waves. Our findings suggest that hope communication has the potential to increase the educational, economic, and social mobility of Latina/o immigrant students by increasing their intentions to attend college.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Higher education is not a panacea for all the challenges faced by Latina/o immigrant youth, nor does it yield the same benefits for everyone. Indeed, pursuing a higher education is not necessarily the best path for all youth. Some youth might have to assist their family financially, and some might not view college as a necessary path for their career goals <ref type="bibr" target="#b21">(Lopez, 2009)</ref>. The current study's goal, then, is to predict Latina/o immigrant youth's college intentions, not because all youth must have strong college intentions, but because all youth should have the option of pursuing a higher education if they desire it. Given that individuals who obtain a higher education increase their chances of finding stable employment, earning a higher income, and receiving health insurance through employment, higher education has important implications for increasing immigrant youth's economic and social mobility <ref type="bibr" target="#b1">(Baum, Ma, &amp; Payea, 2013)</ref>.</p><p>Numerous factors can help decrease the education attainment gap that many Latina/o immigrant youth face in the U.S. At a fundamental level, however, Latina/ o immigrant youth must perceive that higher education is attainable, should they wish to pursue it. Rooted in psychology, hope theory <ref type="bibr" target="#b33">(Snyder, 2002)</ref> proposes that individuals will pursue meaningful goals (i.e., "mental targets"; <ref type="bibr">Snyder, 2002, p. 250)</ref> to the extent that they develop sufficient pathways (i.e., routes that enable them to fulfill their goals), and agency (i.e., the perception that they can successfully enact the goal pathways they develop). Without clear pathways and high agency, individuals have low hope and tend to give up pursuing their goals when barriers arise. Given the numerous barriers that prevent Latina/o immigrant youth from pursuing a higher education, we examine the factors that promote pathways for obtaining a higher education.</p><p>Despite the widespread application of hope theory in research on education (see <ref type="bibr" target="#b23">Marques, Gallagher, &amp; Lopez, 2017)</ref>, questions remain regarding how students develop hopeful thinking through communication, particularly when facing numerous external and internal barriers to achieving their goals. Hope theory conceptualizes hope as a cognitive process, but several communication scholars <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015;</ref><ref type="bibr" target="#b4">Chadwick, Zoccola, Figueroa, &amp; Rabideau, 2016;</ref><ref type="bibr" target="#b7">Davis, 2013;</ref><ref type="bibr" target="#b24">Merolla, Beck, &amp; Jones, 2017;</ref><ref type="bibr" target="#b27">Nabi &amp; Keblusek, 2014)</ref> have recently called for an additional focus on how communication facilitates the development and maintenance of a hopeful mindset. As <ref type="bibr" target="#b8">Davis, Mayo, Piecora, and Wemberley (2013)</ref> put it, "hope is not only a way of thinking but a way of communicating" whereby people's strengths and their ability to pursue meaningful goals are enhanced (p. 77). Building on hope theory <ref type="bibr" target="#b33">(Snyder, 2002;</ref><ref type="bibr" target="#b34">Snyder et al., 1997)</ref> from a communication perspective, we define hope communication as futureoriented messages from social network members (e.g., partners, parents, peers, and teachers) or media that: (a) encourage individuals to identify goals, (b) help them develop pathways for meeting such goals, and (c) embolden them to pursue their goals. Hope communication does not have to explicitly use the term "hope" (e.g., "be hopeful"). Indeed, positive communication in many forms (see, e.g., <ref type="bibr" target="#b2">Beck &amp; Socha, 2015;</ref><ref type="bibr" target="#b8">Davis et al., 2013;</ref><ref type="bibr">Merolla et al., 2017)</ref> can function as hope communication so long as it promotes all three of the core components of hope theory (i.e., goals, pathways, and agency; <ref type="bibr" target="#b33">Snyder, 2002)</ref>.</p><p>Limited research has been conducted on the types of communication, such as hope communication, that promote college attendance and decrease the education attainment gap experienced by many U.S. Latina/o immigrant youth. As a first step toward this aim, we use three waves of survey data from 172 documented and 253 undocumented 1 Latina/o 9th-11th grade students to examine how hope communication from parents, teachers, and friends might positively predict Latina/o immigrant youth's college intentions (e.g., technical/vocational school, community college, four-year college). We examine how hope messages at the beginning and middle of an academic year directly and indirectly predict college intentions by the end of the academic year. We also consider whether undocumented Latina/o youth are less likely to report hope messages from various sources and less likely to have intentions to apply to college than documented Latina/o youth. The results can provide theoretical insight into hope communication (i.e., as an extension of hope theory; <ref type="bibr" target="#b33">Snyder, 2002)</ref>, as well as practical insights into the consequentiality of positive forms of communication <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015)</ref> that can encourage documented and undocumented Latina/o youth to obtain a higher education.</p><p>Threats to documented and undocumented Latina/o youth's college intentions Documented and undocumented Latina/o youth face some overlapping barriers to pursuing a higher education that might explain both groups' educational disparities compared to U.S.-born Latina/os and youth from other racial groups. For example, both documented and undocumented Latina/o youth might have limited English proficiency, feel isolated and discriminated against, have inadequate financial resources, and have to financially support their family members in the U.S. and in their native country (Department of <ref type="bibr">Education, 2015;</ref><ref type="bibr" target="#b21">Lopez, 2009;</ref><ref type="bibr" target="#b30">Perez et al., 2009)</ref>. All of these factors can interfere with documented and undocumented Latina/o youth's higher educational attainment. Pursuing a higher education, however, may become even more challenging for Latina/o immigrant youth who are undocumented. Consistent with this, the Department of Education (2015) reported that undocumented youth are less likely to have a high school diploma, are less likely to pursue a higher education, and are less likely to earn a college degree than their documented or U.S.-born counterparts.</p><p>The data for our study were collected in 2015-2016 before the November 2016 presidential elections. Nonetheless, the current political climate, the ongoing media coverage of building a wall to separate the U.S. and Mexico, and discussion of rescinding the Deferred Action for Childhood Arrivals (DACA) program have posed enormous challenges for undocumented youth to pursue a higher education. For example, new applicants for DACA were not being accepted for a short period of time, thereby limiting undocumented youth's ability to obtain a work permit or financial assistance for higher education (U.S. <ref type="bibr">Citizenship and Immigration Services, 2017)</ref>. Even undocumented youth who currently have DACA face great uncertainty regarding their ability to remain in the U.S. and continue their employment or education.</p><p>In addition to fear and uncertainty, one of the primary barriers that undocumented youth face in attaining a higher education is a lack of financial resources. Documented Latina/o immigrant youth already often suffer from severe financial strain, but to make matters worse, undocumented youth are often ineligible for federal or state financial aid such as student loans <ref type="bibr" target="#b0">(Abrego &amp; Gonzales, 2010;</ref><ref type="bibr">Diaz-Strong, Gómez, Luna-Duarte, &amp; Meiners, 2011)</ref>, are considered nonresidents in many states <ref type="bibr" target="#b12">(Gonzales, 2010)</ref>, and are not allowed to pay in-state tuition in certain states <ref type="bibr">(Diaz-Strong et al., 2011)</ref>. Given that many Latina/o immigrant youth, and more specifically, undocumented Latina/o youth, come from low socioeconomic backgrounds, paying tuition is nearly impossible without financial assistance <ref type="bibr" target="#b0">(Abrego &amp; Gonzales, 2010)</ref>. The Department of Education (2015) offers a list of scholarships for undocumented youth. Nevertheless, undocumented youth seldom learn of such scholarships, and these scholarships are often limited in numbers and are highly competitive.</p><p>When faced with such barriers, it might be easy for undocumented Latina/o youth to lose hope. For example, <ref type="bibr" target="#b13">Gonzales, Suárez-Orozco, and Dedios-Sanguineti (2013)</ref> found across four data sets with undocumented immigrants that some engaged in suicidal ideation stemming from a "sense of hopelessness and despair they experienced during adolescence as they looked ahead to an uncertain adulthood, a process for them that meant burying their aspirations and dreams" (p. 15). Nevertheless, the research on thriving <ref type="bibr" target="#b10">(Feeney &amp; Collins, 2015)</ref> suggests that stressors are not invariably bad or harmful. Instead, some undocumented youth might thrive in the face of adversity by becoming stronger from such experiences. Consistent with hope theory <ref type="bibr" target="#b33">(Snyder, 2002)</ref>, <ref type="bibr" target="#b2">Beck and Socha (2015)</ref> argue that "it is from others that we learn pathways of thinking, that is, how to scale obstacles that impede us, as well as realize that we are worthy of survival" (p. 5). Social network members can indeed be sources of hope communication, which can in turn, help Latina/o immigrant youth thrive in the face of significant obstacles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The utility of hope theory and hope communication</head><p>Within and outside the field of communication, hope has been studied in various contexts, including cancer care (e.g., <ref type="bibr" target="#b35">Sparks, Hefner, &amp; Rogeness, 2015)</ref>, climate change (e.g., <ref type="bibr" target="#b3">Chadwick, 2015)</ref>, mental health (e.g., <ref type="bibr" target="#b8">Davis et al., 2013)</ref>, education (e.g., <ref type="bibr" target="#b11">Feldman, Davidson, &amp; Margalit, 2015)</ref>, and conflict management (e.g., <ref type="bibr" target="#b25">Merolla &amp; Harman, 2018)</ref>. Hope communication scholars are often interested in (a) positive forms of communication that protect against the many challenges that individuals face across their lifespan and (b) hope messages as motivating factors of behavior change <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015;</ref><ref type="bibr" target="#b8">Davis et al., 2013;</ref><ref type="bibr" target="#b27">Nabi &amp; Keblusek, 2014)</ref>. Still, to further understand hope communication and its consequences, we must distinguish it from other positive forms of communication, and we must situate it within hope theory <ref type="bibr" target="#b33">(Snyder, 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The distinguishing features of hope communication</head><p>Hope communication shares some common features with other forms of positive communication, particularly supportive and confirming communication. With respect to the former, MacGeorge, Feng, and Burleson (2011) define supportive communication as, "verbal and nonverbal behavior produced with the intention of providing assistance to others perceived as needing aid" (p. 317). <ref type="bibr" target="#b42">Xu and Burleson's (2001)</ref> widely used measure of supportive communication asks participants to reflect on instances "when you need support" (p. 562). <ref type="bibr" target="#b15">Holmstrom and Burleson (2011)</ref> posit that esteem messages (i.e., supportive messages that enhance the recipient's self-concept and self-esteem) occur when the provider perceives the recipient is upset from experiencing threats to her/his positive sense of self. According to these sources, supportive communication is in response to the belief that someone requires assistance due to a threat or stressor. Hope communication, in contrast, is a broader form of communication that can occur in everyday socialization efforts or in response to adversity <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015)</ref>; it does not necessitate that an identifiable stressor exists <ref type="bibr" target="#b26">(Merolla &amp; Kam, 2017)</ref>.</p><p>Parents, teachers, and other social network members can deliberately or unintentionally communicate hope to adolescents in the context of everyday talk, teaching adolescents important life lessons and identifying and reinforcing their strengths <ref type="bibr" target="#b8">(Davis et al., 2013;</ref><ref type="bibr">Merolla et al., 2017)</ref>. For example, a teacher might discuss goals for pursuing a higher education, ways to obtain that goal, and believing that one can achieve that goal because the teacher believes such lessons are important to instill in students. Moreover, given the risky nature of being undocumented, some youth might not discuss their undocumented challenges to people outside the family <ref type="bibr" target="#b32">(Scranton, Afifi, Afifi, &amp; Gangi, 2016)</ref>, which means everyday general hope messages from social network members might be particularly important for undocumented youth.</p><p>In addition to supportive communication, hope communication can overlap with confirming communication. <ref type="bibr">Dailey et al.</ref> conceptualize confirming communication as messages that are accepting (i.e., messages that convey "positive regard, warmth, and attentiveness" that show the person is "valued, cared for, and not judged," p. 1482) and challenging (i.e., "pushing the other to enact healthy behaviors," p. 1482; <ref type="bibr" target="#b6">Dailey, Crook, Glowacki, Prenger, &amp; Winslow, 2016)</ref>. Hope communication, like confirming communication, can be accepting, but hope communication's distinguishing feature is that it focuses specifically on enhancing agency and pathways toward goals. In addition, hope communication encourages individuals to establish meaningful goals, whereas confirming communication seems to exclude identifying clear, achievable pathways to goal fulfillment, which is a necessary component to hope communication. Lastly, confirming communication emphasizes one person pushing the other person, but hope communication can be collaborative in working with the youth to develop their ideas for overcoming challenges and barriers <ref type="bibr" target="#b26">(Merolla &amp; Kam, 2017)</ref>.</p><p>Situating hope communication in Snyder's hope theory <ref type="bibr" target="#b33">Snyder (2002)</ref> proposed in the elaborated hope model that individuals develop hope through socialization from early childhood to end of life. Snyder referred to this socialization process as learning history. Hope communication is conceptualized as part of this ongoing socialization process that helps build hope and resilience <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015)</ref>. Frequently perceiving hope communication from social network members contributes to sustained hope, even during periods of adversity. When faced with a stressor (e.g., inability to pay for college), high-hope individualswhich stems in part from hope communicationshould be better able to manage the stressor by finding alternative pathways to existing goals, devising new goals and pathways, and managing negative effect stemming from goal blockages <ref type="bibr" target="#b33">(Snyder, 2002)</ref>.</p><p>Given the many barriers that documented and undocumented Latina/o youth face to pursuing a higher education, we do not advocate for generating false hopemaking youth believe they can pursue unobtainable goals. Rather, hope communication can help Latina/os (a) develop the goal of pursuing a higher education, (b) establishon their own and with the help of othersthe steps necessary to fulfill that goal, and (c) maintain the sense of personal agency needed to successfully implement such steps. Thus, hope communication does not promote agency and goals without developing realistic pathways <ref type="bibr" target="#b26">(Merolla &amp; Kam, 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hope communication's effects on college intentions over an academic year</head><p>According to hope theorists and communication scholars, hope is a dynamic process that changes over the lifespan, as individuals attain goals, face challenges, communicate with social network members, and consume various forms of media <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015;</ref><ref type="bibr" target="#b33">Snyder, 2002;</ref><ref type="bibr" target="#b40">Vangelisti, 2015)</ref>. For pathways and agency to be sustained over time, students need to perceive a steady stream of hopeful messages from significant others <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015)</ref>. Indeed, hope communication should be ongoing, so that individuals continue to learn important life lessons about goal pursuit, realize their unique strengths, and develop resiliency against life stressors when they arise <ref type="bibr" target="#b8">(Davis et al., 2013;</ref><ref type="bibr">Merolla et al., 2017)</ref>. Ongoing hope communication may be essential to helping documented and undocumented Latina/o youth maintain intentions to pursue a higher education across an academic year. Yet, we also assume that hope communication early in the school year will manifest in higher college intentions in the middle and end of the year. To test these predictions, we posed the following hypothesis (see also Figure <ref type="figure" target="#fig_0">1</ref>): H1: Parent, teacher, and friend hope communication at the beginning of the academic year is directly and positively related to college intentions at the middle of the year (H1a) and at the end of the year (H1b).</p><p>As the college application season begins to dissipate into winter and spring, it may be equally important for Latina/o immigrant youth to continue to perceive consistent and ongoing hope messages from parents, teachers, and friends. Being competitive for college requires youth to maintain hope over their entire high school career, so that they continue to work toward achieving their goals such as attending college. Thus, reliable ongoing hope messages might help youth maintain their intentions over the year. Hope communication at the beginning of the year may predict college intentions in the middle and end of the year, but maintaining hope communication in the middle of the year may be necessary to ensure that Latina/o immigrant youth's college intentions persist by the end of the academic year. Mid-year hope communication might serve as an important source of ongoing encouragement for Latina/o immigrant youth to pursue a higher education at the end of the year. Stated differently, as Latina/o immigrant youth engage in hope communication in the beginning of the year, they will report higher levels of mid-year hope communication and college intentions, and in turn, mid-year hope communication and college intentions will be related to higher levels of hope communication and college intentions at the end of the academic year. We represent these associations with the following hypotheses: H2: Hope communication at the beginning of the year is indirectly and positively related to college intentions at the end of the year through hope communication (H2a) and college intentions at the middle of the year (H2b).</p><p>H3: Hope communication at the middle of the academic year is directly and positively related to college intentions at the end of the academic year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Documentation-status differences in hope communication and college intentions</head><p>Lastly, although hope communication is likely to predict increased college intentions for both documented and undocumented Latina/o youth, there might be differences in the amount of hope communication reported by documented and undocumented youth. In particular, parents, teachers, and friends might be less likely to provide hope messages to undocumented compared to documented Latina/o youth, which in turn, may decrease undocumented students' college intentions. Multiple qualitative studies have demonstrated a variety of ways in which parents, teachers, and friends provide hope for undocumented Latina/o youth. Yet, these studies have also shown that such support is not equally distributed among students <ref type="bibr" target="#b12">(Gonzales, 2010;</ref><ref type="bibr" target="#b13">Gonzales et al., 2013)</ref>. Undocumented Latina/o youth, for example, face a number of stressors (e.g., fear of deportation, less access to financial aid) that documented youth do not experience as severely. As a result, social network members do not always know how to provide hope to undocumented youth <ref type="bibr" target="#b0">(Abrego &amp; Gonzales, 2010)</ref>. Further, because teachers differ in their beliefs regarding undocumented immigration, some teachers are less inclined than others to act as allies to undocumented youth <ref type="bibr" target="#b17">(Jefferies, 2014)</ref>, and some might use discouraging messages instead. Thus, we posited that documentation status will not only influence the amount of hope communication reported by undocumented relative to documented students, but it will also result in undocumented students reporting lower levels of hope communication and college intentions.</p><p>H4: Undocumented, compared to documented, Latina/o students will report lower college intentions at the middle of the year and at the end of the year as a function of perceiving less hope communication in the beginning and middle of the year. H5: Undocumented, compared to documented, Latina/o students will report lower college intentions at the end of the year as function of having lower college intentions at the middle of the year. H6: Undocumented, compared to documented, Latina/o students will report lower levels of hope communication (H6a) and college intentions (H6b) at the end of the year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Participants This study's analyses were based on survey data from a larger longitudinal study focusing on stress and coping among immigrant youth from a high school district in a Southwestern state. The district included three high schools all within a 10-15 minute drive from each other. From 2015 to 2016, immigrant students filled out the survey at three different time points across the academic year. Survey completion occurred in 3-month intervals: in November <ref type="table" target="#tab_3">2015 for Wave 1 (n = 526), in February 2016 for Wave 2 (n = 467),</ref> and<ref type="table" target="#tab_3">in May  2016 for Wave 3 (n = 446</ref>). Students were allowed to start or exit the study at any time point, thereby resulting in a total of 648 students who participated in the study. In particular, 20.2% of the 648 students completed a survey during one wave, 37.4% across two waves, and 42.3% across all three waves. According to the school-district data, 85.9% of the 648 students were Latina/o.</p><p>For the present study's analyses, we used school-reported ethnic identity data (0 = Hispanic/Latino, 1 = non-Hispanic/Latino) to select only the Latina/o students from our total sample, which means non-Latina/o students were excluded from the analyses. This selection resulted in a sample of 550 Latina/o immigrant students. Afterwards, only 9th-11th grade students were selected because this study's goal was to examine college intentions over an academic year. Including 12th grade students who may have already chosen to apply or not to apply for college could undermine the validity of the college intentions measure. Thus, this study's analyses were based on a total of 425 Latina/o immigrant students in 9th-11th grades, with 172 (40.5%) self-identifying as documented and 253 (59.5%) self-identifying as undocumented.</p><p>Among the 172 documented Latina/o students, school-district data indicated that 91.3% were born in Mexico, 5.2% in El Salvador, 1.2% in Chile, 1.2% in Colombia, 0.6% in Costa Rica, and 0.6% in Venezuela. Their average time spent living in the U.S. was 6.91 years (SD = 4.22). In addition, 52.3% were male and 47.7% female, and their mean age was 15.65 years of age (SD = 1.01). With respect to grade level distribution, 36% were in 9th grade, 36% in 10th grade, and 27.9% in 11th grade. Based on data provided by the school district, 96.5% of the documented Latina/o immigrant students participated in the school's free lunch program.</p><p>For the 253 undocumented Latina/o students, school-district data indicated that 92.5% were born in Mexico, 5.5% in El Salvador, 1.2% in Guatemala, and 0.8% in Honduras. Their average time spent living in the U.S. was 7.65 years (SD = 4.03). In addition, 54.9% were male and 45.1% were female, and their mean age was 15.65 years of age (SD = 1.02). With respect to grade level distribution, 45.1% were in 9th grade, 28.1% in 10th grade, and 26.9% in 11th grade. Based on data provided by the school district, 98.4% of the undocumented Latina/o immigrant students participated in the school's free lunch program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>After the university's Institutional Review Board (IRB) approved this study's procedures, the first author called and e-mailed public school principals, as well as mailed information packets to them. The first author targeted schools that had a Latina/o student population of at least 50%. A high school district in a Southwestern state volunteered to participate because of its large Latina/o immigrant population. The district consisted of three high schools with approximately 7000 students across the schools (58-94% being of Latina/o origin). The city in which the schools were located had a large migrant farming population. For the sake of maintaining the participants' confidentiality, given the sensitive nature of the data, we intentionally exclude detailed descriptions of the schools' characteristics and locations.</p><p>Because of the large student body populations across the high schools, the first author and the school district agreed to invite 700 immigrant students to participate in the study. The school district selected students according to how recently they migrated (starting from most recent) to the U.S. until they reached a sample size of 700 immigrant students. The school district sent an information letter to the parents of each immigrant student, explaining the goals of the study, its voluntary nature, and that personnel from the university would survey their child at school three times that academic year. The letter was in Spanish and English, and parents had two weeks to withdraw their child from the study. For Waves 2 and 3, the school district left an automated phone message for the parents in Spanish and English, reminding the parents of the study and their option of withdrawing their child from the study. Eight students had parents who withdrew them from the study.</p><p>For each wave, the first author and her research team surveyed immigrant students during each class period across three to four consecutive days. Students filled out the survey in their school library or a classroom, using a computer or a tablet. At the beginning of each class period, the first author and her research team explained the study's purpose, as well as its voluntary and private nature. Students signed an assent form at each wave. Students took approximately 30-45 minutes to complete the assent form and the survey. All study documents were available in English and Spanish. The first author utilized <ref type="bibr" target="#b31">Rogler's (1989)</ref> back-translation method to ensure translation fidelity. For Wave 1, 33.1% of the documented Latina/o students completed the survey in Spanish, 31.7% at Wave 2, and 28.6% at Wave 3. For undocumented Latina/o students, 34.8% completed the survey in Spanish at Wave 1, 30.5% at Wave 2, and 29.9% at Wave 3. For participating, each student received a snack and university paraphernalia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>This study utilized shortened measures to meet the school's time restrictions and the students' developmental needs. Means, standard deviations, and reliability coefficients between the variables are provided in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Documentation status</head><p>To assess students' documentation status, an item was modified based on Suárez-Orozco, Yoshikawa, Teranishi, and Suárez-Orozco (2011). Students read the introduction, "What is the documentation status (also sometimes referred to as having papers or no papers, authorized/unauthorized, legal/illegal status) of the following people?" Students reported on their father's, mother's, siblings', and self's documentation status, utilizing a 3-point response option (1 = undocumented, 2 = documented, and 3 = used to be undocumented, but now have legal status). For this study, only the "self" item was used, and the variable  was dichotomized into 0 = documented (n = 172) and 1 = undocumented (n = 253), with response option 3 being coded as documented.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Note</head><p>Hope communication frequency (Waves 1-3) Merolla and Kam (2017) modified three items from <ref type="bibr">Snyder et al.'s (1997)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>unidimensional</head><p>Children's Hope Scale to assess hope communication frequency. At Wave 1, students were asked, "How often do the following people:" … "tell you that you're doing well?," "talk about all the ways you can solve your problems?," and "tell you that you're prepared to do well in the future?" For each item, students reported on three sources: (a) their mom or dad, (b) friend(s), and (c) teacher(s), utilizing a 5-point response option (1 = never to 5 = very often). For Waves 2 and 3, students read the introduction, "In the last 3 months (90 days), how often have the following people told you … " and students responded to the three items.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>College intentions at Waves 2 and 3</head><p>We created one item to assess intentions to pursue a higher education. The students were asked, "How likely are you to apply to any colleges (e.g., community college, 4-year college, technical/vocational school)?" They utilized a 5-point response option (1 = very unlikely to 5 = very likely).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control variables at Wave 1</head><p>When conducting the analyses, we controlled for school-district-reported sex, school (i.e., which of the three high schools the student attended), grade level, socioeconomic status, grade point average (GPA), time spent in the U.S., fear of deportation, and nuclear family college attendance. In each model tested, we controlled for the forms of hope communication that were not the focal predictors in the model. For example, in the parent hope communication model, in which parent hope at Waves 1-3 were latent factors, we controlled for teacher and friend hope communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytic procedures</head><p>Three longitudinal structural equation models (SEMs) were constructed to test the hypotheses. The first model tested the effects of parent hope communication on college intentions, whereas the second and third models tested the effects of teacher and friend hope communication, respectively, on college intentions. In each model, hope communication (parent, teacher, and friend) was specified as a latent factor at each time point with three indicators. The other model variables (i.e., college intentions and documentation status) were observed variables. Whereas hope communication was assessed in all three waves, college intention was assessed in the second and third waves. As is required in longitudinal SEM, the residuals for each hope communication item were correlated with their cross-time counterparts, and within-wave residuals in the second and third waves for hope communication and college intentions were correlated <ref type="bibr" target="#b20">(Little, 2013)</ref>. Autoregressive paths to each subsequent wave (and a first to third wave path for hope communication) were also modeled. The 11 control variables were correlated with documentation status and modeled as predictors of the hope communication and college intentions. Control variable direct paths were trimmed if they did not reach marginal significance (i.e., p &lt; .10; see <ref type="bibr" target="#b20">Little, 2013)</ref>. SEM analyses were conducted with AMOS 24.0. To conduct mediation tests, we entered the path coefficients and standard errors from the SEM results into RMediation <ref type="bibr" target="#b38">(Tofighi &amp; MacKinnon, 2011)</ref>, which provided unstandardized indirect estimates, standard errors, and 95% confidence intervals for indirect effects. RMediation produces bias-corrected confidence intervals similar to bootstrapping.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Handling missing data</head><p>We examined within-and cross-wave missing data. We first conducted Little's MCAR tests within the three waves. None of the tests were statistically significant (i.e., ps &gt; .05), providing some evidence that the data within waves were missing completely at random. We then conducted a multivariate analysis of variance (MANOVA) to test if participants with different cross-wave participation rates (e.g., completed all three waves vs. only one or two waves) differed on the model variables (see Figure <ref type="figure" target="#fig_0">1</ref>) averaged over time, Wilks' Λ = .977, F = .778, p = .623. The non-significant MANOVA results suggested that there were no differences in the main study variables based on the participation rate.</p><p>Missing data were therefore handled with full-information likelihood estimation (FIML)a model-based approach to missing data imputation. FIML is the best missing data approach for use in longitudinal SEM even when participants are able to start or leave the study at any time point <ref type="bibr" target="#b9">(Enders, 2010;</ref><ref type="bibr" target="#b20">Little, 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confirmatory factor analysis and measurement invariance</head><p>To demonstrate the factorial validity of the measures, we needed to conduct two types of analyses. First, to show that parent, teacher, and friend hope communication are unique factors (and not simply part of a larger latent hope communication construct), we conducted confirmatory factor analyses (CFA) within each measurement occasion. At each time point, we conducted CFA specifying three latent factors (i.e., parent, teacher, and friend hope communication). Error terms for items with identical content from the three sources were correlated. As shown in Table <ref type="table" target="#tab_1">2</ref>, in each of the three data waves, three-factor models fit the data very well. Fit was based on the Confirmatory Fit Index (CFI), Tucker-Lewis Index (TLI), Incremental Fit Index (IFI), and Root Mean Square Error of Approximation (RMSEA). These results strongly suggest that parent, teacher, and friend hope communication are unique factors.</p><p>In addition to demonstrating that three forms of hope communication represent unique latent factors within each wave, we needed to test if each factor was measured consistently across the waves (i.e., cross-time measurement invariance). Establishing cross- time measurement invariance requires testing the fit of three increasingly restrictive models (i.e., the configural, weak, and strong invariance models) in which the items from each measurement occasion of a given latent factor are included <ref type="bibr" target="#b20">(Little, 2013)</ref>.</p><p>The configural invariance model does not impose cross-time constraints but rather establishes the baseline fit for the subsequent invariance tests. The weak invariance model constrains the item loadings to be equal across all waves. Finally, the strong invariance model builds upon the weak invariance model by not only constraining the item loadings, but also constraining the intercepts across all waves. Weak and strong measurement invariance is established based on changes in CFI (i.e., ΔCFI). If the ΔCFI &lt; .01 when comparing the configural and weak invariance models, and the weak and strong invariance models, then the more stringent model is accepted <ref type="bibr" target="#b5">(Cheung &amp; Rensvold, 2002)</ref>. Given that we tested our hypotheses in separate parent, teacher, and friend hope communication models, we conducted the invariance testing separately for each form of hope communication. Results show that strong invariance existed for the parent, teacher, and friend hope communication measures. See Table <ref type="table" target="#tab_2">3</ref> for the model fit of the strong invariance model and ΔCFI from the configural and weak invariance models. In sum, the data met the standards for longitudinal SEM <ref type="bibr" target="#b20">(Little, 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptive statistics</head><p>Preliminary analyses were conducted to compare the hope communication and college intention means for documented and undocumented students across the schools. As reported in Table <ref type="table" target="#tab_0">1</ref>, documented, relative to undocumented, students reported significantly higher means for parent hope communication at Wave 1, Wave 2, and Wave 3; friend hope communication at Wave 2; teacher hope communication at Wave 3; and college intentions at Waves 2 and 3. Tests indicated only one sex difference across variables, such that female, compared to male, students reported greater friend hope communication at Wave 1. Correlations between the variables (separated for documented and undocumented students) can be found in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis tests</head><p>Model fit statistics, unstandardized and standardized estimates, and R 2 values are displayed in Figures <ref type="figure" target="#fig_2">2</ref><ref type="figure" target="#fig_3">3</ref><ref type="figure" target="#fig_4">4</ref>. Model fit (based on CFI, IFI, TLI, and RMSEA) was good for all of the models <ref type="bibr" target="#b20">(Little, 2013)</ref>. We predicted that hope communication at the beginning of the academic year (Wave 1) is directly positively related to college intentions at the middle (Wave 2; H1a) and at the end of the year (Wave 3; H1b). This hypothesis was partially supported for parent and teacher hope communication. As shown in Figures <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_3">3</ref>, Wave 1 parent hope communication (B = .26, p &lt; .001) and teacher hope communication (B = .34, p &lt; .001) significantly positively predicted mid-year college intentions (Wave 2; H1a). Parent and teacher hope communication (Wave 1) did not significantly positively predict end-of-year college intentions (Wave 3; H1b). However, counter to predictions, teacher hope communication (Wave 1) negatively predicted college intentions at Wave 3 (B = -.35, p &lt; .05; H1b). Friend hope communication (Wave 1) also negatively predicted college intentions at Wave 3 (B = -.22, p &lt; .074; H1b), but that effect only  approached statistical significance. As shown in Figure <ref type="figure" target="#fig_4">4</ref>, friend hope communication (Wave 1) did not significantly predict mid-year college intentions (Wave 2; H1a). We also predicted that beginning-of-year hope communication (Wave 1) is indirectly positively related to end-of-year college intentions (Wave 3) through mid-year hope communication (H2a) and college intentions (Wave 2; H2b). This hypothesis was supported for teacher hope communication and partially supported for parent and friend hope communication. As shown in Table <ref type="table" target="#tab_3">4</ref>, which reports the mediation results, hope communication (Wave 2) was a significant mediator between hope communication (Wave 1) and end-of-year college intentions (Wave 3) in the teacher (indirect estimate = .16) and friend models (indirect estimate = .22), but not the parent model (indirect estimate = .14; H2a). Table <ref type="table" target="#tab_3">4</ref> also shows that mid-year college intention (Wave 2) was a significant mediator between hope communication (Wave 1) and end-of-year college intentions (Wave 3) in the parent (indirect estimate = .09) and teacher models (indirect estimate = .13), but not in the friend model (indirect estimate = .07; H2b).</p><p>H3 predicted that hope communication at the middle of the academic year (Wave 2) is directly positively related to college intentions at the end of the academic year (Wave 3). The effects were consistent with the hypothesis in all three models, such that parent (B = .22, p &lt; .053), teacher (B = .25, p &lt; .05), and friend (B = .29, p &lt; .05) hope communication (Wave 2) positively predicted end-of-year college intentions (Wave 3). Note, though, that the parent hope communication effect had a p-value slightly above .05 (i.e. p &lt; .053).</p><p>H4 predicted that undocumented, compared to documented, Latina/o students will report lower college intentions at the middle of the year (Wave 2) and at the end of the year (Wave 3) as a function of reporting less hope communication (Wave 1 and Wave 2). A series of mediation analyses were conducted to test H4 (see Table <ref type="table" target="#tab_3">4</ref>), none of which were statistically significant. Thus, H4 was not supported.</p><p>H5 predicted that undocumented, compared to documented, Latina/o students will report lower college intentions at the end of the year (Wave 3) as a function of having lower college intentions at the middle of the year (Wave 2). As shown in Table <ref type="table" target="#tab_3">4</ref>, the mediation effect proposed in H5 was supported in the teacher model (indirect effect = -.11), but not the parent (indirect effect = -.11) or friend (indirect effects = -.12) model. H5 thus garnered partial support.</p><p>H6 predicted that undocumented, compared to documented, Latina/o students will report lower levels of hope communication (H6a) and college intentions (H6b) at the end of the year (Wave 3). For all three models, documentation status did not significantly predict college intentions at the end of the year (H6b), and it did not significantly predict parent or friend hope communication (H6a). Documentation status marginally negatively predicted Wave 3 teacher hope communication (B = -.17, p &lt; .083), but, overall, H6 was not supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Given that Latina/o immigrant youth face a number of unique challenges that often prevent them from pursuing a higher education <ref type="bibr" target="#b21">(Lopez, 2009)</ref>, we drew upon hope theory <ref type="bibr" target="#b33">(Snyder, 2002)</ref> to identify goals, pathways, and agency as three core aspects of positive communication that might directly and indirectly motivate Latina/o immigrant youth to apply for college. We also considered whether undocumented youth would be less likely to report hope communication, and in turn, have lower college intentions than documented youth. When taking into account the control variables, parent, teacher, and friend hope communication indirectly predicted increased college intentions at the end of the academic year for both documented and undocumented Latina/o youth. Although documentation status did not significantly predict hope communication or college intentions, undocumented relative to documented students reported significantly less hope communication and weaker college intentions as a trend across the year.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What can hope communication do for college intentions?</head><p>At first glance, the results from H1 might lead us to conclude that parent and teacher hope communication at the beginning of the year only exhibit short-term effects on college intentions because they were positively directly related to mid-year college intentions, but not end-of-year college intentions. However, when we consider the mediation results of H2, we observe more promising support for hope communication. Reported hope messages from parents and teachers that address goals, pathways, and agency increased documented and undocumented Latina/o youth's intentions to attend college at the middle of the year, and in turn, at the end of the year. These findings are important because they shed light on the processual nature of hope communication's effects on college intentions and provide evidence for hope communication's potential role in immigrant youth's upward educational, economic, and social mobility.</p><p>Beginning-of-year parent and teacher hope communication exhibited positive longlasting effects on end-of-year college intentions through mid-year college intentions. This means if students had intentions to attend college in the middle of the year, they were more likely to sustain such intentions by the end of the year. This is a promising finding for work on behavioral intentions, such that behavioral intentions at one time point are likely to predict the sustainability of one's behavioral intentions in the future. Additional research is needed to determine whether college intentions lead to college attendance and completion.</p><p>Another noteworthy longitudinal finding is that parent and teacher hope communication demonstrated mostly consistent positive effects on college intentions at least from beginning-of-year hope communication to mid-year college intentions (H1a), and mid-year hope communication to end-of-year college intentions (H3). Given that we found a significant link between mid-year and end-of-year college intentions, it is possible that parent and teacher hope communication's indirect effect on college intentions could endure in a similar fashion even beyond this study's one-year period. However, we must acknowledge that prior to our first wave of data collection, parents, teachers, and friends might have conveyed hope messages to our sample sporadically, randomly, or consistently.</p><p>With respect to friends, beginning-of-year friend hope communication was indirectly related to end-of-year college intentions, but only through mid-year friend hope communication. Our findings suggest that friend hope communication at the beginning of the academic year may not be enough to promote long-lasting college intentions. Instead, engaging in ongoing friend hope communication across the academic year may be necessary. Such findings fall in line with communication scholars' supposition <ref type="bibr" target="#b2">(Beck &amp; Socha, 2015;</ref><ref type="bibr">Merolla et al., 2017)</ref> that hope communication is a source of resilience that must be maintained over time; however, to our knowledge, that claim had not been previously tested longitudinally.</p><p>In addition, our results beg the question, why did friend hope communication require mid-year hope communication to exhibit an indirect effect on end-of-year college intentions when parent and teacher relied on mid-year college intentions as a mediator? The answer might lie within the complementary power distribution that parents and teachers share with youth compared to the symmetrical power distribution between friends <ref type="bibr" target="#b36">(Stone Fish, 2000)</ref>. Perhaps students looked to their parents and teachers as having more authority and influence than friends in their decision to attend college. For example, in one study, parents offered hope by helping undocumented youth establish strategies for pursuing a higher education, which included transporting their child to the community college and to partially paying for their child's tuition <ref type="bibr" target="#b41">(Viramontez Anguiano &amp; Lopez, 2012)</ref>. Similarly, <ref type="bibr" target="#b12">Gonzales (2010)</ref> reported that teachers helped undocumented students find pathways for financing college tuition. In short, parents and teachers might have certain insights or authority that enables them to help immigrant youth establish pathways and agency, whereas friends might need to make several attempts to have an impact.</p><p>Despite many of its positive effects, we also found some unexpected negative effects of hope communication. Specifically, beginning-of-year teacher and friend hope communication significantly negatively predicted end-of-year college intentions (H1b). Although not significant for parent hope communication, the path was in the same direction. Several possible mediators might explain this unexpected effect. For example, when considering <ref type="bibr" target="#b33">Snyder's (2002)</ref> learning history, some youth might have developed low-hope thinking over time. Thus, when low-hope youth encounter hope messages, such messages might seem inconsistent with their low-hope schema, possibly leading to negative self-talk or counter-arguing. If youth perceive the hope messages as inauthentic, inconsistent, or of low credibility, the messages might have limited effects. Consistent with this notion, <ref type="bibr">Guntzviller et al.'s (2016)</ref> showed that as emerging adults rated the advice they received as low in feasibility and efficacy, they were more likely to provide a lower rating of the quality of the advice. Future studies can identify mediators (e.g., feasibility, efficacy, negative self-talk, authenticity, credibility) that explain the negative direct effect. Our unexpected result emphasizes the importance of using consistent, ongoing hope communication, given that some youth might initially doubt their ability to pursue a higher education.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Do sources of hope communication differ in their effects?</head><p>All three sources of hope communication demonstrated positive effects on documented and undocumented Latina/o adolescents because all three types indirectly increased college intentions at the end of the year. However, we did observe some differences among sources with respect to mediators and significant paths. We already explored several reasons why mediators differed for beginning-of-year parent hope communication and friend hope communication, but we asked why both mid-year hope communication and mid-year college intentions were significant mediators in the teacher model. Not all teachers engage in hope communication or assist students in pursuing a higher education. Indeed, some teachers might not be allies to Latina/o immigrant youth, and some might engage in discrimination <ref type="bibr" target="#b18">(Kam &amp; Bámaca-Colbert, 2013)</ref>. Nevertheless, Viramontez Anguiano and <ref type="bibr" target="#b41">Lopez's (2012)</ref> study reported that some parents lacked familiarity with the U.S. education system and lacked strong English skills to help their child academically. Thus, many of the undocumented parents reported relying on the school for assistance. Teachers, for instance, helped write personal statements for college applications, established pathways for financing college tuition, and persuaded students' parent(s) that attending college was a better alternative to immediately working <ref type="bibr" target="#b12">(Gonzales, 2010)</ref>. Teachers can be important sources of hope, particularly when parents and friends are unfamiliar with the U.S. education system; this might be especially relevant for firstgeneration college students.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does undocumented status matter for hope communication and college intentions?</head><p>We found little support for our hypotheses (H4-H6) regarding undocumented status's long-term indirect effects on hope communication at any time point or end-of-year college intentions. However, in the teacher model, undocumented students were less likely to have end-of-year college intentions through mid-year college intentions, and the negative association between undocumented status and mid-year college intentions approached significance. Furthermore, at mean levels, undocumented students reported significantly less hope communication (for all three sources) and college intentions across most of the waves. Thus, there is some evidence to suggest that undocumented Latina/o youth might be at greater risk of having limited hope communication and college intentions than documented Latina/o youth.</p><p>This finding is concerning because <ref type="bibr" target="#b13">Gonzales et al. (2013)</ref> reported that undocumented immigrants can experience suicidal ideation stemming from hopelessness. However, Gonzales et al. ( <ref type="formula">2013</ref>) maintained that undocumented youth who have a strong social network that promotes hope are more likely to succeed. Several scholars have argued for the importance of parents, school administrators, and peers in helping undocumented Latina/o youth thrive <ref type="bibr" target="#b12">(Gonzales, 2010;</ref><ref type="bibr" target="#b17">Jefferies, 2014;</ref><ref type="bibr" target="#b30">Perez et al., 2009)</ref>. Hope communication, then, may be crucial to assisting Latina/o immigrant youth, including those who are undocumented, develop goals, pathways, and agency to pursue a higher education and to experience upward mobility in the face of adversity.</p><p>The education attainment gap extends beyond undocumented Latina/o youth. Indeed, it impacts documented Latina/o immigrant youth, as well as U.S.-born Latina/o youth. Our findings apply to both documented and undocumented Latina/o immigrant youth. Research indicates that both documented and undocumented might not pursue college because they have obligations to support their family financially <ref type="bibr" target="#b21">(Lopez, 2009)</ref>. This is why engaging in hope communication might be particularly beneficial. Schools and other community-based organizations can provide parents, teachers, and friends with guidance in developing effective hope messages that address Latina/o immigrant youth's goals, pathways, and agency. Such social network members would benefit from learning more about pathways for pursuing college when faced with severe financial barriers or familial obligations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How does hope communication contribute to hope theory?</head><p>Marques et al.'s (2017) meta-analysis reveals that extensive research has been conducted on hope's positive effects on academic outcomes. Based on their meta-analytic research, <ref type="bibr" target="#b23">Marques et al. (2017)</ref> recommended that "key hope enhancing strategies might be useful if incorporated into all levels of education and all students" (p. 7). The current study speaks to Marques et al.'s recommendation by examining hope communication in promoting college intentions among Latina/o adolescents. Yet, there is more work to do to better integrate hope communication with hope theory. We did not directly test, for instance, whether hope communication increases hope (i.e., pathways and agency thinking). Based on hope theory, we view hope communication from parents, teachers, and friends as essential elements of people's learning history that shapes their hope levels over time <ref type="bibr" target="#b33">(Snyder, 2002)</ref>. More research is needed to test how hope communication from various sources shapes hopeful thinking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and future research directions</head><p>Future research is also needed to address this study's limitations. For example, we used a one-item measure of college intentions (e.g., community college, 4-year college, technical/ vocational school) at Waves 2 and 3. Excluding a measure at Wave 1 also means the link between Wave 1 hope communication and Wave 2 college intentions is associational. We could not take into account Wave 1 college intentions. Another limitation is that intentions do not guarantee that Latina/o immigrant youth will actually apply for or attend vocational school or a two-or four-year college <ref type="bibr">(Diaz-Strong et al., 2011)</ref>. With the barriers that Latina/o immigrant youth face, particularly those of undocumented status, students may apply, but not enroll because of financial strain. Alternatively, they may attend college, but some may not complete their degree. Lastly, we only measured college intentions with a single item with all types of higher education referenced. Vocational school, however, is different from a four-year college with respect to financial costs, time investment, and application requirements. Thus, it would be useful to separate out college intentions to determine the extent to which hope communication predicts intentions to apply to vocational school, community college, or a four-year college.</p><p>Our study was guided by hope theory <ref type="bibr" target="#b33">(Snyder, 2002)</ref>, a leading social scientific theory of hope that emphasized hope's cognitive elements. Nevertheless, communication researchers have also advocated for conceptualizing hope as an emotion. For some communication scholars <ref type="bibr" target="#b3">(Chadwick, 2015;</ref><ref type="bibr" target="#b4">Chadwick et al., 2016;</ref><ref type="bibr" target="#b27">Nabi &amp; Keblusek, 2014)</ref>, hope is a discrete emotion rather than a form of thinking. Because our focus was on hope messages, we excluded a measure of hope's emotional features. Testing hope communication in relation to hope is also important because it is possible that more hopeful youth tend to notice hope messages more than less hopeful youth. Lastly, our measure of hope communication is limited by its general assessment of messages that inspire goals, pathways, and agency; we know little about its verbal and nonverbal features or whether hope communication's effect variesby channel.</p><p>Lastly, variations in hope communication and college intentions might exist by nationality. Most of our sample was born in Mexico, which is the largest undocumented nationality in the U.S. <ref type="bibr" target="#b19">(Krogstad, 2016</ref>). Yet, Pew Research Center data indicate that undocumented and documented youth from Mexico have often lived in the U.S. for a longer period of time than undocumented and documented youth from other Latin American countries <ref type="bibr" target="#b21">(Lopez, 2009)</ref>. Latina/o immigrant youth are heterogeneous, and research in the future would benefit from considering whether hope communication and college intentions differ by nationality and other demographic factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding remarks</head><p>Despite its limitations, our study's findings suggest that parents, teachers, and friends should continue to engage in ongoing general hope communication with Latina/o immigrant youth because such communication can increase the college intentions of documented and undocumented Latina/o youth. With the recent rescission of the DACA program, undocumented youth face heightened uncertainty regarding their educational opportunities, potential to obtain a work permit, and their ability to remain in the U.S. In such trying times, it would be easy for parents, teachers, friends, and undocumented youth to lose hope. As one of the first studies to examine the associations between hope communication and college intentions for documented and undocumented Latina/o youth across an academic year, the findings provide support for psychologists (e.g., <ref type="bibr" target="#b23">Marques et al., 2017;</ref><ref type="bibr" target="#b33">Snyder, 2002)</ref> and communication scholars' (e.g., <ref type="bibr" target="#b2">Beck &amp; Socha, 2015;</ref><ref type="bibr" target="#b8">Davis et al., 2013)</ref> contention that hope can lead to positive outcomes. This study indicates that hope communication has the potential to contribute to documented and undocumented Latina/o youth's educational, economic, and social mobility, which can help decrease the many disparities that they currently face in the U.S.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Note</head><p>1. Undocumented immigrants are non-U.S. citizens or non-U.S. nationals who arrive in the U.S.: (a) without authorization or (b) with authorization but remain in the U.S. after no longer having authorization (Internal Revenue Service, 27 August 2017). Currently, most undocumented immigrants come from Mexico, followed by Central American countries, Asian, South American, European and Canada, Caribbean, African, and Middle Eastern, respectively <ref type="bibr" target="#b29">(Passel &amp; Cohn, 2017)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Hypothesized hope communication model. Note: Undocumented status (0 = documented, 1 = undocumented).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>: W1 = Wave 1, W2 = Wave 2, W3 = Wave 3, Parent hope = Parent hope communication, Teacher hope = Teacher hope communication, Friend hope = Friend hope communication, College intent = College intentions. No αs are reported for college intentions as these are one-item measures. Means with differing superscripts are significantly different (p &lt; .05). Means without superscripts are not significantly different. † p &lt; .10, *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Parent hope communication model.Note: For all three models, estimates outside the parentheses are unstandardized, whereas estimates inside the parentheses are standardized. Dashed lines indicate the path was not statistically significant or marginally significant. Covariates were correlated with undocumented status and modeled as predictors of parent hope communication and college intentions; these correlations and paths are omitted from this figure for clarity. Undocumented status (0 = documented, 1 = undocumented). Model fit: χ 2 = 190.565, df = 148, p &lt; .01, CFI = 0.985, IFI = 0.986, TLI = 0.973, RMSEA = .026 (90% CI: .013, .036). † p &lt; .10, *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Teacher hope communication model. Note: Model fit: χ 2 = 158.369, df = 148, p = .265, CFI = 0.995, IFI = 0.991, TLI = 0.991, RMSEA = .013 (90% CI: .000, .027). † p &lt; .10, *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Friend hope communication model. Model fit: χ 2 = 170.26, df = 152, p = .148, CFI = 0.993, IFI = 0.993, TLI = 0.987, RMSEA = .017 (90% CI: .000, .029). † p &lt; .10, *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>Note: W1 = Wave one, W2 = Wave two, W3 = Wave three, Parent hope = Parent hope communication, Teacher hope = Teacher hope communication, Friend hope = Friend hope communication, College intent = College intentions. Indirect estimates are unstandardized. Undocumented status (0 = documented, 1 = undocumented). * indicates statistical significance of indirect effect based on the 95% confidence interval not containing 0.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Descriptive statistics, reliabilities, and correlations for documented (below diagonal) and undocumented (above diagonal) students.</figDesc><table><row><cell></cell><cell>Parent hope</cell><cell>Parent hope</cell><cell>Parent hope</cell><cell>Teacher hope</cell><cell>Teacher hope</cell><cell>Teacher hope</cell><cell>Friend hope</cell><cell>Friend hope</cell><cell>Friend hope</cell><cell>College</cell><cell>College</cell></row><row><cell></cell><cell>W1</cell><cell>W2</cell><cell>W3</cell><cell>W1</cell><cell>W2</cell><cell>W3</cell><cell>W1</cell><cell>W2</cell><cell>W3</cell><cell>intent W2</cell><cell>intent W3</cell></row><row><cell>Parent hope</cell><cell>-</cell><cell>.56***</cell><cell>.54***</cell><cell>.51***</cell><cell>.36***</cell><cell>.44***</cell><cell>.45***</cell><cell>.21***</cell><cell>.29***</cell><cell>.23*</cell><cell>.18  †</cell></row><row><cell>W1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parent hope</cell><cell>.71***</cell><cell>-</cell><cell>.72***</cell><cell>.25**</cell><cell>.54***</cell><cell>.48***</cell><cell>.19*</cell><cell>.40***</cell><cell>.29***</cell><cell>.33***</cell><cell>.23*</cell></row><row><cell>W2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parent hope</cell><cell>.61***</cell><cell>.68***</cell><cell>-</cell><cell>.31***</cell><cell>.45***</cell><cell>.68***</cell><cell>.22*</cell><cell>.28***</cell><cell>.48***</cell><cell>.27**</cell><cell>.22*</cell></row><row><cell>W3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Teacher hope</cell><cell>.54***</cell><cell>.53***</cell><cell>.45***</cell><cell>-</cell><cell>.46***</cell><cell>.48***</cell><cell>.56***</cell><cell>.30***</cell><cell>.27***</cell><cell>.21*</cell><cell>.09</cell></row><row><cell>W1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Teacher hope</cell><cell>.33**</cell><cell>.62***</cell><cell>.47***</cell><cell>.54***</cell><cell>-</cell><cell>.64***</cell><cell>.41***</cell><cell>.54***</cell><cell>.34***</cell><cell>.32***</cell><cell>.23*</cell></row><row><cell>W2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Teacher hope</cell><cell>.31**</cell><cell>.47**</cell><cell>.58***</cell><cell>.48***</cell><cell>.75***</cell><cell>-</cell><cell>.34***</cell><cell>.30***</cell><cell>.55***</cell><cell>.24*</cell><cell>.19*</cell></row><row><cell>W3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Friend hope</cell><cell>.53***</cell><cell>.53***</cell><cell>.44***</cell><cell>.73***</cell><cell>.41***</cell><cell>.38***</cell><cell>-</cell><cell>.61***</cell><cell>.48***</cell><cell>.14</cell><cell>.11</cell></row><row><cell>W1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Friend hope</cell><cell>.38***</cell><cell>.65***</cell><cell>.50***</cell><cell>.50***</cell><cell>.62***</cell><cell>.46***</cell><cell>.58***</cell><cell>-</cell><cell>.57***</cell><cell>.21*</cell><cell>.23*</cell></row><row><cell>W2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Friend hope</cell><cell>.39***</cell><cell>.50***</cell><cell>.61***</cell><cell>.52***</cell><cell>.52***</cell><cell>.65***</cell><cell>.70***</cell><cell>.69***</cell><cell>-</cell><cell>.30**</cell><cell>.19*</cell></row><row><cell>W3 College</cell><cell>.31*</cell><cell>.53***</cell><cell>.38**</cell><cell>.34**</cell><cell>.53***</cell><cell>.33*</cell><cell>.36**</cell><cell>.41***</cell><cell>.25  †</cell><cell>-</cell><cell>.46***</cell></row><row><cell>intent W2 College</cell><cell>.31*</cell><cell>.52***</cell><cell>.34**</cell><cell>.25*</cell><cell>.35**</cell><cell>.29*</cell><cell>.18</cell><cell>.25  †</cell><cell>.12</cell><cell>.61***</cell><cell>-</cell></row><row><cell>intent W3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>M Doc (SD) M Undoc (SD)</cell><cell cols="3">3.92 a (1.08) 3.64 a (1.03) 3.65 a (1.12) 3.61 b (1.12) 3.33 b (1.17) 3.17 b (1.22)</cell><cell>3.29 (1.13) 3.08 (1.08)</cell><cell>2.98 (1.18) 2.95 (1.07)</cell><cell>3.09 a (1.16) 2.81 b (1.15)</cell><cell>3.39 (1.10) 3.19 (1.07)</cell><cell>3.31 a (1.05) 3.05 b (1.07)</cell><cell>3.21 (1.08) 3.03 (1.15)</cell><cell>3.90 a (1.11) 3.48 b (1.21)</cell><cell>4.08 a (1.03) 3.68 b (1.12)</cell></row><row><cell>α Doc /α Undoc</cell><cell>.87/.86</cell><cell>.89/.86</cell><cell>.88/.89</cell><cell>.82/.74</cell><cell>.87/.76</cell><cell>.87/.83</cell><cell>.85/.84</cell><cell>.85/.81</cell><cell>.85/.87</cell><cell>-</cell><cell>-</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Confirmatory factor analysis model fit for hope communication measures within each wave.</figDesc><table><row><cell></cell><cell>χ 2</cell><cell>df</cell><cell>RMSEA (90% CI)</cell><cell>TLI</cell><cell>IFI</cell><cell>CFI</cell><cell>Standardized loadings</cell></row><row><cell>Three latent factors (Wave 1)</cell><cell>17.532</cell><cell>15</cell><cell>.20 (.00, .052)</cell><cell>0.995</cell><cell>0.998</cell><cell>0.998</cell><cell>.673-893</cell></row><row><cell>Three latent factors (Wave 2)</cell><cell>11.285</cell><cell>15</cell><cell>.000 (.00, .034)</cell><cell>1.007</cell><cell>1.002</cell><cell>1.000</cell><cell>.719-.878</cell></row><row><cell>Three latent factors (Wave 3)</cell><cell>7.238</cell><cell>15</cell><cell>.000 (.00, .00)</cell><cell>1.012</cell><cell>1.004</cell><cell>1.000</cell><cell>.765-.897</cell></row></table><note><p>Note: The three models were not statistically significant. The three latent factors specified in each wave were parent, teacher, and friend hope communication (measured with three items each). RMSEA: Root Mean Square Error of Approximation; TLI: Tucker-Lewis Index; IFI: Incremental Fit Index; CFI: Confirmatory Fit Index.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Strong invariance model fit for hope communication measures across time (Waves 1-3). The three models were not statistically significant. ΔCFI weak represents the difference in the CFI values going from the configural to the weak model, where ΔCFI strong represents the difference in the CFI values going from weak to the strong model.</figDesc><table><row><cell></cell><cell>χ 2</cell><cell>df</cell><cell>RMSEA (90% CI)</cell><cell>TLI</cell><cell>IFI</cell><cell>CFI</cell><cell>ΔCFI weak</cell><cell>ΔCFI strong</cell></row><row><cell>Parent hope communication</cell><cell>17.804</cell><cell>23</cell><cell>.00 (.00, .028)</cell><cell>1.01</cell><cell>1.00</cell><cell>1.00</cell><cell>.000</cell><cell>.000</cell></row><row><cell>Teacher hope communication</cell><cell>15.376</cell><cell>23</cell><cell>.00 (.00, .020)</cell><cell>1.01</cell><cell>1.01</cell><cell>1.00</cell><cell>.000</cell><cell>.000</cell></row><row><cell>Friend hope communication</cell><cell>45.044</cell><cell>23</cell><cell>.048 (.026, .068)</cell><cell>0.971</cell><cell>0.985</cell><cell>0.987</cell><cell>.002</cell><cell>.002</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Indirect effects and confidence intervals for mediation effects proposed in H2, H4, and H5.</figDesc><table><row><cell>Relevant</cell><cell>Indirect</cell><cell></cell></row><row><cell>hypothesis</cell><cell>estimate (SE)</cell><cell>95% CI</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. A. KAM AND A. J. MEROLLA</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We would like to thank <rs type="person">Cinthia Chicas</rs>, <rs type="person">Daisy Figueroa</rs>, <rs type="person">Hannah Gunter</rs>, <rs type="person">Lyndsi Ibarra</rs>, <rs type="person">Celine Jeremiah</rs>, <rs type="person">Roselia Mendez Murillo</rs>, <rs type="person">Debora Pérez Torres</rs>, and <rs type="person">Rachyl Pines</rs> who assisted in this study's data collection and data entry. We are also grateful to the school administrators and students who contributed to this study.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This project was supported by two internal grants that were awarded to the first author: the <rs type="institution">University of California, Santa Barbara's Institute for Social, Behavioral</rs> and <rs type="grantName">Economic Research Social Science Research Grant</rs> and the <rs type="funder">Academic Faculty Senate's Pearl Chase Grant</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_G2MTbWM">
+					<orgName type="grant-name">Economic Research Social Science Research Grant</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Jennifer A. Kam (Ph.D., Pennsylvania State University) studies psychological, interpersonal communication, and individual action-oriented processes that contribute to immigrant youth's resilience and thriving, particularly when faced with stressors related to immigration and ethnic identification.</p><p>Andy J. Merolla (Ph.D., The Ohio State University) studies communication in social and personal relationships with emphasis on how people overcome personal and relational challenges through interpersonal communication.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Blocked paths, uncertain futures: The postsecondary education and labor market prospects of undocumented Latino youth</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Abrego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Gonzales</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10824661003635168</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Education for Students Placed at Risk</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="144" to="157" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Education pays 2013: The benefits of higher education for individuals and society</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Payea</surname></persName>
+		</author>
+		<ptr target="http://files.eric.ed.gov/fulltext/ED572537.pdf" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Embracing the insights of &quot;Murphy&quot;: New frontiers of communication, hope, and resilience across the lifespan</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Socha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communicating hope and resilience across the lifespan</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Socha</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Beck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Toward a theory of persuasive hope: Effects of cognitive appraisals, hope appeals, and hope in the context of climate change. Health Communication</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Chadwick</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2014.916777</idno>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="598" to="611" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Communication and stress: Effects of hope evocation and rumination messages on heart rate, anxiety, and emotions after a stressor</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Chadwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Zoccola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Figueroa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rabideau</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2015.1079759</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1447" to="1459" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Evaluating goodness-of-fit indexes for testing measurement invariance</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Rensvold</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15328007SEM0902_5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="233" to="255" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Meeting weight management goals: The role of partner confirmation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Dailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Glowacki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Prenger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Winslow</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2015.1089398</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1482" to="1494" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Communicating hope: An ethnography of a children&apos;s mental health care team</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The social construction of hope through strengths based health communication strategies: A children&apos;s mental health approach</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Piecora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wemberley</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1538192711401917</idno>
+		<ptr target="https://www2.ed.gov/about/overview/focus/supporting-undocumented-youth" />
+	</analytic>
+	<monogr>
+		<title level="m">Positive communication in health and wellness</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Diaz-Strong</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Gómez</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Luna-Duarte</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Meiners</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang. Department of Education</publisher>
+			<date type="published" when="2011">2013. 2015, October 20. 2011</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="107" to="119" />
+		</imprint>
+	</monogr>
+	<note>Purged: Undocumented students, financial aid policies, and access to higher education</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Applied missing data analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Enders</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Guilford</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Thriving through relationships</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Feeney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Collins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.copsyc.2014.11.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="22" to="28" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Personal resources, hope, and achievement among college students: The conservation of resources perspective</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Margalit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10902-014-9508-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Happiness Studies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="543" to="560" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">On the wrong side of the tracks: Understanding the effects of school structure and social capital in the educational pursuits of undocumented immigrant students</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Gonzales</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0161956X.2010.518039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Peabody Journal of Education</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="469" to="485" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">No place to belong: Contextualizing concepts of mental health among undocumented immigrant youth in the United States</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Gonzales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Suárez-Orozco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Dedios-Sanguineti</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002764213487349</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1174" to="1199" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">How do emerging adults respond to exercise advice from parents? A test of advice response theory</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Guntzviller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Ratcliff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Dorsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Osai</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407516662920</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="936" to="960" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">An initial test of a cognitive-emotional theory of esteem support messages</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Holmstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Burleson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650210376191</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="326" to="355" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Immigration terms and definitions involving aliens</title>
+		<ptr target="https://www.irs.gov/individuals/international-taxpayers/immigration-terms-and-definitions-involving-aliens" />
+	</analytic>
+	<monogr>
+		<title level="j">Internal Revenue Service</title>
+		<imprint>
+			<date type="published" when="2017-08-27">2017. August 27</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Fear of deportation in high school: Implications for breaking the circle of silence surrounding migration status</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jefferies</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15348431.2014.887469</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Latinos and Education</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="278" to="295" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Supportive parenting as a moderator of perceived ethnic/racial discrimination&apos;s associations with psychological and academic adjustment: A comparison between Mexican-origin females in early and middle adolescence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Bámaca-Colbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="645" to="668" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">5 factors about Latinos and education</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Krogstad</surname></persName>
+		</author>
+		<ptr target="http://www.pewresearch.org/fact-tank/2016/07/28/5-facts-about-latinos-and-education/" />
+		<imprint>
+			<date type="published" when="2016-07-28">2016, July 28</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Longitudinal structural equation modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Guilford</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Latinos and education: Explaining the attainment gap</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Lopez</surname></persName>
+		</author>
+		<ptr target="http://www.pewhispanic.org/2009/10/07/latinos-and-education-explaining-the-attainment-gap/" />
+		<imprint>
+			<date type="published" when="2009-10-07">2009, October 7</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Supportive communication</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Macgeorge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Burleson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Knapp</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Daly</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="317" to="354" />
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Hope-and academic-related outcomes: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lopez</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12310-017-9212-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">School Mental Health</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="250" to="262" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Memorable messages as sources of hope</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Merolla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463373.2017.1288149</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Relationship-specific hope and constructive conflict management in adult romantic relationships: Testing an accommodation framework</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Merolla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Harman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650215627484</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="339" to="364" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Parental hope communication and parent-adolescent constructive conflict management: A multilevel longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Merolla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kam</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15267431.2017.1385461</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Communication</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="32" to="50" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Inspired by hope, motivated by envy: Comparing the effects of discrete emotions in the process of social comparison to media figures</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keblusek</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2013.878663</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="208" to="234" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">No place like home? Familism and Latino/a-white differences in college pathways</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Ovink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kalogrides</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ssresearch.2014.12.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Research</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="219" to="235" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">As Mexican share declined, U.S. unauthorized immigrant population fell in 2015 below recession level</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Passel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cohn</surname></persName>
+		</author>
+		<ptr target="http://www.pewresearch.org/fact-tank/2017/04/25/as-mexican-share-declined-u-s-unauthorized-immigrant-population-fell-in-2015-below-recession-level/" />
+		<imprint>
+			<date type="published" when="2017-04-25">2017. April 25</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Academic resilience among undocumented Latino students</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Espinoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cortes</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0739986309333020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hispanic Journal of Behavioral Sciences</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="149" to="181" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The meaning of culturally sensitive research in mental health</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Rogler</surname></persName>
+		</author>
+		<idno type="DOI">10.1176/ajp.146.3.296</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="296" to="303" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Networks of passing: Experiences of undocumented Latin American immigrants&apos; identity negotiation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scranton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gangi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1745729.2016.1217913</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Intercultural Communication Research</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Hope theory: Rainbows in the mind</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Snyder</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15327965PLI1304_01</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="249" to="275" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The development and validation of the children&apos;s hope scale</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Pelham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rapoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ware</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Danovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Stahl</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jpepsy/22.3.399</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pediatric Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="399" to="421" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The state of cancer care communication across the lifespan: The role of resilience, hope, and decision-making</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hefner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rogeness</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communicating hope and resilience across the lifespan</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Socha</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Beck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="195" to="218" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Hierarchical relationship development: Parents and children</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stone Fish</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1752-0606.2000.tb00319.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marital and Family Therapy</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="501" to="510" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Growing up in the shadows: The developmental implications of unauthorized status</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Suárez-Orozco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Teranishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Suárez-Orozco</surname></persName>
+		</author>
+		<idno type="DOI">10.17763/haer.81.3.g23x203763783m75</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Educational Review</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="438" to="473" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">RMediation: An R package for mediation analysis confidence intervals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tofighi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13428-011-0076-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="692" to="700" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Consideration of Deferred Action for Childhood Arrivals (DACA)</title>
+		<ptr target="https://www.uscis.gov/archive/consideration-deferred-action-childhood-arrivals-daca" />
+		<imprint>
+			<date type="published" when="2017-10-06">2017, October 6</date>
+			<publisher>S. Citizenship and Immigration Services</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Communication, hope, and resilience: Challenges and promises</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communicating hope and resilience across the lifespan</title>
+		<title level="s">pp. xi-xviii</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Socha</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Beck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">El miedo y el hambre: Understanding the familial, social, and educational realities of undocumented Latino families in North Central Indiana</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Viramontez Anguiano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lopez</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10522158.2012.695324</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Social Work</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="321" to="336" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Effects of sex, culture, and support type on perceptions of spousal social support</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Burleson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2001.tb00792.x</idno>
+	</analytic>
+	<monogr>
+		<title level="m">An assessment of the &quot;support gap&quot; hypothesis in early marriage</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="535" to="566" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

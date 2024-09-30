@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Spouses’ gender-typed attributes and their links with marital quality: A pattern analytic approach</title>
+				<funder ref="#_Cq7wRnF">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_JQThSrf">
+					<orgName type="full">North Carolina Agricultural Research Service Award</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2006-12">2006-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Heather</forename><forename type="middle">M</forename><surname>Helms</surname></persName>
+							<email>heather_helms@uncg.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Christine</forename><forename type="middle">M</forename><surname>Proulx</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mary</forename><forename type="middle">Maguire</forename><surname>Klute</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><forename type="middle">M</forename><surname>Mchale</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ann</forename><forename type="middle">C</forename><surname>Crouter</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of North Carolina at Greensboro</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Colorado Health Sciences Center</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Pennsylvania State University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Human Development and Family Studies</orgName>
+								<address>
+									<addrLine>248 Stone Building</addrLine>
+									<postBox>P.O. Box 26170</postBox>
+									<postCode>27402-6170</postCode>
+									<settlement>Greensboro</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Spouses’ gender-typed attributes and their links with marital quality: A pattern analytic approach</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Social and Personal Relationships</title>
+						<title level="j" type="abbrev">Journal of Social and Personal Relationships</title>
+						<idno type="ISSN">0265-4075</idno>
+						<idno type="eISSN">1460-3608</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">23</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="843" to="864"/>
+							<date type="published" when="2006-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">B42C11C4A92B1F913AE94B5C194263BE</idno>
+					<idno type="DOI">10.1177/0265407506068266</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Using data from interviews with 194 midlife couples, we: (i) identified a typology of couple groups based on spouses' gender-typed attributes; (ii) described couple groups in terms of individual, contextual, and attitudinal characteristics; and (iii) linked couple groups with emotional, cognitive, and behavioral qualities of marriage across 3 years. Four couple types that differed in spouses' instrumental and expressive attributes were identified and replicated via cluster analysis. Gender-typed wives/extreme gender-typed-husband couples</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>reported significantly lower levels of marital quality across the 3 years. Underscoring the importance of a dyadic approach, the research identifies common couple configurations based on spouses' gender-typed attributes, identifies couples with lower marital quality, and offers insights into personal-social attributes that may be protective in marriage.</p><p>KEY WORDS: gender roles • gender typing • marital quality • marriage • personal-social attributes Family scholars commonly study individual differences in spouses' personal-social attributes and their links with marital functioning. Important research investigates the relation between marital quality and spouses' stereotypic masculine (e.g., instrumental) and feminine (e.g., expressive) attributes. Although theorizing in this area focuses on the marital dyad, contemporary studies consider husbands' and wives' attributes separately, rather than dyadically. Separately examining spouses' gender-typed attributes illuminates the associations between spouses' own gender-typed attributes and their own perceptions of marital quality as well as crossover effects wherein husbands' or wives' own attributes are linked with their spouses' perceptions of marital quality. The next step in this research is to align empirical analyses with the dyadic theoretical underpinnings of research on marriage in a way that captures the complex reality of an inherently dyadic enterprise <ref type="bibr" target="#b47">(Thompson &amp; Walker, 1982)</ref>.</p><p>We believe that a more holistic understanding of how spouses' gendertyped personal-social attributes serve as contexts for marriage requires treating the dyad as the unit of analysis. Pattern-analytic approaches to the study of gender-related personal-social attributes have been applied successfully to the study of college students in serious dating relationships but have yet to be extended to married couples <ref type="bibr" target="#b15">(Gaines, 1995)</ref>. Accordingly, our primary motive was to demonstrate how a pattern-analytic approach can enhance understanding of the links between spouses' gender-typed attributes and marital quality with a focus on combinations of both spouses' patterns of instrumental and expressive attributes. Treating the marital dyad as the unit of analysis, we then examine the associations between couples' gender-typed attributes and marital quality. Specifically, we used cluster analysis to create a typology of couples based on husbands' and wives' instrumental and expressive attributes and examined how the patterning of spouses' gender-related attributes was linked to their reports of marital quality and companionship across a 3-year period in midlife.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The role of spouses' gender-typed attributes in marital quality</head><p>Extensive theoretical and empirical literatures describe individual differences in marital quality <ref type="bibr" target="#b26">(Kelly &amp; Conley, 1987)</ref>. Grounded in psychoanalytic and personality models, this body of scholarship suggests that spouses' traitlike personal-social attributes contribute, in part, to marital quality <ref type="bibr" target="#b9">(Bradbury &amp; Karney, 2004)</ref>. The tendency for individuals to marry others who are similar in personality dimensions, such as neuroticism, conscientiousness, and agreeableness is well documented <ref type="bibr" target="#b6">(Blum &amp; Mehrabian, 1999;</ref><ref type="bibr" target="#b7">Botwin, Buss, &amp; Shackalford, 1997)</ref>. In addition, the extent to which spouses are similar in these dimensions of personality has been linked to their reports of marital quality <ref type="bibr" target="#b24">(Karney &amp; Bradbury, 1995;</ref><ref type="bibr" target="#b33">Nemechek &amp; Olson, 1999)</ref>.</p><p>Coinciding with the rise of the feminist movement was a burgeoning interest in dimensions of personality believed to be linked to gender and its social construction <ref type="bibr" target="#b3">(Bem, 1974)</ref>. Prior to this time, masculinity and femininity were viewed as opposite ends on a bipolar continuum of generally desirable psychological characteristics believed to distinguish between the genders. It was assumed that most men would cluster on the masculine extremes, the majority of women would cluster on the feminine extremes, and that individuals who did not cluster on their gender-appropriate pole were likely to have psychological problems <ref type="bibr" target="#b40">(Spence, 1985;</ref><ref type="bibr" target="#b41">Spence &amp; Buckner, 1995)</ref>. Feminist scholars have since (i) challenged and rejected these early assumptions showing that many men and women possess both instrumental and expressive qualities; (ii) reconceptualized gender-related attributes to be independent, multifactorial, both desirable and undesirable, and socially sconstructed; and (iii) renamed key constructs (i.e., instrumental and expressive personal-social attributes) to better reflect conceptual revisions <ref type="bibr" target="#b37">(Ruble &amp; Martin, 1998;</ref><ref type="bibr" target="#b43">Spence, Helmreich, &amp; Stapp, 1974</ref><ref type="bibr" target="#b44">, 1975)</ref>. Extending work on individuals' personal-social attributes to implications for relationship functioning, relationship researchers pioneered the study of the links between marital quality and spouses' instrumental and expressive attributes with several competing perspectives shaping much of the literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Complementarity hypothesis</head><p>In stark contrast to the notion that spousal similarity should give rise to marital harmony is the notion that opposites attract. The idea that men and women are inherently different and best suited for different social roles can be traced back to the early 19th century <ref type="bibr" target="#b11">(Cancian, 1987;</ref><ref type="bibr" target="#b19">Huston &amp; Geis, 1993)</ref> and continues to linger, particularly in the popular press. This notion was first formalized in Winch's theory of complementary needs <ref type="bibr" target="#b49">(Winch, Ktsanes, &amp; Ktsanes, 1954)</ref>. Although the complementary needs theory focused on attraction and did not specifically address marital quality, extensions of the theory have followed. Proponents of a complementarity hypothesis present a traditional view of marriage and posit that marital partners who possess gender-typed and thereby complementary attributes (i.e., instrumental husbands and expressive wives) will experience better marital adjustment. In addition, they argue that optimal marital functioning results when individuals have personal-social attributes that are congruent with stereotypes of their biological sex (i.e., high instrumentality and low expressivity in men and low instrumentality and high expressivity in women; <ref type="bibr" target="#b34">Orlofsky &amp; O'Heron, 1987;</ref><ref type="bibr" target="#b48">Whitley, 1983)</ref>. Others have argued that, rather than viewing gender-typed spouses as opposites, complementary pairs are similar to one another in their gender-typed attributes <ref type="bibr" target="#b32">(Murstein &amp; Williams, 1985)</ref> and thus may be better suited for marriage than other more dissimilar pairs. Empirical findings linking gender-typed personal qualities to marital quality provide a different scenario, however. Evidence from crosssectional studies suggests that gender-typed individuals may be attracted to one another initially but are likely to report poorer relationship quality at later points in their marriages relative to other couple types, such as androgynous pairs <ref type="bibr" target="#b22">(Ickes, 1993)</ref>. Although they are similar in their genderrole orientations in the sense that both partners show gender-typed patterns of personal-social attributes, husbands and wives in complementary pairs are remarkably dissimilar to one another as individuals and this dissimilarity may account, in part, for their relatively poorer relationship quality <ref type="bibr" target="#b0">(Antill, 1983)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Androgyny hypothesis</head><p>In contrast to the complementarity hypothesis, the androgyny hypothesis holds that partners who share high levels of expressivity and instrumentality (i.e., androgynous) will experience greater marital happiness and satisfaction than other couples. Borrowing from research linking social adjustment to an androgynous orientation <ref type="bibr" target="#b27">(Kelly &amp; Worell, 1977;</ref><ref type="bibr" target="#b34">Orlofsky &amp; O'Heron, 1987)</ref>, marital researchers hypothesized that the ideal couple would include androgynous partners. The rationale for this hypothesis is that androgynous spouses have a broader range of social skills and competencies than individuals who score high in only one domain. In support of this view are several cross-sectional studies showing that, for both husbands and wives, androgynous personal-social attributes are associated with selfreports of marital satisfaction <ref type="bibr" target="#b0">(Antill, 1983;</ref><ref type="bibr" target="#b32">Murstein &amp; Williams, 1985;</ref><ref type="bibr" target="#b50">Zammichieli, Gilroy, &amp; Sherman, 1988)</ref>.</p><p>An important caveat to the positive associations between androgynous orientations and marital satisfaction was noted by <ref type="bibr" target="#b0">Antill (1983)</ref>. Although Antill's study was originally designed to test whether marital satisfaction and adjustment were higher for spouses married to androgynous versus gender-typed partners, the patterning of findings suggested that it was expressivity, and not androgyny per se, that was important for marital satisfaction. Antill noted that Males appear to be happiest when paired with androgynous and feminine females (both high-femininity groups) and relatively less happy when paired with masculine and undifferentiated females (both low-femininity groups) . . . females also appear to be happier when paired with androgynous or feminine partners. (p. 149)</p><p>In short, 'androgynous partners were only an asset in terms of <ref type="bibr">[marital]</ref> happiness in that such individuals are by definition high on feminity' (p. 152). Antill's conclusions foreshadow yet another perspective: That a focus on the independent contributions of expressive and instrumental attributes to marital quality may complement grouping approaches (e.g., studies categorizing couples based on <ref type="bibr" target="#b3">Bem's (1974)</ref> classifications) to studying links between marital quality and spouses' gender-typed attributes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instrumental and expressive hypotheses</head><p>Rather than focusing on the combination of high expressivity and high instrumentality (i.e., androgyny), researchers testing instrumental and expressive hypotheses examine the independent contributions of spouses' gender-typed attributes to marital quality. The expressive hypothesis posits that marital satisfaction depends on the extent to which partners' personalsocial attributes include stereotypic feminine qualities (e.g., nurturing, affectionate) that have been described as communal or linking attributes <ref type="bibr" target="#b22">(Ickes, 1993)</ref>. The instrumental hypothesis, in contrast, is supported by studies linking personal-social attributes like independence and leadership to enhanced personal and social adjustment, which suggests that instrumental attributes may be more important for marriage than expressive attributes <ref type="bibr" target="#b4">(Bentler &amp; Newcomb, 1978)</ref>.</p><p>Similar to research testing complementarity and androgyny hypotheses, the bulk of studies addressing the independent contributions of spouses' instrumentality and expressivity to marital quality have been crosssectional, and all have examined husbands' and wives' gender-typed attributes separately. For the most part, these findings uphold <ref type="bibr" target="#b0">Antill's (1983)</ref> conclusion that marital adjustment and satisfaction depend on the degree to which spouses and their partners possess expressive personalsocial attributes <ref type="bibr" target="#b1">(Baucom &amp; Aiken, 1984;</ref><ref type="bibr" target="#b30">Kurdek &amp; Schmitt, 1986)</ref>.</p><p>Results from longitudinal studies, in contrast, are mixed, with some supporting the expressivity hypothesis and others suggesting that instrumentality may be more important (or at least as important) as expressivity for marital quality over time. For example, although instrumental qualities were not examined in these studies, significant relations were not found between expressivity and changes in marital satisfaction for husbands and wives over 1-and 3-year periods <ref type="bibr">(Kurdek, 1991a</ref><ref type="bibr" target="#b29">(Kurdek, , 1991b))</ref>. Furthermore, in two studies of couples married 7 and 10 years, on average, <ref type="bibr">Bradbury, Campbell, and Fincham (1995)</ref> found that it was husbands' instrumentality, not expressivity or the interaction between the two attributes, that predicted wives' satisfaction over a 1-year period. A possible explanation for the lack of direct effects of expressivity on marital quality in these shortterm longitudinal studies is offered in a recent long-term longitudinal study of 168 couples <ref type="bibr" target="#b31">(Miller, Caughlin, &amp; Huston, 2003)</ref>. In this study, spouses' expressivity was linked to both partners' marital satisfaction through their own and their partners' affectionate behavior at three points in time (i.e., 1, 2, and 13 years of marriage) suggesting that the simultaneous consideration of cognitive and behavioral domains of marital quality is important. Research focusing on the independent contributions of instrumentality and expressivity to spouses' own and their partners' marital quality offers new insights regarding the importance of instrumentality. However, these studies mask the potential significance of combinations of instrumental and expressive attributes that men and women bring to marriage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals of the present study</head><p>In the present study, we built on this body of work to examine how the patterning of spouses' instrumental and expressive attributes was linked to their reports of marital quality and companionship across a 3-year period in midlife. We addressed three specific goals in the study. First, we examined the patterning of husbands' and wives' instrumental and expressive attributes via cluster analysis, an exploratory multivariate technique for grouping units (in our case, couples) who exhibit similar profiles across a variety of measures <ref type="bibr" target="#b5">(Blashfield &amp; Aldenderfer, 1988)</ref>. Using this exploratory approach, we combined the individual and grouping approaches of earlier work to explore the possibility that complementarity and androgyny are not necessarily the most common or important couple configurations. After identifying a typology of common couple types, our second goal was to describe the couple groups in terms of individual, contextual, and attitudinal characteristics to determine if any systematic differences existed across the groups. The final goal of the study was to link the profiles of couples' gender-typed attributes with emotional, cognitive, and behavioral qualities of the marriage as reported by both husbands and wives over a 3-year period of time. Here we sought to address how the patterning of spouses' gender-typed attributes represents divergent contexts for marital relationships that are differentially related to husbands' and wives' marital quality. Based on findings demonstrating that personal-social attributes predict levels of marital quality over time but not changes in those levels <ref type="bibr" target="#b2">(Belsky &amp; Hsieh, 1998;</ref><ref type="bibr" target="#b25">Karney &amp; Bradbury, 1997)</ref>, we expected couple profiles to be linked to relatively consistent levels of marital quality across the 3 years of measurement rather than patterns of change in marital quality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>The sample was drawn from the first 3 years of a short-term longitudinal study of family relationships and adolescent development in dual-earner households. The 197 couples participating in Phase 1 (1995-6) of the larger study were recruited via letters sent home to parents of 8th, 9th, and 10th graders in 13 rural and small urban school districts of a northeastern state. The letter to parents described the research effort in general terms and asked parents to return postcards if they were interested in participating. Eligibility criteria included two-parent families, dual-earner employment status for parents, and first-born children in the 8th, 9th, or 10th grade at the onset of the study with a second-born child approximately 1 to 3 years younger. By Phase 3 (1998-9) of the study, 3 families had declined participation. Thus, the current analyses are based on 194 couples. Although it was not possible to calculate the overall participation rate due to school district concerns about confidentiality, the participation rate was 95% for eligible families who expressed an interest in the study. Subsequent comparisons of our sample with U.S. census data on families from the same geographic areas suggested that the couples in our sample were slightly older and better educated than the larger dual-earner population from the same counties.</p><p>Reflecting the demographic characteristics of their communities, these 194 couples were predominantly White (98%) and resided in rural areas (48%), towns (32%) and small cities (20%). Couples were mostly working or middle class, with wives averaging 14.40 (SD = 2.12) years of education and husbands averaging 14.28 years (SD = 2.31). At Phase 1, wives earned an average of $21,121 per year (SD = $14,480), while husbands' earned an average of $41,586 (SD = $31,379). Wives were 39.88 (SD = 3.93) and husbands were 41.84 (SD = 4.25) years of age, on average, and had been married an average of 17.59 years (SD = 3.22). Finally, slightly more than half of the families (57%) had two children, 32% had three children, and the remainder of the families had four or more children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>During each phase of the study, we conducted both home interviews and a series of telephone interviews. Husbands and wives were first visited in their homes for separate face-to-face interviews, during which they answered questions about their personal qualities and family relationships. Seven telephone interviews were conducted during the 2-3 weeks following the home interview (five weeknights and two weekend nights). Each spouse was interviewed four times during the course of seven calls (one weeknight call included both spouses). The telephone interviews focused on spouses' daily activities (e.g., housework, personal care, leisure, child care); an activity list was provided to help respondents remember all of their activities for the day. In addition to reporting on which activities they engaged in, spouses also reported on their companions in the activity and the duration of each activity.</p><p>Demographic information was collected during the Phase 1 home interview. Specifically, husbands and wives reported their ages and birthdates, the number of years of education they had completed, their gross yearly earnings, their work hours (per week), the number of years they had been married, and the size of their family.</p><p>Spouses' gender-typed attitudes were collected in Phase 1 using <ref type="bibr" target="#b42">Spence and Helmreich's (1972)</ref> Attitudes Toward Women Scale. On this 15-item questionnaire husbands and wives were asked to agree or disagree with a variety of statements about women's roles in society (e.g., 'If both husband and wife are working outside the home, they should share equally in routine household chores, such as washing dishes and doing laundry'). Response options ranged from 1 (strongly agree) to 4 (strongly disagree), and high scores indicated more conventional attitudes. Cronbach's alphas for this sample were .70 and .79 for husbands and wives, respectively.</p><p>Spouses' gender-typed qualities were collected in Phase 1 using the Bem Sex Role Inventory <ref type="bibr" target="#b3">(Bem, 1974)</ref>, a measure in which husbands and wives rated how well various personality descriptors described them on a scale ranging from 1 (never to almost never true) to 7 (always or almost always true). Expressive qualities were assessed via 20 items (e.g., warm, sensitive to others, sympathetic) and 20 items tapped instrumental qualities (e.g., self-reliant, aggressive, dominant), with higher scores indicating higher levels of each of these qualities. The median for spouses' expressive scores in this sample was 4.80 on the 7-point scale; the median for instrumental scores was 4.90. Cronbach's alphas for expressivity for this sample were .80 and .84 for husbands and wives, respectively. Cronbach's alphas for husbands' and wives' instrumentality scores were .89 and .87, respectively.</p><p>Emotional, cognitive, and behavioral qualities of the marriage were examined to better capture the complexity of marriage and provide new insights regarding the links between spouses' gender-typed personal qualities and marital quality <ref type="bibr" target="#b8">(Bradbury et al., 1995;</ref><ref type="bibr" target="#b18">Huston, 2000;</ref><ref type="bibr" target="#b23">Johnson, White, Edwards, &amp; Booth, 1986)</ref>. Because a relational context of support, understanding, affection, and companionship has been shown to be particularly important for predicting marital quality in longer-term marriages <ref type="bibr" target="#b21">(Huston &amp; Melz, 2004)</ref>, we specifically chose measures that best assessed important constructs of connection. Spouses' perceptions of marital love (i.e., emotional domain), their evaluations of marital perspective taking (i.e., cognitive domain), and their joint involvement in everyday activities (i.e., behavioral) were assessed. We also included a measure of marital satisfaction that allowed for comparisons with earlier studies that focused exclusively on this construct.</p><p>Marital love was assessed via husbands' and wives' reports on the love subscale of <ref type="bibr" target="#b10">Braiker and Kelley's (1979)</ref> Relationship Questionnaire in each study year. On this 9-item measure, respondents indicated their feelings regarding various dimensions of their marriage on a 9-point scale. An example item is: 'To what extent do you love your partner at this stage?' Anchors on the scale were worded to correspond to individual items and reflect frequency (e.g., 'not at all' or 'very little,' to 'very much') with higher scores indicating greater levels of love. Cronbach's alphas ranged from .87 to .93.</p><p>Perspective taking was measured using a 4-item scale adapted from <ref type="bibr" target="#b45">Stets (1993</ref><ref type="bibr" target="#b46">Stets ( , 1995) )</ref> that assessed respondents' evaluations of their spouses' perspective-taking ability, (e.g., 'He/she understands my feelings quite well'). On the perspective-taking measure, respondents indicated the extent to which the statements described their relationship with their spouse during the past 12 months using a 1 (never) to 5 (very often) scale, with higher scores indicating greater perspective taking. Alpha reliabilities ranged from .77 to .84.</p><p>Couple involvement, a behavioral dimension of marital quality, was assessed at each year of the study in terms of the duration of time (in minutes across 7 days) in which husbands and wives engaged in activities together. Accuracy of the telephone interview reports can be assessed by examining the consistency of husbands' and wives' reports, similar to interrater reliability. As mentioned previously, the telephone interview sequence included one telephone call in which both husbands and wives were interviewed on the same evening. Husbands' and wives' reports of joint activities from this call were correlated at .93, indicating that the measure is highly reliable. The distributions of couple involvement scores were sufficiently skewed to warrant a square root transformation, which was used throughout the analyses.</p><p>Spouses' marital satisfaction was measured using an adaptation of The Aspects of Married Life Questionnaire <ref type="bibr" target="#b20">(Huston, McHale, &amp; Crouter, 1986)</ref>.</p><p>Respondents were asked to rate on a 9-point scale (1 = very dissatisfied; 9 = very satisfied) their satisfaction with 10 domains of married life (e.g., marital communication, family marital decision making). Higher scores indicated higher levels of marital satisfaction. Cronbach's alphas ranged from .86 to .88.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cluster identification, replication, and definition</head><p>The first goal was to use cluster analysis to identify patterns of spouses' gendertyped attributes based on husbands' and wives' instrumental and expressive scores. We chose cluster analysis, rather than an a priori classification procedure, for several reasons. First, it is difficult to combine more than two variables in an a priori fashion. Second, cluster analysis uses spouses' continuous instrumental and expressive scores -grouping couples who exhibit similar profiles on the continuous measures of gender-typed attributes. Furthermore, partner-specific grouping approaches in which spouses are individually classified as one of four possible types (i.e., androgynous, gender-typed, cross gendertyped, or undifferentiated) based on median splits may fail to accurately identify the most meaningful couple configurations.</p><p>We used four clustering variables: Wives' expressivity (M = 5.06, SD = .54), wives' instrumentality (M = 4.56, SD = .74), husbands' expressivity (M = 4.53, SD = .56), and husbands' instrumentality (M = 5.28, SD = .73). As a first step required by cluster analysis, the four variables were standardized to ensure equal variances across each of the clustering variables <ref type="bibr" target="#b14">(Everitt, 1993)</ref>. The amalgamation procedure used was the hierarchical agglomerative cluster approach, a common approach to clustering <ref type="bibr" target="#b5">(Blashfield &amp; Aldenderfer, 1988)</ref>. Cosine, a similarity index that accounts for shape, scatter, and level of the profiles <ref type="bibr" target="#b12">(Cronbach &amp; Gleser, 1953)</ref> was chosen as the similarity measure. This index detects pattern or profile differences across clustering variables to determine group membership. In addition, we used the average linkage method which defines clusters as groups in which each couple has greater mean similarity with all other couples of the same cluster than it does with couples of other clusters <ref type="bibr" target="#b39">(Sneath &amp; Sokal, 1973)</ref>.</p><p>Examination of the agglomeration schedule and dendogram suggested the presence of four clusters. The four cluster groups represented conceptually distinct types of couples based on both partners' gender-typed personal qualities. The raw item means for the clusters are reported in Table <ref type="table">1</ref>. Group 1 (n = 71), undifferentiated couples, was comprised of couples in which both husbands and wives scored below the median on both expressivity and instrumentality. Group 2 couples (n = 49), labeled androgynous couples, were those in which both husbands and wives scored above the median on both expressivity and instrumentality. Both Group 3 (n = 53) and Group 4 (n = 21) consisted of gendertyped couples, with wives who had above the median expressive and below the median instrumental scores married to husbands low on expressivity and high on instrumentality. What distinguished these two groups of gender-typed couples from one another, however, was the degree to which husbands and wives were gender-typed. Group 3, gender-typed wives/extreme gender-typed husbands, were couples in which husbands scored higher on instrumentality and significantly lower on expressivity than the gender-typed husbands in Group 4. In contrast, couples in Group 4 were labeled gender-typed husbands/extreme gender-typed wives because wives scored significantly higher on expressivity and significantly lower on instrumentality than the gender-typed wives in Group 3.  <ref type="figure">--------------------------------------</ref>  Given that we were conducting an exploratory analysis, we would accept only a cluster solution that replicated. Using the same criteria applied in the original analysis to replicate the clusters, we used data from a second sample (n = 203) of slightly younger couples that had similar criteria for participation <ref type="bibr" target="#b17">(Helms-Erikson, 2001)</ref>. Q correlations between the four clusters in the original and replication samples ranged from .87 to .98, indicating a high level of similarity for each group across the two samples. These results offered further evidence that the four clusters represented meaningful couple profiles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE 1</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Means and standard deviations for wives' and husbands' raw scores for clustering variables</head><p>Cluster solutions also can be evaluated on the extent to which cluster variables differ between groups. Therefore, we conducted a 4 (cluster) ϫ 2 (gendertyped attribute) ϫ 2 (spouse) mixed model analysis of variance (ANOVA) on the raw clustering variables with gender-typed attributes and spouse treated as within-groups factors. Because cell sizes were unequal, we examined Type III sums of squares. Significant univariate findings were followed up with Tukey tests. Because cluster analysis is designed to identify homogeneous groups that are maximally different, it was not surprising that the omnibus test for cluster group was significant, F(3, 190) = 50.50, p &lt; .001. In addition, significant spouse ϫ cluster group, F(3, 190) = 5.76, p &lt; .001, d = .60 and gender-typed attribute ϫ cluster group, F(3, 190) = 38.04, p &lt; .001, d = 1.55, interactions were further qualified by a spouse ϫ gender-typed attribute ϫ cluster group interaction, F(3, 190) = 43.95, p &lt; .001, d = 1.66. Follow-up tests clearly indicate that the patterning of spouses' scores differed across the four groups of couples (see Table <ref type="table">1</ref>).</p><p>Group 1: Undifferentiated couples. Of the four clusters, Group 1 couples had the lowest average scores on gender-typed attributes. Wives in Group 1 scored significantly lower on instrumentality than wives in Groups 2 and lower than wives in all other groups for expressivity. Husbands' expressivity scores differed only from those of Group 3 husbands, however, their instrumentality scores were lower than all other groups. The gap between husbands' expressive and instrumental scores, favored expressivity in Group 1, however, in the other three groups instrumental scores were higher than expressive scores. Also worth noting is that Group 1 couples had the smallest within-couple differences in both expressive and instrumental scores among the four clusters groups. This suggests that Group 1 husbands and wives were the most similar to one another in these attributes.</p><p>Group 2: Androgynous couples. Reflecting their label as androgynous, Group 2 couples had the highest overall personal-social attributes domain scores (i.e., averaged across both expressive and instrumental attributes) of the four groups. Although the Group 2 wives' scores were above the median for the total sample for both instrumental and expressive attributes, our analyses showed that their expressive scores were significantly only higher than the undifferentiated wives in Group 1. Group 2 wives, however, did score significantly higher on instrumentality than wives in the other three groups. These androgynous wives were married to husbands whose scores reflected a similar pattern. Group 2 husbands had higher instrumental scores than the other three groups, but their expressive scores were only higher than the extreme gender-typed husbands of Group 3.</p><p>Group 3: Gender-typed wives/extreme gender-typed husbands. Most striking about this group was the within-couple gap in raw expressive scores. This gap suggests that Group 3 couples had the most discrepant expressive scores (favoring wives) of the four groups. In addition, husbands in Group 3 had significantly lower expressive scores compared to husbands in the other three groups and in relation to their own instrumental scores. This pattern resulted in a significantly larger within-person difference (favoring instrumentality) for husbands than was found in the other three groups.</p><p>Group 4: Extreme gender-typed wives/gender-typed husbands. Findings for Group 4 mirrored those for Group 3. Group 4 wives, who had the lowest instrumental scores and a significantly larger within-person gap favoring expressivity than those of the other groups, demonstrated the most gender-typed patterning for wives in the study. Furthermore, Group 4 husbands and wives had the most discrepant instrumental scores (favoring husbands) of the three groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cluster groups, demographics, and personal-social attributes</head><p>To place our typology in context, our second goal was to examine possible individual, demographic, and attitudinal correlates of the groups. A series of ANOVAs was performed, with spouses' education, income, working hours, age, age at marriage, marriage duration, family size, and gender-typed attitudes as the dependent variables, and spouse as a within-groups factor where appropriate. Significant univariate findings were followed up using Tukey tests. Results showed that spouses' education, working hours, age, years married, family size, and gender-typed attitudes did not differ across groups. Although, on average, husbands earned more than their wives, the difference in husbands' and wives' incomes was smaller for undifferentiated couples in Group 1 (M = $9,792, SD = $15,685) than in the other three groups (M = $30,794, SD = $52,124; M = $20,070, SD = $20,686; M = $30,033, SD = $25,607, for Groups 2, 3 and 4, respectively), as documented by a significant spouse ϫ cluster effect, F(3, 190) = 5.20, p &lt; .01, d = .57. In addition, an overall effect for cluster, F(3, 190) = 4.00, p &lt; .01, d = .50, showed that Group 2 (androgynous couples) had higher average yearly incomes (M = $77,123, SD = $59,622) than the other groups of couples (M = $55,143, SD = $19,918; M = $59,868, SD = $23,076; M = $57,667, SD = $22,354 for Groups 1, 3 and 4, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cluster group and spouses' marital quality and companionship over time</head><p>Our third goal was to examine qualities of the marriage, over a 3-year period, for the four couple types. First, we used a series of 4 (cluster) ϫ 2 (spouse) ϫ 3 (time) mixed model ANCOVAs with spouses' reports of marital love, perspective taking, and marital satisfaction as dependent variables. To examine group differences in couple companionship over time, we conducted a 4 (group) ϫ 3 (time) mixed model ANCOVA. To ensure that the substantive results would not simply reflect the group differences in husband-wife income, we treated income as a covariate in all analyses. Significant effects for spouse (e.g., husband-wife differences in marital quality), time, and their interaction are noted, and all significant main effects or interactions involving cluster are reported. To follow up on significant interactions involving the time factor, we examined polynomial trend scores <ref type="bibr" target="#b16">(Girden, 1992;</ref><ref type="bibr" target="#b36">Rovine &amp; von Eye, 1990)</ref>. With three data-collection points, two change patterns are of interest: Linear changes reflect significant differences in marital quality between Years 1 and 3 and quadratic patterns reflect a directional change in slope (i.e., U or inverted U-shaped patterns) over the three points of measurement. Significant findings not involving the time factor were followed up with Tukey tests. Group means and standard deviations are summarized in Tables <ref type="table" target="#tab_0">2</ref> and<ref type="table" target="#tab_2">3</ref>.</p><p>Beyond the variance explained by income, significant group cluster differences appeared across the three points of measurement for marital love, F(3, 182) = 3.09, p &lt; .05, d = .45, perspective taking, F(3, 183) = 2.82, p &lt; .05, d = .43, and couple involvement, F(3, 186) = 2.96, p &lt; .05, d = .44. Similar effects for marital satisfaction reached only trend levels, F(1, 178) = 2.33, p = .08. Tukey analyses revealed a consistent and relatively straightforward scenario: Group 3, gender-typed wives/extreme gender-typed husbands, reported the lowest levels of marital love, perspective taking, and couple involvement across the 3 years of measurement as compared to the couples in Groups 1, 2, and 4, respectively. Group 3 couples reported less marital satisfaction than only the Group 2 androgynous couples.</p><p>Although not germane to our study goals, we found overall significant withinsubject effects for spouse and time for several of the dependent variables. A significant time effect was found for love, F(2, 182) = 19.43, p &lt; .01, d = .92. Significant linear and quadratic change scores indicated that spouses' reports of marital love decreased between Time 1 and 2, but not between Time 2 and 3. For marital satisfaction, a significant spouse ϫ time interaction effect emerged, F(2, 178) = 3.15, p &lt; .05, d = .38. Husbands' marital satisfaction decreased over time, while wives' did not change over time. Finally, a significant within-subjects spouse effect for perspective taking showed that wives felt less understood in their marriages than did their husbands, F(1, 183) = 5.87, p &lt; .05, d = .36.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We examined the links between spouses' gender-typed attributes and marital quality in a new way by performing a cluster analysis on husbands' and wives' instrumental and expressive attributes. The typology resulting from our exploratory, dyadic approach bridges the gap between earlier theoretical work regarding marital types and analytic strategies that capture both spouses' personal-social attributes and marital experiences. When linked with affective, cognitive, and behavioral domains of marital quality over time, a relatively straightforward scenario emerged suggesting that couples in which husbands are particularly gender-typed may be more at risk for lower levels of marital love, perspective taking, and companionship than other couple types.</p><p>Our first research goal focused on whether distinct types of couples could be identified based on husbands' and wives' gender-typed attributes. The cluster analysis identified 37% of couples as undifferentiated, 25% as androgynous, and the remaining 38% as gender typed. Gender-typed couples were further differentiated into gender-typed wives/extreme gender-typed husbands (27% of the total sample) and gender-typed husbands/extreme gender-typed wives (11% of the total sample). Both androgynous and gender-typed couples have been written about extensively and empirically examined in cross-sectional studies of younger   <ref type="figure">----------------------------------------------------</ref> Note. Overall between-subject effects are bolded in the Average-over-time row. a couples. However, less theoretical and empirical attention has been given to undifferentiated types, the largest group to emerge in our analysis <ref type="bibr" target="#b13">(Davidson &amp; Sollie, 1987)</ref>. Although spouses in the undifferentiated couples group averaged instrumental and expressive scores below the sample median, their scores were above the midpoint of the scale. In short, undifferentiated spouses possessed some instrumental and expressive attributes, but to a lesser extent than spouses in the other couple groups. It may be that undifferentiated spouses suppress their expression of samegender attributes (i.e., men suppress instrumentality and women suppress expressivity) in response to social norms indicating that gender typing is undesirable. Perhaps more noteworthy than their relatively lower scores for instrumental and expressive attributes was the finding that husbands and wives in the undifferentiated couples group were more similar to one another in instrumental and expressive attributes than spouses in the other groups. This finding speaks to the importance of a dyadic approach that considers both partners' gender-typed personal qualities simultaneously. Had we not adopted such an approach, the undifferentiated spouses' within-couple similarity would not have emerged, a nuance that becomes important when considering the marital implications of spouses' gendertyped attributes.</p><p>To address our second research goal, we examined the demographic and attitudinal correlates of the four couple types. A significant difference between the clusters was found for income only. Androgynous couples, on average, earned higher incomes and husbands and wives in the undifferentiated couples group earned the most similar incomes when compared to other groups. It may be that income is linked to attributes associated with instrumentality (e.g., independent, assertive, acts as a leader) because these qualities are valued in the workplace, or that success at work leads people to view themselves as possessing instrumental attributes. If so, then androgynous pairs in which both husband and wife score high in instrumentality would be expected to earn more money than undifferentiated or gendertyped couples. The link between instrumentality and income also may help  <ref type="figure">---------------------------</ref> to explain the relatively small income gap for undifferentiated couples. That is, husbands and wives in this group were not only more similar to one another in income but also were more similar to one another in instrumentality than spouses in the other three groups.</p><p>The lack of significant differences between couple groups for gendertyped attitudes is noteworthy and suggests that gender-typed attributes are not a proxy for traditional attitudes. Although scholars emphasizing gender differences have suggested that gender-typed personalities are intertwined with traditional gender-role attitudes, empirical research has failed to support this claim <ref type="bibr" target="#b19">(Huston &amp; Geis, 1993)</ref> and instead supports multifactorial approaches to gender identity theory <ref type="bibr" target="#b41">(Spence &amp; Buckner, 1995)</ref>. Our finding that gender-typed attitudes did not covary with couple type further underscores the multidimensional nature of gender-related personal-social attributes in marriage.</p><p>Our third goal focused on whether and how the couple groups differed in marital qualities over time. Here, the unique contribution of our pattern analytic strategy is most apparent. Our results partially support earlier findings suggesting that gender-typed pairs report lower levels of marital quality than androgynous pairs. In addition, the pattern of findings confirmed our hypothesis that couple types are linked with consistent levels of marital quality over time. Gender-typed wives married to extremely gender-typed husbands reported lower levels of marital love, perspective taking, marital satisfaction, and joint involvement across the 3 years than their androgynous counterparts. However, an additional group of gendertyped couples (gender-typed husbands/extreme gender-typed wives) did not differ from androgynous couples in marital quality, a nuance that would have been lost had we not utilized a pattern analytic approach. Our results support the androgyny hypothesis, but also suggest that similarity in spouses' personal-social attributes (e.g., undifferentiated couples) can be important protective factors for those couples who are not androgynous. In contrast, gender-typed couples with dissimilar expressive scores may be at risk for feeling more disconnected (e.g., less in love, less understood) in their marriage and these lower levels of marital quality may persist over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strengths and limitations of the present study</head><p>Although theorizing regarding the links between husbands' and wives' gender-typed personal attributes and marital quality focuses on the marital dyad, researchers have primarily tested their hypotheses by studying individual partners. A strength of this study is that it aligns empirical analyses with the dyadic theoretical underpinnings of research on marriage and, in so doing, provides a more holistic understanding of how spouses' genderrelated attributes serve as contexts for marriage. In addition, in our use of an exploratory dyadic grouping approach, we extend individual and a priori grouping approaches of earlier work to explore the possibility that complementarity and androgyny are not necessarily the most common or important couple configurations for contemporary married partners in midlife.</p><p>Further, our work adheres to recommendations for research on the role of gender-related attributes in marriage <ref type="bibr" target="#b8">(Bradbury et al., 1995;</ref><ref type="bibr" target="#b31">Miller et al., 2003)</ref>, in that we: (i) measured marital quality over time; (ii) included both members of the marital dyad; (iii) controlled for variables that were likely to covary with personal qualities; and (iv) included multiple measures of marital quality to assess its affective, cognitive, and behavioral domains. In addition, by sampling spouses in midlife we examined these phenomena at a later point in the life course and over longer durations of marriage than has been done previously. In so doing, we built upon arguments suggesting that spouses' gender-typed attributes are important predictors of marital quality, particularly in marriages of longer duration <ref type="bibr" target="#b21">(Huston &amp; Melz, 2004;</ref><ref type="bibr" target="#b31">Miller et al., 2003)</ref>.</p><p>Our findings speak to the existence of a couple type that is likely to fare more poorly than others in companionate dimensions of marital quality, but are limited in that they do not illuminate the process through which spouses' gender-typed qualities are linked to marital quality. Recent research by <ref type="bibr" target="#b31">Miller et al. (2003)</ref> suggests that spouses' gender-related attributes create a context for processes (e.g., displays of affection) that, in some cases, are more strongly linked with marital quality than the attributes themselves. Alternatively, it may be that patterns of marital interaction may lead husbands and wives to view and describe themselves in a genderrelated manner (i.e., as possessing particular gender-related attributes). Longitudinal research focusing on marital processes that potentially mediate the link between these couple types and marital quality using larger and more diverse samples than our own will provide insights about the mechanisms by which the patterning of husbands' and wives' gendertyped attributes either protect or compromise their marital quality or are a product of it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications and directions for future research</head><p>Our data partially support the scholarship of earlier theorists and researchers, but also suggest some revisions. First, what most distinguishes the marital typology found here from earlier works is the presence of two distinctly different types of gender-typed couples: One group with the most discrepant within-couple expressive scores (i.e., gender-typed wives/extreme gender-typed husbands) and another with the most discrepant within-couple instrumental scores (i.e., gender-typed husbands/extreme gender-typed wives) of the four couple groups. The variability in gender-typed attribute patterns for these complementary couples calls into question standard grouping approaches and classifications based solely on median splits, a criticism commonly levied against traditional uses of the BSRI. Had we used standard approaches to grouping couples with the BSRI, the divergent contexts created by the experience of being a gender-typed wife married to an extremely gender-typed husband versus a gender-typed husband married to an extremely gender-typed wife would have been lost. Again, the importance of this distinction is further underscored when considering links with marital quality. In short, our dyadic, pattern-analytic approach enabled us to detect four distinct couple types and forces a reconsideration of earlier works in which couple types were determined by a simple dichotomization of variables for individual partners.</p><p>The pattern of findings linking couple types to marital quality raises an important question with theoretical and empirical implications. That is, why is marital quality relatively lower for the gender-typed wives/extreme gender-typed husbands group? Whereas earlier work addressing androgyny and expressivity hypotheses using partner-specific approaches suggested that husbands' and wives' levels of expressivity were important for marital quality, our pattern analytic approach reveals that it may be the gap or degree of similarity in spouses' personal qualities that is most important for researchers to consider. For example, in addition to being gender typed, what further distinguished Group 3 gender-typed wives/extreme gendertyped husbands from the other couple groups was their large within-couple gap in expressive scores. These couples with gender-typed wives and extremely gender-typed husbands also were the spouses most different from one another in expressivity. Marital quality for these dual-earner couples mirrored the difference in expressivity that existed between husband and wife who scored lower than other couples on dimensions of marital quality that reflected a sense of connection and companionship between spouses (i.e., love, perspective-taking abilities, and joint involvement) across affective, cognitive, and behavioral domains of marriage. It may be for these couples, whose scores already reflected a gender-typed pattern, that the significant gap in expressivity was enough to undermine a delicate complementary balance, making their gender-typed attributes a possible risk rather than a protective factor for more stereotypically feminine dimensions of marital quality. Alternatively, our results may have been different had we measured dimensions of marital quality that focused less on connection and companionship and more on dimensions of stability such as commitment and divorce-proneness. Although reporting lower levels of marital quality than the other couple types, gender-typed wives married to extreme gender-typed husbands were in stable marriages. Future research should consider marital stability as well as quality to better understand the role of similarities and differences in spouses' genderrelated personal-social attributes in marriage.</p><p>The importance for future researchers to focus on the gap in partners' scores rather than spouses' individual scores is further underscored by our findings for undifferentiated couples. As in early studies where undifferentiated orientations were linked to spouses' reports of lower levels of marital satisfaction (e.g., <ref type="bibr" target="#b0">Antill, 1983)</ref>, the undifferentiated husbands and wives scored below the sample median for both expressivity and instrumentality. In addition, undifferentiated wives scored significantly lower on expressivity than wives in the other three groups. Yet, undifferentiated couples reported higher levels of love, perspective taking and companionship than Group 3 gender-typed wives/extreme gender-typed husbands and did not differ in marital quality from Group 2 androgynous or Group 4 gender-typed husbands/extreme gender-typed wives couples. The patterning of undifferentiated spouses' personal-social attributes offers an explanation for the lack of consensus between our findings and those of earlier studies. Husbands and wives in the undifferentiated couples' group were more similar to one another in expressive attributes than spouses in the other groups, and this similarity in attributes may help offset potential negative effects of relatively lower expressivity scores. It follows, then, that it is not absolute levels of expressivity alone or complementarity in gendertyped attributes per se that compromise couples' marital quality, but rather the degree of similarity that exists between spouses in expressivity that may be important to address in future work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Our results suggest that the links between gender-typed attributes and marriage may be more complex than previously proposed. For example, the complementarity hypothesis was first postulated during a time when breadwinner husbands/homemaker wives were prominent and structuralfunctionalist ideas about family relationships were popular <ref type="bibr" target="#b35">(Parsons, 1959)</ref>. In this framework, family role divisions based on sex were viewed as natural and desired, with women carrying out expressive functions and men responsible for instrumental functions. Feminist scholars have a long history of critiquing this portrayal of 'separate spheres' and suggest that adherence to stereotypic notions of gender in marriage is not only problematic for marital quality (particularly for wives) but also is outdated given the changing demographics of American couples and the emphasis on companionate marriages today <ref type="bibr" target="#b38">(Schwartz, 1994)</ref>. It may be that early theorizing and popular ideas about the benefits of gender-typed complementarity in marriage applies to particular types of complementary couples (i.e., those with less discrepant expressive scores), whereas empirical studies using partner-specific or median split approaches capture the reality of gender-typed spouses who are highly divergent in expressivity. The overall pattern of findings in this study, however, underscores the importance of a pattern analytic approach that attends to heterogeneity both between and within couples. Adopting such an approach uncovered two distinct gender-typed couple groups, with one type faring better than the other in marriage. The most common type of gender-typed couple in our sample of spouses in midlife (i.e., gender-typed wives/extreme gendertyped husbands) was more likely than all other couple types to: (i) be less in love, (ii) spend less time with one another, and (iii) have more difficulty understanding one another. This finding is notable given research underscoring the importance of a relational context of support, understanding, affection, and companionship for marital quality in longer-term marriages <ref type="bibr" target="#b21">(Huston &amp; Melz, 2004)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Means with different subscripts differ at p &lt; .05.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 2</head><label>2</label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>- Wives Husbands Couple a Wives Husbands Couple a Wives Husbands Couple a Wives Husbands Couple a</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>71.19</cell><cell>(6.12)</cell><cell>67.83</cell><cell>(8.39)</cell><cell>69.48</cell><cell>(6.89)</cell><cell>69.37</cell><cell>(7.05)</cell><cell>13.64</cell><cell>(2.15)</cell><cell>13.57</cell><cell>(2.21)</cell><cell>13.71</cell><cell>(1.94)</cell><cell>13.64</cell><cell>(1.92)</cell><cell>48.98</cell><cell>(7.69)</cell><cell>46.90</cell><cell>(8.50)</cell><cell>48.12</cell><cell>(7.43)</cell><cell>47.99</cell><cell>(7.78)</cell></row><row><cell></cell><cell>71.36</cell><cell>(6.23)</cell><cell>68.90</cell><cell>(7.19)</cell><cell>69.95</cell><cell>(6.79)</cell><cell>69.91</cell><cell>(5.97)</cell><cell>14.15</cell><cell>(2.35)</cell><cell>14.00</cell><cell>(2.70)</cell><cell>14.10</cell><cell>(2.05)</cell><cell>13.86</cell><cell>(2.24)</cell><cell>50.45</cell><cell>(8.41)</cell><cell>47.90</cell><cell>(8.70)</cell><cell>48.95</cell><cell>(7.46)</cell><cell>48.75</cell><cell>(7.42)</cell></row><row><cell></cell><cell>70.85</cell><cell>(9.43)</cell><cell>66.60</cell><cell>(12.50)</cell><cell>68.55</cell><cell>(11.24)</cell><cell>69.10</cell><cell>(10.68)</cell><cell>13.30</cell><cell>(3.03)</cell><cell>13.40</cell><cell>(2.50)</cell><cell>13.35</cell><cell>(2.80)</cell><cell>13.43</cell><cell>(2.55)</cell><cell>47.40</cell><cell>(9.68)</cell><cell>46.15</cell><cell>(10.55)</cell><cell>47.10</cell><cell>(11.04)</cell><cell>47.25</cell><cell>(9.87)</cell></row><row><cell></cell><cell>67.96</cell><cell>(7.68)</cell><cell>63.53</cell><cell>(10.59)</cell><cell>63.22</cell><cell>(12.08)</cell><cell>65.32</cell><cell>(9.19)</cell><cell>13.15</cell><cell>(1.73)</cell><cell>12.67</cell><cell>(2.14)</cell><cell>12.99</cell><cell>(2.10)</cell><cell>12.94</cell><cell>(1.75)</cell><cell>46.18</cell><cell>(7.42)</cell><cell>44.64</cell><cell>(7.34)</cell><cell>44.53</cell><cell>(8.35)</cell><cell>45.24</cell><cell>(7.22)</cell></row><row><cell></cell><cell>67.05</cell><cell>(9.53)</cell><cell>62.82</cell><cell>(11.51)</cell><cell>62.78</cell><cell>(12.93)</cell><cell>63.80</cell><cell>(10.69)</cell><cell>13.19</cell><cell>(2.31)</cell><cell>12.79</cell><cell>(2.28)</cell><cell>13.06</cell><cell>(2.54)</cell><cell>12.96</cell><cell>(2.05)</cell><cell>47.57</cell><cell>(8.54)</cell><cell>45.64</cell><cell>(8.00)</cell><cell>45.37</cell><cell>(9.89)</cell><cell>46.02</cell><cell>(7.72)</cell></row><row><cell></cell><cell>71.81 69.21</cell><cell>(7.64) (9.56)</cell><cell>68.46 65.29</cell><cell>(8.74) (12.93)</cell><cell>68.50 64.79</cell><cell>(8.26) (13.71)</cell><cell>69.41 66.01</cell><cell>(7.43) (11.06)</cell><cell>14.09 13.28</cell><cell>(2.20) (2.16)</cell><cell>13.93 12.72</cell><cell>(2.11) (2.71)</cell><cell>13.99 13.16</cell><cell>(1.98) (2.51)</cell><cell>14.00 12.92</cell><cell>(1.93) (2.21)</cell><cell>50.48 44.89</cell><cell>(8.06) (9.81)</cell><cell>48.40 43.96</cell><cell>(7.53) (10.41)</cell><cell>47.90 44.04</cell><cell>(7.65) (10.75)</cell><cell>48.78 44.21</cell><cell>(6.82) (9.44)</cell></row><row><cell></cell><cell>71.83</cell><cell>(8.19)</cell><cell>68.52</cell><cell>(10.08)</cell><cell>68.85</cell><cell>(10.14)</cell><cell>69.96</cell><cell>(8.62)</cell><cell>14.59</cell><cell>(2.31)</cell><cell>14.26</cell><cell>(2.20)</cell><cell>14.39</cell><cell>(2.32)</cell><cell>14.48</cell><cell>(2.05)</cell><cell>51.64</cell><cell>(8.32)</cell><cell>49.93</cell><cell>(8.41)</cell><cell>49.64</cell><cell>(8.96)</cell><cell>50.58</cell><cell>(8.10)</cell></row><row><cell></cell><cell>71.52</cell><cell>(9.50)</cell><cell>67.91</cell><cell>(10.58)</cell><cell>67.85</cell><cell>(9.17)</cell><cell>68.60</cell><cell>(9.37)</cell><cell>13.43</cell><cell>(2.67)</cell><cell>13.41</cell><cell>(2.87)</cell><cell>13.48</cell><cell>(2.42)</cell><cell>13.46</cell><cell>(2.42)</cell><cell>49.04</cell><cell>(9.38)</cell><cell>46.60</cell><cell>(10.61)</cell><cell>45.82</cell><cell>(10.14)</cell><cell>46.93</cell><cell>(8.78)</cell></row><row><cell></cell><cell>70.41</cell><cell>(7.55)</cell><cell>67.5</cell><cell>(8.73)</cell><cell>68.10</cell><cell>(8.22)</cell><cell>68.67</cell><cell>(7.46)</cell><cell>14.13</cell><cell>(2.04)</cell><cell>13.88</cell><cell>(2.30)</cell><cell>13.98</cell><cell>(2.12)</cell><cell>14.00</cell><cell>(1.96)</cell><cell>48.09</cell><cell>(8.06)</cell><cell>48.24</cell><cell>(8.09)</cell><cell>48.07</cell><cell>(7.37)</cell><cell>48.13</cell><cell>(7.03)</cell></row><row><cell></cell><cell>71.66</cell><cell>(6.95)</cell><cell>67.96</cell><cell>(10.70)</cell><cell>69.57</cell><cell>(9.14)</cell><cell>69.73</cell><cell>(7.69)</cell><cell>14.59</cell><cell>(2.27)</cell><cell>14.11</cell><cell>(2.61)</cell><cell>14.29</cell><cell>(2.52)</cell><cell>14.33</cell><cell>(2.15)</cell><cell>50.21</cell><cell>(7.51)</cell><cell>49.49</cell><cell>(10.22)</cell><cell>49.46</cell><cell>(8.94)</cell><cell>49.53</cell><cell>(8.39)</cell></row><row><cell></cell><cell>69.16</cell><cell>(10.61)</cell><cell>67.04</cell><cell>(10.68)</cell><cell>66.62</cell><cell>(10.06)</cell><cell>67.44</cell><cell>(9.65)</cell><cell>13.67</cell><cell>(2.70)</cell><cell>13.64</cell><cell>(2.86)</cell><cell>13.67</cell><cell>(2.56)</cell><cell>13.62</cell><cell>(2.48)</cell><cell>45.97</cell><cell>(11.25)</cell><cell>46.99</cell><cell>(9.71)</cell><cell>46.67</cell><cell>(9.24)</cell><cell>46.49</cell><cell>(8.63)</cell></row><row><cell>Love</cell><cell>Time 1</cell><cell></cell><cell>Time 2</cell><cell></cell><cell>Time 3</cell><cell></cell><cell>Average over time</cell><cell>Perspective taking</cell><cell>Time 1</cell><cell></cell><cell>Time 2</cell><cell></cell><cell>Time 3</cell><cell></cell><cell>Average over time</cell><cell>Satisfaction</cell><cell>Time 1</cell><cell></cell><cell>Time 2</cell><cell></cell><cell>Time 3</cell><cell></cell><cell>Average over time</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3 Means and standard deviations for couple involvement</head><label>3</label><figDesc></figDesc><table><row><cell>Group 1</cell><cell>Group 2</cell><cell>Group 3</cell><cell>Group 4</cell></row><row><cell>(n = 71)</cell><cell>(n = 49)</cell><cell>(n = 53)</cell><cell>(n = 21)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Note. Between-subjects effects are bolded in the Average-over-time row.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell></row><row><cell></cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell></row><row><cell>Couple involvement</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>in minutes per week</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time 1</cell><cell cols="8">601.83 (331.78) 633.66 (329.49) 510.54 (330.31) 520.58 (322.31)</cell></row><row><cell>Time 2</cell><cell cols="8">561.87 (311.06) 651.43 (342.52) 448.01 (282.26) 557.48 (333.84)</cell></row><row><cell>Time 3</cell><cell cols="8">533.47 (263.81) 504.76 (260.46) 461.54 (293.88) 562.20 (266.03)</cell></row><row><cell cols="9">Average over time 565.72 (242.92) 596.61 (243.66) 473.37 (245.56) 546.75 (214.76)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Social and Personal Relationships 23(6)   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>in bringing this project to fruition, and <rs type="person">David Demo</rs> for his feedback on the manuscript. The research was supported by Grant <rs type="grantNumber">R01HD29409-01A3</rs> from the <rs type="institution">National Institute for Child Health</rs> and <rs type="person">Human Development</rs> (<rs type="person">Ann C. Crouter</rs> and <rs type="person">Susan M. McHale</rs>, coprincipal investigators), and a <rs type="funder">North Carolina Agricultural Research Service Award</rs>, <rs type="grantNumber">NC05996</rs>, awarded to <rs type="person">Heather M. Helms</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_JQThSrf">
+					<idno type="grant-number">R01HD29409-01A3</idno>
+				</org>
+				<org type="funding" xml:id="_Cq7wRnF">
+					<idno type="grant-number">NC05996</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Copyright of Journal of Social &amp; Personal Relationships is the property of Sage Publications, Ltd. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sex role complementarity versus similarity in married couples</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Antill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="145" to="155" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sex role identity, marital satisfaction, and response to behavioral marital therapy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Baucom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Aiken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="438" to="444" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Patterns of marital change during the early childhood years: Parent personality, coparenting, and division-of-labor correlates</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Belsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Hsieh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="511" to="528" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The measurement of psychological androgyny</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="155" to="162" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Longitudinal study of marital success and failure</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1053" to="1070" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The methods and problems of cluster analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Blashfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Aldenderfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of multivariate experimental psychology</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Nesselroade</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Cattell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="447" to="473" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Personality and temperament correlates of marital satisfaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mehrabian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="93" to="125" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Personality and mate preference: Five factors in mate selection and marital satisfaction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Botwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Buss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Shackalford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="107" to="136" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Longitudinal and behavioral analysis of masculinity and femininity in marriage</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Bradbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Finchman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="328" to="341" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Understanding and altering the longitudinal course of marriage</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Bradbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Karney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="862" to="879" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Conflict in the development of close relationships</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Braiker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kelley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social exchange in developing relationships</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Burgess</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Huston</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="135" to="168" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Love in America: Gender and self-development</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cancian</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Assessing similarity between profiles</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Cronbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gleser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="456" to="473" />
+			<date type="published" when="1953">1953</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Sollie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sex-role orientation and marital adjustment</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="59" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Everitt</surname></persName>
+		</author>
+		<title level="m">Cluster analysis</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Classifying dating couples: Gender as reflected in traits, roles, and resulting behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Gaines</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Basic and Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="75" to="94" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Girden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>SAGE Publications</publisher>
+			<pubPlace>Newbury Park, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Repeated measures</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Marital quality ten years after the transition to parenthood: Implications of the timing of parenthood and the division of housework</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Helms-Erikson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1099" to="1110" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The social ecology of marriage and other intimate unions</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="298" to="319" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">In what ways do gender-related attributes and beliefs affect marriage</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Geis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="87" to="106" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">When the honeymoon&apos;s over: Changes in the marriage</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mchale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Crouter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The emerging field of personal relationships</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Gilmour</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="109" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The case for (promoting) marriage: The devil is in the details</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Melz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="943" to="958" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Traditional gender roles: Do they make, and then break, our relationships?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ickes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="71" to="85" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Dimensions of marital quality: Toward methodological and conceptual refinement</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Booth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Issues</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="31" to="49" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The longitudinal course of marital quality and stability: A review of theory, method, and research</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Karney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Bradbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="3" to="34" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Neuroticism, marital interaction, and the trajectory of marital satisfaction</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Karney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Bradbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1075" to="1092" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Personality and compatibility: A prospective analysis of marital stability and marital satisfaction</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Conley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="27" to="40" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">New formulations of sex roles and androgyny: A critical review</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Worell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1101" to="1115" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Marital stability and changes in marital quality in newlywed couples: A test of the contextual model</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Kurdek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="27" to="48" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Predictors of increases in marital distress in newlywed couples: A 3-year prospective longitudinal study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Kurdek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="627" to="636" />
+			<date type="published" when="1991">1991b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Interaction of sex-role self-concept with relationship quality and relationship beliefs in married, heterosexual, cohabiting, gay, and lesbian couples</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Kurdek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Schmitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="365" to="370" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Trait expressiveness and marital satisfaction: The role of idealization processes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J E</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="978" to="995" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Assortative matching for sex-role and marriage adjustment</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Murstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Five-factor personality similarity and marital adjustment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nemechek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Olson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Behavior and Personality</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="309" to="318" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Stereotypic and nonstereotypic sex role trait and behavioral orientations: Implications for personal adjustment</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Orlofsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>O'heron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1034" to="1042" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The social structure of the family</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Parsons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The family: Its function and destiny</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Anshen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harper and Bros</publisher>
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Computer illustrations of statistical methods in longitudinal research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rovine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Von Eye</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>San Diego, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Gender development</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ruble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of child psychology: Social, emotional and personality development</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Damon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Eisenberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="933" to="1016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Peer marriage: How love between equals really works</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schwartz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Free Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Numerical taxonomy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Sneath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Sokal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Freeman</publisher>
+			<pubPlace>San Francisco, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Gender identity and its implications for the concepts of masculinity and femininity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Spence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nebraska Symposium on Motivation: Psychology and Gender</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Sonderegger</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="59" to="95" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Masculinity and femininity: Defining the undefinable</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Spence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Buckner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gender, power and communication in human relationships</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Cody</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Kalbfleisch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="105" to="138" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The attitudes toward women scale: An objective instrument to measure toward rights and roles of women in contemporary society</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Spence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Helmreich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JSAS: Catalog of Selected Documents in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The Personal Attributes Questionnaire: A measure of sex-role stereotypes and masculinity and femininity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Spence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Helmreich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stapp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JSAS: Catalog of Selected Documents in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="43" to="44" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Ratings of self and peers on sex-role attributes and their relations to self-esteem conceptions of masculinity and femininity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Spence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Helmreich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stapp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="29" to="39" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Control in dating relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Stets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="673" to="685" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Modeling control in relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Stets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="489" to="501" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The dyad as the unit of analysis: Conceptual and methodological issues</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="889" to="900" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Sex role orientation and self-esteem: A critical meta-analytic review</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Whitley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="765" to="778" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The theory of complementary needs in mate selection: An analytic and descriptive study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Winch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ktsanes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ktsanes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="241" to="249" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Relation between sex-role orientation and marital satisfaction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Zammichieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Gilroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Sherman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="747" to="754" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

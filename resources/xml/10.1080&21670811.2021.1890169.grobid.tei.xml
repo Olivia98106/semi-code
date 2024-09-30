@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Linking Media Content and Survey Data in a Dynamic and Digital Media Environment – Mobile Longitudinal Linkage Analysis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2021-03-17">2021-03-17</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Lukas</forename><forename type="middle">P</forename><surname>Otto</surname></persName>
+							<email>l.p.otto@uva.nl</email>
+							<idno type="ORCID">0000-0002-4374-6924</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Amsterdam School of Communication Research (ASCoR)</orgName>
+								<orgName type="institution" key="instit2">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fabian</forename><surname>Thomas</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Communication Psychology and Media Education</orgName>
+								<orgName type="institution">University of Koblenz-Landau</orgName>
+								<address>
+									<settlement>Landau</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Isabella</forename><surname>Glogger</surname></persName>
+							<idno type="ORCID">0000-0002-3371-0485</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Journalism, Media and Communication (JMG)</orgName>
+								<orgName type="institution">University of Gothenburg</orgName>
+								<address>
+									<settlement>Gothenburg</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Claes</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+							<idno type="ORCID">0000-0002-4962-1698</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Amsterdam School of Communication Research (ASCoR)</orgName>
+								<orgName type="institution" key="instit2">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Lukas P. Otto http://orcid</orgName>
+								<address>
+									<postCode>0000-0002-4374-6924</postCode>
+									<settlement>Isabella Glogger</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">http://orcid</orgName>
+								<address>
+									<postCode>0000-0002-3371-0485</postCode>
+									<settlement>Claes H. De Vreese</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Linking Media Content and Survey Data in a Dynamic and Digital Media Environment – Mobile Longitudinal Linkage Analysis</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Digital Journalism</title>
+						<title level="j" type="abbrev">Digital Journalism</title>
+						<idno type="ISSN">2167-0811</idno>
+						<idno type="eISSN">2167-082X</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="200" to="215"/>
+							<date type="published" when="2021-03-17" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">DA047D29A760F3438A9A823A24A29544</idno>
+					<idno type="DOI">10.1080/21670811.2021.1890169</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Experience sampling</term>
+					<term>linkage analysis</term>
+					<term>media effects</term>
+					<term>news consumption</term>
+					<term>mobile data collection</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We introduce a design that is able to face some of the challenges that digital news consumption is posing to traditional media effects methods like linkage analysis. The challenges include (1) memory errors and biases when reporting everyday news media consumption leading to (2) errors when linking mass media outlets to survey data; (3) personalization of media content, as well as (4) short-term dynamic processes. Mobile Intensive Longitudinal Linkage Analysis (MILLA) uses an innovative combination of smartphone data donations to capture media exposure and relevant media content, a mobile experience sampling questionnaire to capture immediate reactions to news, and the content analysis of uploaded news media content to measure media effects. The design is explained by using an example of negativity in the news and its effects on emotional reactions of recipients.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Digitalization is changing our media landscape and the way we select and consume news. However, the methods repertoire of news media effects research was mostly built in an era of mass communication when there were relatively few news outlets, providing homogenous information to a larger audience. Especially linkage analysis, which is considered a "gold standard" in news media effects research, comes with the premise of mass communication since they combine panel surveys and measures of media exposure with content analysis of leading news outlets <ref type="bibr" target="#b5">(De Vreese et al. 2017)</ref>.</p><p>The basic idea of linkage studies is simple, yet powerful: Scholars link media content to attitudes, behaviour, emotions, knowledge, or other outcomes. More specifically, scholars measure (1) exposure to news and (2) the variable of interestbe it an attitude, public opinion, or behaviourin a survey. Thereafter (3), they content analyse (leading) news media outlets and code media characteristics that are assumed to affect the variable of interest; finally (4), they link media content data to those participants that reported news media exposure. As we will show in this article, traditional linkage analysis is deeply connected to the era of mass communication and pose four challenges that could be tackled by a new linkage design -Mobile Intensive Longitudinal Linkage Analysis (MILLA). This special linkage design combines two sources of data: mobile experience sampling (mESM) data and content analysis of the exact media content participants received. The mESM design is used to measure (1) the exact and relevant online and offline media exposure by using smartphone datadonations, i.e. participants upload screenshots, photos, and links of the exact news items they receivedbe it print newspaper articles or online content. (2) Directly after media reception they fill out a short questionnaire (the experience sampling form) to assess the variables of interest. The media items participants uploaded with their smartphones can be (3) content analysed, and the characteristics of that media content can (4) be linked to the mobile questionnaires, similar to the initial idea of the linkage design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenges and Blind Spots of Traditional Linkage Analysis</head><p>We now describe four challenges for the traditional linkage analysis approach. The first three challenges are tightly connected with the digitalization of communication leading to fragmented, hybrid, and personalized media landscape. The fourth challenge rather represents a blind spot of traditional linkage studies: short-term dynamics in news media effects research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 1: Digital Communication and Measures of Media Exposure</head><p>First of all, news sources have increased dramatically in the last decades. Consequentially, measuring media consumption with traditional retrospective selfreports became an increasingly complex task (De Vreese and Neijens 2016). Despite valuable efforts to improve the traditional retrospective measure of media usage, the hybrid media system, the always online and always connected environment of digital news use, and fragmented media have increased biases in reporting how much news a recipient used and which sources were used <ref type="bibr" target="#b19">(Naab, Karnowski, and Schl€ utz 2019;</ref><ref type="bibr">Pew Research Center 2019;</ref><ref type="bibr" target="#b25">Scharkow 2016)</ref>. In a hybrid media system with blurring lines between sources of information and increasing news usage via social media, it has become almost impossible for recipients to distinguish, let alone memorize and report, sources of online information. Reporting news usage accurately is, however, a prerequisite of traditional linkage studies and biases lead to increasing measurement errors <ref type="bibr" target="#b26">(Scharkow and Bachl 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 2: Digital Communication and Content Analyses</head><p>Increasing media sources and fragmented media diets do not only complicate the measurement of news exposure but also the analysis of relevant media content. It has been relatively easy to assess and link media content to large scale surveys when there were only a couple of television news shows and a handful of major newspapers that were setting the agenda <ref type="bibr" target="#b17">(McCombs 2005)</ref>. However, methods and designs need to adapt to a media environment, in which the agenda-setting function of mass media seems to shrink and is heavily dependent on the circumstances, e.g. the salience of an issue or temporal context <ref type="bibr" target="#b9">(Geiß 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 3: Personalized Media Content</head><p>A further challenge to traditional linkage analyses that comes with media digitalization is the personalization of media content <ref type="bibr" target="#b2">(Bol et al. 2018)</ref>. If news agendas and content differ from recipient to recipient it is impossible to conduct traditional linkage studies since they are based on the idea that each news outlet provides more or less the same information to all its users.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 4: Communication Dynamics</head><p>Many linkage studies are not only concerned with snapshots and the contemporaneous relationship of recipients' attitudes, beliefs, or behaviour and news consumption but rather with developments or dynamics of news media effects. However, the traditional designs are (1) bound by the time-lags of largescale panelsusually weeks or monthsand (2) variables that are not directly linked to the media content, i.e. general attitudes, opinions or behaviours. When it comes to short-term dynamics, e.g. the relationship between certain emotions and attention towards political news <ref type="bibr">(Otto et al. 2020)</ref>, traditional linkage studies should not be the method of choice. The same holds true for variables that are directly linked to a specific news itembe it a credibility judgement <ref type="bibr" target="#b22">(Otto, Thomas, and Maier 2018)</ref> or obtained media gratifications <ref type="bibr" target="#b31">(Wang, Tchernev, and Solloway 2012)</ref>. These processes and reactions were, up until now, only assessable via experimental designs that do not account for communication dynamics. MILLA is especially suitable for short-term dynamic processes and fast-lived variables. While this blind spot is not necessarily tied to online communication, digitalization has increased short-term dynamics in communication.</p><p>Challenge 5: Making Sense of Audience Reactions -MILLA and the Audience Turn</p><p>In the last two decades, the audience has gained more attention in journalism, which is described as the "audience turn" in journalism studies. Technical developments and digitalization as described above have facilitated the interaction between journalists and the audience <ref type="bibr" target="#b16">(Loosen and Schmidt 2012)</ref>. On the side of journalism researchers, the audience turn comes with an individual-level, psychological perspective, which is not captured best by more macro-oriented linkage studies, but call for individual level research designs such as experiments, quasi-experiments, or factorial survey designs <ref type="bibr" target="#b21">(Otto and Glogger 2020;</ref><ref type="bibr" target="#b30">Wahl-Jorgensen 2020)</ref>. MILLA is a radical realization of the audience turn since it puts the perceptions and activities of the individual recipient in the focus of researchit takes the audience perspective seriously (see also <ref type="bibr" target="#b13">Lecheler 2020)</ref>.</p><p>Summing up these challenges in a provocative statement, one could say that a linkage analysis was perfectly suitable for the 20th century concept of mass communication, when there was a limited amount of media sources with few leading channels, newspapers, and magazines and media content was the same for a large audience, and dynamic processes developed rather over days, weeks, and months than over short-term. The "end of mass communication" <ref type="bibr">(Chaffee and Metzger 2001, 369)</ref> as well as the focus on journalism studies on the audience make it necessary to update study designs for news media effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beyond Traditional Linkage Studies: Linking Survey and Digital Trace Data</head><p>One could argue that the combination of surveys and digital trace data, i.e. linking online media tracking and traditional questionnaire self-reports is able to overcome some of the challenges presented here. After all, digital trace data are much more objective, does not rely on participants' memory performance and is, thus, not prone to the biases that are presented in Challenge 1 and 2 (see e.g. <ref type="bibr" target="#b27">Stier et al. 2020)</ref>. However, of course, these data are (a) limited to online media and not able to capture the interplay of offline and online communication environments. (b) Digital trace studies are only able to measure immediate reactions to media content if the user actively engages and leaves a digital trace (e.g. liking, commenting, clicking). In a similar vein, the survey data come with similar weaknesses: it is impossible to capture immediate responses as well as variables that are specific to a certain media content (e.g. "How trustworthy is the Tweet you just read?") MILLA provides the opportunity to get more fine-grained reactions to the exact media content that participants just received and, thus, more detailed reactions. Finally, (c) webtracking approaches face the problem of closed, proprietary social media platforms, where the providers block attempts from web-tracking tools to gather data <ref type="bibr" target="#b18">(Menchen-Trevino 2013)</ref>. Since participants in a MILLA design upload screenshots and media content themselves, these data-donations allow the researcher to be independent from data access from social media companies (see also <ref type="bibr" target="#b20">Ohme et al. 2020)</ref>. In sum, MILLA is not only able to face some of the problems that traditional linkage studies have, but also some of the weaknesses of newer, computational approaches. Finally, as we will show later, combining experience sampling and other digital data provide opportunities that go beyond the analysis that will be presented here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mobile Intensive Longitudinal Linkage Analysis</head><p>MILLA is able to face the aforementioned challenges by combining a fine-grained panel designthe mobile experience sampling method (mESM)with a longitudinal and individual content analysis of the exact media items the recipients used and uploaded. The design makes use of three sources of data -(1) mobile experience sampling (mESM) to asses recipients' immediate reactions to news content;(2) data donations, i.e. screenshots, photos or links of the news item the recipient just used; and (3) a content analysis of this media content (see Figure <ref type="figure" target="#fig_0">1</ref>).</p><p>The crucial feature of experience sampling is the idea of measuring a variable insitu, that means, almost in real-time and close to the situation of appearance and multiple times a day, after being alerted by a random or fixed signal or by an event <ref type="bibr" target="#b12">(Kubey, Larson, and Csikszentmihalyi 1996;</ref><ref type="bibr" target="#b19">Naab, Karnowski, and Schl€ utz 2019)</ref>. Using this intensive longitudinal design allows to face the challenges mentioned above: Insitu measurements are close to the reception situation and, thus, diminish memory errors, providing more precise measures of media exposure <ref type="bibr" target="#b10">(Greenberg et al. 2005;</ref><ref type="bibr" target="#b19">Naab, Karnowski, and Schl€ utz 2019)</ref>. The data-donations provide us the exact, relevant, and individual media content, which can be content analysed and linked to the experience sampling questionnaire, similar to a traditional linkage design. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Example: The Dynamic Relationship between News Framing and Emotional States</head><p>To illustrate the procedure for MILLA, we use a traditional question of communication research as an example, namely the relationship between specific content features of political news and emotional reactions. The body of research on the relationship between negativity and emotional reactions is large (e.g. Lecheler, Bos, and Vliegenthart 2015; Uribe and Gunter 2007) and as an example, it allows us to illustrate that MILLA can be a powerful tool in the methods repertoire of communication and journalism scholars.</p><p>We explicate a study conducted in April, 2016. The assumptions are straightforward but perfectly suited to show how media content and reactions to this content can be measured and analysed by means of MILLA. We attempt to investigate whether negative political news, i.e. news that focus on political failures, scandals, and problems affect recipients' immediate emotional reactions. Based on recent research (e.g. <ref type="bibr" target="#b14">Lecheler, Bos, and Vliegenthart 2015)</ref>, we expect that negative tone affect emotional reactions, i.e. anger, fear, and joy (H1). Moreover, we expect dynamics in emotional reactions: Lagged negative news characteristics affect subsequent emotional reactions (H2) <ref type="bibr">(Otto et al. 2020)</ref>. Such fast-lived dynamics could hardly be tested with traditional linkage analyses or traditional experimental approaches.</p><p>Step 1: Capturing Media Exposure and Received Media Content with Data-Donations When conducting a mESM study, one can distinguish time-contingent and signal-contingent designs from event-contingent designs. In time-contingent studies, participants fill out the experience sampling form after a pre-defined interval (e.g. two hours); in signal-dependent designs, participants are alerted randomly on a mobile device to fill out a questionnaire and then get asked about their activities (e.g. media usage) within the last hours. Event-dependent approaches, in contrast, use specific events or situations to trigger the assessment, e.g. every time a participant sees a politician in the media or every time the participant uses a certain app on the Smartphone. This design is recommended for MILLA; after all, participants need to upload the received news item, which is only possible directly after media exposure. Following this approach, participants in this study (N ¼ 96) were asked to upload the media item (by taking a photo or screenshot) and fill the experience sampling form every time they perceived a media item (newspaper articles or articles on the Internet) that contained information about a politician. 1</p><p>Step 2: Capturing Immediate Reactions to Media Exposure with Mobile Experience Sampling</p><p>In the short questionnaires that followed each contact with a political news item, we asked the participants about how they felt while watching or reading the news item. 2  We assessed emotions with a single item asking how angry (M ¼ 2.78, SD ¼ 1.61), fearful (M ¼ 1.93, SD ¼ 1.16), and happy (M ¼ 2.33, SD ¼ 1.29) the participants felt while reading the article. All emotions were measured on a 6-point Likert scale ranging from 1 (did not feel … at all) to 6 (felt very … ). 3  Step 3: Content Analysis of Exact Media Content Since participants uploaded (screen-)shots and links we were able to exactly analyse the media content participants used. 4  For the purpose of this article, we focus on text-based media items (print newspaper and online media) only, leaving 447 media items for our further analyses (see Table <ref type="table" target="#tab_0">1</ref>, Table <ref type="table" target="#tab_0">A1</ref>). 5 For this study, we were especially interested in the negativity of a news item. Following <ref type="bibr" target="#b15">Lengauer, Esser, and Berganza (2012)</ref>, we measured negativity with two items: (1) The level of negative tonality indicated whether the news item gave an overall positive, negative, neutral (no tone), or mixed impression of politics. (2) The individual tonality measured the level of a negative or positive tone towards political actors or organizations. It was coded as predominately negative, for example, when the news item comprised mistrust, accusation of incompetence, or negative traits of an individual actor; as predominately positive when the item contained indicators like compliments, portrayals of merit, or positive traits of an individual actor. We built a mean score for both variables reaching from 0 (minimum) to 2 (maximum) (M ¼ 0.81, SD ¼ 0.69). After four and five training sessions, respectively, the three coders reached high inter-coder agreement (negative tonality: Holsti ¼ .85, individual tonality: Holsti ¼ .86).</p><p>Step 4: Linking mESM Data and Content Analysis</p><p>We restructured the survey data to long format. Therefore, each occasion for each participant is a single case. Similarly, for the long format content analysis dataset, every media item is a single case. We assigned a unique ID to each item in both datasets. Based on the ID, we transferred the media content to the survey data.</p><p>Step 5: Analysing Intensive Longitudinal Data mESM data combined with content analysis data has two important benefits when linking media content to attitudes or behaviours. First, it shows a hierarchical data structure with measurement occasions nested within participants capturing both intraand inter-individual effects and therefore allowing to analyse media effects as within- person processes. Second, mESM data allows to model media effects whenever they appear in a natural reception situation for each individual by taking into account continuous time, whereas data in traditional linkage analysis is usually aggregated to specific occasions like days or weeks (discrete time). In other words, MILLA is not only more detailed, when it comes to the measurement of specific media content, it also provides the opportunity to gather fine-grained data about the time of media reception. This can be of great value for researchers who have assumptions about the specific times of media reception (e.g. before going to bed) or about specific time lags. In order to account for these characteristics, several statistical approaches can be used (e.g. <ref type="bibr" target="#b11">Hamaker et al. 2018</ref>). For our empirical example, we are especially interested in estimating within-person relations. This can be done with multilevel-models centreing the level-1 predictors <ref type="bibr" target="#b4">(Curran and Bauer 2011)</ref>. A multilevel-model to determine the effects of negativity on negative and positive emotions can be written in a combined form as</p><formula xml:id="formula_0">y ti ¼ c 00 þ u 0i þ c 01 ðageÞ þ c 02 gender ð Þþc 03 education ð Þþ c 04 political interest ð Þ þ c 10 emo ðtÀ1Þi ð Þ þ c 20 negativity ðtÞi À Á þ c 30 negativity ðtÀ1Þi À Á þ r ti</formula><p>with y ti representing the emotional reaction to the media item at time t for respondent i, where t refers to the time when individuals fill out a questionnaire. Therefore, the time intervals between occasions might differ between individuals. Coefficients c 10 (autoregressive effect from the emotional reaction on subsequent emotional reactions), c 20 (contemporaneous effect at the same time), and c 30 (cross-lagged effect from negativity on subsequent emotional reactions) represent effects from time-variant level-1 variables. Of course, the researcher is able to control for different time lags or even treat the time lag between measurement occasions as a moderator for media effects. In contrast, the coefficients c 01 , c 02 , c 03 , and c 04 represent effects from timeinvariant level-2 variables that do not change over the course of the study. Coefficient u 0i represents individuals' deviation from the intercept (c 00 ) that represents an average of individuals' mean levels in emotional reactions across time. Thus, the model can be considered as a mixed effects model in which u 0i represents the random coefficient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emotional Reactions to News: Example Results</head><p>The results explicate how to answer substantive questions in news media effects research as well as facing challenges (especially challenge 4) that were mentioned above. There is a small autoregressive effect of fear (c 10 ¼ À0.11, SE ¼ 0.05, p ¼ .041), but neither for other emotional reactions, nor did the emotional reactions in one time point affect emotions at a subsequent time point (see Table <ref type="table" target="#tab_1">2</ref>). We found a contemporaneous effect (c 20 ¼ 0.75, SE ¼ 0.21, p &lt; .001) and a lagged effect (c 30 ¼ 0.61, SE ¼ 0.21, p ¼ .003) of negativity on anger. That means negativity in a specific news item does not only affect the immediate emotional reaction after reading a particular article but also does lead to higher than expected levels of anger at subsequent times. In other words, some of the effects of negativity "carry over" to subsequent news reception occasions. Again, a result that hardly can be found with any other design in communication research.</p><p>The time-invariant level-2 predictors showed no effects with one exception. Participants with higher levels of education showed lower levels of fear (c 03 ¼ À0.61, SE ¼ 0.23, p ¼ .012) supporting earlier notions of citizens with high political efficacy and sophistication being less prone to fear reactions towards political information <ref type="bibr" target="#b29">(Valentino, Gregorowicz, and Groenendyk 2009)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Added Value of MILLA: Tackling the Challenges of Research on Digital News Usage</head><p>In this article and the exemplary study presented above, we show a new way of linking media content data and panel surveys to investigate news media effects. MILLA comprises the idea to use data-donations from participants, i.e. screenshots, photos, as well as links, and to a content analysis of these news items with smartphone surveys. This approach is able to face some of the challenges that communication research in general and linkage studies in particular face when analysing digital news media effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 1 and 2: Measuring Media Exposure and Analyzing Relevant News Content</head><p>The idea of measuring media exposure with mESM is straightforward: if one of the problems of exposure measures are memory errors causing biases in both the amount of time spend on the media and the sources used <ref type="bibr" target="#b25">(Scharkow 2016)</ref>, measuring media usage directly after or closer to the reception should curb this source of error. By donating screenshots, photos, and links, the researcher is able to extract the information about the media sources that is relevant to the research question at hand. Moreover, it is possible to gain access to the exact media content recipients received, and the researcher is able to circumvent barriers of social media companies to access media content.</p><p>Challenge 3: Personalized Media Content MILLA takes into account recipients' individual and possibly personalized news agenda. In traditional linkage analyses, only a sample of news items can be analysed and, thus, there is a gap between analysed news content and the items that recipients really used no matter how tailored and fragmented a news diet might be.</p><p>Challenge 4: Short-Term Dynamics in News Consumption mESM is not only especially suitable to measure media exposure but also to capture immediate reactions to media content. Since the surveys are completed in-situ, i.e. Directly after media exposure, it is possible to measure variables that are very fastlived and/or linked to the specific media content. We showed that negativity does not only affect negative emotions such as anger at the same measurement occasion but also the effect can spill over to the next news reception. To date, it was only possible to measure immediate reactions to news media within experimental settings that, however, do not account for dynamic processes <ref type="bibr" target="#b8">(Feldman et al. 2013</ref>). While our exemplary study was concerned with media effects, MILLA would be also suitable for studies on news selection (see also Figure <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenge 5: Focus on the Audience</head><p>As we show here, MILLA perfectly represents the audience turn in journalism research. It puts the individual recipient and their reactions in the focus. Taking into account the example here, it also contributes to the "emotional turn" in journalism studies (Wahl-Jorgensen 2020). Similar to the audience turn, the focus of attention is on the recipient and obviously on affective processes <ref type="bibr" target="#b13">(Lecheler 2020)</ref>. The recipient in general and fast-lived (affective) processes in particular are the main point of interest for MILLA studies; the design, thus, perfectly represents the audience turn in journalism (research).</p><p>These considerations show that MILLA is able to fill a gap between experimental designs and traditional linkage designs. Experimental designs are able to capture immediate reactions to complex and very specific media content but come with a threat towards external validity due to artificial stimuli, reception environments, and forced exposure. Experiments, furthermore, are not able to assess dynamic processes as described above. Linkage designs, in contrast, can model dynamics and do not come with the disadvantages of an artificial reception situation but are not able to capture immediate reactions, fast-lived variables, and the effects of specific media itemsonly to name a few weaknesses here. Finally, MILLA complements online tracking methods that do not rely on self-report of media usage and might be suitable to measure online media usage as a whole. However, they are, of course, limited to digital communication and come with further constraints and obstacles when trying to assess social media content.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenges and Pitfalls of MILLA</head><p>Of course, the MILLA design also comes with weaknesses. The researcher still relies heavily on self-report, both for the (relevant) media consumption and the variable of interest. While the in-situ measurement of both should decrease biases and memory errors the limitations of self-report and questionnaires still apply in contrast to tracking studies and digital trace data.</p><p>MILLA can be very demanding for participants. Filling out questionnaires, allowing researchers to assess screenshots and photos, as well as understanding and keeping in mind the instructions for the mobile questionnaire put a high demand on participants' time resources, as well as cognitive abilities. Our experiences with asking participants to donate data was very positive, i.e. none of the participants refused to upload screenshots or photos and there are no technical skills necessary to take part in such a study besides filling questionnaires and taking screenshots. The biggest challenge on the side of the participants is staying alerted to potential events and triggers that call for action on their side. Thus, the researcher is highly dependent on the commitment and diligence of the participants. Since we have no control over the reception situation, it is impossible to identify whether participants have completed the procedure for every relevant situationquite on the contrary it is likely that we are only dealing with a sample of potential news reception situations. 6 Against this backdrop, MILLA might be particularly suitable for very specific media content, e.g. participants seeing reading information about a specific politician or news on a certain topic; in that case, the number of potential data donations and relevant media content would decrease and the study is not as demanding for participants. For general news media consumption, the design might not catch all the occasions. However, MILLA should still be more precise than traditional survey studies.</p><p>Research on mESM has identified a few factors that contribute to data quality: The higher participants' commitment to the study, the better the data and the fewer measurement occasions are missed out. Short scales and questionnaires as well as monetary incentives, of course, contribute to high participant motivation <ref type="bibr" target="#b7">(Fahrenberg et al. 2007)</ref>. Of course, depending on the design of the study and topic, there might be privacy issues, e.g. when uploading names and photos of social media usersespecially for individuals that do not take part in the study and do not give consent to the procedure. However, there are innovative ways to delete or prevent from using unnecessary data, e.g. by using automated blurring software.</p><p>Adding to the high demand on participants, the MILLA design could also be resource-intensive. It is almost impossible to draw bigger samples. However, while relying on smaller samples and thus "loosing" between-subject variance, MILLA comes with the advantage of potentially high within-subject variance due to many measurement points, which is crucial for statistical power in intensive longitudinal designs <ref type="bibr" target="#b1">(Bell et al. 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The example and description here can be interpreted as one way of conducting MILLA and combining media content with in-situ measurements. The possibilities to adapt the design are manifold: On the one hand, since media content is already digitalized, it would be worthwhile to combine the experience sampling data with automated content analysis. Scholars might use innovative extensions to the approach by adding GPS or physiological data, e.g. by providing participants with wearables <ref type="bibr" target="#b24">(Pejovic et al. 2016)</ref>. Moreover, combinations with web-tracking and other digital trace data would be valuable. While MILLA provides an immediate reaction to a specific news item, digital trace data could be used to (a) capture participants general media environment and (b) to assess other reactions on online and social media (e.g. clicking a link, liking, commenting etc.). This combination could lead to a very detailed (MILLA), but also comprehensive (digital trace data) picture of participants' media environment.</p><p>In sum, MILLA provides a useful extension of the toolbox of communication researchers who are interested in news media effects. The strengths mentioned above, i.e. the adaption to personalized media, diverse and fragmented media landscape, and a hybrid and dynamic media system, make the method suitable to investigate digital news consumption of individual recipients. While the method and design are certainly not yet common in communication research, we hope that this introduction helps scholars to face some of the challenges that we describe above and to analyse and describe recipients' communication reality in more detail than before. Notes 1. All participants downloaded a smartphone app called MovisensXS version 0.7.4162 (movisens GmbH, Karlsruhe, Germany). Participants got an introduction to the app, and we provided a manual that explained its features. 2. Participants filled these questionnaires on multiple occasions per day for eight consecutive days. All information was immediately uploaded to a server as soon as participants got a connection to the Internet. Participants filled on average M ¼ 8.9 questionnaires (SD ¼ 5.8; min ¼ 2; max ¼ 26). 3. We assessed age (M ¼ 34.72, SD ¼ 14.96), gender (68.5% female), education (53.7% with highest educational degree), and political interest (M ¼ 4.05, SD ¼ 1.03) as control variables.</p><p>Political interest was measured with five items on a 6-point scale (Cronbach's a ¼ .91). 4. When looking at the material, we had to exclude, however, 90 articles due to poor quality of the photos that rendered them impossible to be read. Moreover, sometimes respondents reported the media channel without uploading a picture that made the media items unidentifiable. 5. TV shows are hard to analyze by means of MILLA. This is due to the fact that many if not all news shows contain several shorter clips or stories and it is, of course, not possible to fill a questionnaire after each of these clips. For the purpose of this paper, we, therefore, decided not to take into account news shows. 6. Of course, automatic triggers could circumvent this problem. If the experience sampling procedure is triggered automatically, e.g. every time a participant closes a certain app on the smartphone <ref type="bibr" target="#b0">(Bayer et al. 2018)</ref> this limitation becomes obsolete. However, the applications for these automatic triggers seem to be limited and also highly depending on the technical circumstances of a platform, app, or homepage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Schematic depiction of a longitudinal linkage analysis of three consecutive points of measurement (t). Note. Number of occasions and time intervals between each occasion might differ across individuals depending on when they fill out a questionnaire/receive a media message.</figDesc><graphic coords="6,69.00,52.95,355.18,238.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Number of respondents, occasions, and media items. Up to five measures each day over the course of eight days. Ã N ¼ 905.</figDesc><table><row><cell></cell><cell>Respondents</cell><cell>Occasions</cell><cell>Media items</cell></row><row><cell>Potential Received</cell><cell>96 90</cell><cell>3840 936</cell><cell>3840 619 Ã</cell></row><row><cell>Excluding unidentifiable and poor quality items</cell><cell>81</cell><cell>751</cell><cell>529</cell></row><row><cell>Excluding TV shows</cell><cell>72</cell><cell>528</cell><cell>447</cell></row><row><cell>Excluding less than two measures</cell><cell>55</cell><cell>511</cell><cell>436</cell></row><row><cell>After listwise deletion</cell><cell>54</cell><cell>421</cell><cell>364</cell></row><row><cell>t 1</cell><cell>18</cell><cell>27</cell><cell>24</cell></row><row><cell>t 2</cell><cell>34</cell><cell>59</cell><cell>52</cell></row><row><cell>t 3</cell><cell>35</cell><cell>65</cell><cell>55</cell></row><row><cell>t 4</cell><cell>28</cell><cell>50</cell><cell>48</cell></row><row><cell>t 5</cell><cell>29</cell><cell>60</cell><cell>54</cell></row><row><cell>t 6</cell><cell>22</cell><cell>40</cell><cell>38</cell></row><row><cell>t 7</cell><cell>35</cell><cell>71</cell><cell>64</cell></row><row><cell>t 8</cell><cell>27</cell><cell>49</cell><cell>41</cell></row><row><cell>Note.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Fixed effects on emotional reactions (media effects).</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Model 1: Anger</cell><cell></cell><cell cols="2">Model 2: Fear</cell><cell></cell><cell cols="2">Model 3: Joy</cell><cell></cell></row><row><cell></cell><cell>Coef.</cell><cell>Est.</cell><cell>S.E.</cell><cell></cell><cell>Est.</cell><cell>S.E.</cell><cell></cell><cell>Est.</cell><cell>S.E.</cell><cell></cell></row><row><cell>Level one predictors Intercept Emotion (t-1) Negativity Negativity (t-1)</cell><cell>c 00 c 10 c 20 c 30</cell><cell>2.86 À0.02 0.75 0.62</cell><cell>0.14 0.05 0.21 0.21</cell><cell>ÃÃÃ ÃÃÃ ÃÃ</cell><cell>1.94 À0.11 0.12 0.19</cell><cell>0.11 0.05 0.15 0.15</cell><cell>ÃÃÃ Ã</cell><cell>2.01 À0.05 À0.06 À0.12</cell><cell>0.10 0.05 0.16 0.16</cell><cell>ÃÃÃ</cell></row><row><cell>Level two predictors</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age Female Education Political interest R 2</cell><cell>c 01 c 02 c 03 c 04</cell><cell>À0.00 À0.42 0.15 À0.06 .05/.27</cell><cell>0.01 0.32 0.29 0.16</cell><cell></cell><cell>À0.01 À0.49 À0.61 À0.09 .07/.35</cell><cell>0.01 0.25 0.23 0.13</cell><cell>Ã</cell><cell>0.00 0.21 À0.17 0.06 .02/.24</cell><cell>0.01 0.24 0.22 0.13</cell><cell></cell></row><row><cell cols="11">Note. N ¼ 54, 421 occasions. ÃÃÃ p &lt; .001. ÃÃ p &lt; .01. Ã p &lt; .05. R 2 shows marginal/conditional values. All level-1 predictors are group-mean centred. Level-2 predictors are grand-</cell></row><row><cell>mean centred.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix A -Measurement Occasions </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Facebook in Context(s): Measuring Emotional Responses across Time and Space</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schoenebeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1047" to="1067" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">How Low Can You Go?</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schoeneberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kromrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ferron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methodology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Understanding the Effects of Personalization as a Privacy Calculus: Analyzing Self-Disclosure across Health, News, and Commerce Contexts</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dienlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sax</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kruikemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Boerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Strycharz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Helberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="370" to="388" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The End of Mass Communication?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Metzger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="365" to="379" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Disaggregation of within-Person and between-Person Effects in Longitudinal Models of Change</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Curran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="583" to="619" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boukes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vliegenthart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lelkes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="221" to="244" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Measuring Media Exposure in a Changing Communications Environment</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neijens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="69" to="80" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ambulatory Assessment-Monitoring Behavior in Daily Life Settings</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fahrenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Myrtek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pawlik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Perrez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="206" to="213" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Assessing Selective Exposure in Experiments: The Implications of Different Methodological Choices</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Stroud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bimber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wojcieszak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="172" to="194" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Media&apos;s Conditional Agenda-Setting Power: How Baselines and Spikes of Issue Salience Affect Likelihood and Strength of Agenda-Setting</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Geiß</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650219874968</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="page">009365021987496</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparing Survey and Diary Measures of Internet and Traditional Media Use</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eastin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Skalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lachlan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Reports</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">At the Frontiers of Modeling Intensive Longitudinal Data: Dynamic Structural Equation Models for the Affective Measurements from the COGITO Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Hamaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Asparouhov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schmiedek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Muth En</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Multivariate Behavioral Research</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="820" to="841" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Experience Sampling Method Applications to Communication Research Questions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kubey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Csikszentmihalyi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="120" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Emotional Turn in Journalism Needs to Be about Audience Perceptions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lecheler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="287" to="291" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lecheler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vliegenthart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Mediating Role of Emotions: News Framing Effects on Opinions about Immigration</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="812" to="838" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Negativity in Political News: A Review of Concepts, Operationalizations and Key Findings</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lengauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Esser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Berganza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism: Theory, Practice &amp; Criticism</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="202" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Loosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="867" to="887" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Re-)Discovering the Audience</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A Look at Agenda-Setting: Past, Present and Future</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mccombs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Studies</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="543" to="557" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Collecting Vertical Trace Data: Big Possibilities and Big Challenges for Multi-Method Research</title>
+		<author>
+			<persName><forename type="middle">E</forename><surname>Menchen-Trevino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Policy &amp; Internet</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="328" to="339" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Reporting Mobile Social Media Use: How Survey and Experience Sampling Measures Differ</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Naab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Karnowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schl€ Utz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="126" to="122" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Araujo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Piotrowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2050157920959106</idno>
+		<title level="m">Mobile Data Donations: Assessing Self-Report Accuracy and Sample Biases with the iOS Screen Time Function</title>
+		<imprint>
+			<publisher>Mobile Media &amp; Communication</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Expanding the Methodological Toolbox: Factorial Surveys in Journalism Research</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Glogger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="947" to="965" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Everyday Dynamics of Media Skepticism and Credibility: An Ambulatory Assessment Study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trust in Media and Journalism. Empirical Perspectives on Ethics, Norms, Impacts and Populism in Europe</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Otto</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Ohler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wiesbaden, Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer VS</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="111" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Only One Moment in Time? Investigating the Dynamic Relationship of Emotions and Attention toward Political Information with Mobile Experience Sampling</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ottenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1131" to="1154" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Mobile-Based Experience Sampling for Behaviour Research BT</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pejovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lathia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mascolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Musolesi</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-news-papers-in-the-u-s-as-a-news-source/" />
+	</analytic>
+	<monogr>
+		<title level="m">Emotions and Personality in Personalized Services: Models, Evaluation and Applications</title>
+		<editor>
+			<persName><forename type="first">M</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>De Carolis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>De Gemmis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Odi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Ko Sir</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Basel, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing. Pew Research Center</publisher>
+			<date type="published" when="2016">2016. 2019</date>
+			<biblScope unit="page" from="141" to="161" />
+		</imprint>
+	</monogr>
+	<note>Social Media Outpaces Print Newspapers in the U.S. as a News Source</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Accuracy of Self-Reported Internet Use-A Validation Study Using Client Log Data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">How Measurement Error in Content Analysis and Self-Reported Media Use Leads to Minimal Media Effect Findings in Linkage Analyses: A Simulation Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bachl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="343" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Breuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Siegers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thorson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="503" to="516" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Are Sensational&apos; News Stories More Likely to Trigger Viewers&apos; Emotions than Non-Sensational News Stories?: A Content Analysis of British TV News</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Uribe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gunter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="207" to="228" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Efficacy, Emotions and the Habit of Participation</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Valentino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gregorowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Groenendyk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="307" to="330" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">An Emotional Turn in Journalism Studies?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wahl-Jorgensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="194" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A Dynamic Longitudinal Examination of Social Media Use, Needs, and Gratifications among College Students</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tchernev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Solloway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1829" to="1839" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

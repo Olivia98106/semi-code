@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A longitudinal assessment of trait argumentativeness and verbal aggressiveness between seventh and eighth grades</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2000-01">2000-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Andrew</forename><forename type="middle">S</forename><surname>Rancer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Theodore</forename><forename type="middle">A</forename><surname>Avtgis</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Roberta</forename><forename type="middle">L</forename><surname>Kosberg</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Valerie</forename><forename type="middle">Goff</forename><surname>Whitecap</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Kent State University</orgName>
+								<address>
+									<postCode>1979</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">School of Communication</orgName>
+								<orgName type="institution">University of Akron</orgName>
+								<address>
+									<settlement>Akron</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Kent State University</orgName>
+								<address>
+									<postCode>1999</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Speech and Theatre</orgName>
+								<orgName type="institution">Saint John&apos;s University</orgName>
+								<address>
+									<postCode>11439</postCode>
+									<settlement>Jamaica</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">The Pennsylvania State University</orgName>
+								<address>
+									<postCode>1982</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">Curry College</orgName>
+								<address>
+									<postCode>02186</postCode>
+									<settlement>Milton</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<postCode>1990</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">Fort Couch Middle School</orgName>
+								<address>
+									<postCode>15241-2009</postCode>
+									<settlement>Upper St. Clair</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A longitudinal assessment of trait argumentativeness and verbal aggressiveness between seventh and eighth grades</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Communication Education</title>
+						<title level="j" type="abbrev">Communication Education</title>
+						<idno type="ISSN">0363-4523</idno>
+						<idno type="eISSN">1479-5795</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">49</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="114" to="119"/>
+							<date type="published" when="2000-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A3959FEE860DD51FFDA97EAA5DBCDCF9</idno>
+					<idno type="DOI">10.1080/03634520009379197</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>argumentativeness</term>
+					<term>verbal aggressiveness</term>
+					<term>trait development</term>
+					<term>adolescents</term>
+					<term>training</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study reports on a longitudinal assessment of adolescent students levels of aggressive communication traits. Two hundred thirty-eight eighth grade students who completed a one-week training program "Arguing Constructively" were assessed approximately one year later on argumentativeness and verbal aggressiveness. Results revealed no significant differences between measures of ARGgt taken immediately after the training and one obtained seven months to one year later. However, students' levels of verbal aggressiveness were significantly higher seven months to one year later than immediately following post training. Implications of these findings, and suggestions for modifying the training program are offered.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>argue (e.g., <ref type="bibr" target="#b0">Anderson, Schultz, &amp; Courtney-Staley, 1987;</ref><ref type="bibr" target="#b5">Infante, 1988;</ref><ref type="bibr" target="#b13">Wilson &amp; Arnold, 1983)</ref>. Until recently, the focus of these efforts was directed at an adult population. In an effort to extend the generalizability of these findings, <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> tested whether one of these methods, Infante's Inventional System, could be modified and employed to train adolescents to enhance their motivation to argue and actual argumentative behavior. The study sought to investigate whether a modified version of the Inventional System could be used to influence motivation to argue (argumentativeness), verbal aggressiveness, and actual argumentative behavior of the adolescents.</p><p>Two hundred thirty-eight seventh grade students at a middle school in a Pittsburgh, Pennsylvania suburb were presented with a seven-day program of instruction on "Arguing Constructively." A major portion of the training program consisted of a modified version of the Inventional System <ref type="bibr" target="#b5">(Infante, 1988)</ref> adapted for an adolescent population <ref type="bibr" target="#b10">(Rancer et al., 1997)</ref>.</p><p>Before and after the training, a survey was administered to all participants consisting of modified versions of both the Argumentativeness and Verbal Aggressiveness scales. <ref type="bibr" target="#b12">Roberto and Finucane (1997)</ref> have produced adaptations of both scales for use with adolescent populations. In addition, a pre-and post-training measure of argumentative behavior was also obtained (see <ref type="bibr" target="#b10">Rancer et al., 1997)</ref>.</p><p>The results revealed that after training, students significantly increased their general tendency to argue (ARGgt), and were able to generate a significantly greater number of arguments during an argumentative discussion. Surprisingly, after the training the researchers also observed a significant increase in self-reported levels of verbal aggressiveness. While the training in argument did not reduce levels of verbal aggressiveness, the results do seem to suggest that even after only one week, the training program appears to have enhanced students' general tendency to argue as well as their actual argumentative behavior.</p><p>The <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> study represented a "snapshot" in time regarding adolescent levels of both aggressive communication traits. What has not been studied, hence the aim of this research effort, is the longitudinal assessment of the training on levels of both aggressive communication traits. Thus, the study reported in this paper attempts to determine students' trait argumentativeness and verbal aggressiveness almost one year post training. More specifically, this study offers the following research questions: RQ1: Will levels of trait argumentativeness change approximately one year after training? RQ2: Will levels of verbal aggressiveness change approximately one year after training?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants</head><p>Participants (N = 238) were the same students at the middle school from a suburb near Pittsburgh, Pennsylvania who participated in the <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> training program "Arguing Constructively" approximately one year prior. Every effort was made to test as many of the original participants as possible controlling for unforeseen events (e.g., inability to test students who have left the school, etc.).</p><p>The participants reported in this study were in the eighth grade at the middle school during the time of this data-gathering effort. Sex of the participants was approximately equal with 107 females and 94 males participating in this phase of the study (37 participants did not indicate sex). The students were between 12 and 14 years old at the time of this final phase of data gathering. There were 5 twelve-yearolds (2.1%), 148 thirteen-year-olds (62.2%), and 60 fourteen-year-olds (25.2%); 25 participants did not indicate age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instruments and Procedures</head><p>During the first week of the school year (approximately seven months to one year after the initial post-training assessment), a survey was administered to the students by the school's guidance counselors. This survey was identical to the previous one which consisted of modified versions of the Argumentativeness <ref type="bibr" target="#b7">(Infante &amp; Rancer, 1982)</ref> and Verbal Aggressiveness Scales <ref type="bibr" target="#b9">(Infante &amp; Wigley, 1986)</ref>. <ref type="bibr" target="#b12">Roberto and Finucane (1997)</ref> produced adaptations of both scales for use with adolescent populations. Demographic questions (current age, sex) were also included at the end of the survey.</p><p>Roberto and Finucane's Adolescent Argumentativeness Scale (ADARG) (1997) was employed to measure trait argumentativeness. The scale consists of 14 items adapted from the original instrument designed to measure tendency to approach arguments (ARGap), tendency to avoid arguments (ARGav), and general tendency to be argumentative (ARGgt). Roberto and Finucane reported satisfactory face, concurrent, convergent, and discriminant validity for the ADARG. In this current effort Cronbach's coefficient alpha of .79 for ARGap and .72 for ARGav were observed for the argumentativeness approach and avoidance dimensions.</p><p>The Adolescent Verbal Aggressiveness Scale (ADVA) <ref type="bibr" target="#b12">(Roberto &amp; Finucane, 1997)</ref> was used to measure the students' level of trait verbal aggressiveness. The scale, like the original, is a unidimensional measure of the trait. Roberto and Finucane reported satisfactory face, concurrent, convergent, and discriminant validity for the ADVA. In this study a Cronbach's coefficient alpha of .86 was observed for the scale.</p><p>The intention was to examine argumentativeness and verbal aggressiveness longitudinally over a period of one year. However, due to administrative constraints we were unable to secure permission to examine another control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tests of the Research Questions</head><p>Dependent t-tests were conducted to assess any changes in trait argumentativeness and verbal aggressiveness among the students during this period since the last measurement of both traits. Research Question 1 asked if levels of trait argumentativeness (ARGgt) changed seven months to one-year after the previous post-training measurement. The results revealed that there were no significant differences between the measures of ARGgt obtained immediately after the training and the measure of ARGgt obtained for this study approximately seven months to one-year later [t(l, 200) = -0.23, p &gt; .05]. Thus, students' levels of trait argumentativeness did not significantly change during this period. Table <ref type="table" target="#tab_0">1</ref> reports the means and standard deviations for this analysis.</p><p>Research Question 2 asked if levels of trait verbal aggressiveness changed seven months to one-year after the previous post-training measurement. The results of the dependent t-test revealed that there was a significant difference between these two measures [t{l, 198) = -4.31, p&lt;.001}. That is, students' levels of trait verbal Note. The higher the mean, the greater the argumentativeness and verbal aggressiveness.</p><p>aggressiveness was significantly higher approximately seven months to one year later than it was after the immediate post-training measurement. Table <ref type="table" target="#tab_0">1</ref> reports the means and standard deviations for this analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We are clearly encouraged by the finding that in general, students' levels of trait argumentativeness did not change significantly from the levels observed seven months to one year earlier. Recall that in the earlier study <ref type="bibr" target="#b10">(Rancer et al., 1997)</ref>, students' levels of trait argumentativeness increased significantly after training. The finding that levels of ARGgt remain virtually unchanged after such a protracted period of time for young adolescents is encouraging.</p><p>It must be kept in mind that these data were gathered without a control group. Therefore, we were unable to assess the effects of maturation on the participants. Research indicates that as adolescents mature, they develop the ability to adapt communication skills to persuasive contexts <ref type="bibr" target="#b2">(Clark &amp; Delia, 1977;</ref><ref type="bibr" target="#b3">Delia, Kline, &amp; Burleson, 1979)</ref>. People do not always adapt in prosocial or appropriate ways. Sometimes individuals adapt in more destructive, albeit influential ways. Thus, adolescents who are frequently the recipients of verbally aggressive messages might adapt by becoming more prone to utilize verbal aggressiveness themselves. This type of adaptation, although not considered constructive, nevertheless may be a very potent persuasive reaction. Further, <ref type="bibr" target="#b1">Beatty, Zelley, Dobos, and Rudd (1994)</ref> found that as adolescent men mature, their fathers' use of verbal aggressiveness influence sons' development. Because of the very powerful effect of social-learning, which has been identified by <ref type="bibr" target="#b5">Infante (1988)</ref> as a major cause of verbal aggressiveness, participants in this study may be yielding to this very powerful influence on the development of this trait. Further research exploring trait verbal aggressiveness may want to more carefully account for this influence. Although we did not control for maturation in the study, we have learned something from the study regarding long term consequences of the training as well as the long term assessment techniques of argumentativeness and verbal aggressiveness.</p><p>The results of study with regard to the significant increase in adolescents' levels of trait verbal aggressiveness are cause for concern. As with the earlier study, the 7-12 month mean score on verbal aggressiveness was in the moderate range. However, the finding regarding the continued increase in verbal aggressiveness does point to some important issues that future training efforts in aggressive communication should address.</p><p>Recall that in the previous study <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> also observed a significant increasein self-reported levels of verbal aggressiveness immediately after the training.</p><p>While the pre-and post-test means for verbal aggressiveness were also in the moderate range, results indicated that self-reported levels of trait verbal aggressiveness increased after the training. <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> offered several speculations for this unexpected finding. First, perhaps mere exposure to the construct of verbal aggression stimulated the adolescents to reflect more on this construct after the training. Thus, in the post-training assessment, adolescents may have become somewhat more aware of their tendency toward verbally aggressive behavior. Another possibility is that adolescents have a difficult time distinguishing between an attack on a position (argumentativeness) and an attack on self-concept (verbal aggressiveness). Some recent research <ref type="bibr" target="#b11">(Roberto, 1996;</ref><ref type="bibr" target="#b12">Roberto &amp; Finucane, 1997)</ref> suggests that argumentativeness and verbal aggressiveness are strongly and positively correlated in adolescent populations. Indeed, <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> observed a moderately positive correlation (r = .29, p &lt; .01) between participants' post-training self-reports of argumentativeness and verbal aggressiveness. In this current effort, the correlation obtained between ARGgt and verbal aggressiveness was even stronger (r = .38, p &lt; .01). This may be the result of the two traits being correlated among adolescents. The students' levels of argumentativeness may be helping to increase their levels of verbal aggressiveness as well. Future training programs should more strongly disassociate the two traits for adolescents early in the training, and to reinforce the differences several times throughout the program.</p><p>Sanctions against the use of verbal aggression have so eased in our culture, it is no longer seen as a destructive form of communication. The ubiquity of verbal aggression is evident in the mass media. Television programs such as "The Jerry Springer Show" are often watched by adolescents left unattended after school. Radio programs such as "The Howard Stern Show" are heard nationally and are often ranked in the top program positions during morning drive time. Rock, rap, and hip-hop music blare from students' portable radios and CD players replete with profanity, ridicule, and maledictions. Character and competence attacks are commonplace in political communication messages seen on the nightly news and on political communication advertising. Thus, adolescents may believe that verbal aggressiveness is sanctioned in our culture.</p><p>One of the most plausible speculations for the increase in verbal aggressiveness relates to the content of the training program that was employed in the <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> study. The content of the training program the students participated in briefly introduces the distinction between the two traits, but does not detail the types of verbal aggression, the causes of verbal aggression, and the dysfunctional consequences of this form of aggressive communication. Much of the content of the training centers around the use of the "Inventional System" <ref type="bibr" target="#b5">(Infante, 1988)</ref>. Clearly, more time and attention is needed for students to internalize the harmful outcomes associated with verbal aggression. Whatever the reasons for the observed increase in self-reported verbal aggressiveness, current efforts are being designed to add additional modules to the training program to help students control verbal aggression (see <ref type="bibr" target="#b6">Infante, 1995)</ref>.</p><p>The results of this study suggest that we must revisit the curriculum of the <ref type="bibr" target="#b10">Rancer et al. (1997)</ref> training program to vastly expand its content regarding the positive aspects of argumentativeness and negative outcomes of verbal aggressiveness. Additional distinctions regarding the two aggressive communication traits must be stressed. Content on argumentation in interpersonal communication in addition to inventing arguments using the "Inventional System" must be included. <ref type="bibr" target="#b5">Infante's (1988)</ref> text, Arguing Constructively, contains several additional topic areas which could be incorporated including: "stating the nature of the controversy in propositional form," "presenting and defending your position," "attacking other positions," and "managing interpersonal relationships while arguing" should be modified and including in future training efforts. This type of longitudinal assessment regarding adolescents' predispositions and use of argumentative and verbally aggressive communication should continue after modifications, additions, and enhancements to the existing curriculum are made.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 MEANS</head><label>1</label><figDesc>AND STANDARD DEVIATIONS FOR IMMEDIATE POST-TRAINING AND SEVEN-MONTH TO ONE-YEAR POST TRAINING ASSESSMENT OF ARGUMENTATIVENESS AND VERBAL AGGRESSIVENESS</figDesc><table><row><cell></cell><cell cols="2">Immediate Post-Training</cell><cell></cell><cell>7-Month-1</cell><cell cols="2">Year Post-Training</cell></row><row><cell>Variable</cell><cell>m</cell><cell>sd</cell><cell>n</cell><cell>m</cell><cell>sd</cell><cell>n</cell></row><row><cell>ARGap</cell><cell>29.45</cell><cell>7.54</cell><cell>205</cell><cell>29.88</cell><cell>7.28</cell><cell>205</cell></row><row><cell>ARGav</cell><cell>25.99</cell><cell>6.48</cell><cell>208</cell><cell>26.28</cell><cell>6.47</cell><cell>208</cell></row><row><cell>ARGgt</cell><cell>3.35</cell><cell>12.12</cell><cell>201</cell><cell>3.53</cell><cell>11.42</cell><cell>201</cell></row><row><cell>Verbal Aggressiveness</cell><cell>50.11</cell><cell>13.39</cell><cell>199</cell><cell>54.19</cell><cell>13.69</cell><cell>199</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Training in argumentativeness: New hope for nonassertive women</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Courtney</forename><surname>Staley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies in Communication</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="58" to="66" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Fathers&apos; trait verbal aggressiveness and argumentativeness as predictors of adult sons&apos; perceptions of fathers&apos; sarcasm, criticism, and verbal aggressiveness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Beatty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Zelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dobos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Rudd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="407" to="415" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cognitive complexity, social perspective-taking, and functional persuasive skills in second-to-ninth-grade children</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Delia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="128" to="134" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The development of persuasive communication strategies in kindergartners through twelfth-graders</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Delia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Burleson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="241" to="256" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Aggressiveness</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Personality and interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mccroskey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Daly</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Newbury Park, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page" from="157" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Arguing constructively</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Waveland Press</publisher>
+			<pubPlace>Prospect Heights, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Teaching students to understand and control verbal aggression</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Education</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="51" to="63" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A conceptualization and measure of argumentativeness</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rancer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality Assessment</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="72" to="80" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Argumentativeness and verbal aggressiveness: A review of recent theory and research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rancer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook 19</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Burleson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="319" to="351" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Verbal aggressiveness: An interpersonal model and measure</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Testing the efficacy of a communication training program to increase argumentativeness and argumentative behavior in adolescents</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rancer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Whitecap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Kosberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Avtgis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Education</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="273" to="286" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Applying the argumentative skill deficiency model of interpersonal violence to adolescent boys</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Roberto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paper presented at the annual meeting of the Speech Communication Association</title>
+		<meeting><address><addrLine>San Diego, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996-11">1996, November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The assessment of argumentativeness and verbal aggressiveness in adolescent populations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Roberto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Finucane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="21" to="36" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Public speaking as a liberal art</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Arnold</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Allyn &amp; Bacon</publisher>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

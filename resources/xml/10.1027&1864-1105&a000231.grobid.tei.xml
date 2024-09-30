@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Predicting Cyberbullying Behavior From Attitudes A 3-Year Longitudinal Cross-Lagged Analysis of Singaporean Youth</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2017-10-18">October 18, 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Christopher</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+							<email>cbarlett@gettysburg.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Gettysburg College</orgName>
+								<address>
+									<settlement>Gettysburg</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Iowa State University</orgName>
+								<address>
+									<settlement>Ames</settlement>
+									<region>IA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Dongdong</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Ministry of Social and Family Development</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Angeline</forename><surname>Khoo</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">National Institute of Education</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Psychology Gettysburg College Pittsburgh</orgName>
+								<address>
+									<postCode>17325</postCode>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Predicting Cyberbullying Behavior From Attitudes A 3-Year Longitudinal Cross-Lagged Analysis of Singaporean Youth</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-10-18">October 18, 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F07E3E53F322F28CA15CB2EA8F85DDF3</idno>
+					<idno type="DOI">10.1027/1864-1105/a000231</idno>
+					<note type="submission">Received August 3, 2016 Revision received April 24, 2017 Accepted May 2, 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:33+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>cyberbully, cyberbullying attitudes</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There is a paucity of research testing (a) the longitudinal stability in positive cyberbullying attitudes, (b) whether any change in positive cyberbullying attitudes over time predict subsequent cyberbullying perpetration, and (c) the cross-lagged relations between positive attitudes toward cyberbullying attitudes and behavior over time. The current study focused on empirically testing these theoretical gaps and sampled over 3,000 Singaporean youth participants (at Wave 1) who completed measures of cyberbullying behavior and positive attitudes consecutively for 3 years. Correlations and path analyses showed modest stability in positive cyberbullying attitudes and perpetration over time. Also, latent class analysis classified participants into either stable high attitudes, stable low attitudes, increasing attitudes, or decreasing attitudes. Results using this classification showed that changes in positive cyberbullying attitudes across Waves 1 and 2 predicted Wave 3 cyberbullying, such that those who endorsed cyberbullying attitudes were more likely to cyberbully than those who did not advocate such attitudes. Finally, path analysis results showed significant longitudinal cross-lags between positive attitudes toward cyberbullying and behaviors.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Cyberbullying, defined as, "any behavior performed through electronic or digital media by individuals or groups that repeatedly communicates hostile or aggressive messages intended to inflict harm or discomfort on others" <ref type="bibr">(Tokunaga, 2010, p. 278)</ref>, has emerged as an important societal issue and can occur on myriad devices that allow for Internet access or technological communication (e.g., cellular phone, computer, tablet, video game console). Indeed, a world-wide survey of youth (aged 8-17) found that 37% had been victimized online <ref type="bibr">(Microsoft, 2012)</ref> not a trivial percentage. Locating reliable prevalence rates for cyberbullying perpetration in adults is difficult; however, <ref type="bibr">Barlett and Chamberlin (2017)</ref> showed that cyberbullying perpetration occurs during adolescence, emerging adulthood, and laterwith the highest frequency for 18-35-year-old participants. Overall, cyberbullying perpetration occurs at all ages, possibly fueled by an increase use in the Internet from 2005 to 2014 for all participants independent of age <ref type="bibr" target="#b28">(Lupač, Chrobáková, &amp; Sládek, 2014)</ref>, and continued empirical work examining what variables predict this form of bullying is needed (e.g., <ref type="bibr" target="#b5">Barlett, 2015)</ref>. The current study focused on testing the relationship between positive attitudes toward cyberbullying and cyberbullying behavior over time, using a 3-year longitudinal study with over 3,000 Singaporean youth. According to the Microsoft (2012) survey, 58% of Singaporean youth reported being cybervictimized (compared with 37% worldwide) and 46% reported bullying others online (compared with 24% worldwide).</p><p>Although many variables predict cyberbullying perpetration (see <ref type="bibr" target="#b27">Kowalski, Giumetti, Schroeder, &amp; Lattanner, 2014</ref>, for a meta-analysis), our study focused exclusively on positive attitudes toward cyberbullying for several theoretical reasons. Broad social psychological literature has reliably shown the link between attitudes and subsequent behavior (e.g., <ref type="bibr" target="#b0">Ajzen &amp; Fishbein, 1977)</ref>. A metaanalysis of 128 effect sizes showed the attitude to behavior relation to be strong (r = .52; <ref type="bibr" target="#b22">Glasman &amp; Albarracin, 2006)</ref> and has been observed across several antisocial behaviors, such as aggressive behavior (e.g., <ref type="bibr" target="#b1">Anderson, Benjamin, Wood, &amp; Bonacci, 2006)</ref>, bullying behavior (e.g., <ref type="bibr" target="#b32">Salmivalli &amp; Voeten, 2004)</ref>, and discriminatory behavior (e.g., <ref type="bibr" target="#b29">McConnell &amp; Leibold, 2001)</ref>. Whenever attitudes and behavior do not align, negative affect and/or arousal from dissonance is often felt, and research has shown that one way to reduce this dissonance is to cognitively change the behavior or attitude to make them consonant with each other (e.g., <ref type="bibr" target="#b12">Beasley &amp; Joslyn, 2001)</ref>, which suggests a motivational approach to the attitude to behavior link (see <ref type="bibr" target="#b14">Bohner &amp; Dickel, 2011)</ref>. Other cognitiveselective forgetting of attitudinal information <ref type="bibr" target="#b18">(Elkin &amp; Leippe, 1986)</ref>, selective exposure to certain information (confirmation bias; <ref type="bibr" target="#b25">Jonas, Schluz-Hardt, Frey, &amp; Thelen, 2001)</ref> and neural mechanisms (e.g., activation of the dorsal anterior cingulate cortex and anterior insula; van Veen, <ref type="bibr" target="#b35">Krug, Schooler, &amp; Carter, 2009)</ref> likely also explain how attitudes and behaviors are related; however, the purpose of the current study was to study the reciprocal relationship between cyberbullying attitudes and cyberbullying perpetration over time.</p><p>Attitudes and behaviors are likely reciprocally related to each other (c.f., <ref type="bibr" target="#b2">Anderson &amp; Bushman, 2002)</ref>. Attitudes are, at least in part, formed by continued exposure to stimuli (e.g., <ref type="bibr" target="#b3">Anderson et al., 2010)</ref>, early direct experiences with certain behaviors (e.g., <ref type="bibr" target="#b21">Fazio &amp; Zanna, 1981)</ref> and reinforced learning (e.g., <ref type="bibr" target="#b20">Fazio, Eiser, &amp; Shook, 2004)</ref>, which ultimately predict behavior. Continued positive experiences with a stimuli-behavior pair should further reinforce and develop the attitude. Despite this theoretical rationale, some studies fail to find such cyclic relations. For instance, <ref type="bibr" target="#b13">Bentler and Speckart (1981)</ref> assessed behaviors and attitudes toward dating and exercise using a two-wave longitudinal design, and found that early attitudes positively predicted later behavior, but early behavior did not predict later attitudes; however, the opposite pattern was found when attitudes toward unprotected sex and subsequent behavior were analyzed <ref type="bibr" target="#b24">(Huebner, Neilands, Rebchook, &amp; Kegeles, 2011)</ref>. Therefore, it is unclear if positive cyberbullying attitudes cause, or are caused by, cyberbullying behavior (or both), and one aim of the current study is to test these possible relationships. Indeed, myriad cyberbullying experiencesas the aggressor, the victim, or bothmay be effective early learning experiences used to attack others online later. Research has shown (a) cyberbullying perpetration at Wave 1 predicts cybervictimization at Wave 2 <ref type="bibr" target="#b26">(Jose, Kljakovic, Scheib, &amp; Notter, 2012)</ref>, (b) cyberbullying victimization at Wave 1 predicts cyberbullying perpetration at Wave 2 <ref type="bibr" target="#b31">(Pabian &amp; Vandebosch, 2016)</ref>, and (c) cyberbullying perpetration and victimization are significantly correlated at the same time point (e.g., <ref type="bibr" target="#b19">Fanti, Demetriou, &amp; Hawa, 2012)</ref>, as are cyberbullying victimization and positive cyberbullying attitudes <ref type="bibr" target="#b8">(Barlett &amp; Gentile, 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Positive Cyberbullying Attitudes and Behavior</head><p>Multiple theoretical frameworks have been used to explain the attitude to behavior correlation as applied to cyberbullying perpetration. First, both the theory of reasoned action and the theory of planned behavior <ref type="bibr" target="#b0">(Ajzen &amp; Fishbein, 1977)</ref> posit the importance of attitudes (along with perceived behavioral control and subjective norms) in predicting future behavior through behavioral intention. Consistent with these theories, <ref type="bibr" target="#b17">Doane, Pearson, and Kelley (2014)</ref> found a direct relation between positive cyberbullying attitudes and cyberbullying perpetration and an indirect link through cyberbullying intentions using a cross-sectional design with a college-aged sample. Second, the Barlett and Gentile cyberbullying model (BGCM; <ref type="bibr" target="#b8">Barlett &amp; Gentile, 2012)</ref> predicts that positive attitudes toward cyberbullying are a precursor to cyberbullying perpetration and these attitudes are developed through learned experiences of perceived anonymity and the belief that one's physical strength is irrelevant (BI-MOB) in the online world. Results from <ref type="bibr" target="#b7">Barlett, Chamberlin, and Witkower's (2017)</ref> research detailed how both perceived anonymity and BI-MOB at Wave 1 predict positive cyberbullying attitudes at Wave 2, which predicted subsequent cyberbullying perpetration at Wave 3. Overall, myriad research shows the positive correlation between positive attitudes towards cyberbullying and cyberbullying behavior (e.g., <ref type="bibr" target="#b5">Barlett, 2015;</ref><ref type="bibr" target="#b8">Barlett &amp; Gentile, 2012;</ref><ref type="bibr" target="#b10">Barlett, Gentile, &amp; Chew, 2016;</ref><ref type="bibr" target="#b9">Barlett et al., 2014;</ref><ref type="bibr" target="#b15">Boulton, Lloyd, Down, &amp; Marx, 2012;</ref><ref type="bibr" target="#b17">Doane et al., 2014;</ref><ref type="bibr" target="#b23">Heirman &amp; Walgrave, 2012)</ref>. Although these studies are imperative for showing the importance of conceptualizing positive cyberbullying attitudes in predicting cyberbullying perpetration, several theoretical questions remain unanswered.</p><p>First, there is a paucity of research examining the longitudinal relationship between early positive attitudes toward cyberbullying and later cyberbullying perpetration. The few published longitudinal studies that exist show the relationship between early positive cyberbullying attitudes and later cyberbullying behavior <ref type="bibr" target="#b5">(Barlett, 2015;</ref><ref type="bibr" target="#b10">Barlett et al., 2016)</ref>; however, these studies are limited by small time lags between data collection periods (approximately 2-3 months), and path coefficients for attitudes are greater when they are assessed with closer time lags, possibly inflating the relationships between variables (e.g., <ref type="bibr" target="#b33">Staw &amp; Ross, 1985)</ref>. The current study will address this concern by assessing youth annually (rather than a few months), and we are unaware of any published longitudinal study testing the longitudinal relations between positive cyberbullying attitudes and cyberbullying behavior using such long time lags 1 .</p><p>Second, we tested the temporal ordering of the longitudinal relations between positive cyberbullying attitudes and cyberbullying behavior. Support for the BGCM <ref type="bibr" target="#b8">(Barlett &amp; Gentile, 2012)</ref> will show a reciprocal relationship between positive attitudes and behaviorbehavior causes attitude change and attitude change causes the behavior. Previous longitudinal work using multiple waves of data collection with emerging adults did not find these reciprocal relations <ref type="bibr" target="#b10">(Barlett, Gentile, &amp; Chew, 2016)</ref>; however, the lack of findings may be a function of (a) the age of the sample (attitudes are still forming and changing at younger ages; <ref type="bibr" target="#b11">Baron &amp; Banaji, 2006)</ref>, (b) the short time lags between data collection, and/or (c) the addition of additional variables in the model (i.e., anonymity perceptions). To address these concerns, we sampled youth who are likely still developing their cyberbullying attitudes, used a 12-month time lag (rather than 2-3 months), and only assessed positive cyberbullying attitudes and cyberbullying behavior. The short time lag concern is imperative to address. Notably, some attitudes necessitate time (and likely other cognitive resources) to develop or change (see <ref type="bibr" target="#b14">Bohner &amp; Dickel, 2011</ref>, for review), and our proposed reciprocal attitude to behavior hypothesis for cyberbullying may need ample time to manifest itselftime not afforded in the <ref type="bibr" target="#b10">Barlett et al. (2016)</ref> work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overview of the Current Study</head><p>Youth were asked to complete measures of cyberbullying frequency and positive attitudes toward cyberbullying annually for 3 years. This design allowed us to test: (a) the stability in cyberbullying behavior and attitudes over time, (b) the correlations between positive cyberbullying attitudes and behavior within each wave, and (c) the mediated cross-lagged relations between early attitudes/ behaviors and their later counterparts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants</head><p>Data were collected as part of a much larger longitudinal study of cyber-wellness issues. At Wave 1, participants (N = 3,079; 50.4% male) with an average age of 13.12 years (SD = 2.44) completed the survey 2 . The majority of these participants were of Chinese descent (71.1%), which is representative of Singaporean society. All participants were followed up for consecutive years. Several cohorts of participants were sampled, which included: 1. Primary 3 (3rd grade in the United States) to 6 (6th grade in the United States), 2. Secondary 1 (7th grade in the United States) to 4 (11th grade in the United States), and 3. Secondary 3 (10th grade in the United States) to 5 (12th grade in the United States).</p><p>Common for longitudinal studies, there was some participant attrition. Some students graduated from primary or secondary school and were not followed up as it was not possible to track them. Additionally, schools may have opted out of data collection during some years or students may have moved. Of the 2,388 responses in Wave 2, 1,957 (82.0%) completed the survey. In Wave 3, 47.3% (N = 909) participants completed the survey. See Table <ref type="table" target="#tab_0">1</ref> for sample sizes at each wave. We categorized participants into whether they completed both Waves 1 and 2 or only completed Wave 1. Then we ran two independent t tests: one for cyberbullying behavior and the other for positive cyberbullying attitudes. Results showed no difference between the two groups for Wave 1 cyberbullying behavior, t(3077) = .75, p = .45, but there was a significant difference for Wave 1 cyberbullying attitudes, t(3077) = 3.49, p &lt; .05, such that those who completed both waves of data collection (M = 19.13, SD = 6.44) had more positive attitudes 1 Although Barlett and colleagues' longitudinal work is theoretically important, we are explicitly arguing that the use of short time lags is an important limitation that the current work addresses by using longer time lags. It is likely that the short time lags used in the Barlett work are a function of funding issues and/or the inability to sample youth in schools for longer. Indeed, <ref type="bibr" target="#b5">Barlett (2015)</ref> stated in their four-wave longitudinal work with youth that ". . .time lags were established in conjunction with school officials and their scheduling" (p. 92), which suggests scheduling restrictions necessitated the shorter-than-optimal time lags. 2 Results from several independent t tests showed that males scored significantly higher on all cyberbullying perpetration and attitude measures; however, sex effects were not of theoretical interest. Thus, all of our analyses controlled for participant sex. Note. Pri = primary school. Sec = secondary school.</p><p>than those who only did the first wave (M = 18.16, SD = 6.45).</p><p>It is important to explicitly note the larger attrition in Wave 3 compared with earlier waves. We believe that the lack of participation in Wave 3 was mostly due to the timing of the survey, which coincided with the secondary students' school exams and they most likely opted to spend more time studying than completing the survey.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials Cyberbullying</head><p>The 3-item cyberbullying subscale of Ybarra, Diener-West, and Leaf ( <ref type="formula">2007</ref>) asks participants to indicate how often they engaged in several behaviors in the past 12 months on a rating scale from 1 (never) to 6 (everyday/almost everyday)<ref type="foot" target="#foot_1">3</ref> . A sample item includes, "Made rude comments or mean comments to anyone online." The three items were summed such that higher scores indicated higher reported frequency of cyberbullying. This questionnaire makes clear that the behaviors represented by the items occurred while on the Internet.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Positive Attitudes Toward Cyberbullying</head><p>In order to measure positive attitudes toward cyberbullying, a modified version of the 9-item <ref type="bibr" target="#b8">Barlett and Gentile (2012)</ref> positive attitudes toward cyberbullying measure was used. This questionnaire asks participants to rate their level of agreement with the items on a rating scale of 1 (= strongly disagree) to 5 (= strongly agree). This scale was modified slightly to make the wording more understandable to Singaporean youth (although Singapore is a native English-speaking country, several items were changed for clarity). A sample item includes, "Teasing others on the Internet by using Facebook, emails, or text messages is fun." Appropriate items were reverse-scored and then summed such that higher scores indicated more positive attitudes toward cyberbullying.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Demographic Questionnaire</head><p>A demographic questionnaire measured sex, school grade, ethnicity, and other relevant information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Data collection for this study was obtained via a large longitudinal project entitled "Singapore Youths in the Cyber-world." In order to explore what Internet activities Singaporean youths are engaged in, 30 randomly selected Singaporean schools (15 primary and 15 secondary schools) were invited to participate in the study. Two schools later dropped out from the first year of study. The total sample thus includes 28 schools. Informed consent was sought from the parents through the schools. A liaison teacher from each school collated the information and excluded from the study any students whose parents refused consent. Assent was obtained from the students through informing them that participation in the survey was voluntary and that they could withdraw at any time. The online questionnaires were administered by teachers to participants during school sessions with a set of standardized instructions<ref type="foot" target="#foot_2">4</ref> . Participants made their responses on school computers and the privacy of their responses was assured by the confidential nature of the online response format. All of the ethical procedures and policies of the Ministry of Education and the participating schools were followed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Correlations</head><p>Zero-order correlations along with descriptive information for each questionnaire (skew, Cronbach's α, mean, SD, minimum score, and maximum score) are presented in Table <ref type="table" target="#tab_1">2</ref> <ref type="foot" target="#foot_3">5</ref> . The data show that Waves 1-3 positive cyberbullying attitudes and behavior were significantly skewed (all Shapiro-Wilk tests &gt; .30, all p values &lt; .001), and, thus, we present both parametric and nonparametric tests (where appropriate) and use bootstrapped confidence interval estimates for our path models. Results from the correlation tests (both Pearson and Spearman rank ordered) show that early cyberbullying behavior was correlated with later cyberbullying behavior (a result also found for positive cyberbullying attitudes). In addition, cyberbullying frequency at each wave was significantly correlated with positive attitudes toward cyberbullying at each wave.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Latent Class Analysis</head><p>Longitudinal latent class analysis was conducted using the growth mixture model analysis in Mplus 7.2. Missing data were estimated using Mplus maximum likelihood estimation procedures. This analyzes each child's changes across time and groups children together who change similarly on positive cyberbullying attitudes. In total, 12 classes were found that fit with theoretical predictions, which could be grouped together based on similar trajectories to make four groups, as displayed in Figure <ref type="figure">1</ref>. 6 One group of children showed a stable low positive attitude about cyberbullying pattern (which we title the Stable Low group). One group had stable high positive attitudes about cyberbullying (which we title the Stable High group). One group started with more positive attitudes in Wave 1 but changed to have lower positive attitudes by Wave 2 (which we title the Drop group). Finally, one group changed to have more positive attitudes about cyberbullying by Wave 2 (which we title the Modest Increase group). Figure <ref type="figure">1</ref> shows the trajectories of these four groups. The four latent classes allow us to estimate the stability of attitudes across 2 years. As has been shown theoretically and empirically, attitudes tend to be stable. The majority of students had low positive stable attitudes (55.9%, N = 1,721), and the next most common was high positive stable attitudes (32.9%, N = 1,013). Almost 8% had increases in positive attitudes about cyberbullying (7.7%, N = 238), and very few who started with positive attitudes decreased across a 1-year time lag (3.5%, N = 107). These longitudinal data also allow us to begin to answer questions about whether attitude stability or changes predict behaviors 1 year later. Analyses of variance (ANOVAs) were conducted with group classification as the independent variable and positive cyberbullying attitudes and behavior at Wave 3 as the outcome 7 . First, as expected, the results showed a significant main effect of classification group with Wave 3 positive cyberbullying attitudes as the outcome, F(3, 1072) = 98.44, p &lt; .001, η 2 p = .22. Bonferroni corrected pairwise comparisons showed that all groups significantly (p &lt; .05) differed from 6 Multiple criteria were used to choose the 12-class model as the best fit. Most importantly, the classes need to fit with one's theoretical predictions, and each of the 12 classes was theoretically sensible. Second, classification quality is assessed by entropy, which is a standardized summary measures with higher values indicating more accurate classification. Entropy continued improving with additional classes up until 12 classes. Third, the Bayesian information criterion (BIC) statistic gets smaller with improved fit, and 12 classes were better than 11. Fourth, the bootstrap Lo, Mendell, and Rubin test compares the fit with k classes to the fit with k À 1 classes, providing a p value to determine if there is a statistically significant improvement in fit with more classes. The BLRT was nonsignificant at 11, 12 and 13 classes. 7 When sex was added as a covariate, the main effect of group classification remained significant for both cyberbullying perpetration and attitudes.</p><p>each other, except for the nonsignificant difference between the Drop and Stable Low groups and the Stable High and Modest Increase groups (see Table <ref type="table" target="#tab_2">3</ref>).</p><p>Results from the ANOVA with cyberbullying perpetration at Wave 3 as the outcome showed a significant main effect of classification group, F(3, 1062) = 23.91, p &lt; .001, η 2 p = .05. Bonferroni corrected pairwise comparisons revealed that the Stable High group significantly (p &lt; .05) differed from the Drop and Stable Low groups, but not the Modest Increase group (p = .22). The Modest Increase group differed from the Stable Low group significantly (p &lt; .05). That is, children with attitudes that were either stable high or increasingly positive were more likely to engage in cyberbullying behavior. No other differences were significant (see Table <ref type="table" target="#tab_2">3</ref>). These effects remained when we used Kruskal-Wallis tests owing to the skewed nature of the data. Although these data are not particularly surprising (i.e., earlier attitudes predict later attitudes and behaviors), it is valuable to test this hypothesis as it demonstrates some validity for the measures used as well as for the underlying theory.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Path Models</head><p>We used Mplus to examine the cross-lagged reciprocal relations between positive cyberbullying attitudes and behavior over time. Again, missing data were estimated using maximum likelihood estimation techniques in Mplus. Our three-wave path analysis had cyberbullying and positive attitudes toward cyberbullying at each wave correlated. Each wave directly predicted the subsequent wave (e.g., Wave 1 cyberbullying predicted Wave 2 cyberbullying, which predicted Wave 3 cyberbullying) for both cyberbullying behavior and attitudes, demonstrating stability of both attitudes and behaviors. Third, the previous wave predictor also predicted the subsequent wave of the other variable. For example, Wave 1 cyberbullying predicted Wave 2 positive attitudes toward cyberbullying, and Wave 1 positive attitudes toward cyberbullying would predict Wave 2 cyberbullying. This was done across the entire three waves. Fourth, we estimated the correlation between Wave 1 variables with their Wave 3 counterpart (for instance, Wave 1 cyberbullying was allowed to correlate with Wave 3 cyberbullying).</p><p>Results showed that this model fit the data well, w 2 = 16.08 (df = 2), p &lt; .001, RMSEA = .05 (90% CI = .03-.07), CFI = .99, TLI = .94, SRMR = .03. Bootstrapped confidence intervals around the unstandardized estimates are presented in Figure <ref type="figure" target="#fig_0">2</ref>. Overall, none of the 95% confidence intervals around the estimated regression coefficients and correlations included 0, suggesting statistically significant relations. Figure <ref type="figure" target="#fig_0">2</ref> shows: (a) strong stability over time for both positive attitudes toward cyberbullying and cyberbullying frequency; (b) strong correlations between variables within each wave; and (c) strong crosslagged relations, such that cyberbullying predicted positive attitudes 1 year later and positive attitudes predicted cyberbullying 1 year later<ref type="foot" target="#foot_4">8</ref> .</p><p>Mediation was tested by adding INDIRECT model statements using Mplus to test all possible mediated pathways from Wave 1 to Wave 3 variables through Wave 2 data. Results are presented in Table <ref type="table" target="#tab_4">4</ref> and show that none of the 95% confidence intervals around the standardized bootstrapped estimates included 0, suggesting significant mediation. Of theoretical interest, results showed that the relationship between Waves 1 and 3 cyberbullying perpetrations was mediated by Wave 2 positive attitudes toward cyberbullying (indirect B = .011; 95% CI = .002-.02), and the relationship between Waves 1 and 3 cyberbullying attitudes was mediated by Wave 2 cyberbullying perpetration (indirect B = .017; 95% CI = .003-.031). These data suggest that the reason why Wave 1 exogenous variables (cyberbullying perpetration and pro-cyberbullying attitudes) predicted Wave 3 cyberbullying attitudes and perpetration was because of increases in Wave 2 cyberbullying attitudes and behavior.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The current longitudinal study was conducted in order to test several theoretical gaps in the cyberbullying literature. First, we examined the reciprocal relationship between positive cyberbullying attitudes and cyberbullying behavior. Drawing upon the theoretical postulates of the BGCM <ref type="bibr" target="#b8">(Barlett &amp; Gentile, 2012)</ref> and past longitudinal work <ref type="bibr" target="#b5">(Barlett, 2015;</ref><ref type="bibr" target="#b10">Barlett et al., 2016)</ref>, we hypothesized that early cyberbullying behaviors will cause later positive attitudes toward cyberbullying and early positive cyberbullying attitudes will cause later cyberbullying behavior. Our data support the reciprocal longitudinal relationship between positive cyberbullying attitudes and behavior. Across all waves of data collection, positive attitudes formed behaviors and behavioral experiences formed positive attitudes. The BGCM explicitly states such relations by outlining the imperative learning trials with behaviors that help form and automatize easily accessible attitudes (see also <ref type="bibr" target="#b2">Anderson &amp; Bushman, 2002)</ref>. In short, after a positively reinforced behavior is enacted, individuals likely begin to develop positive attitudes, which predict later behavior (see <ref type="bibr" target="#b0">Ajzen &amp; Fishbein, 1977)</ref>. The important test for these reciprocal relations was the longitudinal mediated path analyses. Examination of the indirect effects showed that the relation between Waves 1 and 3 cyberbullying behavior was mediated by Wave 2 positive cyberbullying attitudes and the relation between Waves 1 and 3 positive cyberbullying attitudes was mediated by Wave 2 cyberbullying behavior. Recent longitudinal work <ref type="bibr" target="#b10">(Barlett et al., 2016)</ref> failed to find these reciprocal effects; however, the current study used longer time lags between data collection administrations, and research has suggested that attitude formation and change requires (at least) time and experience <ref type="bibr" target="#b14">(Bohner &amp; Dickel, 2011)</ref>. Therefore, perhaps the 2-3-month time lag used by <ref type="bibr" target="#b10">Barlett et al. (2016;</ref><ref type="bibr" target="#b5">Barlett, 2015)</ref> was insufficient to detect such relationships. Further, <ref type="bibr" target="#b10">Barlett et al. (2016)</ref>  .08 (-.12 to .28)  formation changes with age <ref type="bibr" target="#b11">(Baron &amp; Banaji, 2006)</ref>. Thus, perhaps assessing the attitude-behavior relationship in youth, rather than emerging adults, allowed for a more sensitive population to discover such relations. Independent of the exact reason(s) driving differences between the current and past work, the theoretical support of the learning mechanism of the BGCM are very important to (a) further validating the theoretical postulates of the model and to (b) detailing the learning-based hypotheses surrounding the cyberbullying attitude to behavior link that have eluded researchers.</p><p>Second, the three-wave longitudinal design allowed us to examine the psychological and behavioral consequences of early positive cyberbullying attitude change. We noted that the magnitude of the stability coefficients suggests that this stability is not ubiquitoussome individuals are likely to change (increase or decrease) over time while others remain stable. Indeed, using latent class analysis we found 12 unique classifications that we were able to theoretically collapse into four distinct groups of participants: stable low positive cyberbullying attitudes, stable high positive cyberbullying attitudes, decrease in positive cyberbullying attitudes over time, and modest increase in positive cyberbullying attitudes over time. Results from this latent class analysis showed that the majority (88.8%) were in the two stable groups, with 11.2% of the sample showing change in a 1-year period. This supports the hypothesis that positive cyberbullying attitudes likely remain stable over time; however, a nontrivial number of participants changed their cyberbullying attitudes over time. Analyses using group classification as a predictor showed that cyberbullying behavior at Wave 3 was highest for the Stable High group and lowest for the Stable Low group, as would be predicted by attitude theories. Furthermore, those who had a modest increase in their positive cyberbullying attitudes at Wave 2 had high cyberbullying perpetration scores at Wave 3 compared with those who had a decrease. Overall, the results from these analyses suggest that group classification based on positive attitudes toward cyberbullying change from Wave 1 to Wave 2 predicted Wave 3 cyberbullying perpetration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Future Directions</head><p>The current study has some limitations that future research should address. First, akin to most longitudinal studies, participant attrition was an issue. Several participants who started the study did not complete all three waves of data collection. The latent class analysis and path analysis were able to impute missing data and any analyses involving Mplus estimated values using maximum likelihood estimation. However, the correlation and ANOVA analyses excluded participants who were missing data (SPSS was used). There were several possible reasons for why not all participants completed the study, most of which were not due to students refusing to continue. The main cause of attrition was students finishing or changing schools. When students graduated after completing their primary or secondary education, they were not followed up for subsequent years. Students were also not followed up when they changed schools for any reason. While most schools were cooperative, some schools opted out of data collection in some of the years, especially in Wave 3. This was mostly due to the timing of the survey, which coincided with the secondary school exams. Although some students also opted not to complete the survey because it was voluntary, this was a very small number of students. However, even with the high attrition rate, we still had enough statistical power to adequately test the hypotheses of the current study.</p><p>Second, at Wave 1 positive cyberbullying attitudes and behaviors were strongly correlated. From a theoretical point of view, it would be interesting to find a younger sample where their attitudes and behavior are uncorrelated to test the learning postulates of the BGCM <ref type="bibr" target="#b8">(Barlett &amp; Gentile, 2012)</ref>. This would allow us to determine how early attitude development derives from different types of learned experiences, such as direct involvement (as the BGCM claims), parental or peer (un)encouragement, or other factors. It is unclear if such a sample of youth who meet this criterion can be found, but future work should look into further elucidating the temporal ordering of how positive cyberbullying attitudes are formed due to their stability over time and predictive power.</p><p>Third, since all the measures were self-report assessments of antisocial behaviors and attitudes, social desirability may be influencing the overall results. For instance, some participants may be reluctant to indicate how often they engage in cyberbullying behaviors because it may excite cognitive dissonance and corresponding negative psychological reactions and/or the fear of the negative consequences from parents, teachers, friends, or law officials if their responses are linked to their name (although participants were told their responses were anonymous, which some have argued helps combat social desirability; <ref type="bibr" target="#b4">Ang &amp; Goh, 2010)</ref>. Results from the current study showed that cyberbullying behaviors and attitudes were significantly positively skewed, and the mean score on the <ref type="bibr" target="#b36">Ybarra et al. (2007)</ref> cyberbullying measure across waves was near the bottom value of possible scores. Despite this issue, we corrected for the skewed nature of the data in our path analyses by using bootstrapping procedures and our study was focused on individual-level change over time. Therefore, we believe that social desirability, although important, did not exert too much noise in our data, but future research should address this issue.</p><p>Fourth, although we have argued that the year-long time lag between scale administrations is advantageous to allow for more observable attitude and behavioral changes in antisocial behaviors, such a long gap in waves introduces the possibility that other macro-level changes may have influenced any change over time. For instance, if (a) the school adopted cyberbullying intervention curricula, (b) there were any cyberbullying-related suicides, and/or (c) new technology or online outlets became available, cyberbullying behavior may have changed. These, and likely other, events that are beyond our control may have influenced the measured variables in-between waves of data collection, which could harm the internal validity of the results. Future longitudinal research needs to carefully review the strengths and limitations of using various time lags and possibly code for these societal changes to statistically control for their influence.</p><p>Fifth, we did not incorporate cybervictimization frequency in our modeling. Being the target of a cyberattack may also be a learning experience that could help develop subsequent positive cyberbullying attitudes. For instance, a cybervictim may learn that their aggressor is anonymous and has little repercussions for their actions, which may spurn the victim to aggress against others using cyberbullying tactics. However, even though past work has shown that cybervictimization and cyberbullying perpetration is correlated (e.g., <ref type="bibr" target="#b8">Barlett &amp; Gentile, 2012)</ref>, the reciprocal relations between early and later cyberbullying and cybervictimization are mixed. <ref type="bibr" target="#b26">Jose et al. (2012)</ref> showed that early cyberbullying perpetration predicts later cybervictimization, but the reverse is not statistically valid (see also Del Rey, Elipe, &amp; Ortega-Ruiz, 2012); however, <ref type="bibr" target="#b31">Pabian and Vandebosch (2016)</ref> did show that early cybervictimization predicted Wave 2 cyberbullying perpetration. Overall, these contradictory findings do not allow for a priori theoretical hypotheses to be accurately derived. Although our larger data set included a measure of cybervictimization, we did not analyze such relations for these theoretical reasons; however, future research should examine such effects.</p><p>Finally, the current study is limited by not measuring variables that allow for a test of a specific theory. Although the theory of planned behavior, theory of reasoned action, BGCM, and other theories highlight the importance of predicting cyberbullying perpetration from earlier attitudes, other key predictors are crucial to fully test these theories. For instance, the theory of reasoned action includes perceived behavioral control, subjective norms, and behavioral intentions <ref type="bibr" target="#b0">(Ajzen &amp; Fishbein, 1977)</ref>, and the BGCM posits that perceived anonymity and the belief that one's physical strength is irrelevant in the online world are important learned processes to the development of positive cyberbullying attitudes. Although we view this as a limitation from a holistic perspective, we first wanted to further explore the attitude to behavior correlation longitudinally to fill important theoretical gaps in the literature. Future work should build on the current study and include additional predictors important to theory so as to further elucidate the psychological processes involved in cyberbullying perpetration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>As countries become more technologically sophisticated and children gain access to technologies, cyberbullying rates are likely to increase. Researchers need to continue to examine the theoretical predictors of cyberbullying in order to inform interventions. Indeed, if research can identify a predictor of cyberbullying, replicate the effect, and develop theoretical relations regarding why these effects occur, interventions can be modified to reduce cyberbullying. We believe that the findings from the current study are an important first step in this regard and demonstrate the powerful influence that positive cyberbullying attitudes have on subsequent behavior. Interventions should incorporate these, and other, findings by targeting the development of these attitudes to hopefully reduce cyberbullying in our society. Angeline Khoo is the former associate professor of psychological studies at the National Institute of Education (retired), Singapore. She is an expert in media effects.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Longitudinal path model with unstandardized coefficients and 95% bootstrapped confidence intervals. Solid lines are significant relations while dashed lines are nonsignificant.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Douglas A. Gentile is an associate professor in the psychology department at Iowa State University in Iowa, USA. He is an expert in media effects.Li Dongdong is a research specialist for the Ministry of Social and Family Development in Singapore. She specializes in advanced statistical methods and child protection issues.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Demographic information of the sample over time</figDesc><table><row><cell></cell><cell cols="2">Wave 1</cell><cell cols="2">Wave 2</cell><cell cols="2">Wave 3</cell></row><row><cell></cell><cell>Boys</cell><cell>Girls</cell><cell>Boys</cell><cell>Girls</cell><cell>Boys</cell><cell>Girls</cell></row><row><cell>Pri 3</cell><cell>249</cell><cell>237</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pri 4</cell><cell>116</cell><cell>102</cell><cell>217</cell><cell>222</cell><cell></cell><cell></cell></row><row><cell>Pri 5</cell><cell>134</cell><cell>113</cell><cell>107</cell><cell>93</cell><cell>186</cell><cell>196</cell></row><row><cell>Pri 6</cell><cell>132</cell><cell>127</cell><cell>119</cell><cell>102</cell><cell>86</cell><cell>73</cell></row><row><cell>Sec 1</cell><cell>353</cell><cell>296</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sec 2</cell><cell>299</cell><cell>321</cell><cell>311</cell><cell>270</cell><cell></cell><cell></cell></row><row><cell>Sec 3</cell><cell>98</cell><cell>96</cell><cell>249</cell><cell>280</cell><cell>168</cell><cell>133</cell></row><row><cell>Sec 4</cell><cell>103</cell><cell>144</cell><cell>89</cell><cell>94</cell><cell>63</cell><cell>76</cell></row><row><cell>S e c5</cell><cell>6 9</cell><cell>9 0</cell><cell>1 1</cell><cell>2 1</cell><cell>1 3</cell><cell>2 2</cell></row><row><cell>Total</cell><cell>1,553</cell><cell>1,526</cell><cell>1,103</cell><cell>1,082</cell><cell>516</cell><cell>500</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Correlations between relevant variables Numbers range from 652 to 3,079 due to missing data and attrition across waves. Numbers below the diagonal are Pearson correlations and numbers above the diagonal are Spearman rank ordered correlations. *p &lt; .05. **p &lt; .01.</figDesc><table><row><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell></cell><cell>5</cell><cell>6</cell></row><row><cell>1: Wave 1 Cyberbullying</cell><cell>-</cell><cell>.23**</cell><cell>.15**</cell><cell cols="2">.31**</cell><cell>.22**</cell><cell>.16**</cell></row><row><cell>2: Wave 2 Cyberbullying</cell><cell>.25**</cell><cell>-</cell><cell>.33**</cell><cell cols="2">.25**</cell><cell>.33**</cell><cell>.29**</cell></row><row><cell>3: Wave 3 Cyberbullying</cell><cell>.17**</cell><cell>.29**</cell><cell>-</cell><cell cols="2">.21**</cell><cell>.25**</cell><cell>.42**</cell></row><row><cell>4: Wave 1 Cyberbullying Attitudes</cell><cell>.31**</cell><cell>.25**</cell><cell>.22**</cell><cell>-</cell><cell></cell><cell>.45**</cell><cell>.38**</cell></row><row><cell>5: Wave 2 Cyberbullying Attitudes</cell><cell>.20**</cell><cell>.36**</cell><cell>.25**</cell><cell cols="2">.45**</cell><cell>-</cell><cell>.49**</cell></row><row><cell>6: Wave 3 Cyberbullying Attitudes</cell><cell>.17**</cell><cell>.26**</cell><cell>.46**</cell><cell cols="2">.38**</cell><cell>.49**</cell><cell>-</cell></row><row><cell>M</cell><cell>3.44</cell><cell>3.56</cell><cell>3.82</cell><cell cols="2">18.91</cell><cell>18.25</cell><cell>17.65</cell></row><row><cell>SD</cell><cell>1.62</cell><cell>1.62</cell><cell>1.73</cell><cell cols="2">6.46</cell><cell>6.33</cell><cell>6.52</cell></row><row><cell>Min</cell><cell>3.00</cell><cell>3.00</cell><cell>3.00</cell><cell cols="2">9.00</cell><cell>9.00</cell><cell>9.00</cell></row><row><cell>Max</cell><cell>15.00</cell><cell>15.00</cell><cell>15.00</cell><cell cols="2">45.00</cell><cell>45.00</cell><cell>44.00</cell></row><row><cell>Shapiro-Wilk</cell><cell>.97**</cell><cell>.95**</cell><cell>.94**</cell><cell cols="2">.30**</cell><cell>.38**</cell><cell>.53**</cell></row><row><cell>α</cell><cell>.88</cell><cell>.86</cell><cell>.81</cell><cell cols="2">.78</cell><cell>.79</cell><cell>.79</cell></row><row><cell cols="4">Notes. 10.00 15.00 20.00 25.00 30.00 Cyberbullying Attitudes</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell>2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Waves of Data Collection</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Stable Low</cell><cell>Drop</cell><cell>Increase</cell><cell>Stable High</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">Figure 1. Four group classifications derived from the latent class</cell></row><row><cell></cell><cell></cell><cell></cell><cell>analysis.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Descriptive and inferential statistics for the class analysis</figDesc><table><row><cell></cell><cell cols="3">Wave 3 cyberbullying</cell><cell cols="3">Wave 3 cyberbullying</cell></row><row><cell></cell><cell></cell><cell>attitudes</cell><cell></cell><cell cols="2">perpetration</cell><cell></cell></row><row><cell>Group</cell><cell>M</cell><cell>S D</cell><cell>N</cell><cell>M</cell><cell>S D</cell><cell>N</cell></row><row><cell>Drop</cell><cell>16.30 a</cell><cell>5.85</cell><cell>60</cell><cell>3.53 a</cell><cell>1.29</cell><cell>60</cell></row><row><cell>Stable Low</cell><cell>15.11 a</cell><cell>5.13</cell><cell>590</cell><cell>3.47 a</cell><cell>1.13</cell><cell>585</cell></row><row><cell>Modest Increase</cell><cell>20.18 b</cell><cell>6.20</cell><cell>84</cell><cell>4.00 ab</cell><cell>1.96</cell><cell>84</cell></row><row><cell>Stable High</cell><cell>21.63 b</cell><cell>6.65</cell><cell>342</cell><cell>4.43 b</cell><cell>2.34</cell><cell>337</cell></row><row><cell cols="7">Note. Means with differing subscripted letters denote a significant (p &lt; .05)</cell></row><row><cell cols="5">difference using a Bonferroni corrected pairwise comparison.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 .</head><label>4</label><figDesc>Significant indirect pathways from Wave 1 predictors to Wave</figDesc><table><row><cell>3 outcomes</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>95% CI</cell><cell></cell></row><row><cell>Path</cell><cell>Indirect B</cell><cell>Lower limit</cell><cell>Upper limit</cell></row><row><cell>CB ? CB ? CB</cell><cell>.040</cell><cell>.013</cell><cell>.068</cell></row><row><cell>CB ? PATC ? CB</cell><cell>.011</cell><cell>.002</cell><cell>.020</cell></row><row><cell>CB ? CB ? PATC</cell><cell>.017</cell><cell>.001</cell><cell>.032</cell></row><row><cell>CB ? PATC ? PATC</cell><cell>.025</cell><cell>.007</cell><cell>.043</cell></row><row><cell>PATC ? CB ? CB</cell><cell>.041</cell><cell>.019</cell><cell>.064</cell></row><row><cell>PATC ? PATC ? CB</cell><cell>.077</cell><cell>.046</cell><cell>.109</cell></row><row><cell>PATC ? CB ? PATC</cell><cell>.017</cell><cell>.003</cell><cell>.031</cell></row><row><cell>PATC ? PATC ? PATC</cell><cell>.177</cell><cell>.145</cell><cell>.208</cell></row><row><cell cols="4">Note. CB = cyberbullying. PATC = positive attitudes toward cyberbullying.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of MediaPsychology (2019), 31(2), 81-91Ó 2017 Hogrefe PublishingThis document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>At Waves 1 and 2, participants were first asked a dichotomous, "Have you said nasty and hurtful things to others online?" question. If a participant answered no, they did not complete the<ref type="bibr" target="#b36">Ybarra et al. (2007)</ref> cyberbullying scale. For these participants a score of 3 (the lowest possible score indicating no cyberbullying) was inserted. For Wave 3, this criterion was removed, and the participants completed the<ref type="bibr" target="#b36">Ybarra et al. (2007)</ref> scale.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>Additional questionnaires were measured but not used in the current study. These scales measured a wide range of variables, and included media violence exposure, perceptions of family life, physical and mental health issues, attitudes toward Internet usage, risky online behavior, cybervictimization, and others. For a complete list of variables, please contact the second author.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p>When partial correlations were conducted, controlling for sex, all relationships displayed in Table2 remained significant.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_4"><p>When sex was added to the model (predicting all observed variables), results showed a good model fit and all the relations depicted in Figure2remained significant.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p>Ó 2017 Hogrefe Publishing Journal of Media Psychology (2019), 31(2), 81-91</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Attitude-behavior relations: A theoretical analysis and review of empirical research</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ajzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fishbein</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.84.5.888</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="888" to="918" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Development and testing of the velicer attitudes towards violence scale: Evidence for a four-factor model</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bonacci</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ab.20112</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aggressive Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="122" to="136" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Human aggression</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bushman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="27" to="51" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Violent video game effects on aggression, empathy, and prosocial behavior in Eastern and Western countries: A meta-analytic review</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shibuya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ihori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Swing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Saleem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1037/a0018251</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="151" to="173" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Cyberbullying among adolescents: The role of affective and cognitive empathy, and gender. Child Psychiatry and Human Development</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Ang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Goh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10578-010-0176-3</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="387" to="397" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Predicting adolescent&apos;s cyberbullying behavior: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2015.02.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="86" to="95" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Examining cyberbullying across the lifespan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chamberlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2017.02.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="444" to="449" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Predicting cyberbullying perpetration in emerging adults: A test of the Barlett Gentile Cyberbullying Model</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chamberlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Witkower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aggressive Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="147" to="154" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Attacking others online: The formation of cyberbullying in late adolescence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0028113</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="123" to="135" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Crosscultural differences in cyberbullying behavior: A short-term longitudinal study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Katsura</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0022022113504622</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cross Cultural Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="300" to="313" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Predicting cyberbullying from anonymity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Barlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chew</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/ppm0000055</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="171" to="180" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The development of implicit attitudes: Evidence of race evaluations from ages 6 and 10 and adulthood</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Banaji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="53" to="58" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cognitive dissonance and post-decision attitude change in six presidential elections</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Beasley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Joslyn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="521" to="540" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Attitudes &quot;cause&quot; behaviors: A structural equation analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Speckart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="226" to="238" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Attitudes and attitude change</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bohner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dickel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="391" to="417" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Predicting undergraduates&apos; self-reported engagement in traditional and cyberbullying from attitudes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Down</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Marx</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2011.0369</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Bullying and cyberbullying: Overlapping and predictive value of the cooccurrence</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Del Rey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Elipe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ortega-Ruiz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psicothema</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="608" to="613" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Predictors of cyberbullying perpetration among college students: An application of the Theory of Reasoned Action</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Doane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Kelley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.03.051</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="154" to="162" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Physiological arousal, dissonance, and attitude change: Evidence for a dissonance-arousal link and a &quot;don&apos;t remind me&quot; effect</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Elkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leippe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="55" to="65" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A longitudinal study of cyberbullying: Examining risk and protective factors</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Fanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Demetriou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Hawa</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17405629.2011.643169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="168" to="181" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Attitude formation through exploration: Valence asymmetries</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Eiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Shook</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.87.293</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="293" to="311" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Direct experience and attitude-behavior consistency</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Zanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="161" to="202" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Forming attitudes that predict future behavior: A meta-analysis of the attitudebehavior relation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Glasman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Albarracin</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.132.5.778</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="778" to="822" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Predicting adolescent perpetration in cyberbullying: An application of the theory of planned behavior</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Heirman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walgrave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psicotherma</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="614" to="620" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Sorting through chickens and eggs: A longitudinal examination of the associations between attitudes, norms, and sexual risk behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Huebner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Neilands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Rebchook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Kegeles</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0021973</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="110" to="118" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Confirmation bias in sequential information search after preliminary decisions: An expansion of dissonance theoretical research on selective exposure to information</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jonas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schluz-Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thelen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.80.4.557</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="557" to="571" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The joint development of traditional bullying and victimization with cyber bullying and victimization in adolescence</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Jose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kljakovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scheib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Notter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Research on Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="301" to="309" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bullying in the digital age: A critical review and meta-analysis of cyberbullying research among youth</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kowalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Giumetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Lattanner</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0035618</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1073" to="1137" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Report produced for the World Internet Project -The Czech Republic</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lupač</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chrobáková</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sládek</surname></persName>
+		</author>
+		<ptr target="http://worldinternetproject.net/_files/_//234_report_wip_czr2014_eng_fin.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Internet in the Czech Republic</title>
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Relations among the Implicit Association Test, discriminatory behavior, and explicit measures of racial attitudes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Mcconnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Leibold</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/jesp.2000.1470</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="435" to="442" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Worldwide online bullying survey</title>
+		<ptr target="https://www.microsoft.com/en-us/download/details.aspx" />
+		<imprint>
+			<date type="published" when="2012">2012. 2016</date>
+			<publisher>Microsoft</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">An investigation of shortterm longitudinal associations between social anxiety and victimization and perpetration of traditional bullying and cyberbullying</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pabian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-015-0259-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="328" to="339" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Connections between attitudes, group norms, and behavior in bullying situations</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Salmivalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Voeten</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01650250344000488</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Development</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="246" to="258" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Stability in the midst of change: A disposition approach to job attitudes</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Staw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ross</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0021-9010.70.3.469</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="469" to="480" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Following you home from school: A critical review and synthesis of research on cyberbullying victimization</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tokunaga</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2009.11.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="277" to="287" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Neural activity predicts attitude change in cognitive dissonance</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Van Veen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Krug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Schooler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Carter</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nn.2413</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1469" to="1474" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Examining the overlap in Internet harassment and school bullying: Implications for school intervention</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Diener-West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Leaf</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2007.09.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="42" to="50" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Winning Ways</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2009-07">2009-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Nigel</forename><surname>Pope</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Voges</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Mark</forename><surname>Brown</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Griffi th University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Griffi th University</orgName>
+								<address>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Massey University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Canterbury</orgName>
+								<address>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Griffi th University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">UQ Business School</orgName>
+								<orgName type="institution">University of Queensland</orgName>
+								<address>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Winning Ways</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Advertising</title>
+						<title level="j" type="abbrev">Journal of Advertising</title>
+						<idno type="ISSN">0091-3367</idno>
+						<idno type="eISSN">1557-7805</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">38</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="5" to="20"/>
+							<date type="published" when="2009-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">5768470DC250C3B1876C674084509963</idno>
+					<idno type="DOI">10.2753/joa0091-3367380201</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Sponsorship is believed to infl uence consumer perceptions of a brand. The authors identify conditions under which sponsorship information spills over to affect attitudes toward brands and the image of their manufacturers. Over two longitudinal fi eld experiments, they fi nd that spillover effects from sponsorship messages occur at both the generic sponsorship announcement level and the team performance level. Immediate announcement effects are observed on perceptions of both sponsor brand quality and corporate image. In the longer term, information regarding positive and negative team performance results spills over to perceptions of brand quality but not corporate image. The research provides recommendations for how managers should minimize negative spillover effects and maximize their use of sponsorship information.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Brands are known to possess both physical and abstract properties <ref type="bibr">(Aaker 1996;</ref><ref type="bibr" target="#b6">Brown and Dacin 1997;</ref><ref type="bibr" target="#b9">Dacin and Smith 1994;</ref><ref type="bibr" target="#b21">Homer 2006</ref>). Marketing communications can affect perceptions of those properties, either through interacting with existing perceptions, or by presenting information to persuade a consumer of a brand's merits. Although there is a wide range of marketing communication tools available, sponsorship has become an increasingly popular choice for communicating with markets. It is important for managers to be able to determine what impact a particular sponsorship will have on different aspects of a brand as this may lead to brand preference, brand loyalty, and ultimately, profi tability <ref type="bibr" target="#b0">(Aaker 1991;</ref><ref type="bibr">Keller 1998)</ref>. It is somewhat surprising to fi nd that little is known about the underlying effect of sponsorship on consumer perceptions of a brand.</p><p>In this research, we focus on "spillover" effects and the role of cue diagnosticity in the formation of brand-related attitudes as a result of sponsorship information. Spillover refers to the manner in which information in a message stimulus affects beliefs about brand attributes that are not mentioned in the message <ref type="bibr">(Ahluwalia, Unnava, and Burnkrant 2001)</ref>. A major reason why companies engage in sponsorship is to generate positive effects that may spill over to a brand. However, there are aspects of sponsorship that may give rise to negative cues that can be associated with a brand. One notable example is the performance of a sponsored team. The means by which consumers integrate negative with positive information has been studied in the impression formation literature in psychology <ref type="bibr" target="#b27">(Klein 1996;</ref><ref type="bibr">Skowronski and Carlston 1989)</ref>. A key outcome of this research has been the demonstration of a negativity effect whereby individuals attach greater importance to negative information when forming evaluations <ref type="bibr" target="#b27">(Klein 1996;</ref><ref type="bibr">Skowronski and Carlston 1989)</ref>. In the marketing literature, the negativity effect has been observed in contexts such as product evaluation <ref type="bibr" target="#b20">(Herr, Kardes, and Kim 1991)</ref>, salesperson performance <ref type="bibr" target="#b48">(Weitz 1978)</ref>, and publicity outcomes <ref type="bibr" target="#b2">(Ahluwalia, Burnkrant, and Unnava 2000)</ref>, to name a few.</p><p>In the sponsorship literature, researchers have referred to the concept of affect transfer to explain how favorable attitudes toward a team or event can transfer to a sponsoring brand with little cognitive elaboration <ref type="bibr" target="#b35">(Pracejus 2004</ref>). In addition, image transfer has been used to describe how the image or personality of a team or event can transfer to a sponsor brand <ref type="bibr" target="#b35">(Pracejus 2004</ref>). Spillover effects have been somewhat idiosyncratic to the brand alliance literature, whereas image transfer is frequently used in studies of sponsorship. Although conceptually similar, we consider spillover to offer a unique perspective from which to study sponsorship effects. A sponsorship is similar to a brand alliance, and academic work on spillover effects is concerned with the evaluations of brands after exposure to the brand alliance <ref type="bibr" target="#b10">(Desai and Keller 2002;</ref><ref type="bibr" target="#b40">Simonin and Ruth 1998)</ref>. Moreover, we are concerned with perceptions of physical brand attributes in addition to abstract ones such as image. Spillover also provides a more sensitive means of explaining how information in a sponsorship-related message, such as team performance results, can affect the evaluation of brand attributes that are not referred to in the message.</p><p>To our knowledge, no study has examined sponsorship from this perspective. Our fi ndings show that a sponsorship stimulus can positively bias an individual's perception of brand quality and the manufacturer's corporate image and that a consumer's preexisting perception can be changed by sponsorship. In a longitudinal study over a six-week period, we observe a positive effect on perceptions, but importantly, we fi nd interactions between team performance, which may act as a negative stimulus, and perceptions of brand quality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND</head><p>Sponsorship is the "provision of assistance either fi nancial or in kind to an activity by a commercial organization for the purpose of achieving commercial objectives" <ref type="bibr" target="#b28">(Meenaghan 1983)</ref>. From 1984 to 1999, there was a reported eleven-fold increase in sponsorship expenditure <ref type="bibr">(Meenaghan 2001</ref>) representing $23.16 billion or 7.0% of the worldwide advertising budget. This was exclusive of leveraging costs such as merchandising, competitions, and advertising of the sponsorship <ref type="bibr">(Meenaghan 2001)</ref>. The fi gure is expected to reach $37.7 billion in 2007 <ref type="bibr" target="#b22">(IEG 2006)</ref>. Despite this considerable increase, not enough is understood about how sponsorship actually "works" and what its objectives really are <ref type="bibr" target="#b7">(Cornwell and Maignan 1998;</ref><ref type="bibr">Gwinner and Eaton 1999)</ref>. This is surprising given the substantive nature of sponsorship as a communication tool in fi rms' promotional budgets.</p><p>Sponsorship can involve the sponsoring of an event, a team, an individual, or a cause. Our focus in the current study is on sport sponsorship effects at the team level over the longer-term duration. Although there is research available that examines cause-related marketing and individual spokesperson effects, we do not address these issues in the current study for two reasons. First, unlike sports sponsorship, cause-related marketing does not include the possibility of winning and losing, the variations of which we investigate in some detail. Second, research into the use of spokespersons has focused largely on source credibility, trustworthiness, expertise, likability, and attractiveness <ref type="bibr" target="#b23">(Kamins and Gupta 1994;</ref><ref type="bibr" target="#b31">Ohanian 1990;</ref><ref type="bibr" target="#b46">Till and Busler 2000)</ref>.</p><p>A key contribution of our research is that we investigate sponsorship effects over an extended time period. Longitudinal studies of sponsorship effects have been notably lacking in the marketing communications literature. Another signifi cant contribution of our study is that we are the fi rst to do so using fi eld experiments with real sponsors, real events, and real consumers. An observation of many previous sponsorship studies is that they were conducted in the absence of the clutter normally prevalent in the environment. We address this limitation and contribute to knowledge in the specifi c literature of sponsorship by seeking to learn whether and how sponsoring teams that are winning or losing affects perceptions of a brand and its manufacturer.</p><p>In two fi eld experiments, we examine the possibilities of changing brand perceptions over an extended time period (six weeks), through the use of a sponsorship stimulus involving varying levels of team performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RELEVANT LITERATURE</head><p>The most commonly cited objectives for a fi rm engaging in sponsorship are to increase brand awareness and to improve brand or corporate image <ref type="bibr" target="#b16">(Gwinner 1997;</ref><ref type="bibr">Gwinner and Eaton 1999)</ref>. Researchers have measured corporate image associations for many years. Consumers may have several associations in memory about a company that might be related to its innovativeness, dynamism, imaginativeness, goods and services, perceived honesty and trustworthiness, social responsibility, investment value, quality of management, helpfulness and friendliness, and conservative versus informal corporate culture <ref type="bibr" target="#b11">(Dowling 1986</ref><ref type="bibr">(Dowling , 2004;;</ref><ref type="bibr" target="#b43">Spector 1961)</ref>. In this research, we adopt <ref type="bibr">Dowling's (2004)</ref> conceptualization of corporate image as the descriptive beliefs an individual holds about an organization-in essence, "What do I think about you [as a company]?" This image is formed by perceptions of the company's ability, character, behavior, and products.</p><p>However, the literature supports the contention that a company and its products are perceived by consumers to be separate <ref type="bibr">(Aaker 1996;</ref><ref type="bibr" target="#b6">Brown and Dacin 1997;</ref><ref type="bibr" target="#b9">Dacin and Smith 1994)</ref>. One may have favorable views of a company but not necessarily of its products. For example, consumers may think of a company as socially responsible yet believe it produces goods that are inferior to competitors. With the multiple associations comprising corporate image, positive evaluations of one type of association can counterbalance negative evaluations of another. It is therefore possible that a negative evaluation of a company's products may be obfuscated within an overall favorable evaluation of corporate image (or vice versa).</p><p>Given the importance companies ascribe to consumer perceptions of their products, it is important to isolate the effect that sponsorship activities might have on both brand quality and global evaluations of corporate image. Although managers might believe that sponsorship awareness will be refl ected in a consumer's perceptions of a brand's physical or abstract properties <ref type="bibr">(Cornwell, Roy, and Steinard 2001)</ref>, reported research has typically concentrated on abstract measures, including corporate image and purchase intention; this is problematic.</p><p>To measure only the abstract elements of an individual's perceptions does not necessarily give an indication of his or her perceptions of the brand's physical attributes. Whether or not a company's image has any relationship with a consumer's judgment of its products is generally unclear; some studies suggest this is the case (see, e.g., <ref type="bibr">Keller and Aaker 1992;</ref><ref type="bibr" target="#b47">Wansink 1989)</ref>, whereas others claim it is not (e.g., <ref type="bibr" target="#b19">Hardy 1970;</ref><ref type="bibr" target="#b39">Shimp and Bearden 1982)</ref>.</p><p>In our study, we identify sponsorship effects across both brand quality and corporate image perceptions and explain them within the context of spillover effects. First, we examine the manner in which the perceived diagnosticity of information infl uences these perceptions and second, we consider the role of memory decay.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SPILLOVER EFFECTS, CUE DIAGNOSTICITY, AND TEAM PERFORMANCE</head><p>Spillover effects have been explained in terms of accessibility and diagnosticity <ref type="bibr" target="#b15">(Feldman and Lynch 1988)</ref>. Accessibility is achieved through spreading activation. In terms of brandrelated thoughts, information regarding the product category and physical and abstract brand attributes can be represented as nodes in a neural network. When a node is activated, it can link to another <ref type="bibr" target="#b4">(Anderson 1983)</ref>. We suggest that sponsorship information will also reside in this nodal network and be capable of activating brand-related thoughts. Diagnosticity refers to the manner in which individuals make implicit judgments about how things are related to each other <ref type="bibr" target="#b5">(Broniarczyk and Alba 1994)</ref>.</p><p>The accessibility-diagnosticity perspective suggests that information that is perceived to be relevant to a brand (i.e., accessible) would be inferred to make judgments about that brand (i.e., diagnostic). We predict that spillover to a brand will occur when individuals are presented with information in the form of a sponsorship announcement. Even if no direct mention of brand attributes appears in the message, consumers are likely to infer meaning about the brand based on the information. This is the desired effect of sponsorship.</p><p>Sponsorship is generally believed to create positive impacts for companies <ref type="bibr" target="#b16">(Gwinner 1997;</ref><ref type="bibr">Meenaghan 2001;</ref><ref type="bibr" target="#b37">Rifon et al. 2004)</ref>. For example, <ref type="bibr" target="#b36">Rajaretnam (1994)</ref> found that sponsorship appeared to have a greater effect on both brand preference and corporate image than did advertising. It is plausible to suggest that the sponsorship stimulus is positively valenced and contributes to an increase in positive associations between the brand and perceptions of its associated attributes. Furthermore, spillover effects have been observed for positive information under conditions where the brand is familiar <ref type="bibr">(Ahluwalia, Unnava, and Burnkrant 2001)</ref>. We therefore suggest that H1a: An individual subjected to a sponsorship stimulus prior to evaluating a brand's quality will rate that quality more favorably than a similar individual presented with the same brand without a sponsorship stimulus, and H1b: An individual subjected to a sponsorship stimulus prior to evaluating a brand manufacturer's corporate image will rate that image more favorably than a similar individual presented with the same brand manufacturer without a sponsorship stimulus.</p><p>In contrast to advertising, wherein the marketer has a controlled message to convey, sponsorship includes the possibility of winning and losing, over which there is no control. As such, we wish to understand the impact of variations in team performance during a sponsorship period.</p><p>Sponsorship information is typically communicated to the consumer via the explicit articulation of a sponsorship agreement or other sponsorship-linked marketing communications such as advertising or promotional tie-ins. However, further communication is possible via exposure to information regarding the performance of the team that is sponsored. Such information, typically transmitted by news media, word-of-mouth, or during actual game attendance does not generally contain direct, brand-related information. Yet literature on spillover effects suggests that individuals may make judgments about brand attributes from information that does not specifi cally refer to those attributes <ref type="bibr" target="#b2">(Ahluwalia, Burnkrant, and Unnava 2000;</ref><ref type="bibr">Ahluwalia, Unnava, and Burnkrant 2001)</ref>.</p><p>When presented with a brand name, associations regarding the quality of the brand and the corporate image of its manufacturer are likely to be elicited. We have argued that if the brand name is presented in conjunction with a sponsorship announcement, the spillover effect of sponsorship may allow for the transfer of favorable impressions to both the brand quality and the fi rm's image. But what happens to such perceptions when the sponsorship stimulus manifests in the form of team performance results?</p><p>The literature on spillover effects provides some guidance. Consider a message regarding team results as potentially comprising two components. One component may function as a reminder that the brand is a team sponsor in a manner similar to a sponsorship announcement, with the potential for initiating a spillover effect, as the sponsor is not actually mentioned. The other indicates whether the team has performed well or poorly (whether this is actually the case or not). <ref type="bibr" target="#b2">Ahluwalia, Burnkrant, and Unnava (2000)</ref> suggest that individuals may be prone to changing their evaluations of "related" brand attributes, but that they may isolate this effect from other attributes. As per our earlier reasoning, the fi rst piece of information is likely to be diagnostic for brand quality and corporate image. However, when information in the message is not perceived as diagnostic for the attributes under evaluation, then consumer perceptions of these will not be infl uenced.</p><p>A substantial body of evidence has evolved suggesting that negative information has a greater effect on attitude formation than positive information (e.g., <ref type="bibr" target="#b2">Ahluwalia, Burnkrant, and Unnava 2000;</ref><ref type="bibr" target="#b20">Herr, Kardes, and Kim 1991;</ref><ref type="bibr" target="#b41">Skowronski and Carlston 1987)</ref>. In general, negative cues are less ambiguous than positive and neutral cues, especially in product judgment contexts (see <ref type="bibr" target="#b30">Mizerski 1982;</ref><ref type="bibr" target="#b20">Herr, Kardes, and Kim 1991)</ref>. A loss in an important game or a failure to fi nish in a major race could be construed as negative information. Furthermore, if a sponsor fi rm's products are used by a team, then there are likely to be strong associative linkages between the team performance and the quality of the brand.</p><p>Although a good team performance would be expected to be positively weighted and not detract from any associations made regarding brand quality, in contrast, poor performance is likely to be negatively weighted and may conceivably be used to make diagnostic judgments about brand quality attributes. Given the stronger impact of negative information on attitudes, it is likely that evaluations of brand quality will be adversely affected. We propose that team performance information will spill over to perceptions of brand quality over time, under conditions where the brand is actually used in the event. If, on the other hand, the product brand is not used in the actual event, then we would not expect such inferences to be made. Specifi cally:</p><p>H2a: If the sponsor product brand is used by a team during a performance, an individual's evaluation of the brand's quality in the presence of a sponsorship stimulus will be more favorable when the sponsored team is winning than when it is losing.</p><p>H2b: If the sponsor product brand is not used by a team during a performance, an individual's evaluation of the brand's quality in the presence of a sponsorship stimulus will remain unaffected whether the sponsored team is winning or losing.</p><p>Regarding the effects of team performance on corporate image, we would not anticipate the team results information to adversely impact such perceptions, as they are unlikely to be diagnostic for corporate image, irrespective of whether the brand was used by the team or not. Our rationale for this expected outcome again stems from insights derived from spillover effects.</p><p>Specifi c predictions about when spillover is likely to occur require consideration of factors that may affect the information that is accessible and whether such information is diagnostic <ref type="bibr" target="#b38">(Roehm and Tybout 2006)</ref>. Accessibility is promoted by strong associative linkages. Thus, if a team's results are perceived to pertain to corporate image, the image node is likely to be activated when the results are processed. We would expect that the sponsorship reminder component of the results message would serve to activate perceptions of corporate image and reinforce previously held perceptions. However, the likelihood that the negative (or positive) connotations of team performance results would be perceived as diagnostic for the majority of the dimensions of corporate image discussed earlier seems minimal (e.g., perceived honesty and trustworthiness, social responsibility, investment value, quality of management, helpfulness and friendliness, and conservative versus informal corporate culture). We would therefore expect that negative (or positive) team performance results will not affect perceptions of corporate image but that the reminder component of a sponsor's involvement will continue to have positive effects. We propose that H3: An individual's evaluation of a sponsor's corporate image will remain elevated in the presence of a sponsorship stimulus regardless of whether the sponsored team is winning or losing.</p><p>An implication of our suggestion that winning and losing will affect an individual's perceptions of a sponsor is that these impressions are transient. Yet little is known about the effects of time on brand associations formed as a result of sponsorship stimuli. Perceptions of brand attributes are likely to be infl uenced by consumer memory processes, in particular the decay of associations over time. By also testing the effects of sponsorship on specifi c products over the longer term, we make a further contribution to the understanding of sponsorship theory.</p><p>Though the process of memory decay is still not precisely understood <ref type="bibr" target="#b14">(Estes 1997)</ref>, it is generally agreed that when consumers actively think about product information, stronger associations are created in memory. This increases the likelihood of recall <ref type="bibr" target="#b24">(Keller 1993)</ref>. It is plausible to anticipate some decay in consumers' memory of sponsorship information. We expect that if consumers are not provided with such market information regularly, their initially raised perceptions of a brand may diminish. Therefore: H4: The more frequently an individual is exposed to a sponsorship stimulus, the more favorably he or she will rate the brand on both brand quality and corporate image.</p><p>Experiments 1 and 2 explore the effects of a sponsorship stimulus on a consumer's perception of a sponsoring brand's quality and the corporate image of the brand's manufacturer over time, during the course of a series of sporting events. They also investigate the effect of winning and losing on these variables.</p><p>We further examine whether differences would be noted for products that are instrumentally related to performance as opposed to those that are merely image-related. This introduces the potentially confounding element of congruence between sponsor and event into the study. Our research is not an investigation of the moderating role of congruence, as it is generally accepted that congruence affects sponsor-brand evaluations <ref type="bibr" target="#b32">(Otker and Hayes 1987;</ref><ref type="bibr" target="#b44">Speed and Thompson 2000)</ref>. However, we wanted to consider the possibility of brand evaluations being infl uenced by direct congruence (where the product is actually used in the event) and indirect congruence (where it is associated on the basis of image only).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EXPERIMENT 1</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and Procedure</head><p>Participants were a group of 98 customers recruited from four gas stations. The sample size was 110, with 12 individuals failing to complete the experiment. Ages ranged from 18 to 67, with an almost equal gender split of 52% male and 48% female. Income levels and occupational backgrounds were diverse, with no skewness toward any particular group observable. They were divided into three groups: control, decay, and informed. All groups completed questionnaires assessing the dependent variables at four different times: once in February (before the Formula One season starts), and then in each week after the Brazilian, San Marino, and Spanish Grand Prix. These events occurred at two-week intervals.</p><p>The sponsorship stimulus during the fi rst data collection was a statement about the sponsorship of the McLaren Formula One team by Mercedes Benz, which also provided the engines used in the races. The stimulus for the three races was a paragraph about the results with no further mention of the sponsorship. Copies of the stimuli are presented in Appendix 1. The control group (n = 32) received neither the sponsorship statement stimulus nor the race-results-only stimuli, the decay group (n = 33) received the sponsorship statement stimulus only (during the fi rst phase of data collection or pretest), and participants in the informed group (n = 33) received the sponsorship statement stimulus (at pretest) and the raceresults-only stimulus each time they subsequently completed the questionnaire (i.e., after each race). The best results of the races for the car manufacturer's vehicles were second, second, and DNF (did not fi nish).</p><p>Respondents were invited to participate by selected gas station attendants, who were trained by the researchers in the method of data collection. To encourage involvement, the attendants were instructed to ask every fi fth customer if they would be interested in entering a competition for $100 worth of free fuel. They were specifi cally informed that it was a university research project and was not for commercial purposes. Consent forms with relevant information were provided upon agreement. Participants were told that they would be required to return to the gas station and complete a questionnaire on four separate occasions during specifi ed time periods, which were determined by the researchers for each series of events. Although a potentially onerous task, in fact the great majority of respondents (over 90% at all outlets) were regular customers of the gas stations used and stopped there frequently to fi ll their cars. An advantage of using employees to collect data was that interviewer bias was minimized, as the employees continued to serve other customers while respondents completed their task at a vacant service counter. Participants were provided with, and asked to keep, a gas station business card with a unique code on it to enter onto the questionnaire. No other identifying information was obtained. They were then able to place their responses in a drop-box before leaving.</p><p>On subsequent visits to the gas station, participants were asked to complete the evaluation task again, depending on their treatment condition, and also to provide their code. The environment in which the evaluation was completed was as close to an ordinary, everyday commercial environment as we could contrive. In this task environment, respondents were surrounded by other customers and exposed to numerous visual and auditory stimuli, many of them brand-related. On completing the fi nal questionnaire, participants also submitted a separate form containing their name and contact details for the purposes of choosing a winner of the competition. No identifying information could be linked with the series of responses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Independent Variable</head><p>Group membership (control, decay, and informed) determined if and when the participants received the sponsorship stimulus and was the independent variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent Measures</head><p>Items were measured on a seven-point scale with a higher score indicating positive valence. Brand quality of the car was measured using the Brand Quality instrument reported by <ref type="bibr">Keller and Aaker (1992)</ref>. Corporate image was measured using the scale presented by <ref type="bibr" target="#b34">Pope and Voges (1998)</ref>. All scale items can be seen in Appendix 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>No signifi cant effects were observed for gender, income level, or occupation on the dependent variables. Hypotheses 1a and 1b stated that when an individual is subjected to a sponsorship stimulus, that individual will rate a brand's quality and the brand manufacturer's corporate image higher than an individual not receiving the sponsorship stimulus. The impact of a sponsorship stimulus on brand quality and corporate image was analyzed by comparing the control group (which did not receive a sponsorship stimulus) with the decay and informed group combined (both of which did receive a sponsorship stimulus at least once). The presence of the stimulus had a signifi cant impact on the perceived evaluation of the brand's quality (F = 14.3; df = 1, 96; p &lt; .001). The group receiving the sponsorship stimulus had a mean of 4.3, whereas the control group had a mean of 3.4. Hypothesis 1a is therefore supported. It also had a signifi cant impact on the perceived evaluation of corporate image (F = 46.2; df = 1, 96; p &lt; .001). The group receiving the sponsorship stimulus had a mean of 4.3,whereas the control group had a mean of 3.0. Hypothesis 1b is also supported.</p><p>In H2a, we suggested that if the product brand was used in the event, perceptions of the brand's quality in relation to sponsorship would vary with the sponsored team's winning and losing. This hypothesis was tested using a repeated-measures analysis of variance (ANOVA) and was found to be statistically signifi cant (F = 3.82; df = 6, 285; p &lt; .001). The data did not violate the assumption of homogeneity of variance (Box's M = 32.31, p &gt; .05). Our results are best presented visually and can be seen in Figure <ref type="figure">1</ref>. It should be noted that the informed group shows consistently high ratings of the brand's quality when the cars are fi nishing well. This drops nearly to the level of the control with the failure to fi nish in the third event. The decay group drops slowly to meet the level of control over the six weeks of the study. This provides partial support for H4, with the outcome being contingent on team performance.</p><p>We suggested in H3 that corporate image perceptions would remain elevated regardless of the results of a sponsored team. Again, this was tested with repeated-measures ANOVA. The data did not violate the assumption of normality (Box's M = 21.59, p &gt; .05). Signifi cant statistical differences were found between the three groups (F = 5.6; df = 6, 285; p &lt; .001). We present the results graphically in Figure <ref type="figure">2</ref>.</p><p>Note that again the decay group drops over the six-week period to end up at the same level as the control group, thereby supporting H4. The informed group remains at an elevated level throughout, however, displaying no statistically significant differences with regard to winning and losing. Hypothesis 3 is therefore supported. The means of all treatment groups and signifi cant differences between them for all time periods can be seen in Table <ref type="table" target="#tab_0">1</ref>.</p><p>A demand check item included in the questionnaire indicated that no participants indicated a motivation for conforming to the researchers' expectations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Results of Experiment 1 indicate that a sponsorship stimulus will positively bias an individual's perception of a brand's quality and the corporate image that the individual holds of the brand's manufacturer. Long-term tracking of this sponsorship effect showed that the performance of the team had an impact on the perception of brand quality, with losses reducing the positive evaluation. This was not the case with corporate image, which remained elevated regardless of winning or losing as long as the group was informed of the results. For the group that was not continually informed, the level of positive evaluations of both corporate image and brand quality decayed over the course of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EXPERIMENT 2</head><p>A second longitudinal experiment was conducted. In essence, this study was a replication of the previous one using a different product, in this case that of a well-known beer manufacturer (Fourex). The hypotheses remain the same.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FIGURE 1 Brand Quality: Formula One</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretest</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and Procedure</head><p>As in Experiment 1, participants were a separate group of 99 customers recruited from four gas stations using the same procedure described earlier. The original sample obtained was 113, with 14 dropping from the experiment. Again, the demographics revealed diversity among the sample. Income and occupational backgrounds were varied, ages ranged from 18 to 64, and the gender split was 55% male and 45% female. To encourage their involvement, the participants were entered into a competition for $100 worth of free fuel. The participants were divided into three groups: control, decay, and informed. All three groups completed the questionnaires assessing the dependent variables at four different times: prior to the State of Origin rugby league series and then in each week after each of the three games in the series. These events occurred at approximately two-to three-week intervals. The sponsorship stimulus at the fi rst data collection was a statement about the sponsorship of one of the teams (Queensland) by the beer manufacturer. The sponsorship stimulus for the three games in the series was a paragraph about the results of the previous game only. Copies of how these stimuli were presented can be viewed in Appendix 1. The control group (n = 30) received no sponsorship stimulus, the decay group (n = 35) received the sponsorship stimulus only during the pretest, and participants in the informed group (n = 34) received the sponsorship stimulus each time they completed the questionnaire (i.e., after each game in the series). The results of the series for the team was lose, lose, win.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent and Independent Measures</head><p>All scaled items were measured on a seven-point scale with the higher score indicating positive valence. The dependent and independent variables were the same as those used in Experiment 1, with the exception that the brand quality measure was captured using a seven-item scale developed by <ref type="bibr" target="#b45">Stayman, Alden, and Smith (1992)</ref> specifi cally for beverages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>No effects were observed for gender, income level, or occupation on the dependent variables. We tested H1a and H1b using the same comparisons as in the previous experiment. Both hypotheses were supported, with the presence of a sponsorship stimulus having a signifi cant, positive impact (4.9 for the stimulus group as opposed to 3.8 for the control group) on the perceived evaluation of the brand's quality (F = 19.5; df = 1, 97; p &lt; .001) and on the corporate image of the brand's manufacturer (4.9 for the stimulus group as opposed to 4.0 for the control group) (F = 49.0; df = 1, 97; p &lt; .001).</p><p>Hypothesis 2b suggested that perceptions of a brand's quality in relation to sponsorship would not vary with the sponsored team's winning or losing, if the product brand was not actually used in the event. As in Experiment 1, this hypothesis was tested using a repeated-measures ANOVA. This was not confi rmed by our data, and in fact, the opposite effect was observed. It should be noted that the informed group shows gradually lower ratings of the brand quality of the beer when the sponsored team is losing (rounds 1 and 2). This is followed by a sudden, and statistically signifi cant,</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FIGURE 2 Corporate Image: Formula One</head><p>Pretest increase when the third round is won (F = 9.45; df = 6, 285; p &lt; .001). The data did not violate the assumption of homogeneity of variance (Box's M = 24.19, p &gt; .05). Results are presented in graphic format at Figure <ref type="figure">3</ref>. Hypothesis 2b is therefore not supported. We defer elaboration on this fi nding until the general discussion section. The decay group again drops slowly to meet the level of control over the six weeks of the study. Hypothesis 4 is once again partially supported depending on team results. We suggested in H3 that corporate image perceptions would remain higher despite the winning or losing of a sponsored team. Again, this was tested with repeated-measures ANOVA. The data did not violate the assumption of normality (Box's M = 20.46, p &gt; .05). Signifi cant statistical differences were found between the three groups (F = 9.01; df = 6, 285; p &lt; .001). We present the results graphically in Figure <ref type="figure">4</ref>.</p><p>Note that again the decay group drops over the six-week period to end up at the same level as the control group. The informed group remains at an elevated level throughout, once more supporting H4. No statistically signifi cant differences with regard to winning and losing were found, however. Hypothesis 3 is further supported. The means of all treatment groups and signifi cant differences between them for all time periods can be seen in Table <ref type="table">2</ref>. The correlations between the dependent variables of brand quality and corporate image across the four time periods for both Experiments 1 and 2 ranged from .02 to -.16 with an average correlation of -.02, indicating no interdependency or likely interactions between these measures.</p><p>As in Experiment 1, no participants indicated a motivation for providing responses that would artifi cially support the researchers' results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Results of Experiment 2 indicate that a sponsorship stimulus will positively bias an individual's perception of a brand's quality and the corporate image that the individual holds of the brand's manufacturer. Long-term tracking of this sponsorship effect showed that performance of the team had an impact on the perception of the brand's quality (despite it not being used in the event), with losses reducing the positive evaluation. As in Experiment 1, positive perceptions of corporate image remained elevated for the informed group despite winning and losing records. For the group that was not continually informed of the sponsorship, positive perceptions of both corporate image and the product decayed over the course of the experiment, approaching the level of the control group.</p><p>To accept the sponsorship stimulus manipulation as the explanation for the observed treatment effects, we had to rule out the possibility that other factors may have confounded the effects in the study. A potential confound might have arisen from the perception of congruence between sponsor and event. Congruence is a multifarious construct that has been conceptualized across both functional and symbolic dimensions. It is generally thought that the higher the level of congruence between sponsor and event, the more favorable consumer attitudes toward the brand will be <ref type="bibr" target="#b32">(Otker and Hayes 1987;</ref><ref type="bibr" target="#b44">Speed and Thompson 2000)</ref>. However, little is known about whether the actual use of a product in the event results in different levels of perceptions of congruence (and hence attitude toward and beliefs about the brand) than brands that may exhibit congruence but are not used in the event. We introduced these two conditions as direct A confound check was conducted on a separate pool of respondents-an approach used in past experimental research (e.g., <ref type="bibr" target="#b13">Ellen and Bone 1998;</ref><ref type="bibr" target="#b18">Handelman and Arnold 1999)</ref> and in accordance with recommendations by <ref type="bibr" target="#b33">Perdue and Summers (1986)</ref>. In this test, two groups of 60 customers were intercepted at a different local gas station. Potential respondents were approached until 60 individuals had been recruited for each cell. Response rates were 52% and 61%. We informed respondents in each group about one of the sponsorship pairings and asked them to complete a fi ve-item congruence scale previously used by <ref type="bibr" target="#b44">Speed and Thompson (2000)</ref> to measure levels of general congruence (or fi t). We deliberately chose brands for each experiment that we felt would demonstrate good general congruence with their respective sponsorship property. As expected, both brands generated highly positive levels of congruence (Fourex mean = 4.33; Mercedes Benz mean = 4.19). An independent samples t-test revealed no statistically signifi cant differences between the groups (Fourex/ Mercedes Benz, t = 1.20; df = 2, 118; p &gt; .05). This result is, in itself, an interesting fi nding and perhaps a little counterintuitive. It indicates that actual usage of the product in the event does not necessarily result in higher levels of congruence than brands that are only symbolically related. However, the indirect congruence brand is a heavy advertiser and regularly engages in large-scale sport sponsorship, so it is possible that its presence in such an arrangement is not unexpected by consumers.</p><p>We had thought the level of congruence would have been a little higher for the Mercedes-Benz/McLaren pairing, but this was not the case. Regardless, we did not seriously anticipate that the level of congruence would have confounded our results, as the largely positive effects were observed in both experiments. We did, however, believe that the type of congruence-direct or indirect-would have some infl uence on outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GENERAL DISCUSSION</head><p>We believe that our fi ndings offer implications and utility at both the theoretical and managerial levels. Our discussion synthesizes the results of the two experiments, presents limitations, and discusses implications. We also offer an agenda for further research.</p><p>Both sets of results support the contention that the perceived diagnosticity of sponsorship cues appears capable of changing perceptions of both companies and their products in the short and long term. Of some importance is the fi nding that winning and losing appear to infl uence evaluations of a company's products but not of the company itself. In the absence of exposure to such stimuli, positive perceptions of both abstract and physical aspects of a brand appear to atrophy. This is also a key fi nding, and one that could not have been uncovered in a cross-sectional study.</p><p>The connection between sponsorship activity and corporate image may appear to be somewhat logical to consumers. The win/loss cue is not seen as relevant to corporate image and the positive evaluation persists because the sponsorship stimulus is repeated each time. We suggest that the connection between sponsorship and brand quality may be less evident, however, so consumers use win/loss cues to develop their evaluation of the brand when prompted. This was expected in the case of Mercedes Benz, whose product brand was used in the team performance.  Similar but unexpected results were observed for the Fourex brand. Evidence from the spillover effects literature suggests that information will spill over to affect related attributes of a brand. It has also been demonstrated, however, that individuals make judgments about brand attributes from information that does not specifi cally refer to those attributes (Ahluwalia, Burnkrant, and Unnava 2000; Ahluwalia, <ref type="bibr" target="#b3">Unnava, and Burnkrant 2001)</ref>. We hypothesized that a product exhibiting indirect congruence with the sponsorship property would not be affected by team performance in terms of perceptions of brand quality. Yet it seems that spillover can occur if accessibility is facilitated by strong associative linkages between nodes. It appears that if a brand is perceived as having a strong conceptual connection to the sponsorship property, regardless of any functional relatedness, it may also be subject to spillover effects. Brand quality is a performance-related construct, and it appears that team results-a performance-related behaviorcan infl uence perceptions of it. Our results lead us to conclude that if the level of congruence is high, team performance results can be equally diagnostic for evaluations of brand quality, regardless of the type of congruence (direct or indirect).</p><p>An initial observation would be that market information in the form of a sponsorship association should be regularly communicated to consumers over a period of time. Frequency of exposure to the information regarding the association is, we believe, crucial to the success of sponsorship. From our fi ndings, however, a clear distinction arises when considering the type of sponsorship information consumers are exposed to. Reinforcing corporate and brand associations should be considered a key objective of sponsoring organizations, yet such associations must be carefully considered in light of team performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Managerial and Theoretical Implications</head><p>Given our results, it would seem that sponsorship is an effective tool in enhancing perceptions of a sponsor. It appears that it is capable of elevating consumers' positive perceptions of a corporation's image. We also conclude that sponsorship appears to operate on a brand's perceived quality. We would suggest that managers who wish to change consumer's preexisting perceptions of brand quality should seriously consider team sponsorship, with the caveat that for team sponsorships, underperformance can negatively impact such assessments. It would appear that team sponsorship should be primarily considered for successful teams only. The extra cost of associating with such teams may be worth the expense for the positive impact on consumers' perceptions of brand quality that may be gained. If the goal is to only improve perceptions of corporate image, then sponsorship of a team may be an appropriate strategy, with the added benefi t that team performance will not undermine such perceptions.</p><p>Most sponsorship managers perceive that sponsorships have an impact on corporate evaluation. Until this point, however, knowledge about the differential impact on brand quality and corporate image has remained largely intuitive. Certainly, the manner in which team performance affects sponsor brands has not been fully understood by managers. Sponsors clearly hope that a sponsorship will favorably enhance consumer views of both their products and their fi rm, and they are willing to pay large sums of money to associate with successful teams. In terms of promotion planning, the fi rm might position itself to be fl exible enough to take advantage of periods of good performance. During the course of a season, the fi rm might predominantly use its sponsorship association to bolster perceptions of its corporate image. In the weeks or periods when the team is performing well, the company might supplement this information by incorporating the results into additional promotional materials to attempt to infl uence consumer beliefs about its products. The timing of sales promotions during these periods, for example, may stimulate greater belief-based trial and purchase.</p><p>A fi nal contribution of our study is that, unlike much recent research on consumer response to sponsorship, our data were gathered from members of the general public in a realistic and cluttered environment. In examining sponsorship effect over time and its effect on consumer perceptions of corporate image and brand quality on a sample of the general population, we are able to demonstrate how winning and losing interact with sponsorship, something not previously addressed in the literature.</p><p>We believe our research adds to the theoretical understanding of how sponsorship works, particularly with respect to the effects of team performance. The study has some noteworthy implications. In demonstrating the theoretical aspect of sponsorship effect and highlighting its infl uence on the perceived attributes of brands, we are also showing how it is best employed. Clearly, marketers have a powerful tool at their disposal for not only creating new images and perceptions, but also changing existing ones, although the apparent close relationship between team performance and brand quality could make this a risky activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Further Research</head><p>There is a need for replication of this study. Such a replication should include a comprehensive examination of the concept of congruence from multiple perspectives using other product types and more specifi c attribute judgments. Although there is considerable evidence regarding the role of congruence in the sponsorship literature, longitudinal tracking of its effects would be benefi cial. It would therefore be a much broader study, and serious consideration would have to be given to the question of how to measure the physical attributes of the brand, possibly giving consideration to the inherent ambiguity in such attributes. Although we feel we have confi rmed that sponsorship has a major effect on perceptions of both brand quality and corporate image, greater insight into how it affects these perceptions could still be obtained.</p><p>Research in sponsorship has been lacking in experiments from the fi eld and we have sought to address this defi ciency. Field studies attempt to achieve external validity and generalizability; however, a priority for future research should be to conduct similar studies in a more controlled environment in an attempt to establish a degree of internal validity. Particular emphasis could be given to the degree to which respondents identify with the team being sponsored, as such fans may demonstrate different responses to poor performance and it would be worth noting whether negative spillover occurs for such groups. Further research could also endeavor to include prior brand attitudes as a moderating variable. An understanding of how preexisting attitudes to a brand might infl uence spillover effects would be a welcome addition to the literature.</p><p>Given that research into corporate associations has seen signifi cant growth in recent years, a replication using specifi c measures of a range of corporate associations would also be useful. Of further interest would be an examination of the impact of sponsorship using less well-known brands. The brands used in this research have a strong market presence; therefore, a manipulation of brand strength would be a welcome addition to the literature. There is also a need to more closely examine the relationship between team performance and brand evaluations. For instance, a study involving the use of less well-known or high-profi le teams would be of benefi t. Possible differential effects of performance on corporate image, though not observed in our research, might well occur with sponsorship of teams with lower profi les.</p><p>Another potential limitation of our research is the possible effect of extraneous media exposure throughout the duration of the studies. Future research might attempt to capture respondents' exposure to related information, as most event sponsorships include a signifi cant budget for sponsorship activation. However, we suspect media coverage of both events and sponsorship information would likely have had a minimal impact on the observed results, as it seems unlikely that only the informed group would be exposed to such media coverage.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>FIGURE 3 Brand Quality: State of Origin</figDesc><graphic coords="9,160.65,123.00,371.70,198.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>FIGURE 4 Corporate Image: State of Origin</figDesc><graphic coords="10,151.65,123.00,371.70,198.09" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,151.65,123.00,371.70,199.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,160.65,123.00,371.70,199.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 Means and Signifi cant Differences Between and Within Treatment Groups for Time Periods in Experiment 1 Formula 1 (Mercedes) Brand quality Corporate image Brazil San Marino Spain Brazil San Marino Spain Race result Pretest (2nd)</head><label>1</label><figDesc></figDesc><table><row><cell>(DNF)</cell></row><row><cell>(2nd)</cell></row><row><cell>(2nd)</cell></row><row><cell>Pretest</cell></row><row><cell>(DNF)</cell></row><row><cell>(2nd)</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX 1 Stimulus Provided at Pretest in Experiment 1</head><p>"Formula One is a motorsport racing competition with events held around the world. Racing teams comprise drivers, manufacturers, support personnel, and sponsors. For example, the McLaren Formula One team is sponsored by Mercedes Benz, who also provide the engines used in the races."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample of Stimulus Provided After Race in Experiment 1</head><p>"The most recent race in the Formula One competition was the Spanish Grand Prix, held in Madrid. Places were as follows: </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stimulus Provided at Pretest in Experiment 2</head><p>"State of Origin is a rugby league competition in which two of Australia's main rugby league states (New South Wales and Queensland) play a series of three games over a 6 week period. Teams are selected from the best players originating from each state. The Queensland team is sponsored by Fourex (XXXX), the beer manufacturer." </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample of Stimulus</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Managing Brand Equity: Capitalizing on the Value of a Brand Name</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Aaker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Free Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Building Strong Brands</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Free Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Consumer Response to Negative Publicity: The Moderating Role of Commitment</title>
+		<author>
+			<persName><surname>Ahluwalia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Rohini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Rao</forename><surname>Burnkrant</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Unnava</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="203" to="214" />
+			<date type="published" when="2000-05">2000. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Moderating Role of Commitment on the Spillover Effect of Marketing Communications</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Rao</forename><surname>Unnava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Burnkrant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="458" to="470" />
+			<date type="published" when="2001-11">2001. November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Architecture of Cognition</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">R</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Importance of the Brand in Brand Extension</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">M</forename><surname>Broniarczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">W</forename><surname>Alba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="214" to="228" />
+			<date type="published" when="1994-05">1994. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Company and the Product: Corporate Associations and Consumer Product Responses</title>
+		<author>
+			<persName><forename type="first">Tom</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">A</forename><surname>Dacin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="68" to="84" />
+			<date type="published" when="1997-01">1997. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">An International Review of Sponsorship Research</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cornwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Bettina</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Maignan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Exploring Managers&apos; Perceptions of the Impact of Sponsorship on Brand Equity</title>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">P</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Steinard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="41" to="51" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Effect of Brand Portfolio Characteristics on Consumer Evaluations of Brand Extensions</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">A</forename><surname>Dacin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="229" to="242" />
+			<date type="published" when="1994-05">1994. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Effects of Ingredient Branding Strategies on Host Brand Extendibility</title>
+		<author>
+			<persName><forename type="first">Kalpesh</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">Lane</forename><surname>Kaushik</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Keller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="73" to="93" />
+			<date type="published" when="2002-01">2002. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Measuring Corporate Images: A Review of Alternative Approaches</title>
+		<author>
+			<persName><forename type="first">Grahame</forename><forename type="middle">R</forename><surname>Dowling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="34" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Corporate Reputations: Should You Compete on Yours?</title>
+	</analytic>
+	<monogr>
+		<title level="j">California Management Review</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="19" to="36" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Does It Matter If It Smells? Olfactory Stimuli as Advertising Executional Cues</title>
+		<author>
+			<persName><forename type="first">Pam</forename><surname>Ellen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paula</forename><forename type="middle">Fitzgerald</forename><surname>Scholder</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="29" to="39" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Processes of Memory Loss, Recovery, and Distortion</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Estes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="148" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Self-Generated Validity and Other Effects of Measurement on Belief, Attitude, Intention, and Behavior</title>
+		<author>
+			<persName><forename type="first">Jack</forename><forename type="middle">M</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">G</forename><surname>Lynch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="421" to="435" />
+			<date type="published" when="1988-08">1988. August</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A Model of Image Creation and Image Transfer in Event Sponsorship</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">P</forename><surname>Gwinner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Marketing Review</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="170" to="182" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Building Brand Image Through Event Sponsorship: The Role of Image Transfer</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Eaton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="47" to="57" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Role of Marketing Actions with a Social Dimension: Appeals to the Institutional Environment</title>
+		<author>
+			<persName><forename type="first">Jay</forename><forename type="middle">M</forename><surname>Handelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">J</forename><surname>Arnold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="33" to="48" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Whatever Happened to Image?</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">H</forename><surname>Hardy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="70" to="76" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effects of Word-of-Mouth and Product Attribute Information on Persuasion: An Accessibility-Diagnosticity Perspective</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">M</forename><surname>Herr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Kardes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="454" to="462" />
+			<date type="published" when="1991-03">1991. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Relationships Among Ad-Induced Affect, Beliefs, and Attitudes: Another Look</title>
+		<author>
+			<persName><forename type="first">Pamela</forename><forename type="middle">M</forename><surname>Homer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="51" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Projection: Sponsorship Growth to Increase for Fifth Straight Year</title>
+		<author>
+			<persName><surname>Ieg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEG Sponsorship Report</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Congruence Between Spokesperson and Product Type: A Matchup Hypothesis Perspective</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Kamins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kamal</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology and Marketing</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="569" to="586" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Conceptualizing, Measuring, and Managing Customer-Based Brand Equity</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m">Strategic Brand Management: Building, Measuring, and Managing Brand Equity</title>
+		<meeting><address><addrLine>Upper Saddle River, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prentice Hall</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Effects of Sequential Introduction of Brand Extensions</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Aaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="35" to="50" />
+			<date type="published" when="1992-02">1992. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Negativity in Impressions of Presidential Candidates Revisited: The 1992 Election</title>
+		<author>
+			<persName><forename type="first">Jill</forename><forename type="middle">G</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="289" to="296" />
+			<date type="published" when="1996-03">1996. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Commercial Sponsorship</title>
+		<author>
+			<persName><forename type="first">Tony</forename><surname>Meenaghan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="5" to="73" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sponsorship and Advertising: A Comparison of Consumer Perceptions</title>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology and Marketing</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="215" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">An Attribution Explanation of the Disproportionate Infl uence of Unfavorable Information</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Mizerski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="301" to="310" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Construction and Validation of a Scale to Measure Celebrity Endorsers&apos; Perceived Expertise, Trustworthiness and Attractiveness</title>
+		<author>
+			<persName><forename type="first">Roobina</forename><surname>Ohanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="39" to="52" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Judging the Effi ciency of Sponsorship</title>
+		<author>
+			<persName><forename type="first">Ton</forename><surname>Otker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Research</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="53" to="58" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Checking the Success of Manipulations in Marketing Experiments</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><forename type="middle">C</forename><surname>Perdue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">O</forename><surname>Summers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="317" to="326" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Awareness of Sponsorship and Corporate Image: An Investigation Replicated</title>
+		<author>
+			<persName><forename type="first">Nigel</forename><forename type="middle">K L</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Voges</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Communications</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="28" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Seven Psychological Mechanisms Through Which Sponsorship Can Infl uence Consumers</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">W</forename><surname>Pracejus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sports Marketing and the Psychology of Marketing Communications</title>
+		<editor>
+			<persName><forename type="first">Lynn</forename><forename type="middle">R</forename><surname>Kahle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chris</forename><surname>Riley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="175" to="190" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Long-Term Effects of Sponsorship on Corporate and Product Image: Findings of a Unique Experiment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rajaretnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing and Research Today</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="62" to="74" />
+			<date type="published" when="1994-02">1994. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Congruence Effects in Sponsorship: The Mediating Role of Sponsor Credibility and Consumer Attributions of Sponsor Motive</title>
+		<author>
+			<persName><forename type="first">Nora</forename><forename type="middle">J</forename><surname>Rifon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie</forename><surname>Sejung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carrie</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hairong</forename><surname>Trimble</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="42" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">When Will a Brand Scandal Spill Over, and How Should Competitors Respond?</title>
+		<author>
+			<persName><forename type="first">Michelle</forename><forename type="middle">L</forename><surname>Roehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alice</forename><forename type="middle">M</forename><surname>Tybout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="366" to="373" />
+			<date type="published" when="2006-08">2006. August</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Warranty and Other Extrinsic Cue Effects on Consumers&apos; Risk Perceptions</title>
+		<author>
+			<persName><forename type="first">Terence</forename><forename type="middle">A</forename><surname>Shimp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">O</forename><surname>Bearden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="38" to="46" />
+			<date type="published" when="1982-06">1982. June</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Is a Company Known by the Company It Keeps? Assessing the Spillover Effects of Brand Alliances on Consumer Brand Attitudes</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><forename type="middle">L</forename><surname>Simonin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><forename type="middle">A</forename><surname>Ruth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="30" to="42" />
+			<date type="published" when="1998-02">1998. February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Social Judgement and Social Memory: The Role of Cue Diagnosticity in Negativity, Positivity, and Extremity Biases</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">J</forename><surname>Skowronski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">E</forename><surname>Carlston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="689" to="699" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Negativity and Extremity in Impression Formation: A Review of Explanations</title>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="131" to="142" />
+			<date type="published" when="1989-01">1989. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Basic Dimensions of the Corporate Image</title>
+		<author>
+			<persName><forename type="first">Aaron</forename><forename type="middle">J</forename><surname>Spector</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="47" to="54" />
+			<date type="published" when="1961-10">1961. October</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Determinants of Sports Sponsorship Response</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Speed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="226" to="238" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Some Effects of Schematic Processing on Consumer Expectations and Disconfi rmation Judgments</title>
+		<author>
+			<persName><surname>Stayman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dana</forename><forename type="middle">L</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">H</forename><surname>Alden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="240" to="255" />
+			<date type="published" when="1992-09">1992. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The Match-up Proposition: Physical Attractiveness, Expertise, and the Role of Fit on Brand Attitude, Purchase Intent and Brand Beliefs</title>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">D</forename><surname>Till</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Busler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The Impact of Source Reputation on Inferences About Unadvertised Attributes</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Wansink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Consumer Research</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Thomas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Srull</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Provo, UT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Consumer Research</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page" from="399" to="406" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Relationship Between Salesperson Performance and Understanding of Customer Decision Making</title>
+		<author>
+			<persName><forename type="first">Barton</forename><forename type="middle">A</forename><surname>Weitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="501" to="516" />
+			<date type="published" when="1978-11">1978. November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

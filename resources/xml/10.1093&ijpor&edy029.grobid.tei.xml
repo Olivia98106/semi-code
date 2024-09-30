@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Political Trust as a Determinant of Volatile Vote Intentions: Separating Within- From Between-Person Effects</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability status="unknown"><p>Copyright Oxford University Press (OUP)</p>
+				</availability>
+				<date type="published" when="2019">2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Remko</forename><surname>Voogd</surname></persName>
+							<idno type="ORCID">0000-0002-9553-5395</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Van Der Meer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wouter</forename><surname>Van Der Brug</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Political Trust as a Determinant of Volatile Vote Intentions: Separating Within- From Between-Person Effects</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Public Opinion Research</title>
+						<idno type="ISSN">0954-2892</idno>
+						<idno type="eISSN">1471-6909</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">31</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="669" to="693"/>
+							<date type="published" when="2019" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">97CF4B9937811B0C68E02B39046E185B</idno>
+					<idno type="DOI">10.1093/ijpor/edy029</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article studies the oft-assumed destabilizing effect of political distrust on party preferences. We argue that there are two mechanisms that relate political trust to electoral volatility: (1) structurally low trust undermines the formation of stable party preferences and thereby stimulates volatility, and (2) declining trust drives voters, particularly supporters of parties in government, to change party preference. These rivaling mechanisms are often conflated. Using the within-between random effects approach on two extensive panel data sets (covering three different governmental periods in The Netherlands between 2006 and 2017) allows us to separate both mechanisms and estimate them simultaneously. We find evidence for both the structural and the dynamic effects of political trust on changing vote intentions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>To understand the nature of rising electoral volatility, scholars have looked into the effect of citizens' political distrust on their volatile party preferences <ref type="bibr">(Dalton, 2004, p. 11;</ref><ref type="bibr">Dalton &amp; Weldon, 2005, p. 944;</ref><ref type="bibr" target="#b16">Mair, 2013;</ref><ref type="bibr">Zelle, 1995, p. 340)</ref>. Two perspectives on this relationship tend to be pitted against each other <ref type="bibr" target="#b20">(Norris, 1999;</ref><ref type="bibr" target="#b27">Van der Meer, Lubbe, Van Elsas, Elff, &amp; Van der Brug, 2012)</ref>. In the pessimistic perspective, the relationship between distrust and volatile preferences signals increasingly disengaged voters and a risk to democracy All correspondence concerning this article should be addressed to Remko Voogd, Department of Political Science, University of Amsterdam, Room B10.01, Nieuwe Achtergracht 166, 1018 WV Amsterdam, The Netherlands. E-mail: R.J. <ref type="bibr">Voogd@uva.nl</ref> Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy029/5298561 by Iowa State University user on 22 January 2019 <ref type="bibr" target="#b16">(Mair, 2013)</ref>. Others interpret this relationship more optimistically as the rise of critical citizens who monitor politics to hold their government accountable <ref type="bibr" target="#b22">(Rosanvalon, 2008)</ref>. Ultimately, we argue, these two perspectives rest on two distinct-rivaling but not mutually exclusive-theoretical models that often are conflated in empirical analyses.</p><p>The first model focuses on rather stable differences in trust between citizens. Those who consistently distrust parties, parliament, and government would be most likely to shift their vote intentions <ref type="bibr" target="#b2">(Be ´langer &amp; Nadeau, 2005;</ref><ref type="bibr">Dalton &amp; Weldon, 2005, p. 944;</ref><ref type="bibr" target="#b6">Dassonneville, 2012;</ref><ref type="bibr">Zelle, 1995, p. 340)</ref>. Their low levels of trust in political institutions would reduce incentives to form stable party preferences, such as the incentive to make their preferred party win the election and the incentive to participate to achieve this end <ref type="bibr">(Dalton &amp; Weldon, 2005, p. 937)</ref>. The second model focuses on the dynamics of trust and volatility within citizens over time. It argues that decreasing trust in political institutions makes citizens more likely to shift their vote intentions from one specific party to another, whereas increasing trust would lower that probability. A decline in trust would thus serve as an impetus for voters to shift to different parties <ref type="bibr">(Hooghe, Marien, &amp; Pauwels, 2011, p. 245;</ref><ref type="bibr" target="#b16">Mair, 2013)</ref>.</p><p>At a high level of abstraction, these models might appear similar, as they result in similar effects. Yet, the nature of the underlying mechanisms differs. The first emphasizes structurally unresponsive trusting (distrusting) attitudes that enable (undermine) the formation of partisan attitudes in general. By contrast, the second emphasizes an evaluative component of political trust <ref type="bibr" target="#b10">(Hardin, 1999)</ref> that is specific and reactive to its political environment.</p><p>Existing research often does not clearly distinguish between these two mechanisms, partially because it relies on data covering few changes in actual voting behavior <ref type="bibr" target="#b5">(Dalton &amp; Weldon, 2005;</ref><ref type="bibr" target="#b7">Dassonneville, Blais, &amp; Dejaeghere, 2015;</ref><ref type="bibr" target="#b24">So ¨derlund, 2008;</ref><ref type="bibr" target="#b33">Zelle, 1995)</ref> or on recall questions <ref type="bibr" target="#b5">(Dalton &amp; Weldon, 2005;</ref><ref type="bibr" target="#b6">Dassonneville, 2012;</ref><ref type="bibr" target="#b7">Dassonneville et al., 2015;</ref><ref type="bibr" target="#b24">So ¨derlund, 2008;</ref><ref type="bibr" target="#b33">Zelle, 1995)</ref>. Both types of analyses were unable to isolate the two rivaling mechanisms. Extensive panel data are required to separate individual-level differences in base levels of trust (between-persons) from individual-level changes around those base levels across time (within-persons). Yet, precisely those extensive panel studies have been lacking in the field. Without a crucial empirical test, the validity of the two mechanisms behind the relationship-and thereby the validity of the two perspectives on volatility-has remained unclear.</p><p>The primary aim of this article is to fill this void. We make two contributions to the existing literature. First, we identify two theoretical models of the trust-volatility relationship that have previously been conflated. We tie these models to two rivaling conceptualizations of political trust and to two rivaling normative interpretations of electoral volatility. Second, we test the validity of both theoretical models via extensive panel data sets spanning three governmental periods (Longitudinal Internet Studies for the Social Sciences (LISS), covering 9,411 respondents in seven waves; EenVandaag Opinion Panel [1VOP], covering 63,202 respondents in 55 waves). To distinguish the two individual-level mechanisms, we use the innovative within-between random effects (RE) framework <ref type="bibr" target="#b1">(Bartels, 2015;</ref><ref type="bibr" target="#b3">Bell &amp; Jones, 2015)</ref>.</p><p>Ultimately, this allows us to connect empirical outcomes to the normative debate on the nature and implications of political distrust and electoral volatility <ref type="bibr">(Dalton, 2004, p. 11)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Core Concepts: Electoral Volatility and Trust in Political Institutions</head><p>Trust in political institutions is best understood as the judgment that political institutions have both the motivation and competence to act in accordance with a person's normative expectations <ref type="bibr">(Miller &amp; Listhaug, 1990, p. 358</ref>) and will do so without oversight or monitoring <ref type="bibr">(Norris, 2011, p. 19;</ref><ref type="bibr">Uslaner, 2002, pp. 7-8)</ref>. It is a middle-range indicator of political support, more specific than the overarching principles of democracy <ref type="bibr">(Dalton, 2004, pp. 5-7)</ref> and more abstract than support for individual politicians or parties. Core components of political trust are trust in parliament and government <ref type="bibr" target="#b34">(Zmerli &amp; Newton, 2017)</ref>.</p><p>The nature of political trust is hotly debated. Two rivaling traditions may be distinguished. In the cultural tradition, political trust is a rather stable attitude that is hardly object-specific but finds it origins in a process of socialization or even more primal characteristics: it is unresponsive to and functions as a buffer against political performance. By contrast, in the evaluative tradition <ref type="bibr" target="#b10">(Hardin, 1999)</ref>, political trust is the result of a more or less cognitive evaluation of the specific trustee by the truster. In this tradition, political trust may be linked to evaluations of government performance <ref type="bibr" target="#b32">(Weber, Steinmetz, &amp; Kabst, 2017)</ref>. Both traditions find support in the empirical literature. The distinction between political trust as a stable, unresponsive attitude versus an evaluation is taken up in this article by breaking down political trust into a between-person component (base levels of trust that vary between citizens) and a within-person component (fluctuations of trust around that base level over time).</p><p>Voters' electoral volatility is understood as the shift in votes or vote intentions from one party to another. Although shifts in actual and intended vote intentions are evidently not the same, they generally have similar determinants, a.o. with regard to demographics, political sophistication, and media use. Similar to political trust, there are rivaling interpretations of the nature of electoral volatility. The pessimistic perspective suggests that volatile vote intentions indicate a whimsical electorate <ref type="bibr" target="#b16">(Mair, 2013)</ref>. In a more optimistic</p><formula xml:id="formula_0">P O L I T I C A L T R U S T A N D V O L A T I L I T Y</formula><p>perspective, volatility is understood as assertive behavior by voters, who monitor political parties and hold them accountable <ref type="bibr" target="#b27">(Van der Meer et al., 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypotheses: Direct Effects</head><p>We argue that these two sets of distinctions are not independent. We identify two causal mechanisms in the literature that relate trust in political institutions to electoral volatility.</p><p>The first mechanism takes rather stable differences in political trust between citizens as its starting point. The rationale for the between-person explanation is that ''distrusters'' are fundamentally more likely to have volatile vote intentions than ''trusters.'' This explanation largely builds on the classification of trust/distrust among a set of structural and unresponsive political attitudes ''which do not change from one day to another between two elections'' <ref type="bibr">(Dassonneville, 2012, p. 23)</ref>. Stable trust in political institutions functions as an incentive for electoral participation and the development of stable party preferences, as voters presumably want the current actors whom they trust to win the upcoming election <ref type="bibr" target="#b4">(Dalton, 2004;</ref><ref type="bibr">Dalton &amp; Weldon, 2005, p. 937;</ref><ref type="bibr" target="#b16">Mair, 2013;</ref><ref type="bibr" target="#b20">Norris, 1999</ref><ref type="bibr" target="#b21">Norris, , 2011))</ref>. Stable political distrusters, on the other hand, are deemed likely to be extra critical of every aspect of the political system <ref type="bibr">(So ¨derlund, 2008, p. 222)</ref>, which makes them consequently the most ''impatient,'' and the least ''happy'' voters about their previously endorsed parties <ref type="bibr">(Zelle, 1995, p. 340)</ref>. Under such critical attitudes, distrusters lack incentives to form stable party preferences, which might ultimately result in vote abstention <ref type="bibr">(Dalton &amp; Weldon, 2005, p. 938)</ref>. More commonly, however, distrusters abandon support for their previously endorsed party as soon as alternative parties emerge that vow to do politics differently to canalize distrusters' disaffection of the current system <ref type="bibr">(Be ´langer &amp; Nadeau, 2005, p. 127;</ref><ref type="bibr">Dalton &amp; Weldon, 2005, p. 940;</ref><ref type="bibr" target="#b11">Hetherington, 1999)</ref>.</p><p>The second mechanism suggests that citizens' short-term fluctuations in trust in political institutions over time (around a stable base level) have an independent effect on volatile vote intentions. In this perspective, political trust has an evaluative component, responding to specific changes in the political environment <ref type="bibr" target="#b10">(Hardin, 1999)</ref>. During a governmental period, citizens constantly update their evaluations of political officeholders and institutions, adapting their party preferences accordingly <ref type="bibr" target="#b8">(Erikson, Mackuen, &amp; Stimson, 2001)</ref>. Rising distrust during a governmental period, which partially results from (government) parties not meeting up with voters' expectations <ref type="bibr">(So ¨derlund, 2008, p. 211)</ref>, would make voters more likely to abandon the party they previously voted for. <ref type="bibr">Hetherington (1999, p. 311)</ref>, for instance, hints to this dynamic perspective when he argues, ''as trust decreases, the probability of a vote for either the incumbent or one of the other major parties drops significantly, while support for third-parties increases.''</p><formula xml:id="formula_1">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula><p>Our first two hypotheses read as follows:</p><p>Hypothesis 1: Voters with low levels of political trust have more volatile vote intentions. (between-persons hypothesis) Hypothesis 2: When someone's political trust decreases, one becomes more likely to shift vote intentions. (within-persons hypothesis)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypotheses: Conditional Effects</head><p>These effects are likely contingent on citizens' original party preferences. The very notion of volatility is fundamentally directional, determined by comparing the current party preference with a previously held party preference. Reward-punishment theories of voting behavior suggest that dissatisfaction with (the performance of) previously endorsed parties might well induce citizens to defect to another party <ref type="bibr" target="#b14">(Key, 1966;</ref><ref type="bibr">So ¨derlund, 2008, p. 218)</ref>. This conclusion has important implications for the relationship under study in this article, in particular to the extent that political trust is directed at governing parties. In that case, political trust can be expected to have a particularly strong effect on vote switching toward and away from any of the current governing parties. We expect that this holds in both theoretical models.</p><p>Citizens with low base levels of trust in political institutions are less likely to support government parties <ref type="bibr">(Dalton &amp; Weldon, 2005, p. 941</ref>). 1 When distrusting citizens vote for a party that subsequently becomes an incumbent party, their ''natural state'' as distrusters makes them the most likely subjects to immediately react critically again when early in the electoral cycle government parties have to make compromises or cannot deliver what they promised. Those distrusting voters subsequently change away from their preference for a governing party. By contrast, low political trust can be expected to have less effect on the likelihood of voters for opposition parties to switch.</p><p>The dynamic effects of changing trust and political distrust are even more likely to differ between government party voters and opposition party voters. Governing increasingly comes at the cost of losing electoral support to opposition parties <ref type="bibr" target="#b5">(Dalton &amp; Weldon, 2005;</ref><ref type="bibr" target="#b33">Zelle, 1995)</ref>. When the government does not meet expected performance levels, political trust decreases (Van Erkel &amp; Van der Meer, 2016) and thereby electoral support for the political parties 1 Some colleagues have argued that there is an endogeneity problem resulting from the fact that voting for a ''winning party'' (that obtains government power) boosts political trust. However, reversed causality is unlikely to affect our analysis. First, whereas the winner-loser gap implies that political trust is caused by previous voting choice, our study focuses on vote switching. Second, the winner-loser gap is very small in The Netherlands, particularly compared with bipartisan systems like the United States and the U.K., where winning and losing are closely linked to incumbency in a single-party government. <ref type="bibr" target="#b0">Anderson et al. (2005)</ref> conclude that the winner/loser gap is significantly and substantially weaker in consensual systems. Various recent studies find weak or even no winner-loser effect at all in multiparty systems ( <ref type="bibr" target="#b28">Van der Meer &amp; Steenvoorden, 2018)</ref>. Rather, opposition party voters are among the most trusting (Greens, Democrats 66) and the least trusting (Socialists, Freedom Party) in The Netherlands. that make up government <ref type="bibr">(Hoffman &amp; Stawski, 2009, p. 116)</ref>. This suggests that decreasing political trust will motivate persons who previously preferred a government party to change vote intentions to one of the opposition parties, whereas increasing trust offers no additional motivation to change.</p><p>For voters of opposition parties, the effects can be expected to run in the opposite direction. Decreasing levels of political trust do not offer opposition party voters clear incentives to change vote intention. Rather, it is the less common event of increasing political trust that might stimulate them to switch from an opposition party to a government party.</p><p>All in all, our third and fourth hypotheses read as follows:</p><p>Hypothesis 3: The effect of low base levels of political trust on electoral volatility in H1 will be stronger among voters for government parties than among voters for opposition parties. (between-persons hypothesis)</p><p>Hypothesis 4a: Among voters for government parties, declining political trust leads to more volatility. (within-persons hypothesis)</p><p>Hypothesis 4b: Among voters for opposition parties, increasing political trust leads to more volatility. (within-persons hypothesis)</p><p>Up to this point, we theorized about political trust and distrust as a rather undifferentiated concept. Yet, particularly in the second of the two theoretical models that we distinguish, it is worthwhile to distinguish trust in government from trust in parliament. As government is generally the most visible democratic institution, houses prominent political leaders, and holds the prime responsibility for policy output, vote switching likely responds more strongly to the evaluative component of trust in government than to trust in parliament.</p><p>Hence, from the perspective of critical citizens, it is likely that trust in government has a stronger dynamic effect on electoral volatility than trust in parliament. In other words, the within-respondent effect of political trust is likely to be more object-specific than the between-respondent effect. Our final hypothesis reads:</p><p>Hypothesis 5: The dynamic effects of trust in government (as defined in H2 and H4) are stronger than the dynamic effects of trust in parliament. (within-persons hypothesis)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Sets</head><p>A test of these hypotheses requires extensive panel data (multiple waves per government period and many respondents) to isolate the timing of potential effects and data collected in a multiparty system to isolate the direction of changes in vote intention. For that purpose, we rely on two data sets. The Between 2006 and 2010, the LISS panel covers three waves; respondents participated in an average of 2.1 waves. Between 2012 and 2017, our analyses cover four waves; respondents participated in an average of 3.2 waves. We dropped respondents who participated in only one wave: As our analyses estimate within-person variance in political trust, they require that a respondent participated in at least two survey waves. Ultimately, we ended up with 4,636 unique net respondents between 2006 and 2010 and 4,775 between 2012 and 2017. 3  To test the robustness of our analyses, we subsequently re-estimate our models on the Dutch 1VOP data, a collection of Web </p><formula xml:id="formula_2">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Dutch Case</head><p>The use of the LISS panel and the 1VOP restricts our analysis to The Netherlands. Turnout at national elections averaged 78%, making abstention a relatively modest phenomenon (see online Appendix B for a check of our models). Dutch voters can switch relatively easily between parties owing to a highly proportional electoral system, a low electoral threshold, and more than 2 We limit our analyses to the period in which an active government is in office (i.e., no caretaker governments that do not propose new policies).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3</head><p>The sample size before excluding respondents with missing values on core variables or who participated in only one wave was 8,524 (in 2006-2010) and 7,002 (in 2012-2017).</p><formula xml:id="formula_3">P O L I T I C A L T R U S T A N D V O L A T I L I T Y</formula><p>10 (sometimes ideologically very similar) parliamentary parties. 4 Levels of electoral volatility are therefore high. Electoral rivalry exists not merely between government and opposition parties but also among the government parties themselves as well as the opposition parties themselves ( <ref type="bibr" target="#b27">Van der Meer et al., 2012)</ref>. Concurrently, fluctuations in trust in political institutions are substantial, within-and between-government periods.</p><p>This makes The Netherlands an ideal case to disentangle the two mechanisms that relate political trust to volatile preferences. Although we expect these mechanisms to operate in other countries as well, they may be more difficult to detect when electoral incentives against vote switching are more prominent, such as in bipartisan democracies where political trust and party preference (support for a single incumbent) are more closely tied <ref type="bibr" target="#b0">(Anderson, Blais, Bowler, Donovan, &amp; Listhaug, 2005)</ref>. The focus on The Netherlands further allows to assess the robustness of the effects to government composition, as the ideological profile of the government varied from a center-left (2006-2010) to a right-wing (2010-2012) and a broad coalition <ref type="bibr">(2012)</ref><ref type="bibr">(2013)</ref><ref type="bibr">(2014)</ref><ref type="bibr">(2015)</ref><ref type="bibr">(2016)</ref><ref type="bibr">(2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>The explanatory variable-trust in political institutions-is measured for several objects. The main models focus on trust in parliament and trust in government. Both are measured using the recurrent item ''How much trust do you generally have in (parliament/the government)?'' Response categories range on an 11-point scale from 0 (no trust at all) to 10 (full trust). As a robustness check, and to broaden the scope of our test of H5, we assess to what extent effects hold for trust in parties, politicians, and democracy (see below).</p><p>Vote intentions are measured in each survey wave by the question ''If parliamentary elections were held today for which party would you vote?,'' followed by a standardized list of parties and party splits represented in parliament. Electoral volatility is the shift in vote intentions in subsequent waves. More precisely, our measure of electoral volatility only covers substantial changes in party preference, i.e., excluding changing preferences from or to nonsubstantive preferences such as don't know and abstention. 5 Changing from Party A (Wave 1) to Party B (Wave 2) counts as volatility; changing from Party A (Wave 1) to a nonsubstantive category (vote abstention, blank vote, or undecided) (Wave 2) and back to Party A (Wave 3) does not. In the case of missing data in a survey wave, we assumed that a respondent remained 4</p><p>The proportional system with a high number of parties ensured the availability of challenger parties that canalize distrust within parliament. Between 2007 and 2017, the time span in this study, three new parties entered parliament. None attracted more than 2% of the votes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5</head><p>We provide a robustness check with changing to/from vote abstention coded as volatile voting (online Appendix B). Effects are remarkably similar to those in the main analyses.</p><formula xml:id="formula_4">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula><p>with the vote intention stated in the previous wave in which the respondent participated. Vote switching is thus only coded at the moment that we are certain that a substantial change has been taking place. 6  We control for the number of months between subsequent waves and include a linear term for the survey wave in which responses are collected to control for time trends <ref type="bibr" target="#b9">(Fairbrother, 2014)</ref>. Descriptive statistics of the core variables per wave are provided in Table <ref type="table">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moderating and Control Variables</head><p>H3 and H4 require the inclusion of support for government parties as a moderating variable. For that purpose, we assess whether-at the 2006 and 2012 Lower House elections-respondents voted for one of the subsequent government parties (CDA, PvdA, and Christian Union (CU) for the Balkenende IV government period; VVD and PvdA for the Rutte II government period). 7  Finally, we control for a range of demographic variables, including level of education, age, gender, daily activity, religious denomination, and marital status <ref type="bibr" target="#b15">(Lachat, 2007;</ref><ref type="bibr" target="#b17">McAllister, 2002;</ref><ref type="bibr" target="#b33">Zelle, 1995)</ref>. We also control for party membership, which is a relatively stable characteristic of a limited number of Dutch citizens. Finally, we control for political interest, measured on a range from 0 (not interested) to 2 (very interested). Party identification is not available in the data set, but the LISS data contain a measure of party attachment since 2012 (the second period that we study). Including party attachment as a control variable hardly changes the estimated effect of political trust at the between level and has no consequences at the within level. We report these findings in the online Appendix.</p><p>Our dependent variable is indifferent to the substantial parties between which switching takes place. On paper, this might make it blind to potential biases, for instance, if vote switching among political distrusters predominantly benefits new or populist parties. However, this does not affect the analyses. First, new parties are in our analyses but were too marginal to affect our conclusions. The largest new party to enter the Dutch parliament since 2006 obtained 2% of the votes. Second, a substantial majority of the (very) dissatisfied voters still vote for mainstream parties <ref type="bibr" target="#b31">(Voogd &amp; Dassonneville, 2018)</ref>. Dutch voters with the lowest levels of trust vote as much for social-democratic parties (Socialist Party (SP), PvdA) as for the populist Party for Freedom (PVV). Third, dissatisfied voters of populist parties tend to be less volatile than dissatisfied mainstream party voters <ref type="bibr" target="#b31">(Voogd &amp; Dassonneville, 2018)</ref>, dampening the effect of political distrust on party switching.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>7</head><p>Respondents reported their actual party choices at the 2006 and 2012 elections in the first survey wave after the elections. A small number of respondents (ca. 15%) did not participate in those waves. For them, we relied on a later recall question. Recall bias is rather small in The Netherlands. It leads to more conservative estimations of volatility, as voters tend to recall in line with their current preferences (Van Elsas, Lubbe, Van der Meer, &amp; Van der Brug, 2014). </p><formula xml:id="formula_5">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The innovative ''within-between RE'' framework for analyzing nested/panel data <ref type="bibr" target="#b1">(Bartels, 2015;</ref><ref type="bibr" target="#b3">Bell &amp; Jones, 2015)</ref> allows us to simultaneously model the two effects that we disentangled theoretically. The RE framework is suited for analyses of longitudinal panel data with a hierarchical structure; repeated observations (Level 1) are nested in respondents (Level 2). Existing heterogeneity between higher-level units (i.e., respondents) is not controlled out of the model but explicitly estimated. As a result, RE models allow for the substantial interpretation of the effects of both time-varying and time-invariant predictors. Moreover, heterogeneity of lower-level effects caused by (observed or unobserved) differences between respondents can be substantially explained using cross-level interactions <ref type="bibr" target="#b1">(Bartels, 2015;</ref><ref type="bibr">Bell &amp; Jones 2015, pp. 133-134)</ref>.</p><p>Whereas ordinary RE models suppress the estimated effect sizes of variables that vary both within and between persons into a single confounded effect, the ''within-between RE'' method prevents such cluster confounding. 8  The variance in the predictor variables (political trust) is decomposed into a person-specific mean value, which is used as the between-persons operationalization of X it , and a within-persons operationalization of X it , which is calculated for every time point as the difference between the actual score X it and the person-specific mean value. 9 By separately including the within and between operationalization of the predictor variable in a regression model, both effects can be estimated separately <ref type="bibr" target="#b1">(Bartels, 2015;</ref><ref type="bibr">Fairbrother, 2014, p. 124)</ref>. 10  The within-between RE specification satisfies the often violated assumption of common RE models that Level 1 variables are uncorrelated with the RE term <ref type="bibr">(Bell &amp; Jones, 2015, p. 142)</ref>. Moreover, we can test whether the separation of the within from the between effect is superior to confounding these effects via the ''Cluster Confounding Test.'' 11 To perform this test, the model is reestimated with the inclusion of the originally coded political trust item instead 8 Although within-and between-cluster effects might indeed be equal and confounded in a single effect, ''it is the rule rather than the exception that within-group regression coefficients differ from between-group coefficients'' <ref type="bibr">(Snijders &amp; Bosker, 2012, p. 60)</ref>. 9 Within-person effects in panel data can generally be interpreted as: ''for a given person, as X varies across time by one unit, Y increases or decreases by (coefficient) units'' <ref type="bibr" target="#b1">(Bartels, 2015)</ref>. The symmetric interpretation of the effects of increasing/decreasing trust would be at risk when there is a clear and dominant increasing/decreasing trend. This is not the case in our analyses: macrolevel trends in trust do not develop in a single direction in any governmental period under analysis; individual-level fluctuations of trust move in both directions. 10 The ''within-person'' effects of trust are estimated while accounting for unobserved heterogeneity at the panel (between-persons) level <ref type="bibr" target="#b1">(Bartels, 2015)</ref>. However, there will remain biases in the estimates of the timeinvariant (between-person) effects if potential omitted variables are not identified <ref type="bibr">(Bell &amp; Jones, 2015, p. 135)</ref>.</p><p>11 Whether the model also allows for a comparison of the effect sizes of the separated within and between estimators is under debate <ref type="bibr" target="#b1">(Bartels, 2015;</ref><ref type="bibr">Hoffman &amp; Stawski, 2009, p. 116)</ref>, as the separation leads to different scales. We refrain from conclusions about the differences of the effect sizes. The cluster confounding test is unaffected by scale differences, as this test does not include the within-cluster operationalization of Level 1 variables <ref type="bibr" target="#b1">(Bartels, 2015)</ref>.</p><formula xml:id="formula_6">P O L I T I C A L T R U S T A N D V O L A T I L I T Y</formula><p>of its within-cluster transformation. In this model, the coefficient of the between-person estimator of a variable now represents the difference between the within-cluster and between-cluster effect of the original predictor <ref type="bibr" target="#b1">(Bartels, 2015)</ref>. Considering the dichotomous measure of volatility, we technically estimate random intercept logistic regression models (using the ''xtlogit'' command in Stata 14) that are compatible with our ''within-between RE'' framework.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results I: Within-and Between-Person Effects</head><p>To test our first two hypotheses, Table <ref type="table" target="#tab_0">2</ref> displays the estimates of the withinbetween RE models for both government periods separately. <ref type="foot" target="#foot_3">12</ref> We find that trust in parliament only has a significant between-person effect in both government periods, whereas trust in government has a significant within-and between-person effect on the volatility of vote intentions.</p><p>The between-person effects of trust in parliament in the Balkenende IV period (.82) and the Rutte II period (.91) suggest that the likelihood to shift vote intention is smaller among voters who generally have high levels of trust in parliament. The between-person effects of trust in government in the Balkenende IV period (.82) and the Rutte II period (.89) suggest the same. All four effects support the hypothesis that voters with low levels of political trust have more volatile vote intentions (H1).</p><p>Next, we move to within-person effects. The within-person effects of trust in parliament in the Balkenende IV period (.96) and the Rutte II period (.97) are in the expected direction but fall short of reaching statistical significance at the .05 level. Yet, the within-person effects of trust in government in the Balkenende IV period (.93) and the Rutte II period (.94) are significant: the likelihood to shift vote intention increases when voters lose trust in government. We thus find mixed support for the hypothesis that when someone's political trust decreases, one becomes more likely to shift vote intentions (H2).</p><p>The within-person effects are stronger for trust in government than for trust in parliament. The inclination to change vote intention responds more strongly to changing levels of trust in government than parliament. This is in line with our fifth hypothesis that the dynamic effects of trust in government are stronger than the dynamic effects of trust in parliament.</p><p>Table <ref type="table" target="#tab_0">2</ref> reveals an untheorized but interesting effect. Controlled for political trust, the odds of being a volatile voter are significantly lower among persons who voted for a future government party during the Balkenende IV period (.71), whereas we find the opposite during the Rutte II period (2.17). Additional robustness checks on the 1VOP data (see below) confirm this rather remarkable difference. This effect seems to be driven by a peculiar upheaval during the Balkenende IV period. After the 2006 elections, a new party was established in 2007 by the then very popular MP and former cabinet member, Rita Verdonk. It functioned as a rival to two other opposition parties: the conservative VVD from which she split and the populist Freedom Party of Geert Wilders. Verdonk's new party soared in the polls in 2008 (up to 17% of the polled votes) before crashing owing to internal scandals in 2009, even before the 2010 elections when voters had mostly returned to their party of origin and Verdonk received less than 0.5% of the votes.</p><p>In Table <ref type="table" target="#tab_0">2</ref>, significant unobserved heterogeneity continues to exist at the between-and within-person levels. The estimate of r suggests that 36% (in the Balkenende IV period) and 25% (in the Rutte II period) of the unexplained error variance in vote intentions is owing to time-invariant personspecific characteristics, and the rest is owing to time-variant effects. Regarding our modeling approach, the significant model-bounded likelihood-ratio tests in all models indicate that multilevel random intercept models provide more valid parameter estimates than pooled approaches. Moreover, the tests for cluster confounding support our choice for the within-between RE model over an ordinary RE model, as the differences between the within and between effects of trust in parliament/government are statistically significant in many of our estimated models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results II: Conditional Effects</head><p>Next, we expand our model to include the possible moderation of the effects of political trust by vote choice at the previous election. The results in Table <ref type="table" target="#tab_1">3</ref> show that inclusion of these interaction effects consistently improves the model fit. 13 Seven out of eight interaction terms are significant and in the theorized direction. Only the interaction effect of previous vote choice with the within-person variation in trust in parliament in the Balkenende IV period falls short of significance (p &lt; .05). All marginal effects are displayed in Figures <ref type="figure">1</ref> and<ref type="figure">2</ref>.</p><p>In the Balkenende IV period, Figure <ref type="figure">1a</ref> shows that the between-person effect of trust in parliament is more strongly negative for government party voters than for opposition party voters: High levels of trust in parliament dampen the likelihood to switch vote intention, but particularly so among 13 The correct estimate of the interaction term is k ðx it z it À x i z i Þ (Schunck, 2013). Specifying the interaction as trust_within Â vote2006 and trust_between Â vote2006 would estimate    significantly moderated by vote choice (Figure <ref type="figure">1b</ref>), whereas we did find a significant interaction effect for trust in government (Figure <ref type="figure">1d</ref>). The latter figure suggests that rising (/declining) trust in government did not affect the likelihood to shift vote intention among opposition party voters but did dampen (/strengthen) this likelihood among government party voters. Figure <ref type="figure">2a</ref>-d provides the interaction plots for the Rutte II period. Figure <ref type="figure">2a</ref> shows that the marginal between-person effect of trust in parliament is negative among government party voters; Figure <ref type="figure">2c</ref> shows a similar pattern for the marginal between-person effect of trust in government among these government party voters. The marginal between-person effects for opposition party voters, by contrast, diverge somewhat from those we have seen above: During the Rutte II period, trust in parliament and trust in government are not significantly related to shifting vote intentions among opposition party voters. When we focus on the within-person effects, trust in parliament (Figure <ref type="figure">2b</ref>) and trust in government (Figure <ref type="figure">2d</ref>) show different effects for government party voters (among whom rising levels of trust decrease the likelihood of volatile vote intentions) and opposition party voters (among whom rising/decreasing levels of trust have no effect on volatile vote intentions).</p><formula xml:id="formula_7">k fðx it À Àx i Þðz it À Àz i Þg ¼ k ðx it z it À Àx it z i À Àx i z it À Àx i z i Þ) to produce a different result. I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula><p>All in all, we find consistent support for the hypothesis that the effect of low base levels of political trust on electoral volatility (as stated in H1) is stronger among voters for government parties than among voters for opposition parties (H3). We find substantial support for the hypothesis that among voters for government parties, declining political trust leads to more volatility (H4a). We do not find any support for the hypothesis that among voters for opposition parties, increasing political trust leads to more volatility (H4b). The finding that the within-person effects are more outspoken for trust in government than for trust in parliament lends further credibility to H5.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Robustness Checks</head><p>We performed several robustness checks within the RE framework. The first and most extensive of these is the re-estimation of our models on the 1VOP data set. This data set is simultaneously more encompassing in terms of the number of waves and respondents and more constrained in terms of sampling and measures (see online Appendix C for all differences in detail). The outcomes are remarkably similar (see online Appendix D), despite differences in the sample (self-selection rather than random sampling), measurement (notably the reliance on a four-point measure of trust in government), and time span (the Balkenende IV and Rutte I governmental periods, rather than Balkenende IV and Rutte II). First, the 1VOP models confirm significant between-and within-person effects of trust in government on electoral volatility (supporting H1 and H2). Second, these effects are significantly stronger</p><formula xml:id="formula_9">P O L I T I C A L T R U S T A N D V O L A T I L I T Y</formula><p>among those who voted for the future government parties than among those who did not (supporting H3 and H4a). We continue to find no support for H4b. Third, we find the same type of untheorized effect as in the main analyses: Government party voters were less likely to have volatile vote intentions only during the Balkenende IV government.</p><p>Moreover, the 1VOP data allowed us to estimate various permutations of our models, basically performing robustness checks within this robustness check. Among other tests, we analyzed to what extent sample bias affected our estimates (by drawing subsamples of regular and incidental participants) and to what extent our coding of nonsubstantive vote intentions (by making the choice toward or away from intended abstention part of volatile preferences) did so. In all permutations, we found that our substantive conclusions were robust.</p><p>Second, we tested the robustness of our conclusions by estimating alternative models on the LISS data. These models include one additional determinant, subjective evaluations of the state of the national economy in the models, measured on an 11-point scale ranging from 0 (very dissatisfied) to 10 (very satisfied) (see online Appendix B). Surprisingly, between-person differences as well as within-person fluctuations in subjective evaluations of the economy do not affect vote switching when controlled for the other variables in the models. Moreover, the significance and the effect sizes of trust in parliament/government on vote switching remain very much the same as in the original models. The only notable exception is that the overall withinperson effect of trust in parliament now turns out to be significant in the Balkenende IV period (Model I). Overall these findings indicate that political trust taps into more than mere evaluations of the economic performances of those institutions.</p><p>Third, we test to what extent our operationalization of vote switching affects our conclusions, in line with the argument that vote shifting from or toward abstention also signals volatility <ref type="bibr" target="#b7">(Dassonneville et al., 2015)</ref>. When we include these switches in our coding of volatile voting, our substantive conclusions do not change. The effect sizes of the trust measures become a little bit stronger in most models (Tables <ref type="table" target="#tab_2">B3</ref> and<ref type="table">B4</ref> in online Appendix B). Yet, the only substantial difference with the original models is that the overall within-person effect of trust in parliament now becomes significant during the Rutte II government period. But-as in all other models-such an effect is largely driven by respondents who voted at the previous election for a later government party.</p><p>Fourth, we retest our hypotheses thrice, using related measures of political support: trust in political parties, trust in politicians, and trust in democracy as the explanatory variable. We find strong and significant between-person effects of all three measures on volatility but only find significant direct and conditional within-person effects of one measure, namely, trust in political parties. Government, political parties, and parliament are the most politicized of the objects in our data set, and the objects for which we find significant within-person effects. For the less politicized types of political trust-trust in politicians and democracy-no significant within-person effects exist. This provides additional support for the fifth hypothesis that the dynamic effects of political trust have an important object-specific component. By contrast, the consistently strong and significant between-person effects suggest a rather strong commonality, regardless of the specific measure or object. The between-person components appear to be part of a broader political trust syndrome, in which different objects load on a single underlying political trust factor <ref type="bibr" target="#b34">(Zmerli &amp; Newton, 2017)</ref>, whereas the within-person component is more closely tied to the literature that treats political trust as object-specific performance evaluations <ref type="bibr" target="#b10">(Hardin, 1999)</ref>.</p><p>All in all, our findings are highly robust across different data sets and model specifications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Across Western democracies, voters have become increasingly volatile. Some have lamented this rising volatility, interpreting it as a sign of rising citizen disengagement from electoral politics, ultimately undermining democracy itself <ref type="bibr" target="#b16">(Mair, 2013)</ref>. Others consider the electoral volatility as a sign of rising citizen assertiveness, improving both representation and electoral accountability <ref type="bibr" target="#b22">(Rosanvalon, 2008)</ref>.</p><p>To understand the nature of volatility, scholars have focused on its relationship to political trust. Yet, existing studies conflated two theoretical mechanisms that relate political trust to electoral volatility. On the one hand, in line with the pessimistic view, structurally low levels of political trust might erode steady partisan ties. On the other hand, in line with the optimistic view, shortterm rises and declines in political trust might steer party preferences toward and away from government parties. We argue that the former mechanism is captured primarily by between-person effects and the latter by within-person effects over time. Analyzing extensive panel data with the within-between RE approach allows us to isolate both mechanisms and estimate them simultaneously.</p><p>Our study provides firm evidence that both theoretical mechanisms play a significant and important role. First, although levels of trust in government are not structurally in decline <ref type="bibr" target="#b21">(Norris, 2011)</ref>, structurally low levels of trust in government induce more volatile vote intentions. Second, short-term fluctuations in trust in government, particularly decreasing trust, increase the odds of volatile vote intentions. This effect is significantly stronger among voters for government parties than among voters for opposition parties: Voters who at the previous election voted for a party who subsequently entered government are more vulnerable to the effects of declining trust. This is particularly the case for trust in government, but we found similar patterns for trust in parliament. In addition, these results were found in different historical periods with government coalitions of different ideological colors.</p><p>This provides empirical evidence for the theoretical microlevel mechanism brought forward by the cost of government literature <ref type="bibr" target="#b19">(Narud &amp; Valen, 2008;</ref><ref type="bibr" target="#b26">Van der Brug, Van der Eijk, &amp; Franklin, 2007)</ref>. Intriguingly, governments that generate some rising levels of trust among opposition party voters are not likely to be rewarded with rising electoral support among these voters. Political trust is not merely an evaluation of the regime and its institutions but an evaluation that itself has political consequences.</p><p>This study has wider implications. Methodologically, it illustrates the relevance of the unified ''within-between RE'' framework to political science studies. The framework overcomes various limitations of more conventional RE and fixed-effects models. It allows scholars to test hypotheses on within-and between-cluster effects simultaneously. This is relevant to not only panel studies (with respondents as the clusters) but also other types of clustered data such as longitudinal, cross-national studies (with countries as the relevant clusters), particularly when one expects differential longitudinal and cross-national effects <ref type="bibr" target="#b30">(Van Erkel &amp; Van der Meer, 2016)</ref>.</p><p>Theoretically, this study bridges the largely separate political trust and electoral volatility literature. Although we find both the expected withinperson effect and the expected between-person effect of political trust, it is important to distinguish them for their normative implications. This distinction matters not because of their effects on electoral volatility (which is quite similar) but in the nature of the underlying mechanism. The between-person effect indicates that a structural and unresponsive low level of political trust undermines voter attachment to any party. The conditional within-person effects, by contrast, indicate that political trust simultaneously has an evaluative component that makes people respond to changes in the political environment, most notably government. These responses may be focused or fickle-this article does not help to make such a distinction, although the wider literature suggests the former <ref type="bibr" target="#b21">(Norris, 2011;</ref><ref type="bibr" target="#b30">Van Erkel &amp; Van der</ref> Meer, 2016)-but crucial is that these fluctuations in political trust have substantive effects. Although structurally low and structurally declining political trust might signal a risk to representative democracy, trendless fluctuations in political trust rather seem to point to voter assertiveness, particularly in a system that provides voters the opportunity to canalize their distrust.</p><p>The reference to electoral volatility as a symptom of structural disaffection <ref type="bibr" target="#b16">(Mair, 2013</ref>) is thus only one part of the story. Volatility also suggests the existence of emancipated, critical citizens who hold their governments</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>P O L I T I C A L T R U S T A N D V O L A T I L I T Y 5 Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy029/5298561 by Iowa State University user on 22 January 2019</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>C H core of our analyses rests on the Dutch LISS panel, a long-running panel that collects data for social science research purposes, based on a high-quality random sample drawn from the Dutch population by Statistics Netherlands. The LISS panel allows a test of our hypotheses on two governmental periods. 2 Between 2006 and 2010, the government coalition (Balkenende IV) consisted of Christian-democratic Christian Democratic Appeal (CDA), social-democratic Labour Party (PvdA), and Christian-orthodox ChristenUnie. Between 2012 and 2017, the government coalition (Rutte II) was formed between conservative People's Party for Freedom and Democracy (VVD) and social-democratic PvdA.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>-based panel data by the public television, daily current affairs program EenVandaag. Although the 1VOP sample is based on self-selection, it captures a broad cross-section of the adult, native Dutch population (Van der Meer et al., 2012), covering 63,202 respondents who participated on average in 15.6 out of 55 waves between March 2007 and April 2012, covering two subsequent government periods (2006-2010; 2010-2012, a coalition [Rutte I] led by VVD with support from junior partner CDA and radical rightwing populist Freedom Party). A more extensive discussion of data and measurement in this robustness check is offered in the section ''Robustness Checks'' below, as well as in online Appendices C and D.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>P</head><label></label><figDesc>O L I T I C A L T R U S T A N D V O L A T I L I T Y 9 Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy029/5298561 by Iowa State University user on 22 January 2019Table 1 Overview of Wave Characteristics (LISS Panel Data) valid answers to the trust in (government and parliament) items. b Vote switching is calculated based on the reported vote immediately after the November 2006 election and the survey wave in December 2007. c Vote switching is calculated based on the reported vote immediately after the September 2012 election and the survey wave in December 2012/January 2013.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>P</head><label></label><figDesc>O L I T I C A L T R U S T A N D V O L A T I L I T Y 15 Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy029/5298561 by Iowa State University user on 22 January 2019</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>Figure 1 (a) Model III (Balkenende IV), (b) Model III (Balkenende IV), (c) Model IV (Balkenende IV), and (d) Model IV (Balkenende IV) P O L I T I C A L T R U S T A N D V O L A T I L I T Y</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,51.93,86.17,336.93,403.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Trust in Parliament and Trust in Government: Direct Effects</figDesc><table><row><cell>Rutte II (2012-2017)</cell><cell>Model I Model II</cell></row><row><cell>Balkenende IV (2006-2010)</cell><cell>Model I Model II</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Trust in Parliament and Trust in Government: Conditional Effects</figDesc><table><row><cell>Rutte II (2012-2017)</cell><cell>Model III Model IV</cell></row><row><cell>Balkenende IV (2006-2010)</cell><cell>Model III Model IV</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 Continued</head><label>3</label><figDesc></figDesc><table><row><cell>Rutte II (2012-2017)</cell><cell>Model III Model IV</cell></row><row><cell>Balkenende IV (2006-2010)</cell><cell>Model III Model IV</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy029/5298561 by Iowa State University user on 22 January 2019</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>December 2007 December 2008 December</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>December 2012 December 2013 December 2015 December</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_3"><p>For the full tables including all control variables, see the online Appendices A and B.I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_4"><p>The lines in Figure1aand 1c cross, as the predicted volatility of opposition party voters is higher than in Figure2aand 2c. This is owing to the unique event of the short-lived rise and fall of MP Rita Verdonk that we described earlier.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>accountable. Ultimately, both democratic optimists and democratic pessimists may find support in the empirical underpinning of the trust-volatility relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Data</head><p>Supplementary Data are available at IJPOR online.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Listhaug</surname></persName>
+		</author>
+		<title level="m">Losers&apos; consent: elections and democratic legitimacy</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Beyond &apos;&apos;fixed versus random effects&apos;&apos;: A framework for improving substantive and statistical analysis of panel, time-series cross-sectional, and multilevel data</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bartels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Quantitative research in political science</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Franseze</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Political trust and the vote in multiparty elections: The Canadian case</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Be ´langer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nadeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="146" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Explaining fixed effects: Random effects modeling of time-series cross-sectional and panel data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Science Research and Methods</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="133" to="153" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Democratic challenges, democratic choices: The erosion of political support in advanced industrial democracies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Dalton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Public images of political parties: A necessary evil? West European Politics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Weldon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="931" to="951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Electoral volatility, political sophistication, trust and efficacy: A study on changes in voter preferences during the Belgian regional elections of</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dassonneville</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Politica</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="41" />
+			<date type="published" when="2009">2012. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Staying with the party, switching or exiting? A comparative analysis of determinants of party switching and abstaining</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dassonneville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dejaeghere</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/ap.2011.19</idno>
+		<ptr target="https://doi.org/10.1057/ap.2011.19" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Elections, Public Opinion and Parties</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Erikson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mackuen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Stimson</surname></persName>
+		</author>
+		<title level="m">The macro polity</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>CUP</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Two multilevel modeling techniques for analyzing comparative longitudinal survey datasets</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fairbrother</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Science Research and Methods</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="119" to="140" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Do we want to trust in government</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hardin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Democracy and trust</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Warren</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The effect of political trust on the presidential vote, 1968-96</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hetherington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="311" to="326" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Persons as contexts: Evaluating between-person and within-person effects in longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Stawski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in human development</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="97" to="120" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Where do distrusting voters turn to if there is no viable exit or voice option?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>O L I T I C A L T R U S T A N D V O L A T I L I T Y Hooghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pauwels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Government and Opposition</publisher>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="245" to="273" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The responsible electorate: Rationality in presidential voting, 1936-1960</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">O</forename><surname>Key</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>Vintage Books</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">A heterogeneous electorate: Political sophistication, predisposition strength and the voting decision process</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lachat</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Nomos</publisher>
+			<pubPlace>Baden-Baden: Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Ruling the void: The hollowing of Western democracy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mair</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Versobooks</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Calculating or capricious? The new politics of late deciding voters</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mcallister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Do political campaigns matter? Campaign effects in elections and referendums</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Farrel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Schmitt-Beck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="22" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Political parties and confidence in government: A comparison of Norway, Sweden and the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Listhaug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">357</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Coalition membership and electoral performance in Western Europe</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Narud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Valen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cabinets and coalition bargaining: The democratic life cycle in Western Europe</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Strøm</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Mu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Bergman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>OUP</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="369" to="402" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Critical citizens: Global support for democratic government</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>OUP</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norris</surname></persName>
+		</author>
+		<title level="m">Democratic deficit: Critical citizens revisited</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Within and between estimates in random-effects models: Advantages and drawbacks of correlated random effects and hybrid models</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rosanvalon</surname></persName>
+		</author>
+		<ptr target="https://www.stata-journal.com/sjpdf.html?articlenum¼st0283" />
+	</analytic>
+	<monogr>
+		<title level="j">Stata Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="65" to="76" />
+			<date type="published" when="2008">2008. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Counter-democracy: Politics in the age of distrust. Cambridge: CUP. Schunck, R</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A B</forename><surname>Snijders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Bosker</surname></persName>
+		</author>
+		<title level="m">Multilevel analysis: An introduction to basic and advanced multilevel modeling</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Retrospective voting and electoral volatility: A Nordic perspective</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>So ¨derlund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Political Studies</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="217" to="240" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Uslaner</surname></persName>
+		</author>
+		<title level="m">The moral foundations of trust</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Der Brug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Der Eijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Franklin</surname></persName>
+		</author>
+		<title level="m">The economy and the vote</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>CUP</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bounded volatility in the Dutch electoral battlefield: A panel study on the structure of changing vote intentions in the Netherlands during 2006-2010</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Meer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lubbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Elsas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Elff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Der Brug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Politica</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="333" to="355" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Going back to the well: A panel study into the election boost of political support among electoral winners and losers</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Meer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Steenvoorden</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.electstud.2018.06.007</idno>
+		<ptr target="https://doi.org/10.1016/j.electstud.2018.06.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Electoral Studies</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="40" to="53" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Vote recall: A panel study on the mechanisms that explain vote recall inconsistency</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Van Elsas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lubbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Meer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Der Brug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="40" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Macroeconomic performance, political trust and the great recession: A multilevel analysis of the effects of within-country fluctuations in macroeconomic performance on political trust in 15 EU countries, 1999-2011</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F A</forename><surname>Van Erkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Meer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Research</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="177" to="197" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Are the supporters of populist parties loyal voters? Dissatisfaction and stable voting for populist parties</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Voogd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dassonneville</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/gov.2018.24</idno>
+		<ptr target="http://doi.org/10.1017/gov.2018.24" />
+	</analytic>
+	<monogr>
+		<title level="j">Government and Opposition</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Trust in politicians and satisfaction with government: A reciprocal causation approach for European countries</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Steinmetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kabst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Civil Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="392" to="405" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Social dealignment versus political frustration: Contrasting explanations of the floating vote in Germany</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Research</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="319" to="345" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Biographical Notes Remko Voogd is a PhD candidate doing research on the multidirectional relationship between political trust and electoral volatility at both the individual level and the system level</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zmerli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Newton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The handbook on political trust</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Zmerli</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Van Der Meer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="104" to="124" />
+		</imprint>
+	</monogr>
+	<note>The objects of political trust: Scales and hierarchies</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Van der Meer has published in a wide variety of national and international journals and edited volumes on themes such as political trust, electoral volatility, social capital, citizen participation, and quantitative research methods. Wouter van der Brug is a Professor of Political Science at the University of Amsterdam. His research interests focus on comparative research in collective political behavior, in particular electoral behavior, right-wing populism, political communication, political trust and support, and political parties</title>
+		<author>
+			<persName><surname>Tom Van Der</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Meer is a full Professor in Political Science and co-director of the Dutch Parliamentary Election Study and the Dutch Local Election Study (since 2015). He published in various international journals</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>O L I T I C A L T R U S T A N D V O L A T I L I T Y</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

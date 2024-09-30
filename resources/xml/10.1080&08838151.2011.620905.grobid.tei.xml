@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Television Co-Viewing in Mexico: An Assessment on People Meter Data</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">José-Domingo</forename><surname>Mora</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Jason</forename><surname>Ho</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Robert</forename><surname>Krider</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Fraser University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of British Columbia</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Beedie School of Business</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Simon Fraser University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">University of British Columbia</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Beedie School of Business</orgName>
+								<orgName type="institution" key="instit2">Simon Fraser University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Television Co-Viewing in Mexico: An Assessment on People Meter Data</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0883-8151 print/1550-6878</idno>
+					</monogr>
+					<idno type="MD5">F1F9C7064C193875EEC1852749490B1F</idno>
+					<idno type="DOI">10.1080/08838151.2011.620905</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Television co-viewing is a frequent behavior with important social and economic implications. This study proposes a measure of co-viewing on people meter panel data, tests it on a data set in Mexico, and uses it to explore co-viewing. Individual differences in psychographics, program genres and co-viewing of the lead-in programs were discovered as antecedents to coviewing. Results indicate as well that co-viewing leads to increased watching time and reduced channel browsing, and this effect interacts with group composition. These findings provide further support for the social uses of television theoretical framework, and shed light on the inheritance effects in continuous programs.</p><p>Co-viewing of television programs continues to attract attention from media agencies and TV broadcasters around the world, who refer to this behavior as group viewing. Proprietary research by Starcom in the United Kingdom shows an increase in co-viewing among adults in that country despite the growth in single-person households and, more importantly, that groups have higher levels of viewer attention and engagement than solo viewers <ref type="bibr" target="#b8">(Foote, 2004)</ref>. Such improved viewer attention and engagement was attributed to the interpersonal communications during coviewing, an argument later supported by ethnographic research <ref type="bibr" target="#b34">(Thinkbox, 2009)</ref> showing that co-viewing elicits conversations related to the brands and advertisements.</p><p>On the other hand, studies of co-viewing in the communication literature tend to be dated, situated primarily in the United States and use relatively obtrusive</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>measures or qualitative research. For example, <ref type="bibr" target="#b26">Robertson (1979)</ref> used Nielsen diary panel data which potentially creates recall biases. While observational research such as <ref type="bibr" target="#b18">Lull (1982)</ref> and <ref type="bibr" target="#b31">Schmitt, Woolf, and Anderson (2003)</ref> provide important insights into co-viewing, their qualitative findings would benefit greatly if validated by quantitative studies with representative samples. The first objective of this paper is to propose a new measure of co-viewing based on people-meter data used to report overnight TV ratings to advertising agencies, networks, and cable companies around the world. The researchers find strong support for the validity and reliability of the proposed measure in a study of antecedents to co-viewing in Mexico, an underresearched geography. The second objective is to use the proposed measure to study the consequences of co-viewing. Findings provide further support for the theoretical framework of the social uses of television <ref type="bibr">(Lull 1980a</ref><ref type="bibr">(Lull , 1980b))</ref>. Specifically, they show that co-viewing depends on the similarity of viewers' psychographic profiles, and on the genre of program. Co-viewing also increases individual consumption of television, and decreases the number of channels watched. Like individual viewing, the inheritance effects of sequential programs <ref type="bibr" target="#b5">(Cooper, 1996;</ref><ref type="bibr" target="#b37">Webster, 2006</ref>) also apply to co-viewing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Co-Viewing</head><p>As reported by Lee and Lee, ''despite the availability of multiple sets, watching television still occurs most often in a social context'' <ref type="bibr">(1995, p. 9)</ref>. This tendency seems to transcend time and technological platforms as <ref type="bibr" target="#b11">Haridakis and Hanson (2009)</ref> found that co-viewing predicted exposure to online videos.</p><p>Research on social uses of television reveals that TV viewing in a family context is a means to social ends <ref type="bibr">(Lull, 1980a</ref><ref type="bibr">(Lull, , 1980b))</ref>, and a setting where interpersonal and mediated communication potentially interact <ref type="bibr" target="#b28">(Rubin &amp; Rubin, 1985)</ref>. Lull's framework extends the uses and gratifications paradigm in the communication literature (e.g., <ref type="bibr" target="#b1">Blumler &amp; Katz, 1974)</ref>. It posits that individuals use television to achieve social goals. Some of these uses can only occur under co-viewing (e.g., conversational entrance, agenda for talk) as they involve interpersonal exchanges. Furthermore, family viewing provides opportunities to manage conflict and to promote family solidarity while enhancing the viewing experience through emotional gratifications: ''Television viewing is a convenient family behavior which is accomplished together'' <ref type="bibr">(Lull, 1980a, p. 203)</ref>. (emphasis in the original). The emotional gratifications aspect of Lull's theory is echoed by Csikszentmihalyi and Kubey who report that ''television watching was a significantly more challenging, cheerful and sociable experience with the family than alone' <ref type="bibr">' (1981, p. 324)</ref>.</p><p>Social uses of television <ref type="bibr">(Lull, 1980a)</ref> essentially are the factors pulling viewers together. However, some factors likely drive viewers apart. The researchers argue that the amount of co-viewing should depend on the similarity of the viewers' psychographic profiles. As individual psychological characteristics affect preferences, divergent psychographic profiles of couples imply divergent TV program tastes and hence less co-viewing. The difference in psychological traits of husband and wife was found to be an important predictor of the quality of marital life (e.g., <ref type="bibr" target="#b9">Gattis, Berns, Simpson, &amp; Christensen, 2004;</ref><ref type="bibr" target="#b10">Gonzaga, Campos, &amp; Bradbury, 2007;</ref><ref type="bibr" target="#b19">Markey &amp; Markey, 2007)</ref>. Divergent traits lead to more family conflicts requiring resolution. One of the uses of television in <ref type="bibr">Lull's (1980a)</ref> theory is conflict management, and the present study expects a couple with large differences in psychographic profiles to be more likely to use TV in this way. In summary, it is argued there is a nonlinear effect of a couple's psychographic similarity on co-viewing.</p><p>H 1 : Increasing differences in a couple's psychographic profiles would first decrease and then increase the amount of co-viewing.</p><p>A second prohibiting factor of co-viewing is individual differences in TV program genre preferences. Certain TV programs provide more emotional gratification when being watched together. For instance, telenovelas, melodramatic series similar to soap-operas but limited in number of episodes, was shown to promote co-viewing in some families (e.g., <ref type="bibr" target="#b0">Barrios, 1988)</ref>. Research by <ref type="bibr" target="#b35">Vosgerau, Wertenbroch, and Carmon (2006)</ref> shows that the prospect of watching television in company of others results in higher anticipated enjoyment for some programs genres while not for others. On the other hand, programs on subscription channels or pay TV are designed to attract only a small niche, which has a taste different from the mainstream. As co-viewing requires individuals to reach a consensus on program choices, pay TV would be least likely chosen as a co-viewing program.</p><p>H 2 : Co-viewing will vary across program genres.</p><p>Additionally, the theory of social uses of television helps predict how observed co-viewing would be related to individual viewers' TV consumption amount and the number of channels they watched. First, the previously discussed opposing forces driving viewers together or apart should also operate to maintain or disrupt the viewing group. As the gratification associated with co-viewing a TV program becomes stronger relative to conflicting program preferences within the group, one should observe both increased co-viewing and more television consumption. This is consistent with the finding by <ref type="bibr" target="#b41">Yang, Zhao, Erdem, and Zhao (2010)</ref> that the presence of any family member is a positive influence on total consumption of television programs by any other family member. The co-viewing effect on individual TV consumption is moderated as well by the composition of the viewing group in families with children. As shown by <ref type="bibr" target="#b3">Buijzen and Valkenburg (2005)</ref>, <ref type="bibr" target="#b26">Robertson (1979), and</ref><ref type="bibr" target="#b36">Warren, Gerke, and</ref><ref type="bibr" target="#b36">Kelly (2002)</ref>, among others, co-viewing is actively sought by parents and becomes a goal in itself.</p><p>The presence of the couple thus indicates it is likely the TV viewing incidence is used as a ''family moment'' so that groups with parents present are more likely to watch TV longer.</p><p>H 4 : Family co-viewing which includes the wife and husband increases individual viewers' TV consumption.</p><p>Another key implication of <ref type="bibr">Lull's contributions (1980a</ref><ref type="bibr">Lull's contributions ( , 1980b</ref><ref type="bibr">Lull's contributions ( , 1982) )</ref> is that television co-viewing program choices are largely mediated by group processes. Consider that an individual browsing channels only has to satisfy her/his own preferences. In a group context, however, agreement on frequent channel switching is likely more difficult to achieve than choosing a single channel and staying with it. In fact, if one person controls the remote the switching can be disruptive to the viewing continuity of other members of the group and reduce the emotional rewards of co-viewing. In viewing groups involving parents and children, parents may enforce choices on children, especially in socio-oriented families <ref type="bibr" target="#b4">(Chaffee, McLeod, &amp; Atkin, 1971;</ref><ref type="bibr">McLeod, Atkin, &amp; Chafee, 1972)</ref>.</p><p>H 5 : Co-viewing decreases the number of channels watched. <ref type="bibr" target="#b28">Rubin and Rubin's (1985)</ref> integrative framework of interpersonal and mass communication is relevant to the present study as well. Not limited to TV viewing, Rubin and Rubin extended the uses and gratifications paradigm in the communication literature and posit that individuals use both mediated and interpersonal communication, interchangeably, to fulfill their needs and achieve their goals. However, they conclude that the relationships among the two types of communication were still not well understood, and present a research agenda to pave the way towards the proposed theoretical integration. More than a decade later, O' <ref type="bibr">Sullivan (1999)</ref> found this integration to be still incipient. In fact, most studies in this literature stream consider only individual-level variables (e.g., <ref type="bibr" target="#b14">Kim &amp; Rubin, 1997;</ref><ref type="bibr" target="#b25">Perse, 1990)</ref>, and this may inhibit progress on integrating interpersonal and mass communication. The authors thus believe a measure of co-viewing derived from easily available people meter data could advance this research.</p><p>With exceptions in the parental mediation literature (e.g., <ref type="bibr" target="#b3">Buijzen &amp; Valkenburg, 2005;</ref><ref type="bibr" target="#b26">Robertson, 1979;</ref><ref type="bibr" target="#b36">Warren, Gerke, &amp; Kelly, 2002)</ref> most empirical research on television viewing tends to overlook co-viewing. One particular area that would benefit from a convenient co-viewing measure is rating prediction models. Statistical models of ratings, which have achieved good prediction accuracy using state dependence (present choices' dependence on past choices) as well as individual and program characteristics as predictors (e.g., <ref type="bibr" target="#b29">Rust &amp; Alpert, 1984;</ref><ref type="bibr" target="#b32">Shachar &amp; Emerson, 2000;</ref><ref type="bibr" target="#b37">Webster, 2006)</ref> still generally ignore co-viewing. However, coviewing may help explain a phenomenon primarily observed at the individual level-the ''inordinately high levels of audience duplication in programs scheduled back to back'' <ref type="bibr">(Webster, 2006, p. 323)</ref> or inheritance effects <ref type="bibr">(Goodhart, Ehrenberg, &amp; Collins, 1975;</ref><ref type="bibr">cited by Webster &amp; Wakshlag, 1983)</ref>. As argued earlier, viewing in groups is driven by the social uses of TV <ref type="bibr">(Lull, 1980a</ref><ref type="bibr">(Lull, , 1980b) )</ref> which give the emotional reward of companionship a higher priority than the entertainment and information value of specific programs. As ''family moments'' or ''couple nights'' typically extend beyond one specific program of a night and the inertia of staying with the same channel would simplify the group choice process, inheritance effects are likely to be found at the viewing group level.</p><p>H 6 : Co-viewing exhibits inheritance effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A Measure of Co-Viewing on People Meter Data</head><p>A new measure of co-viewing based on people meter data is proposed. Coviewing is defined here as the time period in which more than one individual is watching the same program.</p><p>People meter data typically report the number of minutes each individual in a household watches a program within a specified reporting interval, such as 15 minutes. Consider two individuals in a household, A and B, who watch a television program during a specified reporting time interval. Denote the reported minutes that each watch the program as t A and t B respectively. Without loss of generality, suppose A watches longer than B, i.e., t A &gt; t B . If it is assumed that the shorter viewing time of B is fully within the viewing time of A, the proportion of shared viewing time is t B /t A . Generalizing, for any dyad of viewers i and j living in a household, the index of shared viewing (ISV) of a specific program during the reporting interval (typically 15 minutes) is defined as:</p><formula xml:id="formula_0">ISV i,j D 8 &lt; : min(t i , t j ) max(t i , t j ) if t i &gt; 0 and t j &gt; 0 0 otherwise.<label>(1)</label></formula><p>Note that, if either viewing time is zero, the shared viewing is defined as zero. Note as well that the assumption that the shorter viewing session is within the longer session will always be met if the longer session covers the measurement interval.</p><p>With short reporting intervals of 15 minutes this is the overwhelming majority of cases. In the 15-minute interval data available for this study it was found that either the longer viewing interval was equal to 15 minutes or both viewing times were zero, in 96.7% of cases. The dyadic expression in Eq. ( <ref type="formula" target="#formula_0">1</ref>) is the fundamental unit of ISV, measuring how much co-viewing a certain dyad in a household has with respect to a certain TV program in a 15-minute (or other reporting length) interval. This fundamental unit can be aggregated in a wide variety of ways, which provides great flexibility in various applications of the proposed measure. For example, following <ref type="bibr">Lull (1980a)</ref> and <ref type="bibr">Yang and associates (2010)</ref>, the researchers were interested in measuring coviewing in dyads defined by their family roles, such as the wife-husband dyad or the dyads between the mother (wife) and the children as shown on Figure <ref type="figure" target="#fig_1">1</ref>, with respect to a specific TV program. The fundamental unit of ISV was thus averaged by a specific dyad in a household, say the husband and wife dyad, over all 15minute intervals broadcasting a specific program, say Bob Esponja (Sponge Bob) in the sampling period. The resultant average, denoted as ISV hw is a program-level measure of co-viewing by a husband-wife dyad in a specific household for Bob Esponja. One can also average over different dyads according to one's interest in different family roles. For example, if the research interest is in mother-children coviewing, and there are three children in the family, ISV of the three possible dyads of the mother with each child is calculated first, and then averaged across these three ISV's.</p><p>ISV is a flexible measure of co-viewing based on the widely available people meter data. ISV has several important advantages over measures of co-viewing on diary panels <ref type="bibr" target="#b26">(Robertson, 1979)</ref>: first, it eliminates the recall biases germane to the diary panels; second, the proposed measure can be easily calculated on overnight rating reports widely used by the industry; and, third, as a consequence of the latter, the ISV may provide valid country-level estimates of co-viewing and possibly for smaller populations of interest depending on the panel sample design.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Empirical Studies</head><p>Two studies were conducted, first, to demonstrate the validity and reliability of ISV; and, second, to test the hypotheses derived from the review of literature. Study 1 examines the antecedents to co-viewing, which are well documented or logically derived from the literature, to assess the validity and reliability of ISV. Study 2 assesses the proposed impact of co-viewing on total television consumption and number of channels watched.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data</head><p>The data set used was part of the daily compilation of TV ratings for Mexico, and thus the sample was carefully designed and monitored to be representative of the whole viewing population in Mexico. The electronic people-meter panel in Mexico, operated by Ibope-AGB, consisted of more than 2,400 households and more than 8,500 individuals (the actual number fluctuates each day due to panel rotation and variations in data capture). The data were reported in 15-minute intervals at the individual level. People meter data may be reported at the set level; however, often, as is the case with the study's data, the specific set watched is not reported. In this case, the data required a slight relaxation of the notion of co-viewing. The study simply treated two individuals watching the same program at the same time in the same household as co-viewing. In 2007, only 39.5% of Mexican households had more than one TV set <ref type="bibr" target="#b12">(INEGI, 2007</ref>; the data corresponds to 2006) so that in at least 60% of the cases co-viewing must occur on the same TV set. For the remaining population, the literature on frequency of co-viewing and the psychological incentives to watch together discussed earlier suggest that it is rare that, for instance, wife and husband view the same program at the same time on different TV sets.</p><p>Besides standard individual demographics, the study's data set contains categorical variables for the household's geography (Mexico City, Monterrey, Guadalajara, and 25 smaller cities collectively labelled as ''Provinces''), and the psychographic group of each adult panellist (described in detail in Appendix A). Combined with the questionnaires, this allows developing a measure of the degree of difference between the husband's and wife's profiles, and tests the effect of the difference on co-viewing (H 1 ).</p><p>Covering the prime-time period of Monday to Friday, from 7 p.m. to 11 p.m. during the months of January to April of 2006-a total of 17 weeks, the data set reports individual consumption, in minutes, for 101 channels by 15-minute intervals. To study the program type effect, the national free TV channels were classified into 11 genres. Local television channels were reported as a single option. The data also included video games and video players, which were also combined as one option.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 1: Assessment of the Proposed Measure</head><p>One objective of this study was to assess the validity and reliability of the ISV as a measure of a dyad's tendency to co-view television programs, using known antecedents of this behavior, and to test the earlier discussed antecedents to coviewing, namely psychographic distance (H 1 ), program type (H 2 ) and past coviewing (H 6 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Validity and Reliability.</head><p>The original conceptualization of validity (e.g., <ref type="bibr">Borsboom, Mellenbergh, &amp; van Heerden, 2004;</ref><ref type="bibr" target="#b13">Kelley, 1927)</ref> defines a measure as valid if it measures what it purports to measure. To assess whether the ISV is measuring the co-viewing of a dyad, the authors evaluate how well the ISV can be predicted by several antecedents which have been shown in the literature to predict co-viewing or else constitute logical antecedents of this behavior, and present them as three expectations:</p><p>1. Higher socioeconomic status decreases co-viewing (based on <ref type="bibr">Lull, 1980a;</ref><ref type="bibr" target="#b21">McLeod et al., 1972)</ref>. 2. Increasing age of the couple decreases co-viewing (based on <ref type="bibr" target="#b40">Yang, Narayan &amp; Assael, 2006)</ref>. 3. New TV programs would have less co-viewing, since formation of groups requires either reaching an agreement or else conforming to the new norm, and both processes take time. <ref type="bibr" target="#b6">Cronbach and Shavelson (2004)</ref> define reliability as a synonym for accuracy. Although ISV is not a psychological measure, the authors refer to <ref type="bibr">Lord &amp; Novick (1968</ref><ref type="bibr">, cited by Laenen, Alonso, Molenbeghs, &amp; Vangeneugden, 2007)</ref> who define reliability in a psychological measurement context as ''the ratio of the true score variance to the observed score variance'' <ref type="bibr">(2007, p. 238)</ref>. One common way to demonstrate reliability is to examine the stability of a measure over time: a more reliable instrument will lead to smaller differences between repeated measures of the same phenomenon as compared to a less reliable instrument. As such, if ISV is a reliable measure of co-viewing, then ISV from two sampling periods should be highly correlated. To evaluate such correlation, the researchers examined whether ISV of a dyad in an earlier sampling period would have a large and positive effect on the ISV of the same dyad for the same program in the later sampling period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Samples.</head><p>The 17-week data set is divided into two samples: 1) a model estimation sample, which comprises the 11 weeks between February 13 and April 30, 2006 inclusive; and, 2) a model initialization sample, which comprises the 6 weeks between January 2 and February 10, 2006 inclusive. As the panel had some slight changes across the two sampling periods, only the households and individuals appearing in both periods were used, and then calculated ISV between different family roles, as defined in Figure <ref type="figure" target="#fig_1">1</ref> for both periods. Also note that, to account for the potential difference between childless couples and nuclear families, the estimation and initialization samples are further split into childless couples and nuclear families (couples with children and no other adults living in the household), to create a total of four subsamples. Tables 1, 2, and 3 summarize the two family types in the estimation sample. Model Specification.</p><p>To examine the antecedents to co-viewing, four models were estimated, each of which used an ISV of the dyad specified in Figure <ref type="figure" target="#fig_1">1</ref> as the dependent variable in the estimation sample. Specifically, the four dependent variables are (1) ISV between the wife-husband couple, ISV wh ; (2) ISV between the husband and child(ren), ISV hc ;</p><p>(3) ISV between the wife and child(ren), ISV wc ; and, (4) ISV between two children, ISV cc . Each model then has the same set of independent variables:</p><p>(1) 4 indicator variables for socio-economic status (to demonstrate validity of ISV as in expectation 1); (2) sum of the ages of wife and husband (expectation 2);</p><p>(3) an indicator variable for new programs, which did not start broadcasting until the estimation sample period (expectation 3); </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Estimation and Results.</head><p>As ISVs, the dependent variables that the study is interested in, are bound between 0 and 1, each dependent variable is related to the independent variable in a generalized linear model, which is estimated with quasi-likelihood method (see <ref type="bibr" target="#b24">Papke &amp; Wooldridge, 1996</ref>, for a useful discussion and example; <ref type="bibr" target="#b39">Wedderburn, 1974)</ref>. A logit link is used in this model, which produces coefficient estimates identical to a logistic regression, but with smaller sampling errors due to the more appropriate specification. Tables <ref type="table">4</ref> and<ref type="table" target="#tab_2">5</ref> present the estimation results in the samples of childless couples and nuclear families. McFadden's r 2 and the ratio deviance to degrees of freedom, D/DF, show that all models exhibit good fit (e.g., <ref type="bibr" target="#b20">McCullagh &amp; Nelder, 1989)</ref>.</p><p>As shown in Tables <ref type="table">4</ref> and<ref type="table" target="#tab_2">5</ref>, the three variables included to demonstrate validity all show significant effects with the expected signs: the higher the socioeconomic status, the less co-viewing observed (expectation 1); the greater the sum of ages of the couple the less co-viewing (expectation 2); and new programs have less co-viewing (expectation 3). Moreover, ISV propensity has a strong significant positive effect, providing evidence for good reliability of ISV.</p><p>The results also show support for the three hypotheses related to antecedents of co-viewing (H 1 , H 2 , &amp; H 6 ). While both the linear and quadratic terms of psychographic distance between the couple have insignificant effect on the co-viewing between the couple of nuclear families, they are significant and show the nonlinear effects on co-viewing of the other three dyads. To better understand such nonlinear effects, the model coefficients were used to simulate and graph the relations (Figure <ref type="figure" target="#fig_2">2</ref>). Consistent with H 2 , the psychographic distances between the father and mother in a nuclear family would first decrease co-viewing but eventually increase co-viewing.</p><p>The study also found strong support for H 2 , indicated by the significant positive effects of telenovelas and other program genres from the base case, pay TV. Pay TV would lead to the least amount of co-viewing while Mexican sitcoms, newscasts and telenovelas would be most conducive to co-viewing of all four dyad types of both childless couples and nuclear families. Last but not the least, the strong positive effects of ISV last-15min on co-viewing of all four dyad types in both childless couples and nuclear families samples confirm H 6 , the inheritance effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 2: Consequences of Co-Viewing</head><p>The goal in Study 2 was to test the co-viewing effect on viewers' individual consumption and number of channels watched (H 3 , H 4 , and H 5 ). As such, unlike Study 1, the fundamental unit of ISV was used, namely the ISV for one 15-minute interval, to detect the group size of a viewing occasion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method and Sample.</head><p>A sample of 15-minute intervals in 20 randomly selected days was taken from the 17-week raw data set. This sample had 476,640 cases, with each case rep- ranging from 2 to 8 (please see Appendix B for details on the group detection algorithm).</p><p>To test H 3 , H 4 , and H 5 , for each viewing occasion, VIEW, the average proportion of a 15-minute interval watched by each individual viewer (whether alone or in a group) and CHAN, the number of channels watched during the viewing occasion, Results.</p><p>The first result to note was that co-viewing was found to be less frequent than the 70% of occasions reported in a previous quantitative co-viewing study <ref type="bibr" target="#b26">(Robertson, 1979)</ref>. In the 2006 data available for this study, viewer groups with two or more people form 26.6% of the prime-time audience in Mexico but contribute 48.6% of the minutes watched by the total audience. The differences may stem from: a) the self-report nature of the previous estimate, as opposed to the quasi-passive observation that takes place in a people meter panel; b) the fact that one that the previous study refers specifically to joint viewing of parents and children; c) the growth of subscription channels in the last decades; and d) differences in study locations.</p><p>The means of VIEW and CHAN were compared across different viewing occasions, e.g., single-person viewing vs. viewing group of 2 vs. viewing group of 3, etc. No differences were found across different viewing group sizes but significant differences were found between individual viewing and co-viewing (of any group size). Specifically, individuals tend to watch 9.6% less TV and visit 3% more channels than groups of any size (p &lt; .0001). These results were consistent with H 3 and H 5 . To test if the presence of both the husband and wife in a viewing group would lead to higher TV consumption (H 4 ), the means of VIEW were compared across the five group compositions. Figure <ref type="figure" target="#fig_0">3</ref> plots the means of the five group compositions and the three single viewing occasions on both VIEW and CHAN. To facilitate the analysis of results, the means plot of Figure <ref type="figure" target="#fig_0">3</ref> was divided into 9 regions using dotted lines. These lines are merely illustrative (they are not confidence intervals): they separate points or groups of points which are significantly different (p &lt; .001) on either dimension from other points or groups of points. Figure <ref type="figure" target="#fig_0">3</ref> revealed that groups with or without children where both the husband and wife are present (region 6) watch longer than any other type of groups, confirming H 4 .</p><p>Although not related to co-viewing, one interesting finding from Figure <ref type="figure" target="#fig_0">3</ref> was that the viewing occasions of ''child alone,'' ''wife alone,'' and ''husband only,'' exhibited some interesting differences in VIEW and CHAN. ''Child alone'' watched considerably shorter than any other individual or type of group while visiting significantly fewer channels. Such combination of shorter time and fewer channels may reflect a search pattern where a single channel was checked in short on/off raids looking for specific programs-for example to check if Bob Esponja (Sponge Bob) is on, or else turn the set off. This behavior was consistent with instrumental or intentional use of television programs <ref type="bibr" target="#b27">(Rubin, 1984)</ref>. Lone adults follow a different protocol: longer viewing of more channels. This could result from unspecific search patterns and lower levels of engagement, consistent with a more ritualized or habitual use of television. <ref type="bibr" target="#b30">Rust, Kamakura, and Alpert (1992)</ref> found that 33% of the audience in a people meter sample in the United States turned on the set to watch specific programs while the remaining 66% turned on the TV just to watch television. In this study's data, the first group would likely have more children and the second more parents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions and Future Research</head><p>To facilitate future empirical studies on co-viewing of TV in particular and integration of interpersonal and mass communications in general, the researchers propose ISV, a new measure of co-viewing, which can be conveniently computed from commonly collected people meter data. By examining some known antecedents to co-viewing in Study 1, the researchers provide strong support for the validity and reliability of ISV. When assessing reliability, ISV constructed from two time periods for the same dyad with respect to the same program had strong correlation, demonstrating the stability of this measure over time. Interestingly, such stability of ISV over time is consistent with the findings that present choices and amount of consumption depend on past choices and past amount of consumption, or state dependence <ref type="bibr" target="#b22">(Moshkin &amp; Shachar, 2002;</ref><ref type="bibr" target="#b29">Rust &amp; Alpert, 1984;</ref><ref type="bibr" target="#b32">Shachar &amp; Emerson, 2000)</ref>.</p><p>The study found that ISV is a better measure of co-viewing compared to others reported in the literature as it does away with recall biases and eliminates lags between behavior and measurement. ISV may as well be incorporated in overnight rating reports, making it very convenient for researchers and practitioners. Finally, ISV allows for estimates by demographic group depending on panel sample design.</p><p>Study 1 also found support for H 1 , H 2 , and H 6 . First, although it failed to find a significant effect of a couple's psychographic distance on their co-viewing, it found in nuclear families that the parents' psychographic distance would first decrease but eventually increase co-viewing of dyads involving children, as described in H 1 . This suggests the presence of children may be necessary to activate the conflict management use of television. These results are consistent as well with the proposed interplay of personal and mediated communication <ref type="bibr" target="#b28">(Rubin &amp; Rubin, 1985)</ref> in the specific context of family life. The findings provide potential hypotheses to guide future studies on two research questions proposed by Rubin and Rubin in their research agenda (p. 41): a) when does mediated communication becomes a substitute for interpersonal communication? The results suggest that possibly at larger psychographic distances and in the presence of children; and, b) when do other activities become substitutes for mediated communication? The results suggest that possibly at larger psychographic distances and in the absence of children.</p><p>Second, Study 1 found that some program types would be more conducive to co-viewing than the others, as in H 2 . Possibly due to their mass appeal, newscasts, Mexican sitcoms, and telenovelas are most likely to be viewed in groups while programs on pay TV channels tend to attract a small niche and thus lead to the least co-viewing.</p><p>The third antecedent tested in Study 1 was inheritance effects. The research found a large and positive effect of the ISV of 15-minute interval immediately preceding the focal TV program, indicating that the audience duplication found at the individual level <ref type="bibr" target="#b5">(Cooper, 1996;</ref><ref type="bibr" target="#b37">Webster, 2006</ref>) also occurs at the viewing group level. One interesting future research direction would be to test how the inheritance effects at the individual and at the viewing group levels would interact with one another.</p><p>Study 2 found that individuals in a viewing group would watch on average close to 10% longer and 3% more channels than individuals watching TV by themselves, providing support for H 3 and H 5 . Further breaking down the co-viewing occasions by group composition, it was found that the presence of parents in a viewing group would lead to higher individual TV consumption, supporting H 4 . The effects of coviewing on consumption amount and channel numbers have not been addressed before in spite of their interest for advertisers, media agencies, and media managers. It is hoped that this research encourages more studies in group effects on media consumption beyond TV. For instance, as <ref type="bibr" target="#b11">Haridakis and Hanson (2009)</ref> showed that co-viewing predicts exposure to videos broadcast over YouTube, it would be an interesting question for future research to ask whether the co-viewing effects on YouTube would be moderated by the group composition as well.</p><p>Prime-time television programs are profit drivers and sizeable investments. This study showed that co-viewing during prime time is a key aspect which television firms should further investigate. For instance, broadcasters may want to know if co-viewing patterns can shed light on whether a new series with modest ratings has good prospects for the future. For advertisers, a continuous measure of coviewing will allow further exploration of the extent to which co-viewing is related to viewer engagement and advertisement recall as research has suggested (e.g., <ref type="bibr" target="#b17">Lloyd &amp; Clancy, 1991;</ref><ref type="bibr">Tavassoli, Shultz &amp; Fitzsimons, 1995)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendices</head><p>Appendix A: Psychographic Distance Psychographic types are provided by IBOPE-AGB Mexico as part of the data. Each adult panel member responds to a 44 item questionnaire on their values and lifestyle measured on a 5-point Likert scale. Cluster analysis on the 44 items places the panel members into 5 psychographic types for men and 5 for women. The Euclidean distance between the mean of each male-female pair of types is calculated over the 44 scale items, and each couple is assigned this psychographic distance according to their types. As an aid in visualizing the structure and the separation, below is a dimensionally reduced plot (using Multidimensional Scaling) of the ten types based on 29 of the items explaining 75% of the variance. The two resulting dimensions provide a rough overview of the attitudinal profiles of individual psychotypes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dimension 1</head><p>Dimension 2 13 items related to environmentalism, spirituality, egalitarianism in family roles, sensation-seeking and image-consciousness 16 items related to materialism, consumerism, individualism, pessimism and impulsiveness (all reverse-coded except for pessimism)</p><p>On the sample of 51,561 intervals-households-days, as many matrices were built containing ISV values for the 1 to 28 dyads possibly formed by the 2 to 8 viewers in each of the intervals-household-day were built. These matrices were called M h,r,k (subscripts i, household; r, interval; k, dyad). The pattern of ones and zeroes in M h,r,k is illustrated in the figure on the previous page. In this hypothetical example it is easy to see that individuals 1, 2 and 4 form a group of 3; individuals 5 and 7 form a dyad; and, individual 3 is watching alone. Such intuitive process of group detection was formalized as a computational algorithm. Finally, the average individual viewership and total number of channels by group for each intervalhousehold-day was calculated.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>H 3 :</head><label>3</label><figDesc>Co-viewing increases individual viewers' consumption of television over solo viewing.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Dyadic Relationships Within a Nuclear Family of Five Members</figDesc><graphic coords="6,114.48,101.04,216.00,125.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Contribution of Psychographic Distance between the Couple (PSY ) to Co-viewing (ISV d,h, )</figDesc><graphic coords="14,60.48,112.28,324.00,212.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3</head><label>3</label><figDesc>Figure 3 CHAN and VIEW by Group Size and Composition</figDesc><graphic coords="15,65.28,302.44,288.00,250.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,53.28,81.76,312.00,177.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,47.28,343.20,324.00,215.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Proportions of the Classes of Viewers for Socio-Economic Status and Geography</figDesc><table><row><cell>Socio-Economic</cell><cell>Childless</cell><cell>Nuclear</cell><cell></cell><cell>Childless</cell><cell>Nuclear</cell></row><row><cell>Status (SES)</cell><cell>Couples</cell><cell>Families</cell><cell>Geography</cell><cell>Couples</cell><cell>Families</cell></row><row><cell>Upper</cell><cell>.223</cell><cell>.238</cell><cell>Mexico City</cell><cell>.439</cell><cell>.284</cell></row><row><cell>Middle-Upper</cell><cell>.151</cell><cell>.188</cell><cell>Guadalajara</cell><cell>.166</cell><cell>.225</cell></row><row><cell>Mid-Mid Low</cell><cell>.389</cell><cell>.275</cell><cell>Provinces</cell><cell>.209</cell><cell>.293</cell></row><row><cell>Low</cell><cell>.237</cell><cell>.299</cell><cell>Monterrey</cell><cell>.186</cell><cell>.198</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>ISV propensity , the average ISV of the same dyad for the same program in the initiation sample (to demonstrate the reliability of ISV);(5) PSY, the Euclidean distance between the psychographic groups of the husband and wife (please see refer to Appendix A for details) and its quadratic term, ISV last-15min , the average ISV of the same dyad in the 15-minute interval</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Table 3</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="4">Spearman Correlations Among Variables</cell><cell></cell><cell></cell></row><row><cell cols="2">a) Childless couples</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>ISV wh</cell><cell></cell><cell cols="2">Age of Couple</cell><cell></cell><cell>SES</cell></row><row><cell>ISV wh</cell><cell></cell><cell>1.0000</cell><cell></cell><cell cols="2">0.1019</cell><cell></cell><cell>0.0259</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">&lt;0.0001</cell><cell></cell><cell>0.0107</cell></row><row><cell>Age of couple</cell><cell></cell><cell></cell><cell></cell><cell cols="2">1.0000</cell><cell></cell><cell>0.0187</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.0659</cell></row><row><cell>SES</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.0000</cell></row><row><cell cols="2">b) Nuclear families</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Number</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Age of</cell><cell>of</cell><cell></cell></row><row><cell></cell><cell>ISV wh</cell><cell>ISV hc</cell><cell>ISV wc</cell><cell>ISV cc</cell><cell>Couple</cell><cell>Children</cell><cell>SES</cell></row><row><cell>ISV wh</cell><cell>1.0000</cell><cell>0.7339</cell><cell>0.6633</cell><cell>0.4641</cell><cell>0.0658</cell><cell>0.0442</cell><cell>0.0661</cell></row><row><cell></cell><cell></cell><cell cols="6">&lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001</cell></row><row><cell>ISV hc</cell><cell></cell><cell>1.0000</cell><cell>0.7079</cell><cell>0.5566</cell><cell>0.0468</cell><cell>0.0326</cell><cell>0.0700</cell></row><row><cell></cell><cell></cell><cell cols="6">&lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001</cell></row><row><cell>ISV wc</cell><cell></cell><cell></cell><cell>1.0000</cell><cell>0.6162</cell><cell>0.0644</cell><cell>0.0294</cell><cell>0.0764</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">&lt;0.0001 &lt;0.0001 &lt;0.0001 &lt;0.0001</cell></row><row><cell>ISV cc</cell><cell></cell><cell></cell><cell></cell><cell>1.0000</cell><cell>0.0301</cell><cell>0.1143</cell><cell>0.0832</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">&lt;0.0001 &lt;0.0001 &lt;0.0001</cell></row><row><cell>Age of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.0000</cell><cell>0.2978</cell><cell>0.1972</cell></row><row><cell>couple</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">&lt;0.0001 &lt;0.0001</cell></row><row><cell>Number of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.0000</cell><cell>0.0740</cell></row><row><cell>children SES</cell><cell cols="5">Table 2 Descriptive Statistics of Continuous Variables</cell><cell></cell><cell>&lt;0.0001 1.0000</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Childless Couples</cell><cell cols="3">Nuclear Families</cell></row><row><cell cols="8">Mean Predictors 110.4 (4) PSY 2 (to test the nonlinear effect of psychographic difference described in Std. Dev. Mean Std. Dev. Sum of the Ages of the Couple 30.9 79.6 16.6</cell></row><row><cell cols="2">Number of Children H 1 );</cell><cell></cell><cell></cell><cell></cell><cell>2.2</cell><cell></cell><cell>1.0</cell></row><row><cell cols="8">(6) 14 indicator variables for program types (to test the program type effect on</cell></row><row><cell cols="5">Dependent Variables co-viewing, as described in H 2 );</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">ISV Wife-Husband (7)</cell><cell></cell><cell>.044</cell><cell>.136</cell><cell cols="2">.025</cell><cell>.084</cell></row><row><cell cols="2">Wife-Children</cell><cell></cell><cell></cell><cell></cell><cell cols="2">.026</cell><cell>.075</cell></row><row><cell cols="2">Husband-Children</cell><cell></cell><cell></cell><cell></cell><cell cols="2">.020</cell><cell>.086</cell></row><row><cell cols="2">Children-Children</cell><cell></cell><cell></cell><cell></cell><cell cols="2">.020</cell><cell>.074</cell></row></table><note><p>preceding the focal program in the same channel (to test the inheritance effect, as in H 6 ); (8) Three indicators for different geographical areas (to control for any potential confounding effects with geographical areas).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5</head><label>5</label><figDesc>Summary of Results when Regressing ISV on State Dependence, Couple, Household, and Program Characteristics in Nuclear Families, by Type of Dyad Sample size D 39,745. Dyads husband-child, deviance/DF D .049; McFadden's r 2 D .586. Dyads wife-child, deviance/DF D .042; McFadden's r 2 D .577. Dyads child-child, deviance/DF D .040; McFadden's r 2 D .596. *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Husb-</cell><cell></cell></row><row><cell cols="2">Predictor Variables</cell><cell></cell><cell>Child</cell><cell cols="3">ˇWife-Child ˇChild-Child Štate</cell></row><row><cell cols="2">dependence</cell><cell>ISV last-15min</cell><cell cols="4">9.71*** 10.41*** 10.62***</cell></row><row><cell></cell><cell></cell><cell>ISV propensity</cell><cell cols="2">2.06***</cell><cell>2.26***</cell><cell>2.07***</cell></row><row><cell>Couple</cell><cell></cell><cell>Sum couple ages</cell><cell cols="2">0.01***</cell><cell>0.00***</cell><cell>0.01***</cell></row><row><cell></cell><cell></cell><cell>PSY</cell><cell cols="2">0.44***</cell><cell>0.28*</cell><cell>0.26*</cell></row><row><cell></cell><cell></cell><cell>PSY 2</cell><cell cols="2">0.11***</cell><cell>0.06*</cell><cell>0.06*</cell></row><row><cell>Children</cell><cell></cell><cell>Number of children</cell><cell cols="2">0.03*</cell><cell>0.03*</cell><cell>0.30***</cell></row><row><cell cols="2">Socio-economic status</cell><cell>Upper C Upp. Mid.</cell><cell cols="2">0.35***</cell><cell>0.37***</cell><cell>0.28***</cell></row><row><cell>(vs. Lower)</cell><cell></cell><cell>Middle</cell><cell cols="2">0.22***</cell><cell>0.36***</cell><cell>0.24***</cell></row><row><cell></cell><cell></cell><cell>Lower middle</cell><cell cols="2">0.11**</cell><cell>0.17***</cell><cell>0.03</cell></row><row><cell>Geography</cell><cell></cell><cell>Mexico City</cell><cell cols="2">0.13**</cell><cell>0.24***</cell><cell>0.13**</cell></row><row><cell cols="2">(vs. Monterrey)</cell><cell>Provinces</cell><cell>0.10</cell><cell></cell><cell>0.25***</cell><cell>0.12**</cell></row><row><cell></cell><cell></cell><cell>Guadalajara</cell><cell>0.02</cell><cell></cell><cell>0.28***</cell><cell>0.05</cell></row><row><cell>Type of</cell><cell>National</cell><cell>Magazines</cell><cell cols="2">0.81***</cell><cell>0.80***</cell><cell>0.81***</cell></row><row><cell>Content</cell><cell cols="2">free TV Telenovelas</cell><cell cols="2">0.86***</cell><cell>0.72***</cell><cell>0.84***</cell></row><row><cell>(vs. Pay TV)</cell><cell cols="2">genres Contests</cell><cell cols="2">0.26*</cell><cell>0.15</cell><cell>0.30**</cell></row><row><cell></cell><cell></cell><cell>Cartoons</cell><cell cols="2">0.66***</cell><cell>0.41***</cell><cell>0.87***</cell></row><row><cell></cell><cell></cell><cell>Reality</cell><cell>0.13</cell><cell></cell><cell>0.08</cell><cell>0.31*</cell></row><row><cell></cell><cell></cell><cell>US comedy series</cell><cell cols="2">0.57***</cell><cell>0.39***</cell><cell>0.90***</cell></row><row><cell></cell><cell></cell><cell>US drama series</cell><cell cols="2">0.45***</cell><cell>0.39***</cell><cell>0.58***</cell></row><row><cell></cell><cell></cell><cell>Mexican sitcom</cell><cell cols="2">1.06***</cell><cell>1.02***</cell><cell>1.04***</cell></row><row><cell></cell><cell></cell><cell>Mexican series</cell><cell cols="2">0.80***</cell><cell>0.61***</cell><cell>0.63***</cell></row><row><cell></cell><cell></cell><cell>Newscasts</cell><cell cols="2">1.09***</cell><cell>1.01***</cell><cell>1.01***</cell></row><row><cell></cell><cell></cell><cell>Movies</cell><cell cols="2">0.75***</cell><cell>0.76***</cell><cell>0.79***</cell></row><row><cell></cell><cell></cell><cell>New program</cell><cell cols="2">0.16***</cell><cell>0.22***</cell><cell>0.22***</cell></row><row><cell></cell><cell>Other</cell><cell>Local channels</cell><cell cols="2">0.81***</cell><cell>0.80***</cell><cell>0.73***</cell></row><row><cell></cell><cell cols="2">systems Games-VCR</cell><cell cols="2">0.77***</cell><cell>0.77***</cell><cell>0.87***</cell></row></table><note><p>Note:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Euclidean Distances over 44 Questionnaire Items</figDesc><table><row><cell>Traditionalists-Jetsetters</cell><cell>4.02</cell><cell>Materialists-Pragmatists</cell><cell>1.89</cell></row><row><cell>Traditionalists-Self-Centered</cell><cell>3.30</cell><cell>Dreamers-Reflexives</cell><cell>1.79</cell></row><row><cell>Traditionalists-Reflexives</cell><cell>3.20</cell><cell>Traditionalists-Passives</cell><cell>1.59</cell></row><row><cell>Materialists-Jetsetters</cell><cell>3.08</cell><cell>Materialists-Passives</cell><cell>1.50</cell></row><row><cell>Traditionalists-Pragmatists</cell><cell>2.91</cell><cell>Dreamers-Self-Centered</cell><cell>1.48</cell></row><row><cell>Materialists-Reflexives</cell><cell>2.80</cell><cell>Sophisticates-Reflexives</cell><cell>1.46</cell></row><row><cell>Dreamers-Passives</cell><cell>2.76</cell><cell>Dreamers-Pragmatists</cell><cell>1.34</cell></row><row><cell>Sophisticates-Passives</cell><cell>2.65</cell><cell>Sophisticates-Jetsetters</cell><cell>1.26</cell></row><row><cell>Mommies-Self-Centered</cell><cell>2.32</cell><cell>Mommies-Pragmatists</cell><cell>1.21</cell></row><row><cell>Dreamers-Jetsetters</cell><cell>2.00</cell><cell>Sophisticates-Pragmatists</cell><cell>1.19</cell></row><row><cell>Sophisticates-Self-Centered</cell><cell>2.00</cell><cell>Mommies-Reflexives</cell><cell>1.16</cell></row><row><cell>Mommies-Jetsetters</cell><cell>1.97</cell><cell>Materialists-Self-Centered</cell><cell>1.02</cell></row><row><cell>Mommies-Passives</cell><cell>1.89</cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Note: ISV i,j,r,k values in the off-diagonal. Values on the diagonal are ''1'' if the individual was watching any number of minutes and ''0'' otherwise.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Television, telenovelas and family life in Venezuela</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Barrios</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">World families watch television</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Lull</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Newbury Park, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Utilization of the mass communication by the individual</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Blumler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The uses of mass communications: Current perspectives on gratifications research</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Blumler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">E</forename><surname>Katz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Different kinds of DIF: A distinction between absolute and relative forms of measurement invariance and bias</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Borsboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Mellebergh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Heerden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">433</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Parental mediation of undesired advertising effects</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buijzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="153" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Parental influences on adolescent media use</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Atkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="340" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The status and future of audience duplication research: An assessment of ratings-based theories</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="96" to="111" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">My current thoughts on coefficient alpha and successor procedures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Cronbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Shavelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational &amp; Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="391" to="418" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Television and the rest of life: A systematic comparison of subjective experience</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Csikszentmihalyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kubey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="317" to="328" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Television: Watch with mother and everyone else</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Foote</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Financial Times, FT Creative Business</title>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2004-11-30">2004, November 30</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Birds of a feather or strange birds? Ties among personality dimensions, similarity, and marital quality</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Gattis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Berns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="564" to="574" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Similarity, convergence, and relationship satisfaction in dating and married couples</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gonzaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bradbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="48" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Social interaction and co-viewing with YouTube: Blending mass communication reception and social connection</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haridakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hanson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="317" to="335" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Inegi</surname></persName>
+		</author>
+		<ptr target="http://www.inegi.org.mx/" />
+		<imprint>
+			<date type="published" when="2007-11">2007. November 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Interpretation of educational measurements</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kelley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1927">1927</date>
+			<publisher>World Book Company</publisher>
+			<pubPlace>Yonkers, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The variable influence of media activity on media effects</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="107" to="135" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">How and why people watch TV: Implications for the future of interactive television</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="9" to="18" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A family of measures to evaluate scale reliability in a longitudinal setting</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Laenen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Molenberghs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vangeneugden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series A (Statistics in Society)</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="237" to="253" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Television program involvement and advertising response: Some unsettling implications for copy research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Clancy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Marketing</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Lull</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="319" to="334" />
+			<date type="published" when="1980">1991. 1980a. 1980</date>
+		</imprint>
+	</monogr>
+	<note>Communication Research</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">How families select television programs: A mass-observational study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Lull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="801" to="811" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Romantic ideals, romantic obtainment, and relationship experiences: The complementarity of interpersonal traits among romantic partners</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Markey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Markey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social &amp; Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="517" to="533" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mccullagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nelder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monographs on Statistics and Applied Probability</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="1989">1989</date>
+			<publisher>Chapman &amp; Hall/CRC</publisher>
+		</imprint>
+	</monogr>
+	<note>Generalized linear models. 2nd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Adolescents, parents and television use: Self-report and other-report measures from the Wisconsin sample</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Atkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Television and social behavior</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Comstock</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Rubinstein</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, D.C.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Government Printing Office</publisher>
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The asymmetric information model of state dependence</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Moshkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shachar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="435" to="454" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Bridging the mass-interpersonal divide: Synthesis scholarship in HCR</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>O'sullivan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="569" to="588" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Econometric methods for fractional response variables with an application to 401(K) plan participation rates</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Papke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wooldridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="619" to="632" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Involvement with local television news: Cognitive and emotional dimensions</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Perse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="556" to="581" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Parental mediation of television advertising effects</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Robertson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="12" to="25" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Ritualized and instrumental television viewing</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="67" to="77" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Interface of personal and mediated communication: A research agenda</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Studies in Mass Communication</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="53" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">An audience flow model of television viewing choice</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alpert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="113" to="127" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Viewer preference segmentation and viewing choice models for network television</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Kamakura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Alpert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Viewing the viewers: Viewing behaviors by children and adults during television programs and commercials</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="265" to="281" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cast demographics, unobserved segments, and heterogeneous switching costs in a television viewing choice model</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shachar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Emerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="186" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Program involvement: Are moderate levels best for ad memory and attitude toward the ad</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Tavassoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Fitzsimons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="61" to="72" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Thinkbox</surname></persName>
+		</author>
+		<ptr target="http://www.thinkbox.tv/server/show/nav.854" />
+		<imprint>
+			<date type="published" when="2009-11">November 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Indeterminacy and live television</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vosgerau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wertenbroch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Carmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="487" to="495" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Is there enough time on the clock? Parental involvement and mediation of children&apos;s television viewing</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gerke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="111" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Audience flow past and present: Television inheritance effects reconsidered</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Webster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="323" to="337" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A theory of television program choice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Webster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wakshlag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="430" to="446" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Quasi-likelihood functions, generalized linear-models, and Gauss-Newton method</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W M</forename><surname>Wedderburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="439" to="447" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Estimating the interdependence of television program viewership between spouses: A Bayesian simultaneous equation model</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Assael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="336" to="349" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Modeling the intrahousehold behavioral interaction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Erdem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="470" to="484" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

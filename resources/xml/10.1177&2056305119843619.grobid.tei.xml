@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Incidental News Exposure on Social Media: A Campaign Communication Mediation Approach</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2019-04">2019-04</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Masahiro</forename><surname>Yamamoto</surname></persName>
+							<email>myamamoto2@albany.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">University at Albany</orgName>
+								<orgName type="institution" key="instit2">State University of New York</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Communication</orgName>
+								<orgName type="department" key="dep2">University at Albany</orgName>
+								<orgName type="institution">State University of New York</orgName>
+								<address>
+									<addrLine>1400 Washington Avenue</addrLine>
+									<postCode>331, 12222</postCode>
+									<settlement>Albany</settlement>
+									<region>SS, NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alyssa</forename><forename type="middle">C</forename><surname>Morey</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Communication</orgName>
+								<orgName type="department" key="dep2">University at Albany</orgName>
+								<orgName type="institution">State University of New York</orgName>
+								<address>
+									<addrLine>1400 Washington Avenue</addrLine>
+									<postCode>331, 12222</postCode>
+									<settlement>Albany</settlement>
+									<region>SS, NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Incidental News Exposure on Social Media: A Campaign Communication Mediation Approach</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Social Media + Society</title>
+						<title level="j" type="abbrev">Social Media + Society</title>
+						<idno type="ISSN">2056-3051</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">5</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page">205630511984361</biblScope>
+							<date type="published" when="2019-04" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">8E6CE48799D7E8E0001B07A18F91A7CB</idno>
+					<idno type="DOI">10.1177/2056305119843619</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>incidental news exposure</term>
+					<term>information seeking</term>
+					<term>social media</term>
+					<term>online political expression</term>
+					<term>political participation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study, derived from campaign communication mediation models, examines how incidental news exposure on social media affects political participation. Analysis of two-wave panel data collected before the 2016 US presidential election shows that incidental news exposure on social media is associated with increases in offline and online political participation (1) through online political information seeking and (2) through online political information seeking and online political expression in serial. Interestingly, results show that incidental news exposure on social media also has a direct negative relationship with offline and online political participation. Implications for the political utility of social media are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A recent, yet already large, body of research has investigated the implications of social media use for political purposes, as this online platform has become a popular avenue for news consumption, opinion expression, and political participation (e.g., <ref type="bibr" target="#b6">Boulianne, 2015)</ref>. A unique attribute of social media is their capacity to enhance non-purposive news exposure opportunities. Social media configure a dynamic online social network where exposure to political news and information can occur beyond one's intentions. Politically inactive citizens may avoid politics, but the networked structure of social media increases the likelihood that they encounter political news and information by chance, referred to as incidental news exposure <ref type="bibr" target="#b41">(Tewksbury, Weaver, &amp; Maddex, 2001)</ref>.</p><p>Studies examining incidental news exposure on social media have demonstrated the positive benefits of unintentionally encountering political news and information online <ref type="bibr" target="#b14">(Fletcher &amp; Nielsen, 2017;</ref><ref type="bibr" target="#b21">Kim, Chen, &amp; Gil de Zúñiga, 2013</ref>; J. K. <ref type="bibr">Lee &amp; Kim, 2017;</ref><ref type="bibr" target="#b32">Oeldorf-Hirsch, 2018;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>. Amid such evidence, theoretical understanding of this phenomenon can be improved. While some studies have shown that incidental news exposure directly facilitates political participation <ref type="bibr" target="#b21">(Kim et al., 2013;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>, others have suggested its gateway potential to encourage more active information seeking and opinion expression <ref type="bibr" target="#b14">(Fletcher &amp; Nielsen, 2017</ref>; J. K. <ref type="bibr">Lee &amp; Kim, 2017;</ref><ref type="bibr" target="#b32">Oeldorf-Hirsch, 2018)</ref>. It is not fully clear what role incidental news exposure on social media plays in the political participation process.</p><p>The goal of our study is to address this question. Specifically, we examine how incidental exposure to campaign news on social media facilitates offline and online political participation through campaign information seeking, online political expression, and internal political efficacy. Our study is rooted in the campaign communication mediation models that theorize unintentional exposure to campaign news and information as an entry into more active forms of engagement <ref type="bibr" target="#b10">(Cho et al., 2009;</ref><ref type="bibr" target="#b40">Shah et al., 2007)</ref>. We analyze two-wave panel data collected before the 2016 US presidential election to test a theorized model. Social media play an increasingly important role in raising people's awareness of politics, with many users making initial contacts with political news there <ref type="bibr" target="#b16">(Gottfried &amp; Shearer, 2016)</ref>. By integrating incidental news exposure on social media into existing theoretical models, our study helps clarify the role of this platform in political participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Incidental New Exposure on Social Media</head><p>While news media use is often considered an intentional act, scholars recognize that people can be exposed to news unintentionally. Such exposure is called incidental exposure. It occurs when people encounter news by chance <ref type="bibr" target="#b41">(Tewksbury et al., 2001)</ref>, such as encountering a political commentary or advertisement while watching an entertainment show on television <ref type="bibr" target="#b5">(Baum, 2002)</ref>. This form of exposure tends to be passive and undirected in that people do not take conscious action to find specific information in mind <ref type="bibr" target="#b4">(Bates, 2002)</ref>. Incidental exposure tends to be event based and does not require preexisting information needs <ref type="bibr" target="#b11">(Erdelez, 1999)</ref>.</p><p>Although incidental exposure is one type of information acquisition, acquisition of information can take more active and/or directed forms. For example, people may search for information in general without a specific interest, while they may also pick up information of interest during passive exposure to information <ref type="bibr" target="#b4">(Bates, 2002)</ref>. People also make a purposeful effort to seek specific information. Although many view these types of information acquisition as distinct, <ref type="bibr" target="#b12">Erdelez (2004)</ref> considers incidental exposure to be situated in active information seeking. For example, it is possible that while actively seeking information about an urgent problem, people encounter information relevant to a nonurgent problem. As such incidental exposure occurs, the original information seeking may halt, and attention may switch to the incidentally encountered information, promoting information seeking about the latter topic at a later point in time <ref type="bibr" target="#b11">(Erdelez, 1999</ref><ref type="bibr" target="#b12">(Erdelez, , 2004</ref>). <ref type="bibr" target="#b12">Erdelez's (2004)</ref> view suggests that incidental exposure and more active forms of information acquisition may be related in a reciprocal fashion.</p><p>Whereas incidental news exposure is not necessarily a new phenomenon, the opportunities for such exposure have immensely grown with the advent of social media; interactive and media-rich websites; and applications that facilitate social interaction, content creation and sharing, and production of collective intelligence <ref type="bibr" target="#b33">(O'Reilly, 2007)</ref>. Social media have become ingrained in everyday life and now serve as important sources of information. A recent report indicated that 62% of US adults received news on social media <ref type="bibr" target="#b16">(Gottfried &amp; Shearer, 2016)</ref>. The same report indicated that a majority of Facebook, YouTube, and Instagram users obtained news by chance when they were online for other reasons, while over 40% of users of other social media sites, such as LinkedIn, Twitter, and Reddit, unintentionally received news on these sites <ref type="bibr" target="#b16">(Gottfried &amp; Shearer, 2016)</ref>. In addition, news consumption occurs by popular mobile-based social platforms such as Snapchat <ref type="bibr" target="#b47">(Wallenstein &amp; Ault, 2016)</ref>.</p><p>Although incidental news exposure occurs through other channels, social media may enhance its likelihood and utility for two reasons. One is the scalability of content <ref type="bibr">(boyd, 2010)</ref>. Social media structure a networked environment where news items can be more readily visible and brought to people's attention. Even if users do not actively seek political news, when their friends post, like, and share news and commentaries, chances are high that the users encounter such activities in their newsfeeds and/or through site and email notifications. The second reason is the social nature of news exposure on social media. Social recommendations, such as posts recommended by online connections and how many times posts have been shared and liked, serve as heuristics of content importance and popularity. Research indicates that social recommendations pique curiosity about news items, influence people's decisions on what content to consume, and facilitate information seeking <ref type="bibr" target="#b2">(Anspach, 2017;</ref><ref type="bibr" target="#b43">Turcotte, York, Irving, Scholl, &amp; Pingree, 2015;</ref><ref type="bibr" target="#b50">Xu, 2013)</ref>. These characteristics suggest that social media enhance incidental news exposure and subsequent action relative to other channels such as emails, instant messaging, and advertisements.</p><p>A growing body of research has investigated the political role of incidental news exposure in online platforms <ref type="bibr" target="#b14">(Fletcher &amp; Nielsen, 2017;</ref><ref type="bibr" target="#b21">Kim et al., 2013;</ref><ref type="bibr" target="#b24">J. K. Lee &amp; Kim, 2017;</ref><ref type="bibr" target="#b32">Oeldorf-Hirsch, 2018;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>. For example, <ref type="bibr" target="#b14">Fletcher and Nielsen (2017)</ref> found that incidental news exposure on social media was related to increases in online news use. J. K. <ref type="bibr" target="#b24">Lee and Kim (2017)</ref> found that incidental exposure to banner advertisements directing subjects to online news pages increased the amount of time participants spent viewing those pages. Research has also shown the role of online incidental news exposure in directly facilitating political participation <ref type="bibr" target="#b21">(Kim et al., 2013;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A Theoretical Framework: Campaign Communication Mediation Models</head><p>While prior studies have reported that online incidental news exposure has varied political benefits, our study draws from existing theories to further clarify its political contributions. Specifically, campaign communication mediation models can serve as a useful framework to understand the role of incidental news exposure in the political process. The major premise of the models is that the influences of campaign news use on political behavior are largely indirect and mediated by what occurs upon news reception <ref type="bibr" target="#b10">(Cho et al., 2009;</ref><ref type="bibr" target="#b40">Shah et al., 2007)</ref>.</p><p>The campaign communication mediation models are broadly grounded in an Orientation-Stimulus-Reasoning-Orientation-Response (OSROR) model. Media use and its effects are typically understood in the stimulus (S)-response (R) framework whereby exposure to a media message leads directly to tangible behavioral outcomes. Moving beyond this simplistic notion, <ref type="bibr" target="#b29">Markus and Zajonc (1985)</ref>  The OSOR model was later extended with the introduction of reasoning (R) between the stimulus (S) and the second orientation (O 2 ; <ref type="bibr" target="#b10">Cho et al., 2009;</ref><ref type="bibr" target="#b40">Shah et al., 2007)</ref>. Reasoning is defined broadly to include both intrapersonal cognitive elaboration and interpersonal collective consideration <ref type="bibr" target="#b10">(Cho et al., 2009)</ref>. Interpersonal political discussion can be understood as a form of reasoning, as it involves cognitive activities such as careful processing of arguments made by others, constructing logical arguments with evidence, and countering different opinions, and also learning of others' opinions <ref type="bibr" target="#b10">(Cho et al., 2009)</ref>. This role of discussion goes beyond face-to-face discussion and extends to online expression such as sharing news stories and posting comments on politics <ref type="bibr" target="#b9">(Chan, 2016;</ref><ref type="bibr" target="#b10">Cho et al., 2009)</ref>.</p><p>Based on this framework, <ref type="bibr" target="#b40">Shah et al. (2007)</ref> put forth a campaign communication mediation model. In addition to the direct contributions of each theoretical component, the model theorizes exposure to campaign advertisements as an initial orientation factor fostering information seeking via traditional and online media, which facilitates political participation through interpersonal political discussion and online political expression. Their study showed that campaign advertisement exposure was positively related to campaign information seeking via online media and television news, which in turn had positive relationship with interpersonal political discussion and online political expression, both of which led to political participation. Campaign advertisement exposure was also directly related to political participation.</p><p>As an extension of this model, <ref type="bibr" target="#b10">Cho et al. (2009)</ref> formulated an OSROR model of campaign communication mediation. This model introduces reflection as another form of reasoning and integrates political knowledge as a second orientation factor. They found that exposure to campaign advertisements was positively related to campaign information seeking and that the effects of campaign information seeking on political knowledge and participation were mediated by interpersonal political discussion, reflection, and online political expression. Campaign advertisement exposure and campaign information seeking via traditional media also had a direct positive relationship with political participation. However, <ref type="bibr" target="#b10">Cho et al. (2009)</ref> did not directly examine political knowledge as a second orientation driving political participation.</p><p>Jung, Kim, and Gil de Zúñiga (2011) drew from the OSROR framework and specified political knowledge and internal political efficacy as second orientations that promote political participation. They found that news media use was positively associated with both interpersonal political discussion and online political expression, which positively predicted offline and online political participation directly and indirectly via political knowledge and efficacy. However, they did not examine an antecedent to news media use. Although not in a campaign context, <ref type="bibr" target="#b9">Chan (2016)</ref> drew from the OSROR model to more comprehensively test the role of Facebook in the political process. He found that Facebook use for news, facilitated by Facebook connections and network size, indirectly affected political participation through political expression on Facebook, through internal political efficacy, and through political expression on Facebook and internal political efficacy in serial.</p><p>Although the results reported and the way the models were specified in these studies slightly vary, the campaign communication mediation models offer a comprehensive view of why people expose themselves to news and what happens after news is received and before its effects are manifested in the forms of political behavior. The utility of the models is that while accommodating the possibility that political participation can occur, in theory, at any stage as a result of political communication, they integrate additional indirect pathways to participation <ref type="bibr" target="#b9">(Chan, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>This Study</head><p>Based on the above theoretical discussion and review of the existing research, we formulate a theoretical model for empirical testing. Despite a growing body of work in this domain, an underlying process by which incidental news exposure leads to political participation has not been satisfactorily examined.</p><p>Incidental News Exposure on Social Media (O1). This study specifies incidental news exposure on social media as an initial orientation factor motivating campaign information seeking. The correspondence of this research with the campaign communication mediation models is the shared idea that exposure to campaign news can be incidental and yet has the potential to foster active information seeking, as exposure to campaign advertisements, similar to exposure to campaign news on social media, tends to occur incidentally <ref type="bibr" target="#b48">(Wang, Gabay, &amp; Shah, 2012)</ref>. As noted above, social media enhance opportunities for incidental news exposure through increased visibility of content.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Campaign Information Seeking (S). Making conscious efforts</head><p>to seek specific news and information to learn political issues, events, and candidates is a central attribute of an engaged citizenry <ref type="bibr" target="#b28">(MacKuen, Wolak, Keele, &amp; Marcus, 2010)</ref>. Based on prior work (e.g., <ref type="bibr" target="#b10">Cho et al., 2009;</ref><ref type="bibr" target="#b15">Gil de Zúñiga, Molyneux, &amp; Zhang, 2014;</ref><ref type="bibr" target="#b39">Shah, Cho, Eveland, &amp; Kwak, 2005)</ref>, we consider traditional media use, social media use for news, and online campaign information seeking to be stimulus factors resulting from incidental news exposure on social media. We include traditional media in our model along with the other two forms of information seeking, as prior research has found a linkage of exposure to campaign advertisements, a form of incidental news exposure, and traditional news use <ref type="bibr" target="#b10">(Cho et al., 2009;</ref><ref type="bibr" target="#b48">Wang et al., 2012)</ref>. Taking into account traditional media use helps paint a clear picture of the roles various forms of media play in the political process.</p><p>Research has shown that traditional media use is a precursor to active political engagement. It encourages people to talk about issues of public importance, gain relevant political facts, feel efficacious, and participate in politics (e.g., <ref type="bibr" target="#b30">McLeod et al., 1996)</ref>. Research in this area uses either exposure-or attentionbased measures, or a mixture of both, to examine use of various news sources <ref type="bibr" target="#b13">(Eveland, Hutchens, &amp; Shen, 2009)</ref>. Scholars have noted that news exposure, typically measured by frequency of reading or watching news, does not capture a degree of mental effort people expend <ref type="bibr" target="#b8">(Chaffee &amp; Schleuder, 1986)</ref>, as exposure can take place in varied ways, such as watching news while working out at a gym. Attention is viewed as a better indicator of information seeking, as it assesses a level of cognitive expenditure not captured by more passive exposure measures <ref type="bibr" target="#b8">(Chaffee &amp; Schleuder, 1986)</ref>.</p><p>Given its vast storage of information, the Web is an ideal arena for active and directed forms of information seeking <ref type="bibr" target="#b39">(Shah et al., 2005)</ref>. For example, people may type a query into a search engine to find candidates' issue positions when such a question comes to mind. People may also visit candidates' campaign websites to learn about their policy proposals or factcheck websites during or after a presidential debate to vet the accuracy of statements candidates make during the debate. This type of active online information seeking leads to political engagement. <ref type="bibr" target="#b39">Shah et al. (2005)</ref>, for example, found that online political information seeking was positively related to interpersonal political discussion and online opinion expression, which in turn had a positive effect on civic participation.</p><p>While incidental news exposure takes place on social media, social media can also be used for more purposive information seeking. For example, people can customize information sources by following the pages and accounts of news media websites, reporters, and politicians according to their preferences and pay attention to news, information, and views shared by them <ref type="bibr" target="#b1">(Anderson, 2016)</ref>. Such customization helps streamline information acquisition and serve as an infrastructure for civic purposes <ref type="bibr" target="#b42">(Thorson, Xu, &amp; Edgerly, 2018)</ref>. Given the growing presence of social media as a news source, their contributions to fostering political expression and efficacy <ref type="bibr" target="#b9">(Chan, 2016;</ref><ref type="bibr" target="#b15">Gil de Zúñiga et al., 2014)</ref>, and our focus on incidental news exposure on social media, we consider social media use for news as another type of campaign information seeking behavior.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Political Expression (R 1</head><p>). Prior research has examined interpersonal, online, and intrapersonal activities as reasoning mechanisms that link campaign information seeking and subsequent psychological and behavioral political outcomes (e.g., <ref type="bibr" target="#b9">Chan, 2016;</ref><ref type="bibr" target="#b10">Cho et al., 2009;</ref><ref type="bibr" target="#b40">Shah et al., 2007)</ref>. This study considers online political expression as a form of reasoning. A key attribute of online political expression is self-expression <ref type="bibr" target="#b26">(Leung, 2009)</ref>. When people engage in expressive activities online, such as sharing what happens in daily life via text, photos, or videos; sharing news stories; and reacting to others' posts, they directly or indirectly communicate who they are.</p><p>Such expression influences message senders themselves and carries important civic benefits. <ref type="bibr" target="#b35">Pingree (2007)</ref> explained three self-reinforcing mechanisms of opinion expression. Anticipation of future expression fosters careful processing of information so that they can use the information for future expression. Composition of messages, whether in text or other forms, helps people deeply engage with, and learn more about, subjects at hand so that they can present themselves in desired fashions. Sending messages reinforces people's preexisting commitment to subjects of interest. Research has shown that online opinion expression is positively related to political efficacy, reinforced political preferences, and political participation (e.g., <ref type="bibr" target="#b9">Chan, 2016;</ref><ref type="bibr" target="#b15">Gil de Zúñiga et al., 2014;</ref><ref type="bibr" target="#b20">Jung et al., 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Internal Political Efficacy (O 2</head><p>). Political efficacy, the belief that one's political action can affect the political process <ref type="bibr" target="#b3">(Bandura, 1997)</ref>, can be broken down into two dimensions. While internal political efficacy is defined as one's perceived competence to participate effectively in politics <ref type="bibr" target="#b31">(Niemi, Craig, &amp; Mattei, 1991)</ref>, external political efficacy refers to one's perception that political institutions respond to the needs and interests of citizens <ref type="bibr" target="#b31">(Niemi et al., 1991)</ref>. Following prior work <ref type="bibr" target="#b9">(Chan, 2016;</ref><ref type="bibr" target="#b20">Jung et al., 2011)</ref>, we focus on internal political efficacy in our model as a second orientation factor. It has more direct theoretical relevance to and connections with other factors in the campaign communication mediation models. Research has found that internal political efficacy predicts political participation, while it can be fostered by campaign media use and reasoning activities <ref type="bibr" target="#b20">(Jung et al., 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political Participation (R 2</head><p>). In this study, offline and online forms of political participation are examined as outcomes. Political participation refers to goal-directed action intended to influence political outcomes. <ref type="bibr" target="#b45">Verba and Nie's (1972)</ref> seminal work identified four dimensions of political participation, including voting, campaigning, contacting politicians and government officials, and collective/cooperative/communal activities (e.g., working with others for change). The expanding role of the Internet in the political sphere, including providing a new medium for existing forms of participation and generating new forms of political activism, has renewed scholarly interest in the categories of political participation.</p><p>A growing number of studies distinguish between offline and online political participation (e.g., Gil de <ref type="bibr" target="#b15">Zúñiga et al., 2014;</ref><ref type="bibr" target="#b46">Vissers &amp; Stolle, 2014)</ref>. This distinction seems supported by empirical research. Studies examining the underlying structure of participation suggest that offline and online political participation are distinct forms of participation. For instance, based on data from a representative sample of US adults, Oser, Hooghe, and Marien's ( <ref type="formula">2013</ref>) latent class analysis demonstrated that offline and online activists formed distinct groups of respondents. <ref type="bibr" target="#b36">Polat (2005)</ref> argued that the potential of the Internet to increase participation is related to at least three characteristics of e-politics, including the volume of easily accessible information, the speed and convenience of communication, and the expansion of the public sphere. These characteristics of e-participation help mobilize traditionally unengaged segments of the population <ref type="bibr" target="#b17">(Hamilton &amp; Tolbert, 2012)</ref>.</p><p>Research also has explored the relationship between online and offline political participation. <ref type="bibr" target="#b46">Vissers and Stolle (2014)</ref> found that Facebook political activity (e.g., joining a political Facebook group) and other online political participation (e.g., signed an online petition) at Time 1 were related to increases in offline political participation at Time 2, but offline political participation at Time 1 did not predict online political participation at Time 2. Overall, studies suggest that offline and online political participation are distinct forms, or, at the very least, do not provide clear support for the integration of the two participation platforms.</p><p>Proposed Model. Based on the preceding discussion, we formulated a theoretical model for empirical testing. A few comments are in order. First, the paths between incidental news exposure on social media and political participation via campaign information seeking and online political expression are based on the initial campaign communication mediation model <ref type="bibr" target="#b40">(Shah et al., 2007)</ref>. Second, building on the OSROR model of campaign communication mediation <ref type="bibr" target="#b10">(Cho et al., 2009)</ref>, the model incorporates internal political efficacy. Third, as noted earlier, the model includes direct paths from incidental news exposure and campaign information seeking to political participation to accommodate the possibility that participation can, in theory, take place as a result of mediated stimuli. Fourth, the model includes paths from campaign information seeking to internal political efficacy <ref type="bibr" target="#b9">(Chan, 2016)</ref>. Finally, it must be acknowledged that the model is not fully specified in that it does not include some theoretical components examined in previous research, such as campaign advertisement exposure, interpersonal political discussion, and reflection (Figure <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Data for this study came from online panels of participants recruited by Qualtrics, an online survey service. Two surveys were conducted before the 2016 US presidential election. The first survey was fielded online between late September and early October 2016 with a total of 800 survey completes. The second survey was conducted approximately 3 weeks after the initial survey until 7 November 2016. At the end of the second wave of data collection, a total of 500 survey completes was obtained, with a 60% retention rate.</p><p>Online panel members tend to be skewed in terms of demographic characteristics. To introduce sample diversity, we set quotas for age, gender, and race/ethnicity according to the corresponding general US population characteristics: age (sample median = 48.00, census median = 37.2), gender (sample: male = 48.55% and females = 51.45%; census: male = 49.2% and female = 50.8%), and race/ethnicity (sample: Whites = 64.0%, Black or African American = 14.0%, Asian = 6%, others = 2%, and Hispanic origin = 17%; census: Whites = 72.4%, Black or African American = 12.6%, Asian = 4.8%, others = 10.2, and Hispanic origin = 16.3%). Although an opt-in online panel is not representative of a larger population, given our focus on incidental news exposure on social media, it is at least permissible to rely on data from an online panel.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Incidental News Exposure on Social Media</head><p>Based on previous research (e.g., <ref type="bibr" target="#b21">Kim et al., 2013)</ref>, seven items were created to measure incidental news exposure on social media. Respondents were asked on a 5-point scale (1 = never; 5 = very often) how often they unintentionally encountered or came across news about the election or candidates on Twitter, Facebook, video-sharing sites, photo-sharing sites, news sharing and discussion sites, and mobile messaging apps. Responses were averaged on a 5-point scale (T1: M = 1.97, SD = .92, α = .86; T2: M = 1.77, SD = .79, α = .83).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Attention to Traditional Media</head><p>Six items were used to measure attention to traditional media.</p><p>Respondents were asked on a 5-point scale (1 = none; 5 = a great deal) how much attention they paid to public media (e.g., NPR, PBS), network TV news (e.g., CBS, ABC, NBC, local affiliates), and a newspaper (e.g., New York Times, USA Today) offline. Respondents were also asked how much attention they paid to a website of public media (e.g., PBS, NPR), a website of network TV news (e.g., CBS, ABC, NBC, local affiliates), and a website of a newspaper (e.g., New York Times, USA Today). Responses to these six items were averaged on a 5-point scale (T1: M = 2.28, SD = .95, α = .84; T2: M = 2.12, SD = .86, α = .80).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social Media Use for News</head><p>Based on previous research (e.g., Gil de <ref type="bibr" target="#b15">Zúñiga et al., 2014;</ref><ref type="bibr" target="#b22">Kwon, D'Angelo, &amp; McLeod, 2013)</ref>, respondents were asked on a 5-point scale (1 = never; 5 = very often) how often they used Facebook to get news about the election, stay informed about the election, and learn others' opinions on the election. Respondents were also asked how often they used "other social media sites, such as Twitter, YouTube, and Instagram" to get news about the election, stay informed about the election, and learn others' opinions on the election. Responses to the six items were averaged on a 5-point scale (T1: M = 2.20, SD = 1.12, α = .92; T2: M = 1.98, SD = 1.04, α = .92).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Political Information Seeking</head><p>Based on prior work <ref type="bibr" target="#b39">(Shah et al., 2005)</ref>, we created three items to measure online political information seeking.</p><p>Respondents were asked on a 5-point scale (1 = never; 5 = very often) how often they sought information about candidates in each of the following ways: use a search engine to learn about a candidate's issue positions and policy proposals; use a news or fact-check website to verify the statements made by a candidate; and visit a candidate's campaign website to learn about his or her issue positions and policy proposals. Responses were averaged on a 5-point scale (T1: M = 2.32, SD = 1.08, α = .87; T2: M = 2.15, SD = 1.06, α = .87).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Political Expression</head><p>Five items were used to measure online political expression.</p><p>Respondents were asked how often (1 = never; 5 = very often) they engaged in each of the following activities online: write blog posts on the election or candidates; write posts on social media about the election or candidates; share news, video clips, photos, or blog posts about the election or candidates on social media; exchange opinions about the election or candidates on social media; and create and post, on social media, audio, video, or images (e.g., memes, photos, animation) to express your view on the election or candidates (T1: M = 1.74, SD = .93, α = .92; T2: M = 1.62, SD = .87, α = .91).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Internal Political Efficacy</head><p>Four items were used to measure internal political efficacy <ref type="bibr" target="#b31">(Niemi, Craig, &amp; Mattei, 1991)</ref>. Respondents were asked to indicate how strongly they agreed or disagreed with each of the following statements: I consider myself to be well-qualified to participate in politics; I think I am as well-informed about politics and government as most people; I feel I have a pretty good understanding of the important political issues facing our country; and I feel that I could do as good a job in public office as most other people. Responses were averaged on a 5-point scale (T1: M = 3.44, SD = .87, α = .85; T2: M = 3.47, SD = .89, α = .85).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Offline Political Participation</head><p>Seven items were used to measure offline political participation. Respondents were asked on a 5-point scale how often (1 = never; 5 = very often) they engaged in each of the following activities offline: attend a political meeting, rally, or speech; wear a campaign button, hat, or t-shirt; display a campaign bumper sticker or yard sign; work for a political party or candidate; circulate a petition for a candidate or issue; contribute money to a campaign; and try to persuade others to vote. Responses were averaged on a 5-point scale (T1: M = 1.63, SD = .77, α = .90; T2: M = 1.55, SD = .69, α = .87).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Political Participation</head><p>Six items were used to measure online political participation.</p><p>Respondents were asked on a 5-point scale (1 = never; 5 = very often) how often they engaged in each of the following activities on the Internet: send an email to an editor of a news organization; use email to contact a politician; sign a petition; make a campaign contribution; volunteer for a campaign; and try to persuade others to vote. Reponses were averaged on a 5-point scale (T1: M = 1.72, SD = .75, α = .84; T2: M = 1.64, SD = .67, α = .80).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Variables</head><p>We controlled for a standard set of demographic and political variables. Age was measured in an open-ended format (M = 47.28, SD = 16.08). Gender was coded dichotomously, with females as the high value and males as the low value (females = 51.45%). Education was measured by an 8-point item (median = 5, 2-year associate degree). Income was measured by a 10-point item (median = 6, US$50,000-US$74,999). Race was coded dichotomously, with Caucasians as the high value and all others as the low value (Caucasians = 64%). Party affiliation was measured with a 7-point scale item ranging from strong Republican to strong Democrat (M = 4.27, SD = 1.92). Political ideology was measured with a 7-point scale item ranging from very conservative to very liberal (M = 3.91, SD = 1.66). Political interest was measured by a 7-point scale item ranging from not interested at all to very interested in the 2016 US presidential election (M = 5.58, SD = 1.72).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytic Strategy</head><p>To test the theorized model, we performed path analysis using R package "lavaan" <ref type="bibr" target="#b37">(Rosseel, 2012)</ref>. After the theoretical variables were residualized to remove the effects of the control variables, we created a residualized covariance matrix for data analysis. We estimated a lagged autoregressive model relating Wave 1 incidental news exposure on social media to Wave 2 information seeking, Wave 2 online political expression, Wave 2 internal political efficacy, and Wave 2 offline and online political participation while controlling for their corresponding Wave 1 measures. We estimated the residual covariances of offline and online political participation, and those of each pair of the three information seeking variables, as the unexplained variance of these variables might share a common antecedent not accounted for in the present analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Figure <ref type="figure" target="#fig_1">2</ref> presents the results of a lagged autoregressive model. The model fits the data reasonably well: χ 2 (44) = 119.276, p = .000, comparative fit index (CFI) = .972, standardized root mean square residual (SRMR) = .037, root mean square error approximation (RMSEA) = .067. CFI higher than .95 and SRMR smaller than .08 indicate a good model fit <ref type="bibr" target="#b19">(Hu &amp; Bentler, 1999)</ref>. The significant chi-square value suggests that the model is significantly different from the data, yet the chi-squared test is generally highly sensitive to a large sample size. The RMSEA value below .08 suggests a fair fit <ref type="bibr" target="#b27">(MacCallum, Browne, &amp; Sugawara, 1996)</ref>.</p><p>We first assessed the links between incidental news exposure on social media and information seeking. The data revealed that incidental news exposure on social media was associated with increases in social media use for news (γ = .11, p &lt; .05) and online political information seeking (γ = .13, p &lt; .01), whereas it did not have a significant relationship with attention to traditional media.</p><p>Next, the data showed that social media use for news and online political information seeking were positively related to online political expression (β = .17, p &lt; .001 and β = .13, p &lt; .001, respectively). Attention to traditional media did not have a significant association with online political expression. Online political expression had a positive relationship with internal political efficacy (β = .10, p &lt; .05). Attention to traditional media, online political information seeking, and social media use for news were marginally related to internal political efficacy (β = .08, p = .060, β = .09, p = .057, and β = -.08, p = .086, respectively).</p><p>Online political expression was positively related to both offline and online political participation (β = .17, p &lt; .001 and β = .25, p &lt; .001, respectively). In contrast, internal political efficacy was not significantly associated with offline political participation, whereas its influence on online political participation was only statistically marginal (β = .05, p = .098). Of the three campaign information seeking variables, online political information seeking had a positive link with offline and online political participation (β = .11, p &lt; .01 and β = .16, p &lt; .001, respectively). Social media use for news had a marginal negative association with online political participation (β = -.07, p = .093). Interestingly, incidental news exposure on social media had a direct negative link with offline political participation (β = -.13, p &lt; .01), while its negative influence on online political participation nearly reached statistical significance (β = -.08, p = .058).</p><p>The above results suggest potential mediating mechanisms. As shown in Table <ref type="table" target="#tab_1">1</ref>, the data indicated that incidental news exposure on social media had an indirect relationship with offline and online political participation through social media use for news and online political expression in serial (β = .003, p &lt; .05 and β = .004, p &lt; .05, respectively). Similarly, incidental news exposure on social media was positively related to offline and online political participation in serial through online political information seeking and online political expression (β = .003, p &lt; .05 and β = .004, p &lt; .05, respectively). Furthermore, incidental news exposure had an indirect positive relationship with offline and online political participation through online political information seeking (β = .014, p &lt; .05 and β = .021, p &lt; .05, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Before we interpret the results, we acknowledge important limitations that hamper definitive conclusions. First, the data were based on members of online panels who chose to participate in our surveys. This type of sample does not necessarily represent a population, as members of a population do not have an equal chance of being included into a sample. Hence, the extent to which our results are generalized to the general public is limited. Second, although the current twowave panel data provide more causally robust evidence than cross-sectional data, panel data with a third and more waves of data collection would allow for a more strict test of multistage models derived from the campaign communication mediation models.</p><p>Third, as noted earlier, the theoretical account offered by our model is likely underspecified. The model did not assess other forms of reasoning such as reflection and interpersonal political discussion. Similarly, the model did not consider other factors, such as political knowledge, that orient people to participate in politics. Despite the overall support for the current model, it is thus important to test the stability of the current findings with these variables incorporated. Fourth, the retrospective self-report measures of incidental news exposure and campaign information seeking employed in our study are limited in terms of accuracy. Also, the timing of our surveys might have introduced social desirability and contaminated the accuracy of these media use measures, as respondents might have over-reported the frequency of media uses to be viewed as responsible citizens.</p><p>Fifth, our study used the fairly broad measures of campaign information seeking. The measure of incidental news exposure tapped unintentional exposure to campaign news across different types of platforms (e.g., Facebook, Twitter, video-sharing sties, photo-sharing sites) and did not examine how incidental news exposure occurred within specific platforms, such as news exposure through friends' activities in newsfeeds and content update notifications. Future research should capture the complex nature of incidental news exposure uniquely enabled by social media. Relatedly, as social media sites, such as Facebook, YouTube, and Twitter, have different levels of affordances, the present model might not be equal across different sites. Conducting a multigroup analysis to address this possibility might reveal critical nuances in how social media-based incidental news exposure promotes political participation.</p><p>Moreover, the current measure of social media use for news focused on Facebook in particular given its widespread popularity and lumped together other social media sites, such as Twitter, YouTube, and Instagram. This approach perhaps ran the risk of eliciting different definitions and examples when respondents answered the related questions and, as a result, missed important nuances that exist across these sites. Furthermore, the examples we included in the questions regarding attention to traditional media (e.g., NPR, New York Times) might have been perceived as liberal and introduced biased responses to these questions.</p><p>Finally, a potential caveat of the context of the present data collection needs to be acknowledged. The 2016 US presidential election observed the rise of fake news on social media that looked like legitimate news but actually promoted hoaxes to mislead users. We broadly tapped incidental exposure to news about the election and candidates and therefore did not isolate fake news from incidental news exposure. Although research shows that the impact of fake news on the election was not as substantial as reports and observers claim it was <ref type="bibr" target="#b0">(Allcot &amp; Gentzkow, 2017)</ref>, it is still important to keep in mind that the data might have been contaminated by exposure to fake news on social media.</p><p>With these limitations in mind, this study adds a few important insights to the literature on incidental news exposure and, more broadly, the political utility of social media. Major findings of our study include the indirect relationships from incidental news exposure on social media to offline and online political participation through social media use for news and online political information seeking, and online political expression, with incidental exposure at Time 1 predicting increases in social media use for news and online political information seeking at Time 2 while controlling for the causal influences of these information seeking variables on themselves. These results are theoretically consistent with the campaign communication mediation models <ref type="bibr" target="#b10">(Cho et al., 2009;</ref><ref type="bibr" target="#b40">Shah et al., 2007)</ref>. Whereas the campaign communication mediation models focused originally on campaign advertisement exposure as an antecedent to campaign information seeking, our study has found that incidental exposure to campaign news on social media plays a similar role.</p><p>This role of incidental news exposure can be explained by its social nature and the scalability of content. A socially networked online environment enhances the likelihood of incidental exposure to campaign news through increased visibility of campaign-related posts. Social recommendations indicating the popularity and perceived importance of news content likely motivate information seeking upon incidental exposure <ref type="bibr" target="#b2">(Anspach, 2017;</ref><ref type="bibr" target="#b43">Turcotte et al., 2015;</ref><ref type="bibr" target="#b50">Xu, 2013)</ref>. Online media enable a dynamic transition from incidental exposure to more active and directed information searches, as people can readily follow hyperlinks or open a new browser tab and perform self-directed search queries to find further information.</p><p>While online political expression as a form of reasoning played a mediating role as expected of the campaign communication mediation models, our study also found an indirect relationship between incidental news exposure on social media and offline and online political participation through online political information seeking without online political expression involved in this process. This result might be due to the unique characteristics of online political information seeking. When people perform this type of information seeking, such as reading raw material on candidates' campaign websites and using a search engine to learn about candidates' issue stance, they make a purposeful effort to seek specific information. The degree of activeness and directedness is likely higher than information seeking via traditional and social media <ref type="bibr" target="#b4">(Bates, 2002)</ref>. It is plausible that those who perform this type of information seeking digest information carefully, engage with it, and seek further material to gain an accurate and deep understanding of politics. In this sense, online political information seeking includes aspects of reasoning. While the finding suggests the importance of moving beyond existing news sources and expending self-directed efforts to find specific campaign information, this type of information seeking receives relatively limited attention in this line of research. It seems necessary to integrate online political information seeking into a theoretical model to understand how news consumption activities can facilitate citizens' participation in politics.</p><p>Another important finding is that internal political efficacy did not play a role in the process by which incidental news exposure on social media affected offline and online political participation. This result is somewhat surprising given existing evidence for the utility of political efficacy (e.g., <ref type="bibr" target="#b9">Chan, 2016;</ref><ref type="bibr" target="#b20">Jung et al., 2011)</ref>. It might be that internal political efficacy was not a major force in the 2016 US presidential election where anger and disillusionment with political elites, institutions, and systems seemed to drive participation <ref type="bibr">(Harvard Business Review, 2016)</ref>. There also may be orientation variables that played an important role in the election and yet were not explored in our study. For example, research on opinion expression suggests that as a result of expressing political opinions, one's attitude becomes more certain <ref type="bibr" target="#b35">(Pingree, 2007)</ref>, which might then drive participation. For now, however, our study provides support for the communication-based pathways to political participation <ref type="bibr" target="#b9">(Chan, 2016;</ref><ref type="bibr" target="#b10">Cho et al., 2009;</ref><ref type="bibr" target="#b39">Shah et al., 2005</ref><ref type="bibr" target="#b40">Shah et al., , 2007))</ref>.</p><p>Unlike previous studies <ref type="bibr" target="#b21">(Kim et al., 2013;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>, our study has shown that incidental news exposure on social media had a direct negative relationship with offline and online political participation, although the latter relationship was statistically marginal. Reasons for this result are not clear, but it might be due to the nature of campaign news. Reports indicate that the overall pattern of news reports during the 2016 US presidential election was highly negative and sensational, with an inordinate focus on Donald Trump. Those who unintentionally encountered campaign news of this nature and yet did not cognitively engage with it might have been turned off and decided to distance themselves from election-related activities in public forums. An exception might be voting, which can be done privately. However, as our surveys were conducted prior to the election, our measure of political participation did not include actual voting behavior. Alternatively, unlike our study, previous research that showed a positive association between incidental news exposure and political participation relied on cross-sectional data <ref type="bibr" target="#b21">(Kim et al., 2013;</ref><ref type="bibr" target="#b44">Valeriani &amp; Vaccari, 2016)</ref>, which might also explain the divergent findings.</p><p>As the relationship between incidental news exposure on social media and political participation was positive when mediated by campaign information seeking (i.e., social media use for news and online political information seeking) and online political expression, the result suggests that the simple act of unintentionally encountering campaign news on social media may not be enough to facilitate political participation, unless it is followed by active information seeking online. To gain participatory benefits from news, people must actively engage with it upon reception <ref type="bibr" target="#b38">(Scheufele, 2002)</ref>. When people simply encounter campaign news without further engagement, they may fail to extract useful information that enables participation in political activities <ref type="bibr" target="#b25">(Lemert, 1981)</ref>. However, if they follow up on incidentally encountered information with online information searches, they likely gain more details and understanding of politics, leading them into participation pathways. What specific types of incidental news exposure generate active information seeking online remains to be seen. It might be that incidental exposure to news posts and commentaries, shared by close and/or influential friends or to those that have received a large number of likes, shares, and comments, plays a particularly important role in this process. Future research should address this possibility.</p><p>Our study opens up multiple avenues for future extensions. Whereas we focused on news related to the election and candidates, there are different types of political content on social media, such as satire and humorous memes (F. L. F. <ref type="bibr" target="#b23">Lee, 2014)</ref>. It would be interesting to assess how incidental exposure to such content might affect political participation. From a selective exposure perspective, as a result of encountering political news by chance on social media, people might seek information that supports their preexisting beliefs and become more active in politics. Integrating varied types of incidental and selective exposure on social media would further extend this line of work <ref type="bibr" target="#b49">(Weeks, Lane, Kim, Lee, &amp; Kwak, 2017)</ref>. Finally, investigating the possible reciprocal relationships of incidental exposure with active information seeking using longitudinal data would add to the conceptual understanding of incidental exposure <ref type="bibr" target="#b11">(Erdelez, 1999</ref><ref type="bibr" target="#b12">(Erdelez, , 2004))</ref>. Continued research is required to develop a richer understanding of the political role of incidental news exposure and social media.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. A proposed model.</figDesc><graphic coords="5,139.50,77.09,348.00,184.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. A path model of incidental news exposure, information seeking, and political participation. N = 381; path entries are standardized coefficients; paths significant at p &lt; .05 or lower are reported; the effects of age, gender, education, income, race, political interest, political ideology, and party affiliation were residualized; model fit indices: χ 2 (44) = 119.276, p = .000, CFI = .972, SRMR = .037, RMSEA = .067; variance explained: attention to traditional media = 46.2%, social media use for news = 62.4%, online political information seeking = 44.6%, online political expression = 70.5%, internal political efficacy = 48.1%, offline political participation = 68.5%, online political participation = 63.8%. * p &lt; .05; ** p &lt; .01; *** p &lt; .001.</figDesc><graphic coords="7,115.50,79.67,396.00,289.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Indirect Effects of Incidental News Exposure on Political Participation.</figDesc><table><row><cell>Indirect paths</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) received no financial support for the research, authorship, and/or publication of this article.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Biographies</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social media and fake news in the 2016 election</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Allcot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gentzkow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="211" to="236" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Social media causes some users to rethink their views on an issue</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<ptr target="http://www.pewresearch.org/fact-tank/2016/11/07/social-media-causes-some-users-to-rethink-their-views-on-an-issue/" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The new personal influence: How our Facebook friends influence the news we read</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Anspach</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10584609.2017.1316329</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="590" to="606" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Self-efficacy: The exercise of control</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>The Freeman Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Toward an integrated model of information seeking and searching</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Review of Information Behaviour Research</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baum</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0003055402004252</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Sex, lies, and war: How soft news brings foreign policy to the inattentive public</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="91" to="109" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Social media use and participation: A metaanalysis of current research</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boulianne</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2015.1008542</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="524" to="538" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Social network sites as networked publics: Affordances, dynamics, and implications</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networked self: Identity, community, and culture on social network sites</title>
+		<editor>
+			<persName><forename type="first">Z</forename><surname>Papacharissi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="39" to="58" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Measurement and effects of attention to media news</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schleuder</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.1986.tb00096.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="76" to="107" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Social network sites and political engagement: Exploring the impact of Facebook connections and uses on political protest and participation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205436.2016.1161803</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="430" to="451" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Campaigns, reflection, and deliberation: Advancing an O-S-R-O-R model of communication effects</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Scholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gotlieb</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2008.01333.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="66" to="88" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Information encountering: It&apos;s more than just bumping into information</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erdelez</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/bult.118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of the American Society for Information Science</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="25" to="29" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Investigation of information encountering in the controlled research environment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erdelez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ipm.2004.02.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Information Processing &amp; Management</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1013" to="1025" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Exposure, attention, or &quot;use&quot; of news? Assessing aspects of the reliability and validity of a central concept in political communication research</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hutchens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19312450903378925</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="223" to="244" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Are people incidentally exposed to news on social media? A comparative analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Nielsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444817724170</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="2450" to="2468" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Social media, political expression, and political participation: Panel analysis of lagged and concurrent relationships</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Molyneux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12103</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="612" to="634" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">News use across social media platforms 2016</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gottfried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shearer</surname></persName>
+		</author>
+		<ptr target="http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center Journalism &amp; Media</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Political engagement and the Internet in the 2008 U.S. presidential elections: A panel survey</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tolbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Digital media and political engagement worldwide: A comparative study</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Anduiza</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Jensen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Jorba</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="56" to="79" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Why the white working class voted for Trump</title>
+		<ptr target="https://hbr.org/ideacast/2016/11/why-the-white-working-class-voted-for-trump" />
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<date type="published" when="2016-11-18">2016. November 18</date>
+		</imprint>
+	</monogr>
+	<note>Harvard Business Review</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10705519909540118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The mediating role of knowledge and efficacy in the effects of communication on political participation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De &amp; Zúñiga</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205436.2010.496135</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="407" to="430" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Stumbling upon news on the Internet: Effects of incidental news exposure and relative entertainment use on political engagement</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De &amp; Zúñiga</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.06.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2607" to="2614" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Facebook use and social capital: To bond, to bridge, or to escape</title>
+		<author>
+			<persName><forename type="first">M.-W</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>D'angelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0270467613496767</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Technology &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Bulletin of Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The impact of online user-generated satire on young people&apos;s political attitudes: Testing the moderating role of knowledge and discussion</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L F</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tele.2013.08.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Telematics and Informatics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="397" to="409" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Incidental exposure to news: Predictors in social media setting and effects on information gain online</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2017.02.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1008" to="1015" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Does mass communication change public opinion after all? A new approach to effects analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Lemert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Nelson-Hall</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">User-generated content on the internet: An examination of gratifications, civic engagement and psychological empowerment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444809341264</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1327" to="1347" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Power analysis and determination of sample size for covariance structure modeling</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Maccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Sugawara</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//1082-989X.1.2.130</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="130" to="149" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Civic engagement: Resolute partisanship or reflective deliberation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mackuen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Marcus</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-5907.2010.00440.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="440" to="458" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The cognitive perspective in social psychology</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Markus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Zajonc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The handbook of social psychology</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Lindzey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Aronson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="137" to="229" />
+		</imprint>
+	</monogr>
+	<note>Random House</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Community integration, local media use and democratic processes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Daily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009365096023002002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="179" to="209" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Measuring internal political efficacy in the 1988 National Election Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Niemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mattei</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1963953</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1407" to="1413" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The role of engagement in learning from active and incidental news exposure on social media</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oeldorf-Hirsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205436.2017.1384022</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="225" to="247" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">What is web 2.0: Design patterns and business models for the next generation of software</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>O'reilly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Digital Economics</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="17" to="37" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Is online participation distinct from offline participation? A latent class analysis of participation types and their stratification</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hooghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marien</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1065912912436695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Research Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="91" to="101" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">How messages affect their senders: A more general model of message effects and implications for deliberation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Pingree</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2007.00306.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="439" to="461" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Internet and political participation: Exploring the explanatory links</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Polat</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0267323105058251</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="435" to="459" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">lavaan: An R package for structural equation modeling</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rosseel</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v048.i02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Examining differential gains from mass media and their implications for participatory behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufele</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009365020202900103</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="46" to="65" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Information and expression in a digital age: Modeling Internet effects on civic participation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650205279209</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="531" to="565" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Campaign ads, online messaging, and participation: Extending the communication mediation model</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gotlieb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp;</forename><forename type="middle">.</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2007.00363.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="676" to="703" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Accidentally informed: Incidental news exposure on the World Wide Web</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tewksbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Weaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Maddex</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/107769900107800309</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="533" to="554" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Political inequalities start at home: Parents, children, and the socialization of civic infrastructure online</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thorson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edgerly</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10584609.2017.1333550</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="178" to="195" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">News recommendations from social media opinion leaders: Effects on media trust and information seeking</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Turcotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>York</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Irving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Scholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Pingree</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12127</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="520" to="535" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Accidental news exposure to politics on social media as online participation equalizer in Germany, Italy, and the United Kingdom</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Valeriani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vaccari</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444815616223</idno>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>New Media &amp; Society</publisher>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1857" to="1874" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Political participation in America: Political democracy and social equality</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Harper &amp; Row</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Spill-over effects between Facebook and on/offline participation? Evidence form a two-wave panel study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vissers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stolle</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19331681.2014.888383</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Information Technology &amp; Politics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="259" to="275" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Snapchat content surveys: How much millennials actually use live stories discover and more</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ault</surname></persName>
+		</author>
+		<ptr target="http://variety.com/2016/data/news/snapchat-content-survey-how-much-millennials-actually-use-live-stories-discover-and-more-1201736616/" />
+		<imprint>
+			<date type="published" when="2016-03-24">2016. March 24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The civic consequences of &quot;going negative&quot;: Attach ads and adolescents&apos; knowledge, consumption, and participation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gabay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002716212454652</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The ANNALS of the American Academy of Political and Social Science</title>
+		<imprint>
+			<biblScope unit="volume">644</biblScope>
+			<biblScope unit="page" from="256" to="271" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Incidental exposure, selective exposure, and political information sharing: Integrating online exposure patterns and expression on social media</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Weeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12199</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="363" to="379" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Social recommendation, source credibility, and recency: Effects of news cues in a social bookmarking website</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1077699013503158</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="757" to="775" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

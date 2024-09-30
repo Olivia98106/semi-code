@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Domesticating Facebook: The Shift From Compulsive Connection to Personal Service Platform</title>
+				<funder>
+					<orgName type="full">Regent&apos;s University, London</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Regent&apos;s University London</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2018-10">2018-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zoetanya</forename><surname>Sujon</surname></persName>
+							<email>z.sujon@lcc.arts.ac.uk</email>
+							<idno type="ORCID">0000-0002-4280-8222</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of the Arts London</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Leslie</forename><surname>Viney</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Regent&apos;s University London</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elif</forename><surname>Toker-Turnalar</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Regent&apos;s University London</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">London College of Communication</orgName>
+								<orgName type="institution" key="instit2">University of the Arts London</orgName>
+								<address>
+									<postCode>SE1 6SB</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Domesticating Facebook: The Shift From Compulsive Connection to Personal Service Platform</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Social Media + Society</title>
+						<title level="j" type="abbrev">Social Media + Society</title>
+						<idno type="ISSN">2056-3051</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">4</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page">205630511880389</biblScope>
+							<date type="published" when="2018-10" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">3FDBA7F10952CA6C3356AA4C71A32FFA</idno>
+					<idno type="DOI">10.1177/2056305118803895</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Facebook</term>
+					<term>domestication</term>
+					<term>social media</term>
+					<term>longitudinal study</term>
+					<term>connection</term>
+					<term>social change</term>
+					<term>young adults ORCID iD</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>As one of the largest social media platforms, the meaning and role of Facebook is widely contested, where many argue that Facebook's cultural importance especially for younger generations, is declining. Popular thinking and common assumptions often position Facebook as a boring platform taken up by older generations. Yet, despite these claims, Facebook's user base continues to grow and it is still one of the most dominant global platforms in today's media ecology. This article provides insight into this apparent contradiction through longitudinal research conducted with young adults, aged 18 to 30 in 2013, and aged 24 to 34 in 2017. Informed by research on youth and young adults, this article returns to domestication theory to understand how personal economies of meaning are shaped over time through changing patterns of use, in relation to an ever-evolving Facebook platform. Although respondents share contradictory accounts of their understandings of Facebook, they also share commonalities. Notably, respondents shift from a highly emotive framing of Facebook marked by "compulsive connection" in 2013 to a routinized use of Facebook for performing personal and often mundane services such as scheduling, micro coordinating, archiving, and to some extent, relationship maintenance. We argue that this shift illustrates the domestication of Facebook from a wild social space to a "personal service platform," thus providing an important insight into Facebook's continued user growth and cultural dominance.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The social media landscape, dominated by Facebook with more than 2.2 billion monthly active users in March 2018, informs many aspects of active Internet users' lives <ref type="bibr" target="#b71">(Zuckerberg, 2017;</ref><ref type="bibr">Moore &amp; Tambini, 2018)</ref>. Despite the uncontested size and scale of Facebook, many continue to debate the role of Facebook in users' lives, arguing that Facebook has lost its appeal for younger users and is facing a mass exodus of young people who think it is no longer cool <ref type="bibr" target="#b1">(Anderson &amp; Jiang, 2018;</ref><ref type="bibr" target="#b3">Bajarin, 2011;</ref><ref type="bibr" target="#b21">Greenfield, 2012;</ref><ref type="bibr" target="#b23">Hamburger, 2013;</ref><ref type="bibr" target="#b31">Kingsmith, 2013;</ref><ref type="bibr" target="#b32">Lang, 2015;</ref><ref type="bibr" target="#b47">Nicholls, 2016;</ref><ref type="bibr" target="#b59">Smith &amp; Anderson, 2018)</ref>. Recent PEW research reports that 68% of US adults use Facebook, whereas only 51% of US teens say they use Facebook and 72% say they use the Facebook-owned photo sharing app Instagram <ref type="bibr" target="#b1">(Anderson &amp; Jiang, 2018;</ref><ref type="bibr" target="#b59">Smith &amp; Anderson, 2018)</ref>.</p><p>Some attribute Facebook's declining appeal to younger generations to a number of factors, such as its ever increasing size, perpetual privacy violations, and monetization of personal data in the interests of empire building (e.g., <ref type="bibr" target="#b18">Fuchs, 2014;</ref><ref type="bibr" target="#b37">Meikle, 2016;</ref><ref type="bibr" target="#b60">Srnicek, 2017;</ref><ref type="bibr" target="#b66">Van Dijck, 2012</ref><ref type="bibr">, 2013)</ref>. The Cambridge Analytica revelations in early 2018, for example, not only expose Facebook's misuse of personal data across its platform but also demonstrate serious political consequences around the misuse of this data. Yet despite the rise in critical scholarship and whistleblowing journalism, Facebook's user base keeps growing and even though teens may not be as keen on Facebook, it is still part of their social media experience. Some attribute this to the empowering potential of Facebook and other social media for enabling social connection and cultural participation <ref type="bibr" target="#b9">(boyd, 2014;</ref><ref type="bibr" target="#b29">Jenkins, Ito, &amp; boyd, 2016;</ref><ref type="bibr" target="#b55">Shirky, 2008</ref><ref type="bibr" target="#b56">Shirky, , 2011))</ref>, while others argue this is part of Facebook's "pleasure machine"-the small bits of joy gained from liking, commenting, and connecting with others <ref type="bibr" target="#b64">(Vaidhyanathan, 2018)</ref>. Many others argue that Facebook is important for the presentation of self, for connectivity, for news and for public engagement, and for "Facebook official" public declarations of romantic commitment, among many other valuable uses (e.g., <ref type="bibr" target="#b19">Gershon, 2010;</ref><ref type="bibr" target="#b27">Ito et al., 2010;</ref><ref type="bibr" target="#b52">Robards &amp; Lincoln, 2016)</ref>.</p><p>Thus, while users' motivations may be closely examined in the research literature, it is also true that Facebook is continually changing and has long moved from the original closed web-based social network site (SNS) it was in 2004, to the complex, mobile-first and integrated service it is today (cf. <ref type="bibr" target="#b11">Brügger, 2015)</ref>. This means that the Facebook of yesterday is not the same platform-with the same patterns of connection-of today, calling into question what those patterns of connection are and how they have changed. Further complicating these patterns, people at different life stages and different cultural contexts often have fundamentally different patterns of digital communication, often focusing on different platforms and with culturally specific interpretations of those platforms <ref type="bibr" target="#b0">(Alhabash &amp; Ma, 2017;</ref><ref type="bibr" target="#b14">Costa, 2018;</ref><ref type="bibr" target="#b19">Gershon, 2010;</ref><ref type="bibr" target="#b36">Marlowe, Bartley, &amp; Collins, 2017)</ref>.</p><p>This research takes up these issues, asking, How do people make sense of Facebook over time? What role does Facebook have in their lives, how has this changed and why? Empirically, we conducted longitudinal research beginning in early 2013 with 44 international and Londonbased students aged 18 to 30 years old. At this time, we conducted media audits to better understand our respondents' media environments, followed by focus groups broadly exploring these environments with a specific focus on Facebook. In 2017, 10 of these original respondents, aged 24 to 34 at the time, participated in a similar audit and individual interviews exploring where respondents were now, how they understood their media environments, and the changing role of Facebook in their lives over time. To provide a context for our answer to these questions, we review existing literature examining Facebook, youth, and young adults, identifying life stage and common motivations for patterns of social media use. Based on these findings, we return to earlier work on the domestication of entertainment and media technologies <ref type="bibr" target="#b2">(Ang, 1992;</ref><ref type="bibr" target="#b46">Murdock, Hartmann, &amp; Gray, 1992;</ref><ref type="bibr" target="#b34">Livingstone, 1992;</ref><ref type="bibr" target="#b46">Murdock et al., 1992;</ref><ref type="bibr">Silverstone &amp; Hirsch, 1992;</ref><ref type="bibr" target="#b69">Wheelock, 1992)</ref>. Domestication theory provides a useful frame for understanding how respondents' economies of meaning are shaped over time through changing patterns of use in relation to an everevolving Facebook platform. In addition, domestication theory also provides a historical comparison between the dominant media of the 1990s (television, early information and communication technologies, computers) and of the 2010s (social media, Facebook, mobile phones).</p><p>In line with life stage research, our respondents have moved from experimenting and network building (e.g., friend collecting) on Facebook to relationship maintenance marked more by observing rather than posting <ref type="bibr" target="#b36">(Marlowe et al., 2017;</ref><ref type="bibr" target="#b65">Van den Broeck, Poels, &amp; Walrave, 2015)</ref>. However, despite references to Facebook as less interesting than it used to be, it also features prominently within all but one of our respondents' lives. We argue that respondents reveal a notable shift in their understanding of Facebook as a social network used mostly to connect with others in 2013, to a kind of personal service platform used for coordinating events, archiving photos, and relationship maintenance in 2017. Indeed, we argue that respondents demonstrate a shift from compulsive connection to a more comfortable connection, marked by a deep routinization of everyday personal services through the Facebook platform-what can best be described as a personal service platform. In these ways, Facebook is still important for young and emerging adults, albeit in more mundane ways. This shift not only marks the domestication of Facebook into the background of our respondents' lives, where users rely on Facebook for scheduling, monitoring, maintaining, and organizing their lives, but also a shift in the Facebook platform itself.</p><p>To develop this argument, we outline shifting understandings of Facebook from the literature, domestication theory, our methods, and empirical findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Understanding Facebook</head><p>In 2004, "The Facebook" digitized a 40-year American tradition of printing college directories of first year students, often thumbed through to scope the university for possible dating interests <ref type="bibr">(Gray, 2007, p. 73)</ref>. From this point, Facebook has transformed from a web-based, exclusive site for college and university students, to a multi-purpose, mobile-first platform extending a multitude of services and partners across the web and open to the world. In this period, Facebook has become almost unrecognizable from what it was in 2004, as has its user base, how it is used, and what it can do (see also <ref type="bibr" target="#b11">Brügger, 2015)</ref>.</p><p>Similar to the rapid expansion of Facebook as a platform, the research literature on Facebook has also exploded, overshadowing other social media <ref type="bibr" target="#b61">(Stoycheff, Liu, &amp; Wibowo, 2017;</ref><ref type="bibr" target="#b70">Wilson, Gosling, &amp; Graham, 2012)</ref>. For example, an EBSCO-based literature research reveals over 3,600 peerreviewed articles in media and communications alone (out of 137,895 peer-reviewed articles across disciplines), between 2012 and 2017. Of this literature, the most popular journal is Cyberpsychology, with 389 articles addressing Facebook and psychology (e.g., addiction, behavior, shyness, attitudes, emotional responses, gratifications, etc.), followed by 199 articles in medical journals (addressing topics on health information, health care, compliance, health sciences, medical students' use of <ref type="bibr">Facebook, ethical issues, death, patient care and communication, etc.)</ref>. Of these articles, the top five key words include age (496 articles), use (251 articles), psychology (236 articles), consumer (174 articles), and politics (152 articles).</p><p>Amid this literature is a growing body of research examining Facebook as a social network and an increasing number of studies addressing Facebook and news or information (e.g., <ref type="bibr" target="#b6">Bene, 2017;</ref><ref type="bibr">Lambert, 2016;</ref><ref type="bibr" target="#b45">Mosca &amp; Quaranta, 2016)</ref> and the connections between Facebook use, the self, and/or life stage <ref type="bibr" target="#b0">(Alhabash &amp; Ma, 2017;</ref><ref type="bibr" target="#b8">Bertel &amp; Ling, 2016;</ref><ref type="bibr" target="#b41">Mitchell, 2014;</ref><ref type="bibr" target="#b65">Van Den Broeck et al., 2015)</ref>. <ref type="bibr">Foote, Shaw &amp; Mako (2018, p. 114</ref>) provide an analysis of SCOPUS articles, finding that scholarship on "social media" has increased almost fivefold between 2010 and 2015, a point supported by analysis of the same terms in Google Trends <ref type="bibr">(Rogers, 2018, p. 92)</ref>, all of which emphasize the growth of Facebook as a subject in a number of interdisciplinary fields, including social media scholarship. Certainly, even before the explosion of literature, social media scholarship has followed a cyclical pattern similar to <ref type="bibr" target="#b68">Wellman's (2004)</ref> "three ages of internet studies" <ref type="bibr">(Lievrouw &amp; Livingstone, 2006)</ref>. The first of these is defined by "excitable," often dystopic or utopic claims, followed by "systematic documentation of users and uses," and culminating in where we are now, the rise of critical analysis marked by increasing interdisciplinarity <ref type="bibr">(Sujon, in press;</ref><ref type="bibr">Wellman, 2004, pp. 124-127)</ref>.</p><p>Although there has been ample growth in the number of articles on Facebook, the question of what Facebook is remains. <ref type="bibr" target="#b10">Ellison and boyd's (boyd &amp; Ellison, 2007)</ref> influential work on social networking sites (SNSs) is a common starting point, even though their definitions of SNSs have also changed. Like social media more broadly, they argue SNSs are increasingly fluid and asymmetrical-a point that also applies to Facebook. <ref type="bibr" target="#b16">Ellison and boyd (2013)</ref> also note that social media, like Facebook, are becoming less profilebased and more media-centric (cf. <ref type="bibr" target="#b38">Meikle &amp; Young, 2012)</ref>. This shift is important, highlighting the interaction between platform and not only behavior but also potential behaviors-otherwise known as affordances-as increasingly intertwined (see <ref type="bibr" target="#b5">Beer, 2008;</ref><ref type="bibr" target="#b6">Bene, 2017;</ref><ref type="bibr" target="#b12">Bucher &amp; Helmond, 2018;</ref><ref type="bibr" target="#b30">Juris, 2012;</ref><ref type="bibr" target="#b48">Norman, [1988</ref><ref type="bibr" target="#b48">Norman, [ ] 2013))</ref>.</p><p>Drawing from ethnographic work in Turkey, Costa (2018) provides evidence for the importance of culture in shaping online behaviors, rather than the result of only Western "platform architectures." In particular, <ref type="bibr" target="#b14">Costa (2018)</ref> argues that we must challenge the idea of affordances, instead using "affordances-in-practice," to locate affordances within cultural specificities, practices, behavioral norms-as well as platform technologies. As such, social media environments are increasingly complex, increasingly platformized, and in many ways, increasingly evasive <ref type="bibr" target="#b35">(Madianou &amp; Miller, 2012;</ref><ref type="bibr" target="#b36">Marlowe et al., 2017;</ref><ref type="bibr" target="#b67">Van Dijck, 2013)</ref>. A point illustrated by Facebook itself, through its varied self-descriptions:</p><p>Facebook has always carefully refrained from calling itself a social network <ref type="bibr">(Arrington, 2008;</ref><ref type="bibr">Locke, 2007)</ref>. Rather, over time, Facebook founder Mark Zuckerberg has framed Facebook as a "social directory" <ref type="bibr">(Facebook Newsroom, 2006)</ref>; a "social utility" <ref type="bibr">(Facebook Newsroom, 2006)</ref>; and a "platform" <ref type="bibr">(Facebook Newsroom, 2007)</ref>. <ref type="bibr">(Helmond, 2015, p. 3)</ref> Van Dijck (2013) also argues that Facebook is not a social platform; instead it is one of many "connective" platforms which make social metrics visible-likes, shares, views, and so on. Van Dijck begins with the embedding of social habits and routines within the "co-evolution" of communication technologies-like letter writing, chatting on the phone, or texting. While Facebook, Twitter, YouTube, and other "social" platforms may enable the appearance of sociality, Van Dijck argues the main function of connective media is about automating sociality and configuring social media platforms as core public communication infrastructures. <ref type="bibr" target="#b64">Vaidhyanathan (2018)</ref> takes this argument further, arguing that Facebook is a "skinner box," slowly socializing its users to keep clicking, liking, sharing for "intermittent" and pleasurable reinforcements, much like Pavlov and the conditioning of his dogs (pp. 36-37). However, these pleasurable reinforcements are one side of an exceptional surveillance system, creating an insidious "anti-social media" platform <ref type="bibr">(Vaidhyanathan, 2018, pp. 36-37)</ref>. Thus, a critique of Facebook as complex, as embedding surveillance, and as manipulating and monetizing connection is inherent in Van Dijck and Vaidhyanathan's definitions of Facebook.</p><p>What we learn from this brief overview of research around social media and Facebook is that Facebook, although widely understood as an influential social media platform, is much more than a website or mobile platform enabling people to connect with each other. Certainly, the social precedes the technology and as a result, social media are connective and performative, including behaviors, platforms, affordancesin-practice, and the interaction between both <ref type="bibr" target="#b14">(Costa, 2018;</ref><ref type="bibr" target="#b26">Humphreys, 2016;</ref><ref type="bibr" target="#b40">Miller et al., 2016;</ref><ref type="bibr" target="#b66">Van Dijck, 2012</ref><ref type="bibr">, 2013)</ref>. In addition, critical scholarship questions the differences between Facebook as a social platform and Facebook as a capitalistic platform which monetizes the metrics of connection. However, the question remains regarding how users, particularly young and emerging adults, understand, use, and make sense of Facebook in their own lives. The next section addresses youth oriented studies on Facebook use and outlines domestication theory as a framework for making sense of affordances-in-practice, as they relate to Facebook as a changing platform, over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook and Patterns of Use: From Emerging to Young Adults</head><p>Originating in the dorm rooms of Harvard University in 2004, Facebook began as part of popular youth culture, particularly for those of university age. As such, there is a lot of work focusing on Facebook and "youth," which we have defined as a broad life stage composed of young adults ranging from 18 to 34. This breadth is important in part because youth is a difficult category to define, marked by both developmental changes and significant transitions in social roles, many of which come increasingly later in life (Office for National <ref type="bibr">Statistics, 2015;</ref><ref type="bibr" target="#b54">Sawyer, Azzopardi, Wickremarathne, &amp; Patton, 2018)</ref>. danah boyd's work on American teens' use and understanding of social media is among the most influential studies on youth and social media. Drawing from years of interaction and informal discussion with teens, parents, and teachers between 2000 and 2010, along with 166 interviews with teens between 2007 and 2010 (boyd, 2014), boyd argues that although "it's complicated," social media provides "networked public" spaces and communities for teens <ref type="bibr">(pp. 8-14)</ref>. Internet and social media amplify "the good, bad and ugly of everyday life" in different ways for different youth, depending on the teen and their experiences <ref type="bibr">(boyd, 2014, p. 24;</ref><ref type="bibr">cf. Costa, 2018)</ref>. Notably, one of boyd's primary arguments is that Facebook is one part of a broader media landscape for youth, all of which facilitate play, identity expression, power, inequalities, and dangers-all the same aspects of offline life in networked ways. boyd's argument is useful in a general way for thinking about the role of Facebook for youth and young adults, but less so for answering the question at hand.</p><p>Although focusing on privacy concerns, <ref type="bibr" target="#b65">Van den Broeck et al. (2015)</ref> argue that there are clear differences around Facebook use (and perceptions of privacy) based on age and life stage. Van den Broeck et al. base their findings on an online survey with 508 Dutch-speaking adults between the ages of 18 and 65, who are categorized according to Erik Erikson's "life stages of adulthood," which they argue are useful for understanding generational patterns in social media and Facebook use. These stages include emerging adulthood (18-25), young adulthood (25-40), and middle adulthood (40-65). Van den Broeck et al. argue that "each life stage is linked to specific needs and wants in terms of identity management and interpersonal relationships" (Steijn, 2014, as cited in <ref type="bibr">Van den Broeck et al., 2015, p. 2)</ref>.</p><p>For emerging adults, these "specific needs and wants" are often focused on experimentation and intimacy development, marked by high levels of "self-disclosure" ( <ref type="bibr" target="#b65">Van den Broeck et al., 2015)</ref>. In contrast, young adults tend to selfdisclose much less, focusing more on establishing themselves through commitment to romantic, family, and work relationships, often in relation to increasing responsibilities and their changing social roles. In terms of social media and Facebook, young adults are less likely to experiment or develop extended networks, instead focusing on those close to them <ref type="bibr">(Van den Broeck et al., 2015, p. 3)</ref>. Accordingly, middle adults primarily focus on building bonds with old friends, geographically distant family and friends, and are among the most frequent to publish on social media and Facebook ( <ref type="bibr">Van den Broeck et al., 2015, p. 3)</ref>.</p><p>This life stage research focuses on identifying general traits, intended to find generational patterns, rather than variations. As such, life stages are useful markers for understanding the changes people go through from one life stage to another. These transitions also fit with the ways our respondents use and understand Facebook in 2013 and 2017, as reported below. However, we argue that although life stage research does offer a useful explanation for why people use Facebook as they do at particular points in their life, it cannot tell us what Facebook means for respondents over time or explain how Facebook has changed as a platform. In this sense, life stage research provides valuable insights but cannot tell the whole story.</p><p>Bertel and Ling ( <ref type="formula">2016</ref>) ask what SMS (a "text" or "short message service") and Facebook mean for young people, based on semi-structured interviews with 31 Danish young people between the ages of 16 and 21. Although Bertel and Ling concentrate on SMS, their research is highly relevant here as Facebook and Facebook Messenger are also important media for their respondents. <ref type="bibr" target="#b8">Bertel and Ling (2016)</ref> also use domestication theory as a framework to better understand the "fundamental transformation" of SMS in the broader media landscape and the ways young people make sense of changing communicative media, "in the face of changed circumstances" (p. 1295). <ref type="bibr" target="#b8">Bertel and Ling (2016</ref><ref type="bibr">, pp. 1295</ref><ref type="bibr">-1296)</ref> find that young people use SMS-including Facebook messenger-for "micro-coordination" (e.g., scheduling meetings and activities via text or messaging media), "connected presence" (e.g., continuous contact), and "expressive communication" (e.g., small talk, longer conversations, thoughts, feelings, etc.). In conclusion, <ref type="bibr" target="#b8">Bertel and Ling (2016)</ref> argue that SMS is used exclusively for strong ties, whereas Facebook is used for weaker ties-both of which are "undergoing re-domestication at both the functional and symbolic levels" (p. 1305). This is significant and a point we will return to below.</p><p>Based on a survey of 396 American college students' uses and gratifications of four platforms (Facebook, Twitter, Instagram, and Snapchat), <ref type="bibr" target="#b0">Alhabash and Ma (2017)</ref> argue that young adults have different motivations and uses for using different social media platforms. Although 97.2% of their sample reported having a Facebook account, compared to 84.3% with Snapchat, <ref type="bibr" target="#b0">Alhabash and Ma (2017)</ref> found that respondents spent the most minutes per day on Instagram (108.73), followed by Snapchat (107.15), Facebook (106.35), and then Twitter (88.92, p. 5). The rise in Snapchat and Instagram use has also been noted in other research <ref type="bibr" target="#b59">(Anderson &amp; Smith, 2018)</ref>. More importantly, respondents indicated "more favourable affective and cognitive attitudes toward-Instagram and Snapchat than Facebook and Twitter" <ref type="bibr">(Alhabash &amp; Ma, 2017, p. 7)</ref>. This is an important observation, as Alhabash and Ma note a gap between quantity of use and "affective" attitude-a point which appears to influence our respondents as well as negative attitudes toward Facebook more widely. For example, recent Pew reports note a decline in teen self-reports of their Facebook use, yet researchers also note a high intensity use of Facebook (repeated daily checking) as well as "reciprocity" or overlapping use of at least three social media sites <ref type="bibr">(Smith &amp; Anderson, 2018, pp. 5-6)</ref>. Apart from YouTube, Facebook is still the most dominant social media platform across age groups, and even more so when Facebook's other social platforms such as Instagram and WhatsApp are included as part of Facebook "use" <ref type="bibr" target="#b49">(Ofcom, 2016</ref><ref type="bibr">(Ofcom, , 2017a;;</ref><ref type="bibr">Pew Research Center, 2017</ref><ref type="bibr">, 2018;</ref><ref type="bibr" target="#b59">Smith &amp; Anderson, 2018)</ref> Echoing <ref type="bibr" target="#b59">Anderson and Smith's (2018)</ref> notion of "reciprocity," respondents also identified entertainment and convenience as the two most significant motivations across all four platforms, indicating that these factors are more important than social interaction <ref type="bibr">(Smith and Anderson, 2018, pp. 7-8)</ref>, findings supported in our own research reported below.</p><p>This brief overview of current literature on Facebook, youth, and young adults reveals that Facebook, like other social media, plays a complicated role, one that is networked and embedded within and through offline life <ref type="bibr" target="#b9">(boyd, 2014;</ref><ref type="bibr" target="#b39">Miller, 2011)</ref>. Age and life stage also play an important role in shaping patterns of connection through Facebook use. Notably, <ref type="bibr" target="#b65">Van den Broeck et al. (2015)</ref> argue that generational patterns can be observed on Facebook and social media, patterns that correspond with Erikson's developmental life stages. Van den Broek et al. identify those aged 18 and 24 as emerging adults, noting heightened self-disclosure and experimentation as key behaviors. In contrast, young adults, those aged 25 to 40, tend to focus on establishing and maintaining relationships <ref type="bibr" target="#b65">(Van den Broeck et al., 2015)</ref>. <ref type="bibr" target="#b8">Bertel and Ling (2016)</ref> identify micro-coordination, connected presence, and expressive communication as dominant SMS and Facebook behaviors, although Facebook appears to be for weaker ties and larger networks than SMS. While all of this research provides relevant insights, we examine how the domestication of technology can provide an additional analysis of Facebook's changing symbolic and cultural role in young adult lives over time, and in turn, offer an interpretation of domestication theory that takes account of temporality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Domestication of Technology</head><p>When the domestication of technologies has been "successful," the technologies are [seen as] comfortable, useful toolsfunctional and/or symbolic-that are reliable and trustworthy. This is often the case with the phone, radio and television. They have all lost their magic and have become part of the routine. <ref type="bibr">(Berker et al., 2005, p.</ref> 3)</p><p>The domestication of technology is a conceptual and empirical approach bridging the social shaping of technology with an often qualitative approach to understanding the complex relationships around technologies as they are used within and beyond the household <ref type="bibr" target="#b22">(Haddon, 2006;</ref><ref type="bibr" target="#b43">Morley, 1986;</ref><ref type="bibr" target="#b13">Cockburn, 1992;</ref><ref type="bibr">Silverstone &amp; Hirsch, 1992;</ref><ref type="bibr" target="#b62">Strathern, 1992)</ref>. Domestication refers to both the ways technologies are "doubly articulated" as object and as meaning-both of which are embedded in everyday life and cultural forms <ref type="bibr" target="#b7">(Berker et al., 2005;</ref><ref type="bibr" target="#b57">Silverstone &amp; Haddon, 1996;</ref><ref type="bibr">Silverstone &amp; Hirsch, 1992)</ref>.</p><p>The value of this approach is at least twofold. First, by focusing on the cultural and symbolic nature of technologies, objects are questioned as dynamic processes, subject to change, adaptation, and context. For example, building on this approach, <ref type="bibr" target="#b34">Livingstone (1992)</ref> examined gendered meanings of technologies in the home, finding vast differences around family interpretations and use of washing machines, radios, televisions, telephones, and other everyday technologies. In this sense, the domestication approach facilitates an empirically grounded understanding of technologies as they are in the context of everyday life and the embodied users who come to them, as they come to them. In other words, contexts of use are approached as significant and meaningful components of technologies. Second, the domestication approach focuses on technology as cultural, simultaneously embedded within culture as a cultural form and also as contributing to the making of that cultural form. For example, David <ref type="bibr" target="#b43">Morley (1986</ref><ref type="bibr" target="#b44">Morley ( , 2005) )</ref> examines the intimate and gendered nature of television in the home, arguing that television's central placement in the living room has a material and symbolic influence on the role of the television in family life-thus being embedded within culture and as a result, also contributes to culture-making. In its earliest days, the television was a very different technological object, including a smaller screen and many cumbersome cables, taking up a much larger amount of space. At this early stage, the television was considered "wild" and pre-domesticated, thus "domestication" refers to the ways television was technologically and culturally "tamed," domesticated, to fit into and help shape domestic routines (cf. <ref type="bibr" target="#b4">Baym, 2015;</ref><ref type="bibr" target="#b22">Haddon, 2006)</ref>. Domestication provides a useful conceptual frame for understanding the changing nature of Facebook as a technological platform and also as a cultural form. In addition, domestication also contributes a deepened understanding of the role of Facebook beyond motivation, life stage, or networked platform. In particular, understanding Facebook in terms of domestication also means positioning our respondents' personal domains in relation to the "public sphere," processes of media institutionalization, and their cultural specificities <ref type="bibr">(Silverstone &amp; Hirsch, 1992)</ref>. Broader than the concept of "affordances," domestication better fits our respondents' contradictory experiences and understandings of Facebook as a changing social technology. In the next section, we outline our data gathering and research methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods: Longitudinal Research, 2013-2017</head><p>Inspired by the ubiquity of Facebook in 2012-2013, we developed a research project with 44 undergraduate students to better understand the role of Facebook in young adults' lives. We invited a wide range of international students enrolled in different degree programs in London universities to participate in research involving two stages. First, respondents were asked to complete a media audit and survey, exploring their use and attitudes toward specific media and toward social media more broadly. Following this, we asked the same students to participate in large and then smaller focus groups where they were asked more in-depth questions about what Facebook is to them and on the role of Facebook in their lives. The focus groups were semi-structured, exploring themes across groups including general definitions and understandings of Facebook, followed by more specific questions about the role of Facebook in relationships, communities, classes, politics, news, and information.</p><p>Four years later in 2017, we contacted all of the original participants (each of whom had agreed to be contacted for follow-up research) inviting them to participate in the next phase involving a similar audit and survey, slightly adapted to include Instagram and Snapchat, and followed up these surveys with a one-on-one semi-structured interview. The semi-structured interviews asked respondents our original research questions, including a reflection on how Facebook and social media have changed over time for them, and any points of interest taken from the audit and survey. Of the 44 original respondents, only 10 (or 22%) responded to the request to participate in the follow-up research. These respondents, whose names have been changed to protect their identities, are listed in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Many of our original participants have graduated, moved cities and even countries, and many have changed their contact details. This means this study focuses on only 10 respondents from the original 2013 sample, who then also participated in the 2017 research. Data analysis involved thematic coding of interviews and media audits by each individual respondent, as well as a cohort analysis in 2013 and 2017. Each respondent's data were also compared across research points, to identify each individual's key commonalities and differences.</p><p>In addition to the small size of this sample, our respondents may not be typical of our original sample or of young adults generally. Respondents were students at a primarily international university, indicating that many had financial and social resources. As a result, this research does not purport to be representative or generalizable. Respondents also volunteered in both 2013 and 2017 and may convey biases more typical of those who self-select for surveys or who want to participate in research. In line with other social media research, more females than males took part, so our findings may also reflect gender differences and ways in which Facebook use is gendered (see <ref type="bibr" target="#b15">Duffy, 2017;</ref><ref type="bibr" target="#b28">Jarrett, 2016)</ref>. Bearing in mind these limitations, we argue that our results provide valuable qualitative insights into ways in which use of and attitudes toward Facebook have changed in a short but important time in Facebook's development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Findings: The Meaning of Facebook and Patterns of Connection</head><p>Our respondents report their relationship with Facebook in highly personal and contradictory ways, demonstrating the richness of their experiences and personal meanings-as well as the changing nature of Facebook-themes which are at the basis of domestication research (e.g., <ref type="bibr" target="#b11">Brügger, 2015;</ref><ref type="bibr" target="#b25">Heyman &amp; Pierson, 2015;</ref><ref type="bibr" target="#b34">Livingstone, 1992;</ref><ref type="bibr">Silverstone &amp; Hirsch, 1992;</ref><ref type="bibr" target="#b62">Strathern, 1992)</ref>. Amid the many opposing stories and even contradictory observations within each respondents' experience, a few commonalities emerged, First, the many clashing stories demonstrate highly "personal economies of meaning." Second, respondents describe a shift from compulsive connection to a more comfortable and mundane connection. Third, Facebook, as a social technology, is increasingly understood as a "universal platform." All of these points come together to illustrate the ways that Facebook has become both a domestic platform and a domesticated platform. Each of these themes is addressed below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Personal Economies of Meaning</head><p>Respondents tell clashing stories and describe numerous contradictions both in their understanding of Facebook and around their experiences of it, often in the same breath. For example, Sofia, a 21-year-old student in 2013, says, I love Facebook. Like I'm one of those over-users but I actually just decided, like, two weeks ago to just deactivate my account and see how long I could last and I lasted three days, but during those three days it was like the most liberating three days of my life. Like I just felt amazing. <ref type="bibr">(Sofia, age 21 in 2013)</ref> At almost the exact same time, Sofia describes intense feelings and a close relationship with the platform, positioning herself as an "over-user," yet also celebrates the liberation she felt by taking a 3-day break. These intensities were frequently reflected in respondents' explanations and descriptions of Facebook, pointing to an emotional tension around the  <ref type="bibr">Silverstone and Hirsch (1992)</ref> describe as "personal economies of meaning"-individualized frameworks and repertoires used to make sense of one's experience.</p><p>Even based on a small sample of 10, respondents all understood Facebook in unique and personalized ways.</p><p>In 2013, 36 (or 83%) of our respondents felt it was "a bit" or "very true" that Facebook was really important to them (N = 44). Of the 10 respondents we spoke to in both 2013 and 2017, half of them said the statement "Facebook is really important to me" was not true, marking an apparent shift away from Facebook's affective centrality in our respondents' lives.</p><p>Although these data suggest that young adults are indeed losing interest in Facebook, Facebook is still reported as the largest and most used social media platform for all age groups, including young people (e.g., <ref type="bibr" target="#b0">Alhabash &amp; Ma, 2017;</ref><ref type="bibr" target="#b8">Bertel &amp; Ling, 2016;</ref><ref type="bibr" target="#b49">Ofcom, 2016</ref><ref type="bibr" target="#b50">Ofcom, , 2017;;</ref><ref type="bibr">Pew Research Center, 2017</ref>). Yet, as our research shows, Facebook is still the primary social media of choice for many young adults:</p><p>Facebook is my main identity or contact. It's good to know that it's there and has old photos from 10 years and more ago. It's something that I don't think I'll ever be able to delete because of my history with the platform but I now see Facebook as the main source of daily news and interesting articles while also keeping up with people I don't connect with or see often through the photos they post. (Ruby, age 25 in 2017)</p><p>Based on Ruby's point and the evidence outlined above, we argue that the way people talk about their relationships with Facebook is contradictory. On one hand, it is still dominant or "my main identity or contact" and on the other, it is "less interesting." This kind of double talk suggests that Facebook is still an important social media platform, one that continues to be deeply integrated into everyday life, even if it has lost its "magic and become part of the routine" <ref type="bibr">(Berker, Hartmann, Punie, &amp; Ward, 2005)</ref>. All of this routinization points to a process where Facebook has and is becoming increasingly domesticated. One of the indicators of this domestication is the normalization or "taming" of Facebook, and its appearance in respondents' lives as much less important or as interesting as it was in 2013.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>From Compulsive Connection to Personal Service Platform</head><p>Five years ago, our respondents talked about Facebook in highly emotive ways, marked by anxiety, excitement, extremes, and notably loss of control. In 2013, many of our respondents described their relationship to Facebook by using works like "love," "hate," "fear," "control," and even "power." The emotive framing used in 2013 highlights some of the tensions associated with heavy investment into a platform deeply embedded in respondents' personal lives. While many value the ease of networking and perpetual contact enabled through Facebook, many also note the coercive power of Facebook. This leads to our second point, as partially illustrated in Sofia's and Evie's quotations above; the language respondents use to talk about Facebook in 2017 has shifted from a highly emotive to a more practical frame, marked by distance rather than closeness. This shift marks a transition from "compulsive connection" to a more complacent connection, where Facebook's role is almost taken for granted and is used to conduct a wide range of personal services-from maintaining contacts to hosting shared photo albums. This is not to say that respondents are always comfortable with Facebook. Caitlin points out that "some people use social media as a trash can for all their emotional negativity," highlighting a negative emotional association toward Facebook (age 24 in 2017). This negativity informs many respondents' views of Facebook. Faith describes her attitude toward Facebook as "a healthy mix of skepticism and thinking it's fun" (age 24 in 2017). Although Faith describes fake news, addiction, advertising, inauthenticity, and divisive politics as key issues, she also describes Facebook's primary role as being about comfort:</p><p>People who share personal information do so because it's about assurance or reassurance. I don't want to say it's about wanting attention but it is like not wanting to be alone. <ref type="bibr">(Faith, age 24 in 2017)</ref> Faith regards other Facebook users with understanding but also with distance as she doesn't "really have attachments to it," yet also relies on its connect with others, make plans, and schedule events. However, Faith also recognizes the comfort Facebook provides through the sense of companionship and connection with others. Like many of our respondents, Faith illustrates emotional nuances in her understanding of Facebook, nuances which highlight Facebook's embedded importance in Faith's life despite her "skepticism."</p><p>Related to this, Evie spoke of the "Fear of Missing Out" (FOMO) in 2013 because there were "a million things that I could miss out on just because nobody's sending around text messages" (age 21 in 2013). While FOMO may have contributed to the compulsive connection observed in 2013, it was not present in respondents' accounts in 2017, further demonstrating a softening of intensity, emotion, and anxiety. Both Faith and Evie not only claim that they no longer rely or need Facebook but also emphasize its importance for personal connections, managing their social lives, professional visibility, and relationship maintenance. This is an important contradiction reflected in many of our respondents' understandings of Facebook. Aida, describes her relationship with Facebook along with a quite sophisticated privacy management strategy: Like Remo, aged 25 in 2017, who was an active LinkedIn user in 2013, Aida appears to be further developing strategies, understandings of, and attitudes toward Facebook that she had already established in 2013. For example, those respondents who were highly skeptical of Facebook in 2013 like Aida, were even more skeptical in 2017, whereas those who preferred LinkedIn, like Remo did in 2013, continued to express similar views in 2017.</p><formula xml:id="formula_0">I</formula><p>From "Great Sharing Tool" to "the Walmart of Social Media"</p><p>The third commonality shared across our respondents' experience is their understanding of how Facebook has changed. In 2017, respondents understand Facebook as a kind of "universal platform" (Ruby, age 25), whereas in 2013, respondents described Facebook in much more specific ways, such as a kind of "global phone book" (female, age 21) or as a "great sharing tool" (male, age 20). One respondent described Facebook as the "Walmart of social media," concisely summarizing repeated references to Facebook's multi-dimensionality and the roll-out of endless new features, many which increasingly overlap with other social media (e.g., Instagram, LinkedIn, and Twitter being mentioned most frequently):</p><p>Facebook has a lot of different features now. It used to be photo uploads and now you can do so much more-it is so many more things. It has shifted from being MySpace's competitor to having every feature of Snapchat, Instagram and Vine. It has become the Walmart of social media. <ref type="bibr">(Cerys, age 24 in 2017)</ref> In agreement with Cerys' statement above, Amy states, "Facebook is the one platform everyone uses" (age 24 in 2017). Regardless of respondents' attitudes toward Facebook, respondents understood Facebook as a platform that could do everything, acting as phone book, photo album, personal archive, scrapbook, platform for self-promotion and branding, personal calendar, event scheduler, a place to keep up with and maintain friendships, to monitor businesses and/or organizations, and as a news and information source, among many other personal services. In this sense, Facebook has become a domestic platform, one that serves as a personal management platform, providing many services and features, particularly helpful for managing, organizing, and archiving people's personal lives.</p><p>For some respondents, Facebook provides a highly intimate personal service related to diary keeping: I'd say Facebook has turned into a diary for a lot of people but also a news source . . . A lot of people will create long posts about what happened during their day or something more emotional that probably not everyone needs to know, but it's an outlet. <ref type="bibr">(Berta, age 25 in 2017)</ref> In these ways, Facebook, like many social media platforms, is a tool for personal expression as well as offering many more banal features like organizing meetings, personal data storage, and local event scheduling:</p><p>It is practical. I use Facebook more for friends and to organize meetings with friends. (Remo, age 25 in 2017) I do see Facebook as a personal platform. I think it is because I made it personal. I know a lot of people who want Facebook to be as public as possible because it's the only way they feel heard. I'm just looking to store my memories and photos mostly. (Caitlin, age 24 in 2017) There's a lot of features that are helpful. I use events to find out things happening in my area and these things are things I would never know about because no one would ever tell me about it. <ref type="bibr">(Faith, age 24 in 2017)</ref> Remo, Caitlin, and Faith all illustrate the ways they rely on Facebook for important although relatively uninteresting services. Although respondents may turn to other social media for social, informational, or professional uses, all but one of our respondents rely on Facebook for the kind of mundane purposes outlined above. In one breath, respondents claim independence from Facebook, and in the other, they outline the personal importance Facebook has for providing a wide range of these personal services in routinized ways.</p><p>We argue that this shift points to the domestication of Facebook as a social platform and that while the many contradictions in respondents' experiences may signify rich individual relationships with Facebook, they also signify how Facebook has also become an everyday, domestic platform enabling the routinization of personal and communicative services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Domestication of Facebook</head><p>Given the shift in how our respondents talk about the social aspects of Facebook as mundane and more service oriented, we argue that respondents do not mean Facebook is not important. Instead, we argue Facebook has become deeply embedded into respondents' lives, even though it is not understood as emotively or used as compulsively as it was in 2013. This embedding demonstrates the way respondents are domesticating Facebook into the deep infrastructures of their personal lives (cf. <ref type="bibr">Silverstone &amp; Hirsch, 1992)</ref>. In this sense, respondents are more likely to use Facebook for organizing the conduct of their lives, rather than for making social contacts. For our respondents, Facebook may be a little boring, but it is also a useful platform for structuring and organizing personal social networks, family connections, and personal archives. As Aida states, I used to use Facebook all the time but I have gradually used it less because it wasn't as interesting anymore. (Aida, age 34 in 2017)</p><p>However, many journalistic claims that a decrease in interest means that Facebook is no longer important may be overstating the case. For example, Remo points out that frequency of use is not necessarily related to value or usefulness:</p><p>Five years ago I tended to post and publish a lot more than I do now. I use it a lot less than I used to five years ago. It doesn't mean it is less useful to me, it just means there's a lot more options. <ref type="bibr">(Remo, age 25 in 2017)</ref> For Remo, the social media landscape has proliferated and many other platforms hold many other options. Yet, despite this, Remo still relies on Facebook albeit more for "organizing meetings" than for entertainment. Similarly, the "usefulness" of Facebook is important for Ruby, often involving a daily ritual of "checking":</p><p>Facebook seems to just be something that's part of my daily life in checking the newsfeed, like checking my calendar, but I'm not as likely to post. (Ruby, age 25 in 2017) Ruby's comment also compares Facebook to "checking my calendar," illustrating how ordinary this platform has become, integrating and replacing other tools used for selforganization. In this sense, our respondents illustrate a shift from 2013 where Facebook is now less about the sharing of personal information, and more about personal information management.</p><p>In accordance with work on the role of life stage and social media use, respondents' behaviors reflect a shift from the personal disclosure, experimentation, and network building so characteristic of "emerging adulthood" (aged 18-24), to network maintenance and self-establishment, more characteristic of young adults aged 25 to 40 <ref type="bibr" target="#b65">(Van den Broeck et al., 2015)</ref>.</p><p>Finally, like other social media, Facebook is a platform which becomes more embedded the longer it is used, as connections, links, likes, photos, personal updates, and other content accumulate over time. All of our respondents joined Facebook in 2006 or 2008, and have experienced this accumulative effect. As Caitlin claims, "Facebook is a collection of all the people I've met and places I've seen" (age 24 in 2017), a point other respondents also noted, and which emphasizes the embedded and increasingly domesticated nature of Facebook.</p><p>All of these points comprise our social relations which are "both social and symbolic," "an infinite play of mirrors at once both material and symbolic" <ref type="bibr">(Silverstone &amp; Hirsch, 1992;</ref><ref type="bibr" target="#b62">Strathern, 1992)</ref>. The clashing and contradictory meanings attributed to and experienced through Facebook are part of the personal and increasingly individualized private sphere easily accessed and managed via Facebook. As <ref type="bibr">Silverstone and Hirsch (1992)</ref> argue, the domestic sphere "has to be understood in its relationship with the public" and Facebook, like other communication technologies, make up the "domestic as well as being domesticated" (p. 6).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Facebook is a complicated platform, one subject to continual change in terms of patterns of use and in terms of technological features. Returning to early domestication theory, this article aims to understand the changing role and meaning of Facebook as a platform for a cohort of young adults in 2013 and 2017. As a result, this article contributes to understandings of temporality within the process of domestication over time, beyond life stage and affordances. At a time when Facebook is globally dominant, yet surrounded by conflicting public understandings about how it is dominant and for whom, this research offers qualitative insights into these public contradictions and an in-depth view of Facebook's role in young adults' everyday lives over time. This article contributes to existing research on Facebook, youth, and social media in at least three ways.</p><p>First, our findings fit with existing research on Facebook which addresses both use and/or motivations, as well as life stage. Although our respondents speak about Facebook in contradictory ways, they also describe a multitude of reasons for using Facebook, many of which broadly fit with those kinds of uses and gratifications identified in other studies. In addition, our respondents describe behaviors that fit with the transition from the life stage of a student or emerging adult, to the life stage of a young adult or (more) professional individual. However, by tracing contexts of use over time, this research provides an account of change-for Facebook and for respondents-as well as the changing contexts informing their patterns of use and connection.</p><p>Second, this research marks a return to the concept of domestication, finding a useful framework for understanding the relationship between users, social media, and the many ways in which these interact. While life stage explanations are useful for understanding generational patterns, they are much less helpful for understanding the coeval connections between changing media technologies and changing users. The domestication framework helps explain the multiple tensions around meaning and around use for people and for platforms. Perhaps the most notable for this article is the dominance of Facebook across young adult groups, despite a decreased "intensity" of use and an increased routinization of engagement. For our respondents, this can be observed in the shift from compulsive connection to a reliance on Facebook as a service-oriented platform, marked by users' more mundane framings of Facebook. Many may explain this tension as pointing to Facebook's eventual demise; however, we argue that although Facebook has changed, intensity of use is not equivalent to importance. Instead, Facebook has become more routinized, more useful for mundane services, and as such is much more deeply embedded within respondents' personal realms and as a highly domesticated platform.</p><p>Finally, this research provides original empirical insights into the role and meaning of Facebook for young adults. For example, our respondents exercise "personal economics of meaning" around their understanding of Facebook, demonstrating often conflicting relationships with and patterns of use on Facebook. In addition, respondents describe Facebook as "the Walmart of social media," providing a wide range of personal services for the management of everyday life. In this way, this research also supports understandings of Facebook as increasingly multi-functional and universal platform, one that has become deeply domesticated into the personal infrastructures of users' lives and social media ecologies.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>List of Respondents and Their Ages in 2013 and 2017.    </figDesc><table><row><cell>No.</cell><cell>Name</cell><cell>Gender</cell><cell>Age in 2013</cell><cell>Age in 2017</cell></row><row><cell>R1</cell><cell>Cerys</cell><cell>Female</cell><cell>20</cell><cell>24</cell></row><row><cell>R2</cell><cell>Caitlin</cell><cell>Female</cell><cell>20</cell><cell>24</cell></row><row><cell>R3</cell><cell>Evie</cell><cell>Female</cell><cell>21</cell><cell>25</cell></row><row><cell>R4</cell><cell>Aida</cell><cell>Female</cell><cell>30</cell><cell>34</cell></row><row><cell>R5</cell><cell>Faith</cell><cell>Female</cell><cell>20</cell><cell>24</cell></row><row><cell>R6</cell><cell>Remo</cell><cell>Male</cell><cell>21</cell><cell>25</cell></row><row><cell>R7</cell><cell>Berta</cell><cell>Female</cell><cell>21</cell><cell>25</cell></row><row><cell>R8</cell><cell>Ruby</cell><cell>Female</cell><cell>21</cell><cell>25</cell></row><row><cell>R9</cell><cell>Sofia</cell><cell>Female</cell><cell>25</cell><cell>29</cell></row><row><cell>R10</cell><cell>Amy</cell><cell>Female</cell><cell>20</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>have a practical relationship with Facebook. I use Facebook to keep in touch with friends, but I have different names on Facebook. I like to keep my private life separate. I don't want my employer to say, "you've been to Spain." I will only give out my Facebook if we become friends, like close friends. (Aida, age 34 in 2017) Although Aida describes her relationship with Facebook as practical, her strict privacy controls are not new. Indeed, Aida also expressed heightened concern about the visibility of her personal information in 2013: I have everything blocked on my Facebook. . . . I don't share anything. I don't want people to know one thing about me without knowing me. (Aida, age 30 in 2013)</figDesc><table /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to gratefully acknowledge the research participants whose enthusiasm and openness made this a pleasurable, interesting, and tremendous learning experience, and without whom, this research would not exist. Many thanks to <rs type="person">Harry T Dyer</rs>, who provided valuable comments on an earlier draft, along with an infectious enthusiasm. Many thanks, also, to the anonymous reviewers whose comments contributed to the strength and clarity of this article.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This research was supported by an internal research grant from <rs type="funder">Regent's University London</rs>. The study design, data collection, analysis, interpretation of the data, writing of the report, and the decision to submit the article for publication were the sole responsibility of the authors and were in no way influenced by the internal research grant or by <rs type="funder">Regent's University, London</rs>. No additional financial support for authorship, and/or publication of this article has been received.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. Elif Toker-Turnalar has an MA in International Relations and Political Science from the prestigious Bogazici University, Istanbul, Turkey. She is a lecturer and researcher at Regent's University, London. Her research interests include Media and Political Communication in late developing countries, political behavior on social media platforms, Turkish modern politics, diaspora and their media as well as corporate and political public relations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Biographies</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A tale of four platforms: Motivations and uses of Facebook, Twitter, Instagram, and Snapchat among college students?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alhabash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305117691544</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Teens, social media &amp; technology 2018. Pew Research Center</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiang</surname></persName>
+		</author>
+		<ptr target="http://assets.pewresearch.org/wp-content/uploads/sites/14/2018/05/31102617/PI_2018.05.31_TeensTech_FINAL.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Living-room wars: New technologies, audience measurement and the tactics of television consumption</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="131" to="145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The beginning of the end for Facebook? Time</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bajarin</surname></persName>
+		</author>
+		<ptr target="http://techland.time.com/2011/12/05/the-beginning-of-the-end-for-facebook/" />
+		<imprint>
+			<date type="published" when="2011-12-05">2011, December 5</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baym</surname></persName>
+		</author>
+		<title level="m">Personal connections in the digital age</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Social network(ing) sites . . . revisiting the story so far: A response to danah boyd and Nicole Ellison</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Beer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2008.00408.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="516" to="529" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Influenced by peers: Facebook as an information source for young people</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bene</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305117716273</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Berker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Punie</surname></persName>
+		</author>
+		<title level="m">The domestication of media and technology</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Ward</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">It&apos;s just not that exciting anymore&quot;: The changing centrality of SMS in the everyday lives of young people</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Bertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444814555267</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1293" to="1309" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">It&apos;s complicated: The social lives of networked teens</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Social network sites: Definition, history, and scholarship</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellison</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00393</idno>
+		<ptr target="https://doi.org/10.1111/j.1083-6101.2007.00393" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="210" to="230" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><surname>Brügger</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v20i5.5423</idno>
+	</analytic>
+	<monogr>
+		<title level="m">A brief history of Facebook as a media text</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The affordances of social media platforms</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Helmond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The SAGE handbook of social media</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Burgess</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Poell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">A</forename><surname>Marwick</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="233" to="253" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The circuit of technology: Gender, identity and power</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cockburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="32" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Affordances-in-practice: An ethnographic critique of social media logic and context collapse</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444818756290</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society. Advance online publication</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">(Not) getting paid to do what you love: Gender, social media, and aspirational work</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Duffy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sociality through social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellison</surname></persName>
+		</author>
+		<ptr target="https://www.danah.org/papers/2013/SocialityThruSNS-preprint.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of internet studies</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dutton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="151" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A computational analysis of social media scholarship</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Foote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Mako</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The SAGE Handbook of Social Media</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Burgess</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Poell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Marwick</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="111" to="134" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Social media: A critical introduction</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fuchs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>SAGE</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The breakup 2.0, disconnecting over new media</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gershon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Face Value</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Gray</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>American Sociological Association</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="73" to="75" />
+			<pubPlace>Spring</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Uh oh, Facebook is losing its popularity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Greenfield</surname></persName>
+		</author>
+		<ptr target="http://www.theatlanticwire.com/technology/2012/07/uh-oh-facebook-losing-its-popularity/54701/" />
+		<imprint>
+			<date type="published" when="2012-07-17">2012, July 17</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The contribution of domestication research to in-home computing and media consumption</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Haddon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01972240600791325</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society: An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="195" to="203" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The age of the brag is over: Why Facebook might be losing teens. The Verge</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hamburger</surname></persName>
+		</author>
+		<ptr target="http://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens" />
+		<imprint>
+			<date type="published" when="2013-03-01">2013. March 1</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The platformization of the web: Making web data platform ready</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Helmond</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115603080</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="1" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Social media, delinguistification and colonization of lifeworld: Changing faces of Facebook</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pierson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115621933</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Social media: Enduring principles</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Humphreys</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Hanging out, messing around, and geeking out: Kids living and learning with new media</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baumer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bittanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Herr Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Yardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jarrett</surname></persName>
+		</author>
+		<title level="m">Feminism, labour and digital media: The digital housewife</title>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Participatory culture in a networked era</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ito</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Reflections on #occupy everywhere: Social media, public space, and emerging logics of aggregation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Juris</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1548-1425.2012.01362.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Ethnologist</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="259" to="279" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Moody news: The impact of collective emotion ratings on online news consumers&apos; attitudes, memory, and behavioral intentions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kingsmith</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444815598755</idno>
+		<ptr target="http://www.huffingtonpost.ca/adam-kingsmith/facebook-decline-in-popularity_b_2591616.htmlLambert" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp;Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2576" to="2594" />
+			<date type="published" when="2013-02-01">2013. February 1. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Has Facebook peaked? The Huffington Post</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Why teens are leaving Facebook: It&apos;s meaningless. The Washington Post</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lang</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonpost.com/news/the-intersect/wp/2015/02/21/why-teens-are-leaving-facebook-its-meaningless/?utm_term=.f57" />
+		<imprint>
+			<date type="published" when="2015-02-21">2015. February 21</date>
+			<biblScope unit="page">7799352</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m">The handbook of new media: Updated student edition</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Lievrouw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The meaning of domestic technologies: A personal construct analysis of familial gender relations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="113" to="130" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Polymedia: Towards a new theory of digital media in interpersonal communication</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Madianou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1367877912452486</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="169" to="182" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Digital belongings: The intersections of social cohesion, connectivity and digital media</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Marlowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bartley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Collins</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1468796816654174</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ethnicities</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="85" to="95" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Social media: Communication, sharing and visibility</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Meikle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Meikle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Young</surname></persName>
+		</author>
+		<title level="m">Media convergence: Networked digital media in everyday life</title>
+		<meeting><address><addrLine>Basingstoke, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave MacMillan</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<title level="m">Tales from Facebook</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">How the world changed social media</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haynes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nicolescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sinanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Wang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>University College London Press</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Life on automatic: Facebook&apos;s archival subject</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v19i2.4825</idno>
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m">Digital dominance: The power of Google, Amazon, Facebook, and Apple</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Moore</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Tambini</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Family television: Cultural power and domestic leisure</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">What&apos;s home got to do with it? Contradictory dynamics in the domestication of technology and the dislocation of domesticity</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The domestication of media and technology</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Berker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Hartmann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Punie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">K</forename><surname>Ward</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="21" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">News diets, social media use and non-institutional participation in three communication ecologies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mosca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quaranta</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2015.1105276</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="325" to="345" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Contextualizing home computing: Resources and practices</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Murdock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming Technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Here&apos;s why young people are aban doning Facebook</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nicholls</surname></persName>
+		</author>
+		<ptr target="https://medium.com/@ItsTheVocal/heres-why-young-people-are-abandoning-facebook-4acbc2200fcd" />
+		<imprint>
+			<date type="published" when="2016-10-27">2016. October 27</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">The design of everyday things</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Norman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">2013. 1988</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised and Expanded ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Communications market. Ofcom</title>
+		<author>
+			<persName><surname>Ofcom</surname></persName>
+		</author>
+		<ptr target="https://www.ofcom.org.uk/__data/assets/pdf_file/0024/26826/cmr_uk_2016.pdf" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Adults&apos; media use and attitudes</title>
+		<author>
+			<persName><surname>Ofcom</surname></persName>
+		</author>
+		<ptr target="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2015" />
+	</analytic>
+	<monogr>
+		<title level="m">Marriages in England and Wales: 2015 (Office for national statistics: Statistical bulletin)</title>
+		<imprint>
+			<date type="published" when="2015">2017. 2017. 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>pdf Office for National Statistics</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Communications market report</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Social media fact sheet</title>
+		<ptr target="http://www.pewinternet.org/fact-sheet/social-media/" />
+		<imprint>
+			<date type="published" when="2017">2017. 2018</date>
+			<publisher>Pew Research Center</publisher>
+		</imprint>
+	</monogr>
+	<note>Social media fact sheet</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Making it &quot;Facebook official&quot;: Reflecting on romantic relationships through sustained Facebook use</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Robards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lincoln</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305116672890</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Digital Methods for cross-platform analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The SAGE Handbook of Social Media</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Burgess</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Poell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Marwick</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="91" to="110" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The age of adolescence</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Azzopardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wickremarathne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Patton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2352-4642(18)30022-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet: Child &amp; Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="223" to="228" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Here comes everybody: The power of organizing without organizations</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shirky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Allen Lane</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Cognitive surplus: Creativity and generosity in a connected age</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shirky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Penguin</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Design and the domestication of information and communication technologies: Technical change and everyday life</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Haddon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication by design: The politics of information and communication technologies</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Mansell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="44" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>Silverstone, R., &amp; Hirsch, E.</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Social media use in 2018</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/2018/03/01/social-media-use-in-2018/" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Platform capitalism</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Srnicek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stoycheff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Wibowo</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444817695745</idno>
+	</analytic>
+	<monogr>
+		<title level="m">What have we learned about social media from Facebook? A decade in review</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="968" to="980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Foreword: The mirror of technology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Strathern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Sujon</surname></persName>
+		</author>
+		<title level="m">The social media age: Power and participation in a connected world</title>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">Anti-social media: How Facebook disconnects us and undermines democracy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vaidhyanathan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Older and wiser? Facebook use, privacy concern, and privacy protection in the life stages of emerging, young, and middle adulthood</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Den Broeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Poels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walrave</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115616149</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Facebook and the engineering of connectivity: A multi-layered approach to social media platforms</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijck</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1354856512457548</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Convergence: The International Journal of Research Into New Media Technologies</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="141" to="151" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">The culture of connectivity: A critical history of social media</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">The three ages of internet studies: Ten, five and zero years ago</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="123" to="129" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Personal computers, gender and an institutional model of the household</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wheelock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consuming technologies: Media and information in domestic spaces</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Silverstone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Hirsch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">A review of Facebook research in the social sciences</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gosling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="203" to="220" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">As of this morning, the Facebook community is now officially 2 billion people</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zuckerberg</surname></persName>
+		</author>
+		<ptr target="https://www.facebook.com/zuck/posts/10103831654565331" />
+		<imprint>
+			<date type="published" when="2017-06-27">2017. June 27</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

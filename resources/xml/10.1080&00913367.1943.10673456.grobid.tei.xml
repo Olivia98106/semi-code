@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Advertising to Investors: The Effect of Financial-Relations Advertising on Stock Volume and Price</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="1994-12">December 1994</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">George</forename><forename type="middle">S</forename><surname>Bobinski</surname><genName>Jr</genName></persName>
+						</author>
+						<author>
+							<persName><roleName>ph.D</roleName><forename type="first">Gabriel</forename><forename type="middle">G</forename><surname>Ramirez</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Indiana University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Marketing</orgName>
+								<orgName type="department" key="dep2">School of Management</orgName>
+								<orgName type="institution">Binghamton University</orgName>
+								<address>
+									<settlement>Binghamton</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">State University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Finance</orgName>
+								<orgName type="department" key="dep2">School of Management</orgName>
+								<orgName type="institution">Binghamton University</orgName>
+								<address>
+									<settlement>Binghamton</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Advertising to Investors: The Effect of Financial-Relations Advertising on Stock Volume and Price</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="1994-12">December 1994</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0F24466279A98CF2762FA93C6BBE0B5C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:33+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Financial-relations advertising is a major type of corporate advertising, yet little research has addressed its effectiveness. The authors use a time-series approach to study the effect of financial-relations advertising on stock trading volume and stock price. They find increases in trading volume at the initial appearance of a financial-relations advertisement, but not during subsequent appearances of the ad. Further, these increases occur mainly for small capitalization firms. No support is found for the view that this type of advertising positively affects stock prices, at least in the short run. Although financial-relations advertising may change the expectations of individual investors, such advertising does not appear to change the market's view of a stock.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Traditionally, firms use advertising to promote specific products or services. However, many companies also use corporate advertising to enhance their image or to communicate the firm's viewpoint. Although, expenditures for corporate advertising exceeded $1.2 billion in 1992 <ref type="bibr" target="#b0">(Alvarez 1993)</ref>, such advertising has been a relatively neglected topic in the advertising literature. Furthermore, what has been published suggests some controversy about corporate advertising's effectiveness <ref type="bibr" target="#b7">(Donath 1980;</ref><ref type="bibr" target="#b12">Garbett 1981;</ref><ref type="bibr" target="#b32">Schumann, Hathcote, and West 1991)</ref>. Part of this controversy may stem from the fact that corporate advertising is not a single phenomenon, but is a category that includes both messages that communicate the firm's views on a specific issue (advocacy advertising) and messages that attempt to create a favorable impression of the firm (image advertising) <ref type="bibr" target="#b33">(Sethi 1979)</ref>. Image advertising itself encompasses several categories, including general image messages that attempt to develop an identity for the corporation in the public's mind, recruiting messages that present the firm favorably to potential employees, sponsorship messages that advertise corporate giving, hybrid advertising that combines messages about the company with messages about products, and financial-relations advertising that attempts to enhance the image of the firm within the financial community <ref type="bibr" target="#b12">(Garbett 1981;</ref><ref type="bibr" target="#b14">Hartigan and Finch 1986)</ref>.</p><p>We study one form of corporate image advertising-financial-relations advertising-for two reasons. First, surveys have consistently shown the financial and business community to be one of the main targets of corporate advertising <ref type="bibr">(Botwinick 1984;</ref><ref type="bibr" target="#b25">Patti and McDonald 1985;</ref><ref type="bibr" target="#b29">Sachs 1981)</ref>. Second, the effects of financial-relations advertising are clearer and easier to measure than those of other categories of corporate advertising. The purpose of financial-relations advertising is to market the firm itself as a product and ultimately to influence demand for the firm's stock and increase its price. As pointed out by <ref type="bibr" target="#b1">Baker and Gallagher (1980)</ref>, an increase in trading volume is generally perceived as desirable for several reasons: more active stocks tend to have greater liquidity, a broader investor base may afford easier access to capital markets when Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 the firm needs new financing, and ownership becomes less concentrated. We examine the short-term impact of financial-relations advertising by studying two dependent variables, the stock trading volume and stock price. The use of both variables to analyze stock market response to marketing actions has been recommended by <ref type="bibr" target="#b4">Chaney, Devinney, and Winer (1991)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previous Research</head><p>Research encompassing the broader category of corporate advertising seems to suggest that financialrelations advertising is effective. However, <ref type="bibr" target="#b32">Schumann, Hathcote, and West (1991)</ref> point out design flaws in the studies that make it very difficult to determine whether the results are significant and whether corporate advertising is the causal factor. Much of the support for corporate advertising has been provided by a series of Yankelovich studies. Studies by <ref type="bibr">Yankelovich, Skelly and</ref><ref type="bibr">White in 1977 and</ref><ref type="bibr">1979</ref> showed that participants had better awareness, familiarity, and overall impressions of companies that did more corporate advertising, even if those firms had lower total advertising expenditures (see <ref type="bibr" target="#b12">Garbett 1981)</ref>. Studies by Yankelovich, Clancy and Shulman in 1986 and 1988 found that companies with strong reputations spent more on corporate advertising than those with less favorable reputations (see <ref type="bibr" target="#b27">Reisman 1989)</ref>.</p><p>The Yankelovich findings suggest a relationship between corporate advertising and reputation, but the studies did not address the temporal aspect of the relationship. Correlation does not establish causality, and <ref type="bibr" target="#b7">Donath (1980)</ref> argued that companies that have a favorable reputation may spend more on corporate advertising (e.g., companies doing well have more to brag about). In addition, corporate image is multidimensional and can include perceptions of product or service attributes, employer attributes, corporate citizen attributes, and financial attributes <ref type="bibr" target="#b17">(Johnson and Zinkhan 1990)</ref>. Although the participants in the Yankelovich studies had to meet income and occupational or educational requirements, they were not necessarily particularly knowledgeable about capital markets. Consequently, their impressions may have been based on perceptions of nonfinancial attributes or the participants may have been more receptive than other people to financial-relations advertising. Therefore, even if we assume that the attitudes of participants in these studies did change in response to corporate advertising, attitudes of financial market participants as a whole may not have</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Journal of Advertising</head><p>changed. Corporate advertising may lead some members of the financial community to investigate a company's investment qualifications (see <ref type="bibr">Botwinick 1984)</ref>, but it may not be able to induce aignificant market players to trade and it may not be able to change the expectations of the market and hence the stock price.</p><p>The majority of studies that have examined the behavioral outcomes of corporate advertising are case studies measuring the number of responses to an advocacy campaign (see <ref type="bibr" target="#b32">Schumann, Hathcote, and West 1991)</ref>. Studies analyzing stock market reaction to corporate advertising are limited. They have investigated only the impact on stock price and have ignoredpotential stock volume effects. Despite acknowledged limitations, three of these studies are commonly cited in advertising textbooks as indicating the tangible benefits of corporate advertising. One of the studies assessed the effect of a 1980 W. R. Grace corporate advertising campaign, that stressed the company's excellent financial and business characteristics. Both awareness and approval increased during the 13-week campaign, and a substantial increase in Grace's stock price was observed. However, because the influence of other factors on stock price was not controlled, the increase in stock price cannot be attributed solely to the campaign. A causal relationship is also cast into doubt by the fact that later campaigns were not followed by additional increases in price (see <ref type="bibr" target="#b12">Garbett 1982)</ref>.</p><p>The other two studies that examined the relationship between corporate advertising and stock price were based on econometric analysis <ref type="bibr" target="#b30">(Schonfeld and</ref><ref type="bibr">Boyd 1977, 1982</ref>; also see <ref type="bibr" target="#b12">Garbett 1981 and</ref><ref type="bibr" target="#b24">Niefeld 1980)</ref>. In an initial study using this approach, the dependent variable was the closing year-end stock price of 721 companies; the independent variables were earnings per share, total assets, gross profit margin on sales, ratio of total liabilities to common equity, continuity of dividend earnings, dividend growth over the past five years, and the amount spent on corporate advertising. The researchers concluded that corporate advertising had a positive effect on stock prices. In a later study conducted for Bozell and Jacobs International, the same researchers used quarterly stock prices of 460 companies over a three-year period and reached a similar conclusion.</p><p>Although Schonfeld and Boyd's results are very interesting, the use of quarterly or annual stock price as the dependent variable precludes examination of the temporal relationship between corporate advertising and stock price. As a result, the causal rela-Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 tionship between corporate advertising and stock prices is unclear and the possibility that companies with increasing stock prices are willing to spend more on corporate advertising cannot be ruled out. For example, in the model presented by <ref type="bibr">Schonfeld and Boyd (1982)</ref>, all relationships are assumed to be nonrecursive and static (e.g., the potential relationship between past profits and financial-relations advertising expenditures is not considered).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Objectives</head><p>Our study objectives were to ascertain the behavioral outcomes of financial-relations advertising and to overcome some of the limitations of previous research. We examined the impact of financial-relations advertisements rather than that of the broader corporate advertising category, considered changes in both stock volume and stock price, and used a time-series approach to study the temporal relationship between financial-relations advertising and stock market reaction. Thus, we were able to rule out other possible causes for the stock market reaction and to assess the short-term nature of the relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical Expectations and Hypotheses</head><p>One's views about the effectiveness of financialrelations advertising depend on whether one has been schooled in advertising theory or financial theory. Advertising theory (e.g., <ref type="bibr" target="#b21">Lavidge and Steiner 1961)</ref> suggests that by increasing awareness and generating more positive attitudes toward the "product" (i.e., the company and its stock), an advertisement will attract new customers (investors) and encourage current customers (stockholders) to purchase additional shares. It thus has the potential to lead to stock price increases. However, although this model is consistent with the advertising concept of hierarchy of effects, it is not necessarily consistent with capital asset pricing theory.</p><p>In finance, common stocks are viewed as products with a high degree of homogeneity and substitutability, and investors' (consumers') purchasing decisions are seen as based solely on the risk and return characteristics of the stock. Because expectations about these characteristics are shaped by information on the firm's future cash flows, stock prices would change only in response to relevant new information <ref type="bibr" target="#b9">(Fama 1970)</ref>, and would rapidly adjust to reflect it. Hence, increases in price should occur only if financial-rela-tiona advertising conveys new favorable information about the firm to the marketplace. <ref type="bibr" target="#b35">Zotti (1983)</ref> suggests that members of the financial community already have information that is less biased and more comprehensive than that provided in financial-relations advertisements. If so, financial-relations advertising would not be expected to affect overall demand for a stock or its price. However, financial researchers have increasingly recognized that even though the arrival of information may not cause the market as a whole to react, it is likely to cause individual investors to alter their expectations. The notion of differences in expectations for individual investors and the market is presented by <ref type="bibr" target="#b18">Karpoff (1987)</ref>. Because investors have different expectations, some may want to buy a stock and others may want to sell it, the result being an increase in trading volume. But, because the market as a whole reacts only to new information, there would be little or no change in stock price. In fact, <ref type="bibr" target="#b4">Chaney, Devinney, and Winer (1991)</ref> point out that stock price reactions to events without clear, consistent expectations may be nonsignificant but volume effects may be significant.</p><p>Even if financial-relations advertising does not convey new information to the marketplace, the ad per se may have signaling content for some marketplace participants. As pointed out by <ref type="bibr" target="#b28">Ross (1977)</ref> in footnote 13: "In the realm of purely financial signals, ... all manners of financial relations between the firm and the market have signalling content." When valuing a firm, investors or the market must assess all future streams of cash flows, but these cash flows are random and uncertain (not known to market participants). In fact, investors value the perceptions of cash flows. Managers as a group are better informed than anyone else about the probability distribution of cash flows. Hence, it can be in their interest to affect the investors' cash-flow perceptions. Changes in the stock trading volume will result if the investors' perceptions are affected either positively or negatively.</p><p>Ad content can be perceived positively by a segment of investors if the ad is viewed as "a sign that a company is aggressively engaged in doing business and enhancing its reputation" <ref type="bibr" target="#b12">(Garbett 1981)</ref>. However, some sophisticated market participants, such as institutional investors, large-scale investors, fund money managers, or active investors, may view the advertisement as a costly self-indulgence that will not change the market's perception of the firm <ref type="bibr" target="#b12">(Garbett 1981)</ref>. Consequently, they may feel that financial-relations advertising is a waste of money. Such advertising has been viewed as being associated Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 with firms facing financial or public image problems <ref type="bibr" target="#b2">(Belch and Belch 1990)</ref>. It therefore could create or reinforce a perception that the firm is in trouble and thus result in lower expectations for the firm's future financial performance. Clearly, although the information provided in a financial-relations advertisement will probably not be interpreted as new or relevant for the market as a whole, it may cause individual investors to modify their expectations about the advertiser. The ad itself may act as a signal that is interpreted positively by some people and negatively by others and consequently can lead to increases in trading volume with little or no change in stock price. Hence, as predicted by both advertising theory and financial theory (via the notion of differences in expectations):</p><p>HI: Financial-relations advertising will be associated with an increase in stock tradingvolume. The effect of financial-relations advertising on trading volume may be influenced by whether the ad is "new" or is a repetition of a previously run financialrelations ad. Consumers' involvement with products has been shown to affect their attention to and processing of advertising (e.g., <ref type="bibr" target="#b20">Krugman 1965)</ref>. Members ofthe financial community have a high degree of involvement with certain companies and industries. In particular, analysts and market makers actively seek information. Current stockholders of a company are also likely to be very Jittentive to its financialrelations advertising. These audiences would probably pay more attention to initial appearances of financial-relations advertisements than to subsequent appearances, which would therefore have less impact. The finance literature suggests that stock market reaction to information occurs quickly. Even if financial-relations advertising does not convey new information, but is perceived by investors to provide a signal, the market reaction will be immediate <ref type="bibr" target="#b9">(Fama 1970)</ref>.</p><p>H2: The trading volume increase associated with the initial appearance of a financialrelations advertisement will be larger than that associated with subsequent appearances. Additional factors that may be related to a financial-relations advertisement's impact are the vehicle, the use of color, and the size of the advertisement, among others. Our entire sample was obtained from a single vehicle, and color was not used in any advertisement. However, the size of the advertisement did vary across the sample. Larger ad size could be re-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Journal of Advertising</head><p>lated positively to trading volume through two processes. First, it might magnify the effect of the ad itself. By causing greater changes in expectations, larger ads would be associated with larger increases in trading volume. Consequently, if investors perceive financial-relatione ads negatively, a larger ad would be a greater waste of money. If investors perceive such ads positively, a larger ad could be a worthwhile expenditure (conveying more information). Second, larger ads might have greater readership. Research on the effects of advertisement size on attention has a long history (e.g., <ref type="bibr" target="#b26">Poffenberger 1925)</ref>. In reviewing the modem academic literature that relates advertisement characteristics to print ad readership, <ref type="bibr" target="#b11">Finn (1988)</ref> found that ad size was one of the most important ad characteristics. It had consistently significant effects on measures of attention received, comprehension attained, and elaboration attained. These findings suggest that larger financial-relations advertisements may lead a greater number of investors to alter their expectations about the advertiser and thus would result in larger increases in volume.</p><p>H3: Larger financial-relations ads will be associated with larger increases in tradingvolume. According to the hypothesis of capital market efficiency, which has considerable empirical support in the finance area, market prices fully reflect all available information. Stock prices change only when market participants reassess asset values on the basis of unanticipated (new) and useful information. Also, market efficiency implies that information is assimilated quickly into market prices. Hence, financialrelations advertising would affect a stock's price only if new information is provided. In general, however, financial-relations advertisements do not provide any new information.</p><p>H4: In the aggregate, financial-relations advertising will not have a significant positive or negative effect on stock prices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>The method used in our study has been adopted extensively in the fields of finance and economics. It is based on the "efficiency of capital markets" hypothesis that all available information is reflected in the price of a stock and any new information arriving to the market is quickly and easily incorporated in the price <ref type="bibr">(Fama 1991)</ref>. Therefore, only unanticipated events would cause a firm's stock price to change, and the change would take place as soon as the news of Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 such an event reaches the market. We used the eventstudy method to measure this change, taking a timeseries quasi-experimental approach <ref type="bibr" target="#b3">(Brown and Warner 1985)</ref>. One ofthe advantages ofthis approach is that it avoids problems that can be created by the intrusive nature of a field or lab experiment and thus increases the relevance of the results for both theory and practice <ref type="bibr" target="#b5">(Cook and Campbell 1979)</ref>. A good description of this event-study method and its applicability in the marketing field is provided by <ref type="bibr" target="#b15">Horsky and Swyngedouw (1987)</ref>, who used the technique to investigate the effect of corporate name changes.</p><p>A new ad represents a "surprise" event because the market is not likely to anticipate its appearance. Also, an ad, unlike most financially related events, has a true event date (e.g., the publication date) that precisely determines when the information reaches the market. The event-study method therefore seems to be most appropriate to capture the short-run impact of financial-relations advertisements.</p><p>It is important to note that the market reaction is the result of an aggregate expectation. After being exposed to a financial-relations ad, one group of investors may have high expectations and another group of investors may have low expectations. These differences in expectations would lead to trades among investors, but the trading may not have an impact on the firm's stock prices. As pointed out by <ref type="bibr" target="#b4">Chaney, Devinney, and Winer (1991)</ref>, in situations like this, the variance of expectations will show up in unanticipated trading volume rather than unanticipated stock price reaction. Therefore, we used an event-study method similar to the one used by <ref type="bibr" target="#b13">Harris and Gurel (1986)</ref> to examine the effect of financial-relations advertisements on stock trading volume.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Collection</head><p>We selected The Wall Street Journal (WSJ) as the source of financial-relations advertisements for two reasons. First, it is the most widely circulated publication targeted to the financial community. Second, because it is published daily, we were able to determine approximately when an ad was actually seen. An advertisement was considered to be a financialrelations advertisement if it did not pertain to specific products or services, did not fit into the other categories of corporate advertising (e.g., advocacy advertising, recruiting messages, sponsorship messages), and attempted to enhance the image ofthe firm within the financial community. An ad was considered to be aimed at the financial community if it had one or more of the following basic messages: factual information about the company that was expected to impress the financial community (e.g., the size or strength of the company, the importance of the industry, or the diversification of the company); information about the financial performance of the company (e.g., return on equity, increases in earnings, firm value, or dividends, or new acquisitions and growth); or information about quality and philosophy of management (e.g., goals and strategies including expansion and the expected results, new policies, or great management). A sample financial-relations ad is provided in Figure <ref type="figure">1</ref>. We excluded "tombstone" ads that simply announce stock and bond offerings <ref type="bibr" target="#b12">(Garbett 1981)</ref>. The first step was to identify all financialrelations ads that were placed in the W&amp;J during 1988 and 1989. We each classified the advertisements independently and the agreement rate was 93%. Disagreements were resolved jointly. The original sample consisted of 308 ads by firms publicly traded on the New York Stock Exchange (NYSE) or the American Stock Exchange (AMEX). The ads were screened on the following criteria:</p><p>1. No announcements of contaminating events were allowed during the two days before, the day of, and the two days after the appearance of the ad (e.g., dividend and earnings announcements, sell-offs, stock splits, stock dividends, restructurings, control-related events, stock repurchases, etc.). These events have been studied extensively in the finance literature and have been found to affect stock prices significantly <ref type="bibr">(Smith 1990, pp. 15-16)</ref>. Sixtytwo ads were eliminated on this criterion. 2. Returns had to be available during the two days before, the day of, and the two days after the appearance ofthe ad. Ten ads were eliminated on this criterion. 3. If additional financial-relations ads for a company appeared during the two days after the ad was run, only the first ad was included in the analysis. Thus, we were able to isolate lagged effects related to an ad. Two ads were eliminated on this criterion. 4. Companies were required to have complete data for both stock volume and price. Seven ads were eliminated on this criterion.</p><p>The final sample consisted of 227 advertisements of which 99 were considered initial appearances and 128 were subsequent appearances. We examined the last three months of 1987 to ensure that the first ad appearing in 1988 was indeed a new ad for the com-Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015  pany and not a continuation of an ongoing campaign of identical (or very similar) ads. Descriptive statistics for the advertisements are provided in Table <ref type="table" target="#tab_1">1</ref>.</p><p>The majority ofthe ads in the sample were in the first section of the WSJ and appeared most commonly on Tuesdays and Wednesdays. About 70% ofthe sample ads were either a half page or a full page in size.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trading Volume Analysis</head><p>Trading volume changes "around" the placement of a financial-relations ad were analyzed using the event-study method. The measure used to capture changes in trading volume associated with the appearance of an ad took into account general market volume activity and was adjusted to account for "nor-mal" trading that would occur regardless of the ad. Details of the computation of this daily trading measure are provided in the appendix.</p><p>We studied trading volume during 30 trading days (six weeks) prior to and 20 trading days (four weeks) after the placement of the ad. This time period was broken down into a pre-event period, (day -30 to day -11), an event window (single days from -2 to +2), and a post-event period (days +3 to +20). The daily trading volume measure was averaged across firms and days in each of these periods to obtain a mean standardized volume ratio (MSVR). Trading volume was obtained from the Center for Research in Security Prices (CRSP) at the University of Chicago.</p><p>Under the null hypothesis (no change in volume due to the placement of the ad), the expected value of Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 MSVR equals 1.0 for the event period. If the placement of the ad results in increased trading volume, MSVR is expected to be significantly greater than 1.0. A one-tailed t-test was used for testing the null hypotheses. The standard errors from the pre-event period were used in this test. The formula for the appropriate t-statistic is given in the appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stock Price Analysis</head><p>The method we employed to assess the stock price reaction to financial-relations advertisements is commonly used in the field of finance. The procedure is based on the efficient markets/rational expectations hypothesis that stock prices instantaneously and fully reflect all relevant information <ref type="bibr" target="#b9">(Fama 1970;</ref><ref type="bibr" target="#b23">Muth 1961)</ref>. By this method, the returns of an asset, ~t, are linearly related to the returns on the mark~t portfolio, Rm t-Thus, the return on asset i at time t is given by: '</p><p>Ri,t =(Ii + ~i Rm,t + ~i,t.</p><p>(1)</p><p>When an unanticipated event occurs or when unanticipated information reaches the market (e.g., the appearance of a financial-relatione advertisement), the term ~i t measures the excess returns associated with this e~ent or information set. To assess the price effects of a financial-relations ad, we need to determine whether or not the term ~i t has a nonzero mean on the placement day (t =0). '</p><p>To test this hypothesis, we estimated equation 1 using 130 daily returns for the period t =-250 to t = -121. The daily return of the value-weighted NYSE index was used as a proxy for Rm t: The OLS estimators (Xi and ~i were used to obt~in excess returns, ERj t, during the period t =-120 to t =+20:</p><formula xml:id="formula_0">, ERi,t = Rm,t -(Ii -~iRm,t.</formula><p>(2)</p><p>The error terms for the period t = -120 to t = -30 were used to compute the standard deviation employed in testing the abnormal returns of the study period (t =-30 to t =+20). Excess returns for each day t in this period were averaged across all firms. These average excess returns, AER, were summed over t = -30 to t = -11 to obtain the cumulative average excess returns, CAER, for the pre-event period. The AERs for t =+3 to t =+20 were summed to obtain the CAER for the post-event period. The t-statistic used for testing the significance of CAERs and AERs is given in the appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trading Volume</head><p>The mean standardized volume ratio (MSVR) for different time intervals around the placement of the financial-relations advertisement is reported in Table <ref type="table" target="#tab_3">2</ref>. The MSVR is 1.15 for the day prior to the appearance of the ad and 1.11 for the day the ad appeared indicating 15% and 11% increases, respectively, in trading volume over the pre-event period level. The increase for each day is significantly different from 1 (p &lt; .05). To investigate the possibility that repetitions of an advertisement might have a smaller or negligible impact on stock volume, we analyzed initial appearances and subsequent appearances separately. The results show an increase in volume around the initial appearance of an advertisement in the WSJ. The MSVR is 1.21 for the day prior to the appearance of the ad and 1.19 for the day the ad appeared. The increase for each day is significantly different from 1 (t =2.34, d.f. =98; t =2.14, d.f. =98, p &lt; .05). For subsequent appearances, none of the MSVRs around the date of ad appearance are statistically significant.</p><p>To investigate whether outliers were responsible for the bulk of trading, we applied a sign test and a winsorizing procedure. The sign test used the MSVR distribution for a random sample provided by <ref type="bibr" target="#b13">Harris and Gurel (1986)</ref>. The winsorizing procedure involved curtailing the values of MSVR to two standard deviations from the mean (see <ref type="bibr" target="#b6">Dann, Masulis, and Mayers 1991)</ref>. This analysis showed that the results were not driven by outliers. Hence, financial-relations advertising does appear to be associated with increases in trading volume. Further, statistically significant increases in volume occur only around the initial appearance of the ad.</p><p>The MSVR for the period that encompasses the remainder ofthe month (day 3 to day 20) is 1.14. The MSVR is 1.28 for the initial appearance and 1.05 for the subsequent appearance subgroup. All three values are statistically significant at the .05 level. To isolate any possible effects that subsequent ads might have on trading volume, we analyzed separately the initial-appearance ads that were not followed within a month by other financial-relations ads (sample size =47).  is done). These MSVR values are significantly different from 1 (t =19.86, d.f. =46; t =16.39, d.f. =46, p &lt; .05). Thus, the evidence suggests that financial-relations advertising may also have an intermediate effect on volume.</p><p>Testing the third hypothesis required an empirically valid proxy for ad size. We classified ads into six categories: less than or equal to a quarter page, greater than a quarter page but less than a half page, a half page, more than a half page but less than one page, one page, and more than one page. The results of the trading volume analysis on these subsamples are reported in Table <ref type="table" target="#tab_4">3</ref>.</p><p>The day -1 MSVR for companies placing an ad of a quarter page or less is 2.17 and the day 0 MSVR for companies placing an ad greater than a quarter page but less than a half page is 1.50. Companies with a one-page ad have an MSVR of 1.38 for the day before the ad appeared and 1.25 for the day of appearance.</p><p>These MSVRs are significantly different from 1 (p &lt; .05), indicating that trading volume increased around the placement date. We did not find increases in trading volume around the ad placement date for any other ad size. The results do not clearly indicate a relationship between ad size and trading volume increases. They might reflect the fact that other vari-ables might be related to ad size. To investigate this possibility, we considered four other factors: type of product or service, day of placement, section of the newspaper, and firm capitalization. The trading volume reaction does not appear to be related to industry type (proxy for type of product or service) or day of the week for either the initial-or subsequent-appearance sample. Only initial-appearance ads placed in sections A and C are associated with significant increases in stock trading volume.</p><p>Financial-relations advertisements of small capitalization firms could have a greater impact on volume than those of large capitalization firms because the former firms are less followed by financial analysts and would benefit more from dissemination of information. Hence, the information provided in the ad and even the mere presence of an ad might be more significant for these firms. To examine this issue empirically, we divided the sample of initial-appearance ads into ads placed by large and small capitalization firms. For this classification, we computed the market value of equity at the end of the year prior to the appearance of an ad for each firm, Market value of equity is obtained by multiplying the number of shares outstanding by the stock price as reported in the Compustat tapes.  on the basis of this value, and firms with a value below the median were classified as having small capitalization. The median market value of equity for the sample is $3.525 billion. This procedure generated 49 small and 50 large capitalization firms, The results of volume trading analysis for these subsamples are reported in Table <ref type="table">4</ref>. They support the notion that less well capitalized firms may benefit more from financial-relations advertising. The MSVR for small capitalization firms is 1.32 for the day before the appearance of the ad and 1.27 for the day of the ad. Both values are significant at the .05 level.</p><p>As suggested previously, finn capitalization may be related to ad size (e.g., larger firms are more likely to place larger ads) and the trading volume reaction to different ad sizes may be reflecting capitalization. To investigate this possibility, we replicated the eventstudy analysis for the less-than-half page and onepage ads. The trading volume effect observed for ads of less than a half page is subsumed by the small capitalization effect. However, the significant increases in trading volume for one-page ads are not related to the capitalization of the firms, Thus, after we control for capitalization differences, we find a significant increase in trading volume only with the appearance of large ads. Similarly, the statistically significant volume increases in the initial-appearance sample for ads placed in sections A and C are also subsumed by the capitalization effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stock Price</head><p>Our second area of analysis was the stock price reaction to the placement of financial-relations advertisements. Estimates of the average excess stock returns around the day the advertisement appeared in the W&amp;J are provided in Table <ref type="table" target="#tab_5">5</ref>. To maintain consistency with the format used in the volume analysis, we report the results for the t =-30 to t =-11 preevent period instead of the traditional t =-60 to t =-2 pre-event period.</p><p>The average excess return (AER) observed during the day of the advertisement (t =0) for the initialappearance ad sample is -0.214%, which is not statistically significant. The stock price reaction around the day of the advertisement is not significantly different from zero either. Also, no significant excess returns are found for the pre-event period or the remainder of the month. The AER for day 0 for the subsequent-appearance ad sample is -0.149% and is not statistically significant. Other periods around the day ofthe ad have statistically nonsignificant results. Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 Results for the entire sample are nonsignificant and are not reported. Similar analysis was done for subsamplea based on firm capitalization, industry type (proxy for type of product or service), section of WSJ, and day of week. Regardless of the split of the sample, the specific stock price reaction to the appearance of the ad is nonsignificant at the .05 level and therefore is not reported. In summary, financial-relations advertisements do not appear to have a significant short-run impact on a firm's stock price.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion and Conclusions</head><p>Financial-relations advertising does appear to have the potential to increase stock trading volume, but this effect is observed only for the initial appearance of the ad. The impact of financial-relations advertisements on stock volume appears to be related to the firm's capitalization, with significant increases occurring for smaller firms. Volume was significantly greater for the remainder of the month after the appearance of a financial-relations advertisement. This finding suggests that there may be a lagged effect between exposure to the ad and the individual's deci-sion to trade. However, other events not accounted for in the study may be responsible for this effect. The intermediate effects of financial-relations advertising warrant further research.</p><p>Interestingly. significant increases in trading volume occurred on the day prior to the appearance of the financial-relations advertisements. This increase may be due to trading by company insiders, employees of the ad agency, employees of the WSJ. market makers, or acquaintances of one or more of these groups. It is plausible that these individuals may be aware of the ad and its content before its publication. Even though an ad campaign may be planned far in advance, the WSJ allows ads to be canceled up until 24 hours before they are to appear. Hence, insider trading activity may take place on the day before the publication of the ad. Determining the legality of this type of insider trading requires the expertise of legal scholars and practitioners as it involves complex and, at times, conflicting philosophies of the Securities Exchange Commission (SEC) and the courts. The politics. legality, and economics of insider trading are well described by <ref type="bibr" target="#b22">Macey (1991)</ref>. The issue is whether the principle of open-ended fairness adopted by the SEC supersedes the Supreme Court's theory of liabil-Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015 ity based on property rights, which is supported by researchers such as <ref type="bibr" target="#b22">Macey (1991)</ref> and <ref type="bibr" target="#b8">Easterbrook and Fischel (1990)</ref>. Furthermore, it is the opinion of Judge Frank H. Easterbrook that "ordinary day-today actions such as placing ads would not be deemed material inside information for legal purposes. As far as the law is concerned, managers may trade on information that is not material."</p><p>Financial-relations advertisements do not appear to affect stock price, at least not in the short term. This finding is consistent with the hypothesis of efficient capital markets and counter to the traditional advertising viewpoint that financial-relations advertisements lead to increases in stock price. The increase in stock volume with no increase in stock price is consistent with the notion of differences in expectations. As pointed out by <ref type="bibr" target="#b18">Karpoff (1987)</ref>, changes in stock prices reflect the expectations of the market as a whole, whereas changes in trading volume reflect changes in the expectations of individual investors. Financial-relations advertising does not appear to affect the expectations of the market as a whole, but it does seem to influence individual investor expectations, thus leading to increases in trading volume. Our findings also provide support for <ref type="bibr" target="#b4">Chaney, Devinney, and Winer's (1991)</ref> contention that trading volume may be a more sensitive measure than excess stock returns, especially for examining events without a clear expectational effect.</p><p>From a managerial perspective, our findings indicate that if a firm is concerned about thin trading volume or is planning to raise new equity in the capital markets, financial-relations advertising may be useful because it has the potential to increase trading volume. However, the findings for stock price indicate that financial-relations advertising is not likely to have a favorable impact on the expectations of the market. If the firm's objective is to affect stock prices positively in the short term, other strategies should be considered.</p><p>Our study has several limitations. First, because we wanted to examine the relationship between financial-relations advertising and stock market reaction, we used a short-term perspective. The possibility that such advertising has long-term effects should be explored in future research. Second, in the eventstudy method, any advertisements that appeared on the same day as a major announcement were eliminated. We thus ensured that the effect of such announcements was not attributed to the financial-relations advertisement. And we avoided examining advertisements that were being used to promote major positive events or to dampen the effect of negative events.</p><p>Researchers might extend our study by using other advertising vehicles and further analyzing informational content. It would also be interesting to determine the extent to which individual expectations are shaped by the presence of the financial-relations ad itself rather than its content. <ref type="bibr" target="#b19">Kirmani and Wright (1989)</ref> concluded that consumers may use advertising expense as a cue to product quality. They found that consumers may view expensive advertising as a sign of confidence in the product. They also note that an ad can be viewed as a sign of desperation. In former Eastern-block countries (e.g., Soviet Union and Poland), goods advertised were often surplus or unsalable items that the government wanted to dump and advertising was a cue not to buy <ref type="bibr" target="#b16">(Jacobson 1991)</ref>. Currently some consumers in these countries still believe advertising indicates an inferior product that needs advertising in order to sell, whereas other consumers believe advertising indicates a quality product. Similar inferential processes may occur for financial-relations advertising, causing increases in trading volume. However, further research is needed to examine the inferential processes underlying the market behavior examined in our study.</p><p>Another interesting research effort would be to examine the reaction of financial analysts to financialrelations ads carrying different messages. An experimental design could be used in which different panels of financial analysts are exposed to different types of financial-relations ads. Attitudes and perceptions could be measured at the end of the experiment, and the effect of ad type on inducing action could be measured by tracking changes in the analysts' forecasts.</p><p>In summary, although financial-relations advertising is often used to communicate with the investment community, our findings suggest that the short-term effect of such advertising is likely to be on stock volume rather than on stock price. This effect occurs because the expectations of some individual investors are changed, but the expectations of the market as a whole are not affected in an important way.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Figure 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Firms were ranked Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>is a diviliDn of Figgie Intern.Uonallnc.</head><label></label><figDesc></figDesc><table><row><cell>Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015</cell><cell>Let's suppose that, ten years ago, you decided to take a shot at three investments: $1000in the Dow Jones Industrials. $1000in the Standard &amp; Poor's 500. $1000in Figgie International. No question now which fell short. And which one didn't. Based on your total return -the combination of</cell></row><row><cell></cell><cell>(reinvested) dividcndsaild stock appreciation -your original</cell></row><row><cell></cell><cell>$1000investmentswould today havcgrown to:</cell></row><row><cell></cell><cell>$4138 in the Dow.</cell></row><row><cell></cell><cell>54481 in S&amp;P.</cell></row><row><cell></cell><cell>512,9ZI in Figgie.</cell></row><row><cell></cell><cell>For us, that's a 29.2% average annual return over the ten</cell></row><row><cell></cell><cell>years. (Over the last year the numberwasa towering 59% !)</cell></row><row><cell></cell><cell>Indeed, last year was our best year ever. EPS up 29% to</cell></row><row><cell></cell><cell>59.03. Income up 26% to S61.9 million. Sales up 14% to</cell></row><row><cell></cell><cell>51.20 billion.</cell></row><row><cell></cell><cell>Welook over our 25 years, and ahead to future seasons.</cell></row><row><cell></cell><cell>in our lalest annual report. Write:</cell></row><row><cell></cell><cell>4420Sherwin Road,</cell></row><row><cell></cell><cell>Willoughby, Ohio 44094.</cell></row></table><note><p>~~~::.:.t,ional Inc., gFIGGIE INTERNATIONAL Rawlings SportingGoods</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 Descriptive</head><label>1</label><figDesc>Statistics for Financial-Relations Advertisements Classified by Order of Appearance</figDesc><table><row><cell>Initial Appearance</cell><cell>Subsequent Appearance</cell></row><row><cell>(N=99)</cell><cell>(N-128)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>The results indicate that trading volume for the remainder of the month increased by 55% over the test-period level (the increase is 34% ifwinsorizing Downloaded by [NUS National University of Singapore] at 02:19 05 November 2015</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc>Mean Standardized Volume Ratio (MSVR) Around the Placement of a Financial-Relations Advertisement</figDesc><table><row><cell>All</cell><cell>Initial Appearance</cell><cell>Subsequent</cell></row><row><cell></cell><cell></cell><cell>Appearance</cell></row><row><cell>(N-227)</cell><cell>(N"'99)</cell><cell>(N-128)</cell></row><row><cell>t•</cell><cell>t-</cell><cell>t-</cell></row></table><note><p>*Significant at the .05 level (1-tailed test).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 Mean Standardized Volume Ratio (MSVR) for Initial-Appearance Financial-Relations Advertisements Classified by Size</head><label>3</label><figDesc></figDesc><table><row><cell>t$</cell></row></table><note><p><p>0 ..... :t:-.</p>ẽ ., ... ... IllI ...</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Cumulative Average Excess Stock Return (CAER) Around Corporate Ad Placement in WSJ</figDesc><table><row><cell></cell><cell cols="3">Classified by Order of Appearance</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(N"227)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Initial Appearance</cell><cell cols="3">Subsequent Appearance</cell></row><row><cell></cell><cell></cell><cell>(N=99)</cell><cell>z-</cell><cell></cell><cell>(N=128)</cell><cell>z-</cell></row><row><cell>Time Period</cell><cell></cell><cell>CAER</cell><cell>Statistic</cell><cell>CAER</cell><cell cols="2">Statistic</cell></row><row><cell>Pre-event (one month)</cell><cell>[-30, -11]</cell><cell>-1.387</cell><cell>-1.85</cell><cell>-0.395</cell><cell></cell><cell>-0.278</cell></row><row><cell></cell><cell>[-2]</cell><cell>0.124</cell><cell>0.785</cell><cell>-0.184</cell><cell></cell><cell>-1.304</cell></row><row><cell>Day before appearance of ad</cell><cell>[-1]</cell><cell>0.016</cell><cell>0.101</cell><cell>-0.039</cell><cell></cell><cell>-0.275</cell></row><row><cell>Day of advertisement</cell><cell>[0]</cell><cell>-0.214</cell><cell>-1.357</cell><cell>-0.149</cell><cell></cell><cell>-1.052</cell></row><row><cell>Day atter appearance of ad</cell><cell>[1]</cell><cell>-0.134</cell><cell>-0.845</cell><cell>0.026</cell><cell></cell><cell>0.187</cell></row><row><cell></cell><cell>[2]</cell><cell>-0.008</cell><cell>-0.048</cell><cell>0.032</cell><cell></cell><cell>0.226</cell></row><row><cell>Remainder of month</cell><cell>[3,20]</cell><cell>-0.489</cell><cell>-0.244</cell><cell>-0.123</cell><cell></cell><cell>-0.963</cell></row></table><note><p>Note: For one-day periods, AER -CAER.</p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trading Volume Analysis</head><p>The daily mean standardized volume ratio (MSVR) for each period <ref type="bibr">[k,T]</ref>  (1)</p><p>(2)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>27</head><p>Vm and Vi are the pre-event period (t =-30 to t =-11) daily average market and security trading volume, respectively. By the allowance of a two-week cushion period, any potential confounding effect is avoided. Statistical significance is determined on the bases of the measure where: ~IT-kl crfR + 2 IT-kl Cov (ER t, ERt-l)</p><p>where k and T are the beginning and ending of a specific period, and cr~R and Cov (ERt , ERt-I)</p><p>are the variance and covariance of average excess returns during the period t =-120 to </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">H</forename><surname>Alvarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Overall Media Buying Stagnates But Targeted TV Booms</title>
+		<imprint>
+			<date type="published" when="1993-08">1993. August</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="14" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Management&apos;s View of Stock Splits</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gallagher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Financial Management</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Introduction to Advertising and Promotion</title>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">E</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Belch</surname></persName>
+		</author>
+		<idno>02:19 05</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Image of Corporate Image</title>
+		<meeting><address><addrLine>Homewood, IL; Pat</addrLine></address></meeting>
+		<imprint>
+			<publisher>Richard D. Irwin, Inc. Botwinick</publisher>
+			<date type="published" when="1984-11">November 2015. 1990. 1984. November</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="12" to="14" />
+		</imprint>
+		<respStmt>
+			<orgName>NUS National University of Singapore</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Using Daily Stock Returns: A Case of Event Studies</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Warner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Financial Economics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="3" to="31" />
+			<date type="published" when="1985-03">1985. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Impact of New Product Introductions on the Market Value of Firms</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">K</forename><surname>Chaney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Timothy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Russell</forename><forename type="middle">S</forename><surname>Devinney</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Winer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="573" to="610" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Quasi-Erperimentation Design &amp; Analysis Issues for Field Settings</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">D</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Donald</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Campbell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Rand McNally College Publishing Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Repurchase Tender Offers and Earnings Information</title>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Dann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ronald</forename><surname>Masulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mayers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Accounting and Economics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="217" to="251" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Corporate Communications</title>
+		<author>
+			<persName><forename type="first">Bob</forename><surname>Donath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Industrial Marketing</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="52" to="60" />
+			<date type="published" when="1980-07">1980. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Property Rights, Legal Wrongs and Insider Trading</title>
+		<author>
+			<persName><forename type="first">Frank</forename><forename type="middle">H</forename><surname>Easterbrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Fischel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Enterprise</title>
+		<imprint>
+			<biblScope unit="page" from="57" to="63" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Efficient Capital Markets: A Review of Theory and Empirical Work</title>
+		<author>
+			<persName><forename type="first">Eugene</forename><surname>Fama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Finance</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="383" to="417" />
+			<date type="published" when="1970-05">1970. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Efficient Capital Markets: II</title>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Finance</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1575" to="1617" />
+			<date type="published" when="1991-12">1991. December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Print Ad Recognition Readership Scores: An Information Processing Perspective</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Finn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="168" to="177" />
+			<date type="published" when="1988-05">1988. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">F</forename><surname>Garbett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Corporate Advertising: The What, the Why, and the How</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill Book Company</publisher>
+			<date type="published" when="1981">1981. 1982. March-April</date>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="100" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Price and Volume Effects Associated with Changes in the S&amp;P 500 List: New Evidence for the Existence of Price Pressures</title>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eitan</forename><surname>Gurel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Finance</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="815" to="829" />
+			<date type="published" when="1986-09">1986. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">F</forename><surname>Hartigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Finch</surname></persName>
+		</author>
+		<title level="m">The New Emphasis on Strategy in Corporate Advertising: Business Marketing</title>
+		<imprint>
+			<date type="published" when="1986-02">1986. February</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="42" to="49" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Does It Pay to Change Your Company&apos;s Name? A Stock Market Perspective</title>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Horsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Swyngedouw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="320" to="335" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Tapping the Soviet Market</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Jacobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Marketing</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="26" to="28" />
+			<date type="published" when="1991-05">1991. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Defining and Measuring Company Image</title>
+		<author>
+			<persName><forename type="first">Madeline</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">M</forename><surname>Zinkhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Dunlap</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="346" to="350" />
+			<date type="published" when="1990">1990</date>
+			<publisher>Academy of Marketing Science</publisher>
+			<pubPlace>Cullowhee, NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Relationship Between Price Changes and Trading Volume: A Survey</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">M</forename><surname>Karpoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Financial and Quantitative Analysis</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="109" to="126" />
+			<date type="published" when="1987-03">1987. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Money Talks: Perceived Advertising Expense and Expected Product Quality</title>
+		<author>
+			<persName><forename type="first">Amna</forename><surname>Kirmani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="344" to="353" />
+			<date type="published" when="1989-12">1989. December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Impact of Television Advertising: Learning Without Involvement</title>
+		<author>
+			<persName><forename type="first">Herbert</forename><forename type="middle">E</forename><surname>Krugman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="349" to="356" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Model for Predictive Measurements of Advertising Effectiveness</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Lavidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gary</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Steiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="59" to="62" />
+			<date type="published" when="1961-10">1961. October</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jonathon</forename><forename type="middle">R</forename><surname>Macey</surname></persName>
+		</author>
+		<title level="m">Insider Trading: Economics, Politics, and Policy</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>The AEI Press</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Rational Expectations and the Theory of Price Movements</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Muth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="315" to="335" />
+			<date type="published" when="1961-07">1961. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Corporate Advertising and the Wall Street Payoff Guides for Bottom Line Results: Industrial Marketing</title>
+		<author>
+			<persName><forename type="first">Jay</forename><forename type="middle">S</forename><surname>Niefeld</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980-07">1980. July</date>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="64" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">H</forename><surname>Patti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">P</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Corporate Advertising: Process, Practices, and Perspectives (l970-1989)</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="42" to="49" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Albert</forename><forename type="middle">T</forename><surname>Poffenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology In Advertising</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Co</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1925">1925</date>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Corporate Advertising</title>
+		<author>
+			<persName><forename type="first">Joan</forename><surname>Reisman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Relations Journal</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="20" to="27" />
+			<date type="published" when="1989-09">1989. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Determination of Financial Structure: The Incentive Signalling Approach</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bell Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">Spring</biblScope>
+			<biblScope unit="page" from="23" to="39" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Corporate Advertising: Ends, Means, Problems</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">S</forename><surname>Sachs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Relations Journal</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="14" to="17" />
+			<date type="published" when="1981-11">1981. November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Corporate Advertising and Stock Prices-Is There An Impact</title>
+		<author>
+			<persName><forename type="first">Eugene</forename><forename type="middle">P</forename><surname>Schonfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">H</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Relations Journal</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="18" to="20" />
+			<date type="published" when="1977-11">1977. November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Financial Payoff in Corporate Advertising</title>
+	</analytic>
+	<monogr>
+		<title level="j">Journal ofAdvertising Research</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="45" to="55" />
+			<date type="published" when="1982-02">1982. February!March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Corporate Advertising in America: A Review of Published Studies on Use, Measurement, and Effectiveness</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">W</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Hathcote</surname></persName>
+		</author>
+		<author>
+			<persName><surname>West</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="35" to="56" />
+			<date type="published" when="1991-09">1991. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Institutional/Image Advertising and Idea,! Issue Advertising as Marketing Tools: Some Public Policy Issues</title>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Prakash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="68" to="78" />
+			<date type="published" when="1979-01">1979. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Modern Theory of Corporate Finance</title>
+		<author>
+			<persName><forename type="first">Clifford</forename><surname>Smith</surname><genName>Jr</genName></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>McGraw-Hill Book Company</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">An Expert Weighs the Prose and Yawns</title>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Zotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advertising Age</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="1983-01-24">1983. January 24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Did the GDPR increase trust in data collectors? Evidence from observational and experimental data</title>
+				<funder ref="#_7dTZyr7">
+					<orgName type="full">Volkswagen Foundation</orgName>
+				</funder>
+				<funder ref="#_msbnh8n">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+				<funder ref="#_zMspwrM">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Facebook</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2021-05-23">2021-05-23</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+							<idno type="ORCID">0000-0002-8382-9724</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Mannheim</orgName>
+								<address>
+									<settlement>Mannheim</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frederic</forename><surname>Gerdon</surname></persName>
+							<idno type="ORCID">0000-0003-4442-6698</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Mannheim</orgName>
+								<address>
+									<settlement>Mannheim</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Florian</forename><surname>Keusch</surname></persName>
+							<idno type="ORCID">0000-0003-1002-4092</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Mannheim</orgName>
+								<address>
+									<settlement>Mannheim</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frauke</forename><surname>Kreuter</surname></persName>
+							<idno type="ORCID">0000-0002-7339-2645</idno>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Institute for Employment Research</orgName>
+								<address>
+									<settlement>Nuremberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Ludwig Maximilian University of Munich</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">David</forename><surname>Vannette</surname></persName>
+							<email>dave.vannette@gmail.com.orcid</email>
+							<affiliation key="aff4">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Davis</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Did the GDPR increase trust in data collectors? Evidence from observational and experimental data</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Information, Communication &amp; Society</title>
+						<title level="j" type="abbrev">Information, Communication &amp; Society</title>
+						<idno type="ISSN">1369-118X</idno>
+						<idno type="eISSN">1468-4462</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">25</biblScope>
+							<biblScope unit="issue">14</biblScope>
+							<biblScope unit="page" from="2101" to="2121"/>
+							<date type="published" when="2021-05-23" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">019D29B97EB01568A5E658E0F690A796</idno>
+					<idno type="DOI">10.1080/1369118x.2021.1927138</idno>
+					<note type="submission">Received 8 May 2020 Accepted 16 April 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Trust</term>
+					<term>GDPR</term>
+					<term>big data</term>
+					<term>privacy</term>
+					<term>surveillance</term>
+					<term>data protection</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the wake of the digital revolution and connected technologies, societies store an ever-increasing amount of data on humans, their preferences, and behavior. These modern technologies create a trust challenge, insofar as individuals have to trust data collectors such as private organizations, government institutions, and researchers that their data is not misused. Privacy regulations should increase trust because they provide laws that increase transparency and allow for punishment in cases in which the trustee violates trust. The introduction of the General Data Protection Regulation (GDPR) in May 2018a wide-reaching regulation in EU law on data protection and privacy that covers millions of individuals in Europeprovides a unique setting to study the impact of privacy regulation on trust in data collectors. We collected survey panel data in Germany around the implementation date and ran a survey experiment with a GDPR information treatment. Our observational and experimental evidence does not support the hypothesis that the GDPR has positively affected trust. This finding and our discussion of the underlying reasons are relevant for the wider research field of trust, privacy, and big data.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In the wake of innovations in information and communications technologies (ICTs), commercial and public institutions store an ever-increasing amount of data on humans and their behavior. This stock reaches from data collected via smartphones by location and health tracking applications to data stored during social media use. The opportunities and dangers of this technological advancement are discussed across various disciplines <ref type="bibr" target="#b5">(Anthony et al., 2017;</ref><ref type="bibr" target="#b17">Brayne, 2017;</ref><ref type="bibr" target="#b36">Golder &amp; Macy, 2014;</ref><ref type="bibr" target="#b38">Hacker &amp; Petkova, 2017;</ref><ref type="bibr" target="#b52">Mayer-Schönberger &amp; Cukier, 2012;</ref><ref type="bibr" target="#b58">Nissenbaum, 2009;</ref><ref type="bibr" target="#b73">Watts, 2004)</ref> and scholars have described these developments using concepts such as 'surveillance society' <ref type="bibr" target="#b48">(Lyon, 2001)</ref> or 'surveillance capitalism' <ref type="bibr" target="#b75">(Zuboff, 2019)</ref>.</p><p>As these developments are potentially intrusive to the privacy of individuals, the questions of how data collectors manage and use the data become crucial. The long-term functioning of these recent technologies in a democratic society requires trust. Individuals who leave data traces either knowingly, for example, by filling out personal and financial information to make an online purchase, or unwittingly because their behavior is recorded through third party cookies or digital fingerprinting, need to be able to trust data collectors that their data is safe and not used to their disadvantage. Trust in the practices of data collectors is not only relevant as a potential determinant of individuals' datasharing 1 behavior <ref type="bibr" target="#b14">(Bauer et al., 2019)</ref>, it is also an indicator that reflects to what extent individuals feel comfortable with the data collection practices they encounter in their daily lives by both public and private actors. While scholars recognize the urgency of studying how these technological changes interact with attitudes and behavior, empirical sociological research on this issue is still in its infancy. For instance, empirical sociological research is only starting to identify the implications of ICT for trust in institutions (cf. <ref type="bibr">Anthony et al., 2017, p. 263)</ref>.</p><p>After a slower start, laws are increasingly introduced that protect individuals' digital privacy. On 25 May 2018, the European Union (EU) implemented one of the most wide-reaching policies on data protectionthe General Data Protection Regulation (GDPR)with the goal to clarify, codify, and extend individuals data rights. 2 The European Commission stated that several civil rights and consumer organizations understood the GDPR 'as an important contribution to a fair digital society built on mutual trust' <ref type="bibr">(European Commission, 2019a, p. 7)</ref> and companies reported that it represented an opportunity to build trust with commercial partners and customers alike (ibid., p.8). Thereby, the GDPR aims to regulate the topical challenge of preserving the rights of information and privacy while not excessively hindering business performance. The effects on how companies handled and stored data, along with how they interacted with users, were immediately visible. For instance, companies such as Google increasingly stored data of European users in Europe as to comply with the corresponding provisions <ref type="bibr" target="#b45">(Lindsey, 2019;</ref><ref type="bibr" target="#b60">O'Brien, 2018)</ref>. The impact of this policy reaches beyond the borders of the EU and pundits suggest that other countries should follow suit <ref type="bibr" target="#b31">(Faitelson, 2017;</ref><ref type="bibr" target="#b35">Goddard, 2017;</ref><ref type="bibr" target="#b66">Rubinstein &amp; Petkova, 2018;</ref><ref type="bibr">The Economist, 2018)</ref>. Against this background, our study focuses on the impact of this wide-reaching regulation on trust and specifically seeks to address the following question: Does the EU General Data Protection Regulation (GDPR) affect individuals' trust in data collectors?</p><p>To study GDPR's effects on trust, we combine a longitudinal with an experimental approach. We collected panel data on individual's perceptions and trust before and after the implementation of the policy on 25 May 2018. Moreover, we conducted a survey experiment in which we randomly treat individuals with information about the content of the GDPR policy and subsequently measure their trust in a number of entities. In addition, we provide descriptive statistics of how awareness of the GDPR and related attitudes changed over the course of 2018.</p><p>With this study, we contribute to the existing scholarship in several ways. First, current empirical research focuses on the interaction of norms and expectations in the sphere of privacy <ref type="bibr" target="#b41">(Horne &amp; Przepiorka, 2019)</ref>, on the link between perceptions, expectations, and data-sharing behavior <ref type="bibr" target="#b14">(Bauer et al., 2019;</ref><ref type="bibr" target="#b54">Michaelidou &amp; Micevski, 2019)</ref>, on the transformation of surveillance practices through ICTs and big data analytics <ref type="bibr" target="#b17">(Brayne, 2017)</ref>, and on the role of individual characteristics and the situations for trust in data collectors such as physicians <ref type="bibr" target="#b22">(Campos-Castillo &amp; Anthony, 2019)</ref>. Regulatory frameworks provide rules and orientation for those who receive, as well as those who give data. Therefore, the implementation of a framework such as the GDPR may affect people's behaviors and their normative expectations. However, we lack empirical research that confirms or refutes such an effect. In the present study, we examine whether a change in regulations (introduced and sanctioned by a third party) affects individuals' expectations, namely their trust in data collectors.</p><p>Second, our study is the first to explore the consequences of one of the most far-reaching policies of the twenty-first century on individuals' attitudes. So far, research focusing on the GDPR has been concerned with its legal ramifications and its impact on the economy and businesses <ref type="bibr" target="#b3">(Allen et al., 2018;</ref><ref type="bibr" target="#b7">Baker, 2017;</ref><ref type="bibr" target="#b8">Barnard-Wills et al., 2016;</ref><ref type="bibr" target="#b15">Bieker et al., 2016;</ref><ref type="bibr" target="#b16">Binns, 2017;</ref><ref type="bibr" target="#b23">Ciriani, 2015;</ref><ref type="bibr" target="#b55">Morrissey, 2016;</ref><ref type="bibr" target="#b69">Tankard, 2016;</ref><ref type="bibr" target="#b71">van Ooijen &amp; Vrabec, 2018)</ref>. However, apart from <ref type="bibr" target="#b63">Presthus and Sørum (2018)</ref>, which investigated awareness and perception of the GDPR in a small online survey in Norway (N = 200), we know next to nothing about how this EU-wide policy affected the attitudes of its actual beneficiaries 3 : the individuals whose data rights were clarified, codified, and extended. It is those same individuals who will or will not provide fuel for the data economy of the twenty-first century. 4  Third, our study is innovative from a methodological point of view as we approach the question from a causal perspective, which is a challenge identified in the wider policy feedback literature <ref type="bibr">(Campbell, 2012, p. 343)</ref>. To this end, we combine longitudinal survey data with experimental data that were both collected for the purpose of this study. In addition, we rely on a set of trust measures that measure specific trust as opposed to the more general, but also more vague scales that have been used to measure generalized trust and privacy concern in past research. We proceed as follows: Section 2 develops our hypothesis and discusses the process through which GDPR awareness should impact trust. Section 3 presents the design, data, and measures. Section 4 summarizes the results. Section 5 provides a conclusion, discusses limitations, and provides rationales for future research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory: the GDPR and trust in data collectors</head><p>Trust is invariably linked to questions of privacy and data <ref type="bibr" target="#b5">(Anthony et al., 2017)</ref> and sharing data creates a problem of trust <ref type="bibr" target="#b67">(Seligman, 2000)</ref>. Individuals make themselves vulnerable when disclosing personal information because this information could be used for an unintended and harmful purposeeither by the primary data collector or through third parties <ref type="bibr" target="#b5">(Anthony et al., 2017;</ref><ref type="bibr" target="#b56">Nippert-Eng, 2010;</ref><ref type="bibr" target="#b62">Petronio, 2002;</ref><ref type="bibr" target="#b64">Richardson, 1988)</ref>. For instance, it is by now well-known that geolocation data can and have been used to deanonymize and track individuals as well as that there is an illicit market for such data <ref type="bibr" target="#b27">(de Montjoye et al., 2013;</ref><ref type="bibr" target="#b33">Freudiger et al., 2012;</ref><ref type="bibr" target="#b70">Thompson &amp; Warzel, 2019)</ref>.</p><p>We conceptualize a trust relationship as follows. A trust relationship entails a truster A who has an expectation regarding a trustee B regarding some behavior X in situation or context Y at time t <ref type="bibr">(Bauer, forthcoming;</ref><ref type="bibr">Bauer &amp; Freitag, 2018, p. 2</ref>). In the context of privacy and data collection the trusters are individuals (A) and the trustees (B) are data collectors. In such situations individuals would normally expect organizations to keep their data safe and not use it to their disadvantage (X). Such expectations should be governed by context-specific privacy norms, that is, what is perceived to be an appropriate data practice for a given scenario <ref type="bibr" target="#b49">(Martin &amp; Nissenbaum, 2017;</ref><ref type="bibr">Martin &amp; Shilton, 2016a</ref><ref type="bibr" target="#b51">, 2016b;</ref><ref type="bibr" target="#b57">Nissenbaum, 2004</ref><ref type="bibr" target="#b59">Nissenbaum, , 2018))</ref>.</p><p>Only if individuals are aware of data collection, can trust have an effect on their behavior. Individuals knowingly share their data in many situations. For instance, we would assume that most users of Google Maps know they are sharing their geolocation. However, in other situations, they may do so unwittingly, for instance the very same smartphone users may not be aware of the fact that other apps also access their geolocation.</p><p>Let us illustrate the relationship between trust and awareness with two examples. In one scenario (1), an individual A uses an application, for example, a smartphone app, is aware of the data the app collects and has an expectation of how the data collector handles the data. For instance, A could trust this data collector; otherwise, A would not install the app in the first place <ref type="bibr" target="#b14">(Bauer et al., 2019)</ref>. However, once A shared data and the data collector acts against A's expectation, A will feel betrayed. In another scenario (2), individual A is not even aware that the application collects personal information and therefore does not have any expectations regarding the data collector's behavior. In this situation, the expectation (i.e., trust) plays no role in the data-sharing decision as there is no awareness that any data is being shared. Nonetheless, if it becomes known later that the data collector has passed on the data, A coulddespite having no expectations initiallystill feel cheated and perceive the data collector's behavior as a betrayal which in turn should affect future trust. When organizations collect data, they can prove their trustworthiness, which may result in an increase in trust over time, but it also creates the opportunity to lose individuals' trust <ref type="bibr" target="#b62">(Petronio, 2002)</ref>. As <ref type="bibr">Baier (1986, p. 242)</ref> writes: '[t]rust is much easier to maintain than it is to get started and is never hard to destroy.'</p><p>As we propose for the context of the GDPR and data protection, the relationship between truster and trustee is often mediated by third parties. If such third parties enforce trustees' trustworthy behavior it may also affect the truster and increase her trust <ref type="bibr" target="#b19">(Burt &amp; Knez, 1995;</ref><ref type="bibr" target="#b20">Buskens et al., 2010;</ref><ref type="bibr" target="#b72">Wang &amp; Ng, 2015)</ref>. If A is aware of a third actor C that enforces that B really displays A's preferred behavior X, then A's trust, that is A's expectation that B really will display behavior X, should be strengthened. For instance, if A is considering sharing her data with B, knowing that there is an actor C that both clearly defines what is expected of B and that also enforces that B behaves in this way should increase A's trust in B. 5  The state and its laws can represent such a third-party C that enforces data collectors' trustworthy behavior on behalf of the truster. A recent example is the fine Facebook was subjected to by the U.S. Federal Trade Commission for mishandling users' personal information <ref type="bibr" target="#b32">(Feiner, 2019;</ref><ref type="bibr" target="#b42">Kang, 2019)</ref>. While this is a high-profile case, it is not the only one <ref type="bibr" target="#b46">(Liu et al., 2015;</ref><ref type="bibr" target="#b61">Peretti, 2008)</ref>. In principle, knowing that organizations can be and are held accountable when they are careless or misuse individuals' data should make them more trustworthy and increase individuals' trust.</p><p>In this regard, the GDPR has fundamentally altered the relationship between individuals and data collectors as well as the state's role as a third party. The GDPR has been in effect since May 2018 and aims at codifying and enforcing better data protection rights for European citizens. Importantly, it strongly expands existing and introduces new rights for individuals. Among others, the GDPR awards individuals with the following rights (EU General Data Protection Regulation, 2016):</p><p>The right to clear and comprehensible information about who is processing your data, which data is being processed and why; Right of access to the personal data that an organization has about you; Right to ask a service provider to transfer your personal data to another service provider, e.g., if you switch to another social network on the Internet; Right to be "forgotten", i.e., to have your data deleted if you no longer wish it to be processed and if there are no legitimate reasons for the company concerned to continue storing the data; Companies that want to process your data must ask for your consent and clearly state how they want your personal data to be used; If your data is lost or stolen, the company responsible must immediately notify you and the appropriate data protection authority if this breach threatens to harm you.</p><p>In short, the GDPR clearly defines the behavior that individuals can expect of data collectors. It changes individuals' leverage in terms of how much control and knowledge they (can) have about the data that is stored and used. It also increases state institutions' power to sanction data collectors that disregard those rights on behalf of individuals. 6  Actors that violate the GDPR face fines of up to 4% of their global annual revenues <ref type="bibr" target="#b37">(Greengard, 2018)</ref>. If individuals become aware of the GDPR policy and relatedly the rights it bestows upon them, it should increase individuals' trust because individuals can now expect to a higher degree that data collectors will not misuse their data. Importantly, the GDPR policy is extraordinarily complex, and we cannot assume that individuals grasp all its details. However, for the mechanism described to take effect, it is merely necessary that citizens are aware of the policy's implementation and of its aim, namely to protect them in their relation to data collectors. Below we will comment on how we identify whether individuals in our study are aware of the GDPR and its contents.</p><p>In sum, we would expect that awareness of the GDPR has a positive effect on individuals' trust in data collectors (H1). While it is not the primary focus of our study, we would also expect that concrete, situational trust judgments that focus on a particular trustee (e.g., a data collector) and behavior by this trustee may be influenced by generalized trust as well as privacy concern. In our empirical analysis we also measure and account for these latter characteristics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology: data, measures, and methods</head><p>In 2018, we conducted three web surveys among members of the German non-probability online panel Mingle, operated by Respondi AG (https://www.respondi.com/). Participants were recruited via email, and we used quotas for gender, age, and smartphone ownership based on the known distribution of these characteristics in Germany (see Table <ref type="table">A1</ref> -A4-B for statistics on our sample). The field periods for the surveys were 16-23 April, 2018 (Wave 1), 24 July to 2 August, 2018 (Wave 2), and 29 October to 7 November, 2018 (Wave 3). Figure <ref type="figure" target="#fig_0">1</ref> displays the field periods and Google search trends for the terms 'DSGVO' (the German acronym for) and 'GDPR' before and after these time periods. 7 The frequency of searches for these terms indicates the salience of the GDPR and therefore may be related to public awareness of the regulation. The graph reflects the increase in interest in the run up to the implementation of the regulation on 25 May, 2018 (see Figure <ref type="figure" target="#fig_0">1</ref>).</p><p>As shown in Figure <ref type="figure" target="#fig_2">A3</ref> in the appendix, we used a split-panel design where parts of our sample from Wave 1 were re-interviewed in Waves 2 and 3, and fresh respondents were added for each wave. In Wave 1, 2093 respondents completed the entire questionnaire. In Wave 2, 2043 respondents completed the questionnaire, 482 of which were fresh respondents. In Wave 3, 2112 respondents completed the questionnaire out of which 843 were fresh respondents. 8 Summary statistics for sociodemographics of respondents in all three waves can be found in Tables A2-A -A4-B in the Appendix. The median response time for the three waves were 4 min 21 sec, 4 min 1 sec, and 4 min 22 sec, respectively, and respondents who completed a questionnaire were incentivized with panel points (equivalent to 25 cents per wave) in accordance with the online panel provider's policy. The questionnaires were programed in Questback EFS Survey Suite <ref type="bibr" target="#b43">(Keusch, 2019</ref>).</p><p>To answer our research question, we use both observational data from our three-wave panel survey and experimental data from a survey experiment in Wave 3. First, we exploit the fact that we observe individuals on three occasions, once before the implementation of the GDPR and twice afterwards. In all three waves, the same set of six questions was asked:</p><p>. Trust in data collectors (end-labeled, 11-point rating scale): 9  o 'On a scale from 0 "not at all" to 10 "completely", how much do you trust that Google uses your personal data only internally, so does not share them with third parties?' o 'On a scale from 0 "not at all" to 10 "completely", how much do you trust that Facebook uses your personal data only internally, so does not share them with third parties?' o 'On a scale from 0 "not at all" to 10 "completely", how much do you trust that the Federal Statistical Office uses your personal data only internally, so does not share them with third parties?' o 'On a scale from 0 "not at all" to 10 "completely", how much do you trust that university researchers use your personal data only internally, so does not share them with third parties?' From the two GDPR awareness questions we constructed a dummy variable that is 1 if respondents indicate that they have heard of the GDPR and if they provide an openended response that signals that they are aware of the general aims of the GDPR, and 0 otherwise. 10 In other words, as is required by the mechanism we discussed, our measure identifies people that are not only aware of GDPR but also aware of its fundamental aims reflects the assumptions regarding awareness made in the theory. The trust questions are investigated as four separate outcome variables (see Table <ref type="table">A8</ref> for further survey measures).</p><p>We model the influence of GDPR awareness on trust in data collectors as follows: 11 First, we estimate models that include only respondents from the cross-sectional dataset from Wave 1 before the GDPR became into effect (see Figure <ref type="figure" target="#fig_3">4</ref> and Table <ref type="table">A5</ref>), and regress trust in data collectors (y) on GDPR awareness (D) using the following model:</p><formula xml:id="formula_0">y i = b 0 + b 1 D i + 1 i (1)</formula><p>where y i is individual i's level of trust in Wave 1 and D i is a dummy indicating whether i indicated having heard of the GDPR, b 0 is the intercept, namely the average trust in the control group, and b 1 is the difference in the average trust between the treatment and control groups. In additional models we control for gender, age, education, general privacy concern, Facebook and Google account ownership, device ownership, 12 and generalized trust, as these could be regarded as potential confounders.</p><p>Second, we use a difference-in-differences (DID) approach to approximate the causal effect of GDPR awareness on trust in data collectors <ref type="bibr" target="#b4">(Angrist &amp; Pischke, 2008;</ref><ref type="bibr" target="#b26">Croissant &amp; Millo, 2008)</ref>. Here, we exploit the fact that only a part of our sample became aware of the GDPR in the period between Wave 1 and 2 of our survey. We use the following linear model (see Figure <ref type="figure" target="#fig_4">5</ref> and Table <ref type="table">A6</ref>):</p><formula xml:id="formula_1">Dy i = y it-1 -y it = b 0 + b 1 D i + 1 i , t = 1, 2<label>(2)</label></formula><p>where Dy i represents the change in trust in a data collector between Wave 2 and Wave 1 for individual i, D i is a dummy indicating whether someone became aware of the GDPR between W1 and W2, b 1 is the difference in the average change between the treatment and control groups. We only focus on two time periods -Wave 1 and 2in this second step as the event we are interested inthe implementation of the GDPRhappened between these two time points. As we analyze panel data from two waves, we exploit variation between individuals rather than within individuals. The estimated coefficient represents the difference in the average trust change between individuals who heard of the GDPR and individuals who did not between Wave 1 and Wave 2. In further models, we add control variables measured at t 1 to the equation.</p><p>In our analysis of the panel data, we excluded respondents who indicated having heard of the GDPR in Wave 1 and not having heard of the GDPR in Wave 2 (87 respondents). We also excluded respondents who indicated having heard of the GDPR in both Wave 1 and 2 (274 respondents). Accordingly, our 'treatment' groups consist of respondents who indicate having not heard of GDPR in Wave 1 and having heard of GDPR in Wave 2 (475 respondents) and our comparison/control group consists of respondents who indicate having not heard of GDPR in Wave 1 and having not heard of GDPR in Wave 2 (725 respondents).</p><p>Regarding causality, we rely on a difference-in-differences logic. We estimate trends in two groups and assume that the trend in the treatment group would mirror the trend in the control group given the treated units had not become aware of the GDPR and vice versa (parallel trends assumption). Once controls are added, one assumes parallel trends conditional on these controls (conditional parallel trends assumption). Unobserved timevarying confounders would threaten this assumption. This would be the case, for instance, if many individuals in the treatment group (and not the control group) were systematically exposed to a media report that both causes them to inform themselves about the GDPR as well as affects their trust. But we think that this is unlikely here. The controls we add are gender, age (categorical), education (categorical), privacy concern, accounts of different platforms (as dummies), possession of different devices (as dummies) and generalized trust. 13  As an even more solid test of causality, we also implemented an experiment in Wave 3 of our panel study (see Figure <ref type="figure" target="#fig_1">2</ref>). We first asked all Wave 3 respondents (n=2112) the questions about trust in four data collectors. We then randomly treated 50% of the respondents with information about the GDPR, 25% with information about air passenger rights, and 25% with no information (see Figure <ref type="figure" target="#fig_1">A2</ref>). We then asked all respondents about their trust in two data collectors (Facebook, Google), using the same questions as before. The advantage is, first, that we are in control of treatment assignment as opposed to the treatment variable in our panel data into which respondents may self-select (GDPR awareness) and, second, that we know exactly what kind of information we gave to the respondents. As comprehension of the given treatment is a prerequisite for its potential effectiveness, we also asked respondents about how comprehensible they assessed the text (from 1 = 'not comprehensible at all' to 4 = 'very comprehensible') and include this variable in our analysis.</p><p>While we acknowledge that our sample is non-probabilistic in nature and we thus have to be careful when inferring point estimates for the entire German population (Kohler, 2019), we are confident that the modeling approach using the panel data and the experimental approach allow us to produce unbiased causal estimates. (Figure <ref type="figure" target="#fig_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Empirical results</head><p>We start with a few descriptive statistics on both our treatment variable and our outcome variables. Figure <ref type="figure" target="#fig_3">4</ref> displays the percentage of respondents who reported having heard of the GDPR across our three waves. The graph depicts percentages for the full sample for each wave (black point), but also for different subsets such as respondents who only participated in Wave 2. As expected, the proportion of respondents aware of the GDPR increases from around 23 percent before the implementation of the GDPR (Wave 1) to around 49 percent after the policy was implemented (Wave 2). Thereafter, from Wave 2 to 3, the proportion of respondents being aware of the GDPR remains relatively stable. Figure <ref type="figure" target="#fig_3">4</ref> also allows us to compare respondents who participated in all three waves to respondents who joined in Wave 2 or 3. One concern was that participation in Wave 1 may cause respondents to look up information on the GDPR. In other words, confronting them with our awareness question in Wave 1 could have artificially increased awareness in subsequent waves. However, this does not seem to be the case since respondents who joined in Wave 2 have similar awareness levels as those who already participated in Wave 1. Awareness does not seem to be influenced by being part of the panel study. 14  Figure <ref type="figure" target="#fig_3">A4</ref> in the appendix displays the means of trust across the three waves for the full samples of the respective waves. Among those surveyed, there is a slight increase in trust during this time. We investigate our question about the influence of GDPR awareness on trust in data collectors both with panel data and with a survey experiment. In Figure <ref type="figure" target="#fig_3">4</ref> (see Table <ref type="table">A5</ref>) we start with models estimated based on Wave 1 respondents. The outcome variables are the responses to the four trust questions. Rather than to approximate the causal effect, these models serve to provide a first estimate of the difference between our two groups, namely respondents aware of the GDPR and respondents not aware of it. The coefficients at the top describe the difference in the trust means across respondents who indicated having heard of the GDPR and respondents who reported not having heard of the GDPR before the introduction of the policy. Figure <ref type="figure" target="#fig_3">4</ref> (cf. Table <ref type="table">A5</ref>) reports both bivariate effects (M1, M3, M5, M7; estimates indicated by a dot in the figure) and effects controlling for a set of covariates (M2, M4, M6, M8; estimates indicated by a triangle in the figure). We find statistically and substantively significant differences without and with controls. Respondents who have heard about the GDPR have on average lower trust in Google and Facebook and higher trust in the Federal Statistical Office as well as university researchers. The effects sizes range between -0.58 and 0.82 in the uncontrolled models and between -0.39 and 0.64 in the controlled models, which is substantial on the 11-point trust scales. In Figure <ref type="figure" target="#fig_3">4</ref> we also added two more, theoretically relevant covariates (a subset), that are strongly related to trust not only conceptually. As one would expect we find negative effects for privacy concern and positive effects for generalized trust on trust in all four data collectors.</p><p>Figure <ref type="figure" target="#fig_4">5</ref> (cf. Table <ref type="table">A6</ref>) visualizes the results of the linear model based on panel data from Wave 1 and 2 (see Eq. 2). The outcome variables are now the change in trust between t 1 and t 2 . The intercepts in the bivariate models (M9, M11, M13, M15; estimates indicated by a dot in the figure) represent the average change in the control group (GDPR Awareness = 0), the GDPR coefficients in those models represent the difference in the Note: Graph only displays coefficients for the main independent variable (GDPR awareness) and the most important control variables (general privacy concern, generalized trust). Estimates for socio-demographics (sex, age, education), Facebook and Google account, and device ownership have been omitted but can be found in Table <ref type="table">A5</ref>. Bars represent 90% (thick) and 95% (thin) confidence intervals.</p><p>trend between the treatment group (those became aware of the GDPR between W1 and W2) and the control group (those who were aware of the GDPR in W1 and W2). Again Figure <ref type="figure" target="#fig_4">5</ref> also displays a subset of the covariates of the multivariate models (M10, M12, M14, M16; estimates indicated by a triangle in the figure).</p><p>The models in Figure <ref type="figure" target="#fig_4">5</ref> (cf. Table <ref type="table">A6</ref>) indicate that there are no significant differences in the trust trend between respondents who have learned of the GDPR between Wave 1 and 2 and respondents who have not. The maximum difference in the multivariate models was found for trust in university researchers, where respondents who became aware of the GDPR display an even more positive trend than the respondents in our 'control' group. However, given that individual changes of less than .5 on the underlying trust scales may range from -10 to 10, these differences in average trends seem rather low.</p><p>One potential explanation for the small and insignificant effects could be that there are ceiling effects. Respondents who already display high levels of trust before they become aware of the GDPR are less likely to be affected. However, additional estimations (not shown here, available upon request) in which we only included respondents with low trust levels at Wave 1 (max. trust value across all trust scales of 5) provide no evidence in this regard.</p><p>Figure <ref type="figure" target="#fig_0">A1</ref> in the appendix visualizes the distribution of changes on the outcome variables and the GDPR variable between Wave 1 and 2 for the balanced panel sample of Wave 1 and Wave 2. It indicates that trust in different organizations has remained stable for most respondents in our panel.</p><p>In our view, the fact that we see significant differences in the models based on crosssectional data (Figure <ref type="figure" target="#fig_3">4</ref>, M1 -M8, Wave 1, Outcome: Trust) as opposed to the models Note: Graph only displays coefficients for the main independent variable (change in GDPR awareness) and the most important control variables (general privacy concern, generalized trust). Estimates for socio-demographics (sex, age, education), Facebook and Google account, and device ownership have been omitted but can be found in Table <ref type="table">A6</ref>. Bars represent 90% (thick) and 95% (thin) confidence intervals.</p><p>based on panel data (Figure <ref type="figure" target="#fig_4">5</ref>, M9 -M16, Wave 1, Outcome: Trust Change) can be explained by selection effects in the former that are due to unobserved stable confounders. While we control for various characteristics (age, education, privacy concern, generalized trust, etc.) it is possible that individuals select into GDPR awareness based on a stable attribute of political interest or news consumption. If these individuals in turn are also better informed about various data scandals, it would explain why we see differences in the cross-sectional data but not when canceling out stable characteristics in our panel data models. From a causal perspective the panel data models represent the stronger test and they do not yield evidence for H1. 15  As an additional test of our hypothesis, we ran an experiment in which we tested whether information on the GDPR could increase trust in Google and Facebook. Figure <ref type="figure" target="#fig_5">6</ref> (Table <ref type="table">A7</ref>) provides the results of our experiment (M17, M18, M19, M20, M21, M22). The outcome variable is the change in trust in Google (left panel) and Facebook (right panel) measured right before the experimental treatment and directly thereafter. For instance, the top-left coefficient in Figure <ref type="figure" target="#fig_5">6</ref> describes the difference in the average change between those that were treated with GDPR information and those that were not treated with any information. Figure <ref type="figure" target="#fig_5">6</ref> visualizes Model 17 (Google) and 20 (Facebook) that only include the experimental treatment variable as a factor (the baseline is no information), Model 18 (Google) and 21 (Facebook) that add controls, and finally, Model 19 (Google) and 22 (Facebook) that include controls and reduce the sample to those respondents who reported that the GDPR information is comprehensible. We find that there is no effect of our experimental treatmentinformation on the GDPRmirroring the findings from the observational data. Note: Graph only displays coefficients for the experimental variable that was coded as a factor (Treatment: GDPR; Treatment: air passenger rights), as well as coefficients for one additional covariates namely 'Knowing the GDPR' and the interaction effects of this covariate with the treatment variable (coded as a factor). The corresponding estimates can be found in Table <ref type="table">A7</ref>. Bars represent 90% (thick) and 95% (thin) confidence intervals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Does the EU General Data Protection Regulation (GDPR) affect individuals' trust in data collectors? In principle, far-reaching policies that ought to protect individuals' data and hold data collectors accountable should fundamentally change the trust relationship in this sphere. Since the GDPR is a far-reaching policy that concerns millions of individuals, it has triggered widespread media discussion around its implementation in 2018. Around this time, general interest also spiked in Germany as indicated by searches on Google (see Figure <ref type="figure" target="#fig_0">1</ref>). The implementation of a fundamental policy, gaining such wide public attention represents a unique opportunity to test how regulations affect expectations within the realm of surveillance and privacy.</p><p>We expected that individuals' trust in data collectors would increase because of the policy, which was our motivation for data collection in the first place. Against our expectations we do not find an effect both relying on our panel survey and a survey experiment based on German samples. Importantly, the two methods make use of slightly different operationalizations of GDPR awareness. While the GDPR treatment variable in the panel survey reflects awareness and knowledge of GDPR's basic aim, the GDPR treatment in our survey experiment provides participants with more extensive information. Hence, we are relatively certain that the non-finding is not related to the treatment. Similarly, our trust measures are more specific as compared to other standard measures of trust <ref type="bibr" target="#b13">(Bauer &amp; Freitag, 2018)</ref>.</p><p>The fact that we do not find an effect could reflect that there really is none. First, although we did check respondents' understanding of the GDPR's content broadly, many people might not be fully aware of its exact stipulations. Numerous studies suggest that people have trouble reading, understanding, and comprehending privacy policies and informed consent paperwork (e.g., <ref type="bibr" target="#b9">Bashir et al., 2015;</ref><ref type="bibr" target="#b53">McDonald &amp; Cranor, 2008)</ref>. Potentially the same is true for the GDPR. Second, it is possible that trust in data collectors such as Google or Facebook is a stable, sticky individual characteristic that does not easily change even when individuals become aware of such a far-reaching policy change. Third, we know from research on contextual integrity and on context-specific privacy norms that there is an interplay of context characteristics that form what is perceived to be an appropriate data practice for a given scenario. It is unclear to which extent a general law like the GDPR is associated with the norms in such concrete situations in which particular privacy norms are at stake. Hence, one might need to measure behavior and attitudes in more concrete situations that are governed by such concrete contextual norms <ref type="bibr" target="#b49">(Martin &amp; Nissenbaum, 2017;</ref><ref type="bibr">Martin &amp; Shilton, 2016a</ref><ref type="bibr" target="#b51">, 2016b;</ref><ref type="bibr" target="#b57">Nissenbaum, 2004</ref><ref type="bibr" target="#b59">Nissenbaum, , 2018))</ref>.</p><p>A related explanation for our non-finding lies in the survey response process. When presented with a survey scale, respondents usually answer based on what currently resides in their mind <ref type="bibr" target="#b74">(Zaller, 1992)</ref>. Depending on the concepts presented in the question, respondents may have a wide variety of associations popping up when choosing their response <ref type="bibr" target="#b12">(Bauer et al., 2017)</ref>. Thinking of the response process, GDPR awareness as measured in our survey (in our case we introduced the GDPR question purposefully after the trust items) should have an impact on trust if an association with the GDPR appears in the minds of respondents when answering the trust elements. In other words, awareness can only become functional and have a positive effect when respondents really think of the GDPR in their trust evaluation. Although this might be an explanation for the non-finding in our design, it does not necessarily invalidate our findings in terms of real-life relevance. While individuals are aware of the GDPR, this may not necessarily cross their mind, for instance, when they decide to share data when using a new smartphone app. This notion is supported by empirical evidence that the mere pointing to a privacy-related topicno matter whether positive or problematic data practices are highlightedincrease respondents' carefulness in subsequent data disclosure, but not their stated privacy concerns <ref type="bibr" target="#b48">(Marreiros et al., 2017)</ref>.</p><p>Also, it is possible that policies such as the GDPR have long-term effects that we do not capture here. In principle, scholars assume that experiences affect trust <ref type="bibr" target="#b10">(Bauer, 2015)</ref>. If the GDPR leads to a decrease in data privacy violations, this could improve individuals' experiences over the course of a couple of years. Whether the GDPR really improves the situation remains to be seen. The corresponding design would need to compare populations that are subject to such a policy and populations that are not.</p><p>Finally, the GDPR might have had indirect effects on individuals' trust which is not reflected as such in our study. Although some people might not have been fully aware of the GDPR and its contents, many have been affected by its practical implications, increasing saliency. Individuals might have encountered more extensive and prominent cookie setting options on websites, particularly when these cookie settings are a requirement to enter a website. Another graspable instance is the updating of privacy policies of various online services, leading to many generic emails sent to their users. Also, in the non-digital realm, individuals were newly asked to give consent to the storage of their data, for example, by physicians. Such daily encounters might have rendered people more skeptical, cynic, and suspicious of various data practices (cf. <ref type="bibr" target="#b39">Hermstrüwer and Dickert 2017;</ref><ref type="bibr" target="#b47">Lutz et al., 2020)</ref>. In principle, we could imagine a situation where the same policy has diverse, contradicting effects on peoples' trust.</p><p>Our study is characterized by further limitations that provide venues for future research. The sample we rely on is a limitation of our study. While we are comfortable with giving our non-findings a causal interpretation, we cannot assume that we would find those same effects in the wider population. Including measures such as ours in representative samples would allow scholars to learn about population-level effects. This is relevant insofar as a more representative sample may also include populations that we do not cover here, for example, people with less intense Internet usage. In addition, our study is based on German data solely, hence, while our results may have some validity for the German case, studies conducted in other countries may yield different results. From a comparative perspective Germans seem to be more concerned about their privacy than many other Europeans <ref type="bibr">(European Commission, 2015)</ref>. Relatedly, it would be insightful to extend the set of data collectors for which we study trust. We picked Google and Facebook as they represented the most widely used platforms for search/email (Google) and social media (Facebook) at the time of our survey. However, the platform landscape is changing, and different platforms seem to embrace different privacy strategies. Hence, future studies would benefit from a comparison across a broader set of platforms such as Youtube, Amazon, Apple, Twitter and others.</p><p>Also, the measures we used carry a certain vagueness. For instance, the behavior referred to in the trust items is 'sharing data with third parties.' Both 'data' is vague in that it could refer to more or less sensitive data, and 'third parties' may also be of various kinds, for example, advertisers in the case of Google or Facebook. Implicitly, throughout our paper (as is usually done) we assume that these questions and the concepts contained are interpreted similarly by respondents. While this point reflects the fundamental conflict between specificity and generality, research would benefit from even more precise survey questions. Fortunately, researchers have already started diving deeper into such complexity relying on vignette experiments (e.g., <ref type="bibr" target="#b41">Horne &amp; Przepiorka, 2019)</ref>. Another strategy could be to probe respondents to explore how much interpretative variation is behind concepts such as 'data' or 'third party.' Finally, we studied the GDPR's impact on trust. In our view, trust in itself is an informative indicator because it reflects people's general expectations towards these platforms. However, to what extent trust interacts with concrete data sharing behaviora link that is often taken for grantedrequires further scrutiny (e.g., <ref type="bibr" target="#b14">Bauer et al., 2019)</ref>. As it stands, our study does not allow for predictions on whether and how different trust levels affect the usage of and extensiveness of data sharing with these platforms. However, various insightful theoretical accounts (e.g., <ref type="bibr" target="#b0">Altman &amp; Taylor, 1973;</ref><ref type="bibr" target="#b62">Petronio, 2002)</ref> may build the basis for further original empirical studies that explore this link.</p><p>Considering these and other limitations, we need to drive forward an increasingly urgent research agenda that explores the interaction between individuals' preferences and behavior, privacy invading technologies, and policies that aim to regulate the latter. Such a research agenda may inform policy-makers that have taken up the challenge of reigning in technological advances to curb their negative consequences (cf. <ref type="bibr" target="#b48">Lyon, 2001;</ref><ref type="bibr" target="#b75">Zuboff, 2019)</ref>, which entails threats to the valuable right to privacy by surveillance <ref type="bibr" target="#b18">(Büchi et al., 2020;</ref><ref type="bibr" target="#b24">Citron &amp; Gray, 2013;</ref><ref type="bibr" target="#b25">Cohen, 2012)</ref>, while allowing these technologies to unfold their positive potential. Trust in data collectors and data collection procedures, and therefore individuals' comfort when they share data, is not necessarily fueled by the mere implementation of policies, as our findings suggest. How companies and national and local public institutions, such as data protection offices, handle data protection complaints and surveillance of data collectors may shape trust as well. The mechanism of how policy, private actors, and public institutions interplay to produce trust in data collectors remains an open question relevant to both the privacy research community and policymakers and companies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Note</head><p>1. While the term data-sharing implies an action on part of the person sharing the data, we use the term to also designate the passive and unconscious sharing of data. 2. The GDPR was adopted by the Council of the European Union on 8 April 2016 and on 14</p><p>April 2016 by the European Parliament. Subsequently, the regulation entered into force on 24 May 2018 and its provisions became directly applicable in all member states on 25 May 2018. As the GDPR is a regulation, not a directive, it is directly binding and applicable in all member states (European Commission, 2019b). 3. A non-peer-reviewed study by <ref type="bibr" target="#b68">Sobolewski and Paliński (2017)</ref> surveys students from Warsaw University (N = 143) and presents them with a choice tasks to explore which aspects of the GDPR policy (e.g., the right to be forgotten or the right to migrate personal data) are perceived as more valuable. A non-peer-reviewed report by <ref type="bibr" target="#b2">Aldighieri (2018)</ref> based on survey data (N = 1001) explores consumers' attitudes towards and perception of the GDPR from a consumer perspective.</p><p>4. We also add to a more general literature on 'policy feedback.' A vast literature has investigated feedback effects at the level of states and political elites <ref type="bibr">(Campbell, 2012, p. 334)</ref>.</p><p>Research on policy feedback effects on mass publics centers on social welfare policy following the idea that it is one of the policy areas most salient to ordinary individuals <ref type="bibr">(Campbell, 2012, p. 336)</ref>. At first glance, privacy and data rights represent a less salient policy area. However, 2018 has seen several high-level scandals, e.g., the Cambridge Analytica Scandal that erupted in March 2018 that may have increased the salience of such topics. As far as we know, our study is the first to investigate policy effects in this policy subfield, and we situate it within broader research in this area. 5. Importantly, trust is here understood as a simple expectation that B behaves according to A's preference. Some accounts define trust as believing in the benevolence of a trustee. However, the understanding here simply pertains to expectations regarding B's behavior. Certainly, aside from third parties with sanctioning power, knowing that B has been trustworthy in the past or has other attributes may also affect A's trust. And even if I don't trust some organization, I might still decide to share data with it, for instance, because I have no other option, e.g., if this organization has a monopoly and I need its services. 6. There are various websites that provide GDPR enforcement data, e.g., https://www. enforcementtracker.com/. 7. For an explanation of the data underlying Google Trends, see <ref type="bibr" target="#b65">Rogers (2016)</ref>. 8. The sample was recruited using quotas for age, gender, and smartphone ownership. Only respondents who reported living in Germany were included in the sample. See Table <ref type="table">A1</ref> for statistics on how many respondents were discarded for various reasons. 9. In Wave 1 we used two different versions of the trust question, the standard trust scale depicted above and a subjective probability scale: On a scale of 0% = 'event will certainly not happen' to 100% = 'event will certainly happen', how likely do you think it is that B uses your personal for internal purpose only, that is, not share the data with third parties?.</p><p>Respondents were randomly assigned to the two different scales and previous research indicates that it does not matter whether respondents answer on the normal scale or the probability scale <ref type="bibr" target="#b14">(Bauer et al., 2019)</ref>. 10. The data was coded by one coder (#1). We tested inter-coder reliability for a random subset of 200 responses which were coded by a second rater #2. The Cohen's kappa for the two ratings lies at 0.89 (rater #2 coded 191 out of 200 responses in the same way as rater #1). Out of 6258 responses to the GDPR knowledge question across the three waves, 3793 responses were 'Yes', out of which 3683 provide some form of open-ended response to the probing question (only 110 didn't). Answers ranged from very short ones (single words) to very long ones (the answer with the most words has 216; Median: 6 words, Mean: 8.6 words). Across all waves, out of the 3793 respondents who answered 'Yes' to the closed question on GDPR knowledge, our coding of open-ended responses declares 1250 respondents to not have provided an answer showing substantive understanding of the GDPR's content. 11. Analyses were conducted in R. Tables were generated using the Stargazer R package (Hlavac 2014). 12. Device ownership has been shown to be strongly related to measures of digital literacy <ref type="bibr" target="#b40">(Hargittai et al., 2019)</ref>. 13. We also explored whether the effect of GDPR awareness is heterogeneous, i.e., is stronger among subsets of our sample that are high or low in digital literacy (operationalized through the number of devices they possess: high = number of devices ≥4 (N = 247) and low = number of devices ≤2 (N = 459)). This was not the case. 14. Overall, it appears that awareness levels in our study are similar to those in other studies. On 1 March 2018 YouGov reports that around three quarters (72%) of British adults haven't heard of GDPR <ref type="bibr" target="#b34">(Glanville 2018)</ref>. 15. We also explored whether the effect of GDPR awareness is heterogeneous, i.e., is stronger among subsets of our sample that are high or low in digital literacy (operationalized through the number of devices they possess: high = number of devices ≥4 (N = 247) and low = number of devices ≤2 (N = 459)). This was not the case. In addition, we further explore the relationship between generalized trust, privacy concern, and our trust judgments. Figure <ref type="figure" target="#fig_4">A5</ref> depicts a correlation matrix and correlations reach a maximum of 0.4, relevant but not particularly high in our view. In additional analyses, we re-estimated our difference-in-differences models using generalized trust and privacy concern as outcome variables (see reproduction files). We do not find effects reflecting the findings for our trust judgments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Time periods of data collection. Note: Y-axis shows the prevalence of searches relative to each other during the depicted time and in the territory of Germany. Periods of data collection as gray polygons. Lines represent trends of search terms on Google. Searches for 'Datenschutzgrundverordnung' and 'General Data Protection Regulation' not shown here because they were far less common.</figDesc><graphic coords="6,86.23,53.29,321.13,156.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Flow chart of the survey experiment.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. GDPR Awareness across 3 waves. Note: Respondents who participated only in W2 and W3 (N = 3) and only in W1 and W3 (N = 2) were omitted in this graph. Black bars represent 90% (thick) and 95% (thin) confidence intervals.</figDesc><graphic coords="9,93.15,430.75,307.18,175.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Linear model predicting trust in four data collectors in Wave 1.</figDesc><graphic coords="10,86.34,53.29,320.66,181.81" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Linear model predicting changes in trust in four data collectors between Wave 1 and Wave 2.</figDesc><graphic coords="11,80.39,53.29,332.63,188.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Linear model predicting change in trust before and after the experimental treatment (GDPR information).</figDesc><graphic coords="12,86.12,392.26,321.12,184.54" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>P. C. BAUER ET AL.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">German Research Foundation (DFG)</rs> through the <rs type="grantName">Collaborative Research Center</rs> <rs type="grantNumber">SFB2 884</rs> '<rs type="projectName">Political Economy of Reforms</rs>' (Project <rs type="grantNumber">A9</rs>) <rs type="grantNumber">[139943784</rs> to <rs type="person">Markus Frölich</rs>, F.K., and F.K.]. Part of <rs type="person">Frederic Gerdon</rs>'s time was funded by <rs type="funder">Volkswagen Foundation</rs> (grant '<rs type="projectName">Consequences of Artificial Intelligence for Urban Societies</rs>)'. Part of <rs type="person">Frauke Kreuter</rs>'s time in 2018 was supported by a <rs type="funder">Facebook</rs> contract with Pro Unlimited.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_msbnh8n">
+					<idno type="grant-number">SFB2 884</idno>
+					<orgName type="grant-name">Collaborative Research Center</orgName>
+					<orgName type="project" subtype="full">Political Economy of Reforms</orgName>
+				</org>
+				<org type="funding" xml:id="_zMspwrM">
+					<idno type="grant-number">A9</idno>
+				</org>
+				<org type="funded-project" xml:id="_7dTZyr7">
+					<idno type="grant-number">[139943784</idno>
+					<orgName type="project" subtype="full">Consequences of Artificial Intelligence for Urban Societies</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Paul C. Bauer is a research fellow at the Mannheim Centre for European Social Research and pursues research in political behavior, political communication, and computational social science. His current research interests comprise the believability of misinformation and the social media activity and influence of politicians. His work has appeared in Political Communication, Public Opinion Quarterly, Political Behavior, PLOS One, and the European Sociological Review. E-mail: paul.bauer@mzes.uni-mannheim.de.</p><p>Frederic Gerdon is a doctoral researcher at the Mannheim Centre for European Research at the University of Mannheim, Germany, and at the Department of Statistics of the Ludwigs Maximilians University Munich, Germany. He currently researches social consequences of digitization and algorithmic decision-making, with a particular focus on social inequality and privacy, and mainly employs quantitative methods such as survey experiments. E-mail: fgerdon@mail.unimannheim.de. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Social penetration: The development of interpersonal relationships</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Holt, Rinehart &amp; Winston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">General Data Protection Regulation (GDPR), no. REGULATION (EU) 2016/679, EUROPEAN PARLIAMENT, COUNCIL</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EU</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">GDPR: A consumer perspective 2018</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aldighieri</surname></persName>
+		</author>
+		<ptr target="https://dma.org.uk/uploads/misc/5af5497c03984-gdpr-consumer-perspective-2018" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W E</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Markey-Towler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Potts</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.3160404</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.3160404" />
+		<title level="m">Some economic consequences of the GDPR</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Mostly harmless econometrics: An empiricist&apos;s companion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Angrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-S</forename><surname>Pischke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Toward a sociology of privacy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Anthony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Campos-Castillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Horne</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-soc-060116-053643</idno>
+		<ptr target="https://doi.org/10.1146/annurev-soc-060116-053643" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="249" to="269" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Trust and antitrust</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baier</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/292745</idno>
+		<ptr target="https://doi.org/10.1086/292745" />
+	</analytic>
+	<monogr>
+		<title level="j">Ethics</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="231" to="260" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The impact of the General Data Protection Regulation on the banking sector: Data subjects&apos; rights, conflicts of laws and Brexit</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Data Protection &amp; Privacy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="145" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Data protection authority perspectives on the impact of data protection reform on cooperation in the EU</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Barnard-Wills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pauner Chulvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Hert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.clsr.2016.05.006</idno>
+		<ptr target="https://doi.org/10.1016/j.clsr.2016.05.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Computer Law &amp; Security Review</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="587" to="598" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Online privacy and informed consent: The dilemma of information asymmetry</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bashir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Kesan</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pra2.2015.145052010043</idno>
+		<ptr target="https://doi.org/10.1002/pra2.2015.145052010043" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Association for Information Science and Technology</title>
+		<meeting>the Association for Information Science and Technology</meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Negative experiences and trust: A causal analysis of the effects of victimization on generalized trust</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/esr/jcu096</idno>
+		<ptr target="https://doi.org/10.1093/esr/jcu096" />
+	</analytic>
+	<monogr>
+		<title level="j">European Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="397" to="417" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Conceptualizing trust and trustworthiness</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trust matters: Cross-disciplinary essays</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Barradas De Freitas</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">S Lo</forename><surname>Iacono</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Hardt Publishing</publisher>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Is the left-right scale a valid measure of ideology? Political Behavior</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barberá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ackermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Venetz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11109-016-9368-2</idno>
+		<ptr target="https://doi.org/10.1007/s11109-016-9368-2" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="553" to="583" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Measuring trust</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Freitag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of social and political trust</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Uslaner</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="1" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Trust and cooperative behavior: Evidence from the realm of data-sharing</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Keusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kreuter</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0220115</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0220115" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A process for data protection impact assessment under the European general data protection regulation</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bieker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Friedewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Obersteller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rost</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-44760-5_2</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-44760-5_2" />
+	</analytic>
+	<monogr>
+		<title level="j">Privacy Technologies and Policy</title>
+		<imprint>
+			<biblScope unit="volume">9857</biblScope>
+			<biblScope unit="page" from="21" to="37" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Data protection impact assessments: A meta-regulatory approach</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Binns</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/idpl/ipw027</idno>
+		<ptr target="https://doi.org/10.1093/idpl/ipw027" />
+	</analytic>
+	<monogr>
+		<title level="j">International Data Privacy Law</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="35" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Big data surveillance: The case of policing</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brayne</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0003122417725865</idno>
+		<ptr target="https://doi.org/10.1177/0003122417725865" />
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="977" to="1008" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The chilling effects of algorithmic profiling: Mapping the issues</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Büchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fosch-Villaronga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tamò-Larrieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Velidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Viljoen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.clsr.2019.105367</idno>
+		<ptr target="https://doi.org/10.1016/j.clsr.2019.105367" />
+	</analytic>
+	<monogr>
+		<title level="j">Computer Law &amp; Security Review</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">105367</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Kinds of third-party effects on trust</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knez</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1043463195007003003</idno>
+		<ptr target="https://doi.org/10.1177/1043463195007003003" />
+	</analytic>
+	<monogr>
+		<title level="j">Rationality And Society</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="255" to="292" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Trust in triads: An experimental study</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Buskens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Raub</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socnet.2010.05.001</idno>
+		<ptr target="https://doi.org/10.1016/j.socnet.2010.05.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="301" to="312" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Policy makes mass politics</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-polisci-012610-135202</idno>
+		<ptr target="https://doi.org/10.1146/annurev-polisci-012610-135202" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="333" to="351" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Situated trust in a physician: Patient health characteristics and trust in physician confidentiality</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Campos-Castillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Anthony</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00380253.2018.1547174</idno>
+		<ptr target="https://doi.org/10.1080/00380253.2018.1547174" />
+	</analytic>
+	<monogr>
+		<title level="j">The Sociological Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="559" to="582" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The economic impact of the European reform of data protection</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ciriani</surname></persName>
+		</author>
+		<ptr target="https://papers.ssrn.com/abstract=2674010" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Addressing the harm of total surveillance: A reply to professor Neil Richards</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Citron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Law Review</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="262" to="274" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">What privacy is for</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Cohen</surname></persName>
+		</author>
+		<ptr target="https://heinonline.org/HOL/P?h=hein.journals/hlr" />
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Law Review</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">1934</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Panel data econometrics in R: The plm package</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Croissant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Millo</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v027.i02</idno>
+		<ptr target="https://doi.org/10.18637/jss.v027.i02" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Unique in the crowd: The privacy bounds of human mobility</title>
+		<author>
+			<persName><forename type="first">Y.-A</forename><surname>De Montjoye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hidalgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Verleysen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Blondel</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep01376</idno>
+		<ptr target="https://doi.org/10.1038/srep01376" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1376</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">America should borrow from Europe&apos;s data-privacy law</title>
+		<idno type="DOI">10.2838/552336</idno>
+		<ptr target="https://www.dx.doi.org/10.2838/552336" />
+	</analytic>
+	<monogr>
+		<title level="j">The Economist</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<date type="published" when="2015">2018. 2015</date>
+		</imprint>
+	</monogr>
+	<note>/ Wave EB</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Data protection rules as a trust-enabler in the EU and beyondtaking stock</title>
+		<ptr target="https://ec.europa.eu/info/sites/info/files/aid_development_cooperation_fundamental_rights/aid_and_development_by_topic/documents/communication_2019374_final.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Communication from the Commission to the European Parliament and the Council</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2019">2019a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<ptr target="https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en" />
+		<title level="m">EU data protection rules</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2019-10-18">2019b, October 18</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Yes, the GDPR will affect your U.S.-based business</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Faitelson</surname></persName>
+		</author>
+		<ptr target="https://www.forbes.com/sites/forbestechcouncil/2017/12/04/yes-the-gdpr-will-affect-your-u-s-based-business/" />
+		<imprint>
+			<date type="published" when="2017-12-04">2017. December 4</date>
+			<pubPlace>Forbes Magazine</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feiner</surname></persName>
+		</author>
+		<ptr target="https://www.cnbc.com/2019/04/24/facebook-estimates-up-to-5-billion-loss-in-ftc-privacy-inquiry.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Facebook says the FTC privacy inquiry could cost as much as $5 billion</title>
+		<imprint>
+			<date type="published" when="2019-04-24">2019. April 24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Evaluating the privacy risk of location-based services. Financial Cryptography and Data Security</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Freudiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shokri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Hubaux</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-27576-0_3</idno>
+		<ptr target="https://doi.org/10.1007/978-3-642-27576-0_3" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">7035</biblScope>
+			<biblScope unit="page" from="31" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">72% of Brits haven&apos;t heard about GDPR</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glanville</surname></persName>
+		</author>
+		<ptr target="https://yougov.co.uk/topics/politics/articles-reports/2018/03/01/72-brits-havent-heard-about-gdpr" />
+		<imprint>
+			<date type="published" when="2018-03-01">2018. March 1</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The EU General Data Protection Regulation (GDPR): European regulation that has a global impact</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goddard</surname></persName>
+		</author>
+		<idno type="DOI">10.2501/IJMR-2017-050</idno>
+		<ptr target="https://doi.org/10.2501/IJMR-2017-050" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Market Research</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="703" to="705" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Digital footprints: Opportunities and challenges for online social research</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Golder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Macy</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-soc-071913-043145</idno>
+		<ptr target="https://doi.org/10.1146/annurev-soc-071913-043145" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="152" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">ACM: Digital library</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Greengard</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3276744</idno>
+		<ptr target="https://dl.acm.org/doi/fullHtml/10.1145/3276744" />
+	</analytic>
+	<monogr>
+		<title level="j">Communications of the ACM. dl.acm.org</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Reining in the big promise of big data: Transparency, inequality, and new regulatory frontiers</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Petkova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Northwestern Journal of Technology and Intellectual Property</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Sharing is daring: An experiment on consent, chilling effects and a salient privacy nudge</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hermstrüwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dickert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.irle.2017.06.001</idno>
+		<ptr target="https://doi.org/10.1016/j.irle.2017.06.001" />
+	</analytic>
+	<monogr>
+		<title level="j">International Review of Law and Economics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="38" to="49" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">From internet access to internet skills: Digital inequality among older adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hargittai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Piper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Morris</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10209-018-0617-5</idno>
+		<ptr target="https://doi.org/10.1007/s10209-018-0617-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Universal Access in the Information Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="881" to="890" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Technology use and norm change in online privacy: Experimental evidence from vignette studies</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Horne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Przepiorka</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2019.1684542</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2019.1684542" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication and Society</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">F.T.C. approves Facebook fine of about $5 billion</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kang</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/2019/07/12/technology/facebook-ftc-fine.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<date type="published" when="2019-07-12">2019, July 12</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Trust, privacy &amp; data sharing, ZA6979 Data file Version 1.0.0 [Data set</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Keusch</surname></persName>
+		</author>
+		<idno type="DOI">10.4232/1.13248</idno>
+		<ptr target="https://doi.org/10.4232/1.13248" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Possible uses of nonprobability sampling for the social sciences</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kohler</surname></persName>
+		</author>
+		<idno type="DOI">10.13094/SMIF-2019-00014</idno>
+		<ptr target="https://doi.org/10.13094/SMIF-2019-00014" />
+	</analytic>
+	<monogr>
+		<title level="m">Survey Methods: Insights from the Field</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Google will restrict sharing of user data for Google ads under EU privacy pressure</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lindsey</surname></persName>
+		</author>
+		<ptr target="https://www.cpomagazine.com/data-privacy/google-will-restrict-sharing-of-user-data-for-google-ads-under-eu-privacy-pressure/" />
+	</analytic>
+	<monogr>
+		<title level="j">CPO Magazine</title>
+		<imprint>
+			<date type="published" when="2019-11-25">2019, November 25</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Data breaches of protected health information in the United States</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Musen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chou</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2015.2252</idno>
+		<ptr target="https://doi.org/10.1001/jama.2015.2252" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA: The Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1471" to="1473" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Data capitalism and the user: An exploration of privacy cynicism in Germany</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ranzini</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444820912544</idno>
+		<ptr target="https://doi.org/10.1177/1461444820912544" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1168" to="1187" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Now that you mention it&quot;: A survey experiment on information, inattention and online privacy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lyon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Marreiros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tonin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vlassopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Schraefel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2017.03.024</idno>
+		<ptr target="https://doi.org/10.1016/j.jebo.2017.03.024" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Behavior &amp; Organization</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2001">2001. 2017</date>
+			<publisher>McGraw-Hill Education</publisher>
+		</imprint>
+	</monogr>
+	<note>Surveillance society: Monitoring everyday life</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Measuring privacy: an empirical test using context to expose confounding variables</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nissenbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.7916/stlr.v18i1.4015</idno>
+		<ptr target="https://doi.org/10.7916/stlr" />
+	</analytic>
+	<monogr>
+		<title level="j">Science and Technology Law Review</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="4015" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Why experience matters to privacy: How context-based experience moderates consumer privacy expectations for mobile applications</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shilton</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/asi.23500</idno>
+		<ptr target="https://doi.org/10.1002/asi.23500" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Association for Information Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1871" to="1882" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Putting mobile application privacy in context: An empirical study of user privacy expectations for mobile devices</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shilton</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01972243.2016.1153012</idno>
+		<ptr target="https://doi.org/10.1080/01972243.2016.1153012" />
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="200" to="216" />
+			<date type="published" when="2016">2016b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Big data: A revolution that transforms how we work, live, and think</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mayer-Schönberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cukier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Houghton Mifflin Harcourt</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The cost of reading privacy policies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Cranor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ISJLP</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="543" to="568" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Consumers&apos; ethical perceptions of social media analytics practices: Risks, benefits and potential outcomes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Michaelidou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Micevski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jbusres.2018.12.008</idno>
+		<ptr target="https://doi.org/10.1016/j.jbusres.2018.12.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Research</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="576" to="586" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Take notice! The legal and commercial impact of the General Data Protection Regulation&apos;s rules on privacy notices</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morrissey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Data Protection &amp; Privacy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="52" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Islands of privacy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Nippert-Eng</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Privacy as contextual integrity</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nissenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Washington Law Review</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">119</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nissenbaum</surname></persName>
+		</author>
+		<title level="m">Privacy in context: Technology, policy, and the integrity of social life</title>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Respecting context to protect privacy: Why meaning matters</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nissenbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11948-015-9674-9</idno>
+		<ptr target="https://doi.org/10.1007/s11948-015-9674-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Science and Engineering Ethics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="831" to="852" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Google Ireland takes the reins for European services</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>O'brien</surname></persName>
+		</author>
+		<ptr target="https://www.irishtimes.com/business/technology/google-ireland-takes-the-reins-for-european-services-1.3730721" />
+	</analytic>
+	<monogr>
+		<title level="j">The Irish Times</title>
+		<imprint>
+			<date type="published" when="2018-12-13">2018, December 13</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Data breaches: What the underground world of carding reveals</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Peretti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Santa Clara Computer &amp; High Technology Law Journal</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">375</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Boundaries of privacy: Dialectics of disclosure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>SUNY Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Are consumers concerned about privacy? An online survey emphasizing the General Data Protection Regulation</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Presthus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sørum</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.procs.2018.10.081</idno>
+		<ptr target="https://doi.org/10.1016/j.procs.2018.10.081" />
+	</analytic>
+	<monogr>
+		<title level="j">Procedia Computer Science</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="603" to="611" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Secrecy and status: The social construction of forbidden relationships</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Richardson</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2095688</idno>
+		<ptr target="https://doi.org/10.2307/2095688" />
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="209" to="219" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rogers</surname></persName>
+		</author>
+		<ptr target="https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48" />
+		<title level="m">What is Google Trends data -And what does it mean? Medium; Google News Lab</title>
+		<imprint>
+			<date type="published" when="2016-07-01">2016, July 1</date>
+			<biblScope unit="page" from="7342" to="e7348" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">The international impact of the general data protection regulation</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Petkova</surname></persName>
+		</author>
+		<ptr target="https://papers.ssrn.com/abstract=3167389" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">The problem of trust</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Seligman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">How much consumers value on-line privacy? Welfare assessment of new data protection regulation (GDPR) (No. 2017-17)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sobolewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Paliński</surname></persName>
+		</author>
+		<ptr target="https://ideas.repec.org/p/war/wpaper/2017-17.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Faculty of Economic Sciences</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Warsaw</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">What the GDPR means for businesses</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tankard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1353-4858(16)30056-3</idno>
+		<ptr target="https://doi.org/10.1016/S1353-4858(16)30056-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Network Security</title>
+		<imprint>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Twelve million phones, one dataset, zero privacy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Warzel</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<date type="published" when="2019-12-19">2019, December 19</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Does the GDPR enhance consumers&apos; control over personal data? An Analysis from a Behavioural Perspective</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Van Ooijen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Vrabec</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10603-018-9399-7</idno>
+		<ptr target="https://doi.org/10.1007/s10603-018-9399-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Policy</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Can centralized sanctioning promote trust in social dilemmas? A two-level trust game with incomplete information</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Ng</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0124513</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0124513" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">124513</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">The &quot;new&quot; science of networks</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Watts</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.soc.30.020404.104342</idno>
+		<ptr target="https://doi.org/10.1146/annurev.soc.30.020404.104342" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="243" to="270" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">The nature and origins of mass opinion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zaller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">The age of surveillance capitalism: The fight for a human future at the new frontier of power</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zuboff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Profile Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

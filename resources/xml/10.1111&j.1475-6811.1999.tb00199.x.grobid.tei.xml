@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Level of commitment, mutuality of commitment, and couple well‐being</title>
+				<funder ref="#_XtPN9ze">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+				<funder ref="#_5Tjux7K #_WEQzh8h">
+					<orgName type="full">NIMH</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="1999-09">1999-09</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Stephen</forename><forename type="middle">M</forename><surname>Drigotas</surname></persName>
+							<email>sdrigota@mail.smu.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Caryl</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Julie</forename><surname>Verette</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">asouthem Methodist University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Southern Methodist University</orgName>
+								<address>
+									<postCode>75275-0442</postCode>
+									<settlement>Dallas</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Level of commitment, mutuality of commitment, and couple well‐being</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Personal Relationships</title>
+						<title level="j" type="abbrev">Personal Relationships</title>
+						<idno type="ISSN">1350-4126</idno>
+						<idno type="eISSN">1475-6811</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">6</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="389" to="409"/>
+							<date type="published" when="1999-09" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">FF09F8A9CC0BBCFAD885CD0F31425F31</idno>
+					<idno type="DOI">10.1111/j.1475-6811.1999.tb00199.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Interdependence theory identifies level of dependence and mutuality of dependence as two key properties of interdependent relationships. In ongoing relationships, these structural properties are subjectively experienced in terms of commitment-dependence level is experienced as greater or lesser commitment level, and mutuality of dependence is experienced as greater or lesser perceived mutuality in partners' commitment levels. We examined the associations of these variables with couple well-being using data from two three-wave longitudinal studies. One study examined partners in dating relationships and the second study examined partners in marital relationships. Consistent with predictions, both level of commitment and perceived mutuality of commitment accounted for unique variance in couple well-being: Couples exhibited greater adjustment to the degree that the partners were highly committed to their relationship and to the degree that their commitment levels were mutual. Mediation analyses revealed that the association of mutuality of commitment with couple well-being is partially mediated by negative affect (e.g.. anxiety, guilt) and partiaiy to wholly mediated by trust level; perceived mutuality of power is not a reliable mediator of this association.</p><p>Then in the marriage union, the independence of the husband and wife will be equal, their dependence mutual, and their obligations reciprocal.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>friends, and lovers. But despite our varied histories, most of us come to recognize several important principles about dependence: First, given that many central life experiences are inherently interpersonal, we learn that we are often dependent on others-we rely on others for experiences such as companionship, intimacy, and sexuality. Second, we learn that the fulfillment of such needs makes us vulnerable-the more we depend on another person, the more we stand to lose. Third, we learn that it is not a good idea to depend on another person too much-when one partner needs a relationship more than the other, things tend to go badly. Thus, the art of close involvement arguably is a delicate interpersonal feat in which we balance the benefits of high dependence against the perils of nonmutual dependence. Ideally, close partners should make themselves fully-yet equally-dependent on one another. Oddly, these lessons are not reflected in the empirical literature regarding close relationships (for reviews, see <ref type="bibr" target="#b2">Berscheid, 1994;</ref><ref type="bibr" target="#b3">Berscheid &amp; Reis, 1998)</ref>.</p><p>The present research explores issues regarding dependence and vulnerability, employing principles from interdependence theory to advance several hypotheses concerning the associations of level of commitment and mutuality of commitment with couple well-being. We begin by introducing two central properties of interdependence structure-level of dependence and mutuality of dependence. In addition, we propose that structural dependence is subjectively experienced in terms of commitment. Next, we review the literature regarding commitment processes, which rather uniformly suggests that high commitment level is associated with couple health and vitality. Following this, we propose that beyond the effects of commitment level, mutuality of commitment exerts important effects on couple well-being. Finally, we report the results of two longitudinal studies designed to test our hypotheses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Level of Dependence and Mutuality of Dependence</head><p>The conceptual analysis of interdependence structure is one of the most important contributions of interdependence theory to our knowledge of the fabric of interpersonal experience (Kelley &amp; <ref type="bibr">Thibaut, 1978;</ref><ref type="bibr" target="#b29">Thibaut &amp; Kelley, 1959)</ref>. Interdependence theory identifies level of dependence and mutuality of dependence as two key properties of interdependence structure. Level of dependence describes the degree to which an individual relies uniquely on a relationship for attaining good outcomes. For example, John's dependence on Mary is greater to the extent that he relies primarily on Mary for the fulfillment of his needs for intimacy and companionship. To the extent that John's needs cannot be gratified elsewhere, his depen-dence on Mary is greater. Mutuality of dependence describes the degree to which two individuals are similarly dependent on one another for attaining good outcomes. For example, mutuality exists to the extent that John and Mary are equally reliant on their relationship for the gratification of their needs for intimacy and companionship.</p><p>Interdependence theory suggests that dependence rests on two properties of a relationship. First, dependence is greater when satisfaction level is high, or to the degree that the individual typically enjoys good outcomes in a relationship. Second, dependence is greater when quality of alternatives is poor, or to the degree that good outcomes could not be attained independent of the relationship (e.g., in an alternative romantic relationship or in relationships with friends and family members). The investment model identifies a third basis for dependence, suggesting that dependence is greater when investment size is high, or to the degree that numerous important resources are directly or indirectly linked to the relationship (e.g., time or effort, joint material possessions, a shared friendship network; <ref type="bibr" target="#b19">Rusbult, 1980</ref><ref type="bibr" target="#b19">Rusbult, ,1983))</ref>.</p><p>According to interdependence theory, an individual's level of dependence is roughly equivalent to the partner's level of power over the individual. For instance, to the extent that John is dependent upon his relationship with Mary-to the extent that he needs their relationship-Mary has greater power over John. Mary possesses power in that she can move him through a wide range of outcomes-she can reliably gratify his needs (e.g., she may be his constant companion and most supportive intimate), or she can fail to do so (e.g., she may reject his affection or betray him). Interdependence theory suggests that one individual's power over another is limited to the extent that the other possesses equivalent power over the individual. For example, Mary cannot exercise her power to the extent that Mary needs John as much as John needs Mary-Mary's power over John's well-being is limited to the extent that John possesses equal power over her well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Commitment as the Subjective Experience of Dependence</head><p>The investment model suggests that dependence produces the psychological experience of commitment-commitment is the sense of allegiance that is established with regard to the source of one's dependence <ref type="bibr" target="#b19">(Rusbult, 1980</ref><ref type="bibr" target="#b19">(Rusbult, , 1983))</ref>. Commitment includes conative, cognitive, and affective components: (a) intent to persist-John feels intrinsically motivated to continue his relationship with Mary (conative component); (b) long-term orientation-John envisions himself as involved in the relationship for the foreseeable future, and contemplates the implications of current actions for future outcomes (cognitive component); and (c) psychological attachment-John experiences life in dyadic terms, such that his emotional well-being is influenced by Mary and their relationship (affective component). The components of commitment are theoretically and empirically discriminable but tend to co-occur, and they are distinct from the three bases of dependence (e.g., Arriaga, Agnew, &amp; Rusbult, 1997; Rusbult, Martz, &amp; Agnew, 1999).</p><p>How does commitment differ from dependence? First, dependence is a structural property describing the degree to which an individual needs a relationship, whereas commitment is the subjective state that dependent individuals experience on a daily basis. Because John is dependent on his relationship, he develops intentions to persist with Mary, he foresees long-term involvement with Mary, and he feels affectively linked to Mary and their relationship. Second, people tend to be aware of their feelings of commitment, whereas they may or may not be aware of their dependence.' It is subjective commitment-rather than 1 At critical choice points-for example, when contemplating marriage, the birth of a child, or the consequences of b r e a k u p J o h n may actively review the nature of his dependence, consciously considering the extent of his satisfaction, alternatives, and investments. More generally, his dependence may remain somewhat implicit, such that he seldom thinks about the extent of his reliance on Mary.</p><p>structural dependence-that influences everyday behavior in relationships. Third, commitment is an emergent property of dependence, representing more than a numerical summary of the structural elements from which it arises. Structural dependence per se does not have implications for conative, cognitive, and affective experiences such as intent to persist, long-term orientation, or psychological attachment; subjective commitment embodies these components.</p><p>The empirical literature provides consistent support for investment model predictions, revealing that (1) subjective commitment is stronger to the degree that satisfaction level is high, quality of alternatives is low, and investment size is high (e.g., Cox, Wexler, Rusbult, &amp; Gaines, 1997;  Lund, 1985; Rusbult, 1980; Simpson, 1987);</p><p>(2) the probability of voluntary persistence is greater to the degree that level of dependence is high and subjective commitment is strong (e.g., Bui, Peplau, &amp; Hill,  1996; Drigotas &amp; Rusbult, 1992; Felmlee,  Sprecher, &amp; Bassin, 1990; Kurdek, 1993;  Rusbult &amp; Martz, 1995; South &amp; Lloyd,  1995); and (3) subjective commitment is the most direct and powerful predictor of many important behaviors in relationships, accounting for unique variance beyond satisfaction, alternatives, and investments (e.g., Johnson &amp; Rusbult, 1989; Rusbult, 1983;  Rusbult et al., 1999).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Level of Commitment and Couple Well-Being</head><p>As noted above, the empirical evidence consistently reveals that committed individuals are likely to persist in their relationships. However, persistence is a rather minimal requirement for relationship maintenance. In ongoing relationships, partners inevitably confront interdependence dilemmas involving destructive interaction sequences, noncorrespondent preferences, or the existence of tempting alternatives. Solving such dilemmas typically entails cost or effort on the part of one or both partners. The process by which individuals come to depart from their immediate self-interest for the good of a relationship is termed transformation of motivation, defined as the inclination to set aside immediate self-interest and respond on the basis of broader considerations-considerations such as one's longterm well-being or the well-being of a partner (Holmes, 1981; Kelley &amp; Thibaut,  1978).</p><p>Level of commitment appears to play a central role in inducing pro-relationship transformation of motivation. Why so? First, committed individuals are dependent on their relationships. The more individuals stand to lose, the more effort they will exert to hold on to what they have got (cf. <ref type="bibr" target="#b12">Holmes, 1981)</ref>. Second, commitment involves long-term orientation. In long-term involvements it is beneficial to develop patterns of reciprocal pro-relationship behavior. Thus, pro-relationship acts may represent a means of encouraging reciprocity, thereby maximizing long-term self-interest <ref type="bibr">(cf. Axelrod, 1984)</ref>. Third, commitment involves psychological attachment. The self and the partner may become linked to the extent that a departure from self-interest benefitting the partner may not be experienced as costly (cf. Aron &amp; Aron, 1997). And fourth, strong commitment may bring with it a collectivistic, communal orientation, including tendencies to respond to a partner's needs in a rather unconditional manner. In a committed relationship partners may endure costs or exert effort without counting what they receive in return (cf. Clark &amp; Mills, 1979).</p><p>Consistent with this characterization, commitment level has been shown to be associated with pro-relationship maintenance acts such as (1) tendencies to accommodate rather than retaliate when a partner behaves badly (e.g., Rusbult, Verette,  Whitney, Slovik, &amp; Lipkus, 1991); (2) willingness to sacrifice otherwise desirable activities when a partner's preferences are noncorrespondent (e.g., <ref type="bibr" target="#b30">Van Lange et al., 1997)</ref>; (3) inclinations to drive away or derogate tempting alternative partners (e.g., Johnson &amp; Rusbult, 1989; Miller,   1997); and (4) tendencies toward relation-ship-enhancing illusion (e.g., <ref type="bibr" target="#b17">Martz et al., 1998;</ref><ref type="bibr" target="#b21">Rusbult, Van Lange, Yovetich, Wildschut, &amp; Verette, 1998b)</ref>. In addition, both commitment and commitment-inspired maintenance behaviors have been shown to be associated with couple well-being, operationally defined as (1) tendencies to persist in a relationship and (2) scores on the Dyadic Adjustment Scale <ref type="bibr" target="#b26">(Spanier, 1976)</ref>, a frequently employed index of couple adjustment level (Rusbult, Martz, &amp; Agnew,  2999; Rusbult et al., 1998b; Van Lange et al.,  1997).</p><p>Thus, it seems relatively clear that level of commitment is associated with healthy functioning in ongoing relationships. But is high commitment level invariably a good thing? Following the logic of interdependence theory, we propose that commitment can be a double-edged sword: Although high commitment typically is beneficial to relationships-and although committed involvement is the arena in which many central human needs are gratified-commitment also implies vulnerability. In the following paragraphs we suggest that such vulnerability is reduced to the degree that partners are mutually committed to their relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mutuality of Commitment and Couple Well-Being</head><p>In line with the principles of interdependence theory, mutuality of commitment is defined as the degree to which partners are similarly committed to their relationship. Prior to discussing the effects of this construct, it is important to distinguish mutuality from equity. Both constructs refer to circumstances of "evenness." Equity exists when partners' outcomes from a relationship are perceived to be commensurate with their inputs-when each individual receives outcomes that are judged to be fair in light of each person's inputs (Hatfield,  Traupmann, Sprecher, Utne, &amp; Hay, 1985;  Walster, Berscheid, &amp; Walster, 1976). In contrast, mutuality exists when partners perceive that they need their relationship to the same degree, or perceive that their respective levels of commitment are equivalent.</p><p>Thus, we suggest that mutuality differs from equity in at least two respects: First, mutuality does not involve assessments of inputs and outcomes, nor does it involve judgments of distributive fairness. Accordingly, unlike equity, mutuality presumably is not experienced in terms of fairness or justice-although it may be distressing that when partners need one another differentially, nonmutuality is not necessarily regarded as "unfair." Second, we suggest that nonmutuality is less amenable to change than is inequity. Whereas partners presumably can modify their relative inputs so as to restore conditions of equity (e.g., Mary may decrease her level of housework so as to reduce inequity), it is arguably somewhat more difficult to modify conditions of mutuality (e.g., it may be somewhat difficult to modify commitment level-or satisfaction, alternatives, and/or investments-in such a manner as to shift levels of mutuality).</p><p>We suggest that nonmutuality is detrimental to couple well-being. Why should this be so? If strong commitment is a good thing-if high commitment leads John to persist in his relationship and enact pro-relationship behaviors-then why should Mary's low commitment be problematic? Our reasoning rests on the fact that mutual commitment implies mutual power and mutual vulnerability. When John relies heavily on the many benefits Mary can provide, he becomes vulnerable to exploitation and rejection. When John engages in relationship maintenance acts-for example, if he defends his relationship against the threat of challenging alternatives by burning his bridges and forgoing temptation-the dangers of commitment are further enhanced. John risks losing all that has been invested in the relationship, including not only shared material goods, time, and effort, but also more intangible investments such as shared experiences, a common friendship network, and his sense of identity. All of this may prove to be an empty gesture if Mary fails to reciprocate his commitment.</p><p>Based on this characterization of the associations among commitment, vulnerability, and partner power, we proffer three lines of reasoning in support of the predicted association of mutuality with wellbeing. First, mutuality implies balance of power. Low balance of power creates opportunities for exploitation of one partner by the other. For example, the low-power partner may feel compelled to carry the full burden of accommodation, or to consistently sacrifice personal well-being when partners' preferences are noncorrespondent. In contrast, relationships with high balance of power should exhibit enhanced stability and adjustment, in that balance of power involves checks and balances-restraints on abuse and protection against acts of exploitation. Accordingly, mutuality should enhance couple well-being irrespective of absolute levels of commitment.</p><p>Second, the development of trust rests in part on mutuality <ref type="bibr" target="#b13">(Holmes &amp; Rempel, 1989)</ref>. To the extent that commitment motivates pro-relationship maintenance acts, to the extent that such acts communicate the individual's commitment and enhance the partner's trust, and to the extent that enhanced trust paves the way for risk-taking involving further increases in commitment, mutuality represents the ideal medium for vitality and growth in a relationship (cf. Rusbult, <ref type="bibr">Wieselquist,Foster, &amp; Witcher,in pressb; Wieselquist, Rusbult, Foster, &amp; Agnew, in press)</ref>. "Equal involvement . . . is experienced as a form of insurance, providing some security in the face of mounting risks" (Holmes &amp; Rempel, 1989, p. 195). Thus, mutuality frees the partners to develop increased trust and commitment under conditions of lowest possible vulnerability.</p><p>Third, the emotional experiences accompanying nonmutuality arguably are harmful to couple well-being. The more committed partner in a nonmutual relationship is likely to undergo a mix of negative emotions including anxiety, insecurity, and mistrust. The less committed partner is likely to undergo a mix of negative emotions centering on the experience of unwanted responsibility, including guilt, irritation, and perhaps even resentment or anger. Indeed, the lessdependent partner may feel reproachable, and may experience the self as cold or unloving. This blend of negative emotions is unlikely to be a fertile medium for healthy involvement.</p><p>Does the extant literature provide evidence relevant to our assertions? According to the principle of least interest, "that person is able to dictate the conditions of association whose interest in the continuation of the affair is the least" <ref type="bibr">(Waller, 1938, p. 275)</ref>. Consistent with this proposition, prior research has revealed that in ongoing relationships, the partner with weaker love and commitment tends to be the one with greater power (e.g., <ref type="bibr" target="#b4">Caldwell &amp; Peplau, 1984;</ref><ref type="bibr" target="#b4">Peplau, 1984;</ref><ref type="bibr">Safilios-Rothschild, 1976</ref><ref type="bibr" target="#b27">Sprecher, 1985)</ref>. Also, several studies have demonstrated that the "weaker link" in an ongoing relationship is the partner who is most likely to terminate a relationship (e.g., Attridge, Berscheid, &amp; Simpson,  1995; Drigotas &amp; Rusbult, 1992; Hill, Rubin,  &amp; Peplau, 1976; Rusbult, 1983). Unfortunately, although findings regarding the principle of least interest are compatible with our claims regarding possible reasons for a link between mutuality and couple well-being, research in this tradition has not examined the actual association of mutuality with well-being. Moreover, research regarding the principle of least interest and the weaker-link phenomenon has not examined associations with mutuality while controlling for level of commitment-that is, prior studies have not examined the simultaneous effects of level of commitment and mutuality of commitment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Overview and Hypotheses</head><p>The present research reports findings from two longitudinal studies in which we obtained data from both partners in ongoing romantic relationships. Study 1 used data from a three-wave longitudinal study of dating relationships, and Study 2 used data from three time periods of a six-wave longitudinal study of marital relationships. These data were employed to test two broad hy-potheses. Consistent with the logic outlined earlier, Hypothesis I predicted that both level of commitment and mutuality of commitment would be positively associated with couple well-being, proposing that each variable would account for unique variance in well-being-that is, controlling for variations in level of commitment, we should find that relationships function better to the extent that the partners' levels of commitment are mutual. Hypothesis 2 predicted that the association of mutuality of commitment with couple well-being would at least partially be accounted for by the mediators identified earlier-by balance of power, trust level, and/or the absence of negative affect. The prediction that level of commitment would be positively associated with couple well-being represents a replication of previous research, whereas predictions regarding associations with mutuality of commitment extend previous work, representing the first attempt to (1) study the association of mutuality with couple wellbeing, (2) examine the unique predictive power of mutuality above and beyond level of commitment, and (3) explore possible reasons for an association of mutuality with couple well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 1</head><p>Participants and recruitment. Study 1 participants were 53 couples (53 women, 53 men) who took part in a three-wave longitudinal study of romantic relationships conducted at the University of North Carolina at Chapel Hill (for a full description of the study, see <ref type="bibr" target="#b8">Drigotas, 1993)</ref>. Couples were recruited via a two-stage process: (1) Descriptions of the project were posted on the notice board for the University of North Carolina research participant pool as well as in the campus newspaper; and (2) interested couples contacted the first author to receive additional information about the project and to volunteer for participation. Thirteen couples separated over the course of the study. The sample included 53 cou-14756811, 1999, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j. <ref type="bibr">1475-6811.1999.tb00199.</ref>x by City University Of Hong Kong, Wiley Online Library on [24/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License ples at Time 1,45 couples at Time 2, and 40 couples at Time 3.</p><p>At Time 1, participants were 19.94 years old on average, with about equal numbers from each year in school (17% freshmen, 28% sophomores, 24% juniors, 24% seniors, 8% other). The majority were Caucasian (6% African American, 1% Asian American, 91% Caucasian, 1% Latino, 2% other). At Time 1, participants had been involved for an average of 19.17 months. The majority described their involvements as steady dating relationships (5% dating casually, 10% dating regularly, 74% dating steadily, 11% engaged or married), and most were monogamous (91% said neither partner dated others, 5% said one partner dated others, 5% said both partners dated others).</p><p>Research design and procedure. We obtained data from each couple on three occasions over the course of an academic semester-once every 4 to 5 weeks. At each occasion partners attended sessions during which they completed questionnaires and participated in laboratory tasks relevant to broader project goals. While completing their questionnaires, partners were separated so that they could not view each other's responses. Participants were assured that their responses would remain confidential; no one but the principal investigator and his assistants would view their data, and their partners would never be informed of their responses. At the end of each research occasion couples were partially debriefed, reminded of upcoming activities, paid, and thanked for their assistance. Couples were paid $10 for participation in each research occasion; in addition, individuals who were recruited through the research participant pool received credit toward partial fulfillment of the requirements for introductory psychology courses.</p><p>Questionnaires. The questionnaire administered at Times 1,2, and 3 included instruments to measure level of commitment, mutuality of commitment, trust level, negative affect, and couple well-being (along with other instruments that are irrelevant to the goals of the present research).</p><p>Level of Commitment was measured using five items that have been employed in previous research regarding commitment processes <ref type="bibr" target="#b19">(Rusbult, 1983;</ref><ref type="bibr" target="#b22">Rusbult et al., 1991;</ref><ref type="bibr">e.g.,, "</ref>To what degree do you feel committed to maintaining your relationship?"; 0 = not very committed, 8 = completely committed).2</p><p>Mutuality of Commitment was measured using an instrument developed specifically for the present work. Participants completed four items in response to the question "How do you rate relative to your partner on each of the following dimensions?" (e.g., "Who's more committed to making your relationship last-you or your partner?"; 0 = my partner, 4 = we're equal, 8 = me). High scores for this Relative Commitment Level variable reflect the participant's perception that he or she is more committed than the partner, whereas low scores reflect the participant's perception that the partner is relatively more committed.</p><p>To measure Mutuality of Commitment, participants' scores were "folded" to produce a variable for which higher numbers reflect greater perceived mutuality (i,e., items were coded such that 8 = 0 , 7 = 1, 6 = 2, and 5 = 3). When responses are re-scored in this manner, high scores reflect strong perceived mutuality ("We're equally committed"), whereas low scores reflect perceived nonmutuality (either "My part-2. Our theoretical and operational definitions of commitment treat this variable as a global, unitary construct. It should be noted that in contrast to the present approach, M. Johnson has argued for the existence of three distinct types of commitment-personal commitment, structural commitment, and moral commitment (M. Johnson, 1991).</p><p>In some respects, the differences between M. ner is more committed" or "I am more Study2 committed"). Thus, the Mutuality of Commitment variable reflects degree of perceived mutuality independent of commitment level: High mutuality scores reflect belief that the self and partner are equally committed, irrespective of whether the two are highly committed or not at all committed; low mutuality scores reflect belief that either the self is more committed than the partner or the partner is more committed than the self.</p><p>Trust Level was measured using a 12-item instrument including the four most reliable items from the predictability, dependability, and faith subscales of the <ref type="bibr" target="#b18">Rempel, Holmes, and Zanna (1985)</ref> relationship-specific trust measure (see reliability coefficients in <ref type="bibr" target="#b18">Rempel et al., 1985;</ref><ref type="bibr" target="#b30">p.</ref> 103; e.g., "Though times may change and the future is uncertain, I know my partner will always be ready and willing to offer me strength and support"; 0 = agree not at a11,8 = agree completely).</p><p>NegativeAffect was measured using a 27item instrument. Participants reported the frequency with which they experienced each of 27 emotions in their relationship, including 15 negative emotions (e.g., "fearful," "rejected," "jealous"; 0 = never, 8 = very often).</p><p>Couple Well-Being was measured using a version of <ref type="bibr" target="#b26">Spanier's (1976)</ref> Dyadic Adjustment Scale, which is suitable for dating relationships. Given the breadth of items tapped by the scale, it is not surprising that some items overlap with the features of interdependence examined in the present work. All analyses reported below employ a 28-item commitment-purged measure of couple well-being (i-e., we dropped four items, such as "How often do you discuss or have you considered divorce, separation, or terminating your relationship?"). This measure assesses such qualities as intimacy (e.g., "DO you confide in your mate?"), agreement (e.g., "Do you agree about making major decisions?"), effective problem solving (e.g., "How often do you calmly discuss something?"), and shared activities (e.g., "Do you and your mate engage in outside interests together?").</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and recruitment.</head><p>Study 2 participants were 65 couples (65 women, 65 men) who took part in Times 1,3, and 5 of a six-wave longitudinal study of marital relationships (for a full description of the study, see Rusbult, Bissonnette, Arriaga, &amp;  Cox, 1998a). Couples were recruited via a three-stage process: (1) over a 3-year period we located 230 couples who applied for marriage licenses at the local county courthouse;</p><p>(2) research assistants telephoned couples to determine whether they wished to receive project information (interested couples were mailed such information); and</p><p>(3) the principal investigator telephoned couples to solicit their participation. One hundred sixty-five couples agreed to participate, for a volunteer rate of 72% (165 out of a sampling population of 230); 123 couples completed Time 1 activities, for a participation rate of 75% (123 out of 165). The analyses reported herein are based on the first 65 couples to complete research activities at Times 1,3, and 5 (relevant constructs were measured at these research occasions).</p><p>At Time 1, participants were 31.78 years old on average. All participants had completed high school, 76% had bachelor's degrees, and 32% had graduate degrees. Participants' personal annual salary was about $25,000. The majority were Caucasian (2% African American, 3% Asian American, 95% Caucasian). Sixty-three percent were Protestant, 18% were Catholic, 13% were Jewish, and 6% had other religious or nonreligious affiliations (e.g., Buddhist, atheist). At Time 1, participants had been married for about 8 months.</p><p>Research design and procedure. The project was a six-wave lagged longitudinal study: Couples began participating at different times but engaged in parallel activities at a parallel pace, completing research activities at approximately 6-month intervals. At Times 1, 3, and 5, partners were mailed copies of questionnaires; completed questionnaires were returned via the mail.</p><p>Partners were asked to complete their questionnaires independently. At Times 2, 4, and 6, partners participated in laboratory sessions during which they completed questionnaires and participated in laboratory tasks relevant to broader project goals. Participants were assured that their responses would remain confidential; no one but the principal investigator and her assistants would view their data, and their partners would never be informed of their responses. At the end of each research occasion, couples were partially debriefed, reminded of upcoming activities, compensated, and thanked for their assistance. At the outset of the project, we paid couples $15 for mailed questionnaires and $25 for laboratory sessions; midway into the project we increased rates to $25 for mailed questionnaires and $40 for laboratory sessions.</p><p>Questionnaires. The questionnaire administered at Times 1,3, and 5 included instruments to measure level of commitment, mutuality of commitment, mutuality of power, and couple well-being (along with other instruments that are irrelevant to the goals of the present research); at Times 3 and 5 the questionnaire also measured trust level. Questionnaire items paralleled those employed in Study 1, except that Study 1 items were worded in a manner appropriate for dating relationships, whereas Study 2 items were worded in a manner appropriate for marital relationships. As in Study 1, five items measured Level of Commitment and four items measured Mutuality of Commitment (as well as Relative Commitment Level). The instrument assessing Mutuality of Commitment also included four items to measure Mutuality of Power (as well as Relative Power Level; e.g., "Who more often gets hidher way in deciding how to spend your free time?"; 0 = my partner, 4 = we're equal, 8 = me). Following our procedure for measuring Mutuality of Commitment, the Relative Power items were "folded" to yield scores for which higher numbers reflect greater perceived mutuality. Trust Level was measured using the 12-item instrument employed in Study 1. Couple Well-Being was measured using the standard Dyadic Adjustment Scale, which is suitable for marital relationships. As in Study 1, given that some scale items overlap with the features of interdependence examined in the present research, all analyses employ a commitment-purged measure of couple wellbeing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reliability and validity of measures</head><p>We performed reliability analyses to assess the internal consistency of items intended to measure each construct. These analyses revealed acceptable coefficients for items tapping Level of Commitment (for Study 1, .64, .59, .67). Therefore, separately for each partner at each research occasion, we developed a single measure of each construct-the sum of relevant items for Couple Well-Being, the average of relevant items for all other constructs.</p><p>We also calculated test-retest correlations for each variable. These analyses revealed good consistency between earlier and later measures for Level of Commitment (for Studies 1 and 2, average test-retest rs = .81 and .72), Mutuality of Commitment (average rs = .81 and .54), Couple Well-Being (average rs = .81 and .75), Trust Level (average rs = .72 and .75), Mutuality of Power (Study 2 average r = .54), and Negative Affect (Study 1 average r = $0, all ps &lt; .01). Thus, our measures exhibited good consistency over time.</p><p>To evaluate the validity of our measures we calculated within-couple correlations of male and female partners' reports of Cou-ple Well-Being, Relative Commitment Level, and Relative Power Level. Male and female partners' reports of Couple Well-Being were in moderate agreement (for Studies 1 and 2, average rs = .42 and .65, all p s &lt; .01). Also, partners exhibited moderate agreement in their reports of Relative Commitment Level (using unfolded mutuality measures; average rs = -.54 and -.43, allps &lt; .01). That is, if the husband reported that he was more committed than his wife, the wife tended to report that she was less committed than her husband. These results demonstrate that partners perceive differences in their levels of commitment, and tend to agree in their perception of such differences. Parallel findings were observed for the Study 2 measures of Relative Power Level (using unfolded mutuality measures;</p><p>for Study 2, average r = -.60, all ps &lt; .01).</p><p>To examine the validity of our measures of perceived mutuality further, we developed a coupled-level measure of Discrepancy in Commitment-the absolute value of the difference between the self-reported Levels of Commitment by both the male and female. Discrepancy in Commitment was negatively correlated with the average of the partners' reports of Mutuality of Commitment (for Studies 1 and 2, rs = -.35 and -.27), as well as with the male partner's (rs = -.27 and -.28) and female partner's reports of Mutuality of Commitment (rs = -.30 and -.16, all p s &lt; .05).</p><p>That is, perceived mutuality is related to the actual discrepancy between partners' commitment levels. We also calculated Male-Female Commitment-the signed difference between the male's and female's Levels of Commitment. Male-Female Commitment was negatively correlated with the female's report of Relative Commitment Level (0 = partner is more committed, 8 = I am more committed; rs = -.41 and -.27), and was positively correlated with the male's report of Relative Commitment Level (rs = .55 and .36, all p s &lt; .05). That is, male and female partners' perceptions of their relative commitment levels are related to the actual discrepancy between male and female partners' com-mitment levels. These analyses provide good support for the validity of our mutuality measures. There is some subjectivity and error in perception; the above-reported statistics account for less than 100% of the variance. At the same time, the observed links among measures suggest that participants' perceptions of mutuality and relative commitment level to some degree reflect real circumstances of interdependence.</p><p>Across-partner correlations for other variables are not relevant to assessing measure validity, in that these qualities logically can differ for the partners in a given relationship. For example, if male and female partners' levels of commitment were uncorrelated, this could be because partners' feelings of commitment frequently differ. Nevertheless, in light of the assertion that mutuality promotes couple well-being, we were gratified to discover that, on average, partners tended to exhibit some degree of mutuality-male and female partners exhibited similar reports of Level of Commitment (for Studies 1 and 2, average rs = .65 and .60), Trust Level (average rs = .40 and .57, all ps &lt; .Ol), and Negative Affect (for Study 1, average r = .40, all p s &lt; .01).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis strategy</head><p>We used a two-step analysis strategy to estimate effect sizes and significance levels in a series of simultaneous regression analyses (A. Aron and N. Bolger, personal communication, June 29,1998; for a full description of this strategy, see Drigotas, Rusbult, Wieselquist, &amp; Whitton, in press). In Step 1 we calculated the proportion of variance accounted for by each predictor variable (Step 1 Effect SS + Step 1 Total SS). All</p><p>Step 1 analyses included main effects of Time and Sex, the Time by Sex interaction, and all two-and three-factor interactions of Time and Sex with each predictor variable. Given that the data from male and female partners at multiple research occasions are nonindependent, the error terms in Step 1 analyses are inappropriate (i.e., they are based on pooled nonindependent data) and the degrees of freedom are inflated (e.g., the df reflect observations from males and females on multiple research occasions).</p><p>In Step 2 we replicated the Step 1 analyses separately for male and female partners at each research occasion. We used the median of the Step 2 error terms (and the associated d f ) for use in calculating signifi-cance levels for Step 1 effects (e.g., out of six rank-ordered Step 2 error terms, we used the average of the third-and fourthhighest terms). Based on the results of the Step 1 and Step 2 analyses, we calculated Fs using the following equation:</p><formula xml:id="formula_0">(Step 1 Effect SS + Step 1 Total SS) (1 -[Step 2 Model SSeStep 2 Total SS])</formula><p>Step 1 Denominator Effect df</p><p>Step 2 Numerator Effect df</p><p>To report ts for predictors, we calculated the (signed) square-root of the F for each effect. Given that our analysis strategy is relatively conservative-and in light of the fact that we advanced a priori hypotheses regarding the associations among variables-we report one-tailed significance tests.</p><p>Note that the logic underlying our calculations parallels the logic underlying traditional procedures for calculating effect sizes and significance levels. The ts obtained using this procedure are very close-albeit slightly weaker-than those obtained by averaging the ts from the individual Step 2 analyses. In all instances, the significance versus nonsignificance of the obtained t was identical to the significance versus nonsignificance of the average t from the individual Step 2 analyses.</p><p>Table <ref type="table" target="#tab_1">1</ref> summarizes findings from concurrent and residualized lagged analyses examining the simultaneous associations of Level of Commitment and Mutuality of Commitment with Couple Well-Being. Table 2 summarizes findings from concurrent mediation analyses (Baron &amp; Kenny, 1986; see statistics for "Model 2"). To facilitate interpretation of regression results (see Table 2 statistics under "Regression Analysis"), we also present the simple association of each predictor with the criterion (see Table 2 statistics under "Simple Association"). The "simple association" reflects the association of a predictor with the criterion in an analysis that takes account of variance attributable to Time, Sex, and interactions with Time and Sex. We present this type of simple association rather than a correlation coefficient because this type of association parallels the regression results, and accordingly represents a suitable "univariate" baseline for interpreting regression results (i.e., all statistics are from analyses, including main effects and interactions for Time and Sex). No effects involving Time or Sex were significant, so these variables will not be discussed in the following summary of our findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concurrent associations of Level of Commitment and Mutuality of Commitment with Couple Well-Being</head><p>First, we performed concurrent regression analyses (see  women's rs = .05 and -.02). Thus, it does not seem to matter whether the male or female partner is perceived to be more highly committed to the relationship-mutuality versus nonmutuality per se accounts for the findings displayed in Table <ref type="table" target="#tab_1">1</ref>.  <ref type="bibr">.16</ref>). These results increase confidence in the validity of the earlier-reported concurrent findings: Although it is possible that transitory mood states or self-report bias might partially account for the concurrent associations among variables, such a spurious association becomes less probable in lagged analyses.</p><p>Next we performed residualized lagged analyses, regressing Later Couple Well-Being onto Earlier Couple Well-Being, Earlier Level of Commitment, and Earlier Mutuality of Commitment (along with all relevant upper-level variables). These analyses evaluate the ability of earlier predictor variables to account for variance in Later Couple Well-Being controlling for Earlier Couple Well-Being-that is, these analyses examine the ability of earlier predictors to account for change over time in Couple Well-Being. Inconsistent with Hypothesis 1, the coefficients for Earlier Level of Commitment and Earlier Mutuality of Commitment declined to nonsignificance. It seems plausible that our predictors were not reliably associated with change over time in Couple Well-Being because there was insufficient change in this criterion-the simple link between earlier and later measures of Well-Being accounted for 66% of the variance in Study 1 and 59% of the variance in Study 2. Once the associations of Earlier Couple Well-Being with Later Couple Well-Being were accounted for, there was simply too little variance remaining to observe reliable associations with other predictors.</p><p>As in the concurrent analyses, we performed exploratory analyses to determine whether Earlier Level of Commitment and Earlier Mutuality of Commitment interacted in affecting Later Couple Well-Being. When we regressed Later Couple Well-Being simultaneously onto Earlier Couple Well-Being, Earlier Level of Commitment, Earlier Mutuality of Commitment, and the interaction of Earlier Level with Earlier Mutuality (the multiplicative product), we found that the interaction of Earlier Level of Commitment with Earlier Mutuality of Commitment was nonsignificant in both Study 1 and Study 2. Again, the association of perceived Mutuality of Commitment with Couple Well-Being does not appear to differ as a function of low versus high Level of Commitment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concurrent mediation of associations with Mutuality of Commitment</head><p>We performed mediation analyses to examine the role of Trust, Negative Affect, and Mutuality of Power in mediating the association of Mutuality of Commitment with Couple Well-Being (cf. Baron &amp; Kenny,  1986). Given that the associations of Level of Commitment and Mutuality of Commitment with Couple Well-Being were nonsignificant in the residualized lagged analyses, we performed concurrent mediation analyses. Our data by and large met the preconditions for assessing mediation: In addition to the associations displayed in Table <ref type="table" target="#tab_1">1</ref>, (1) Mutuality of Commitment was associated with Trust Level, Negative Affect, and Mutuality of Power, and (2) Couple Well-Being was associated with Trust Level, Negative Affect, and Mutuality of Power (the latter association was marginal). Each mediation analysis included three predictor variables-Level of Commitment, Mutuality of Commitment, and one of three potential mediators. To the extent that a given mediator accounts for the association of Mutuality with Couple Well-Being, when the mediator is included in a regression analysis along with Mutuality, the coefficient for Mutuality should decline substantially.</p><p>We also adopted a second and related means of assessing mediation-a technique that involved model comparison procedures (cf. <ref type="bibr" target="#b7">Cramer, 1972)</ref>. To examine directly the variance attributable to Mutuality of Commitment above and beyond each potential mediator, we compared the variance in Couple Well-Being accounted for by (a) a regression model including just one predictor-a given potential mediator (along with Time, Sex, and with these variables), to (b) a regression model including two predictors-Mutuality of Commitment and the potential mediator (along with Time, Sex, and interactions with these variables). If the model including (b), the potential mediator and Mutuality of Commitment, does not account for substantially greater variance than (a), the model including only the potential mediator, then we can feel confident that any association of Mutuality with Couple Well-Being is largely attributable to the mediator.</p><p>The analyses assessing mediation by Trust Level revealed that in both Study 1 and Study 2, when we included Trust Level as a predictor variable along with Level of Commitment and Mutuality of Commitment, coefficient for Trust Level tended to remain relatively strong (betas = .55 and S S ) , whereas coefficients for Mutuality of Commitment declined substantially (betas = .15 and -.06). (In Study 1, the coefficient for Level of Commitment also declined substantially [beta = .13].) In addition, when we compared the variance accounted for by a model including both Mutuality and Trust as predictors (R2s for Studies 1 and 2 = .51 and .64) to the variance accounted for by Trust as a single predictor (R2s = .47 and .64), the model including Trust alone was only slightly inferior in Study 1 (discrepancy in explained variance = 4%; F [l, 521 = 4 . 2 4 , ~ &lt; .05) and was not significantly inferior in Study 2 (discrepancy in explained variance = 0%; F [l, 641 = 0.00, ns). That is, Mutuality of Commitment did not tend to account for substantial unique variance above and beyond Trust Level. These findings provide relatively good evidence for mediation by Trust, and are compatible with the claim that Trust rather thoroughly mediates the observed association of Mutuality with Couple Well-Being.</p><p>When we included Negative Affect as a predictor variable along with Level of Commitment and Mutuality of Commitment, the coefficient for Negative Affect remained strong (beta = -.56), whereas the coefficient for Mutuality of Commitment declined substantially (beta = .13). In addition, when we compared the variance accounted for by a model including both Mutuality and Negative Affect (R2 = .49) to the variance accounted for by Negative Affect as a single predictor (R2 = .45), the model including Negative Affect alone was only slightly inferior (discrepancy in explained variance = 6%; F [l, 521 = 4 . 0 8 , ~ &lt; .OS). That is, Mutuality of Commitment accounted for only a small amount of unique variance beyond Negative Affect. These findings provide moderate evidence for mediation by Negative Affect, and they are compatible with the claim that Negative Affect partially mediates the observed association of Mutuality with Couple Well-Being.</p><p>When we included Mutuality of Power as a predictor variable along with Level of Commitment and Mutuality of Commitment, the coefficient for Mutuality of Commitment declined substantially (beta = .03); however, the coefficient for Mutuality of Power also declined to nonsignificance (beta = .12). Moreover, when we compared the variance accounted for by a model including both Mutuality of Commitment and Mutuality of Power (R2 = .14) to the variance accounted for by Mutuality of Power as a single lower-level predictar (R2 = .06), the latter model was significantly inferior (discrepancy in explained variance = 8%; F [l, 641 = 5.95, p &lt; .05). These findings provide little evidence for mediation by Mutuality if Power-the variance uniquely attributable to Mutuality of Power was weak at best, and Mutuality of Commitment accounted for significant unique variance beyond Mutuality of Power.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Associations of level of commitment and mutuality of commitment with couple well-being mutuality with couple well-being does not differ depending on whether the male or female partner is more committed (see note 4 supra). These findings are compatible with the assertion that the ideal pattern of -Earlier, we advanced several propositions about commitment, need, vulnerability. We noted that committed involvement is the context in which many important needs are gratified, and we suggested that high commitment typically is beneficial to relationships. We also argued that despite the many benefits of high commitment, commitment also implies vulnerability. We proposed that such vulnerability is reduced to the degree that partners are mutually committed to their relationship. The results of two longitudinal studies revealed moderately good support for this characterization of the benefits and perils of commitment.</p><p>In both dating relationships and marital relationships, we observed good concurrent support for Hypothesis 1: Both level of commitment and perceived mutuality of commitment are associated with healthy functioning in relationships. Moreover, each variable accounts for unique variance in couple well-being-the benefits of perceived mutuality are not attributable to any confounding of mutuality with level of commitment, and the benefits of level of commitment are not attributable to any confounding of level with perceived mutuality. Arguably, these findings are relatively general, applying to diverse forms of wellbeing-simple associations of mutuality with couple well-being were evident for all four subscales of the Dyadic Adjustment Scale <ref type="bibr" target="#b26">(Spanier, 1976</ref>; see note 3 supra).</p><p>In addition, auxiliary analyses revealed no evidence of interactions of perceived mutuality with level of commitment. That is, the association of perceived mutuality with couple well-being does not appear to differ depending on whether commitment level is low or high. In addition, the association of perceived mutuality with couple well-being does not differ for women and men or as a function of time, and auxiliary analyses revealed that the association of perceived involvement in an ongoing relationship is one in which partners make themselves fully-yet equally-dependent upon and committed to one another.</p><p>We also tested our hypotheses in lagged analyses. The simple lagged associations of level of commitment and mutuality of commitment with couple well-being were significant or marginal in both studies. These findings provide some support for the validity of the concurrent findings: Whereas it could be argued that finding from the concurrent analyses might have been an artifactual product of temporary mood states or self-report bias, parallel findings from lagged analyses presumably are less prone to such bias, particularly if one accepts the seemingly plausible assertion that there is some degree of day-to-day variation in mood and self-report tendencies. However, residualized lagged analyses did not support our hypotheses. Presumably, effects in these analyses were nonsignificant because there was insufficient change over time in couple well-being (earlier well-being accounted for about 60% of the variance in later well-being). Once associations with earlier well-being were accounted for, there may have been insufficient variance remaining in couple well-being (i.e., in residualized well-being) to observe reliable associations with other predictor variables.</p><p>To what degree is perceived mutuality of commitment illusory rather than "real"? From the point of view of the social constructionist perspective, one could speculate that perceived mutuality might bear only a weak relation to the reality of partners' respective commitment levels (cf. Gergen, 1985). Accordingly, we were pleased to discover relatively good evidence that partners' perceptions of relative commitment level to a considerable degree are congruent with partners' actual commitment levels: Partners exhibit moderate 14756811, 1999, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j. <ref type="bibr">1475-6811.1999.tb00199.</ref>x by City University Of Hong Kong, Wiley Online Library on [24/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License agreement in descriptions of their relative commitment levels, and partners' reports of relative commitment level are in agreement with the actual discrepancy between their respective levels of commitment. Thus, although it is easy to imagine that perceptions of mutuality and relative commitment level might be substantially colored by personal experiences that are largely irrelevant to the realities of an ongoing relationship (e.g., self-esteem, attachment style), it appears that our results to a considerable degree reflect actual levels of commitment. These findings suggest that individuals are reasonably in touch with circumstances of interdependence in their relationships-that is, these findings are compatible with the interdependence theory assumption that interdependence structure to some degree is "real," and therefore perceivable by both partners in ongoing relationships.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mediation of the association of mutuality of Commitment with couple well-being</head><p>What accounts for the association of mutuality of commitment with couple well-being? We advanced and tested three possible lines of reasoning to explain such a relationship. First, we suggested that mutuality of commitment may be beneficial because mutuality represents balance of power. Following the logic of interdependence theory, we suggested that an individual's power over his or her partner to some degree reflects the strength of the partner's commitment. When power is imbalanced (i.e., when commitment is imbalanced), there are opportunities for the exploitation of one partner by another. Balance of power involves checks and balances-restraints on abuse and protection against exploitation. Consistent with this line of reasoning, we found that mutuality of power was positively associated with mutuality of commitment. Also, when we included mutuality of power as a predictor variable along with level of commitment and mutuality of commitment, the coefficient for mutuality of commitment declined substantially. At the same time, the variance in couple well-being uniquely attributable to mutuality of power was quite weak, and mutuality of commitment accounted for significant unique variance above and beyond mutuality of power. Thus, mutuality of power does not appear to be a powerful mediator of the link between mutuality of commitment and couple well-being.</p><p>A second possible explanation for the association of mutuality of commitment with couple well-being emphasized the affective consequences of nonmutuality. We suggested that conditions of nonmutuality are unlikely to be emotionally comfortable for either the less committed partner or the more committed partner. Individuals who feel more committed than do their partners may experience emotions such as anxiety, insecurity, or mistrust. Individuals who feel less committed than their partners may experience unwanted responsibility, guilt, or resentment. We argued that this blend of negative emotions is unlikely to be a fertile medium for healthy involvement. Consistent with this line of reasoning, we found that negative affect was negatively associated with mutuality of commitment. Also, when we included negative affect as a predictor variable along with level of commitment and mutuality of commitment, the coefficient for mutuality of commitment declined substantially. Moreover, mutuality of commitment accounted for only a small amount of unique variance beyond variance attributable to negative affect. These findings are compatible with the claim that negative affect partially mediates the association of mutuality of commitment with couple well-being.</p><p>A third explanation for the association of mutuality of commitment with couple well-being emphasized the link between mutuality and trust. We suggested that trust more readily emerges in relationships, involving mutual commitment, in that in mutually committed relationships, both partners engage in costly or effortful maintenance acts, both partners demonstrate their pro-relationship goals, and both partners can engage in such behavior under conditions of lowest possible risk. Mutual commitment arguably is a "safe"pattern of involvement-mutual commitment reduces the risks and vulnerabilities of commitment, thereby paving the way for prorelationship acts. Consistent with this line of reasoning, trust level was positively associated with mutuality of commitment, and when we included trust as a predictor variable along with level of commitment and mutuality of commitment, the coefficient for mutuality of commitment declined substantially. Moreover, mutuality of commitment accounted for only a small amount of unique variance (Study 1) or nonsignificant unique variance (Study 2) beyond variance attributable to level of trust. Thus, it appears that trust level partially to wholly mediates the association of mutuality of commitment with couple wellbeing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Broader implications of the present findings</head><p>Our findings regarding mediation by levels of trust are compatible with recent work concerning the emergence and maintenance of trust. <ref type="bibr" target="#b13">Holmes and Rempel (1989)</ref> propose that trust emerges as a consequence of observing a partner engage in pro-relationship acts in "diagnostic situations"-in situations wherein personal well-being is pitted against relationship well-being. Given that high commitment promotes pro-relationship acts, it follows that trust can be construed as an implicit gauge of the strength of a partner's commitment. Accordingly-and as noted abovemutuality of commitment should reduce the risks and vulnerabilities of commitment, thereby paving the way for pro-relationship acts. Indeed, recent research has demonstrated that (a) individual pro-relationship acts such as accommodation and willingness to sacrifice promote partner trust; (b) trust is associated with the partner's perception of the individual's commitment level and with the individual's self-reported commitment level; and (c) both commitment and trust are positively associ-ated with a couple's well-being <ref type="bibr">(Wieselquist et al., in press)</ref>. (We speculate that this "mutual cyclical growth" process may explain the fact that in Study 1, when we included Trust as a predictor variable along with level of commitment and mutuality of commitment, the coefficients for mutuality of commitment and level of commitment declined substantially. Why this effect was evident in Study 1 but not in Study 2 remains nuclear.) Future research should seek to integrate the present analysis with this broader account of the associations among pro-relationship acts, commitment level, trust level, and couple well-being.</p><p>Much of the existing research regarding healthy functioning in ongoing relationships has examined equity issues, arguing that adherence to justice rules promotes couple well-being (e.g., <ref type="bibr" target="#b10">Hatfield et al., 1985;</ref><ref type="bibr" target="#b28">Sprecher, 1986)</ref>. Earlier, we distinguished between the concepts of equity and mutuality: In contrast to existing conceptualizations of equity, the mutuality of commitment construct does not rest on assessments of inputs in relation to outcomes, nor does it involve judgments of distributive fairness. We acknowledge that adherence to justice rules may well yield long-term benefits for close partners. At the same time, we suspect that achieving conditions of equity will not in itself promote well-being by couples. From the point of view of equity theory, partners who are equally uninvolved should enjoy relationships that are as well-adjusted as those of partners who are equally involved.</p><p>In contrast, our interdependence-based analysis suggests that a couple's well-being rests on (at least) two criteria: (a) level of commitment, which provides the impetus for the types of pro-relationship acts that are essential to healthy couple functioning (e.g., sacrifice, accommodation); and (b) mutuality of commitment, which reduces the dangers of high commitment, providing a safe environment in which to engage in such departures from self-interest. Thus, we suspect that couple well-being rests on considerations other than justice per se-considerations encompassing genuine concern for the well-being of a relationship, as embodied in motives such as commitment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study strengths and limitations</head><p>Prior to closing, we should comment on the major strengths and limitations of this work. The major limitation of this research centers on our reliance on self-report data. At the same time, it is important to recognize that our measures arguably reflect actual circumstances of interdependence, in that (a) partners in the present work exhibited parallel levels of perceived mutuality of commitment, and their reports of mutuality reflected the actual discrepancy between partners' reported commitment levels; and (b) parallel measures of commitment level have been shown to be associated with behavioral indices of accommodative behavior, willingness to sacrifice, and voluntary persistence (e.g., <ref type="bibr" target="#b22">Rusbult, Martz, &amp; Agnew, 1999;</ref><ref type="bibr" target="#b22">Rusbult et al., 1991;</ref><ref type="bibr" target="#b30">Van Lange et al., 1997)</ref>. Also, the measures employed in the present work exhibited good test-retest reliability and across-partner consistency. More generally, it is important to ask how one could measure inherently subjective constructs such as commitment other than via self-report. Thus, although we recognize the desirability of using behavioral measurement to augment self-report measures, self-report methods arguably were a suitable means of measuring key constructs in the present work.</p><p>A second limitation of the present research centers on the fact that our findings are inherently correlational. Accordingly, it would be inappropriate to assume that level of commitment and mutuality of commitment cause changes in couple well-being. It is equally plausible that couple well-being causes changes in level of commitment and/or mutuality of commitment. Indeed, in previous work we have argued for a model of "mutual cyclical growth," wherein (a) variables represented as "effects" may feed back on and influence variables represented as "causes," and (b) variables for one individual may influence variables for the partner <ref type="bibr" target="#b30">(Van Lange et al., 1997)</ref>. For exam-ple, increases over time in level of commitment may cause increases in couple well-being; in turn, increases in couple well-being may enhance the individual's willingness to become dependent on the partner, thereby strengthening level of commitment. And for example, increases over time in the individual's own level of commitment may cause increases in partner's trust level; in turn, increases in a partner's trust may enhance the partner's willingness to become dependent, thereby strengthening the partner's own level of commitment and enhancing mutuality of commitment. As noted earlier, in recent work we have employed a model of mutual cyclical growth to examine the associations among dependence, commitment level, pro-relationship behavior, trust level, and couple well-being <ref type="bibr">(Wieselquist et al., in press)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Much of the existing literature regarding close relationships is inherently individualfocused. For example, prior research has examined how individual values, traits, affect, and cognition affect behavior in intimate involvements (for reviews, see Berscheid,  1994; Berscheid &amp; Reis, 1998). The present work is relationship-focused, in that it examined the implications of the relationship between partners for understanding matters of dependence and vulnerability. Our results are compatible with the characterization of commitment as double-edged sword: Although commitment yields benefits for relationships and for individual partners, commitment involves risk-risk that to some degree is reduced to the degree that partners are mutually committed. Thus, although it is well and good that partners commit themselves to one another "for better or worse, for richer or poorer, in sickness and in health"-although few relationships can persist and thrive in the absence of strong commitment-it is equally important that partners exhibit commensurate levels of commitment. When one person's commitment is substantially greater than (or lower than) that of his or her partner,</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>a</head><label></label><figDesc>at Times 1, 2, and 3 = .84, .85, .91; for Study 2, a at Times 1,3,and 5 = .73, .81, .83), Mutuality of Commitment (Study 1 a = .72, .74, .88; Study 2 a = .69, .57, .71), and Couple Well-Being (Study 1 a = .91, .92, .94; Study 2 a = 236,239, .90). Reliability coefficients were also acceptable for the potential mediators: Trust Level (Study 1 a = .90, .90, .90; Study 2 a at Times 3 and 5 = 90, .93), Negative Affect (Study 1 a = .95, .95, .93), and Mutuality of Power (Study 2 c1 =</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc></figDesc><table><row><cell>, "Concurrent Analy-</cell></row><row><cell>ses"). Consistent with expectations, in both</cell></row><row><cell>Study 1 and Study 2 the simple concurrent</cell></row><row><cell>association with Couple Well-Being was</cell></row><row><cell>significant for both Level of Commitment</cell></row><row><cell>(see Table 1 statistics under "Simple Asso-</cell></row><row><cell>ciation"; betas = S O and .54) and Mutuality</cell></row><row><cell>of Commitment (betas = .47 and .27).3And</cell></row><row><cell>3. Are the associations of level of commitment and</cell></row><row><cell>mutuality of commitment with well-being evident</cell></row><row><cell>for diverse forms of couple well-being? We calcu-</cell></row><row><cell>lated the four subscales of the Dyadic Adjustment</cell></row><row><cell>Scale (Spanier, 1976)-Dyadic Consensus, Affec-</cell></row><row><cell>tive Expression, Dyadic Satisfaction, and Dyadic</cell></row><row><cell>Cohesion-and examined the simple correlations</cell></row><row><cell>of each predictor with each subscale. Level of Com-</cell></row><row><cell>mitment was significantly correlated with all four</cell></row><row><cell>subscales in both studies (rs ranged from .26 to .67,</cell></row><row><cell>all p s &lt; .Ol); similarly, Mutuality of Commitment</cell></row></table><note><p>was significantly correlated with all four subscales in both studies (n ranged from .19 to .55, all p s &lt; .01). Thus, the associations of Level of Commitment and Mutuality of Commitment with Couple Well-Being appear to be relatively general, applying to diverse forms of well-being.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>Regression analyses predicting Couple Well-Being from Level of Commitment and Mutuality of Commitment: Studies I and 2</figDesc><table><row><cell></cell><cell cols="2">Simple Association</cell><cell cols="2">Regression Analysis</cell><cell></cell></row><row><cell></cell><cell>Beta</cell><cell>t</cell><cell>Beta</cell><cell>t</cell><cell>R=</cell></row><row><cell></cell><cell cols="2">Concurrent Analyses</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Couple Well-Being From</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Study 1 Level of Commitment</cell><cell>so**</cell><cell>3.47**</cell><cell>.38**</cell><cell>2.51**</cell><cell>.37**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.47**</cell><cell>3.25**</cell><cell>.30*</cell><cell>1.93*</cell><cell></cell></row><row><cell>Study 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level of Commitment</cell><cell>.54**</cell><cell>4.42**</cell><cell>.51**</cell><cell>3.83**</cell><cell>.35**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.27*</cell><cell>1.9.5*</cell><cell>.17+</cell><cell>1.36+</cell><cell></cell></row><row><cell cols="3">Residualized Lagged Analyses</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Later Couple Well-Being From</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Study 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Earlier Level of Commitment</cell><cell>.41**</cell><cell>2.77**</cell><cell>.06</cell><cell>0.59</cell><cell>.70**</cell></row><row><cell>Earlier Mutuality of Commitment</cell><cell>.46**</cell><cell>3.10**</cell><cell>.05</cell><cell>0.47</cell><cell></cell></row><row><cell>Earlier Dyadic Adjustment</cell><cell>.81**</cell><cell>9.02**</cell><cell>.77**</cell><cell>6.94**</cell><cell></cell></row><row><cell>Study 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Earlier Level of Commitment</cell><cell>.49**</cell><cell>3.97**</cell><cell>.09</cell><cell>1.25</cell><cell>.62**</cell></row><row><cell>Earlier Mutuality of Commitment</cell><cell>.16+</cell><cell>1.31+</cell><cell>-.08</cell><cell>-1.26</cell><cell></cell></row><row><cell>Earlier Dyadic Adjustment</cell><cell>.77**</cell><cell>8.32**</cell><cell>.77**</cell><cell>10.74**</cell><cell></cell></row><row><cell cols="2">consistent with Hypothesis 1, when we re-</cell><cell cols="4">couple functioning when the male is more commit-</cell></row><row><cell cols="2">gressed Couple Well-Being simultaneously</cell><cell cols="4">ted than when the female is more committed? To</cell></row><row><cell cols="2">onto both predictor variables, significant or</cell><cell cols="4">address this question we calculated the simple cor-</cell></row><row><cell cols="2">marginal associations with Couple Well-Be-ing were evident for both Level of Commit-ment (see Table 1 statistics under "Regres-</cell><cell cols="4">relations of Couple Well-Being with Relative Com-mitment Level separately for male and female part-ners. Recall that Relative Commitment Level represents each partner's perception of who is</cell></row><row><cell cols="2">sion Analysis"; betas = .38 and S1) and</cell><cell cols="4">more committed to the relationship (0 = partner is</cell></row><row><cell cols="2">Mutuality of Commitment (betas = .30 and</cell><cell cols="4">more committed, 8 = I am more committed). In</cell></row><row><cell cols="2">.17). Thus, high perceived Mutuality of Commitment is fairly reliably predictive of concurrent Couple Well-Being even when</cell><cell cols="4">within-participant analyses, Relative Commitment Level was not significantly correlated with Couple Well-Being in either Study 1 or Study 2 (men's rs = .02 and .05, women's rs = -.04 and -.07). In par-</cell></row><row><cell cols="2">we control for Level of Commitment; high</cell><cell cols="4">allel manner, within-couple correlations revealed</cell></row><row><cell cols="2">commitment level is reliably predictive of</cell><cell cols="4">that the individual's report of Relative Commit-</cell></row><row><cell cols="2">Couple Well-Being even when we control for the perceived mutuality of partners' commitment?</cell><cell cols="4">ment Level was not significantly correlated with the partner's report of Couple Well-Being in either Study 1 or Study 2 (men's rs</cell></row></table><note><p><p><p>Note: All analyses included Time, Sex, Time by Sex, and all two-and three-factor interactions of Time and Sex with each predictor variable. Statistics under "Simple Association" reflect the simple association of each predictor with well-being, including Time, Sex, and interactions with Time and Sex: statistics under "Regression Analysis" reflect the simultaneous associations of multiple predictors with well-being, including Time, Sex, and interactions with Time and Sex. * p &lt; .os. **p &lt; .01. + p &lt; .lo.</p>4. Do associations with well-being differ depending</p>on which partner is more committed to the relationship? For example, is it more deleterious to = .14 and -.OS,</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Concurrent mediation analyses predicting Couple Well-Being from Level of Commitment, Mutuality of Commitment, and several potential mediators: Studies 1 and 2 Residualized lagged associations of Level of Commitment and Mutuality of Commitment with Couple Well-Being Next, we examined the lagged associations among variables (see Table 1, "Residualized Lagged Analyses"). Consistent with expectations, the simple lagged association of Earlier Level of Commitment with Later Couple Well-Being was significant in both Study 1 and Study 2 (betas = .41 and .49). The simple lagged association of Earlier Mutuality of Commitment with Later Couple Well-Being was significant in Study and marginal in Study 2 (betas = .46 and</figDesc><table><row><cell></cell><cell cols="2">Simple Association</cell><cell cols="2">Regression Analysis</cell><cell></cell></row><row><cell></cell><cell>Beta</cell><cell>t</cell><cell>Beta</cell><cell>t</cell><cell>R2</cell></row><row><cell></cell><cell cols="3">Concurrent Mediation by Trust Level</cell><cell></cell><cell></cell></row><row><cell>Couple Well-Being From</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Study 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level of Commitment</cell><cell>.50**</cell><cell>3.47**</cell><cell>.13</cell><cell>0.88</cell><cell>.54**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.47**</cell><cell>3.25**</cell><cell>.15</cell><cell>1.20</cell><cell></cell></row><row><cell>Trust Level</cell><cell>.70**</cell><cell>5.93**</cell><cell>.55**</cell><cell>3.54**</cell><cell></cell></row><row><cell>Study 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level of Commitment</cell><cell>.54**</cell><cell>4.42**</cell><cell>.29**</cell><cell>2.61**</cell><cell>.70**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.27*</cell><cell>1.95*</cell><cell>-.06</cell><cell>-0.31</cell><cell></cell></row><row><cell>Trust Level</cell><cell>.72**</cell><cell>9.29**</cell><cell>.55**</cell><cell>6.80**</cell><cell></cell></row><row><cell cols="4">Concurrent Mediation by Negative Affect</cell><cell></cell><cell></cell></row><row><cell>Couple Well-Being From</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Study 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level of Commitment</cell><cell>SO**</cell><cell>3.47**</cell><cell>.20+</cell><cell>1.43 +</cell><cell>.56**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.47**</cell><cell>3.25**</cell><cell>.13</cell><cell>0.95</cell><cell></cell></row><row><cell>Negative Affect</cell><cell>-.71**</cell><cell>-5.81**</cell><cell>-.56**</cell><cell>-3.89**</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>~</cell><cell>~_ _ _ ~~</cell><cell></cell></row><row><cell cols="4">Concurrent Mediation by Mutuality of Power</cell><cell></cell><cell></cell></row><row><cell>Couple Well-Being From</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Study 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Level of Commitment</cell><cell>.54**</cell><cell>4.42**</cell><cell>.53**</cell><cell>3.91**</cell><cell>.37**</cell></row><row><cell>Mutuality of Commitment</cell><cell>.27*</cell><cell>1.95*</cell><cell>.03</cell><cell>0.33</cell><cell></cell></row><row><cell>Mutuality of Power</cell><cell>.14+</cell><cell>1.33+</cell><cell>.12</cell><cell>1.09</cell><cell></cell></row><row><cell cols="2">We performed exploratory analyses to</cell><cell cols="4">Mutuality of Commitment, and the interac-</cell></row><row><cell cols="2">determine whether Level of Commitment</cell><cell cols="4">tion of Level of Commitment with Mutual-</cell></row><row><cell cols="2">and Mutuality of Commitment interact in</cell><cell cols="4">ity of Commitment (the multiplicative</cell></row><row><cell cols="2">affecting Couple Well-Being. For example,</cell><cell cols="4">product). The interaction of Level of Com-</cell></row><row><cell cols="2">is it possible that the association of per-</cell><cell cols="4">mitment with Mutuality of Commitment</cell></row><row><cell cols="2">ceived mutuality with well-being is particu-</cell><cell cols="4">was nonsignificant in both Study 1 and</cell></row><row><cell cols="2">larly notable when Level of Commitment is</cell><cell cols="4">Study 2. Thus, the association of perceived</cell></row><row><cell cols="2">high? Paralleling the earlier concurrent</cell><cell cols="4">mutuality with Couple Well-Being does not</cell></row><row><cell cols="2">analyses, we regressed Couple Well-Being</cell><cell cols="4">differ as a function of low versus high Level</cell></row><row><cell cols="2">simultaneously onto Level of Commitment,</cell><cell cols="2">of Commitment.</cell><cell></cell><cell></cell></row></table><note><p>Note: All analyses included Time, Sex, Time by Sex, and all two-and three-factor interactions of Time and Sex with each predictor variable. Statistics under "Simple Association" reflect the simple association of each predictor with well-being, including Time, Sex, and interactions with Time and Sex; statistics under "Regression Analysis" reflect the simultaneous associations of multiple predictors with well-being, including Time, Sex, and interactions with Time and Sex. * p &lt; .05. **p &lt; .01. ' p &lt; .lo.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>14756811, 1999, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1475-6811.1999.tb00199.x by City University Of Hong Kong, Wiley Online Library on [24/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>This research was supported in part by a grant to the first author from the <rs type="funder">NIMH</rs> (No. <rs type="grantNumber">IF31-MH-10305-01</rs>) and by grants to the second author from the <rs type="funder">NIMH</rs> (No. <rs type="grantNumber">BSR-1-R01-MH-45417</rs>) and <rs type="funder">NSF</rs> (No. <rs type="grantNumber">BNS-9023817</rs>). We thank <rs type="person">Art Aron</rs> and <rs type="person">Niall Bolger</rs> for their help in developing the analysis strategy employed in the present work, and we thank <rs type="person">Keith Davis</rs>, <rs type="person">Jeffry Simpson</rs>, and several anonymous reviewers for their helpful comments regarding earlier versions of this article.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_5Tjux7K">
+					<idno type="grant-number">IF31-MH-10305-01</idno>
+				</org>
+				<org type="funding" xml:id="_WEQzh8h">
+					<idno type="grant-number">BSR-1-R01-MH-45417</idno>
+				</org>
+				<org type="funding" xml:id="_XtPN9ze">
+					<idno type="grant-number">BNS-9023817</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>relationships do not fare well. These findings contribute to a growing body of work suggesting that interdependence theory is a</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Self-expansion motivation and including other in the self</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Aron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook ofpersonal relationships: Theory, research, and interventions</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="251" to="270" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Examining the components of commitment. Paper presented at the annual conference of the International Network of Personal Relationships</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">B</forename><surname>Arriaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Agnew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Miami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Attridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berscheid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Simpson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psy-Axelrod, R</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Baron</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1173" to="1182" />
+			<date type="published" when="1984">1997. 1995. 1984. 1986</date>
+			<publisher>New York Basic Books</publisher>
+		</imprint>
+	</monogr>
+	<note>Journal of Personality and Social Psychology</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Interpersonal relationships. Annual Review of Psychology</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berscheid</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="79" to="129" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Testing the Rusbult model of relationship commitment and stability in a 15-year study of heterosexual couples</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berscheid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Bui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Peplau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of social psychology</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Lindzey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1998. 1996</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1244" to="1257" />
+		</imprint>
+	</monogr>
+	<note>Attraction and close relationships</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The balance of power in lesbian relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Peplau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sex Roles</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="587" to="599" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Interpersonal attraction in exchange and communal relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="12" to="24" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Prescriptive support and commitment processes in close relationships</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Wexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Gaines</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychology Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="79" to="90" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Significance tests and tests of models in multiple regression</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Cramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Statistician</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="26" to="30" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Close partner as sculptor of the ideal self: Behavioral affirmation and the Michelangeno phenomenon</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Drigotas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Drigotas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Felmlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sprecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bassin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">62-87. fruitful orientation for understanding relationship-level phenomena in ongoing relationships</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Drigotas</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Wieselquist</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Whitton</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1990">1993. 1992. 1990</date>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="13" to="30" />
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina at Chapel Hill</orgName>
+		</respStmt>
+	</monogr>
+	<note>Social Psychology Quarterly</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The social constructionist movement in modern psychology</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Gergen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="266" to="275" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Equity and intimate relations: Recent research</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Traupmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sprecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Utne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Compatible and incompatible relationships</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Ickes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="91" to="117" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Breakups before marriage: The end of 103 affairs</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Peplau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="147" to="168" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The exchange process in close relationships: Microbehavior and macromotives</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Holmes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The justice motive in social behavior</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lerner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lerner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum Press</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="261" to="284" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Trust in close relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Rempel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Review ofpersonality and social psychology</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Hendrick</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="187" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Resisting temptation: Devaluation of alternative partners as a means of maintaining commitment in close relationships</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="967" to="980" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Predicting marital dissolution. A five-year prospective longitudinal study of newlywed couples</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in personal relationships</title>
+		<editor>
+			<persName><forename type="first">Jessica</forename><surname>Kingsley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Kelley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Thibaut</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London; New York; Kurdek, L. A</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1978">1991. 1978. 1993</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="221" to="242" />
+		</imprint>
+	</monogr>
+	<note>Commitment to personal relationships</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The development of investment and commitment scales for predicting continuity of personal relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="3" to="23" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Inattentive and contented: Relationship commitment and attention to alternatives</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Martz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">B</forename><surname>Arriaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Slovik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Women: A feminist perspective</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Freeman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Peplau, L. A.; Palo Alto, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mayfield</publisher>
+			<date type="published" when="1984">1998. 1997. 1984</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="100" to="112" />
+		</imprint>
+	</monogr>
+	<note>Power in dating relationships. rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Trust in close relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Rempel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="95" to="112" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A longitudinal test of the investment model. The development (and deterioration) of satisfaction and commitment in heterosexual involvements</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Bissonette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Arriaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">B</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-6811.1999.tb00199</idno>
+		<idno>24/08/2024</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">Commitment and satisfaction in romantic associations: A test of the investment</title>
+		<imprint>
+			<date type="published" when="1980">1980. 1999. 1983. 1998a</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>City University Of Hong Kong, Wiley Online Library</orgName>
+		</respStmt>
+	</monogr>
+	<note>Journal of Experimental Social Psychology</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Remaining in an abusive relationship: An investment model analysis of nonvoluntary commitment</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Martz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="558" to="571" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">A functional analysis of perceived superiority in close relationships</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">€</forename><surname>Van Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Yovetich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Wildschut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Verette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998b</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished manuscript, University of North Carolina at Chapel Hill</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The investment model scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Whitney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Slovik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lipkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Martz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Agnew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psy-Rusbult</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="357" to="392" />
+			<date type="published" when="1991">1991. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Personal Relationships</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A macro-and micro-examination of family power and love: An exchange model</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wieselquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Witcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="355" to="362" />
+			<date type="published" when="1976">1976</date>
+			<publisher>Plenum Press</publisher>
+			<pubPlace>New York; Safilios-Rothschild, C</pubPlace>
+		</imprint>
+	</monogr>
+	<note>chology</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The dissolution of romantic relationships: Factors involved in relationship stability and emotional distress</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Simpson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Per.sonality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="683" to="692" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Spousal alternatives and marital dissolution</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>South</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Lloyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="21" to="35" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Measuring dyadic adjustment: New scales for assessing the quality of marriage and similar dyads</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Spanier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="15" to="28" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sex differences in bases of power in dating relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sprecher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sex Roles</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">449462</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The relation between inequity and emotions in close relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sprecher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychology Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="309" to="321" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The social psychology of groups</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Thibaut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Kelley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Willingness to sacrifice in close relationships</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A M</forename><surname>Van Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Drigotas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">B</forename><surname>Arriaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Witcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Cox</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Journal of Personality and Social Psychology</publisher>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1373" to="1395" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The family: A dynamic interpretation</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Waller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1938">1938</date>
+			<pubPlace>New York Dryden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Walster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berscheid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Walster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Commitment and trust in close relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wieselquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Agnew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

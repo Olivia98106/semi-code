@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Always Available, Always Attached: A Relational Perspective on the Effects of Mobile Phones and Social Media on Subjective Well-Being</title>
+				<funder>
+					<orgName type="full">Cornell Center for Social Science</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability status="unknown"><p>Copyright Oxford University Press (OUP)</p>
+				</availability>
+				<date type="published" when="2021-07-01">2021-07-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Samuel</forename><forename type="middle">Hardman</forename><surname>Taylor</surname></persName>
+							<email>samuelht@uic.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Natalya</forename><forename type="middle">N</forename><surname>Bazarova</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<postCode>14850</postCode>
+									<settlement>Ithaca</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Always Available, Always Attached: A Relational Perspective on the Effects of Mobile Phones and Social Media on Subjective Well-Being</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Computer-Mediated Communication</title>
+						<idno type="eISSN">1083-6101</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="187" to="206"/>
+							<date type="published" when="2021-07-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">C790A0B11070AD131ED215089639056B</idno>
+					<idno type="DOI">10.1093/jcmc/zmab004</idno>
+					<note type="submission">received on 9 January 2020; Revisions received on 18 November 2020; Accepted by 19 April 2021; Final manuscript received on 5 January 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Interpersonal</term>
+					<term>Mobile Phones</term>
+					<term>Intimacy</term>
+					<term>Multimodality</term>
+					<term>Relationship</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In this study, we examine the effects of the near-constant use of digital media in everyday life on well-being in the context of close relationships. Building on media multiplexity and attachment perspectives, we argue that communication over a dyad's media ecosystem, including face-to-face, text messaging, cellphone calls, e-mail, and instant messaging, creates connected availability. Connected availability is the perception that a partner is at a continuous (digital) arm's reach offering protection and security. Using longitudinal dyadic data of cohabitating romantic partners, we track the effects of media multiplexity on well-being by factoring in both partners' perspectives to untangle the security offered through partner's availability from the stress of maintaining one's own constant availability to a partner. The results support salutary effects of media use on well-being because of increased connected availability, with limited evidence for adverse impacts of maintaining constant availability with a close partner.</p><p>The always-on, always-available nature of digital life means almost constant connection and availability between romantic partners, family members, and close friends. Being tethered to one another can give people a sense of security, while simultaneously causing more stress. In this article, we find that keeping a romantic partner constantly within a (digital) arm's reach promotes better well-being for oneself. In addition, keeping a romantic partner always available also predicted better well-being for the romantic partner. Further, the analysis did not show added stress for the partner.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Being almost always online and available via digital devices has prompted alarm about well-being consequences <ref type="bibr">(Vorderer Hefner, Reinecke, &amp; Klimmt, 2017;</ref><ref type="bibr" target="#b38">Weinstein, 2018)</ref>. Although concern is high, the findings are noticeably inconclusive, pointing to both positive and negative effects of the use of social media and mobile phones on well-being <ref type="bibr" target="#b10">(Halfmann &amp; Rieger, 2019;</ref><ref type="bibr" target="#b29">Orben &amp; Przybylski, 2019)</ref>. Part of the answer to why digital media can impact well-being rests in understanding the effect of digital media use in close relationships <ref type="bibr" target="#b5">(Dienlin, Masur, &amp; Trepte, 2017;</ref><ref type="bibr" target="#b26">Liu, Baumeister, Yang, &amp; Hu, 2019)</ref>, as many beneficial effects are limited to close relationships <ref type="bibr" target="#b2">(Burke &amp; Kraut, 2016;</ref><ref type="bibr" target="#b3">Chan, 2015)</ref>. Conversely, negative effects are regularly attributed to the displacement of close relationships <ref type="bibr" target="#b32">(Sbarra, Briskin, &amp; Slatcher, 2019)</ref>. The importance of close relationships for well-being is established <ref type="bibr" target="#b7">(Feeney &amp; Collins, 2015)</ref>, but there is ambiguity on how remaining ambiently connected has altered relational processes.</p><p>To understand how digital media affects well-being through close relationships, we build a close relational perspective on the benefits and risks of being always on, always available. First, this perspective advances how online relations occur on interconnected media, instead of treating each medium as an independent communication island <ref type="bibr">(Parks, 2017)</ref>. Second, the ubiquity of digital media calls for theoretical development, rooted in interpersonal models of well-being, to explain how living in an always connected world has changed well-being regulation. Third, from a relational perspective, interpersonal communication in digital media should be conceptualized dyadically, where partners are examined as mutually influential <ref type="bibr" target="#b19">(Kashy, Donnellan, Burt, &amp; McGue, 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Media multiplexity theory</head><p>One approach to understanding how interpersonal relationships are weaved together across media to create a nearly constant connection is offered through media multiplexity theory (MMT; <ref type="bibr" target="#b14">Haythornthwaite, 2005)</ref>. MMT switches away from individual media to focus on communication across all media used by a dyad. Media multiplexity is the totality of communication across a dyad's media ecosystem, and the construct can be described by several subdimensions <ref type="bibr">(Taylor &amp; Bazarova, 2018a)</ref>: number of media-the sum of communication channels used within a dyad for communication; multimedia frequency-the total frequency of a dyad's communication across all media; and multimedia disclosure-the aggregated amount of intimate self-disclosure to a partner across all media. The baseline of MMT posits that the totality of communication across a dyad's media ecosystem is determined by relational closeness, and as relational closeness increases, so does the total number of media used and frequency of communication across media <ref type="bibr" target="#b13">(Haythornthwaite, 2002)</ref>. Second, media use and relational closeness have a reciprocal relationship across time, although this relationship is nonlinear <ref type="bibr">(Taylor &amp; Bazarova, 2018a)</ref>. Third, as relational closeness increases, so does the variability of communication behaviors across media, reflecting the increasing variety of communication goals required to maintain close relationships. Fourth, changes in media use patterns are more disruptive to nonclose relationships than close relationships because close relationships can easily adapt to the new media ecosystem <ref type="bibr" target="#b33">(Taylor &amp; Ledbetter, 2017)</ref>. Finally, people allocate media by the closeness of the relationship rather than media features, with close relationships being granted access to some media that other relationships are not.</p><p>Given the tie between close relationships and wellness <ref type="bibr" target="#b7">(Feeney &amp; Collins, 2015)</ref>, we extend the second proposition of MMT from relational qualities to predict personal well-being. Our extension of MMT seeks to address how interpersonal communication across the media ecosystem affects the multidimensional concept of subjective well-being (SWB). SWB comprises emotional experiences (i.e., positive affect and negative affect) and evaluations about life quality (i.e., life satisfaction; <ref type="bibr" target="#b4">Diener, 2013)</ref>, with life satisfaction being more stable than affect <ref type="bibr" target="#b18">(Heller, Watson, &amp; Ilies, 2004)</ref>. Social media and mobile phone research studies well-being both globally and situationally (e.g., <ref type="bibr" target="#b1">Beyens et al., 2020;</ref><ref type="bibr" target="#b3">Chan, 2015)</ref>. In this article, we investigate the situational variance in SWB associated with interpersonal interactions within the last hour. Building on the association between close relationships and number of media, we next consider media affordances from the perspective of media multiplexity to understand the role of close relationships in media use and SWB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The affordances of media multiplexity</head><p>As a framework for understanding a digitally connected life, MMT acknowledged that connectivity depends on multiple media. Incorporating affordances into MMT can unpack how connectivity possibilities have changed because of multiple media. Media affordances strike a middle-ground between deterministic and constructivist arguments by asserting that the materiality of the communication technology and user of the communication technology work together to determine behavior <ref type="bibr" target="#b6">(Evans, Pearce Vitak, &amp; Treem, 2017)</ref>. One media affordance often discussed post hoc with regard to media multiplexity is accessibility, or "the capability of easily achieving or reaching communication, regardless of time, place, structural limitations, technological literacy and other constraints" <ref type="bibr">(Fox &amp; McEwan, 2017, p. 7)</ref>. Although it is acknowledged that a context might require modification of media use <ref type="bibr" target="#b13">(Haythornthwaite, 2002)</ref>, MMT positions the use of a medium for communication as constructed by dyads and not contingent on the medium features per se <ref type="bibr" target="#b13">(Haythornthwaite, 2002</ref><ref type="bibr" target="#b14">(Haythornthwaite, , 2005))</ref>. Addressing accessibility requires building theoretical connections between MMT and media affordances because of MMT's largely social constructivist stance. First, incorporating affordances into media multiplexity poses a new question of what is afforded by a dyad's media ecosystem, as opposed to by an individual medium. The media ecosystem can redefine the affordances of a single medium because media are understood in relationship to one another <ref type="bibr" target="#b39">(Zhao et al., 2016)</ref>, but the question of affordances aggregated across a dyad's media ecosystem has not been previously considered. Second, MMT emphasizes the relationship between communicators in determining media use, including various affordances. Thus, accessibility needs to be contextualized within the relationship of the dyad. Third, there are situational factors that challenge the static nature of affordances. For example, when a couple is at home, face-to-face communication is likely to have high accessibility, but away from home, the accessibility of face-to-face communication should decline.</p><p>In MMT framework, accessibility must incorporate multiple layers of contextualization, including the media landscape, relational factors, and situation. Extending MMT to media affordances, we refer to accessibility as the situational capacity to easily communicate with a partner through all available media. The accessibility afforded by a dyad's media ecology likely influences SWB, and the inaccessibility of close relations through mobile devices is associated with stress <ref type="bibr" target="#b24">(Ling, 2012)</ref>. Although accessibility may have some negative consequences on SWB, this effect is typically seen outside of close bonds <ref type="bibr" target="#b31">(Reinecke et al., 2018)</ref>. The ease of connection with a partner on various media offers a degree of felt security, which promotes SWB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The mechanism of always on, always available</head><p>Addressing the social consequences of always on, always available digital life requires unpacking the mechanisms the explain why being always on can influence SWB. Because MMT points to, but does not explicate, relational ties as a driver for partners' media use <ref type="bibr" target="#b14">(Haythornthwaite, 2005)</ref>, we have to branch outside of the original framework into the psychological processes of intimate bonds. Attachment theory is a compelling framework for understanding how intimate bonds are formed and used to regulate affect and personal growth <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>. According to this theory, humans have an inborn, biological attachment behavioral system that regulates their propinquity to attachment figures to keep them safe from threats, similar to other physiological systems that regulate the body. The attachment behavioral system regulates propinquity to intimate bonds across the lifespan, including adulthood <ref type="bibr" target="#b15">(Hazan &amp; Shaver, 1994)</ref>. This propensity is exhibited by seeking out attachment figures during adversity (i.e., safe haven) and using them as a security system to explore and grow when presented with new opportunities (i.e., secure base; <ref type="bibr" target="#b7">Feeney &amp; Collins, 2015)</ref>. Obstacles in maintaining proximity to attachment figures result in anxiety, which triggers behaviors aimed at reestablishing proximity until contact is reestablished. When an attachment figure is available, feelings of positive affect and security result; conversely, people experience negative affect and anxiety when an attachment figure is not available. As people mature, their ability to maintain comfort from an attachment figure without actual physical copresence increases <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>.</p><p>There is a limited understanding of how being "permanently online and permanently connected" <ref type="bibr" target="#b37">(Vorderer et al., 2017)</ref> may alter normative processes of the attachment system. A central question is how digital media affects attachment availability, which regulates well-being. Attachment availability refers to the perceived proximity to a partner and ability of a partner to respond with comfort and protection <ref type="bibr" target="#b1">(Bowlby, 1973)</ref>, separating availability from the technical capacity accessibility. The media ecosystem can enable easy communication opportunities with a partner, yet, from an attachment view of availability, the partner may not be sufficiently proximal or responsive. Across adult attachment research, availability is discussed primarily as either the actual physical presence or the mental representation of an attachment figure. Imagining the face of an attachment figure, viewing a photograph, or simply priming with attachment can aid in coping with stress or pain (see, for review, <ref type="bibr" target="#b28">Mikulincer &amp; Shaver, 2015)</ref>. We argue there is an opportunity to build a communication perspective on attachment through an integration of attachment scholarship and work on personal relationships and technology.</p><p>Attachment relationships in the digital age commonly maintain availability through communication technologies, particularly mobile phones. <ref type="bibr" target="#b23">Licoppe (2004)</ref> argues the mobile phone lifted constraints of location for interpersonal communication; thus, making relational partners accessible regardless of physical distance and time restrictions. Brief, lightweight mobile phone calls and text messages are used to create a continuous conversation between partners, establishing a "connected presence" with one another. If the connected presence is jeopardized, the felt security of the relationship is threatened. Thus, the mobile phone enables a relational practice of keeping intimate partners near through assumed constant communication <ref type="bibr" target="#b24">(Ling, 2012)</ref>. Re-evaluating <ref type="bibr" target="#b23">Licoppe's (2004)</ref> notion of connected presence from the attachment perspective suggests availability, not just presence, offered by the near-constant access to attachment bonds through digital media is what offers felt security. We refer to the perception of continuous and constant communication access to an attachment figure and the expectation they can provide security, regardless of location, time of day, or current activity, as connected availability. Enabled by media multiplexity, which makes it possible to keep attachment bonds always within digital reach, connected availability protects against stress and bolsters happiness. We theorize that connected availability implies a central change in attachment behaviors, rather than a personality trait, attachment style, or perception of social support (see <ref type="bibr" target="#b7">Feeney &amp; Collins, 2015;</ref><ref type="bibr" target="#b36">Trieu, Bayer, Ellison, Schoenebeck, &amp; Falk, 2019)</ref>. Because communication is spread across multiple media, attachment bonds have extended proximity maintenance from copresence or mental representations to an assumption of constant communication opportunities, reshaping the question "Is my attachment figure available?"</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dyadic connected availability</head><p>Connected availability is dyadic, such that the assumption of connected availability is reciprocal for partners <ref type="bibr" target="#b25">(Ling, 2016)</ref>. Although connected availability may improve people's SWB, keeping up with the demands of connected availability can be burdensome. With connected availability, relatedness and autonomy needs collide, resulting in stress and burnout <ref type="bibr" target="#b9">(Fox &amp; Moreland, 2015)</ref>. Calling and texting friends frequently creates a sense of pressure and guilt that friends have to respond immediately <ref type="bibr" target="#b11">(Hall &amp; Baym, 2012)</ref>. Being always on has prompted negotiations about timely responsiveness and created anxiety and stress from the demands of having to respond <ref type="bibr" target="#b27">(Matassi et al., 2019)</ref>, and there is stress associated with keeping an ambient awareness of one's social relations on social media <ref type="bibr" target="#b12">(Hampton et al., 2016)</ref>.</p><p>To unpack dyadic connected availability, we turn to the Actor-Partner Interdependence Model (APIM; <ref type="bibr" target="#b20">Kenny, Kashy, &amp; Cook, 2006)</ref>. APIM is a dyadic data analysis method that presents a way of modeling how a dependent variable, such as SWB, is affected by a person and their partner. APIM is comprised of actor effects and partner effects. An actor effect refers to the effect of a person's independent variable on their own dependent variable. A partner effect models how a person's independent variable is associated with their partner's reported dependent variable, independent of the actor effect <ref type="bibr" target="#b19">(Kashy et al., 2008)</ref>. Thus, the partner effect explicitly models the dependence of a dyad by estimating the degree to which partners influence each other's outcomes <ref type="bibr" target="#b20">(Kenny et al., 2006)</ref>. Addressing the actor versus partner effects of connected availability highlights the potential simultaneous benefits and risks of connected availability because of the interdependence between partners in determining media effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Actor effects</head><p>Communication with a romantic partner over the media ecology should increase a person's perception of connected availability because connected availability is conceptualized as the outcome of maintaining their relationship over a variety of media <ref type="bibr" target="#b9">(Fox &amp; Moreland, 2015;</ref><ref type="bibr" target="#b24">Ling, 2012)</ref>. In turn, keeping continuous availability of attachment figures helps ward off stress and foster personal growth <ref type="bibr" target="#b7">(Feeney &amp; Collins, 2015)</ref>. On an individual level (i.e., actor effect), we hypothesize (a) engaging in interpersonal communication over multiple media with a romantic partner increases perception of connected availability and (a) connected availability improves well-being because it provides the security of an attachment figure . 
+
+H1: Actor (a) number of media, (b) multimedia frequency, (c) multimedia disclosure, and (d) accessibility is positively associated with actor connected availability. H2: Actor connected availability is (a) positively associated with actor positive affect, (b) negatively associated with actor negative affect, and (c) positively associated with actor life satisfaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Partner effects</head><p>A person's self-reported media multiplexity with their romantic partner should also influence their partner's sense of connected availability because the use of media builds the reciprocal connection expectations <ref type="bibr" target="#b25">(Ling, 2016)</ref>. Although greater connected availability in a relationship offers security to the person themselves, expecting a partner be immediately available for connection and aid anytime and anywhere may result in a partner's stress, undermining a partner's SWB (i.e., the more available I perceive the partner to be to me, the more stress my partner feels). At a dyadic level, we predict two partner effects: (a) an actor's self-reported media multiplexity predicts a partner's connected availability and (a) an actor's self-reported connected availability negatively affects their partner's SWB, due to the stress of being always being near and responsive.</p><p>H3: Actor (a) number of media, (b) multimedia frequency, (c) multimedia disclosure, and (d) accessibility is positively associated with their partner's connected availability. H4: Actor connected availability is (a) negatively associated with their partner's positive affect, (b) positively associated with their partner's negative affect, and (c) negatively associated with their partner's life satisfaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Actor-partner indirect effects</head><p>Connected availability represents one mechanism that can explain both the positive and negative effects that exist in research on social media and mobile phones <ref type="bibr" target="#b2">(Burke &amp; Kraut, 2016;</ref><ref type="bibr" target="#b38">Weinstein, 2018)</ref>. We have argued that the use of many media in intimate relationships (i.e., media multiplexity) creates greater connected availability; this association is expected to hold in both actor and partner effects. Next, we anticipate the actor and partner effects of connected availability have both positive and negative outcomes for SWB because of the security it offers to an individual (actor effect) and simultaneously, the stress it imposes on a partner (partner effect). These arguments combine to suggest that connected availability represents an indirect pathway explaining why the use of many media in close relationships influences SWB <ref type="bibr" target="#b35">(Taylor &amp; Bazarova, 2018b)</ref>. Because of the actor and partner effects in the APIM, there are four potential indirect pathways to SWB as follows: (a) actor-to-actor, (b) actor-to-partner, (c) partner-to-actor, and (d) partner-to-partner <ref type="bibr" target="#b21">(Ledermann et al., 2011)</ref>. H5: Media multiplexity has an indirect effect on SWB through connected availability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>One hundred fourteen romantic couples in long-term relationships were recruited to participate in this study during January to March 2019. All hypotheses, procedures, measures, sampling strategy, power analysis, and data analysis plan for this study were preregistered prior to data collection (see Online Appendix 1 ). Couples were eligible to participate if partners cohabitated with one another and shared a reciprocal attachment bond, which was determined using the four-item WHOTO scale (e.g., "Person(s) you know will always be there for you"; <ref type="bibr" target="#b16">Hazan &amp; Zeifman, 1999)</ref>. Both partners needed to use a smartphone with internet access to participate in the experience sampling method (ESM). Participants received up to a $30 gift card per person for participation in the study. The average age of participants in the final sample was 29.6 (SD ¼ 5.35). Females comprised 50.9% of the sample, males 47.8%, and other gender 1.3%. A majority of the participants were married (82.5%), in an opposite-sex relationship (91.4%), and identified their race as white (87.3%). The length of the relationship ranged: 1.3% less than 1 year, 18.4% 1-3 years, 34.7% 4-6 years, 33.3% 7-10 years, 9.7% 11-15 years, 1.8% 16-20 years, and .9% over 20 years. In total, 64% had children under the age of 18 living at home.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>After both partners had completed informed consent and a presurvey with demographic information, the couple was invited to sign up for the ESM part of the study. Surveys arrived via text message for 7 consecutive days five times per day. Surveys arrived at random within five equal time windows (168 minutes) between 8 AM and 10 PM during and took approximately 2 minutes to complete. ESM pings had a minimum of 60 minutes between each one, but survey pings were not sent at the same time for both partners. Of the total possible 7,980 surveys, 78.34% were answered. The minimum inclusion in the sample was 10% completed surveys. Each member of the dyad completed the ESM individually, and reports represent interaction-level data for each person. A poststudy survey followed the 7 days of ESM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experience sampling measures SWB</head><p>The dimensions of SWB, positive affect, negative affect, and life satisfaction, were measured on a 10point scale, with 1 ¼ "Not at all/Very dissatisfied" and 10 ¼ "Very much/Very satisfied": for positive affect, "How positive do you feel right now?" (M ¼ 7.27, SD ¼ 2.03); for negative affect, "How negative do you feel right now?" (M ¼ 2.64, SD ¼ 1.84); and for life satisfaction, "How satisfied are you with your life right now" (M ¼ 7.98, SD ¼ 1.61). At the between-dyad level, positive affect was correlated with negative affect, r ¼ À.80, and life satisfaction, r ¼ .79, and negative affect and life satisfaction were correlated, r ¼ À.71. p &lt; .001 1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Media multiplexity</head><p>Participants were asked if they had used any of the following media with their partner in the last hour: (a) face-to-face, (b) text messaging, (c) cellphone calls, (d) landline telephone calls, (e) desktop instant messaging, (f) email, (g) Snapchat, (h) Facebook, (i) Twitter, (j) Instagram, (k) mobile messaging apps (e.g., WhatsApp), (l) video chat, or (m) other media. In total, there were 5,230 communication instances reported on, with 1,719 being mediated through some communication technology and 3,511 being face-to-face communication. A summation of the total number of media used in the last hour was used to create a measure of number of media <ref type="bibr" target="#b14">(Haythornthwaite, 2005)</ref>, which ranged between 0 and 4: 0 media (25.50%), 1 medium (66.59%), 2 media (6.73%), 3 media (1.13%), and 4 media (.004%).</p><p>Multimedia frequency <ref type="bibr">(Taylor and Bazarova, 2018a)</ref> was captured with the number of media and total communication across media combined in the last hour. For each selected media used in the last hour out of 13 available media options, participants responded to "In the last hour, how much did you communicate with your partner using [medium]," on a 5-point Likert scale, (1 ¼ "Not at all" to 5 ¼ "A great deal"). The responses were summed together across media to create the multimedia frequency index (M ¼ 3.67, SD ¼ 1.48). Participants also reported the amount of self-disclosure on each of the media they interacted with their partner in the last hour: "When communicating via <ref type="bibr">[medium]</ref> with my partner in the last hour, I shared. . .," with the response options of (1) "Very little" to (10) "A great deal." Similar to multimedia frequency, the responses were summed together across media to create multimedia disclosure, with mean of 5.45 (SD ¼ 2.94). Accessibility was reported for media the participant used with their partner in the last hour using one question adapted from <ref type="bibr" target="#b36">Trieu et al.'s (2019)</ref> scale, "In the last hour, it was easy for me to reach my partner through <ref type="bibr">[medium]</ref>," on a scale of (1) strongly agree to (7) strongly disagree. Accessibility was summed across media (M ¼ 7.20, SD ¼ 2.49).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Connected availability</head><p>Connected availability was measured using three original questions capturing the idea that the participant could connect with their partner at any moment in time, regardless of time or location, and their partner could answer. The measure combined two questions on a scale of (1) strongly disagree to (7) strongly agree (e.g., "I could connect with my partner right now, if I needed him or her.") and a third question, "If you contacted your partner right now, what is the likelihood that your partner would immediately respond?," ranging from (1) extremely unlikely to (7) extremely likely (a ¼ .86, M ¼ 6.39, SD ¼ .97).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytical approach</head><p>These data have a two-level structure because dyads have individuals nested within them that are crossed with time, with the dyad being Level 2, observations from both members of a dyad at a time point within a day being Level 1, and an additional covariance between the couple's residuals at a specific time point. The dyads are indistinguishable, as there are no systematic characteristics that separate Partner 1 from Partner 2 within the dyad. We used an undistinguished dyadic growth curve model <ref type="bibr" target="#b19">(Kashy et al., 2008)</ref> for modeling the effects, with parameter estimates equal for both partners, and five covariance parameters estimated for the three random factors of time, person, and dyad. We modeled the changes in the outcome variable over the course of 1 day, with Time 0 in all growth curve models set to the morning and grand mean centered all predictor variables, using SAS PROC MIXED 9.4. Descriptive data and standardized coefficients are available in the Appendix 1 . Actor and partner effects for the same dependent variable are included in the same model and reported together.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predicting connected availability</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of media</head><p>Model 1 tested actor (self-reported) and partner (person's effect on their partner) number of media as a categorical predictor of connected availability in an undistinguished dyadic growth curve. H1a predicted a positive relationship between actor number of media and connected availability, and H3a predicted the same pattern for the partner effects. As displayed in Table <ref type="table" target="#tab_0">1</ref>, the number of media the actor reported using in the last hour predicted greater connected availability across a given day, F(4, 4,580) ¼ 109.38, p &lt; .001. Mean comparisons showed that reporting no media in the last hour predicted less connected availability than using one, two, or three media, p &lt; .001 (Table <ref type="table" target="#tab_1">2</ref>). However, providing mixed support for H1a, one medium predicted more connected availability than two media, p ¼ .02. The partner effect of number of media on connected availability was also significant, F(4, 4,576) ¼ 18.86, p &lt; .001, with partner reports of one and two media were greater than zero (Table <ref type="table" target="#tab_1">2</ref>). There was no difference between one or two media for partner effects. Therefore, when a person </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multimedia communication</head><p>Model 2 includes actor and partner effects for multimedia frequency, multimedia disclosure, and accessibility, controlling for the number of media used in the last hour, to predict connected availability. Model 2 differs from Model 1 in that Model 2 does not include zero media. We predicted a positive linear relationship between actor (H1) and partner effects (H3) and connected availability for multimedia frequency, multimedia disclosure, and accessibility. There was a positive relationship between the actor multimedia frequency and connected availability, F(1, 2,934) ¼ 35.11, p &lt; .001 (Table <ref type="table" target="#tab_2">3</ref>). The partner effect of multimedia frequency also shared a positive association with connected availability, F(1, 2,931) ¼ 7.78, p ¼ .005. Thus, when a person reported greater communication across media with their partner in the last hour, they felt a higher degree of connected availability throughout the day (i.e., the actor effect; H1b). Higher amounts of the multimedia frequency also predicted greater connected availability in their partner (i.e., the partner effect; H3b). Multimedia disclosure was not a significant predictor of connected availability for the actor effect, F(1, 2,847) ¼ 3.66, p ¼ .06, or the partner effect, F(1, 2,843) ¼ 1.33, p ¼ .25. Actor accessibility shared a positive association with connected availability, F(1, 2,992) ¼ 260.19, p &lt; .001, but there was no significant partner effect for accessibility, F(1, 2,995) ¼ 2.27, p ¼ .13. Supporting H1d, when a participant reported high accessibility from the media landscape, their connected availability that day was higher.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dyadic connected availability predicting SWB Number of media</head><p>In Model 3, we test the relationship between connected availability and SWB, controlling for number of media; thus, determining the indirect effect of number of media on SWB through connected   <ref type="bibr" target="#b22">Leth-Steensen &amp; Gallitto, 2016)</ref>. We predicted that connected availability would predict improved SWB for actor effects (H2) and less SWB for the partner effects (H4). We also predicted that the number of media is indirectly associated with SWB through connected availability (H5).</p><p>Starting with positive affect, actor connected availability was positively associated with positive affect, F(1, 4,765) ¼ 91.11, p &lt; .001 (Table <ref type="table" target="#tab_0">1</ref>). For the partner effect, connected availability was also positively associated with positive affect, F(1, 4,762) ¼ 5.63, p ¼ .02. Supporting H2a, when a person reported greater connected availability, they also reported high positive affect across a given day. In contrast to H4a, when a participant (actor) reported more connected availability, their partner reported higher daily positive affect. Neither the actor nor the partner effects for number of media were significant predictors of positive affect, (actor effect: F(4, 4,544) ¼ 1.11, p ¼ .35; partner effect: F(4, 4,542) ¼ 1.10, p ¼ .35). Combining information from Model 1 and Model 3 provides evidence for an indirect effect of number of media on positive affect through connected availability. There was evidence of an (a) actor-actor, (b) partner-actor, (c) actor-partner, and (d) partner-partner indirect effect between number of media to connected availability to more positive affect, compared with zero media. The extent to which number of media is associated with positive affect is explained by connected availability.</p><p>Consistent with H4b, actor connected availability was negatively related to negative affect, F(1, 4,775) ¼ 85.59, p &lt; .001. Opposite of H4b, partner connected availability was also negatively related to negative affect, F(1, 4,771) ¼ 7.50, p ¼ .006. A person's report of connected availability predicted less negative affect (actor effect). In addition, reporting more connected availability predicted less negative affect in their partner that day (partner effect). Actor effects, F(4, 4,514) ¼ 2.15, p ¼ .07, and partner effects, F(4, 4,537) ¼ .60, p ¼ .67, for number of media were nonsignificant predictors for negative affect when connected availability was entered into the model, which suggests an indirect effect. There was an evidence of all types of actor-partner indirect effects from number of media to more connected availability to less negative affect.</p><p>Life satisfaction was positively related to actor reports of connected availability (H2c), F(1, 4,662) ¼ 64.39, p &lt; .001, and to partner reports of connected availability (H4c), F(1, 4,659) ¼ 11.18, p &lt; .001. Believing an attachment figure is constantly available projected greater life satisfaction for that day (actor effect), and this perceived availability predicted higher reports of life satisfaction for their partner as well (partner effect). Life satisfaction was not predicted by actor, F(4, 4,504) ¼ 1.60, p ¼ .17, or partner effect, F(4, 4,502) ¼ 1.05, p ¼ .38, for number of media, after controlling for connected availability, which indicates indirect effects for all four types of actor-partner indirect effects. Consistent with H5, we have found an evidence that a higher number of media positively predicts life satisfaction by way of greater connected availability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multimedia communication</head><p>Model 4 tests the association between connected availability and the three subdimensions of SWB, controlling for multimedia frequency, multimedia disclosure, and accessibility. Model 4 differs from Model 3 because Model 4 does not include zero media. Thus, we retested our hypotheses about connected availability with a new model. We anticipated positive effects of actor connected availability on SWB (H2) and, in reverse, negative effects of partner connected availability on SWB (H4), with an indirect effect from media use to connected availability to SWB (H5). As there was not a significant association between multimedia disclosure and connected availability, no indirect effect can exist. Between-dyad correlations found that multimedia frequency was not associated with positive affect, r ¼ .15, negative affect, r ¼ -.04, or life satisfaction, r ¼ .16. Multimedia disclosure was positively correlated with positive affect, r ¼ .23, p &lt; .05, but not negative affect, r ¼ -.05, or life satisfaction, r ¼ .14.</p><p>Accessibility had a positive correlation with positive affect, r ¼ .19, p &lt; .05, and life satisfaction, r ¼ .25, p &lt; .01, but not negative affect, r ¼ -.15. 1  Actor connected availability was associated with more positive affect, F(1, 2,985) ¼ 85.99, p &lt; .001 (Table <ref type="table" target="#tab_2">3</ref>). Partner connected availability, F(1, 2,979) ¼ 4.18, p ¼ .04, was also positively associated with positive affect throughout a given day. When a participant reported that their partner was available for support, reports of positive affect were higher (H2a). Rather than predicting less positive affect, as predicted in H4a, a person reported more positive affect that day when their romantic partner reported more connected availability. Controlling for connected availability, the only remaining significant predictor of positive affect was the actor effect of multimedia frequency, F(1, 2,900) ¼ 4.00, p ¼ .046. After accounting for the sense of omni-availability of an attachment figure, there remained a positive relationship between frequency of media use and positive affect. In line with H5, there were (a) actor-actor, (b) actor-partner, (c), partner-actor, and (d) partner-partner indirect effects for multimedia frequency through connected availability, but multimedia frequency retained a direct effect on positive affect after accounting for connected availability. The affordance of accessibility was indirectly associated with positive affect via (a) actor-actor and (b) actor-partner effects.</p><p>Consistent with H2b, actor connected availability had a negative association with negative affect, F(1, 3,016) ¼ 86.71, p &lt; .001. Opposite to predictions of H4b, the partner effect of connected availability also had a negative relationship with negative affect, F(1, 3,014) ¼ 6.78, p ¼ .009 (Table <ref type="table" target="#tab_2">3</ref>). The more a person reported immediate availability of their partner, the less negative affect they reported for the day. Further, the more a person reported immediate availability of their partner, the less negative affect their partner reported across the day. Controlling for actor and partner connected availability, there remained several actor effects. Actor multimedia frequency, F(1, 2,923) ¼ 5.91, p ¼ .02, and actor accessibility, F(1, 2,926) ¼ 8.85, p ¼ .003, were negatively related to negative affect. A higher frequency of using media with their partner and the ease of reaching their partner on those media predicted less negative affect, independent of connect availability. There was an evidence supporting all four indirect effects of multimedia frequency to negative affect through connected availability, although multimedia frequency maintained a direct effect beyond connected availability. Accessibility was connected to negative affect through actor-actor and actor-partner routes (H5). In addition, there was a positive relationship between actor multimedia disclosure and negative affect, F(1, 2,985) ¼ 8.41, p ¼ .004. Greater disclosure across all media predicted more negative affect that day, but it was not mediated through connected availability since multimedia disclosure was not associated with connected availability, as described in the tests of H1c and H3c.</p><p>For life satisfaction, the actor effect of connected availability was significantly related to life satisfaction, F(1, 2,894) ¼ 74.55, p &lt; .001. People who report more connected availability with their romantic partner report more life satisfaction. There was also positive association between partner connected availability and life satisfaction, F(1, 2,889) ¼ 3.92, p ¼ .048. A participant's perception of continuous, constant availability with their romantic partner predicted higher life satisfaction for their partner for the day. After including connected availability in the model, partner effect of accessibility remained independently associated with life satisfaction, F(1, 2,842) ¼ 9.78, p ¼ .002. In other words, when a person perceives easy technical access to reach communication goals, their partner reports greater life satisfaction, even after considering the perceptions of being available for help at any given moment. Testing H5, indirect effects for multimedia frequency were as follows: (a) actor-actor and (b) partner-actor. These indirect effects indicate that life satisfaction is associated with multimedia frequency through both actor connected availability and partner connected availability. Accessibility to life satisfaction through connected availability held for actor-actor, no cross-dyad effects. Actor accessibility predicted more actor connected availability which, in turn, predicted higher life satisfaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The overarching goal of this research was to address the consequences for SWB of being constantly connected in close relationships. As interpersonal communication spans across the media landscape, this study took a media multiplexity perspective to consider the well-being consequences of being always on through the interpersonal media ecosystem. We advanced and empirically tested connected availability, derived from a combination of attachment theory <ref type="bibr" target="#b0">(Bowlby, 1969)</ref> and connected presence <ref type="bibr" target="#b23">(Licoppe, 2004)</ref>, as a mechanism explaining why the integration of multiple media for interpersonal communication is consequential for SWB. Finally, we conceptualized this process as dyadic, where effects of media use are dependent upon both the person and their partner <ref type="bibr" target="#b19">(Kashy et al., 2008)</ref>.</p><p>The results show that the relationship between media multiplexity and SWB is driven by the comfort received from connected availability or believing that a partner is immediately ready for contact, regardless of time, or geographic location. Connected availability did not predict any of the negative associations between media multiplexity and SWB when considered at a dyadic level, as originally expected. Rather than being detrimental, connected availability predicted improvement in a partner's SWB across a given day. We discuss the implications of these findings for communication theory and the debate around digital media and well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Media multiplexity and connected availability</head><p>The media diet of a cohabitating romantic couple, in our sample, showcased the hybrid of offline and online media. This study took a media multiplexity approach to communication across the media landscape. Two novel contributions are thinking about the affordance of accessibility within the MMT framework and testing effects as interdependent among romantic partners. Accessibility was conceptualized as the affordance of the perceived ease of reaching a partner over all available media. This characterization of accessibility focuses on the breadth of the media ecosystem within a dyad rather than accessibility levels of individual media (e.g., <ref type="bibr" target="#b8">Fox &amp; McEwan, 2017)</ref>. Our results suggest that the perceived accessibility of the media ecosystem is associated with SWB, beyond the number of media used, the frequency of media used, and the disclosure across media. Therefore, we argue that perceived affordances of a technology may influence well-being. A second contribution was providing a mechanism for why the use of social media and mobile phones in close relationships is implicated in well-being, as shown, for example, by <ref type="bibr" target="#b2">Burke and Kraut (2016)</ref>. We turned to attachment theory to explicate how people use their attachment figures to regulate their well-being <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>. Drawing together from disparate lines of research on connected presence <ref type="bibr" target="#b23">(Licoppe, 2004)</ref> and attachment theory <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>, we hypothesized that communication across the diverse portfolio of media available for communication creates connected availability in intimate relationships.</p><p>The findings of this study suggest that the process of maintaining availability throughout the day is an interdependent process. The number of media used for communication in the last hour was associated with greater connected availability. Using one, two, three, or four media in the last hour predicted more connected availability than no communication in the last hour. However, when a member of a romantic relationship reported using two media, rather than only one, their reports in connected availability were lower. Our data are consistent with the idea of diminishing returns for media multiplexity <ref type="bibr">(Taylor &amp; Bazarova, 2018a)</ref> and the curvilinear effect of media use on well-being <ref type="bibr" target="#b30">(Przybylski &amp; Weinstein, 2017)</ref>. Thus, models of the social consequences of digital media need an integrative approach of both the positive and negative effects, as argued in the "social media see-saw model" <ref type="bibr" target="#b38">(Weinstein, 2018)</ref>. Further, the use of more media is thought to result in feeling always available <ref type="bibr" target="#b37">(Vorderer et al., 2017)</ref>, but our data suggest that the use of many media may predict unavailability. This finding leaves a question about why using more media can make a person feel less proximity to and responsiveness to others.</p><p>Media multiplexity predicted connected availability beyond number of media. Multimedia frequency was associated with a greater sense of connected availability in that person and their partner. In other words, the more frequently people reported communicating with their partner in the last hour, the more likely they felt connected availability to their partner. Multimedia frequency went on to predict greater connected availability for a person's partner. The partner effects of multimedia frequency document the need for digital media scholarship to think about effects at levels beyond the individual, although our effect sizes suggest partner effects are less strong than actor effects. The accessibility perceived from a medium predicted a person's own connected availability but not across dyads. Thus, perceived affordances may best predict outcomes for an individual, rather than across dyads. Finally, the amount of self-disclosure across media, however, was unrelated to connected availability. The medium effect size between media multiplexity and connected availability suggests the interconnected nature of online and offline is central in generating always on, always available relationships.</p><p>This pattern of results suggests that connected availability is a consequence of short, frequent interactions between partners across media, and media that are perceived as accessible, consistent with arguments for media use in "connected relationships" <ref type="bibr" target="#b23">(Licoppe, 2004)</ref>. Quick, mundane text message exchanges or phone calls that happen in long-term romantic relationships may appear like subpar communication or that face-to-face interactions are being displaced <ref type="bibr" target="#b32">(Sbarra et al., 2019)</ref>, but, in fact, this type of talk has critical relational functions <ref type="bibr" target="#b35">(Taylor &amp; Bazarova, 2018b)</ref>. The lack of partner effect for accessibility to connected availability brings up new questions about how partners (mis)interpret signals for the ease of connecting with their partner via media as meaning that their partner is immediately available for communication. Thus, we suggest factors influencing that the perceived availability of a partner may not reflect the reality of a partner's availability. Future research should investigate this interpersonal availability calculus to understand how partners make judgments about each other's availability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The dyadic effects of connected availability</head><p>A third contribution of this research is the dyadic consequences of connected availability, or a person's perception of partner's availability for connection anytime, anywhere. Guided by attachment theory <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>, we predicted that maintaining an always on, always available relationship with a romantic partner would improve the SWB of the person, and that connected availability would explain the relationship between media multiplexity and SWB. Actor effects represent the within-person effect of connected availability on their own SWB. This perception of connected availability was associated with feeling more positive affect, less negative affect, and higher satisfaction with life in that moment. We link the regulation of SWB through intrapersonal perceptions of connected availability to a manifestation of attachment behavioral system in the digital world. There is a little question of whether attachment continues to adulthood <ref type="bibr" target="#b16">(Hazan &amp; Zeifman, 1999)</ref>, but there is a question of what keeping an attachment figure available in the "always on, always available" digital world means. We argue that digital media facilitate this shift, and the attachment behavioral system follows people into their online interactions to give them a sense of security. Part of the apparent attachment to communication technologies (e.g., <ref type="bibr" target="#b27">Matassi et al., 2019)</ref> is likely the attachment bond on the other side of the screen. Our results suggest, rather than seeing this shift to communication technology use as the deterioration of close relationships, the constant connection generated through the interpersonal media ecology may serve attachment functions.</p><p>By conceptualizing connected availability as a dyadic process, we were able to determine how assumptions of their partner's constant availability affects their partner too (vs. themselves), referred to as partner effects of connected availability. The extent to which someone else perceives a person as always available has been suggested to cause that person stress and unhappiness <ref type="bibr" target="#b9">(Fox &amp; Moreland, 2015;</ref><ref type="bibr" target="#b25">Ling, 2016;</ref><ref type="bibr" target="#b31">Reinecke et al., 2018)</ref>. Although several others have observed the reciprocal forces of connected availability in romantic partners, friends, and family <ref type="bibr" target="#b23">(Licoppe, 2004)</ref>, this study was one of the first to empirically tease apart the burden of being always available to romantic partners. The results did not support the negative effects of reciprocal connected availability because the partner effect of connected availability was positively related to the presence of positive affect, the absence of negative affect, and more life satisfaction. These findings suggest that people's well-being was better when their partner believed that they were immediately available for connection. The relationship between connected availability and SWB was stronger than media use to SWB, indicating that the psychological mechanisms of close relationships triggered by media use are critical for understanding the effects of media use on well-being.</p><p>An attachment perspective on the near constant connection of social relationships casts a new light on this behavior. Although the maintenance of being always available may appear revolutionary to human relationships, it is not when infant-to-adult developmental trajectory is considered <ref type="bibr" target="#b1">(Bowlby, 1973)</ref>. The maintenance of availability of attachment figures is an attachment behavior that follows individuals from cradle to grave <ref type="bibr" target="#b0">(Bowlby, 1969)</ref>. If the attachment behavioral system follows people from cradle to grave, then we argue it likely follows them when they turn on their computer or mobile phone. Connected availability is no longer just a possibility because of digital technologies; it is a presumed way of affect regulation. These findings should be interpreted in context of the small effect size, suggesting that the ebb and flow of SWB is influenced by many more factors beyond the feeling of connection to an attachment figure (see Table <ref type="table" target="#tab_1">S2</ref> 1 ). Furthermore, several direct effects of media multiplexity existed after controlling for connected availability; thus, there are likely more mechanisms, such as perceived social support or relational closeness, left to unpack here. Although we see connected availability as a critical aspect of being almost constantly online, the connection between media multiplexity and well-being is multidimensional and requires investigations into multiple mechanisms <ref type="bibr" target="#b35">(Taylor &amp; Bazarova, 2018b)</ref>.</p><p>There are several potential reasons why the results of the partner effect of connected availability were inconsistent with previous work (e.g., <ref type="bibr" target="#b9">Fox &amp; Moreland, 2015;</ref><ref type="bibr" target="#b10">Halfmann &amp; Rieger, 2019)</ref>. The burden of constant availability is often discussed in the negotiation of attention and responsiveness, such as having to immediately respond to text messages or social media posts <ref type="bibr" target="#b27">(Matassi et al., 2019)</ref>. When a person believes their attachment figure is digitally connected to them, (i.e., the partner effect), this may offer improvements in affect without much effort on the part of the partner. Further, the unique nature of the attachment bond compared to other social relationships typically investigated in studies of being always on may explain these differences (e.g., <ref type="bibr" target="#b11">Hall &amp; Baym, 2012)</ref>. What we describe here, making oneself constantly available to an attachment bond, differs substantially on making oneself available to an entire social network (e.g., <ref type="bibr" target="#b36">Trieu et al., 2019)</ref>. The stress of being constantly available to one's social network through social media may come from pressure to respond, the fear of missing out, or the costs of keeping social network awareness <ref type="bibr" target="#b9">(Fox &amp; Moreland, 2015;</ref><ref type="bibr" target="#b12">Hampton et al., 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Although efforts were made to reach a diverse sample, the sample was largely white and heterosexual, and couples in this study had felt high security compared with couples that dropped out. Thus, our results are also limited to communication with a highly satisfied romantic partner, and it is unclear how the sample was communicating outside of a romantic dyad, which could be a source of stress and interference in one's daily life (e.g., <ref type="bibr" target="#b32">Sbarra et al., 2019)</ref>. The scope on close relationships represents one, albeit very important, aspect of the always on culture, and theoretical development beyond close relationships is needed. Furthermore, the number of media used within the last hour was generally below two or below, and this resulted in low power for detecting effects for number of media greater than two (Table <ref type="table" target="#tab_1">2</ref>). Life satisfaction is typically conceptualized as more trait-like than situational <ref type="bibr" target="#b18">(Heller et al., 2004)</ref>; therefore, moment-to-moment fluctuations that are associated with interpersonal communication may not reflect the same life satisfaction as in other studies investigating digital media and long-term affect or life satisfaction (e.g., <ref type="bibr" target="#b5">Dienlin et al., 2017)</ref>. Finally, while the use of intensive longitudinal methods, such as ESM helps to reduce memory recall bias, the design may have promoted individuals to report on less media to avoid additional questions, and one-item measures, which are typical for ESM (e.g., <ref type="bibr" target="#b1">Beyens et al., 2020)</ref>, may not capture the multidimensional nature of concepts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The goal of this research was to explore theoretical underpinnings to the persistent finding about the central role of close relationships in the effects of digital media on well-being <ref type="bibr" target="#b2">(Burke &amp; Kraut, 2016;</ref><ref type="bibr" target="#b3">Chan, 2015)</ref>. These data advance this perspective by showing that interpersonal affect regulation dynamics of established close relationships happen across the interpersonal communication media ecosystem and mirror attachment processes. The always on, always available connection was associated with improved well-being, and keeping a romantic partner constantly connected was found to have reciprocal beneficial effects for the partner.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Dyadic Growth Curve Model of Subjective Well-Being with Number of Media</figDesc><table><row><cell>the Negative Affect Life Satisfaction Connected Availability Positive Affect</cell><cell>Model 1 Model 3 Model 1 Model 3 Model 1 Model 3 Model 1</cell><cell>Fixed Effects B(SE) B(SE) B(SE) B(SE) B(SE) B(SE) B(SE)</cell><cell>Intercept 5.90(.61) *** 5.95(.58) *** 3.61(.51) *** 3.55(.49) *** 7.61(.59) *** 7.64(.57) *** 6.14(.23) ***</cell><cell>Time of Day À.00(.02) À.00(.02) .00(.01) À.00(.01) .01(.01) .01(.01) À.01(.01)</cell><cell>Actor Effects</cell><cell>No. of Media ¼ 1 .15(.05) ** À.00(.06) À.10(.05) .05(.06) .06(.03) À.03(.04) .55(.03) ***</cell><cell>No. of Media ¼ 2 À.03(.09) À.16(.10) .09(.09) .21(.09) * À.06(.06) À.13(.06) * .45(.05) ***</cell><cell>No. of Media ¼ 3 À.03(.20) À.21(.20) .28(.20) .44(.20) * À.12(.13) À.22(.13) .59(.11) ***</cell><cell>No. of Media ¼ 4 À.29(.87) À.46(.86) À.04(.85) .12(.84) .03(.56) À.10(.55) .60(.42)</cell><cell>Connected Avail. .28(.03) *** À.26(.03) *** .15(.02) ***</cell><cell>Partner Effects</cell><cell>No. of Media ¼ 1 .12(.05) * .01(.06) À.05(.05) .06(.05) .10(.03) ** .03(.04) .23(.03) ***</cell><cell>No. of Media ¼ 2 .24(.09) * .16(.10) À.12(.09) À.02(.09) .18(.06) ** .12(.06) .15(.05) ***</cell><cell>No. of Media ¼ 3 À.03(.20) À.14(.20) À.06(.20) .05(.20) .14(.13) .07(.13) .21(.10) *</cell><cell>No. of Media ¼ 4 .80(.87) .65(.86) À.36(.85) À.22(.84) À.05(.56) À.14(.55) .42(.43)</cell><cell>Connected Avail. .07(.03) * À.08(.03) ** .06(.02) ***</cell><cell>Random Effects Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE)</cell><cell>Intercept 1.91(.23) *** 1.49(.19) *** 1.37(.17) *** 2.12(.23) *** 1.79(.22) *** 2.06(.25) *** .29(.04) ***</cell><cell>Slope .03(.01) *** .02(.00) *** .02(.01) *** .02(.00) *** .02(.00) *** .04(.01) *** .01(.00) ***</cell><cell>Residuals 1.77(.06) *** 1.73(.05) *** 1.71(.05) *** .73(.02) *** .73(.02) *** 1.78(.06) *** .44(.01) ***</cell><cell>p &lt; .10, *p &lt; .05, **p &lt; .01, ***p &lt; .001.</cell></row></table><note><p><p>Notes: This table reports individual comparisons. F-tests are available in text.</p>reported communication on 1-3 media in the last hour, their partner reported greater connected availability, supporting H3a.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Least Squares Means for Number of Media Means within each column that have different subscripts are significantly different from one another at p &lt; .05 or greater. Mean estimates are reported from Model 2. F-tests are available in text.</figDesc><table><row><cell></cell><cell>Positive Affect</cell><cell>Negative Affect</cell><cell>Life Satisfaction</cell><cell>Connected Availability</cell></row><row><cell>Actor</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>7.28(.21) a</cell><cell>2.64(.20) ab</cell><cell>7.91(.16) ab</cell><cell>6.04(.10) a</cell></row><row><cell>1</cell><cell>7.44(.21) b</cell><cell>2.54(.20) a</cell><cell>7.97(.16) a</cell><cell>6.59(.10) b</cell></row><row><cell>2</cell><cell>7.25(.29) ac</cell><cell>2.73(.21) b</cell><cell>7.85(.17) b</cell><cell>6.49(.10) c</cell></row><row><cell>3</cell><cell>7.26(.29) abc</cell><cell>2.92(.28) ab</cell><cell>7.79(.20) ab</cell><cell>6.63(.14) bc</cell></row><row><cell>4</cell><cell>7.00(.91) abc</cell><cell>2.60(.89) ab</cell><cell>7.89(.59) ab</cell><cell>6.64(.43) abc</cell></row><row><cell>Partner</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>7.02(.21) a</cell><cell>2.81(.20) a</cell><cell>7.81(.16) a</cell><cell>6.28(.10) a</cell></row><row><cell>1</cell><cell>7.14(.21) b</cell><cell>2.75(.20) a</cell><cell>7.91(.16) b</cell><cell>6.50(.10) b</cell></row><row><cell>2</cell><cell>7.26(.22) b</cell><cell>2.69(.21) a</cell><cell>7.98(.17) b</cell><cell>6.43(.10) b</cell></row><row><cell>3</cell><cell>6.99(.29) ab</cell><cell>2.74(.28) a</cell><cell>7.95(.20) ab</cell><cell>6.49(.14) b</cell></row><row><cell>4</cell><cell>7.81(.91) ab</cell><cell>2.44(.89) a</cell><cell>7.75(.59) ab</cell><cell>6.70(.42) ab</cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Dyadic Growth Curve Model of Subjective Well-Being with Multimedia Communication Connected Availability Positive Affect</figDesc><table><row><cell>Negative Affect Life Satisfaction</cell><cell>Model 2 Model 4 Model 2 Model 4 Model 2 Model 4</cell><cell>B(SE) B(SE) B(SE) B(SE) B(SE) B(SE)</cell><cell>6.53(.60) *** 6.79(.62) *** 3.11(.51) *** 3.50(.49) *** 7.91(.59) *** 7.79(.56) ***</cell><cell>.02(.02) .02(.02) À.01(.02) À.01(.02) .02(.01) .02(.01)</cell><cell></cell><cell>.10(.03) ** .06(.03) * À.11(.03) *** À.08(.03) * .06(.02) ** .04(.02)</cell><cell>.00(.01) .01(.01) .05(.01) ** .04(.01) ** .01(.01) .01(.01)</cell><cell>.13(.03) *** .05(.03) À.18(.03) *** À.10(.03) ** .08(.02) *** .03(.02)</cell><cell>.45(.05) *** À.44(.05) *** .27(.03) ***</cell><cell></cell><cell>.03(.03) .00(.03) .02(.03) .04(.03) .01(.02) À.01(.02)</cell><cell>.01(.01) .02(.01) À.00(.01) À.01(.01) .00(.01) .01(.01)</cell><cell>.08(.03) * .05(.03) À.08(.03) ** À.05(.03) .08(.02) *** .06(.02) **</cell><cell>.10(.05) * À.12(.05) ** .06(.03) *</cell><cell>Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE) Estimate(SE)</cell><cell>2.13(.29) *** 1.95(.27) *** 1.37(.21) *** 1.27(.20) *** 1.99(.23) *** 1.83(.22) ***</cell><cell>.02(.01) *** .02(.01) *** .02(.01) ** .02(.01) ** .02(.00) *** .01(.00) ***</cell><cell>1.76(.07) *** 1.73(.07) *** 1.77(.07) *** 1.74(.07) *** .70(.03) *** .69(.03) ***</cell></row><row><cell></cell><cell>Model 2</cell><cell>B(SE)</cell><cell>7.03(.16) ***</cell><cell>À.00(.01)</cell><cell></cell><cell>.07(.01) ***</cell><cell>À.01(.01)</cell><cell>.20(.01) ***</cell><cell></cell><cell></cell><cell>.03(.01) **</cell><cell>À.01(.01)</cell><cell>.02(.01)</cell><cell></cell><cell>Estimate(SE)</cell><cell>.12(.02) ***</cell><cell>.00(.00) **</cell><cell>.28(.01) ***</cell><cell>.01, ***p &lt; .001.</cell></row><row><cell></cell><cell></cell><cell>Fixed Effects</cell><cell>Intercept</cell><cell>Time of Day</cell><cell>Actor Effects</cell><cell>Multimedia Frequency</cell><cell>Multimedia Disclosure</cell><cell>Accessibility</cell><cell>Connected Avail.</cell><cell>Partner Effects</cell><cell>Multimedia Frequency</cell><cell>Multimedia Disclosure</cell><cell>Accessibility</cell><cell>Connected Avail.</cell><cell>Random Effects</cell><cell>Intercept</cell><cell>Slope</cell><cell>Residuals</cell><cell>p &lt; .10, *p &lt; .05, **p &lt;</cell></row></table><note><p>Notes: This table reports individual comparisons. F-tests are available in text.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Computer-Mediated Communication Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206 Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206 191 Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206 193 Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206 203 Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_7"><p>Journal of Computer-Mediated Communication 26 (2021) 187-206 205 Downloaded from https://academic.oup.com/jcmc/article/26/4/187/6357206 by City University of Hong Kong Library user on 02 March 2023</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Special thanks to <rs type="person">Francoise Vermeylen</rs>, <rs type="person">Lee Humphreys</rs>, <rs type="person">Sahara Byrne</rs>, <rs type="person">Cindy Hazan</rs>, the editorial staff at JCMC, and the four anonymous reviewers for their support and helpful feedback. This research was funded by the <rs type="funder">Cornell Center for Social Science</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head><p>Additional Supporting Information may be found in the online version of this article. Please note: Oxford University Press is not responsible for the content or functionality of any supplementary materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. https://osf.io/4hw97/</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Attachment and loss</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bowlby</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>Basic Books</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Attachment and loss: Vo1 2. Anxiety and anger</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bowlby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Beyens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Pouwels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Van Driel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keijsers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<idno type="DOI">10763.10.1038/s41598-020-67727-7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The effect of social media on well-being differs from adolescent to adolescent</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basic Books</publisher>
+			<date type="published" when="1973">1973. 2020</date>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The relationship between Facebook use and well-being depends on communication type and tie strength</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kraut</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12162</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12162" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="265" to="281" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Multimodal connectedness and quality of life: Examining the influences of technology adoption and interpersonal communication on well-being across the life span</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12089</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12089" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3" to="18" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The remarkable changes in the science of subjective well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1745691613507583</idno>
+		<ptr target="https://doi.org/10.1177/1745691613507583" />
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="663" to="666" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Reinforcement or displacement? The reciprocity of ftf, im, and sns communication and their effects on loneliness and life satisfaction</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dienlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Masur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12183</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12183" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="71" to="87" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Explicating affordances: A conceptual framework for understanding affordances in communication research</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Treem</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12180</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12180" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="35" to="52" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A new look at social support: A theoretical perspective on thriving through relationships</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Feeney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Collins</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1088868314544222</idno>
+		<ptr target="https://doi.org/10.1177/1088868314544222" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="113" to="147" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Distinguishing technologies for social interaction: The perceived social affordances of communication channels scale</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcewan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2017.1332418</idno>
+		<ptr target="https://doi.org/10.1080/03637751.2017.1332418" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="298" to="318" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The dark side of social networking sites: An exploration of the relational and psychological stressors associated with Facebook use and affordances</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Moreland</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.11.083</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2014.11.083" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="168" to="176" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Permanently on call: The effects of social pressure on smartphone users&apos; self-control, need satisfaction, and well-being</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Halfmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rieger</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jcmc/zmz008</idno>
+		<ptr target="https://doi.org/10.1093/jcmc/zmz008" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="165" to="181" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Calling and texting (too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Baym</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444811415047</idno>
+		<ptr target="https://doi.org/10.1177/1461444811415047" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="316" to="331" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Digital media and stress: The cost of caring 2.0. Information</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Hampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2016.1186714</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2016.1186714" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Communication &amp; Society</publisher>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1267" to="1286" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Strong, weak, and latent ties and the impact of new media</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01972240290108195</idno>
+		<ptr target="https://doi.org/10.1080/01972240290108195" />
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Social networks and internet connectivity effects</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13691180500146185</idno>
+		<ptr target="https://doi.org/10.1080/13691180500146185" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="125" to="147" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Attachment as an organizational framework for research on close relationships</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hazan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Shaver</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327965pli0501_1</idno>
+		<ptr target="https://doi.org/10.1207/s15327965pli0501_1" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pair bonds as attachments: Evaluating the evidence</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hazan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zeifman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In J. Cassidy ?</title>
+		<imprint>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m">Handbook of attachment: Theory, research, and clinical applications</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Shaver</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<biblScope unit="page" from="336" to="354" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The role of person versus situation in life satisfaction: A critical examination</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ilies</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.130.4.574</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.130.4.574" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="574" to="600" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Growth curve models for indistinguishable dyads using multilevel modeling and structural equation modeling: The case of adolescent twins&apos; conflict with their mothers</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Donnellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcgue</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0012-1649.44.2.316</idno>
+		<ptr target="https://doi.org/10.1037/0012-1649.44.2.316" />
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="316" to="329" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Cook</surname></persName>
+		</author>
+		<title level="m">Dyadic data analysis</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Assessing mediation in dyadic data using the actor-partner interdependence model</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ledermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10705511.2011.607099</idno>
+		<ptr target="https://doi.org/10.1080/10705511.2011.607099" />
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="595" to="612" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Testing mediation in structural equation modeling: The Effectiveness of the test of joint significance</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leth-Steensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gallitto</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0013164415593777</idno>
+		<ptr target="https://doi.org/10.1177/0013164415593777" />
+	</analytic>
+	<monogr>
+		<title level="j">Educational and Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="339" to="351" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">&apos;Connected&apos; presence: The emergence of a new repertoire for managing social relationships in a changing communication technoscape</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Licoppe</surname></persName>
+		</author>
+		<idno type="DOI">10.1068/d323t</idno>
+		<ptr target="https://doi.org/10.1068/d323t" />
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning D: Society and Space</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="135" to="156" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Taken for grantedness: The embedding of mobile communication into society</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Soft coercion: Reciprocal expectations of availability in the use of mobile communication</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v21i9.6814</idno>
+		<ptr target="https://doi.org/10.5210/fm.v21i9.6814" />
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Digital communication media use and psychological well-being: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Baumeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jcmc/zmz013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="259" to="273" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Domesticating WhatsApp: Family, friends, work, and study in everyday communication</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Boczkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mitchelstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444819841890</idno>
+		<ptr target="https://doi.org/10.1177/1461444819841890" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2183" to="2200" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The psychological effects of the contextual activation of security-enhancing mental representations in adulthood</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mikulincer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Shaver</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.copsyc.2015.01.008</idno>
+		<ptr target="https://doi.org/10.1016/j.copsyc.2015.01.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="18" to="21" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The association between adolescent well-being and digital technology use</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41562-018-0506-1</idno>
+		<ptr target="https://doi.org/10.1038/s41562-018-0506-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Human Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="173" to="182" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A large-scale test of the goldilocks hypothesis: quantifying the relations between digital-screen use and the mental well-being of adolescents</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Weinstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797616678438</idno>
+		<ptr target="https://doi.org/10.1177/0956797616678438" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological science</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="204" to="215" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Permanently online and permanently connected: Development and validation of the Online Vigilance Scale</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Klimmt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hefner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Vorderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0205384</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0205384" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="page" from="13" to="e205384" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Smartphones and close relationships: The case for an evolutionary mismatch</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Sbarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Briskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Slatcher</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1745691619826535</idno>
+		<ptr target="https://doi.org/10.1177/1745691619826535" />
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="596" to="618" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Extending media multiplexity theory to the extended family: Communication satisfaction and tie strength as moderators of violations of media use expectations</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ledbetter</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444816638458</idno>
+		<ptr target="https://doi.org/10.1177/1461444816638458" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1369" to="1387" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Revisiting media multiplexity: A longitudinal analysis of media use in romantic relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Bazarova</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/joc/jqy055</idno>
+		<ptr target="https://doi.org/10.1093/joc/jqy055" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1104" to="1126" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>a)</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Social media and subjective well-being: A relational perspective</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Bazarova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A networked self and love</title>
+		<editor>
+			<persName><forename type="first">Z</forename><surname>Papacharissi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018b</date>
+			<biblScope unit="page" from="86" to="112" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><surname>Trieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schoenebeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Falk</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2017.1405060</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2017.1405060" />
+	</analytic>
+	<monogr>
+		<title level="m">Who likes to be reachable? Availability preferences, weak ties, and bridging social capital</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1096" to="1111" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Permanently online, permanently connected: Living and communicating in a POPC world</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vorderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hefner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<editor>&amp; Klimmt, C.</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The social media see-saw: Positive and negative influences on adolescents&apos; affective well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weinstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444818755634</idno>
+		<ptr target="https://doi.org/10.1177/1461444818755634" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>New Media &amp; Society</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3597" to="3623" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The social media ecology: User Perceptions, strategies and challenges</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/2858036.2858333</idno>
+		<ptr target="https://doi.org/10.1145/2858036.2858333" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems-CHI &apos;16</title>
+		<meeting>the 2016 CHI Conference on Human Factors in Computing Systems-CHI &apos;16<address><addrLine>San Jose, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="89" to="100" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

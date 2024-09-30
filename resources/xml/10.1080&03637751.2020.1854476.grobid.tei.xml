@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Does Facebook-enabled communication influence weak-tie relationships over time? A longitudinal investigation into mediated relationship maintenance</title>
+				<funder>
+					<orgName type="full">Communication Studies department at UNLV</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Natalie</forename><surname>Pennington</surname></persName>
+							<email>natalierose.pennington@unlv.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication Studies</orgName>
+								<orgName type="institution">University of Nevada</orgName>
+								<address>
+									<addrLine>Las Vegas, Las Vegas</addrLine>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication Studies</orgName>
+								<orgName type="institution">University of Kansas</orgName>
+								<address>
+									<settlement>Lawrence</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Communication Studies</orgName>
+								<orgName type="institution">S. Maryland Pkwy</orgName>
+								<address>
+									<addrLine>Las Vegas, Box 454052, Las Vegas</addrLine>
+									<postCode>4505, 89154</postCode>
+									<settlement>Uni-versity of Nevada</settlement>
+									<region>NV</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Does Facebook-enabled communication influence weak-tie relationships over time? A longitudinal investigation into mediated relationship maintenance</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B43ADD77B28CEBF10E3BE68713F1C498</idno>
+					<idno type="DOI">10.1080/03637751.2020.1854476|0|0|2020.</idno>
+					<note type="submission">Received 29 April 2020 Accepted 10 November 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Facebook</term>
+					<term>friendship</term>
+					<term>latent growth curve</term>
+					<term>longitudinal methods</term>
+					<term>social media</term>
+					<term>weak ties</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Although presumed to be a means of maintaining relationships, there is limited empirical evidence whether relationships are actually maintained over time by Facebook-enabled communication. Drawing on communicate bond belong theory, we focus on the most common Facebook friends: weak ties. Adult (N = 174) participants completed three waves of data collection each a month apart, reporting on three non-kin relationships: one with routine Facebook communication, one without routine Facebook communication, and one maintained on other modalities outside Facebook. Latent growth curve analyses suggest although relationships differ in mean closeness, uniqueness, and commitment, Facebook-enabled communication was not associated with relational change. Results suggest the frequency of Facebook-enabled communication reflects relationship closeness but does not influence change in closeness over three months.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Despite being lauded for over a decade as a site where individuals can build and maintain relationships, Facebook has increasingly been scrutinized regarding whether users actually gain these purported benefits. Bridging social capital provided by one's digital network <ref type="bibr" target="#b13">(Ellison et al., 2011</ref><ref type="bibr" target="#b14">(Ellison et al., , 2014) )</ref> and the ability to enable reconnection with old friends <ref type="bibr" target="#b35">(Ramirez et al., 2017)</ref>, as well as the development and maintenance of relationships <ref type="bibr" target="#b50">(Tong &amp; Walther, 2011)</ref>, have all been noted as positive outcomes of Facebook engagement. However, researchers have voiced concerns that the site may perpetuate loneliness <ref type="bibr" target="#b17">(Frison &amp; Eggermont, 2015)</ref> and increase stress <ref type="bibr" target="#b51">(Vanman et al., 2018)</ref> while doing little to foster connection <ref type="bibr" target="#b33">(Pollet et al., 2011)</ref>. At the core of the cost-benefit debate is a distinction among Facebook-enabled forms of communication.</p><p>Individuals who use Facebook for direct (active) communication, like posting on someone's page or sending a direct message, experience the greatest relational benefits <ref type="bibr" target="#b4">(Burke &amp; Kraut, 2014</ref><ref type="bibr">, 2016;</ref><ref type="bibr" target="#b8">Carpenter et al., 2018)</ref> and stand the most to lose by abstaining from the site <ref type="bibr" target="#b25">(Hanley et al., 2019)</ref>. Direct communication through the site, however, takes up only a small percentage of the total time spent on Facebook <ref type="bibr" target="#b21">(Hall, 2018b)</ref>, as the most time-consuming activity on Facebookpassively browsing the newsfeed, taking in information from one's network but not reacting in any wayis not social interaction <ref type="bibr" target="#b21">(Hall, 2018b)</ref>. Indeed, compared to active use, passive use is more strongly associated with the potential drawbacks of engagement with social media <ref type="bibr" target="#b17">(Frison &amp; Eggermont, 2015;</ref><ref type="bibr" target="#b25">Hanley et al., 2019;</ref><ref type="bibr" target="#b51">Vanman et al., 2018)</ref>.</p><p>Users' pre-existing relationships with Facebook "friends" also plays an important role in how the site is used. Close relationships are nearly always multi-modal, wherein social media communication is one of many modalities used for communication <ref type="bibr" target="#b1">(Baym, 2015;</ref><ref type="bibr" target="#b22">Hall, 2020)</ref>. By contrast, most ties on Facebook are weak ties wherein the site serves as the sole or primary means of keeping in contact. The vast majority of relationships maintained through social media are weak ties <ref type="bibr" target="#b12">(Dunbar, 2018;</ref><ref type="bibr" target="#b32">Pennington, 2020)</ref>. Facebook can expand users' network size, but this increase occurs in the outer circles of one's social network. Individuals do not have the capacity either in time or energyto maintain a strong tie with very many people <ref type="bibr" target="#b12">(Dunbar, 2018;</ref><ref type="bibr" target="#b23">Hall &amp; Davis, 2017)</ref>.</p><p>Importantly, research on online social networks tends to focus on communication among strong-tie connections and frequently fails to differentiate between relationship types <ref type="bibr" target="#b18">(Fu &amp; Lai, 2020)</ref>. To contribute to the research on the relationships that are the most prevalent within social media, the present investigation focuses on relationships currently maintained solely through Facebook. In doing so, we seek to answer the question: To what extent is the closeness, uniqueness, and commitment of non-kin ties actually preserved through Facebook-enabled communication? Drawing from the communicate bond belong (CBB) theory <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref>, this investigation tests whether Facebook-enabled communication predicts closeness between weak ties and change in closeness over three months of time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical perspective</head><p>Communicate bond belong theory <ref type="bibr" target="#b23">Hall and Davis (2017)</ref> introduced CBB theory to explain the central role of social interaction in relationships, and the push-pull of the need to belong and the conservation of social energy. <ref type="bibr" target="#b24">Hall and Merolla (2020)</ref> defined energy as "the available capacity to perform tasks or engage in activities," and specify that social energy is focused on the behaviors, cognitions, and emotions accompanying social behavior (p. 88). CBB theory argues individuals are motivated to engage in social interaction to form and maintain relationships in order to satisfy the innate need to belong <ref type="bibr" target="#b26">(Leary &amp; Kelly, 2008)</ref>. The theory outlines five principles to explain individuals' motivations for social interaction: unique relational value, reciprocity, the need to belong, human energy conservation, and human energy investment <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref>. The most relevant principles to this study are reciprocity, energy conservation, and energy investment. The principle of reciprocity contends that relationships require both partners to be mutually invested (or at least perceive that they are), and that they exchange care, effort, and resources in equitable amounts over time. The principle of human energy conservation suggests that due to a finite amount of time and energy, humans will seek to conserve energy while striving to meet their needs. Thus, the theory argues there are only so many relationships individuals can invest in due to these constraints.</p><p>Given these principles, CBB theory has several implications for the structure and maintenance of social networks. Drawing from the work of <ref type="bibr" target="#b12">Dunbar (2018)</ref>, <ref type="bibr" target="#b33">Pollet et al. (2011)</ref>, and <ref type="bibr" target="#b37">Roberts and Dunbar (2011)</ref>, CBB theory <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017;</ref><ref type="bibr" target="#b24">Hall &amp; Merolla, 2020)</ref> contends there are limits to the number of relationships a person can have and, as a result, people tend to have more weak ties and fewer strong ties. The efforts to invest in more relationships can strain the limits on time and social resources, forcing trade-offs in maintenance. According to <ref type="bibr" target="#b12">Dunbar (2018)</ref>, 40% of people's social effort (i.e., energy investment) is devoted to their innermost circle of relationships (i.e., five closest ties), with another 20% dedicated to the next-closest circle, consisting of the 10 next closest connections (p. 35). Relationship priorities in terms of the content of interactions (e.g., episodes) and time spent communicating are mirrored in voice call and text message records, showing individuals make strategic social energy choices among relationships of different tie strength (for review, see <ref type="bibr" target="#b22">Hall, 2020)</ref>. The social energy needed to sustain strong ties over time is greater as an aggregate, both in terms of time and topic; weak-tie relationships typically require fewer interactions in frequency and with less social energy expenditure (e.g., small talk versus deeper discussions; <ref type="bibr" target="#b20">Hall, 2018a;</ref><ref type="bibr" target="#b23">Hall &amp; Davis, 2017)</ref>. This demonstrates the constraints of an individual's social network. Social, interaction is required to sustain a relationship, however, the ability to connect with a wide range of people with any degree of regularity is difficult and comes with trade-offs within one's entire network.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social interaction and relational maintenance within social networks</head><p>CBB theory argues social interaction is the central means by which relationships come into being, develop, and are maintained. To satisfy the need to belong, routine social interaction is needed <ref type="bibr" target="#b26">(Leary &amp; Kelly, 2008)</ref>. Hall (2018b) used <ref type="bibr" target="#b19">Goffman's (1963)</ref> work on focused and unfocused social interaction to tease out types of social interaction. Focused social interaction requires both individuals to be focused on and engaged in the interaction. By comparison, unfocused social interaction occurs when there is mutual acknowledgment between two individuals but is limited in the scope and length (e.g., a smile in passing). According to <ref type="bibr" target="#b22">Hall (2020)</ref>, in a typical day, individuals have 18-26 social interactions, of which only 40% are with close relational partners. For the remaining 60% of social interactions, individuals are likely engaging in low-social energy communication episodes with less close partners. These interactions may be sufficient to maintain weak-tie relationships, as focused social interaction is comparably rare among less close partners <ref type="bibr" target="#b20">(Hall, 2018a)</ref>. However, a failure to provide adequate attention to a relationship can decrease closeness in as little as a few months' time <ref type="bibr">(Roberts &amp; Dunbar, 2011)</ref>. This is consistent with assumptions from the relational maintenance tradition.</p><p>As the first proposition of a conceptual framework of relational maintenance, <ref type="bibr" target="#b7">Canary and Stafford (1994)</ref> stated: "All relationships require maintenance behaviors or else they deteriorate" (italics original, p. 7). This claim suggests unmaintained relationships should decrease in closeness over time. If relational maintenance is defined as keeping a relationship in its current or desired state, the amount of time and social energy needed to maintain relationships should vary as a function of existing tie strength <ref type="bibr" target="#b7">(Canary &amp; Stafford, 1994;</ref><ref type="bibr" target="#b11">Dindia &amp; Canary, 1993)</ref>. As <ref type="bibr" target="#b11">Dindia and Canary (1993)</ref> noted, "the activities associated with maintaining the existence of a relationship may vary dramatically depending on the relationship" (p. 164; see also proposition three of <ref type="bibr" target="#b7">Canary &amp; Stafford, 1994)</ref>. For weak ties, less maintenance may be required simply to keep it in existence <ref type="bibr" target="#b11">(Dindia &amp; Canary, 1993;</ref><ref type="bibr" target="#b36">Rawlins, 1994)</ref>, but, given the first proposition, relationships cannot continue to exist over time without some degree of maintenance. Mediated communication of several types, including Facebook, can offer an energyefficient means of sustaining these ties <ref type="bibr" target="#b1">(Baym, 2015;</ref><ref type="bibr" target="#b12">Dunbar, 2018;</ref><ref type="bibr" target="#b22">Hall, 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook-enabled communication</head><p>As the research literature on social media in general, and Facebook specifically, has matured, there has been an important change in the way social media use has been conceptualized. Once treated monolithically or measured by time or intensity without regard to specific forms of use, researchers have begun to recognize there are important distinctions between forms of Facebook-enabled communication. Due to the constantly changing nature of the platform itself, such distinctions must be sensitive to the features available on Facebook at any given time. For the purpose of this manuscript, we offer three distinctions based on the existing literature: direct communication, one-click acknowledgments, and passive use.</p><p>Direct communication through Facebook could rise to the level of "focused interaction" described by <ref type="bibr" target="#b19">Goffman (1963)</ref> and likely requires more social energy expenditure. Examples of direct communication include commenting directly on posts or photos and/ or posting directly to a friend on their page <ref type="bibr" target="#b4">(Burke &amp; Kraut, 2014)</ref>. With the rising rates of smartphone adoption and the efforts of Facebook developers to integrate text/chat features, private messages have recently become a prominent example of direct communication on the platform as well. Direct textual communication, such as text messaging and chatting through social media, are associated with greater energy expenditure than less interactive forms of social media use <ref type="bibr" target="#b22">(Hall, 2020)</ref>.</p><p>Researchers have also shown that direct communication on Facebook between two relational partners is related to relational closeness <ref type="bibr" target="#b3">(Bryant &amp; Marmo, 2012;</ref><ref type="bibr" target="#b4">Burke &amp; Kraut, 2014</ref><ref type="bibr">, 2016;</ref><ref type="bibr" target="#b30">McEwan et al., 2014)</ref>. It is important to note that the association between the directness of Facebook communication and the closeness of an existing relationship is likely bidirectional: direct Facebook communication may enhance strong relationships <ref type="bibr" target="#b4">(Burke &amp; Kraut, 2014)</ref>; however, strong relationships likely use direct methods of communication on Facebook more often <ref type="bibr" target="#b29">(McEwan, 2013;</ref><ref type="bibr" target="#b30">McEwan et al., 2014)</ref>. In line with CBB theory, weak-tie relationships are not expected to have (or be provided with) the same levels of social energy or engagement. In particular, <ref type="bibr" target="#b3">Bryant and Marmo (2012)</ref> argued direct communication is expected in strong-tie relationships on Facebook; however, this is not necessarily true for weak ties. Indeed, direct communication and contact through Facebook may be a signal of the presence of an already strong tie <ref type="bibr" target="#b29">(McEwan, 2013;</ref><ref type="bibr" target="#b30">McEwan et al., 2014)</ref>.</p><p>One-click acknowledgments through Facebook highlight the idea of social media as a "lightweight tool" for social interaction <ref type="bibr" target="#b50">(Tong &amp; Walther, 2011)</ref>. This consists of using the "reaction" button adjacent to a post or story shared by a Facebook friend. As a recent addition to the classic Facebook "like" (thumbs up emoji), users can also pick from five additional buttons (e.g., "angry" with a mad face emoji) with which to respond. From a theoretical standpoint, one-click acknowledgments can be viewed as a digital acknowledgment, akin to an unfocused social interaction <ref type="bibr" target="#b21">(Hall, 2018b)</ref>. This also requires less social energy; hitting "like" in response to a post requires less energy than engaging in dyadic texting through Facebook <ref type="bibr" target="#b22">(Hall, 2020)</ref>.</p><p>Arguably, re-sharing and re-posting (i.e., two features of Facebook) also fall within the umbrella of "one-click acknowledgements" as users are not required to engage directly with the original poster who is sharing the content. In line with CBB theory, sharing a post without direct comment would not be social interaction because it does not involve exchange and focused attention by both partners <ref type="bibr" target="#b21">(Hall, 2018b)</ref>. One-click acknowledgments, at best, represent "social snacking" behaviors, wherein one may feel like they engaged in the moment, but the need to belong is not satisfied, which leads to an unmet need to belong shortly thereafter <ref type="bibr" target="#b22">(Hall, 2020;</ref><ref type="bibr" target="#b44">Sheldon et al., 2011)</ref>. Indeed, <ref type="bibr">Sumner et al.'s (2018)</ref> analysis of the Facebook "like" button proposes the most common reason for "liking" on Facebook was to show appreciation for content (e.g., enjoying content) rather than relational reasons (e.g., I support you). Although their study noted the value of liking as a low-cost maintenance tool for weak ties, it concluded participants were more likely to engage in liking behaviors with strong ties.</p><p>Beyond direct communication and one-click acknowledgments, much of Facebook use can be understood as the passive consumption of information. Rather than engage in direct social interaction with Facebook friends, many users read status updates, and may even engage in social information seeking through deeper dives into older Facebook posts and pictures, but comparatively infrequently engage in any form of direct or oneclick communication with many members of their online network <ref type="bibr" target="#b1">(Baym, 2015)</ref>. Indeed, as time spent on social media increases, the likelihood of social interaction decreases <ref type="bibr" target="#b21">(Hall, 2018b)</ref>. Based on the provided definition of social interaction, browsing best presents as unfocused social interaction. Although users engage in browsing behaviors through the site, they rarely communicate with the person about the information they read; consider that smartphone users characterize social media browsing as "meaningless" and "not doing anything" <ref type="bibr">(Lukoff et al., 2018, pp. 11-12)</ref>.</p><p>When it comes to browsing, the literature is mixed in how it relates to tie strength and relational closeness. <ref type="bibr" target="#b4">Burke and Kraut (2014)</ref> found passive consumption of a friend's content (e.g., looking at pictures posted, reading status updates) led to increased closeness. However, this research focused heavily on strong-tie relationships, wherein users were asked to identify their six closest connections online. As a result, the starting point for closeness was above the mid-point average of the scale <ref type="bibr" target="#b4">(Burke &amp; Kraut, 2014)</ref>. Research from McEwan (2013), conversely, found there was no relationship between relational closeness and browsing behaviors (conceived of as surveillance), but this study also focused primarily on strong-tie connections. The prior focus on strong-tie relationships in these studies begs the question of the influence of different forms of Facebook-enabled communication in relation to tie strength. It may be browsing behaviors are sufficient to maintain closeness for weak ties, but not strong ties. As a result of the existing literature, the following research questions and hypothesis are posed: RQ 1 : Will there be a difference in the mean levels of relationship outcomes over three months based on relationship type? </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Participants were recruited through Amazon's Mechanical Turk (MTurk) service. MTurk is a site where researchers (requesters) can solicit potential participants (workers) to complete tasks in exchange for payment. MTurk was selected for data collection due to the greater sample diversity and representation of workers compared to college student samples <ref type="bibr" target="#b43">(Sheehan, 2018)</ref>. In addition, MTurk allows requesters the opportunity to assign qualifications to limit access to a study <ref type="bibr" target="#b43">(Sheehan, 2018)</ref>. Participants were paid $1.25 for each successfully completed survey with the possibility of an additional bonus payment of 75 cents if they completed all three waves. The bonus was used as a way to decrease attrition <ref type="bibr" target="#b47">(Stoycheff, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>In total, 642 MTurk Workers completed wave 1, with 405 passing the attention checks and bot-screening. Of those participants, 56.3% returned at wave 2, four weeks later (N = 228). One hundred and seventy-four participants completed the third and final wave. For those participants who completed all three waves of data collection, 99 identified as female (56.9%), 72 identified as male (41.4%), with the remaining participants identifying as trans female (0.6%) and nonbinary (1.1%). Participants primarily identified as White (78.2%, n = 136), followed by Asian (8.0%, n = 14), African American/Black (6.9%, n = 12), Hispanic/Latinx (4.6%, n = 8), biracial (1.7%, n = 3) and other (0.6%, n = 1). Ages ranged from 18 to 70 (M = 38.10, SD = 10.69). The plurality of participants indicated they had completed a bachelor's degree (44.8%, n = 78), followed by 23% completing high school/GED (n = 40) and 17.8% completing an associate degree (n = 31). The remaining participants were currently working towards a bachelor's degree (5.2%, n = 9) or had completed an advanced degree (9.2%, n = 16). Of those with an advanced degree, the most common responses were MA or MBA.</p><p>The number of Facebook friends reported by participants ranged from 3 to 1785 (M = 285.77, SD = 292.58). Of the relationship types participants reported on, 54.9% (n = 284) were categorized as "old friend," 13.9% (n = 72) as "current friend," and 11.0% (n = 57) as "friend of a friend." The remaining categories each represented roughly 5% or less of the sample: best friend (0.4%), ex-partner (3.9%), coworker (5.0%), classmate (5.4%), and other (5.4%). Of those who identified "other," examples included former coworker, friends met through Facebook groups, and the family member of a friend (e.g., the mother of your daughter's friend).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>To explore whether Facebook-enabled communication can be said to actually maintain relationships, this investigation focused on relationships for whom Facebook was the sole means of communication. To control for the role of face-to-face (FtF) communication, all three relationships assessed were long distance with neither recent nor routine FtF contact. The survey asked participants to identify two non-family ties in their Facebook social network. For the first friend, they were asked to identify someone with whom they do communicate somewhat regularly through the site, had not seen FtF within the past year, and did not use any other form of communication technology to communicate with. For the second friend, participants were asked to identify someone with whom they do not communicate regularly through Facebook, had not seen FtF within the past year, and did not use any other form of communication technology to communicate with. The final non-kin relationship partner selected was maintained through a nonsocial media form of technology (e.g., email), and provided a baseline for comparison against Facebook-enabled communication. These criteria were repeated in the form of yes/no questions later in the survey and served as attention checks. Once those two relationships were identified, participants completed a series of questions about that relationship followed by a Facebook-enabled communication scale. Finally, participants completed two items related to Facebook engagement (i.e., total number of Facebook friends, average time spent on Facebook that week). The survey concluded with demographic questions.</p><p>To complete the remaining waves of data collection, participants were contacted through direct messages on MTurk and asked to complete a follow-up survey approximately four weeks after T 1 and a final survey approximately four weeks after T 2 . To ensure participants reported on the same relationships as T 1 , they were provided with a unique code at each time point that, when inputted into the Qualtrics survey, allowed their prior answers for the names of each friend to be piped in as text. At T 2 and T 3 , participants were asked if they had communicated with that friend outside of Facebook in the last month; 10.4% of the relationships reported on had contact outside of Facebook at T 2 and 3.7% at T 3 . The most commonly reported contact outside of Facebook at either time point was a text message or email. Finally, the same scales from T 1 were repeated regarding relational closeness and weekly Facebook use at T 2 and T 3 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Weak-tie relationships</head><p>To measure the nature of the weak-tie relationship, we relied upon <ref type="bibr" target="#b52">Wright's (1997)</ref> extensive research on friendship. To examine intimacy in the relationship, we used <ref type="bibr">Aron et al.'s (1992)</ref> Inclusion of Other in the Self (IOS) to gauge relational closeness. This single-item measure evaluates the degree to which one's self-concept overlaps with the person's Facebook friend, and has been used successfully in past research (see <ref type="bibr" target="#b3">Bryant &amp; Marmo, 2012)</ref>. Participants were shown seven Venn diagrams with two circles (one labeled "self," the second labeled "other") that gradually moved from a diagram with zero overlap (1) to an almost entirely overlapping diagram (7). Participants were asked to select which of the overlapping circle diagrams best represented their current relationship with the friend selected. Friendship uniqueness was measured using <ref type="bibr" target="#b52">Wright's (1997)</ref> person-qua-person scale, which is defined as personalized interest or concern for the person (i.e., as unique, genuine, irreplaceable). This was measured on a 7-point Likert scale that ranged from (1) strongly disagree to (7) strongly agree and consisted of three items (e.g., "If I completely lost touch with this person, I would really miss the special kind of companionship (s)he provides"). Finally, <ref type="bibr" target="#b52">Wright (1997)</ref> differentiates uniqueness and closeness from commitment, which is the degree to which the respondent wishes the relationship will continue over time. Commitment was measured using a six-item, modified version of the commitment scale used in the interdependence model <ref type="bibr" target="#b38">(Rusbult et al., 1998</ref>) on a 7-point Likert scale that ranged from (1) strongly disagree to (7) strongly agree. All modifications generalized the relationship type (e.g., "I am committed to maintaining my relationship with this person"). All three concepts are distinct and particularly relevant to friendship because it is a voluntary relationship with few institutional constraints on its continued existence. Such relationships exist because of the emotional closeness between partners, the value of the specific person (i.e., uniqueness), and degree of commitment to that person over time <ref type="bibr" target="#b52">(Wright, 1997)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook-enabled communication</head><p>Facebook interaction was measured using a slider scale to represent the number of days the participant believed they had engaged in that type of interaction with the person they identified within the last month (e.g., if they liked posts from that person every day, they would slide the scale to represent the full month). The slider ranged from 0 to 31 days and consisted of three primary forms of potential communication: indirect/browsing (e.g., "I browse this person's profile"), one-click actions [e.g., "I "like" or react to (e.g., love, sad, angry) this person's posts when they share on Facebook"], and direct communication (e.g., "I send messages to this person through Facebook"). Items for this scale were adapted from existing literature and scales for Facebook-enabled communication <ref type="bibr" target="#b4">(Burke &amp; Kraut, 2014</ref><ref type="bibr">, 2016;</ref><ref type="bibr" target="#b13">Ellison et al., 2011;</ref><ref type="bibr" target="#b17">Frison &amp; Eggermont, 2015;</ref><ref type="bibr" target="#b30">McEwan et al., 2014)</ref>. Table <ref type="table" target="#tab_0">1</ref> provides a correlation matrix of all study variables for all points of time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploratory factor analyses</head><p>To establish the factor structure of the outcome measures, an exploratory factor analysis (EFA) was conducted in SPSS on uniqueness and commitment. This procedure established whether the two measures were distinct <ref type="bibr" target="#b16">(Fabrigar et al., 1999)</ref>. Principal axis factoring with Promax rotation (i.e., oblique) was used because factors likely correlated  <ref type="bibr" target="#b16">(Fabrigar et al., 1999;</ref><ref type="bibr" target="#b39">Russell, 2002)</ref>. To identify the general factor structure, all responses to uniqueness and commitment questions across all three friends across all three times were combined. Although this ignored the nested structure of the data, the confirmatory procedures reported below demonstrate group invariance. According to the pattern matrix, the first three items measuring uniqueness loaded on the first factor and the second factor included the items measuring commitment. These two factors accounted for 77.0% of the total variance. Both measures were reliable (uniqueness α = 0.90; commitment α = 0.95).</p><p>The factorial structure of the measure of Facebook communication was also assessed (see Supplemental materials for EFA results). According to the pattern matrix, two clear factors emerged: Facebook attention (i.e., "pay attention," "like or react," "watch stories") and public Facebook activities (i.e., "share GIFs in response," "post on their page," "share their posts"). These two factors accounted for 54.0% of the total variance. The final three items loaded weakly on both factors. Based on theory, the final factor Facebook direct (i.e., "comment," "send messages") was retained for further analyses. Both of the three-item measures were reliable (Facebook public α = 0.92; Facebook attention α = 0.91).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confirmatory factor analyses and tests of invariance</head><p>Confirmatory factor analysis (CFA) procedures are best reserved for testing a factor model rather than shortening and refining a list of items <ref type="bibr" target="#b39">(Russell, 2002)</ref>. A CFA was conducted in Mplus <ref type="bibr">(Muthen &amp; Muthen, 1998</ref><ref type="bibr" target="#b3">-2012)</ref> to test the global fit of the model, as well as the loadings and cross-loadings of items. Each item loaded on its respective latent factor and items were not allowed to cross-load. The latent factors were allowed to covary and measurement error was initially assumed to be uncorrelated between items <ref type="bibr" target="#b6">(Byrne, 2011)</ref>.</p><p>A CFA was conducted with two relationship outcomes measures. All items significantly loaded on their respective latent factors, with t values exceeding 11.00. The twofactor model produced an acceptable fit to the data: χ 2 (26) = 513, p &lt; .001, CFI = 0.975, CLI = 0.966, RMSEA = 0.100 [90% CI: 0.093, 0.108] , SRMR = 0.016 <ref type="bibr" target="#b6">(Byrne, 2011;</ref><ref type="bibr" target="#b16">Fabrigar et al., 1999)</ref>. A second CFA was conducted on the three-factor Facebook-enabled communication measure. All items significantly loaded on their respective latent factors, with t values exceeding 8.50. The three-factor model produced an acceptable fit to the data: χ 2 (11) = 107, p &lt; .001, CFI = 0.985, CLI = 0.971, RMSEA = 0.083 [90% CI: 0.069, 0.098] , SRMR = 0.023 <ref type="bibr" target="#b6">(Byrne, 2011;</ref><ref type="bibr" target="#b16">Fabrigar et al., 1999)</ref>.</p><p>Tests of invariance (TOI) procedures indicate whether the measurement properties (i.e., factor structure and variance-covariance patterns) of the identified latent factor structure differ between samples <ref type="bibr" target="#b10">(Cheung &amp; Rensvold, 2002;</ref><ref type="bibr" target="#b42">Schoemann et al., 2014)</ref>. Configural invariance demonstrates the same items can be used across groupings (i.e., relationship type, time; <ref type="bibr" target="#b10">Cheung &amp; Rensvold, 2002)</ref>. A constant factor structure is relevant to longitudinal analyses because it demonstrates that, although the mean values may differ by group or by time, the fit of the items when measuring the underlying latent constructs does not change <ref type="bibr" target="#b42">(Schoemann et al., 2014)</ref>. TOI are confirmed when changes in RMSEA are &lt;0.02 and changes in CFI and TLI are &lt;0.01 <ref type="bibr" target="#b10">(Cheung &amp; Rensvold, 2002)</ref>.</p><p>The first TOI compared measurement across three time periods for dependent measures and a second TOI compared Facebook measures. A multiple-group analysis was conducted, holding the item loadings constant across all three times. For uniqueness and commitment, the results suggested a slightly improved fit to the data when factor loadings were allowed to vary by wave of the study, but the differences in model fit confirmed configural invariance (i.e., RMSEA Δ = 0.009; CFI and TLI Δ = 0.003). For Facebook-enabled communication measures, the results suggested a worse fit to the data when the factorial structure was allowed to vary, which confirms configural invariance. These analyses suggest that using the same items to measure both of the relationship outcome measures and the three Facebook-enabled communication measures across all three times was appropriate.</p><p>Two additional TOIs compared measurement across relationship type, again holding the item loadings constant across all three times. For uniqueness and commitment, the results suggested a slightly improved fit to the data when factor loadings were allowed to vary, but the differences in model fit confirmed configural invariance (i.e., RMSEA Δ = 0.012; CFI and TLI Δ = 0.005). For the two relationships connected on Facebook, a TOI was conducted for the Facebook-enabled communication measures. Results suggested a slight improvement to fit when factor loadings were allowed to vary (i.e., RMSEA Δ = 0.009; CFI and TLI Δ = 0.008), but the differences also confirmed configural invariance. Prior to conducting further analyses, the estimated marginal means of the three outcome measures with 95% confidence intervals, controlling for demographic characteristics, are plotted in Figure <ref type="figure" target="#fig_1">1(a-c</ref>). It is a recommended practice when studying change over time to visualize the data to promote accurate interpretation <ref type="bibr" target="#b42">(Schoemann et al., 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Latent growth curve modeling</head><p>Latent growth curve modeling (LGM) was used to estimate change over time <ref type="bibr" target="#b34">(Preacher et al., 2008;</ref><ref type="bibr" target="#b42">Schoemann et al., 2014)</ref>. LGM allows researchers to explore whether individual differences that are either stable across time (e.g., sex) or vary across time (e.g., media behavior) influence the rates of change (i.e., slope) or the mean levels (i.e., intercepts) of an outcome of interest. When data are collected for a minimum of three time periods, this technique offers several advantages, including the ability to use statistical controls to test differences in model fit between groups. Intercepts and slopes can be compared across groups (i.e., friendship type) through nested model comparisons (i.e., χ 2 at 1 df).</p><p>To answer RQ 1 and RQ 2 , three latent growth curve models were estimated for IOS, uniqueness, and commitment. Because TOI were confirmed, the measured scores for the outcomes (rather than the latent factors) were used to simplify all analyses. After fitting a null model, which estimated the slope and intercept across waves, personlevel covariates were added to the model (i.e., age, sex, race, ethnicity, education) to control for variation accounted for by demographic characteristics. Then, friendship type was entered into the model. The results indicated intercept, but not slope, was significantly associated with friendship type for IOS, slope: b = -0.005, SE = 0.028, p = .863; intercept: b = 0.478, SE = 0.053, p &lt; .001, and uniqueness, slope: b = -0.058, SE = 0.031, p = .060; intercept, b = 0.628: SE = 0.066, p &lt; .001. For commitment, both slope, b = -0.090, SE = 0.027, p = .001, and intercept, b = 0.640, SE = 0.061, p &lt; .001, were associated with friendship type. Over three months, the mean levels of closeness, uniqueness, and commitment were influenced by the type of relationship (RQ 1 ). Examining Figure <ref type="figure" target="#fig_1">1(a-c</ref>), friends who are connected on Facebook but do not communicate frequently appear to be less close and committed and considered less unique compared to the other two types of friends. In response to RQ 2 , change in closeness and uniqueness over three months was not associated with type of relationship: all three slopes were statistically identical. Figure <ref type="figure" target="#fig_1">1</ref>(a) suggests friends who do not communicate regularly on Facebook were more likely to grow in commitment compared to the other two friendship types, but this conditional effect required further probing.</p><p>To do so, multi-group LGC analysis was used to explore the association between model slope and relationship outcomes. A series of nested model comparisons was employed to determine how the three friendship types differed from one another based on slopes. A χ 2 change in model fit was used to explore whether estimates differed by friendship type. For IOS and uniqueness, there was no change in model fit by fixing all three slopes to be equivalent. For commitment, and consistent with the above analyses, one pair of slopes showed a reduction of model fit due to fixing slopes to be equivalent, χ 2 (1) = 4.44, p &lt; .05. Specifically, the slope for friendships connected on Facebook with low to no communication frequency was positive and significant, b = 0.480, SE = 0.190, p = .012, but the slope for friends not connected on Facebook was not significant, b = -0.153, SE = 0.228, p = .522. This confirms what a visual inspection of Figure <ref type="figure" target="#fig_1">1</ref>(a) suggests; commitment appears to increase over time for friends who infrequently communicate on Facebook. The change in closeness, uniqueness, and commitment over three months is very similar, whether a friend is active on Facebook, is not active on Facebook, or is not on Facebook at all. The single exception was for friendships connected on Facebook with infrequent communication, where the slope for commitment increased slightly. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facebook-enabled communication</head><p>To test H 1 and address the next set of RQs, the LGC analyses explored whether several types of Facebook use (i.e., attention, direct, public) accounted for the change over time or the overall levels of closeness, uniqueness, and commitment. As these measures were only collected for friends who were linked (i.e., "friends") on Facebook, the third friendship type (i.e., not on Facebook) was excluded from these analyses. Amount of Facebook contact was collected for all three waves. These are known as time-varying covariates <ref type="bibr" target="#b34">(Preacher et al., 2008)</ref>, as the amount of Facebook use varied between months, between friendship types, and between participants. Additionally, whether participants had communicated in some way with their Facebook friend between study waves was controlled for statistically (i.e., "other modality"). The pattern of results (see Table <ref type="table" target="#tab_1">2</ref>) was very consistent: controlling for monthly Facebook use, increases in direct communication (H 1 ) and attention (RQ 3a ) through Facebook with that particular relationship partner were associated with higher mean closeness, uniqueness, and commitment across time. Public Facebook activities were generally unrelated to mean relationship outcomes (RQ 3b ). Direct communication was not significantly associated with relationship outcomes for either relationship type in wave 3 (H 1 ), but there was a considerable drop in response rates (∼24%) that reduced power and would have made effects (if present) less detectable.</p><p>Taken together, these results further confirm that the rates of change in relationship outcomes between times are not associated with Facebook use at any point during the three months of data collection. Although attention and direct communication with a Facebook friend reflected how close, unique, and committed a friendship was overall, Facebook-enabled communication did not explain variance in change in relationship outcomes. That is, it appears Facebook behaviors neither make friendships closer nor prevent their decline; instead, they reflect where the relationship is over three months. <ref type="bibr">et al. (2014)</ref> argue panel models are best suited to distinguish the relative effect of predictive paths at particular times (e.g., T 1 to T 2 vs. T 2 to T 3 ). Particular paths can be fixed or allowed to vary which allows for group and time comparisons (e.g., if effects conditional by group), which allowed us to answer RQ 4 . Furthermore, panel analysis answers RQ 5 : Is friendship closeness or is Facebook-enabled communication a better predictor of future closeness or communication? To simplify analyses, two latent factors were constructed for each response wave: overall friendship closeness and overall Facebook-enabled communication. The first was built from IOS, uniqueness, and commitment, and the second from Facebook direct communication and Facebook attention. The latter two were selected as the LGC models suggested they were the strongest indicators of relationship closeness over time. Error terms were allowed to vary for the same variable measured at several times and the latent constructs measured at the same time. Global fit statistics suggested a good fit to the data: χ 2 (64) = 160.40, p &lt; .001, CFI = 0.957, TLI = 0.93, RMSEA = 0.081 [90% CI: 0.066, 0.097] , SRMR = 0.066 (Figure <ref type="figure" target="#fig_0">2</ref>). The results of the panel model for all participants and both friend types suggest that after controlling for the autocorrelation between the same construct at different times, there is little evidence of the predictive effects of either closeness or Facebook-enabled communication. That is, past closeness did not predict future Facebook communication and past Facebook communication did not predict future closeness (RQ 5 ). Multiplegroup analysis tested whether any of these effects differed by friendship type (RQ 4 ). One path (i.e., the path from closeness at T 1 to Facebook-enabled communication at T 2 ) demonstrated a difference by group, χ 2 (1) = 7.84, p &lt; .01. Specifically, the association was significant for those who did not typically communicate through Facebook, b = 0.955; SE = 0.451, p = .034, but was not significant for friends who more frequently communicated through Facebook, b = 0.235, SE = 0.326, p = .479.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Panel modeling</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Schoemann</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study sought to understand the role of Facebook-enabled communication in the maintenance of weak ties over time. The results suggest that for relationships solely maintained through the site (i.e., weak ties), communication behaviors on Facebook act as little more than a virtual tie sign of average closeness <ref type="bibr" target="#b29">(McEwan, 2013;</ref><ref type="bibr" target="#b50">Tong &amp; Walther, 2011)</ref>. This is reflected in the overall low average number of days participants indicated a form of Facebook-enabled communication occurred (see Table <ref type="table" target="#tab_0">1</ref>). The results also suggest the amount of Facebook-enabled communication does not predict changes in weak-tie relationships over time, whether growing in closeness or preventing decline, once the mean level of closeness was accounted for. In what follows, we discuss the practical and theoretical implications of these findings for the study of social media, relational maintenance, and weak-tie relationships, with particular attention to CBB theory. The use of LGM allowed us to examine the association between Facebook-enabled communication and closeness, both in terms of the mean levels of relationship closeness (i.e., intercept) and in the change in relationship closeness over three months (i.e., slope). The examination of Figure <ref type="figure" target="#fig_1">1(a-c</ref>) and the results regarding the mean differences in intercepts suggest non-kin ties who keep in touch through frequent Facebook-enabled communication or other non-FtF modes of communication have similar levels of closeness, uniqueness, and commitment. These results could be interpreted to indicate relationships maintained solely through Facebook-enabled communication are similar to those maintained through other modalities, which offers some support for the idea Facebook could be a platform for maintenance. More support for this position can be found in the results suggesting relationships with low levels of communication through Facebook were less committed, close, and unique when compared with relationship partners who engaged regularly through the site. This is consistent with media multiplexity theory (MMT), which argues relationships with more modes of communicationin this case, more communication on a single social media platformtend to be stronger relationships <ref type="bibr" target="#b27">(Ledbetter, 2015)</ref>. This also aligns with CBB theory <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref>, wherein individuals would be more likely to expend social energy on strong ties versus weak ties. The results, however, also indicated the amount of Facebook-enabled communication in the prior month did not predict change in relationship closeness at any point over three months (see Table <ref type="table" target="#tab_1">2</ref>). That is, there were no significant associations between the three types of Facebook-enabled communication (i.e., direct messages, attention, and public communication) and change in the relationship over three months of the study. Thus, Facebook-enabled communication seems to have little discernable effect on relationship change, whether in growth or in decline. Notably, these findings may clarify the directionality of the association between relational closeness and Facebook-enabled communication.</p><p>The results support perspectives suggesting characteristics of relationships built offline are a better predictor of personal media use, when compared with the opposite order of causality <ref type="bibr" target="#b22">(Hall, 2020)</ref>. Both the communication interdependence perspective <ref type="bibr" target="#b9">(Caughlin &amp; Sharabi, 2013)</ref> and recent tests of MMT (e.g., <ref type="bibr" target="#b49">Taylor &amp; Bazarova, 2018)</ref> argue relationship characteristics are better predictors of media use than media use is of relationship characteristics. As such, the prior state of a relationship likely forecasts ongoing mediated communication. Two findings from the present investigation offer additional evidence to support this. Specifically, the panel model suggested the path between closeness at T 1 and Facebook-enabled communication at T 2 was significant for those who did not typically communicate through Facebook. By comparison, none of the paths between Facebook-enabled communication were predictive of future closeness for any relationship type. Furthermore, the significant and positive association between the intercept and slope for uniqueness, and to a lesser degree commitment, suggests relationships with higher levels of friendship uniqueness and commitment to begin with had more growth in those relationship outcomes over three months. Therefore, it is possible the initial levels of relationship closeness motivate individuals to use the platform to keep connected, but communication alone on Facebook may be insufficient for explaining changes in the relationship. <ref type="bibr" target="#b45">Shklovski et al. (2008)</ref> assessed how long-distance friendships were maintained through technology and argued some forms of technology serve as a "hygienic factor" (p. 8), wherein it is the absence, and not the presence, of communication affecting relationship closeness. This would explain recent work finding users were hesitant to unfriend online <ref type="bibr" target="#b32">(Pennington, 2020)</ref>, while also supporting the definition of relational maintenance as keeping a relationship in existence (in this case, virtually) as opposed to growth or decline <ref type="bibr" target="#b11">(Dindia &amp; Canary, 1993)</ref>. As a result, this makes future communication possible both through the site and offline.</p><p>In regard to CBB theory <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref>, the results offer insight into the balance of energy conservation and investment, key principles of the theory. In particular, the results illustrate the limitations of using Facebook-enabled communication behaviors as a tool for developing relationships, and perhaps even maintaining them (e.g., <ref type="bibr" target="#b12">Dunbar, 2018;</ref><ref type="bibr" target="#b33">Pollet et al., 2011)</ref>. It is not feasible for all relationships to be maintained through energy-intensive interactions, yet neither more nor less energy-intensive Facebook communication was related to change in the trajectory of the relationship. That is, Facebook is a lightweight tool of keeping in touch that has similarly lightweight (i.e., statistically undetectable) effects on weak-tie closeness over three months. CBB theory helps to explain these results: the principle of reciprocity predicts weak ties have less obligation of maintenance. As a result, the low-energy cost to keep the relationship makes it an easy choice for users on both sides of the relationship <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref>. However, these low-energy forms of communication do not appear to be the types of investments of time or energy that are necessary to promote growth or prevent decay <ref type="bibr">(Roberts &amp; Dunbar, 2011)</ref>. Although users of social media might expect Facebook-enabled communication can maintain relationships and might turn to Facebook when they feel disconnected <ref type="bibr" target="#b44">(Sheldon et al., 2011)</ref>, the results would support the idea that these forms of Facebook-enabled communication do not enhance weak ties maintained solely on the site. As such, these communication actions may not satisfy the need to belong, which occurs in the formation of close and actively engaged relationships <ref type="bibr" target="#b22">(Hall, 2020)</ref>. Additional work focusing on the satiation of the need to belong is needed to confirm this claim.</p><p>Finally, staying connected on Facebook may point to the commemorative function of friendship <ref type="bibr" target="#b36">(Rawlins, 1994)</ref>. Much of the literature often characterizes relationships as "strong" or "weak"; however, <ref type="bibr" target="#b36">Rawlins (1994)</ref> argues commemorative relationships recall a time in a person's life. Indeed, 55% of the relationships reported on in the present investigation were identified as old friends, and social media allows for those ties to be memorialized online, wherein users can digitally reflect back on a relationship and who they were during that time in their life when they passively consume information shared on Facebook. These findings align with recent research on users who keep ties on Facebook rather than unfriend them, even when friends' communication on the site does not align with the users' expectations <ref type="bibr" target="#b32">(Pennington, 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>One limitation of the present investigation is there was significant attrition across time points, particularly between the first and second waves (42.5% of the sample failed to return and were not included in the study). In order to decrease the loss of participants at each time point, the study offered a monetary bonus if workers completed all three waves of data collection and offered the same payment for all three time points, despite less work required at T 2 and T 3 . Bonus payments can increase the chance MTurkers complete the next task <ref type="bibr" target="#b47">(Stoycheff, 2016)</ref>. Importantly, Stoycheff reported 25% attrition after just three days, suggesting the loss of 42.5% of the sample after a month is not unusual, and indeed, is close to rates seen in other research using MTurk for longitudinal data collection (see <ref type="bibr" target="#b41">Schleider &amp; Weisz, 2015)</ref>.</p><p>The use of self-report is an additional limitation. Participants may have been inaccurate in their recall of Facebook-enabled communication in the last month with specific friends. Self-reports of media activity improve with greater specificity to platform, media content, and behavior <ref type="bibr" target="#b40">(Scharkow, 2016)</ref>. The present manuscript also used response scales sensitive to the time between waves and were close ended, which are both recommended practices <ref type="bibr" target="#b15">(Ernala et al., 2020)</ref>. Log data from Facebook itself would be a better measure of communication patterns <ref type="bibr" target="#b15">(Ernala et al., 2020)</ref>; however, access to log data is an unreasonable standard for most researchers. Daily diaries of Facebook-enabled communication could improve recall of communication over the course of a month (see <ref type="bibr" target="#b2">Boase &amp; Ling, 2013;</ref><ref type="bibr" target="#b24">Hall &amp; Merolla, 2020)</ref>.</p><p>Another limitation lies in measurement choices: the study did not measure broadcasting by the participants themselves, the responses to participants' posts by the two Facebook friends, or perception of energy invested based on Facebook-enabled communication. That is, this study failed to account for whether participants' status updates and photos posted were read by or responded to by the two weak-tie friends. Unfortunately, whether participants' ties saw participants' posts or photos is unknowable from participants' point of view. Furthermore, the literature is mixed on the influence of the frequency of status updates on relational maintenance (e.g., <ref type="bibr" target="#b4">Burke &amp; Kraut, 2014;</ref><ref type="bibr" target="#b29">McEwan, 2013)</ref>. The present study measured energy expenditure indirectly, relying upon the difference between types of responses, namely active versus passive, as reported in prior literature (e.g., <ref type="bibr" target="#b21">Hall, 2018b</ref><ref type="bibr" target="#b22">Hall, , 2020))</ref>.</p><p>An important theoretical limitation of the present investigation is there may not have been sufficient time to detect changes in the relationship. Unfortunately, the first limitation (i.e., high attrition) made solutions to this very challenging. We took pains to increase statistical power through a larger sample size through high initial recruitment, more incentives to participate, and careful follow-through and reminders. Additionally, panel analyses, significant slope-intercept correlations, and visual inspection of three figures suggests there was variance (i.e., change in uniqueness, closeness, commitment) to be accounted for. In discussing the challenges of testing LGC with more waves of data collection, <ref type="bibr" target="#b34">Preacher et al. (2008)</ref> recommend balancing the value added by adding more points of time with practical concerns such as cost, respondent burden, and attrition. They caution that statistical results are never correct but should be interpreted based on these inherent limitations to data collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions and future directions</head><p>This investigation encourages researchers to think about mediated relational maintenance in a more nuanced and theoretically informed way. Three concepts could aid future research: virtual people watching, the archive of self, and social snacking. <ref type="bibr" target="#b22">Hall (2020)</ref> suggests two of the ways to understand what people do when they use social media are social news (i.e., virtual people watching) and the archive of self. Virtual people watching is an extension of the desire to keep tabs on others offline. The concept of the archive of self speaks to the value of commemorative friendships <ref type="bibr" target="#b36">(Rawlins, 1994)</ref>. It is clear Facebook users value these two affordancespassively people watching and recalling relationships built over a lifetimebut the present study suggests being "in the loop" does not predict change in relationship closeness over time for relationships maintained solely through the platform, so it may be this benefit serves a different outcome.</p><p>CBB theory offers a means of understanding what people are doing from a need-based perspective. Social snacking occurs when people use photos or words from loved ones to stave off feelings of ostracism to get their belongingness needs met when FtF contact is not possible. Although pleasing in the short term, its effects soon diminish <ref type="bibr" target="#b22">(Hall, 2020)</ref>. As research on social media develops, distinctions between feeling the benefits of reflecting on a commemorative friendship and actually maintaining the relationship require further parsing. Virtual people watching and reflecting on a friendship are certainly social behaviors when using a broad definition of the term (e.g., <ref type="bibr" target="#b1">Baym, 2015)</ref>, but passive consumption does not meet the threshold of social interaction required for satisfying the need to belong <ref type="bibr" target="#b21">(Hall, 2018b)</ref>. The extant research on social media use (e.g., <ref type="bibr" target="#b25">Hanley et al., 2019;</ref><ref type="bibr" target="#b33">Pollet et al., 2011)</ref> suggests virtual people watching and reflecting on the archive of self may not be enough to meet belongingness needs. Instead, such behaviors may be a social snack temporarily shoring up feelings of connectedness. At the same time, it is also possible the primary benefit of keeping Facebook friends and staying on the site is access to bridging social capital <ref type="bibr" target="#b13">(Ellison et al., 2011</ref><ref type="bibr" target="#b14">(Ellison et al., , 2014))</ref>. If the results of the present investigation are replicated, it may steer future research to more carefully focus the benefits of Facebook use in bridging social capital and social snacking, especially for those for whom Facebook is the sole means of communication. In this regard, CBB theory would support maintenance of weak ties through social media as it is a low-energy way to keep a relationship in existence with the opportunity to activate and gain access to social capital at a later time.</p><p>The present investigation challenges some of the foundational assumptions of relational maintenance as a theory in regard to weak ties, and supports additional work is needed on what it means to have a relationship with a weak tie, as most work on relational maintenance focuses on strong ties <ref type="bibr" target="#b11">(Dindia &amp; Canary, 1993)</ref>. Results of the growth curve model support the idea that Facebook-enabled communication neither increases nor prevents the decline of closeness, uniqueness, and commitment for weak-tie relationships maintained solely through the platform. Within the context of relational maintenance, specifically, Facebook fails to meet the threshold of maintenance based on preventing deterioration <ref type="bibr" target="#b7">(Canary &amp; Stafford, 1994;</ref><ref type="bibr" target="#b11">Dindia &amp; Canary, 1993)</ref>. Future research should challenge the presumption that communication enabled by Facebook prevents a relationship from deteriorating, both in the case of weak-and strong-tie relationships. It is not sufficient to say people maintain weak-tie relationships through Facebook because users say they do. Instead, Facebook-enabled communication must account for relational maintenance itself, which is to prevent the decline of the relationship through maintenance behaviors <ref type="bibr" target="#b7">(Canary &amp; Stafford, 1994;</ref><ref type="bibr" target="#b11">Dindia &amp; Canary, 1993)</ref>. If researchers agree with one of the core propositions of relational maintenance (i.e., that relationships begin to deteriorate if they are not maintained), future research would benefit from studying change over time.</p><p>One of the benefits of the present investigation, its focus on weak-tie relationships, also creates a challenge in interpreting the results, as Facebook research and relational maintenance research primarily focus on close relationships. Although Facebook is often used for weak ties, research on weak ties in general is limited (cf. <ref type="bibr">Roberts &amp; Dunbar, 2011)</ref>. It would be valuable for communication researchers to review whether the theoretical assumptions about close friends and romantic partners are applicable to old friends, ex-romantic partners, work colleagues, and acquaintances maintained solely through the site. For example, some have argued (e.g., <ref type="bibr" target="#b36">Rawlins, 1994;</ref><ref type="bibr" target="#b46">Sigman, 1991)</ref> there are minimum thresholds established within non-kin relationships, allowing them to exist absent social interaction. In other words, some relationships can sustain closeness absent ongoing communication. Perhaps this is a function of closeness itself: Close relationships deteriorate when not actively maintained, but once they reach a certain point of decline in immediate closeness, they can reside in the archival and commemorative spaces without further attrition. It is an important theoretical challenge for relationship researchers to determine if relationships can be maintained over time (i.e., no loss of closeness) without any communication offline or online.</p><p>CBB theory <ref type="bibr" target="#b23">(Hall &amp; Davis, 2017)</ref> offers a way to interpret relationships developed in the past but are no longer socially active. The principle of energy investment suggests such relationships remain a storehouse of past concern, care, and enjoyment, wherein the longevity of such relationships is explainable based on the accumulation of past investment <ref type="bibr" target="#b22">(Hall, 2020)</ref>. Consistent with research on reconnecting with old friends via social media <ref type="bibr" target="#b35">(Ramirez et al., 2017)</ref>, relationships that were once close are most likely to be reactivated through a catch-up phone call or FtF meeting. That is, contemporaneous investment in a relationship is a reflection of past closeness, which aligns with the results of the present investigation. The endurance of the tie can be understood through this framework as reluctance to forego past investments of social energy. The relationship remains where it is as a function of what once was, rather than as a reflection of current communication. These conclusions are speculative but offer theoretical directions for future work on relational maintenance in the era of social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p><p>Jeffrey A. Hall (PhD, University of Southern California) is a professor of communication studies at the University of Kansas. His work focuses on the interplay between online and offline relationships, theories of social interaction, and mobile and social media.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>RQ 2 :</head><label>2</label><figDesc>Will the rates of change in relationship outcomes over three months differ by relationship type? H 1 : Direct communication through Facebook will explain variance in the change in relationship outcomes, wherein more communication will increase relationship outcomes or prevent declines over time.RQ 3a : Will attention to a relationship partner's Facebook content influence change in relationship outcomes over time? RQ 3b : Will other forms of Facebook use with a specific partner influence change in relationship outcomes over time? RQ 4 : Will the influence of Facebook-enabled communication be moderated by Facebook partner type? RQ 5 : Is friendship closeness or is Facebook-enabled communication a better predictor of future closeness and Facebook communication?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. (a-c) Estimated marginal means of the three outcome measures.</figDesc><graphic coords="12,74.15,53.29,339.36,246.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Results of the panel model.</figDesc><graphic coords="15,74.15,401.95,340.78,224.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Means, SD, and correlation matrix for all variables.</figDesc><table><row><cell>18.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell></cell></row><row><cell>17.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.86</cell><cell></cell></row><row><cell>16.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.82</cell><cell>0.74</cell><cell></cell></row><row><cell>15.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.39</cell><cell>0.36</cell><cell>0.41</cell><cell></cell></row><row><cell>14.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.89</cell><cell>0.37</cell><cell>0.32</cell><cell>0.39</cell><cell></cell></row><row><cell>13.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.63</cell><cell>0.68</cell><cell>0.34</cell><cell>0.38</cell><cell>0.41</cell><cell></cell></row><row><cell>12.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.31</cell><cell>0.32</cell><cell>0.34</cell><cell>0.55</cell><cell>0.63</cell><cell>0.69</cell><cell></cell></row><row><cell>11.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.82</cell><cell>0.25</cell><cell>0.33</cell><cell>0.36</cell><cell>0.70</cell><cell>0.77</cell><cell>0.67</cell><cell></cell></row><row><cell>10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.81</cell><cell>0.72</cell><cell>0.21</cell><cell>0.31</cell><cell>0.34</cell><cell>0.72</cell><cell>0.63</cell><cell>0.53</cell><cell></cell></row><row><cell>9.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.42</cell><cell>0.40</cell><cell>0.41</cell><cell>0.62</cell><cell>0.77</cell><cell>0.82</cell><cell>0.34</cell><cell>0.35</cell><cell>0.36</cell><cell></cell></row><row><cell>8.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.89</cell><cell>0.39</cell><cell>0.40</cell><cell>0.40</cell><cell>0.58</cell><cell>0.81</cell><cell>0.77</cell><cell>0.32</cell><cell>0.32</cell><cell>0.33</cell><cell></cell></row><row><cell>7.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.62</cell><cell>0.63</cell><cell>0.33</cell><cell>0.38</cell><cell>0.43</cell><cell>0.81</cell><cell>0.56</cell><cell>0.60</cell><cell>0.27</cell><cell>0.31</cell><cell>0.33</cell><cell></cell></row><row><cell>6.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.30</cell><cell>0.33</cell><cell>0.32</cell><cell>0.46</cell><cell>0.51</cell><cell>0.58</cell><cell>0.25</cell><cell>0.30</cell><cell>0.33</cell><cell>0.43</cell><cell>0.46</cell><cell>0.53</cell><cell></cell></row><row><cell>5.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.83</cell><cell>0.27</cell><cell>0.30</cell><cell>0.29</cell><cell>0.49</cell><cell>0.61</cell><cell>0.56</cell><cell>0.22</cell><cell>0.29</cell><cell>0.32</cell><cell>0.53</cell><cell>0.61</cell><cell>0.56</cell><cell></cell></row><row><cell>4.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.80</cell><cell>0.70</cell><cell>0.22</cell><cell>0.31</cell><cell>0.31</cell><cell>0.60</cell><cell>0.56</cell><cell>0.50</cell><cell>0.23</cell><cell>0.33</cell><cell>0.32</cell><cell>0.68</cell><cell>0.62</cell><cell>0.53</cell><cell></cell></row><row><cell>3.</cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>0.49</cell><cell>0.49</cell><cell>0.50</cell><cell>0.44</cell><cell>0.66</cell><cell>0.69</cell><cell>0.42</cell><cell>0.42</cell><cell>0.41</cell><cell>0.51</cell><cell>0.71</cell><cell>0.74</cell><cell>0.42</cell><cell>0.42</cell><cell>0.41</cell><cell></cell></row><row><cell>2.</cell><cell></cell><cell></cell><cell>-</cell><cell>0.89</cell><cell>0.43</cell><cell>0.30</cell><cell>0.42</cell><cell>0.41</cell><cell>0.68</cell><cell>0.65</cell><cell>0.39</cell><cell>0.35</cell><cell>0.34</cell><cell>0.46</cell><cell>0.72</cell><cell>0.68</cell><cell>0.33</cell><cell>0.34</cell><cell>0.36</cell><cell></cell></row><row><cell>M SD 1.</cell><cell>Variables</cell><cell>1. Closeness T1 2.48 1.29 -</cell><cell>2. Uniqueness T1 4.36 1.59 0.61</cell><cell>3. Commitment T1 4.40 1.49 0.65</cell><cell>4. FB attention T1 5.22 5.67 0.39</cell><cell>5. FB public T1 3.27 4.74 0.42</cell><cell>6. FB direct T1 2.51 5.21 0.42</cell><cell>7. Closeness T2 2.80 1.52 0.59</cell><cell>8. Uniqueness T2 4.62 1.53 0.61</cell><cell>9. Commitment T2 4.62 1.39 0.53</cell><cell>10. FB attention T2 5.05 6.39 0.32</cell><cell>11. FB public T2 2.80 4.63 0.35</cell><cell>12. FB direct T2 2.45 4.52 0.37</cell><cell>13. Closeness T3 2.81 1.53 0.65</cell><cell>14. Uniqueness T3 4.68 1.54 0.52</cell><cell>15. Commitment T3 4.59 1.44 0.54</cell><cell>16. FB attention T3 4.37 6.20 0.36</cell><cell>17. FB public T3 2.17 3.91 0.41</cell><cell>18. FB direct T3 1.99 4.11 0.39</cell><cell>Note: All correlations were significant (p &lt; .001).</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Facebook-enabled communication association with relationship intercept and slope at three time periods (unstandardized estimates).</figDesc><table><row><cell>Commitment Uniqueness Closeness</cell><cell>1 2 3 1 2 3 1 2 3</cell><cell>Intercept</cell><cell>Time invariant</cell><cell>Age 0.01 (0.00) 0.01 (0.01) 0.01 (0.01) 0.01 (0.01) 0.01 (0.01) 0.01 (0.01) 0.00 (0.01) 0.00 (0.01) 0.00 (0.01)</cell><cell>Sex -0.09 (0.09) -0.14 (0.09) -0.11 (0.10) -0.08 (0.10) -0.13 (0.11) -0.10 (0.11) -0.13 (0.09) -0.20 (0.09) -0.17 (0.09)</cell><cell>Race -0.03 (0.04) 0.00 (0.04) 0.01 (0.05) -0.05 (0.05) -0.03 (0.05) -0.04 (0.05) 0.05 (0.04) 0.07 (0.04) 0.07 (0.05)</cell><cell>Ethnicity 0.26 (0.25) 0.09 (0.25) 0.30 (0.31) 0.34 (0.29) 0.17 (0.29) 0.39 (0.34) -0.62 (0.24) -0.76 (0.23) -0.67 (0.29)</cell><cell>Education 0.07 (0.04) 0.01 (0.04) 0.03 (0.04) 0.04 (0.05) -0.00 (0.05) -0.01 (0.05) 0.06 (0.04) 0.03 (0.04) 0.03 (0.04)</cell><cell>Friend Type 0.51 (0.12) 0.71 (0.11) 0.83 (0.12) 0.50 (0.14) 0.73 (0.13) 0.83 (0.14) 0.57 (0.11) 0.67 (0.10) 0.78 (0.12)</cell><cell>Time varying</cell><cell>Other modality 0.01 (0.15) 0.59 (0.23) 0.05 (0.18) 0.69 (0.26) 0.13 (0.14) 0.78 (0.22)</cell><cell>FB use 0.03 (0.03) 0.01 (0.04) 0.06 (0.05) -0.01 (0.04) -0.04 (0.05) 0.04 (0.06) -0.03(.03) -0.05 (.04) -0.04 (.05)</cell><cell>FB direct 0.04 (0.01) 0.05 (0.02) 0.02 (0.03) 0.06 (0.02) 0.06 (0.02) 0.04 (0.03) 0.03 (0.01) 0.06 (0.02) 0.00 (0.03)</cell><cell>FB attend 0.05 (0.01) 0.04 (.01) 0.04 (.01) 0.05 (0.01) 0.03 (0.01) 0.02 (0.02) 0.02 (0.01) 0.02 (0.01) 0.02 (0.01)</cell><cell>FB public 0.02 (0.02) 0.00 (0.09) 0.07 (0.04) 0.00 (0.02) 0.01 (0.03) 0.05 (0.04) 0.04 (0.02) 0.02 (0.02) 0.14 (0.04)</cell><cell>Slope</cell><cell>Time invariant</cell><cell>Age 0.00 (0.00) 0.00 (0.00) 0.00 (0.00) 0.00 (0.00) 0.00 (0.00) 0.00 (0.00) 0.01 (0.00) 0.00 (0.00) 0.00 (0.00)</cell><cell>Sex -0.07 (0.04) -0.07 (0.04) -0.07 (0.04) -0.07 (0.05) -0.07 (0.05) -0.06 (0.05) -0.10 (0.05) -0.10 (0.05) -0.08 (0.05)</cell><cell>Race -0.03 (0.02) -0.03 (0.02) -0.03 (0.02) -0.01 (0.02) 0.01 (0.02) -0.01 (0.02) -0.01 (0.02) 0.00 (0.02) 0.00 (0.02)</cell><cell>Ethnicity -0.03 (0.13) -0.05 (0.13) -0.14 (0.13) 0.03 (0.02) -0.03 (0.14) -0.10 (0.15) 0.17 (0.15) 0.13 (0.15) 0.08 (0.15)</cell><cell>Education 0.01 (0.02) 0.02 (0.02) 0.02 (0.02) 0.03 (0.02) 0.04 (0.02) 0.03 (0.02) 0.05 (0.02) 0.05 (0.02) 0.04 (0.02)</cell><cell>Friend type -0.14 (0.06) -0.21 (0.05) -0.22 (0.05) 0.00 (0.07) -0.09 (0.06) -0.08 (0.06) -0.04 (0.07) -0.10 (0.06) -0.14 (0.06)</cell><cell>Time varying</cell><cell>Other modality 0.00 (0.00) 0.13 (0.10) 0.20 (0.09) 0.05 (0.12) 0.17 (0.09) -0.06 (0.12)</cell><cell>FB use -0.01 (0.02) -0.06 (0.02) -0.07 (0.02) 0.00 (0.02) -0.03 (0.03) -0.07 (0.03) 0.02 (0.02) -0.01 (0.01) -0.05 (0.03)</cell><cell>FB direct -0.00 (0.02) -0.00 (0.01) 0.03 (0.01) -0.01 (0.01) 0.01 (0.01) 0.02 (0.01) -0.01 (0.01) 0.00 (0.01) 0.03 (0.01)</cell><cell>FB attend -0.01 (0.01) 0.00 (0.01) -0.01 (0.01) -0.00 (0.01) 0.00 (0.01) 0.00 (0.01) -0.00 (0.01) -0.00 (0.01) -0.00 (0.01)</cell><cell>FB public -0.00 (0.01) 0.01 (0.01) -0.02 (0.02) -0.00 (0.01) -0.01 (0.02) -0.01 (0.02) 0.00 (0.01) 0.01 (0.02) -0.02 (0.02)</cell><cell>S with I 0.12 (0.06) 0.19 (0.06) 0.12 (0.06) 0.21 (0.08) 0.26 (0.08) 0.22 (0.08) 0.07 (0.05) 0.11 (0.06) 0.03 (0.06)</cell><cell>CFI 0.959 0.967 0.969 0.976 0.978 0.983 0.965 0.955 0.973</cell><cell>RMSEA 0.086 0.074 0.076 0.063 0.057 0.052 0.074 0.081 0.068</cell><cell>χ 2 47.62 41.49 36.96 30.86 29.68 23.50 38.39 47.49 31.31</cell><cell>0.920 TLI 0.876 0.900 0.906 0.927 0.935 0.950 0.894 0.87</cell><cell>0.019 SRMS 0.034 0.015 0.024 0.012 0.021 0.018 0.015 0.027</cell><cell>N T1 and T2 = -1, frequent FB communication); Race: White, 1; Non-white, 0; Ethnicity: Hispanic/Latinx, 1; Non-Hispanic Latinx, 0; Note: Bold = p &lt; .01; Friend type (0, frequent FB communication;</cell><cell>454; N T3 = 348.</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by funding from the <rs type="funder">Communication Studies department at UNLV</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability statement</head><p>The data that support the findings of this study are available from the corresponding author (NP), upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Natalie Pennington (PhD, University of Kansas) is an assistant professor of Communication Studies at the University of Nevada, Las Vegas. Dr. Pennington's research focuses primarily on the role of communication technology within interpersonal relationships.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Inclusion of other in self scale and the structure of interpersonal closeness</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Aron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smollan</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.63.4.596</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.63.4.596" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="596" to="612" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Baym</surname></persName>
+		</author>
+		<title level="m">Personal connections in the digital age</title>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Measuring mobile phone use: Self report versus log data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12021</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12021" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="508" to="519" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The rules of Facebook friendship: A two-stage examination of interaction rules in close, casual, and acquaintance friendships</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marmo</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407512443616</idno>
+		<ptr target="https://doi.org/10.1177/0265407512443616" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1013" to="1035" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Growing closer on Facebook: Changes in tie strength through social network site use</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annual CHI Conference</title>
+		<meeting><address><addrLine>Toronto, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014-04-26">2014. April 26-May 1</date>
+		</imprint>
+	</monogr>
+	<note>Paper presentation</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The relationship between Facebook use and well-being depends on communication type and tie strength</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12162</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12162" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="265" to="281" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Byrne</surname></persName>
+		</author>
+		<title level="m">Structural equation modeling with Mplus</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Maintaining relationships through strategic and routine interaction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stafford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication and relational maintenance</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Stafford</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="3" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Just between us: Exclusive communications in online social networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laflam</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00224545.2018.1431603</idno>
+		<ptr target="https://doi.org/10.1080/00224545.2018.1431603" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="405" to="420" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A communicative interdependence perspective of close relationships: The connections between mediated and unmediated interactions matter</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Sharabi</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12046</idno>
+		<ptr target="https://doi.org/10.1111/jcom.12046" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="873" to="893" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Evaluating goodness-of-fit indexes for testing measurement invariance</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Rensvold</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15328007SEM0902_5</idno>
+		<ptr target="https://doi.org/10.1207/S15328007SEM0902_5" />
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="233" to="255" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Definitions and theoretical perspectives on maintaining relationships</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dindia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/026540759301000201</idno>
+		<ptr target="https://doi.org/10.1177/026540759301000201" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="173" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The anatomy of friendship</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tics.2017.10.004</idno>
+		<ptr target="https://doi.org/10.1016/j.tics.2017.10.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Science</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="32" to="51" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Connection strategies: Social capital implications of Facebook-enabled communication practices</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444810385389</idno>
+		<ptr target="https://doi.org/10.1177/1461444810385389" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="873" to="892" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cultivating social resources on social network sites: Facebook relationship maintenance behaviors and their role in social capital processes</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12078</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12078" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="855" to="870" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ernala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leavitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<title level="m">How well do people report time spent on Facebook? An evaluation of established survey questions with recommendations</title>
+		<meeting><address><addrLine>Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020-04-25">2020. April 25-30</date>
+		</imprint>
+	</monogr>
+	<note>Annual CHI Conference</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Evaluating the use of exploratory factor analysis in psychological research</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Fabrigar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Wegener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Maccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Strahan</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1082-989X.4.3.272</idno>
+		<ptr target="https://doi.org/10.1037/1082-989X.4.3.272" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="272" to="299" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Toward an integrated and differential approach to the relationships between loneliness, different types of Facebook use, and adolescents&apos; depressed mood</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650215617506</idno>
+		<ptr target="https://doi.org/10.1177/0093650215617506" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="701" to="728" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Are we moving towards convergence or divergence? Mapping the intellectual structure and roots of online social networks 1997-2017: Challenges and opportunities for computer-mediated communication research</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Lai</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jcmc/zmz020</idno>
+		<ptr target="https://doi.org/10.1093/jcmc/zmz020" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="111" to="128" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Behavior in public places: Notes on the social organization of gatherings</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goffman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>The Free Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Energy, episode, and relationship: A test of communicate bond belong theory</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463373.2017.1411377</idno>
+		<ptr target="https://doi.org/10.1080/01463373.2017.1411377" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="380" to="402" />
+			<date type="published" when="2018">2018a)</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444816660782</idno>
+		<ptr target="https://doi.org/10.1177/1461444816660782" />
+		<title level="m">When is social media use social interaction? New Media &amp; Society</title>
+		<imprint>
+			<date type="published" when="2018">2018b</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="162" to="179" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">Relating through technology</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Proposing the communicate bond belong theory: Evolutionary intersections with episodic interpersonal communication</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/comt.12106</idno>
+		<ptr target="https://doi.org/10.1111/comt.12106" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="47" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Connecting everyday talk and time alone to global well-being</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Merolla</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/hcr/hqz014</idno>
+		<ptr target="https://doi.org/10.1093/hcr/hqz014" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="86" to="111" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Taking a break: The effect of taking a vacation from Facebook and Instagram on subjective well-being</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Watt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Coventry</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0217743</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0217743" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS ONE</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Belonging motivation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of individual differences in social behavior</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hoyle</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="400" to="409" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Media multiplexity theory: Technology use and interpersonal tie strength</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ledbetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Engaging theories in interpersonal communication: Multiple perspectives</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Braithwaite</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Schrodt</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="363" to="376" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">What makes smartphone use meaningful or meaningless?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lukoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kientz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hiniker</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3191754</idno>
+		<ptr target="https://doi.org/10.1145/3191754" />
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the ACM Interactive Mobile Wearable Ubiquitous Technology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2018-03">2018. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sharing, caring, and surveilling: An actor-partner interdependence model examination of Facebook relational maintenance strategies</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcewan</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2012.0717</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2012.0717" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="863" to="869" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Development and validation of a Facebook relational maintenance measure</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcewan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sumner Bryant</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19312458.2014.967844</idno>
+		<ptr target="https://doi.org/10.1080/19312458.2014.967844" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="244" to="263" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthen</surname></persName>
+		</author>
+		<title level="m">Mplus user&apos;s guide</title>
+		<imprint>
+			<publisher>Muthen &amp; Muthen</publisher>
+			<date type="published" when="1998">1998-2012</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">An examination of relational maintenance and dissolution through social networking sites</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pennington</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2019.106196</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2019.106196" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Use of social network sites and instant messaging does not lead to increased offline social network size, or to emotionally closer relationships with offline network members</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Pollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G B</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2010.0161</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2010.0161" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Preacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Wichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Maccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Briggs</surname></persName>
+		</author>
+		<title level="m">Latent growth curve modeling</title>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The relational reconnection function of social network sites</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sumner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Spinda</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444815614199</idno>
+		<ptr target="https://doi.org/10.1177/1461444815614199" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="807" to="825" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Being there and growing apart: Sustaining friendships during adulthood</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Rawlins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication and relational maintenance</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Canary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Stafford</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="275" to="294" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The costs of family and friends: An 18-month longitudinal study of relationship maintenance and decay</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G B</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.evolhumbehav.2010.08.005</idno>
+		<ptr target="https://doi.org/10.1016/j.evolhumbehav.2010.08.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Evolution and Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="186" to="197" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The investment model scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Rusbult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Martz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Agnew</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-6811.1998.tb00177.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1475-6811.1998.tb00177.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="357" to="387" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">In search of underlying dimensions: The use (and abuse) of factor analysis in PSPB</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Russell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/014616702237645</idno>
+		<ptr target="https://doi.org/10.1177/014616702237645" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1629" to="1646" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The accuracy of self-reported internet use: A validation study using client log data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19312458.2015.1118446</idno>
+		<ptr target="https://doi.org/10.1080/19312458.2015.1118446" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods &amp; Measures</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Using Mechanical Turk to study family processes and youth mental health: A test of feasibility</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Schleider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Weisz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10826-015-0126-6</idno>
+		<ptr target="https://doi.org/10.1007/s10826-015-0126-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Child and Family Studies</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="3235" to="3246" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Multilevel and longitudinal modeling</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Schoemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rhemtulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of research methods in social and personality psychology</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Reis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Judd</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="571" to="588" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Crowdsourcing research: Data collection with Amazon&apos;s Mechanical Turk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Sheehan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2017.1342043</idno>
+		<ptr target="https://doi.org/10.1080/03637751.2017.1342043" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="140" to="156" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A two-process view of Facebook use and relatedness need-satisfaction: Disconnection drives use, and connection rewards it</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Abad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hinsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0022407</idno>
+		<ptr target="https://doi.org/10.1037/a0022407" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="766" to="775" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shklovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cummings</surname></persName>
+		</author>
+		<title level="m">Keeping in touch by technology: Maintaining friendships after a residential move</title>
+		<meeting><address><addrLine>Florence, Italy</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008-04-05">2008. April 5-10</date>
+		</imprint>
+	</monogr>
+	<note>Annual ACM/CHI conference</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Handling the discontinuous aspects of continuing social relationships: Toward research on the persistence of social forms</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sigman</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.1991.tb00008.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.1991.tb00008.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="106" to="127" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Please participate in Part 2: Maximizing response rates in longitudinal MTurk designs</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stoycheff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2059799116672879</idno>
+		<ptr target="https://doi.org/10.1177/2059799116672879" />
+	</analytic>
+	<monogr>
+		<title level="j">Methodological Innovations</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">A functional approach to the Facebook like button: An exploration of meaning, interpersonal functionality, and potential alternative response buttons</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sumner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ruge-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Alcorn</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444817697917</idno>
+		<ptr target="https://doi.org/10.1177/1461444817697917" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1451" to="1469" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Revisiting media multiplexity: A longitudinal analysis of media use in romantic relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Bazarova</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/joc/jqy055</idno>
+		<ptr target="https://doi.org/10.1093/joc/jqy055" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1104" to="1126" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Relational maintenance and computer-mediated communication</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Walther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Computer-mediated communication in personal relationships</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Wright</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Webb</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Peter Lang</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="98" to="118" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The burden of online friends: The effects of giving up Facebook on stress and well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Vanman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Tobin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00224545.2018.1453467</idno>
+		<ptr target="https://doi.org/10.1080/00224545.2018.1453467" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="496" to="508" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Wright</surname></persName>
+		</author>
+		<title level="m">A bare-bones guide to the Acquaintance Description Form-F2</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

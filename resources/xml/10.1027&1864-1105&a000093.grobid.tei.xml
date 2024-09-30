@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Family-, Media-, and School-Related Risk Factors of Video Game Addiction A 5-Year Longitudinal Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Florian</forename><surname>Rehbein</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Criminological Research Institute of Lower Saxony</orgName>
+								<address>
+									<settlement>Hanover</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dirk</forename><surname>Baier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Criminological Research Institute of Lower Saxony</orgName>
+								<address>
+									<settlement>Hanover</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Family-, Media-, and School-Related Risk Factors of Video Game Addiction A 5-Year Longitudinal Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FB0AA51E36190DF442904BA057026BBB</idno>
+					<idno type="DOI">10.1027/1864-1105/a000093</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>video game addiction</term>
+					<term>computer game addiction</term>
+					<term>extensive video game playing</term>
+					<term>video game overuse</term>
+					<term>extensive gaming</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In recent years, a variety of epidemiological studies have provided empirical data on the prevalence of video game addiction (GA) in different age groups. However, few studies investigated the causes of GA and could explain why video game playing as a widespread phenomenon leads to a comparatively small percentage of addicted players. Additionally, the existing longitudinal studies mainly consider psychological trait variables and neglect the possible explanatory value of predictors in socialization regarding media availability, media use, and family and everyday school life. In this paper, the results of a two-wave longitudinal study comprising a sample of students from Grades 4 to 9 (N = 406) are presented. The data show that 15-year-old video game addicts had already exhibited a number of specific risk factors at the age of 10. Students from single-parent families seem to be particularly at risk, as are students with low experienced school well-being and with a weaker social integration in class. The data also indicate that problematic use of video games in childhood increases the risk of GA in adolescence. Male students are especially vulnerable for developing GA. The results of this study are an important contribution to understanding risk factors for GA in adolescents, thereby laying the groundwork for effective prevention measures.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The relevance of interactive screen media to society has increased considerably in the past decade <ref type="bibr">(Medienpädagogischer Forschungsverbund Südwest, 2012;</ref><ref type="bibr" target="#b12">Feierabend &amp; Klingler, 2000;</ref><ref type="bibr" target="#b39">Rehbein &amp; Mçßle, 2012)</ref>. In some users, it leads to pathological symptoms that are phenomenologically similar to signs of addictive disorders <ref type="bibr" target="#b28">(Kuss &amp; Griffiths, 2012)</ref>. In this regard, addictive use of video games and other Internet applications like social media can be distinguished <ref type="bibr" target="#b51">(Young, Pistner, O'Mara, &amp; Buchanan, 1999)</ref>. Despite an ongoing debate about its clinical relevance <ref type="bibr" target="#b49">(Wood, 2008)</ref>, video game addiction (GA) 1 will be proposed for Section III of the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5; American Psychiatric <ref type="bibr">Association, 2012;</ref><ref type="bibr" target="#b37">Petry, 2012)</ref>. The new diagnosis will only refer to gaming and not to other Internet-related problems, since most studies have been conducted in this field.</p><p>According to recent epidemiological studies, 0.5 of the general population of gamers <ref type="bibr" target="#b40">(Schmidt, Drosselmeier, Rohde, &amp; Fritz, 2011)</ref> and 1.7 of the general population of ninth graders <ref type="bibr" target="#b38">(Rehbein, Kleimann, &amp; Mçßle, 2010)</ref> are affected by GA in Germany. In international representative surveys, prevalence figures for general populations were determined for Norway to be 0.6% <ref type="bibr" target="#b33">(Mentzoni et al., 2011)</ref> and were distinctly higher for the United States at 8.5% <ref type="bibr" target="#b13">(Gentile, 2009</ref>). It appears that the prevalence of GA is particularly high in adolescence <ref type="bibr" target="#b33">(Mentzoni et al., 2011;</ref><ref type="bibr" target="#b40">Schmidt et al., 2011)</ref>. Thus, from the perspective of society and of health care policy, it seems important to identify children who are at particular risk of developing GA. Yet, the use of video games has become so widespread among children that looking at gaming time alone might not be sufficient for predicting the risk of GA, and therefore multivariate explanatory models are required <ref type="bibr" target="#b14">(Gentile et al., 2011)</ref>. Generally, it is to be expected that for the genesis of GA, factors from all three corners of the classical addiction triangle -namely, personality-based, game-related, and environmental risk factors -should contribute to its pathogenesis to some extent, as has been shown for other addictive disorders <ref type="bibr" target="#b25">(Küfner, Metzner, &amp; Bühringer, 2006)</ref>.</p><p>To date, there is a scarcity of longitudinal studies investigating the causes leading to the development of GA. Nevertheless, a congruent basis of risk correlates was identified in cross-sectional studies. In some of these studies, theoretical assumptions about the development of GA are examined in multivariate models, especially by means of regression or path analyses.</p><p>With respect to person-based risk correlates, there is strong evidence that males are at a higher risk of 1</p><p>In this paper, we focus exclusively on research data on video game addiction. In addition to studies on video game addiction, many publications refer to the wider construct of Internet addiction. Internet addiction comprises a heterogeneous spectrum of potentially pathological Internet activities such as shopping, gambling, pornography, or social networking.</p><p>developing GA <ref type="bibr" target="#b33">(Mentzoni et al., 2011;</ref><ref type="bibr" target="#b47">Wçlfling, Thalemann, &amp; Grüsser, 2008)</ref>. Video game addicts also show higher impulsiveness <ref type="bibr" target="#b9">(Collins, Freeman, &amp; Chamarro-Premuzic, 2012;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>, higher acceptance of violence <ref type="bibr" target="#b17">(Grüsser, Thalemann, &amp; Griffiths, 2007;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>, lower empathy <ref type="bibr" target="#b35">(Parker, Taylor, Eastabrook, Schell, &amp; Wood, 2008)</ref>, and inferior social skills <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref>. Additionally, problematic use of massively multiplayer online role-playing games (MMORPGs) can be predicted by lower emotional stability, lower attractiveness, and higher negative valence <ref type="bibr" target="#b7">(Charlton &amp; Danforth, 2010)</ref>. Furthermore, people who are psychologically stressed and less content with their lives are more frequently addicted to video games <ref type="bibr" target="#b33">(Mentzoni et al., 2011;</ref><ref type="bibr" target="#b44">Starcevic, Berle, Porter, &amp; Fenech, 2011)</ref>. They also exhibit signs of other psychological disorders more frequently, particularly attention-deficit/hyperactivity disorder <ref type="bibr" target="#b5">(Bioulac, Arfi, &amp; Bouvard, 2008;</ref><ref type="bibr" target="#b45">Tolchinsky &amp; Jeffferson, 2011)</ref>, depression <ref type="bibr">(Li, Liau, &amp; Khoo, 2011;</ref><ref type="bibr" target="#b33">Mentzoni et al., 2011;</ref><ref type="bibr" target="#b36">Peng &amp; Liu, 2010)</ref>, and anxiety <ref type="bibr" target="#b32">(Mehroof &amp; Griffiths, 2010;</ref><ref type="bibr" target="#b33">Mentzoni et al., 2011;</ref><ref type="bibr" target="#b36">Peng &amp; Liu, 2010)</ref>.</p><p>With regard to game-related risk correlates, extensive gaming times were identified as a risk factor for GA. However, with respect to gaming time alone, it appears that the influence of online gaming times is higher than that of offline gaming times <ref type="bibr" target="#b38">(Rehbein et al., 2010;</ref><ref type="bibr" target="#b40">Schmidt et al., 2011)</ref>. Furthermore, it appears that players of online roleplaying games in particular, but also those of shooter and strategy games, are at risk <ref type="bibr" target="#b3">(Batthyµny, Müller, Benker, &amp; Wçlfling, 2009;</ref><ref type="bibr" target="#b10">Elliott, Golub, Ream, &amp; Dunlap, 2011;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010;</ref><ref type="bibr" target="#b40">Schmidt et al., 2011;</ref><ref type="bibr" target="#b43">Smyth, 2007)</ref>. Addicted gamers also differ in terms of gaming motivation. Thus, gaming for fun and for social reasons tends to be less problematic than gaming to gain status, escape from problems, or due to demands from others <ref type="bibr" target="#b22">(Hellstrçm, Nilsson, Leppert, &amp; ¾slund, 2012)</ref>. Consistent with this result, addicted people typically play in situations where they are experiencing real-life failure. Subsequently, the negative feelings in real life are suppressed or compensated for in a dysfunctional manner by playing games <ref type="bibr" target="#b3">(Batthyµny et al., 2009;</ref><ref type="bibr" target="#b15">Grüsser, Thalemann, Albrecht, &amp; Thalemann, 2005;</ref><ref type="bibr" target="#b24">Hussain &amp; Griffiths, 2009;</ref><ref type="bibr" target="#b30">Li et al., 2011;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010;</ref><ref type="bibr" target="#b46">Wan &amp; Chiou, 2006;</ref><ref type="bibr" target="#b47">Wçlfling et al., 2008)</ref>. This is consistent with the finding that in-game instant successes and in-game experience of self-efficacy are of greater importance to addicted gamers <ref type="bibr" target="#b38">(Rehbein et al., 2010;</ref><ref type="bibr" target="#b40">Schmidt et al., 2011)</ref>.</p><p>Among potential socialization-related risk correlates, the following have so far been identified as relevant: a lack of successful experiences in real life <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref>, low parental support <ref type="bibr" target="#b1">(Baier &amp; Rehbein, 2009)</ref>, elevated use of video games by parents <ref type="bibr" target="#b3">(Batthyµny et al., 2009)</ref>, and the divorce or separation of parents <ref type="bibr" target="#b3">(Batthyµny et al., 2009)</ref>. A number of school-related risk factors such as school-related behavioral problems and school absenteeism <ref type="bibr" target="#b1">(Baier &amp; Rehbein, 2009;</ref><ref type="bibr" target="#b3">Batthyµny et al., 2009;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>, school phobia <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref>, lower grades <ref type="bibr" target="#b13">(Gentile, 2009;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010;</ref><ref type="bibr" target="#b42">Skoric, Teo, &amp; Neo, 2009)</ref>, and prior grade repetition <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref> are more frequently reported for adolescent video game addicts.</p><p>Especially with regard to socialization-related risk correlates, the research literature appears to be scarce. Also, the question arises as to whether many of these risk correlates are causes or consequences of GA. To date, there have only been two published longitudinal studies, in which the causal effects of risk factors contributing to the development of GA were investigated. In a longitudinal study on students from Singapore (N = 3,034), longer gaming times, lower social skills, a lower level of empathy, and higher impulsiveness increased the risk that children would exhibit GA 2 years later. On the other hand, depression, anxiety, social phobias, and inferior school performance seemed to act as outcomes of problematic gaming behavior <ref type="bibr" target="#b14">(Gentile et al., 2011)</ref>. Another longitudinal study on adolescents (N = 542) investigated whether parameters of psychosocial well-being should be classified as consequences or causes of problematic video game usage. With respect to reduced social skills, a causal effect on pathological game usage was revealed 6 months later, but no reciprocal effect of gaming behavior on social skills. With respect to loneliness, heightened pathological gaming increased loneliness, and heightened loneliness increased the risk of pathological gaming as well. On the other hand, no causal links to life satisfaction could be found <ref type="bibr" target="#b29">(Lemmens, Valkenburg, &amp; Peter, 2011)</ref>.</p><p>The longitudinal studies provide important information on causal links underlying the observed cross-sectional correlations. Nevertheless there is a distinct lack of studies investigating risk indicators related to socialization. In addition, the maximum monitoring period of longitudinal studies has been 24 months. This shortcoming seems especially important since environmental and socialization-related GA risk factors in particular may only prove to be relevant over a longer period of time.</p><p>The study presented in this paper was aimed at partially filling the outlined research gab. In a 5-year longitudinal study we investigated whether 15-year-old youths experiencing symptoms of GA already exhibited specific risk characteristics at the age of 10 years. In the process, we focus on aspects of socialization, particularly on family, school, and media use. Our research question reads as follows: Which early risk factors in family, school, and media use contributed to GA in adolescence? Due to the scarcity of longitudinal research and the fact that most risk factors are not sufficiently empirical proven, we refrained from formulating hypotheses about possible causes of GA. Thus, our study was exploratory in nature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample</head><p>The sample is based on a two-wave longitudinal survey in the district of Soltau-Fallingbostel in Germany. The first survey was conducted in 2005 (t1) in fourth-grade students (n = 1,217; return quota: 79.1%). The second survey was conducted in 2010 (t2) in ninth-grade students (n = 1,070; return quota: 87.9%). For both surveys, a standardized questionnaire was administered within the context of the class. In fourth grade, students were guided through the entire process of completing the survey by a trained interviewer. In ninth grade, the questionnaire was completed by the students on their own, following the instructions of the interviewer.</p><p>The study was approved by the state school authorities, and active consent from the schools and teachers was acquired. Furthermore, active consent was obtained from respondents' parents for fourth-grade students, and passive consent was obtained from parents for ninth grade (parents were informed and could refuse their child's participation). Respondents were assured that their answers would be analyzed only by the principal investigators, and not shown to their teachers or parents. The participation of students was voluntary in both fourth and ninth grade.</p><p>Ninth graders were matched to the surveys completed in the fourth grade by means of the name and location of the elementary school attended, as well as the dates of birth of the students. The students were informed that this data would be used for connecting their statements from 2005 to 2010, and that it was to be erased after the connection had been made. Students who repeated a grade at least once during the course of the survey period or who moved out of the administrative district after fourth grade could not be included in the second wave of data collection. Both a fourth-and a ninth-grade questionnaire could be identified for 406 students. This sample formed the basis for longitudinal analyses.</p><p>The average age of the participants was 9.7 years (SD = 0.63) in t1 and 15.0 years (SD = 0.58) in t2. The sample was 45.3% male, and 13.1% had an immigrant background. As expected based on the dropout rate, the longitudinal sample proved to be selective. Thus, male students in the longitudinal sample were underrepresented in comparison with the total sample (45.3% versus 52.2%), as were students with an immigrant background (13.1% versus 18.0%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures Video GA</head><p>To measure GA, the Video Game Addiction scale (CSAS; <ref type="bibr">Mçßle, Kleimann, &amp; Rehbein, 2007)</ref> was used. GA was measured only in the ninth grade. As early as in the fourth grade, it seems doubtful that children would already be affected by GA, thus we only measured problematic gaming behavior (see below). The CSAS is based on the Internet Addiction scale <ref type="bibr">(ISS-20;</ref><ref type="bibr" target="#b18">Hahn &amp; Jerusalem, 2001a;</ref><ref type="bibr" target="#b20">Hahn &amp; Jerusalem, 2001b)</ref> and is a direct precursor of the CSAS-II <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref>. The CSAS consists of 11 items (4-point scale: from 1 = incorrect, to 4 = absolutely true). It follows the classification of addiction in International Statistical Classification of Diseases and Related Health Problems, 10th Edition (ICD-10; World Health Organization, 1992) and covers the dimensions preoccupation/salience (2 items), conflict (4 items), loss of control (3 items), and withdrawal symptoms (2 items). Out of the 406 adolescents of the longitudinal sample, 357 responded to all of the 11 CSAS items. Out of the 49 participants who did not respond to all of the items, 11 answered 10 of the 11 items. In these cases, the missing item was replaced by the rounded item mean of the sample. Out of the 38 participants who could not be diagnosed because of two or more missing values, 24 were nonplayers.<ref type="foot" target="#foot_0">2</ref> For these participants, GA could be ruled out, so the sum score was set to the lowest value (i.e., 11). For the rest of the participants (n = 14), the CSAS value was set to missing.</p><p>The item parameters of the CSAS consistently revealed high item difficulties (see Table <ref type="table" target="#tab_0">1</ref>). Furthermore, all of the items showed good discriminatory power (r i(t-i) ! .55). For the diagnostic status, a sum scale of all items was computed, so that the scale assumes a value of between 11 and 44 (a = .92). The mean sum score for our sample of 15-year-old adolescents was 15.29 points (SD = 5.42, SE = .28).</p><p>The cutoff values for the CSAS were defined according to the ISS-20 <ref type="bibr" target="#b18">(Hahn &amp; Jerusalem, 2001a</ref><ref type="bibr" target="#b20">, 2001b)</ref>. A sum score of at least 28 indicates that a person is at risk of developing GA, as the items on an average are not rejected any longer. With a sum score of 33 or higher, by which on average all items meet with approval, a person is classified as addicted to video games.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk Variables in Social Demographics and Family</head><p>All risk variables were measured in the fourth grade. We used the sex stated by the students as well as immigrant background, which was assessed by asking the participants about the country of their birth and the descent of their parents. If the student or at least one of the parents had note been born in Germany, it was concluded that the respondent had an immigrant background. To identify single-parent families, we asked the children which of their parents lived at home, using pictograms of members of the household for the mother and father, respectively, which were to be marked with a cross. With regard to parental devotion, two items were used for the mother and father, respectively (4-point scale: from 1 = incorrect, to 4 = absolutely true; mother: r = .43; father: r = .47), mainly indicating a positive relationship with the parents and devotion (''My mother/My father treats me very kindly''; ''I can talk to my mother/my father about anything''). To measure general parental supervision, we used a three-item scale (4-point scale: from 1 = incorrect, to 4 = absolutely true; a = .73) indicating the knowledge of the parents about the children's interests and activities (e.g., ''My parents know what I do in my free time''). Conflicts between parents were measured by using the single item ''My parents often fight'' (4-point scale: from 1 = incorrect, to 4 = absolutely true). Finally, participants were asked if they had been severely physically abused by their mothers or fathers in the last 4 weeks (4-point scale: from 1 = never, to 4 = six times or more) in any of the following ways: beatings, slaps, punches, or kicks. Students were classified as abused if they had experienced any occurrences of that kind during the previous 4 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk Variables Regarding Ownership of Screen Media</head><p>To assess risk factors regarding the availability of media equipment, we asked the participants whether their children's room was equipped with a TV set, gaming console, or computer. Additionally, we asked about the ownership of a handheld video gaming console.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk Variables Regarding Media Use</head><p>Participants were asked to estimate their gaming time on schooldays and on weekend days, respectively (free field hours and minutes). Based on this data, a daily usage time was calculated: [(school day • 5) + (weekend day • 2)]/7. Additionally, use of violent content was assessed using two items asking about the general use of games classified as 16+ or 18+ (no versus yes). One would not believe that children are already addicted in childhood to video games in a clinical sense. Problematic gaming behavior can be assumed to serve as a risk factor for the development of GA because it is a kind of precursor of GA. This was assessed by using two items (4-point scale: from 1 = incorrect, to 4 = absolutely true; r = .52) indicating problematic aspects of gaming (''When I'm playing on the computer, it's hard for me to stop''; ''When I'm playing on the computer, problems and worries become unimportant'').</p><p>To measure parental supervision regarding video game use, we used a three-item scale (4-point scale: from 1 = incorrect to 4 = absolutely true; a = .65) indicating restrictions and knowledge about the children's gaming habits (e.g., ''My parents tell me what games I'm allowed to play''; ''My parents tell me how long I'm allowed to play during the day''). Another relevant indicator could be general media use in the family, especially TV use. Thus, to gain an insight into media use habits within the family, we used the single-item ''How often is the TV turned on at your house but no one is really watching it?'' (4-point scale: from 1 = never, to 4 = almost every day).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>School-Related Risk Factors</head><p>We used a four-item scale (4-point scale: from 1 = incorrect, to 4 = absolutely true; a = .64) measuring the selfconcept of school performance (e.g., ''I do well in most school subjects''; ''I can easily get good grades without exerting myself''). To investigate indicators of actual academic performance as well, teachers were asked to state Note. Items are translated from German. Means are based on a four-stage response format (1 = incorrect, 2 = hardly correct, 3 = rather correct, 4 = absolutely true). r i(t-i) = selectivity according to item-rest correlation. IL = item loadings. Unidimensionality was safeguarded by factor analysis.</p><p>the grades of their students in the last school report regarding three subjects: German, mathematics, and general studies. Only in the case that teacher ratings were missing, were the student statements used instead (this was true for 29 cases). A grade point average was calculated based on the three grades (a = .83).</p><p>To measure social integration in class, we asked the children about the last three birthday parties to which they had been invited. Regarding these parties, we asked them if the kid who had invited them, had been a classmate or not. As a measure of social integration in class we counted the number of invitations which had been declared by classmates (4-point scale: 0 to 3). Besides school-related social integration, we wanted to cover aspects of social exclusion as well. Therefore, we evaluated bullying experiences in the previous 4 weeks, by using the item ''Students teased me or said nasty things about me'' (4-point scale: from 1 = never, to 4 = six times or more). Additionally, to investigate attachment to school, we combined the two items ''I like going to school ''and ''School is boring'' (negatively poled) (4-point scale: from 1 = incorrect, to 4 = absolutely true; r = .71). Finally, we measured school-related well-being with a single item asking, ''How do you feel at school?'' (5-point scale: from 1 = smiley, to 5 = whiny).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In fourth grade, 34% of children had their own TV, 29% had their own computer, 23% had a gaming console, and 59% had a handheld gaming console (see Table <ref type="table" target="#tab_1">2</ref>). Video games were used for 56 min/day (boys: 76 min; girls: 38 min). Thirty-three percent of children had already used games which were only suitable for players above the age of 16 or 18 years. In ninth grade, adolescents used video games 137 min/day (boys: 207; girls: 79). Ten adolescents (2.6%) were classified as being at risk, and five adolescents (1.3%) were identified as being addicted to video games.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predictors of GA</head><p>We calculated bivariate Pearson correlations of all risk variables on t1 with the CSAS on t2 (see Table <ref type="table" target="#tab_1">2</ref>). Pearson correlations were also calculated for the combination of dichotomous and interval scales. This is possible because in this case a point-biserial correlation computes the same results as the Pearson correlation <ref type="bibr">(Chen &amp; Popovich, 2002, p. 26</ref>). The highest correlation was to be found with male gender. The next highest correlations were to be found in the area of media use. Gaming time, use of violent games, and problematic gaming behavior were all positively related to GA. Also, increased ownership of TV sets, gaming consoles, and handheld gaming consoles went along with a higher score on the CSAS. In addition, children with a high level of social integration into their class and elevated well-being in school proved to be less susceptible to adolescent GA. Likewise, heightened paternal devotion and a high degree of parental supervision in childhood bore a relationship to a lower score on the CSAS in adolescence.</p><p>To determine which of the risk factors contributed to the development of GA in a significant way, we performed OLS (ordinary least squares) regression analyses predicting the CSAS values (see Table <ref type="table" target="#tab_2">3</ref>). Prior to analysis, the intercorrelations between the predictors were examined in order to be able to exclude multicollinearity. There were low to medium correlations between the variables. The highest connection (r = .62) was to be found between maternal devotion and paternal devotion. We decided to complete hierarchical regression analyses and not forward or backward regression analyses since we intended to test the variables along the theoretically differentiated socialization contexts.</p><p>In total, five explanatory models were calculated. Only cases with no missing values for the variables in question were included in each model, which is why the size of the sample varies between the models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model I</head><p>The first model examined the explanatory value of risk variables in the area of social demographics and family. Male gender continued to be a consistent explanatory factor. Single-parent families proved to be an additional relevant factor: Children who were being raised by single-parent families bore a heightened risk of becoming addicted to video games. All other variables such as an immigrant background, parental devotion, parental supervision, conflicts between parents, and physical abuse did not contribute significantly to prediction. The model explained a substantial proportion (20%) of the variance of GA. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model II</head><p>The second model examined how much the ownership of screen media complex alone increased the risk of reaching higher values on the GA scale 5 years later. Only the availability of gaming consoles and handheld gaming consoles turned out to be relevant. Overall, the explanatory value of this model (3%) must be classified as weak.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model III</head><p>The predictive power increased if actual media use was taken into account. In the third model, gaming time, the use of violent games, and problematic gaming behavior proved to be relevant predictors. Thus all three factors which had a direct effect on gaming behavior remained consistent. On the other hand, parental supervision and background television did not contribute significantly to the prediction of GA. This model explained 9% of the variance of GA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model IV</head><p>In the fourth model, we examined the explanatory value of school-related risk variables. Indicators illustrating selfassessed capability and actual school performance did not prove to be relevant for the prediction of GA. Also, school bullying victimization did not contribute to forecasting any risk, whereas students with a higher level of social integration into the class were better protected against the development of GA. In addition, school-related well-being proved to be a protective factor, whereas no influence on the development of GA could be attributed to attachment to school. However, this model also exhibited only a minimal variance explanation (4%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model V</head><p>All of the variables that proved to be relevant in Models I through IV were incorporated into the fifth model. The strong influence of male gender as a risk factor still persisted. Thus the significance of these variables could not be explained by the other variables in the model. Children from single-parent families also continued to be at greater risk than those that had two parents. On the other hand, ownership of media devices lost its predictive relevance.</p><p>In addition, with respect to media use, gaming time and use of violent games proved to be no longer relevant for prediction. Here only the factor of problematic video game use persisted as a risk factor. The factors of social integration into the class and school-related well-being continued to achieve statistical significance. The comprehensive model explained 21% of the variance of the CSAS sum value.</p><p>Comparing the Models I to V, it can be concluded that male gender is the strongest explanatory factor. More than half of the explained variance in Model I and V is explained by male gender. Media usage variables introduced in Model III have the second strongest influence. Of low explanatory power are variables measuring media ownership (Model II).</p><p>Since problematic video game use in t1 proves to be an important risk factor for the CSAS value in t2 and thus indeed can be seen as a precursor for GA, this raises the question of whether problematic video game use in itself could be explained by the risk factors at hand. To test these cross-sectional relationships, the same models were computed using problematic video game use as dependent variable. Calculating the hierarchical analysis of Models I to V in the last model, male gender (p &gt; .05, b = .10), parental supervision (p &gt; .01, b = À.14), gaming time (p &gt; .001, b = .28), background television (p &gt; .05, b = .10), and school-related well-being remained as significant predictors, explaining 27% of the variance of problematic video game use. In contrast to the longitudinal Model V explaining GA, single-parent family and social integration did not prove to be of relevance for predicting problematic video game use from a cross-sectional perspective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our aim was to investigate the explanatory value of risk and protective factors for the development of GA. The focus was on predictors from the socialization areas of family, media, and school, for which we are able to report results from a 5-year longitudinal study. On the whole, we can conclude that socialization-related factors do have an impact on the development of GA. However, the predictive value of the variables is low, and the influence of male gender is still substantial after accounting for all socialization variables in the study. This could indicate that crucial factors from the areas of socialization were not taken into consideration. A more plausible conclusion might be that GA can better be predicted via psychological trait variables. This view is in accordance with the fact that previously published longitudinal studies found a high explanatory value for psychological trait variables such as social skills, empathy, and impulsiveness <ref type="bibr" target="#b14">(Gentile et al., 2011;</ref><ref type="bibr" target="#b29">Lemmens et al., 2011)</ref>. In a cross-sectional study on the risk factors for GA in adolescence, the influence of male gender was even fully explained by taking social competence, impulsiveness, and acceptance of violence into account <ref type="bibr" target="#b38">(Rehbein et al., 2010)</ref>.</p><p>Despite the few significant connections overall, the findings expand our knowledge regarding the conditions increasing the risk of GA. Growing up in a single-parent family represents a risk factor, confirming the results of another study <ref type="bibr" target="#b3">(Batthyµny et al., 2009)</ref>. It is particularly noteworthy that this effect proves to be stable with consideration of parental devotion and supervision. Thus, it seems highly unlikely that the heightened risk could be attributed to a lack of parental supervision and care in single-parent families. Instead it could be speculated, that there are insufficient time and material resources in these families to provide the children with a balanced range of leisure time activities. A seemingly more far-fetched explanation may also account for this difference: The computer may be filling the space or taking the role of the absent person to some extent, as has been described for the use of television in single-parent families as part of a comprehensive study on media use in different family constellations <ref type="bibr" target="#b23">(Hurrelmann, Hammer, &amp; Stelberg, 1996)</ref>. However, none of these hypotheses can be verified by our data.</p><p>Furthermore, we were able to confirm that problematic use of video games in adolescents can be predicted by early problematic use in childhood. High degrees of consistency can also be found in other areas of deviant behavior, such as aggressiveness <ref type="bibr" target="#b11">(Farrington, Loeber, &amp; Elliott, 1990)</ref>, and could also be proven for GA. Thus, in another longitudinal study, it was shown that 84% of pathological players at the first time of measurement were still addicted 2 years later <ref type="bibr" target="#b14">(Gentile et al., 2011)</ref>. Similar to this finding, our data indicate that problematic video game use that is observed in 10year-olds leads to higher sum values on a GA scale 5 years later. Thus, our findings contradict the assumption that GA is a transient phenomenon of adolescence.</p><p>To the best of our knowledge this is the first study investigating the relevance of social integration into a school class for the prediction of GA. Although the operationalization may not be characterized as ideal, it can be shown that children who are more integrated in their class are less likely to engage in video games in a problematic manner during the course of their further development. This finding seems to be in line with other studies showing inferior social skills to be a risk factor for the development of GA <ref type="bibr" target="#b14">(Gentile et al., 2011;</ref><ref type="bibr" target="#b29">Lemmens et al., 2011;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>. Along with other risk correlates such as impulsiveness <ref type="bibr" target="#b9">(Collins et al., 2012;</ref><ref type="bibr" target="#b14">Gentile et al., 2011;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref> and acceptance of violence <ref type="bibr" target="#b17">(Grüsser et al., 2007;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>, it seems plausible that children who are at risk have specific difficulties in making friends in school.</p><p>The relevance of school-related variables is emphasized by the fact that well-being at school proves to be a protective factor, whereas in the study of <ref type="bibr" target="#b29">Lemmens et al. (2011)</ref>, general well-being did not have any effect on GA. Social involvement and emotional experience in school could thus prove to be important predictors of GA, as suggested by cross-sectional studies <ref type="bibr" target="#b1">(Baier &amp; Rehbein, 2009;</ref><ref type="bibr" target="#b38">Rehbein et al., 2010)</ref>. Children with a difficult position in real life may well be entering virtual worlds in an inadequate attempt at self-regulation. A lack of social involvement and limited well-being at school are compensated for in a dysfunctional manner by the recognition and self-efficacy experienced in video games, whereby the risk of long-term psychological addiction increases.</p><p>We shall not limit our discussion to significant results but extend it to findings where connections could have been expected but were not found. Firstly, it is surprising that parental devotion and supervision should not prove to be significant for the estimation of risk. In addition, this is shown for media-related parent supervision. This is particularly striking since the majority of current prevention concepts -particularly with respect to the promotion of media literacy -place their emphasis on the assumption of respon-sibility by parents for the direct prevention of the mediarelated risk behavior of their children. The results of this study provided no basis for arguing that this is a promising strategy for the age group of 10 years and older. Two conclusions can be drawn from this: Firstly, approaches aimed at parental responsibility and media-related risk reduction would appear to be useful only if they begin significantly earlier than the 10th year of life (e.g., at preschool age). Secondly, with recourse to previous research results and the data from this study, it can be concluded that prevention concepts are inextricably tied to the characteristic psychological vulnerabilities of children who are at risk, and thus should be geared toward enhancing psychological health. In the process, strengthening of social competence and of the ability to deal with stress and frustration could be at the center of such concepts. In addition, these concepts could encourage and empower children to discover and to exploit alternative opportunities to experience self-efficacy for themselves (in real life). In schools, even stronger measures could be taken to reinforce the rules of fairness and tolerance in the class group and to support the well-being of children.</p><p>Another effect not supported by the data is the influence of ownership of media devices as well as the usage times and the use of age-inadequate content. As described above for parental monitoring, prevention concepts frequently bear these variables in mind. However, our data suggest that distinctive features in these areas are not sensitive for the development of GA. Seemingly simple solutions, such as those that promise to ban media devices from children's rooms or to adhere to specific gaming times, thus appear not to be very promising, at least for children aged 10 years and over. The factors and problems underlying GA are obviously of a fundamental nature; they primarily affect the personality and the motives underlying the gaming behavior. Accordingly, with respect to the type of games used, violent content could turn out to be less crucial than specific characteristics of the game that are important for keeping the user playing for extended periods of time. Unfortunately our study design did not cover the preference for different game genres and sophisticated gaming motives, so the relevance of these factors cannot be estimated from our data.</p><p>Regarding media usage, one finding is of special interest. Although gaming time predicts GA in a model that only includes media usage variables, in the full longitudinal model, the effect disappears. This supports the assumption that gaming time is a weak predictor for GA and diminishes as soon as possible negative consequences of gaming behavior are taken into account. However, in our cross-sectional model, problematic video game use was predicted by elevated gaming time. Thus it could be speculated that high gaming time in childhood could lead to problematic video game use, which in turn heightens the risk for the development of GA. In this sense, it can be assumed that only some children with higher gaming times also tend to develop a problematic video game use and also neglect real-life challenges to cherish friendships in school. These children are endangered not because of their elevated gaming time but because of the negative consequences they are willing to accept to sustain their gaming behavior. Thus, with the inclusion of school-related risk factors, gaming time is no longer relevant for the risk estimation.</p><p>With respect to school-related performance indicators, our study shows that GA cannot be predicted by means of either school grades or one's self-concept of ability to perform at school. However, as school-related performance factors correlate with GA in adolescence, and lower school grades did not increase the risk for the emergence of GA in the causal analyses of <ref type="bibr" target="#b14">Gentile et al. (2011)</ref>, school-related deficiencies in performance could be the consequence rather than the cause of GA. In any case, our findings suggest that the performance-related school aspects are less responsible for GA than the social and emotional ones. Thus, children who do not participate much in their classmates' social activities and who do not feel comfortable at school have an elevated risk of the development of GA as well as of subsequent academic failure, as described by <ref type="bibr" target="#b14">Gentile et al. (2011)</ref>.</p><p>Some limitations of the study should be addressed. The first limitation refers to the small sample size of 406 participants. A smaller sample increases the risk that the relevance of specific risk factors remains undetected. In addition, due to the survey construction, children who repeated grades between 2005 and 2010 could unfortunately not be taken into consideration. This positive selection directly led to a lower variance of school performance-related variables and made it more difficult to uncover relationships. Therefore, it can be recommended that future studies are designed to allow inclusion of children who repeat grades in school and that the assessment takes into consideration person-, game-, and socializationrelated risk factors. Additionally, it could be said that we only measured social integration in the class. Other measures for social integration, such the number of friends or membership in sport clubs, are not available in our fourth grade data set. We think that retrieving the number of classmate's invitations to birthday parties is a valid but certainly not the best way to measure social integration in the class. Certainly it would have been advisable to include alternative measurement approaches for social integration. Also we did not include variables measuring either preference for video game genres or game-playing motivation. Thus, these risk factors could not be considered. One last limitation refers to the reliability of the measures used. Some of them seem rather low; the lowest correlation between two items was r = .43, the lowest Cronbach's a was .64. First, it has to be taken into account that we use only three-to four-item scales. Cronbach's a depends on the number of items (see <ref type="bibr" target="#b6">Carmines/Zeller, 1979)</ref>, so a low number goes along with lower as. For a three-or four-item scale, an a of .64 seems acceptable. Second, our study is an exploratory study. If we find causal relationships with measures with low reliability, we should try to replicate these findings with better instruments in future studies. Third, all of the constructs were measured in fourth grade. It is much more difficult to have reliable instruments in such a young age group than, for instance, in an adult sample.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Item parameters of the Video Game Addiction scale (CSAS)(n = 368)    </figDesc><table><row><cell>M</cell><cell>S D</cell><cell>IL</cell><cell>r i(t-i)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Descriptives for risk variables and bivariate correlations between risk factors in childhood (t1; 2005) and video game addiction in adolescence (t2; 2010)</figDesc><table><row><cell>Risk factors</cell><cell>Min</cell><cell>Max</cell><cell>M</cell><cell>S D</cell><cell>r</cell></row><row><cell>Social demographics and family</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male gender</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.45</cell><cell>0.50</cell><cell>.44***</cell></row><row><cell>Immigrant background</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.13</cell><cell>0.34</cell><cell>.01</cell></row><row><cell>Single-parent family</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.11</cell><cell>0.31</cell><cell>.07</cell></row><row><cell>Maternal devotion</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>3.68</cell><cell>0.51</cell><cell>À.09</cell></row><row><cell>Paternal devotion</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>3.58</cell><cell>0.57</cell><cell>À.10*</cell></row><row><cell>Parental supervision (general)</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>3.62</cell><cell>0.54</cell><cell>À.13**</cell></row><row><cell>Conflicts between parents</cell><cell>1 (incorrect)</cell><cell>4 (true)</cell><cell>1.65</cell><cell>0.88</cell><cell>.07</cell></row><row><cell>Physical abuse</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.14</cell><cell>0.35</cell><cell>.07</cell></row><row><cell>Ownership of screen media</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TV set in children's rooms</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.34</cell><cell>0.47</cell><cell>.12*</cell></row><row><cell>Computer in children's room</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.29</cell><cell>0.45</cell><cell>.06</cell></row><row><cell>Gaming console in children's room</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.23</cell><cell>0.42</cell><cell>.20***</cell></row><row><cell>Ownership of handheld gaming console</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.59</cell><cell>0.49</cell><cell>.18***</cell></row><row><cell>Media usage</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gaming time (minutes)</cell><cell>0</cell><cell>500</cell><cell>55.50</cell><cell>60.88</cell><cell>.25***</cell></row><row><cell>Use of violent games</cell><cell>0 (no)</cell><cell>1 (yes)</cell><cell>0.32</cell><cell>0.47</cell><cell>.24***</cell></row><row><cell>Problematic video game use</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>1.98</cell><cell>0.93</cell><cell>.23***</cell></row><row><cell>Parental supervision (video gaming)</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>2.89</cell><cell>0.88</cell><cell>À.05</cell></row><row><cell>Background television</cell><cell>1 (never)</cell><cell>4 (every day)</cell><cell>1.85</cell><cell>0.79</cell><cell>.10</cell></row><row><cell>School</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Self-concept of school performance</cell><cell>0 (lower)</cell><cell>4 (higher)</cell><cell>2.92</cell><cell>0.66</cell><cell>À.02</cell></row><row><cell>Grade point average</cell><cell>1 (very good)</cell><cell>6 (very bad)</cell><cell>2.55</cell><cell>0.76</cell><cell>.06</cell></row><row><cell>Social integration into the class</cell><cell>0 (lower)</cell><cell>1 (higher)</cell><cell>0.75</cell><cell>0.33</cell><cell>À.13*</cell></row><row><cell>Victim of bullying</cell><cell>1 (never)</cell><cell>4 (often)</cell><cell>1.48</cell><cell>0.85</cell><cell>.04</cell></row><row><cell>Attachment to school</cell><cell>1 (lower)</cell><cell>4 (higher)</cell><cell>3.18</cell><cell>0.91</cell><cell>À.08</cell></row><row><cell>School-related well-being</cell><cell>1 (lower)</cell><cell>5 (higher)</cell><cell>3.93</cell><cell>0.87</cell><cell>À.19***</cell></row></table><note><p>Note. Correlations representing Pearson's r. *p &lt; .05; **p &lt; .01; ***p &lt; .001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>OLS (ordinary least squares) regression analysis predicting video game addiction in adolescence (t2: 2010) by risk factors inchildhood (t1: 2005)    </figDesc><table><row><cell>Model I</cell><cell>Model II</cell><cell>Model III</cell><cell>Model IV</cell><cell>Model V</cell></row></table><note><p>Note. Beta coefficients are shown. p &lt; .10; *p &lt; .05; **p &lt; .01; ***p &lt; .001.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Overall, 59 students were classified as nonplayers in ninth grade. These students were not excluded from the analysis, because some of them had played video games in the fourth grade, which made them highly relevant for the research question at hand.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal of MediaPsychology 2013; Vol. 25(3):118-128Ó 2013 Hogrefe Publishing This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Ó 2013 Hogrefe Publishing Journal of Media Psychology 2013; Vol. 25(3):118-128 This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.</p><p>(concentration, memory, and learning), and influence of violent video games on aggression and disposition to violence. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">American Psychiatric Association Board of Trustees Approves DSM-5</title>
+		<ptr target="http://www.psych.org/advocacy-newsroom/news-releases" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>American Psychiatric Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Baier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rehbein</surname></persName>
+		</author>
+		<title level="m">Computerspielabhängigkeit im Jugendalter</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Video game addiction in adolescence</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Multilokalität und Vernetzung: Beiträge zur technikbasierten Gestaltung jugendlicher Sozialräume</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tuly</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Weinheim, München</addrLine></address></meeting>
+		<imprint>
+			<publisher>Juventa Verlag</publisher>
+			<biblScope unit="page" from="139" to="155" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Computerspielverhalten: Klinische Merkmale von Abhängigkeit und Missbrauch bei Jugendlichen</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Batthyµny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Benker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wçlfling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Computer game playing: Clinical characteristics of dependence and abuse among adolescents</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Wiener Klinische Wochenschrift</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="502" to="509" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Attention deficit/ hyperactivity disorder and video games: a comparative study of hyperactive and control children</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bioulac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Arfi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Bouvard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="134" to="141" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reliability and validity assessment</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carmines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Zeller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quantitative Applications in the Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="1979">1979</date>
+			<publisher>Sage Publications</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Validating the distinction between computer addiction and engagement: online game playing and personality</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Charlton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D W</forename><surname>Danforth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior &amp; Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="601" to="613" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Correlation: Parametric and nonparametric measures</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Popovich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Personality traits associated with problematic and nonproblematic massively multiplayer online role playing game use</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chamarro-Premuzic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="133" to="138" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Video game genre is a predictor of problem use</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Golub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ream</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dunlap</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Advancing knowledge about the oneset of delinquency and crime</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Farrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Loeber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elliott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in clinical child psychology</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Lahey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Kazdin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum Press</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="283" to="342" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feierabend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Klingler</surname></persName>
+		</author>
+		<title level="m">JIM 2000-Jugend, Information, (Multi-)Media. Basisuntersuchung zum Medienumgang 12 bis 19-Jähriger in Deutschland [JIM 2000: Youth, information, (multi)media. Survey about media use of 12</title>
+		<meeting><address><addrLine>Baden-Baden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Medienpädagogischer Forschungsverbund Südwest</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>to 19-year-old adolescents</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Pathological video-game use among youth ages 8 to 18: A national study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="594" to="602" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Pathological video game use among youths: A two-year longitudinal study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Choo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khoo</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2010-1353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="319" to="329" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Exzessive Computernutzung im Kindesalter -Ergebnisse einer psychometrischen Erhebung</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grüsser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thalemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Albrecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Thalemann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Excessive computer usage in adolescents: A psychometric evaluation</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Wiener Klinische Wochenschrift</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="188" to="195" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Excessive computer game playing: Evidence for addiction and aggression?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grüsser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thalemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="290" to="292" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Internetsucht: Jugendliche gefangen im Netz</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jerusalem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001a</date>
+		</imprint>
+	</monogr>
+	<note>Internet addiction: Adolescents caught in the web</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m">Risikoverhaltensweisen Jugendlicher: Formen, Erklärungen und Prävention</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Raithel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Opladen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Leske &amp; Budrich</publisher>
+			<biblScope unit="page" from="279" to="294" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jerusalem</surname></persName>
+		</author>
+		<title level="m">Internetsucht: Reliabilität und Validität in der Online-Forschung</title>
+		<imprint>
+			<date type="published" when="2001">2001b</date>
+		</imprint>
+	</monogr>
+	<note>Internet addiction: Reliability and validity in online research</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m">Handbuch zur Online-Marktforschung. Beiträge aus Wissenschaft und Praxis</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Theobald</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Dreyer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Starsetzki</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wiesbaden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gabler</publisher>
+			<biblScope unit="page" from="211" to="234" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Influences of motives to play and time spend gaming on the negative consequences of adolescent online gaming</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hellstrçm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1379" to="1387" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Familienmitglied Fernsehen. Fernsehgebrauch und Probleme der Fernseherziehung in verschiedenen Familienformen [Family member television: Television use and problems of TV education in different family types]</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hurrelmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stelberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Leske &amp; Budrich</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<pubPlace>Opladen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The attitudes, feelings, and experiences of online gamers: A qualitative analysis</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="747" to="753" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Küfner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Metzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bühringer</surname></persName>
+		</author>
+		<title level="m">Drogenmissbrauch und -abhängigkeit</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Drug abuse and drug addiction</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">H.-U</forename><surname>In</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m">Klinische Psychologie &amp; Psychotherapie</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Wittchen</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Hoyer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="613" to="636" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Online gaming addiction in adolescence: A literature review of empirical research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioural Addiction</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="3" to="22" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Psychosocial causes and consequences of pathological gaming</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lemmens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="144" to="152" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Examining the influence of actual-ideal self-discrepancies, depression, and escapism, on pathological gaming among massively multiplayer online adolescent gamers</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khoo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="535" to="539" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">JIM-Studie 2012. Jugend, Information, (Multi-) Media. Basisuntersuchung zum Medienumgang 12-19-Jähriger [JIM-Study 2012: Youth, information, (multi-)media. Survey about media use of 12-to-19-year-old adolescents</title>
+		<editor>Medienpädagogischer Forschungsverbund Südwest.</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Medienpädagogischer Forschungsverbund Südwest</publisher>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Online gaming addiction: The role of sensation seeking, self-control, neuroticism, aggression, state anxiety, and trait anxiety</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mehroof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2009.0229</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="313" to="316" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Problematic video game use: Estimated prevalence and associations with mental and physical health</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mentzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Brunborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Molde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Myrseth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J M</forename><surname>Skouverøe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hetland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="591" to="596" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Bildschirmmedien im Alltag von Kindern und Jugendlichen: Problematische Mediennutzungsmuster und ihr Zusammenhang mit Schulleistungen und Aggressivität [Screen media in everyday life of children and adolescents: Problematic media use patterns and their association with school achievement and aggressiveness</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mçßle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleimann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rehbein</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Nomos</publisher>
+			<biblScope unit="volume">33</biblScope>
+			<pubPlace>Baden-Baden</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Problem gambling in adolescence: Relationships with internet misuse, gaming abuse and emotional intelligence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D A</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Eastabrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Schell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="174" to="180" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Online gaming dependency: A preliminary study in China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="329" to="333" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">What next? The process of inclusion in DSM-5 appendix and consequences for future epidemiological research. Paper presented at the Expert Workshop on Diagnosis of Video Game and Internet Addiction</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Petry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-08-24">2012. August 24, 2012</date>
+			<pubPlace>Hannover, Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Prevalence and risk factors of video game dependency in adolescence: Results of a German nationwide survey</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rehbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleimann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mçßle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="269" to="277" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Risikofaktoren für Computerspielabhängigkeit: Wer ist gefährdet? [Risk factors for video game addiction: Who is at risk?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rehbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mçßle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Sucht</publisher>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="391" to="400" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Problematische Nutzung und Abhängigkeit von Computerspielen</title>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drosselmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rohde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fritz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Problematic use and addiction of video games</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m">Kompetenzen und exzessive Nutzung bei Computerspielern: Gefordert, gefçrdert, gefährdet</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Fritz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Lampert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J.-H</forename><surname>Schmidt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Witting</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vistas Verlag</publisher>
+			<biblScope unit="page" from="201" to="252" />
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Children and video games: Addiction, engagement, and scholastic achievement</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Skoric</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L C</forename><surname>Teo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Neo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="567" to="572" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Beyond self-selection in video game play: An experimental examination of the consequences of massively multiplayer online role-playing game play</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Smyth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="717" to="721" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Problem video game use and dimensions of psychopathology</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Starcevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fenech</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Mental Health and Addiction</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="248" to="256" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Problematic video game play in a college sample and its relationship to time management skills and attention-deficit/hyperactivity disorder sympotomolgy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tolchinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Jeffferson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="489" to="496" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Why are adolescents addictet to online-gaming? An interview study in Taiwan</title>
+		<author>
+			<persName><forename type="first">C.-S</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Chiou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cyber Psychology &amp; Behavior</publisher>
+			<biblScope unit="page" from="762" to="766" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Computerspielsucht: Ein psychopathologischer Symptomkomplex im Jugendalter</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wçlfling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thalemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grüsser</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Computer game addiction: A psychopathological symptom complex in adolescence</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatrische Praxis</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="226" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Problems with the concept of video game &apos;&apos;addiction&apos;&apos;: Some case study examples</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T A</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Mental Health and Addiction</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="178" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">International Statistical Classification of Diseases and Related Health Problems, 10 th Edition. Clinical descriptions and diagnostic guidelines</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Cyber disorders: The mental health concern for the new millennium</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pistner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'mara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buchanan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="475" to="479" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

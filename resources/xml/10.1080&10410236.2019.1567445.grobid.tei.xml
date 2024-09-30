@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Relational Turbulence and Marital Communication When Children with Autism Start School: A Longitudinal Dyadic Diary Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2019-02-01">2019-02-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kellie</forename><forename type="middle">St. Cyr</forename><surname>Brisini</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Denise</forename><forename type="middle">Haunani</forename><surname>Solomon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication Arts and Sciences</orgName>
+								<orgName type="institution">The Pennsylvania State University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Relational Turbulence and Marital Communication When Children with Autism Start School: A Longitudinal Dyadic Diary Study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Health Communication</title>
+						<title level="j" type="abbrev">Health Communication</title>
+						<idno type="ISSN">1041-0236</idno>
+						<idno type="eISSN">1532-7027</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">35</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="483" to="493"/>
+							<date type="published" when="2019-02-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">93E00FBF2D530F890A6C74CFF888E457</idno>
+					<idno type="DOI">10.1080/10410236.2019.1567445</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Autism spectrum disorder (ASD) is a pervasive and often difficult health condition, the consequences of which ripple through family relationships. This paper engages relational turbulence theory, which addresses communication in romantic relationships, and the experiencing life transitions model, from the field of nursing, to examine how communication between parents affects the marital relationship during a major transition in the life of a child with ASD. Transition processing communication (TPC) includes four forms of communication that can help married partners navigate difficult life events: increasing interaction, promoting connection, promoting feeling situated, and increasing confidence in the relationship. This study examines the effects of partners' TPC on their own and their spouse's experiences of relational uncertainty, changes in interdependence, and relational turbulence. A total of 33 couples and 60 married, female individuals, parents of a child with ASD who was starting school for the first time, completed a pre-test, 14 dairies, and a post-test; diaries were completed every three days over a 42-day period, beginning on the child's first day of school. Findings suggest that partners' engagement in TPC significantly affects some relationship qualities. In addition, an individual's perceptions of his or her spouse's communication were a stronger predictor of relational turbulence than the spouse's self-reported communication. Results point to several implications for understanding the ways in which married partners can protect their marriage in the face of their child's health-related transitions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Autism spectrum disorder (ASD) is "a lifelong developmental disability" that affects 1 in 68 children in the United States and is defined by "deficits in social communication and social interaction and restricted, repetitive patterns of behavior, interests, or activities" <ref type="bibr">(Baio, 2014, p. 2)</ref>. Raising a child with ASD has consequences for individual and relationship well-being, not only for the child, but for the parents. Several studies have identified links between the child's maladaptive behaviors and decreased emotional well-being in parents (e.g., <ref type="bibr" target="#b14">Hastings, Beck, &amp; Hill, 2005)</ref>. In addition, the everyday stressors faced by parents of children with ASD serve as sources of strain on romantic relationships as aspects of their child's ASD result in greater conflict over child-rearing <ref type="bibr" target="#b55">(Weber, 2012)</ref>, a lack of quality time alone, and an inability to be spontaneous <ref type="bibr" target="#b44">(Saini et al., 2015)</ref>. Communication within families touched by health conditions, including cognitive disabilities, is an important concern for health practitioners and health communication scholars <ref type="bibr">(Segrin &amp; Flora, 2011, pp. 320-344)</ref>; however, little research has examined how families of children with ASD can improve relational well-being through communication.</p><p>Research suggests that relationship partners are important factors in people's experiences of health conditions (e.g., <ref type="bibr" target="#b29">Leustek &amp; Theiss, 2018)</ref>, but is parenting a child with autism itself a threat to health? Several studies suggest that the answer is yes. Reviews of research and meta-analytic studies provide convincing evidence that parents of children with autism experience considerably more stress than parents of typically developing children <ref type="bibr" target="#b5">(Bonis, 2016)</ref>, and this exposure to chronic stress undermines parental health <ref type="bibr" target="#b34">(Miodrag &amp; Hodapp, 2010)</ref>. Indeed, raising a child with autism has been linked to parental depression and anxiety <ref type="bibr" target="#b13">(Hastings, 2003)</ref>, poor quality of sleep <ref type="bibr" target="#b11">(Gallagher, Phillips, Carroll, 2010)</ref>, and reduced immune functioning <ref type="bibr" target="#b12">(Gallagher, Phillips, Drayson, &amp; Carroll, 2009)</ref>. To the extent that communication and coping strategies can alleviate the stress experienced by parents of children with ASD (e.g., <ref type="bibr" target="#b58">Zaidman-Zait et al., 2016)</ref>, health communication research may ultimately benefit this at-risk population.</p><p>Research based on relational turbulence theory (RTT; Solomon, <ref type="bibr" target="#b49">Knobloch, Theiss, &amp; McLaren, 2016)</ref> has identified transitions in romantic relationships as moments that can have significant consequences for the relational quality of married partners (e.g., <ref type="bibr" target="#b20">King &amp; Theiss, 2016;</ref><ref type="bibr">Knobloch &amp; Theiss, 2011a)</ref>. <ref type="bibr" target="#b7">Brisini, Solomon, and Nussbaum (2018)</ref> found that crises involving children are particularly difficult for marriages, such that they were associated with the most negative transition experiences and outcomes for parents. Other studies show that raising a child with ASD results in high levels of stress for parents across the lifespan of the child (e.g., <ref type="bibr" target="#b8">Brobst, Clopton, &amp; Hendrick, 2009)</ref> and is associated with marital conflict and distress <ref type="bibr" target="#b44">(Saini et al., 2015)</ref>.</p><p>Moreover, specific transitions for children with ASD, such as the initial diagnosis or starting school, increase stress for their parents (e.g., <ref type="bibr" target="#b4">Baxter, Cummins, &amp; Polak, 1995)</ref>. <ref type="bibr">Brisini and Solomon (2018)</ref> examined transitions related to raising a child with ASD and found that starting school for the first time was a momentous change for these parents. Although a child's launch into formal schooling is a transition for all families, the changes in routine, emersion in a large and unfamiliar social group, and introduction of new authority figures are especially daunting challenges to children with ASD. Thus, this project focuses on how communication between parents of children with ASD during the transition to school affects the marital relationship. More generally, we seek to identify ways in which married partners might improve relational wellbeing during transitions exacerbated by a child's health condition.</p><p>In this paper, we engage RTT <ref type="bibr" target="#b49">(Solomon et al., 2016)</ref> and the experiencing life transitions model <ref type="bibr" target="#b32">(Meleis, Sawyer, Im, Messias, &amp; Schumacher, 2000)</ref> to propose forms of transition processing communication (TPC) that may alleviate the negative outcomes associated with relational transitions in parents of children with ASD. The following section examines these theoretical traditions in turn. We then present a longitudinal study assessing the relationship between participants' daily engagement in relationship-focused communication and experiences of relational turbulence for parents of children with ASD during their child's transition to school for the first time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transition processing communication and relational turbulence</head><p>RTT explains that couples experience heightened relationship focus, more conflict, polarized communication, and stronger emotions during relational transitions. According to the theory, relational transitions can stem from events in the couple's environment that are internal or external to the relationship and seemingly inconsequential or completely life changing <ref type="bibr">(Solomon et al., 2016, p. 5)</ref>. Notably, however, RTT does not specify relational transitions as a scope condition for the theory. Rather, Solomon et al. observed that changes in the relationship or relationship context can spark relationship states that complicate interactions between partners, but the theory focuses on the effects of variability in those states, per se. In particular, the theory highlights the consequences of relational uncertainty, changes in interdependence, and relational turbulence. Relational uncertainty refers to an individual's ability to understand their partner's actions, predict relational outcomes, and make choices concerning their own behavior <ref type="bibr" target="#b22">(Knobloch &amp; Solomon, 1999)</ref>. This uncertainty stems from questions about the individual's own involvement in the relationship (self uncertainty), a partner's engagement in the relationship (partner uncertainty), and the relationship itself (relationship uncertainty). Interdependence refers to the mutual influence that married partners have over each other's attainment of goals. Facilitation from a partner is the perception that a partner helps one to achieve daily goals, whereas interference from a partner is the perception that a partner disrupts one's daily goals <ref type="bibr" target="#b23">(Knobloch &amp; Solomon, 2004)</ref>. The theory suggests that ongoing exposure to intensified interactions with a partner can lead to relational turbulence, which is a quality of relationships characterized by feelings of chaos, confusion, and fragility <ref type="bibr" target="#b30">(McLaren, Solomon, &amp; Priem, 2011)</ref>. Importantly, the theory stipulates that communication between partners can reduce relational uncertainty, improve interdependence, and forestall the emergence of relational turbulence.</p><p>Thus far, only a few studies have examined the types of communication that alleviate negative transition experiences. <ref type="bibr" target="#b26">Knobloch and Theiss (2011b)</ref> identified relationship-focused communication as a potential means of reducing relational uncertainty. That study found that married partners who avoided relationship talk one week experienced more relational uncertainty the following week. Recently, <ref type="bibr" target="#b7">Brisini, Solomon, and Nussbaum (2018)</ref> drew upon the experiencing life transitions model to identify types of communication that may help partners navigate relational transitions. This model <ref type="bibr" target="#b32">(Meleis et al., 2000)</ref> identifies four types of communication and cognitions that are process indicators of a successful transition: increasing interaction, promoting connection, promoting feeling situated, and increasing confidence. Although ostensibly focused on how patients and their families adjust to illness, the experiencing life transitions model was grounded in research on people coping with a variety of transitions that have implications for physical and mental health (e.g., the birth of a child, <ref type="bibr" target="#b45">Sawyer, 1996;</ref><ref type="bibr">menopause, Im, 1997;</ref><ref type="bibr">transnational migration, Messias, 1997)</ref>.</p><p>Within the experiencing life transitions model, patients increase interaction with family, friends, and healthcare providers to gain information and establish new patterns of behavior in light of their health transition <ref type="bibr" target="#b32">(Meleis et al., 2000)</ref>. For couples navigating a transition, increasing the time that partners spend together can reduce uncertainty that occurs as a result of changes in circumstances. When partners experience relational uncertainty, it can lead to decreased partner responsiveness <ref type="bibr" target="#b52">(Theiss &amp; Knobloch, 2014)</ref>, decreased directness of communication about hurt <ref type="bibr" target="#b54">(Theiss &amp; Solomon, 2006)</ref>, and increased negative responses to hurtful messages (i.e., greater feelings of hurt, anger, sadness, and worthlessness; <ref type="bibr" target="#b30">McLaren et al., 2011)</ref>. Maintaining frequent interaction with a spouse may serve to combat relational uncertainty and its negative effects by providing couples with opportunities to renegotiate relational norms and gain information from which to make inferences about their relationship <ref type="bibr" target="#b26">(Knobloch &amp; Theiss, 2011b)</ref>. In addition, spending more time together affords partners the opportunity to improve interdependence as they establish positive behavioral routines.</p><p>According to the experiencing life transitions model, promoting connection with social network members allows the patient to use discussion about their transition to garner support, information, and tangible resources <ref type="bibr" target="#b32">(Meleis et al., 2000)</ref>. Married partners can promote connection with a spouse through self-disclosure and relationship talk. Although relationship talk is difficult when relationships are turbulent <ref type="bibr" target="#b24">(Knobloch &amp; Solomon, 2005)</ref>, communication can be helpful when schemas are ambiguous. Partners who report more relationship talk one week report less uncertainty about their relationship in the following week <ref type="bibr" target="#b26">(Knobloch &amp; Theiss, 2011b)</ref>. Likewise, open communication about sexual intimacy <ref type="bibr" target="#b53">(Theiss &amp; Nagy, 2010)</ref> and jealousy <ref type="bibr" target="#b54">(Theiss &amp; Solomon, 2006)</ref> increases relational partners' satisfaction and intimacy. Thus, parents of children with ASD may use self-disclosure and relationship talk to reduce relational uncertainty and interference from a partner by strengthening the bond with their spouse and describing needs and desires during periods of change.</p><p>When individuals experience major changes, they situate themselves within the transition by comparing life after the change to the life they knew before the change <ref type="bibr" target="#b32">(Meleis et al., 2000)</ref>. Promoting feeling situated can also support a successful transition among married partners experiencing a health transition. In the context of marriage, partners make sense of new relational circumstances by recognizing changes as the result of the transitional event. Relational sense-making may occur between the partners or with the help of network members <ref type="bibr" target="#b41">(Parks, 2006)</ref>. Research on narratives indicates that when individuals contemplate the events that occur in their lives, they focus on certain aspects of those events. In particular, when individuals reframe negative transitions to recognize positive outcomes, they experience an increase in emotional well-being and resiliency <ref type="bibr" target="#b40">(Pals, 2006)</ref>, and a decrease in emotional distress <ref type="bibr" target="#b47">(Slotter &amp; Ward, 2015)</ref>. Thus, during hectic transitions in their child's life, communicative attempts to feel situated may reduce uncertainty by helping parents of children with ASD to make sense of changes in their relationship in a positive light and improve interdependence by establishing expectations and routines in light of their new circumstances.</p><p>Finally, the nursing literature identifies steps toward successful transitions through patterns that indicate that the individual is increasing confidence in their ability to cope <ref type="bibr" target="#b32">(Meleis et al., 2000)</ref>. Spouses can increase confidence in their marriage through expressions of commitment. For example, <ref type="bibr" target="#b56">Weigel and Ballard-Reisch (2002)</ref> identified ten indicators that relational partners use to demonstrate their commitment (e.g., providing affection, verbally expressing commitment, providing tangible support). Commitment indicators are negatively correlated with relational uncertainty, and positively correlated with relational commitment and satisfaction <ref type="bibr" target="#b56">(Weigel &amp; Ballard-Reisch, 2002;</ref><ref type="bibr" target="#b57">Weigel, Brown, &amp; O'Riordan, 2011)</ref>. These studies suggest that demonstrating commitment to a partner through verbal and non-verbal communication may allow parents of children with ASD to improve relational outcomes during stressful transitions. Two cross-sectional studies have examined TPC and qualities of marriages encompassed by RTT. In <ref type="bibr">Brisini et al. (2018)</ref>, who used a sample recruited from a general population of married persons, engaging in TPC was negatively associated with spouses' relational uncertainty, interference from a partner, and relational turbulence. TPC was also associated with more positive transition experiences and more positive transition outcomes. These associations were consistent across a range of commonly experienced marital transitions, including health crises involving children. <ref type="bibr">Brisini and Solomon (2018)</ref> examined relational turbulence and engagement in TPC among parents of children with ASD. In that study, people's perceptions that their partner attempted to increase interaction, promote connection, promote feeling situated, and increase confidence in their relationship were associated with decreased relational uncertainty and relational turbulence, and increased facilitation from a partner.</p><p>Building on our previous studies, we report a longitudinal study of TPC and relational qualities reported by parents of children with ASD during a significant transition. Transitions in the life of a child with ASD affect partners' communication, family roles, and relationship schema <ref type="bibr" target="#b36">(Neely, Amatea, Echevarria-Doan, &amp; Tannen, 2012)</ref>, which may lead to relational uncertainty. Raising a child with ASD also requires more time and resources than raising neuro-typical children <ref type="bibr" target="#b8">(Brobst et al., 2009)</ref>; interference from a partner arises from increased parenting demands and decreased involvement from parents' social networks <ref type="bibr" target="#b28">(Lee, Harrington, Louie, &amp; Newschaffer, 2008)</ref>. Transitions may elevate relational uncertainty and cause partners to get in each other's way as they negotiate new patterns and establish a new "normal."</p><p>RTT suggests that communication can reduce relational uncertainty, build interdependence, and mitigate relational turbulence. The experiencing life transitions model identifies TPC that may help couples navigate a transition. Our two previous studies found evidence consistent with these claims, but they were cross-sectional in nature and do not support conclusions about causal direction. Thus, we advance the following hypotheses, which we test using longitudinal data. H1: Husbands' and wives' use of TPC decreases their own and their partner's relational uncertainty, interference from a partner, and relational turbulence and increases their own and their spouse's facilitation from a partner. H2: Husbands' and wives' perception of their spouse's engagement in TPC decreases their relational uncertainty, interference from a partner, and relational turbulence, and increases their facilitation from a partner.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>We used a longitudinal design to examine the effect of TPC on relational turbulence. Our procedures were designed to solicit responses from married partners to inform dyadic analyses. We also used data from individuals whose spouse did not complete procedures to provide a second test of our hypotheses. Each wave of the study (14 diaries, in total) was conducted online using Qualtrics survey software, and participants were contacted via email and text message. Because online surveys can be completed by participants in their home, this method allowed us to gather multiple observations from couples with minimal intrusion in their lives.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were 33 heterosexual pairs and 60 married heterosexual women, who were parents of a child with ASD starting school for the first time and entering pre-school, kindergarten, or first grade in the fall of 2017. Participants identified as European American (97, 80%), African American (8, 7%), Latina/o (9, 7%), and other (6, 6%; 3 participants did not report ethnicity). Ages ranged from 28 to 48 (M = 36.88, SD = 4.28), and the average length of marriage was 9 years (Range: 1-25); 15 participants (13%) had been married previously. Age of the child starting school ranged from 2 to 7 years (M = 5.21, SD = 1.35).</p><p>Most participants described their child's ASD diagnosis as mild to moderate (70%; moderate to severe = 30%).</p><p>Recruitment was assisted by the Interactive Autism Network (IAN) Research Database at the Kennedy Krieger Institute, Baltimore, which connects researchers to families of people who have been diagnosed with ASD by a medical professional. Qualifying families received an email about the study and a link to the screening survey. In total, 467 people completed the pre-screen survey and 207 (59 couples, 89 individuals) met the criteria for the study. Individuals who did not complete at least 4 diary entries were eliminated from the study. Because repeatedly answering questions about TPC could bias responses, we examined testing effects using a control group. Specifically, one-third of the participants (18 couples, 30 individuals) did not receive measures of TPC in daily diaries; scores on the relational turbulence variables revealed no significant group differences.</p><p>Because we did not have enough same-sex dyads to analyze (n = 2), the 33 heterosexual couples who received all measures comprised our dyadic sample. In addition, only 8 of the individuals whose spouse did not participate were male; therefore, we conducted our second set of analyses using the 60 female individuals whose spouse did not participate. The size of our sample of dyads and the gender of most individual respondents are consistent with observations that recruitment of fathers of children with ASD is difficult (A. Marvin, IAN, personal communication, June 26, 2017). <ref type="bibr" target="#b19">Kenny, Kashy, and Cook (2006)</ref> observed that a sample of 25 dyads provides adequate power to assess interdependence. Consistent with this principle, other diary studies of married partners have used samples similar in size to this study (e.g., N = 31 dyads, <ref type="bibr" target="#b27">Kroemeke &amp; Kubicka, 2018</ref>; N = 43 dyads, <ref type="bibr" target="#b39">Osterhout, Frame, &amp; Johnson, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>The study consisted of a pre-test, 14 diary surveys, and a post-test. This study focused on the day-to-day effect of communication on relationship qualities using the 14 diaries to test the hypotheses. Participants were compensated with Amazon gift cards worth up to $50 per person. Subjects received $10 for completing each of the pre-and post-tests. Incentives for the diary surveys were awarded on a sliding scale with the first completed survey worth 50 cents and the payment increasing 25 cents for each diary completed (i.e., the second diary was worth 75 cents, the third worth $1.00, and so on), for a total of $29.75 (rounded to $30).</p><p>Over a 42-day period of time, participants completed diary entries every three days using a Qualtrics cell-phone specific version of the survey. At 8 pm, participants received a text message containing a direct link to the brief survey and were asked to complete the survey before going to bed that night. If the participant did not complete the survey, they received a text message reminder at 8:30 am the following morning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>All closed-ended measures used in this study have been validated in previous research and consisted of Likert items ranging from 1 (strongly disagree) to 6 (strongly agree), unless otherwise stated. Specifically, couples received diaries that included shortened versions of scales assessing self, partner, and relationship uncertainty, interference and facilitation from a partner, relational turbulence, and TPC. To select items from the original scales, we examined the factor loadings from the confirmatory factor analysis of variables assessed in <ref type="bibr">Brisini and Solomon (2018)</ref>. Items that had the highest factor loadings and face validity were used for daily assessments, and items were worded to reflect communication "over the past few days." Question order was randomized daily. Using multi-level confirmatory factor analyses, we determined that the measurement models for our subsequent analyses met the following criteria: CFI &gt; .95, RMSEA, &lt;.06, and SRMR &lt; .08 <ref type="bibr" target="#b16">(Hu &amp; Bentler, 1999)</ref>. Details can be obtained from the first author; see Table <ref type="table" target="#tab_0">1</ref> for descriptive statistics for these measures.</p><p>Daily reports of relational uncertainty were each assessed using three Likert items evaluating individuals' own questions about the relationship, perceptions of their partner's questions about the relationship, and questions about the status of the relationship <ref type="bibr" target="#b48">(Solomon &amp; Brisini, 2017)</ref>. Interference and facilitation from a partner were each indexed using two items that reflected the perception that a partner hindered or helped the achievement of daily goals <ref type="bibr" target="#b23">(Knobloch &amp; Solomon, 2004)</ref>. Relational turbulence was assessed using four semantic differentials asking partners to evaluate their relationship as chaotic to stable (reverse coded), calm to turbulent, tumultuous to running smoothly (reverse coded), and peaceful to stressful <ref type="bibr" target="#b31">(McLaren, Solomon, &amp; Priem, 2012)</ref>.</p><p>Four measures, three items each, used 6-point Likert-type scales (1 = not very often, 6 = very often) to index the frequency with which the individual engaged in TPC over the last two days; parallel scales measured perceptions of the spouse's engagement in TPC. Increasing interaction measured attempts to spend quality time with a partner (e.g., "I made it a point to do fun things with my spouse"). Promoting connection assessed efforts to maintain closeness through relationship talk and shared feelings (e.g., "I tried to be open with my spouse about how I felt"). Promoting feeling situated captured communication about the ways in which circumstances were different because of the transition (e.g., "I tried to reflect on the positive consequences that resulted for my relationship"). Increasing confidence measured the use of commitment indicators during the transition (e.g., "I showed my spouse that our relationship was strong through affection").</p><p>Marital satisfaction was measured as a potential covariate at pre-test, one-week prior to the beginning of the diary surveys. Five items from <ref type="bibr" target="#b37">Norton's (1983)</ref> Marriage Quality Index assessed marital satisfaction by asking participants to evaluate the overall strength and quality of the relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>We first describe the analyses used to test our hypotheses. Next, we report the results of H1, which addressed the associations between participants' engagement in relationshipfocused communication one day and experiences of relational uncertainty, interdependence, and relational turbulence three days later. We then discuss the results of H2, which addressed the associations between participant perceptions of a spouse's engagement in TPC and experiences of relational turmoil. For both hypotheses, we begin with a discussion of results of the actor-partner interdependence modeling (APIM) using the dyadic data. We then describe a second set of multi-level analyses examining the associations between the variables of interest in the sample of married, female individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Our hypotheses examine the effect of communication on subsequent relational qualities. Accordingly, the unit of analysis is each adjacent pair of diaries (i.e., t-1 with t). We had up to 13 diary-to-diary pairs per respondent (33 couples X t -1 = 760 total observations, 405 for wives and 355 for husbands; 60 wives X t -1 = 825 total observations). For the dyadic data, these pairs of observations are crossed between husbands and wives and spouses are nested within dyads, making a two-level crossed design. For individuals, diaries are nested within individuals. Thus, despite having a relatively small number of participants, the study has a large sample of observations (for similar analyses, see <ref type="bibr" target="#b9">Brock &amp; Lawrence, 2014;</ref><ref type="bibr" target="#b27">Kroemeke &amp; Kubicka, 2018;</ref><ref type="bibr" target="#b39">Osterhout et al., 2011)</ref>. The repeated measures design also controls for factors that cause variability between subjects.</p><p>For dyads, hypotheses were tested using APIM, which examines how an actor's scores on the independent variable relates to the actor's scores and a partner's scores on the dependent variable, as well as how the partner's scores on the independent variable impact the actor's scores and the partner's scores on the dependent variable (see Figure <ref type="figure" target="#fig_0">1</ref>; <ref type="bibr" target="#b19">Kenny et al., 2006)</ref>. For each hypothesis, we examined the associations between the independent variables in any given diary and dependent variables on the subsequent diary (3 days later). As explained by <ref type="bibr" target="#b19">Kenny et al. (2006)</ref>, APIM allows the effects from one diary to the next to be estimated, while accounting for the within-person and withindyad dependence in the data.</p><p>Following Figure <ref type="figure" target="#fig_0">1</ref>, we used the over-time APIM to assess our hypotheses <ref type="bibr" target="#b18">(Kashy &amp; Donnellan, 2012;</ref><ref type="bibr" target="#b19">Kenny et al., 2006)</ref>. In the lagged over-time APIM design, the purpose of collecting data across multiple time points is to aggregate data and create an estimate of the actor and partner effects from one diary to the next. In other words, each pair of consecutive time points is a unit for analysis (for examples of this particular technique, see <ref type="bibr" target="#b10">Davila &amp; Kashy, 2009;</ref><ref type="bibr" target="#b50">Solomon &amp; Theiss, 2008;</ref><ref type="bibr" target="#b54">Theiss &amp; Solomon, 2006)</ref>. This method is in contrast to  Note. In the over-time APIM, spouses' scores at time t -1 are used to predict outcomes at time t. In all APIM, i indicates the partners' membership in a particular dyad. a 1 estimates the effect of the wife's score on the independent variable on her own scores on the dependent variable; a 2 estimates the effect of the husband's score on the independent variable on his own score on the dependent variable; p 21 estimates the effect of the wife's score on the independent variable on the husband's score on the dependent variable; p 12 estimates the effect of the husband's score on the independent variable on the wife's score on the dependent variable. e 1 and e 2 estimate the residual variance for the husband and wife's scores.</p><p>other longitudinal designs, which examine the relationships between individual time points (week 1 to week 2, day 10 to day 11) or chart growth over time (e.g., growth curve models, lagged time models). Thus, for the over-time APIM, the data for each participant are "stacked" using a dyad period data set. Separate variables are created for husbands and wives, and individual rows contain data for both spouses reported on a given diary. Repeated measures are listed as cases of the same variable. Therefore, N's for these analyses were 405 for wives and 355 for husbands.</p><p>To conduct our dyadic analyses, the scores on the independent variable on diary surveys completed at time t-1 are used to predict scores on the dependent variable at time t, and we controlled for scores on the previous diary by creating a time lagged variable and including it in the model as a covariate. To account for non-independence in the data, husbands' and wives' scores on the independent variable were allowed to correlate, as were the error terms for husbands' and wives' scores on the dependent variable <ref type="bibr" target="#b19">(Kenny et al., 2006)</ref>. Standard errors for diary entries were clustered within the dyad <ref type="bibr" target="#b35">(Muthen &amp; Satorra, 1995)</ref>. We specified the following criteria for goodness of fit χ 2 /df &lt; 3.00, CFI &gt; .90 and RMSEA &lt; .08 <ref type="bibr" target="#b21">(Kline, 1998)</ref> and employed path analyses (MPlus 7.3) to analyze the data.</p><p>Relational turbulence theory indicates that relationshipfocused communication can attenuate the influence of turbulence on marriage; however, exactly how and what is affected by that communication is not clarified. Thus, we examined the direct effects of each of the forms of TPC on self, partner, and relationship uncertainty, interference and facilitation from a partner, and relational turbulence in separate analyses. Each APIM analysis included one category of TPC as the independent variable and one relationship quality as the dependent variable. Although this strategy increases the number of tests conducted, it provides insight into the specific relationship qualities affected by TPC. Because it was significantly associated with other variables in the analyses, marital satisfaction was included in the model with paths to husbands' and wives' scores on the outcome variable.</p><p>To analyze the data gathered from women whose spouse did not participate, we followed the same procedures to structure the data set. Because spouses did not provide measures, we used multi-level modeling, rather than the APIM analysis, to examine the associations between wives' reports of self and partner engagement in TPC one day and their reports of relational turbulence variables three days later. Again, a lagged TPC variable was used to predict the relational turbulence variable. A lagged relational turbulence variable was included as a level 1 covariate and marital satisfaction was included as a level 2 covariate. This analysis was identical to the dyadic analysis, except that it allowed us to estimate both within-person and between-person effects, whereas the APIM analysis involved covarying variance associated with variables within person <ref type="bibr" target="#b35">(Muthen &amp; Satorra, 1995)</ref>. Thus, the analyses of the sample of women whose spouse did not complete procedures provide a second test of the actor paths in Figure <ref type="figure" target="#fig_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-reported transition processing communication</head><p>H1 predicted that husbands' and wives' self-reports of their own engagement in TPC on one diary would negatively predict experiences of self, partner, and relationship uncertainty, interference from a partner, and relational turbulence and positively predict facilitation from a partner on the next diary (3 days later). To test this hypothesis, we conducted over-time APIM analyses with participants' self-reported TPC as the independent variable. Each of the models met the goodness of fit criteria. Path coefficients are presented in Table <ref type="table" target="#tab_1">2</ref>. Actor effects (paths a1 and a2 in Figure <ref type="figure" target="#fig_0">1</ref>) evaluate the extent to which participants report of their own TPC affect their subsequent reports of their own relationship qualities. Results show that wives' engagement in all four forms of TPC was positively and significantly associated with their reports of facilitation from a partner three days later. We also observed significant negative associations between wives' attempts to promote feeling situated and self and partner uncertainty. While limited in number, these findings are consistent with H1. Similarly, husbands' reports of increasing interaction, promoting connection, promoting feeling situated, and increasing confidence were each positively associated with facilitation from a partner three days later. Contrary to H1, husbands' attempts to promote feeling situated were positively associated with interference from a partner, and husbands' engagement in all four forms of TPC was positively associated with relational turbulence.</p><p>Partner effects (paths p21 and p12) evaluate the effects of participants' reported TPC on the partner's reported relationship qualities. Wife partner effects, which reflect associations between a husband's self-reported TPC and a wife's relationship qualities three days later, showed only one significant effect. Specifically, husbands' reports of increasing interaction were negatively associated with their wife's self uncertainty. Husband partner effects were also limited. Wives' attempts to promote feeling connected and feeling situated were both positively associated with their husband's reports of facilitation from a partner three days later. In addition, wives' attempts to promote connection and increase confidence in the relationship were both negatively associated with subsequent relational turbulence. Although significant effects and other marginally significant associations were in the predicted direction, support for the partner effects specified by H1 was limited.</p><p>We replicated tests of actor effects specified by H1 using the sample of wives whose spouse did not participate in the study. Separate multi-level models were constructed, each containing one form of TPC and one relational turbulence variable and predictor variables were grand mean centered. Random intercept models were computed using maximum likelihood estimation in which diaries were nested within individuals. Results are reported for each model in Table <ref type="table" target="#tab_2">3</ref>. The significance of the beta coefficients indexes the effects of within person variation on the independent variables at t-1 on within-person variation in the dependent variables three days later.</p><p>As in the analysis of the dyadic data, we found that wives' reports of increasing interaction and increasing confidence corresponded with subsequent increases in their reports of facilitation from a partner; however, we did not replicate these patterns for wives' reports of promoting either connection or feeling situated. Two other sets of results were consistent with H1: (a) women's attempts to promote connection with their spouse were negatively associated with women's reported relationship uncertainty and interference from a partner, and (b) women's reports of increasing confidence were negatively associated with their partner and relationship uncertainty. As in the dyadic analysis of actor effects for wives, other marginally significant effects were in the direction anticipated by H1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perceptions of partner transition processing communication</head><p>H2 predicted a negative association between participants' perceptions of their spouse's engagement in TPC and their experiences of self, partner, and relationship uncertainty, interference from a partner, and relational turbulence on the following diary; this effect was expected to be positive for facilitation from a partner. We conducted actor-only APIMs with husbands' and wives' perceptions of their spouse's TPC at time t-1 predicting their own scores on relational turbulence variables at time t. Each of the models met the fit criteria. We compared the fit of the full APIM and the actor-only APIM; the models were not significantly different, or the actor-only model was a significantly better fit. Results are in Table <ref type="table" target="#tab_3">4</ref>.</p><p>Actor effects (paths a1 and a2 in Figure <ref type="figure" target="#fig_0">1</ref>) evaluate the extent to which participants' perceptions of their partner's TPC affect their reports of their own relationship qualities. As predicted, wives' perception that their husband engaged in any of the four TPC variables was negatively associated with wives' experiences of self uncertainty and positively associated with their reports of facilitation from a partner on the subsequent diary. Wives' perceptions of their husband's attempts to promote feeling situated and increase confidence were also negatively associated with their own experiences of partner uncertainty. For husbands, perceptions that their wife participated in any of the forms of TPC on a given day positively predicted husbands' subsequent facilitation from their partner. In addition, husbands' reports of their wife's attempts to increase interaction, promote connection, and increase  confidence each negatively predicted husbands' relationship uncertainty. In contrast to H2, husbands' reports of their wife's attempts to promote feeling situated were positively associated with interference from a partner.</p><p>As a second test of H2, we examined associations between perceptions of a partner's engagement in TPC and reports of relationship qualities three days later using our sample of married women whose spouse did not participate in the study. We conducted multi-level analyses using the same procedures described in H1, and all estimates of within person associations were statistically significant and in the predicted direction (see Table <ref type="table" target="#tab_2">3</ref>). Specifically, women's perceptions of their spouse's TPC reported on one diary significantly and negatively predicted women's self, partner, and relationship uncertainty, interference from a partner, and relational turbulence on the following diary. In addition, perceptions of the spouse's transition processing one day were positively associated with women's reports of facilitation from a partner three days later. Within this subsample, then, H2 was fully supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Given the widespread impact of ASD on family dynamics, we sought to better understand the role of communication in relationship well-being for parents of children with ASD. Starting school for the first time is a life transition that is complicated by ASD <ref type="bibr" target="#b4">(Baxter et al., 1995)</ref>, and the challenges it imposes can spark turmoil in the parents' marital relationship <ref type="bibr">(Brisini &amp; Solomon, 2018)</ref>. Although preliminary, the study carries two major implications for health practitioners and interventions. First, transitions throughout the life of a child with a persistent health condition may influence marital stability and well-being. Second, parents who engage in TPC during those transitions have the potential to alleviate some aspects of relationship turmoil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications for theory and practice</head><p>This study tests RTT's claim that communication can influence relationship qualities that contribute to turbulence. To examine the link between partners' communicative behavior and their relationship experiences, H1 and H2 addressed the effect of TPC on relational turbulence variables from one diary to the next (three days later). Although several associations were not significant, a person's own engagement in TPC was associated with increased feelings of facilitation from a partner three days later. In addition, the perception that a partner engaged in TPC was positively associated with facilitation from a partner, and it was negatively associated with wives' self uncertainty and husbands' relationship uncertainty in our sample of dyads. In our sample of wives whose spouse did not participate, perceptions of a spouse's engagement in all four forms of TPC were negatively associated with relational uncertainty, interference from a partner, and relational turbulence, and positively associated with facilitation from a partner.</p><p>Our findings are in keeping with results from <ref type="bibr">Brisini and Solomon (2018)</ref> and demonstrate the potential impact of spouses' perceptions on their experiences of relationship transitions. By evaluating hypotheses deduced from relational turbulence theory using a longitudinal research design, this study addresses the limitations of previous tests of these associations. Specifically, whereas most previous tests of these hypotheses have relied on retrospective and cross-sectional research designs (but see <ref type="bibr" target="#b26">Knobloch &amp; Theiss, 2011b)</ref>, our longitudinal research design supports more definitive conclusions about the causal relationships predicted by the theory and suggests more specific effects of the particular types of communication that influence relational outcomes, especially facilitation from a partner.</p><p>Results from this study may be particularly relevant to marital counselors. Researchers in the fields of counseling and social work have recommended therapies for parents of children with ASD to help maintain a healthy relationship in the face of heightened parental burden and marital strain (e.g., <ref type="bibr" target="#b15">Hock, Timm, &amp; Ramisch, 2012;</ref><ref type="bibr" target="#b43">Ramisch, 2010)</ref>. Results of this study suggest that, by decreasing relational uncertainty and improving interdependence, engagement in TPC may alleviate relational turmoil without the financial and temporal burden of traditional therapies. In particular, analyses using the sample of individual, married women demonstrated significant within person associations between TPC and relationship experiences during their child's transition to school, but no between person effects were significant. These findings suggest that the influence of TPC on experiences of turbulence may rely more on individual variation in communication from day to day during the school transition, rather than a general tendency to engage in relationship-focused communication compared to other couples. Because starting school for the first time is one of the most common, important, and stressful transitions that parents of children with ASD report <ref type="bibr" target="#b4">(Baxter et al., 1995;</ref><ref type="bibr">Brisini &amp; Solomon, 2018)</ref>, further efforts to identify communication strategies that attenuate the negative relational consequences of this experience would be valuable.</p><p>In some cases, a husband's attempts to feel connected and feel situated one day was associated with the increased perception that his wife interfered with his goals over the following three days. This was also true of husbands' perception that their wife attempted to feel situated. These associations were relatively small, but they are particularly interesting given that facilitation from a partner was also positively associated with husbands' TPC. This may reflect a general increase in influence between partners as a result of increased relationship talk <ref type="bibr" target="#b23">(Knobloch &amp; Solomon, 2004</ref>). In addition, spouses' perceptions of their partner's communication behavior were stronger predictors of marital quality than spouses' actual attempts to improve the relationship in daily interactions. Thus, recognizing one's own and one's partner's attempts to engage in TPC may play an important role in attenuating the negative outcomes associated with relational turbulence during major health-related transitions.</p><p>In contrast to our hypotheses, increases in husbands' engagement in increasing interaction, promoting connection, and increasing confidence were positively associated with their own reports of relational turbulence three days later. Although both men and women are more willing to engage in relational maintenance behaviors when they are satisfied and committed to their relationship <ref type="bibr" target="#b3">(Ballard-Reisch &amp; Weigel, 1999)</ref>, previous research suggests that men are less aware of relational shortcomings <ref type="bibr" target="#b51">(Sweeney, 2002)</ref> and tend to engage in less relational maintenance than women generally <ref type="bibr" target="#b38">(Ogolsky &amp; Bowers, 2012)</ref>. We wonder if employing relationship-focused behaviors during difficult transitions makes the relationship feel more chaotic or out of control for men who may otherwise have engaged in less relationship-focused communication. A second possible explanation for husbands' increased relational turbulence may be the perceived success of maintenance effort. In a study of newlyweds, <ref type="bibr" target="#b2">Baker, McNulty, Overall, Lambert, and Fincham (2012)</ref> found that increased relational maintenance was associated with improved individual well-being when it was followed by improved relationship quality. In contrast, partners who reported their efforts as unsuccessful demonstrated decreased relational well-being <ref type="bibr" target="#b2">(Baker et al., 2012)</ref>. Thus, increases in relational turbulence may stem from husbands' perceptions that relational maintenance efforts are unsuccessful in improving the relationship. Although few in number, the positive associations between TPC and relational turbulence suggest that engagement in TPC, while generally positive, may negatively impact husbands' perception of relationship qualities, if increased relational maintenance calls into question the stability of the relationship.</p><p>The dyadic nature of this study illuminated unique experiences for husbands and wives. In general, wives seemed to experience a stronger relationship between their own and their partner's engagement in TPC and the six relationship qualities. In several cases, husbands' associations between the variables of interest demonstrated the opposite association than those predicted for daily assessments, particularly for TPC that involves increased conversation with a spouse. Across the analyses, wives seem to be more cognizant of relational behaviors and in turn, may be more affected by relational maintenance attempts. The results are in keeping with previous research that suggests that wives have greater relationship awareness <ref type="bibr" target="#b0">(Acitelli, 1992)</ref> and take on more relational maintenance responsibilities than their husbands <ref type="bibr" target="#b42">(Ragsdale, 1996)</ref>. Although RTT is silent on the question of sex differences in the relationship and communication processes it addresses, our results point to the need to consider how men and women may have divergent experiences of communication during transitions that affect the marital dyad.</p><p>Our findings offer initial evidence that improvements in relational quality may follow from engagement in TPC, and more research is required to fully understand the long-term associations between relationship-focused communication and relational turbulence. Without instruction, increases in perceptions of a partner's engagement in TPC may cause people to question the status of their relationship; however, interventions that target parents of children with ASD during transitions may see positive outcomes when partners receive explicit instruction to engage in these behaviors at the onset of the transition. In addition, results suggest that individual's perceptions of their own communication and their perceptions of their partner's communication have a greater influence on their experiences of relational turbulence than their partner's actual reports of their communication. With this in mind, counselors and interventionists may best serve parents of children with ASD who are experiencing a transition by helping them to recognize and pay attention to the communicative efforts that they and their spouse put forth during difficult changes. Thus, counselors should consider providing explicit instruction to engage in TPC and to attend to the individual's own and their spouse's attempts to engage in these behaviors. We see developing and evaluating such intervention efforts as a fruitful direction for future research.</p><p>The conclusions of this study are qualified by its methodological limitations. Although the repeated measures nature of our research design afforded ample degrees of freedom, the small number of couples who completed the study qualifies the generalizability of the findings. Given this limitation, we supplemented our analyses of dyads by examining data from women whose spouse did not complete procedures. Sizable differences in the experience of relationship qualities and TPC reported by the two groups indicate that the dyads in our study may be particularly well-adjusted. This observation both points to the challenges of recruiting parental dyads for research on couples raising a child with ASD and suggests that relational turbulence in this population may be understated by our dyadic data. In addition, non-random sampling techniques were required to access a sample of parents whose child with ASD was starting school for the first time. Finally, this study was conducted using online, self-report measures, which are associated with various self-report biases, particularly for measures of communication behaviors. Future studies would benefit from the application of observation techniques to examine married partners' engagement in transition processing during interactions.</p><p>Despite these limitations, this study has several strengths. First, we used a longitudinal design to assess the causal relationship between relationship-focused communication and qualities of marriage. Second, by having participants complete diary surveys at the end of each day, we also reduced the impact of retrospective bias typical in self-report studies. In addition, the study employed dyadic data analysis, which included the perspective of both marital partners and allowed for the comparison of responses across spouses to reveal unique effects for husbands and wives. Finally, the study engaged the Interactive Autism Network to access a hard to reach and relatively understudied population in relationship research.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The Actor-Partner Interdependence Model.Note. In the over-time APIM, spouses' scores at time t -1 are used to predict outcomes at time t. In all APIM, i indicates the partners' membership in a particular dyad. a 1 estimates the effect of the wife's score on the independent variable on her own scores on the dependent variable; a 2 estimates the effect of the husband's score on the independent variable on his own score on the dependent variable; p 21 estimates the effect of the wife's score on the independent variable on the husband's score on the dependent variable; p 12 estimates the effect of the husband's score on the independent variable on the wife's score on the dependent variable. e 1 and e 2 estimate the residual variance for the husband and wife's scores.</figDesc><graphic coords="5,147.01,558.48,300.00,125.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Note.</head><label></label><figDesc>All intercepts are significant at p &lt; .001. Beta coefficients represent the with-in person change in the dependent variable. SU = Self Uncertainty, PU = Partner Uncertainty, RU = Relationship Uncertainty, IP = Interference from a Partner, FP = Facilitation from a Partner, RT = Relational Turbulence. ϯ p &lt; .10, * p &lt; .05, ** p &lt; .01, ***p &lt; .001</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Descriptive statistics for variables across the 14 diary surveys. Cell entries are aggregated across all diary surveys. N husbands = 355 data points from 33 husbands, N wives = 405 data points from 33 wives, N singles = 825 data points from 60 married, female individuals. s = self, p = partner. T-tests are comparisons between wives whose husbands participated in the study and individual women whose husband did not complete procedures.</figDesc><table><row><cell></cell><cell></cell><cell>Husbands</cell><cell></cell><cell></cell><cell>Wives</cell><cell></cell><cell></cell><cell>Individual Women</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Variables</cell><cell>M</cell><cell>SD</cell><cell>α</cell><cell>M</cell><cell>S D</cell><cell>α</cell><cell>M</cell><cell>S D</cell><cell>α</cell><cell>t</cell><cell>d f</cell></row><row><cell>Self Uncertainty</cell><cell>1.56</cell><cell>0.92</cell><cell>.92</cell><cell>1.72</cell><cell>1.22</cell><cell>.94</cell><cell>2.17</cell><cell>1.58</cell><cell>.96</cell><cell>-5.04***</cell><cell>1114</cell></row><row><cell>Partner Uncertainty</cell><cell>1.64</cell><cell>0.95</cell><cell>.92</cell><cell>1.72</cell><cell>1.21</cell><cell>.93</cell><cell>2.18</cell><cell>1.54</cell><cell>.95</cell><cell>-5.36***</cell><cell>1114</cell></row><row><cell>Relationship Uncertainty</cell><cell>1.87</cell><cell>1.02</cell><cell>.82</cell><cell>1.84</cell><cell>1.14</cell><cell>.87</cell><cell>2.33</cell><cell>1.53</cell><cell>.90</cell><cell>-5.85***</cell><cell>1114</cell></row><row><cell>Interference from a Partner</cell><cell>1.82</cell><cell>1.08</cell><cell>.90</cell><cell>1.90</cell><cell>1.23</cell><cell>.88</cell><cell>2.50</cell><cell>1.57</cell><cell>.91</cell><cell>-6.62***</cell><cell>1111</cell></row><row><cell>Facilitation from a Partner</cell><cell>3.36</cell><cell>1.55</cell><cell>.92</cell><cell>3.07</cell><cell>1.69</cell><cell>.93</cell><cell>3.30</cell><cell>1.57</cell><cell>.90</cell><cell>-2.31**</cell><cell>1111</cell></row><row><cell>Relational Turbulence</cell><cell>2.40</cell><cell>1.17</cell><cell>.94</cell><cell>2.56</cell><cell>1.32</cell><cell>.95</cell><cell>2.77</cell><cell>1.56</cell><cell>.96</cell><cell>-2.37**</cell><cell>1110</cell></row><row><cell>Increasing Interaction(s)</cell><cell>3.13</cell><cell>1.46</cell><cell>.93</cell><cell>2.65</cell><cell>1.41</cell><cell>.93</cell><cell>3.19</cell><cell>1.62</cell><cell>.95</cell><cell>-5.54***</cell><cell>1108</cell></row><row><cell>Promoting Connection(s)</cell><cell>3.27</cell><cell>1.46</cell><cell>.92</cell><cell>3.25</cell><cell>1.44</cell><cell>.88</cell><cell>3.69</cell><cell>1.56</cell><cell>.92</cell><cell>-4.59***</cell><cell>1108</cell></row><row><cell>Promoting Feeling Situated(s)</cell><cell>2.86</cell><cell>1.38</cell><cell>.88</cell><cell>2.74</cell><cell>1.29</cell><cell>.81</cell><cell>3.27</cell><cell>1.44</cell><cell>.82</cell><cell>-6.13***</cell><cell>1108</cell></row><row><cell>Increasing Confidence(s)</cell><cell>3.33</cell><cell>1.35</cell><cell>.79</cell><cell>2.80</cell><cell>1.30</cell><cell>.78</cell><cell>3.48</cell><cell>1.59</cell><cell>.88</cell><cell>-7.30***</cell><cell>1108</cell></row><row><cell>Increasing Interaction(p)</cell><cell>3.04</cell><cell>1.55</cell><cell>.95</cell><cell>2.60</cell><cell>1.51</cell><cell>.96</cell><cell>3.16</cell><cell>1.71</cell><cell>.95</cell><cell>-5.49***</cell><cell>1107</cell></row><row><cell>Promoting Connection(p)</cell><cell>3.33</cell><cell>1.50</cell><cell>.92</cell><cell>2.77</cell><cell>1.20</cell><cell>.93</cell><cell>3.40</cell><cell>1.70</cell><cell>.95</cell><cell>-6.13***</cell><cell>1107</cell></row><row><cell>Promoting Feeling Situated(p)</cell><cell>2.82</cell><cell>1.45</cell><cell>.90</cell><cell>2.89</cell><cell>1.54</cell><cell>.88</cell><cell>2.98</cell><cell>1.59</cell><cell>.90</cell><cell>-6.15***</cell><cell>1107</cell></row><row><cell>Increasing Confidence(p)</cell><cell>3.15</cell><cell>1.40</cell><cell>.78</cell><cell>2.75</cell><cell>1.35</cell><cell>.76</cell><cell>3.51</cell><cell>1.65</cell><cell>.90</cell><cell>-7.93***</cell><cell>1107</cell></row><row><cell>Note.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Path coefficients for over-time APIM of diary surveys assessing self transition processing communication.</figDesc><table><row><cell></cell><cell></cell><cell>Wife actor</cell><cell>Husband actor</cell><cell>Wife partner</cell><cell>Husband partner</cell><cell>Covariance between</cell><cell>Covariance between husband</cell></row><row><cell>IV</cell><cell>DV</cell><cell>effects (a1)</cell><cell>effects (a2)</cell><cell>effects (p12)</cell><cell>effects (p21)</cell><cell>husband and wives' IV</cell><cell>and wives' DV</cell></row><row><cell>Increasing Interaction</cell><cell>SU PU</cell><cell>-.02 -.04 ϯ</cell><cell>.01 .02</cell><cell>-.06* -.01</cell><cell>-.03 -.01</cell><cell>.95*** .95***</cell><cell>.04 ϯ .04*</cell></row><row><cell>Promoting Connection</cell><cell>RU IP FP RT SU PU</cell><cell>-.01 -.02 .14* .00 -.01 .03</cell><cell>-.01 .02 .16* .06 * .00 .01</cell><cell>-.03 -.05 ϯ .09 ϯ -.03 -.05 ϯ -.04 ϯ</cell><cell>.00 .02 .08 -.06 ϯ -.03 -.02</cell><cell>.95*** .95*** .98*** .95*** 1.08*** 1.08***</cell><cell>.11 ** .05 .07 .20* .04 ϯ .02</cell></row><row><cell></cell><cell>RU IP</cell><cell>-.04 .08 ϯ</cell><cell>.01 .06 ϯ</cell><cell>-.02 -.06 ϯ</cell><cell>-.02 -.04</cell><cell>1.08*** 1.08***</cell><cell>.04* .06 ϯ</cell></row><row><cell></cell><cell>FP</cell><cell>.14*</cell><cell>.17*</cell><cell>.03</cell><cell>.14*</cell><cell>1.09***</cell><cell>.02</cell></row><row><cell>Promoting</cell><cell>RT SU</cell><cell>-.02 -.08*</cell><cell>.10** .01</cell><cell>-.03 -.05 ϯ</cell><cell>-.14** .01</cell><cell>1.08*** .78***</cell><cell>.20* .05*</cell></row><row><cell>Feeling</cell><cell>PU</cell><cell>-.09*</cell><cell>.01</cell><cell>.00</cell><cell>.03</cell><cell>.77***</cell><cell>.02</cell></row><row><cell>Situated</cell><cell>RU IP</cell><cell>-.06 -.02</cell><cell>.06 .09*</cell><cell>-.01 -.05</cell><cell>-.02 -.04</cell><cell>.77*** .77***</cell><cell>.04 * .06 ϯ</cell></row><row><cell></cell><cell>FP</cell><cell>.19*</cell><cell>.21***</cell><cell>.05</cell><cell>.16**</cell><cell>.83***</cell><cell>.02</cell></row><row><cell>Increasing</cell><cell>RT SU</cell><cell>-.01 -.05</cell><cell>.08* .01</cell><cell>-.02 -.03</cell><cell>-.06 -.04</cell><cell>.77*** .83***</cell><cell>.20* .04 ϯ</cell></row><row><cell>Confidence</cell><cell>PU</cell><cell>-.02</cell><cell>.02</cell><cell>-.03</cell><cell>-.03</cell><cell>.82***</cell><cell>.02</cell></row><row><cell></cell><cell>RU</cell><cell>-.01</cell><cell>-.02</cell><cell>-.02</cell><cell>-.04</cell><cell>.82***</cell><cell>.04*</cell></row><row><cell></cell><cell>IP FP</cell><cell>-.04 .17*</cell><cell>.04 .30***</cell><cell>.00 -.02</cell><cell>-.01 .09 ϯ</cell><cell>.82*** .92***</cell><cell>.05 .10</cell></row><row><cell></cell><cell>RT</cell><cell>.01</cell><cell>.13***</cell><cell>-.01</cell><cell>-.16***</cell><cell>.83***</cell><cell>.20*</cell></row></table><note><p>Note. Cell entries are unstandardized coefficients. SU = Self Uncertainty, PU = Partner Uncertainty, RU = Relationship Uncertainty, IP = Interference from a Partner, FP = Facilitation from a Partner, RT = Relational Turbulence. ϯ p &lt; .10, * p &lt; .05, ** p &lt; .01, ***p &lt; .001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Path coefficients for MLM analyses of diary surveys assessing self and partner transition processing communication in singles.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="5">Self transition processing communication</cell><cell></cell><cell cols="4">Partner transition processing communication</cell><cell></cell></row><row><cell>IV</cell><cell></cell><cell>SU</cell><cell>PU</cell><cell>RU</cell><cell>IP</cell><cell>FP</cell><cell>RT</cell><cell>SU</cell><cell>PU</cell><cell>RU</cell><cell>IP</cell><cell>FP</cell><cell>RT</cell></row><row><cell>ICC</cell><cell></cell><cell>.76</cell><cell>.72</cell><cell>.78</cell><cell>.57</cell><cell>.43</cell><cell>.56</cell><cell>.76</cell><cell>.73</cell><cell>.78</cell><cell>.57</cell><cell>.43</cell><cell>.56</cell></row><row><cell>Increasing Interaction</cell><cell>Intercept b</cell><cell cols="2">2.06 -.04 -.05 2.09</cell><cell cols="2">2.20 -.05 ϯ -.06 ϯ 2.39</cell><cell cols="3">3.29 .12** -.07 ϯ -.06* 2.60 2.17</cell><cell>2.18 -.08*</cell><cell>2.32 -.08**</cell><cell>2.49 -.12**</cell><cell cols="2">2.97 .13** -.13*** 2.69</cell></row><row><cell>Promoting Connection</cell><cell>Intercept b</cell><cell cols="4">2.07 -.01 -.05 ϯ -.06* -.10* 2.11 2.22 2.00</cell><cell>3.26 .03</cell><cell>2.61 -.04</cell><cell cols="4">2.08 -.09** -.15*** -.13*** -.09 ϯ 2.09 2.21 2.42</cell><cell>3.25 .09 ϯ</cell><cell>2.64 -.11**</cell></row><row><cell cols="2">Promoting Feeling Situated Intercept b</cell><cell cols="4">2.07 .01 -.05 ϯ -.05 ϯ -.03 2.10 2.20 2.38</cell><cell>3.29 .06</cell><cell>2.59 -.05</cell><cell cols="4">2.07 -.07** -.13*** -.11*** -.10 ϯ 2.09 2.21 2.40</cell><cell>3.30 .12*</cell><cell>2.60 -.11*</cell></row><row><cell>Increasing Confidence</cell><cell>Intercept</cell><cell>2.07</cell><cell>2.10</cell><cell>2.21</cell><cell>2.39</cell><cell>3.25</cell><cell>2.61</cell><cell>2.06</cell><cell>2.09</cell><cell>2.21</cell><cell>2.39</cell><cell>3.24</cell><cell>2.61</cell></row><row><cell></cell><cell>b</cell><cell cols="4">-.04 -.08* -.07* -.02</cell><cell cols="2">.13** -.06</cell><cell cols="4">-.07** -.13*** -.19*** -.10*</cell><cell>.13*</cell><cell>-.15***</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Path coefficients for over-time APIM of diary surveys assessing partner transition processing communication. Note. Cell entries are unstandardized coefficients. SU = Self Uncertainty, PU = Partner Uncertainty, RU = Relationship Uncertainty, IP = Interference from a Partner, FP = Facilitation from a Partner, RT = Relational Turbulence.</figDesc><table><row><cell></cell><cell></cell><cell>Wife actor effects</cell><cell>Husband actor effects</cell><cell>Covariance between husband and</cell><cell>Covariance between husband and wives'</cell></row><row><cell>IV</cell><cell>DV</cell><cell>(a1)</cell><cell>(a2)</cell><cell>wives' IV</cell><cell>DV</cell></row><row><cell>Increasing Interaction</cell><cell>SU</cell><cell>-.06*</cell><cell>-.01</cell><cell>1.35***</cell><cell>.04 ϯ</cell></row><row><cell></cell><cell>PU RU IP</cell><cell>-.03 -.03 ϯ -.05 ϯ</cell><cell>.00 -.05* .03</cell><cell>1.35*** 1.35*** 1.35***</cell><cell>.01 .04* .05</cell></row><row><cell></cell><cell>FP</cell><cell>.15*</cell><cell>.14*</cell><cell>1.35***</cell><cell>.09</cell></row><row><cell>Promoting Connection</cell><cell>RT SU PU RU</cell><cell>-.04 -.07* -.05 ϯ -.04 ϯ</cell><cell>.01 -.02 -.02 -.07*</cell><cell>1.35*** 1.37*** 1.37*** 1.40***</cell><cell>.20* .04 ϯ .01 .04*</cell></row><row><cell></cell><cell>IP</cell><cell>-.02</cell><cell>.01</cell><cell>1.40***</cell><cell>.05</cell></row><row><cell></cell><cell>FP</cell><cell>.12*</cell><cell>.23**</cell><cell>1.42***</cell><cell>.08</cell></row><row><cell>Promoting Feeling</cell><cell>RT SU</cell><cell>-.03 -.07*</cell><cell>.01 .01</cell><cell>1.40*** .86***</cell><cell>.20* .04 ϯ</cell></row><row><cell>Situated</cell><cell>PU</cell><cell>-.06*</cell><cell>.00</cell><cell>.86***</cell><cell>.02</cell></row><row><cell></cell><cell>RU IP</cell><cell>-.03 -.02</cell><cell>-.02 .07*</cell><cell>.86*** .86**</cell><cell>.04* .06 ϯ</cell></row><row><cell>Increasing Confidence</cell><cell>FP RT SU</cell><cell>.15* -.03 -.12**</cell><cell>.22*** .05 ϯ -.01</cell><cell>.93*** .86*** .97***</cell><cell>.08 .20* .04 ϯ</cell></row><row><cell></cell><cell>PU RU IP FP</cell><cell>-.08* -.05 ϯ -.02 .15*</cell><cell>-.01 -.07** .05 ϯ .19**</cell><cell>.96*** 1.03*** .96*** 1.04***</cell><cell>.01 .09* .05 .12 ϯ</cell></row><row><cell></cell><cell>RT</cell><cell>-.04</cell><cell>.03</cell><cell>.96***</cell><cell>.20*</cell></row></table><note><p>ϯ p &lt; .10, * p &lt; .05, ** p &lt; .01, ***p &lt; .001</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors would like to thank the <rs type="institution">Interactive Autism Network (IAN)</rs> for their assistance in participant recruitment for this project.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gender differences in relationship awareness and marital satisfaction among young married couples</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Acitelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0146167292181015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="102" to="110" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prevalence of autism spectrum disorder among children aged 8 years -autism and developmental disabilities monitoring network, 11 sites, United States</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baio</surname></persName>
+		</author>
+		<idno type="DOI">10.15585/mmwr.ss6503a1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Morbidity and Mortality Weekly Report: Surveillance Summaries</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2010">2014. 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">How do relationship maintenance behaviors affect individual well-being?</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Mcnulty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Overall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Fincham</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1948550612452891</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychological and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="282" to="289" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Communication processes in marital commitment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ballard-Reisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Weigel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of interpersonal commitment and relationship stability: Perspectives on individual differences</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Jones</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="407" to="424" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A longitudinal study of parental stress and support: From diagnosis of disability to leaving school</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Cummins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Polak</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0156655950420204</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disability, Development and Education</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="125" to="136" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Stress and parents of children with autism: A review of literature</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bonis</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/01612840.2015.1116030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Issues in Mental Health Nursing</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="153" to="163" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Relationship transitions for parents of children with autism spectrum disorder: Types, turbulence, and transition processing communication</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Brisini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00909882.2018.1498980</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="447" to="468" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Transitions in marriage: Types, turbulence, and transition processing activities</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Brisini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nussbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407517699283</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="831" to="853" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Parenting children with autism spectrum disorders</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Brobst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Clopton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Hendrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1088357608323699</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Focus on Autism and Other Developmental Disabilities</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="38" to="49" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Intrapersonal, interpersonal, and contextual risk factors for overprovision of partner support in marriage</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lawrence</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0035280</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Psychology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="54" to="64" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Secure base processes in couples: Daily associations between support experiences and attachment security</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Davila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0014353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="76" to="88" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Parental stress is associated with poor sleep quality in parents caring for children with developmental disabilities</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Carroll</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jpepsy/jsp093</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pediatric Psychology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="728" to="737" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Caregiving for children with developmental disabilities is associated with a poor antibody response to influenza vaccination</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Drayson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Carroll</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/psy.0b013e31819d1910</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychosomatic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Child behaviour problems and partner mental health as correlates of stress in mothers and fathers of children with autism</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hastings</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2788.2003.00485.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Intellectual Disability Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="231" to="237" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Positive contributions made by children with an intellectual disability in the family: Mothers&apos; and fathers&apos; perceptions</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hastings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hill</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1744629505053930</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Intellectual Disabilities</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="155" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Parenting children with autism spectrum disorders: A crucible for couple relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Hock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Timm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Ramisch</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2206.2011.00794.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Child &amp; Family Social Work</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="406" to="415" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10705519909540118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Neglecting and ignoring menopause within a gendered multiple transitionalcontext: Low income Korean immigrant women</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Im</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>San Francisco, CA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of California</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Conceptual and methodological issues in the analysis of data from groups and dyads</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Donnellan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of personality and social psychology</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Deaux</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Snyder</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="209" to="238" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Cook</surname></persName>
+		</author>
+		<title level="m">Dyadic data analysis</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The communicative and physiological manifestations of relational turbulence during the empty-nest phase of marital relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463373.2015.1129353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="495" to="517" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Principles and practice of structural equation modeling</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kline</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Guilford</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Measuring the sources and content of relational uncertainty</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10510979909388499</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="261" to="278" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Interference and facilitation from partners in the development of interdependence within romantic relationships</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-6811.2004.00074.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="115" to="130" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Relational uncertainty and relational information processing: Questions without answers?</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650205275384</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="349" to="388" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Depressive symptoms and mechanisms of relational turbulence as predictors of relationship satisfaction among returning service members</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0024063</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Psychology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="470" to="478" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Relational uncertainty and relationship talk within courtship: A longitudinal actor-Partner interdependence model</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2010.542471</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="3" to="26" />
+			<date type="published" when="2011">2011b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Positive and negative adjustment in couples undergoing infertility treatment: The impact of support exchange</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kroemeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kubicka</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0200124</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PloS one</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">200124</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Children with autism: Quality of life and parental concerns</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Louie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Newschaffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10803-007-0491-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Autism &amp; Developmental Disorders</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1147" to="1160" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Features of illness versus features of romantic relationships as predictors of cognitive and behavioral coping among individuals with type 2 diabetes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leustek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2017.1384346</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1549" to="1559" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Explaining variation in contemporaneous responses to hurt in premarital romantic relationships: A relational turbulence model perspective</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mclaren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Priem</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650210377896</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="543" to="564" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The effect of relationship characteristics and relational communication on experiences of hurt from romantic partners</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mclaren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Priem</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2012.01678.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="950" to="971" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Experiencing transitions: An emerging middle-range theory</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Meleis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K H</forename><surname>Messias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schumacher</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00012272-200009000-00006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Nursing Science</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="12" to="28" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Narratives of transnational migration, work, and health: The livedexperiences of Brazilian women in the United States (Unpublished doctoral dissertation)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K H</forename><surname>Messias</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of California</publisher>
+			<pubPlace>San Francisco, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Chronic stress and health among parents of children with intellectual and developmental disabilities</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miodrag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Hodapp</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/yco.0b013e32833a8796</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="407" to="411" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Complex sample data in structural equation modeling</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Satorra</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/271070</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methodology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="267" to="316" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Working with families living with autism: Potential contributions of marriage and family therapists</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Neely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Amatea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Echevarria-Doan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tannen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1752-0606.2011.00265.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marital and Family Therapy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="211" to="226" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Measuring marital quality: A critical look at the dependent variable</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Norton</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/351302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and Family</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="141" to="151" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A meta-analytic review of relationship maintenance and its correlates</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Ogolsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bowers</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407512463338</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="343" to="367" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Maladaptive attributions and dyadic behavior are associated in engaged couples</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Osterhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Frame</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2011.30.8.787</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="787" to="818" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Narrative identity processing of difficult life experiences: Pathways of personality development and positive self-transformation in adulthood</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Pals</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-6494.2006.00403.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1079" to="1110" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Personal relationships and personal networks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Gender, satisfaction level, and the use of relational maintenance strategies in marriage</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ragsdale</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637759609376399</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="354" to="369" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Marriage and family therapists working with couples who have children with autism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ramisch</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1752-0606.2010.00210</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marital and Family Therapy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="305" to="316" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Couple relationships among parents of children and adolescents with autism spectrum disorder: Findings from a scoping review of the literature</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Stoddart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Muskat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zwaigenbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rasd.2015.06.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Autism Spectrum Disorders</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="142" to="157" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Engaged mothering within a racist environment: The transition to motherhood for a group of African American women</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sawyer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>San Francisco, CA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of California</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Segrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Flora</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Family communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Finding the silver lining: The relative roles of redemptive narratives and cognitive reappraisal in individuals&apos; emotional distress after the end of a romantic relationship</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Slotter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Ward</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407514546978</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="737" to="756" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Operationalizing relational turbulence theory: Measurement and construct validation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Brisini</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/pere.12212</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="768" to="789" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Relational turbulence theory: Explaining variation in subjective experiences and communication within romantic relationships</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mclaren</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/hcre.12091</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="507" to="532" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A longitudinal test of the relational turbulence model of romantic relationship development</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-6811.2008.00202.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="339" to="357" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Remarriage and the nature of divorce: Does it matter which spouse chose to leave</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Sweeney</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0192513x02023003005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Issues</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="410" to="440" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Relational turbulence and the post-deployment transition: Self, partner, and relationship focused turbulence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Knobloch</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650211429285</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="27" to="51" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Actor-partner effects in the associations between relationship characteristics and reactions to marital sexual intimacy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Nagy</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407510381254</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1089" to="1109" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">A relational turbulence model of communication about irritations in romantic relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Theiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650206291482</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="391" to="418" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A comparison of parental stress and marital/couple satisfaction as reported by parents raising children diagnosed with pervasive developmental disorder: An online mixed methods study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Texas Women&apos;s University</title>
+		<meeting><address><addrLine>Denton, TX</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Investigating the behavioral indicators of relational commitment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Weigel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ballard-Reisch</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407502193006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="403" to="423" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Everyday expressions of commitment and relational uncertainty as predictors of relationship quality and stability over time</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Weigel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>O'riordan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08934215.2010.511400</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Reports</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="38" to="50" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Impact of personal and social resources on parenting stress in mothers of children with autism spectrum disorder</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zaidman-Zait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mirenda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vaillancourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Szatmari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1362361316633033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Autism</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="155" to="166" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reasons for, and consequences of, revealing personal secrets in close relationships: A longitudinal study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2005-01-27">2005-01-27</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">John</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+							<email>caughlin@uiuc.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Walid</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">The Pennsylvania</orgName>
+								<orgName type="institution">State University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katy</forename><forename type="middle">E</forename><surname>Carpenter‐theune</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Laura</forename><forename type="middle">E</forename><surname>Miller</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Speech Com-munication</orgName>
+								<orgName type="institution">University of Illinois</orgName>
+								<address>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reasons for, and consequences of, revealing personal secrets in close relationships: A longitudinal study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Personal Relationships</title>
+						<title level="j" type="abbrev">Personal Relationships</title>
+						<idno type="ISSN">1350-4126</idno>
+						<idno type="eISSN">1475-6811</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">12</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="43" to="59"/>
+							<date type="published" when="2005-01-27" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">7CD23862346363286EBF1305735DFE0A</idno>
+					<idno type="DOI">10.1111/j.1350-4126.2005.00101.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This investigation examines whether individualsÕ reasons for keeping secrets predict whether they eventually reveal those secrets and whether individuals can accurately anticipate the outcomes of revealing. Respondents (n ¼ 342) first reported on a secret they were keeping and then returned 2 months later to report whether they had revealed it and, if so, what happened when they did. Findings indicated that participantsÕ reasons for keeping a secret predicted whether they revealed it. The results also indicated both accuracy and inaccuracy in secret tellersÕ expectations of the outcomes of revealing a secret. Finally, despite some demonstrable inaccuracies in the forecasted outcomes, participantsÕ retrospective accounts after revealing suggested that participants typically believed that they had accurately predicted the consequences of revealing.</p><p>We are grateful to Angel Spyrou for her assistance in coding the topics of the secrets.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Popular culture in the United States tends to value open communication and discourage secret keeping <ref type="bibr" target="#b19">(Katriel &amp; Philipsen, 1981;</ref><ref type="bibr" target="#b27">Parks, 1982)</ref>. Additionally, advice about revealing private information often focuses on the benefits of revealing such information <ref type="bibr" target="#b28">(Pennebaker, 1997)</ref> or the dangers of concealing secrets <ref type="bibr" target="#b3">(Bradshaw, 1995;</ref><ref type="bibr" target="#b39">Webster, 1991)</ref>. Such advice probably is sound in many instances. Indeed, there is ample evidence that revealing secrets can have important benefits, including enhanced physical and mental health <ref type="bibr">(Pennebaker)</ref>.</p><p>Despite the benefits of revealing secrets and the cultural bias against secrecy, numerous scholars have suggested that keeping secrets can be warranted if individuals have good reasons for doing so <ref type="bibr" target="#b18">(Imber-Black, 1998;</ref><ref type="bibr" target="#b27">Parks, 1982)</ref>. <ref type="bibr" target="#b22">Kelly and McKillop (1996)</ref> argued that individuals deciding whether to reveal a secret should consider what would likely happen if they did. For example, they suggested that people usually should not reveal personal secrets if they lack an appropriately nonjudgmental and trustworthy confidant. The importance of considering the appropriateness of the confidant seems clear. People who reveal secrets often risk that the confidant will evaluate them negatively after learning the secret <ref type="bibr" target="#b25">(Norton, Feldman, &amp; Tafoya, 1974;</ref><ref type="bibr" target="#b29">Petronio, 2002)</ref>. Some recipients of secrets also may repeat this information to others, even if asked not to do so <ref type="bibr" target="#b13">(Greene &amp; Faulkner, 2002;</ref><ref type="bibr" target="#b30">Petronio &amp; Bantz, 1991)</ref>.</p><p>Advice such as that given by <ref type="bibr" target="#b22">Kelly and McKillop (1996)</ref> makes two presumptions. First, it presumes that individuals keeping a secret are able to base revelation decisions largely on their expectations of various possible outcomes. There is some evidence that is consistent with this presumption. For instance, <ref type="bibr" target="#b37">Vangelisti and Caughlin (1997)</ref> found that individuals are less likely to report that they would reveal a secret in the future to the extent that their reasons for keeping the secret include beliefs that others would evaluate them negatively or that their relationships could be adversely affected by revealing the secret.</p><p>Although such reports of individualsÕ likelihood of revealing a secret suggest that individuals can and do use their predictions about likely consequences when deciding whether to reveal a secret, such findings do not actually demonstrate a connection between predicted consequences and revelation of secrets. Revealing private information is often a complex process that unfolds over time <ref type="bibr" target="#b31">(Petronio, Reeder, Hecht, &amp; Ros-Mendoza, 1996)</ref>. During this process, factors other than individualsÕ predictions of the consequences of revealing may intervene to diminish individualsÕ ability to choose whether to reveal based on their anticipated consequences. For example, some pressing circumstances may lead individuals to reveal secrets that they otherwise had no plans to disclose <ref type="bibr" target="#b38">(Vangelisti, Caughlin, &amp; Timmerman, 2001)</ref>, perhaps even leading to disclosures despite the expectation of an untrustworthy recipient. In short, it is important to verify that individuals can and do make their decisions about revealing secrets based (at least in part) on their anticipated consequences with such revelations.</p><p>Second, the advice that secret revelations should be based on anticipated consequences presumes that individuals are able to predict what would happen if they revealed a secret. For instance, the soundness of advice to consider the appropriateness of the confidant hinges on individualsÕ ability to know whether a potential target of their revelation would be supportive and discreet. This ability has not been demonstrated. In fact, there is evidence that people sometimes have inaccurate perceptions of how a confidant will respond. <ref type="bibr" target="#b13">Greene and Faulkner (2002)</ref>, for example, interviewed female African-American adolescents with HIV about the responses they received when they disclosed their HIV diagnosis. These individuals commonly reported being surprised and angry that a person to whom they told this private information revealed it to others. Greene and Faulkner's research sug-gests that predicted outcomes of revealing a secret are not completely consistent with the actual outcomes of revealing; however, the extent to which predicted and actual consequences are inconsistent remains unclear.</p><p>In short, there are two interrelated gaps in our understanding of secrecy. The first concerns whether individualsÕ reasons for keeping secrets predict whether they actually reveal their secrets. The second involves the extent to which individualsÕ beliefs about their secrets before revelation are consistent with the consequences after revealing. The current investigation examined these issues by following participants for a 2-month period to see which of them revealed a secret that they were keeping in one of their close relationships.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reasons for keeping a secret as predictors of revelation</head><p>Although there may be an infinite number of specific reasons for not revealing private information, scholars have identified a number of common ones. <ref type="bibr" target="#b36">Vangelisti's (1994)</ref> work on the functions of family secrets offers a useful summary of the most commonly cited reasons for keeping secrets. Based on factor analyses, Vangelisti found that individuals typically report keeping secrets for one or more of the following reasons. 1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation.</head><p>Most of the reasons for keeping secrets involve individualsÕ perceptions of what would happen if a secret were revealed.</p><p>A prime example involves one's concerns about being evaluated negatively. Specifically, individuals often avoid revelations because they believe that discussing the information would elicit disapproval from others <ref type="bibr" target="#b0">(Afifi &amp; Guerrero, 2000;</ref><ref type="bibr" target="#b7">Caughlin &amp; Petronio, 2004)</ref>.</p><p>1. In addition to the reasons for keeping a secret discussed here, <ref type="bibr" target="#b36">Vangelisti (1994)</ref> found that family members sometimes keep secrets because collaborating to keep information from outsiders helps foster family bonding. Because the current investigation focused primarily on personal secrets rather than secrets that groups of individuals kept together, the bonding function of secrecy was not relevant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Maintenance.</head><p>Another common reason for keeping a secret is the maintenance of relationships. Individuals often report keeping secrets because they are concerned about maintenance with the target of a potential revelation; that is, people sometimes guard private information because they believe that disclosing may harm their relationship with the person to whom they reveal the information <ref type="bibr" target="#b0">(Afifi &amp; Guerrero, 2000;</ref><ref type="bibr" target="#b33">Rosenfeld, 1979)</ref>. Maintenance with others is another concern. Individuals may attempt to prevent disruptions to relationships with third parties or to prevent stress for others. For example, family members sometimes keep secrets from outsiders partly because they believe disclosing the secret outside the family would cause family members to experience anger or stress <ref type="bibr" target="#b38">(Vangelisti et al., 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Defense.</head><p>People also sometimes anticipate that others might use secret information against them if they revealed the secret. That is, keeping a secret can be a form of defense. Defensive reasons for keeping a secret include concerns that the recipient of the secret will violate the teller's trust by revealing the secret to other people <ref type="bibr" target="#b30">(Petronio &amp; Bantz, 1991)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Communication problems.</head><p>Individuals sometimes keep secrets because they anticipate that the interaction involving the disclosure would be challenging. In particular, the possibility that the recipient would be unresponsive or would find it difficult to talk about the secret is a commonly cited reason for keeping secrets and avoiding topics <ref type="bibr" target="#b11">(Golish &amp; Caughlin, 2002;</ref><ref type="bibr" target="#b20">Kelly, 1999)</ref>. This concern is referred to here as communication problems for target. Moreover, people may keep a secret because they question their own ability to discuss the secret in a satisfactory way <ref type="bibr" target="#b0">(Afifi &amp; Guerrero, 2000;</ref><ref type="bibr" target="#b1">Afifi &amp; Weiner, 2004)</ref>. That is, one can anticipate having communication problems for self.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Privacy.</head><p>The aforementioned reasons for keeping a secret focus on individualsÕ beliefs about what would probably happen if they revealed the secret. Additionally, <ref type="bibr" target="#b36">Vangelisti's (1994)</ref> model recognizes that other types of perceptions influence decisions about guarding secrets. In particular, people may keep a secret due to privacy, which involves the belief that the information is not relevant to others.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis and Research Questions</head><p>There is considerable indirect evidence that the various reasons for keeping secrets forecast whether people reveal their secrets. Many adults who were sexually abused when they were children recall that fear of negative evaluation was a powerful reason why they stayed silent about their abuse for as long as they did <ref type="bibr" target="#b26">(Paine &amp; Hansen, 2002)</ref>. Also, retrospective reports suggest that defensive reasons presage whether and when individuals will tell; for example, some women who were HIV positive reported that they had not told certain people sooner because they believed those individuals would tell others <ref type="bibr" target="#b13">(Greene &amp; Faulkner, 2002)</ref>.</p><p>In addition to studies of individualsÕ recollections of why they kept secrets, <ref type="bibr" target="#b37">Vangelisti and Caughlin (1997)</ref> found that people's reasons for keeping a family secret were associated with how likely they thought they were to reveal the secret to a specific person outside the family. Individuals reported being less likely to reveal their secret to the extent that they wanted (a) to avoid negative evaluation, (b) to ensure maintenance within their own family, (c) to defend themselves or their family, or (d) to enforce their perceived privacy rights. In short, both retrospective studies and studies asking individuals to consider the likelihood that they would reveal a secret suggest that individualsÕ reasons for keeping a secret predict whether they expect to disclose the secret. However, no one has examined the extent to which these reasons predict actual revelation.</p><p>H: Over a 2-month period, individuals will be less likely to reveal a secret to a particular person to the extent that they report that their reasons for keeping the secret include (a) avoiding negative evaluation, (b) maintaining relationships, (c) defense, (d) communication problems, and (e) privacy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consistency between prerevelation and postrevelation perceptions</head><p>As noted above, many of the reasons people keep secrets involve beliefs regarding what would happen if they revealed the secret. Such reasons for not revealing are largely consistent with scholarly advice, which suggests that individuals considering revealing a secret should weigh factors like how they will be evaluated, whether revealing the secret will affect their relationships, and whether the confidant is trustworthy <ref type="bibr" target="#b18">(Imber-Black, 1998;</ref><ref type="bibr" target="#b22">Kelly &amp; McKillop, 1996)</ref> There are theoretical grounds for questioning whether individuals can accurately forecast the outcomes of revealing a secret. Even in close relationships, people have a limited understanding of each other's thoughts and opinions <ref type="bibr" target="#b34">(Sillars, 1998;</ref><ref type="bibr" target="#b35">Tucker &amp; Anders, 1999)</ref>. Often, individualsÕ beliefs about the other's perspectives are biased in particular ways. Sometimes, people's judgments are affected by ''positive illusions'' <ref type="bibr" target="#b14">(Hall &amp; Taylor, 1976;</ref><ref type="bibr" target="#b24">Murray, Holmes, &amp; Griffin, 1996)</ref>, in which general positive regard for another leads to overly positive perceptions on specific criteria. Positive illusions could lead to outcomes from revealing a secret that are quite different from what one anticipated. For example, based on a generally high opinion of a relational counterpart, one may anticipate that this person would be a responsive confidant. If the recipient instead evinces clear and overt discomfort when talking about the topic, the secret teller may find that revealing the secret was more unpleasant than anticipated.</p><p>In contrast, individuals may find revelation more rewarding than they predicted. People frequently project their own beliefs onto others, overestimating the extent to which their opinions and attitudes are shared <ref type="bibr" target="#b15">(Hoch, 1987;</ref><ref type="bibr" target="#b23">Marks &amp; Miller, 1987)</ref>. If individualsÕ concerns about negative evaluation are based at least partly on projections, individuals who disclose their secrets may learn that others have less negative attitudes about the secret topic than they expected. This could lead to revelation having more positive outcomes than disclosers had anticipated.</p><p>In short, there are plausible theoretical arguments suggesting that individualsÕ beliefs about what would happen if they revealed a secret could be quite different from the actual consequences of revealing a secret. Because most of the aforementioned reasons for keeping a secret are predictions about what would happen if the secret were revealed, the accuracy of individualsÕ predictions regarding secret revelation can be examined by comparing the reasons they had for keeping a secret in the first place to their reports of what happened after they divulged the secret.<ref type="foot" target="#foot_1">2</ref> Thus, we posed the following research question.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ1:</head><p>To what extent (if at all) are indi-vidualsÕ prerevelation reasons for keeping a secret consistent with their postrevelation perceptions of what happened after they revealed the secret?</p><p>Some previous research has used retrospective reports to compare individualsÕ predictions about revealing private information to what occurred when that information was revealed (e.g., <ref type="bibr" target="#b13">Greene &amp; Faulkner, 2002)</ref>. Although such data seem to address the first research question in the current study, retrospective reports about what people expected may be biased by individualsÕ experiences after disclosing the secret. Indeed, potential biases in retrospective reports are well documented <ref type="bibr" target="#b17">(Huston &amp; Robins, 1982;</ref><ref type="bibr" target="#b32">Reis, 1994)</ref>, but previous research has not examined this possibility in the context of secrets and their revelation. Given the important implications associated with correctly forecasting target reactions to sensitive disclosures (e.g., <ref type="bibr" target="#b12">Greene, Derlega, Yep, &amp; Petronio, 2003)</ref>, it is critical that such biases be explored in this context. The current study examines this issue by asking participants who revealed their secret to report on the degree to which the recipientsÕ reactions matched their expectations. In short, it was important to ask: RQ2: To what extent do secret tellers retrospectively report that they had expected the response that they received?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample</head><p>A total of 373 individuals completed the current study. Of these, 29 (7.8%) reported keeping no secrets from anyone close to them. These individuals were excluded from the analyses because they could not later report whether they revealed a (nonexistent) secret. Two (0.5%) additional participants were excluded for not following directions, leaving a final sample of 342 individuals. These respondents were recruited from introductory communication courses at two large universities, one in the midwestern United States (n = 162) and one in the eastern United States (n ¼ 180).</p><p>For the final sample, 218 (63.7%) individuals were female and 124 (36.3%) were male. The average age of the participants was 19.78 years (SD ¼ 1.35). The majority of the participants reported that their ethnic background was European American (n ¼ 266, 77.8%), with the remainder reporting African-American (n ¼ 25, 7.3%), Asian (n ¼ 22, 6.4%), and Hispanic (n ¼ 15, 4.4%) backgrounds. An additional 12 (3.5%) individuals listed their ethnic background as ''other,'' and 2 (0.6%) participants did not indicate ethnic background.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Before participating, respondents were told that the study involved completing two sur-veys, separated by about 2 months. They were assured that their responses would be confidential and that they could withdraw at any time. Participants who completed the study received a small amount of extra course credit.</p><p>In the first phase of the study, participants were asked to think of a secret that they currently were keeping in a specific relationship. The majority of the relationships were characterized as friendships (n ¼ 190, 56%) or dating relationships (n ¼ 121, 35%), with the remainder not classifying their relationship or labeling it other (n ¼ 31, 9%). Secrets were defined as involving ''a conscious choice to withhold information from a particular person.'' Participants were then asked to describe the secret and answer a series of questions related to the secret, including items about their reasons for keeping the secret from that person.</p><p>For the purpose of matching the surveys from the first and second phases, respondents were asked to indicate the last four digits of their Social Security numbers on a cover sheet attached to the first questionnaire. Prior to the second phase of the study, a photocopy of this cover sheet was made along with a copy of respondentsÕ descriptions of their secrets. When participants returned for the second phase of the study (between 8 and 9 weeks after the first phase), they were given the copy of their secret (but none of their other data) to remind them of the secret they reported in the first phase. As part of the second survey, participants were asked whether they remembered what the secret was and from whom they were keeping it, and all of them reported remembering this information. After the cover sheets were used to match the surveys, they were removed and destroyed, leaving no identifying information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Reasons for keeping the secret.</p><p>In the first phase of the study, participantsÕ reasons for keeping their secrets were assessed with items adapted from <ref type="bibr" target="#b36">Vangelisti's (1994)</ref> secret functions instrument, which asks individuals why they keep a secret. Based on important conceptual distinctions noted above, the maintenance and communication subscales were adapted to reflect two separate constructs each. For maintenance, separate items were used to assess maintenance with target (e.g., ''revealing the secret to this person would hurt our relationship'') versus maintenance with others (e.g., ''telling the secret to this person would hurt my relationship with others''). For communication, separate items assessed communication problems for target (e.g., ''this person wouldn't know what to say if I told him/her the secret'') and communication problems for self (e.g., ''I wouldn't know what to say if I tried to tell him/her the secret''). The remaining reasons were evaluation (e.g., ''this person would disapprove if he/she knew about the secret''), defense (e.g., ''this person would use the secret information against me''), and privacy (e.g., ''the secret isn't relevant to this person'').</p><p>Participants responded to the items on 7-point Likert-type scales. For the reasons involving predictions about what would happen if the secret were revealed (i.e., all the reasons except privacy), the responses ranged from 1 (very unlikely) to 7 (very likely). For privacy, responses ranged from 1 (strongly disagree) to 7 (strongly agree). The means were 4.21 (SD ¼ 1.80, a ¼ .87) for evaluation, 3.99 (SD ¼ 1.98, a ¼ .93) for maintenance with target, 2.62 (SD ¼ 1.48, a ¼ .83) for maintenance with others, 2.75 (SD ¼ 1.41, a ¼ .72) for defense, 4.26 (SD ¼ 1.77, a ¼ .81) for communication problems for target, 4.08 (SD ¼ 1.90, a ¼ .93) for communication problems for self, and 3.66 (SD ¼ 1.59, a ¼ .72) for privacy.</p><p>The same measure was completed in the second phase by individuals who reported that (to the best of their knowledge) the secret was still unknown to the target. For those who revealed the secret, the items reflecting predictions of what would happen were adapted so that participants reported on their perceptions of the actual consequences of the revelation. For example, the maintenance with target item ''revealing the secret would do nothing but harm the good relationship we have now'' was changed to ''revealing the secret did nothing but harm the good relationship we had.'' The means at Phase 2 for evaluation, maintenance with target, maintenance with others, defense, communication problems for target, communication problems for self, and privacy, respectively, were 3.85 (SD ¼ 1.79, a ¼ .87), 3.62 (SD ¼ 1.90, a ¼ .90), 2.44 (SD ¼ 1.49, a ¼ .86), 2.57 (SD ¼ 1.37, a ¼ .70), 4.06 (SD ¼ 1.79, a = .82), 4.06 (SD ¼ 1.83, a ¼ .92), and 3.63 (SD ¼ 1.50, a ¼ .67).</p><p>Valence of the secret.</p><p>In the Phase 1 questionnaire, participantsÕ perceptions of the valence of the secret were assessed with two semantic differential items taken from <ref type="bibr" target="#b37">Vangelisti and Caughlin (1997)</ref>. Specifically, respondents were asked to rate how they viewed the secret information on 7-point scales in terms of two dimensions: extremely good-extremely bad and extremely positiveextremely negative. Answers to these items were averaged with higher scores reflecting more negative perceptions of the secret (M ¼ 5.14, SD ¼ 1.49, a ¼ .89).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Retrospective report of expectations.</head><p>Respondents who revealed their secret were asked to compare how they expected the target to react to the way this person actually reacted. Two 7-step items were used. Both items were scored so that low scores indicated a more negative reaction than expected (i.e., ''person reacted much more UNFAVORABLY than I expected'' and ''the person was much more NEGATIVE than I expected''), high scores were more positive than expected, and the scale midpoint (4) was labeled as expected. Cronbach's alpha for the two retrospective expectations items was .94. Additionally, two open-ended questions asked participants who divulged their secret to report how the target responded when learning of the secret and how (if at all) this differed from their expectations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secret revelation.</head><p>In the second survey, participants were asked if the target person had found out about the secret since the first phase of the study. Respondents who reported that the target learned of the secret were also asked how that person had learned of the information. The information was considered to be revealed if, and only if, the participant had told the target about the secret-not if the person learned of the secret through some other means (e.g., a third party or accidental discovery). Over the course of the study, 63 (18.4%) participants revealed the secret and 279 (81.6%) did not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preliminary analyses</head><p>Although not a primary focus of the current study, it was important to examine the topics of the secrets to make sure that primary analyses were not confounded by topic (e.g., as would be the case if the topics of people who revealed were qualitatively different from those who concealed). To assess this possibility, one of the authors and a communication graduate student independently used analytic induction <ref type="bibr" target="#b4">(Bulmer, 1979)</ref> to create categories for the topics. After the coders had examined a subset of the surveys (n ¼ 175, 51.2%), they met to discuss their categories. Except for differences in labels, the two category systems were very similar so they were combined and decisions about final labels were determined by discussion. Several of the categories were very similar to ones developed by <ref type="bibr" target="#b36">Vangelisti (1994)</ref>; for such categories, Vangelisti's labels were used. After finalizing the categories, a new coder classified all the secrets. To check reliability, a subsample (n = 94, 27.5%) was also classified by one of the original coders. Cohen's kappa for the secret topics was .97. Table <ref type="table" target="#tab_1">1</ref> includes descriptions of the topics and summaries of the proportion of participants who revealed each type of secret.</p><p>To determine whether any topic was particularly likely (or unlikely) to be revealed over the course of the study, a series of analyses was conducted by treating the participants who reported a particular topic as a group that was compared to the participants who reported all other topics. Individuals who reported a secret surprise (z ¼ 2.33, p , .05) and participants who reported a secret potential relational escalation (z ¼ 2.01, p , .05) were more likely than other participants to reveal their secret.</p><p>The high rate of revelation suggests that surprise and potential relational escalation were different from the majority of the secrets in the study. To ensure that the main results were not overly influenced by these atypical topics, all statistical analyses reported below were completed twice: once with the entire sample and once omitting participants who reported on a surprise or a potential relational escalation (n ¼ 14). In every case that a statistically significant result was obtained for the entire sample, there was a similar statistically significant result for the analysis that excluded surprise and potential relational escalation. Due to space concerns, only the results from the entire sample are reported. Also, the analyses involving comparisons of means were recalculated controlling for the valence of the secret. Because no significance tests were affected by valence, the analyses controlling for valence are not reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Main analyses</head><p>Reasons for keeping secret as predictors of revelation.</p><p>RespondentsÕ initial reports on the various reasons for concealing the secret are summarized in Table <ref type="table" target="#tab_3">2</ref> under the columns labeled Time 1. Because the hypothesis was directional, one-tailed tests were used to examine it (but two-tailed tests were used for all other analyses). As expected, several of the reasons for keeping the secret predicted whether participants told the secret. Those who revealed the secret were significantly lower than those who did not reveal the secret in terms of their concerns about evaluation, t(340) ¼ 1.80, p , .05, g 2 ¼ .01; maintenance with the target, t(340) ¼ 1.71, p , .05, g 2 ¼ .01; maintenance with others, t(340) ¼ 2.57, p , .01, g 2 ¼ .02; communication problems for the self, t(340) ¼ 2.38, p , .01, g 2 ¼ .02; and privacy, t(340) ¼ 3.03, p , .01, g 2 ¼ .03. The differences between those who revealed versus those who did not were not significant for defense, t(340) ¼ 0.75, p ¼ .23, and communication problems for the target, t(340) ¼ 0.32, p ¼ .38.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consistency between phases.</head><p>The first research question concerned consistency between reasons for keeping a secret before revelation and perceptions of what happened after participants revealed the secret. Although this appears to be a simple research question, scholars who study the consistency of personality traits have demonstrated that consistency involves at least two distinct issues <ref type="bibr" target="#b5">(Caspi &amp; Herbener, 1990;</ref><ref type="bibr" target="#b6">Caspi &amp; Roberts, 1999)</ref>. Differential stability involves consistency of differences among individuals (e.g., the extent to which people who score higher than average on a quality at one point in time are still higher than average at a later time). In contrast, absolute stability refers to consistency in the level or amount of a construct over time <ref type="bibr">(Caspi &amp; Roberts)</ref>. Differential and absolute stability need not be linked; for example, if an entire sample increased by threefold on a particular characteristic over time, there would be marked absolute instability (because everyone's score would increase) but considerable differential stability (because people who were high relative to others in the beginning would still be high relative to the others at the end). This distinction implies that the first research question requires two sets of analyses: one pertaining to differential stability (i.e., correlations over time) and one pertaining to absolute stability (i.e., comparisons of means over time). The correlations that are relevant to the examination of differential stability among participants who revealed their secret are listed in the second column of Table <ref type="table" target="#tab_2">3</ref>. For all seven  reasons for keeping the secret, there were significant correlations between the assessments before and after the revelation. These associations suggest that differential stability was greater than chance; that is, participantsÕ reports of the consequences of revealing were at least partly presaged by their reasons for keeping the secret prior to revelation. The significant associations between the Time 1 and Time 2 measures for those who revealed demonstrate some differential stability, but it is also important to consider whether there is some instability. Because the correlations between the two phases were not 1.00, there technically was some differential instability, but this could be due to random factors, such as measurement error or other events that had nothing to do with revealing the secret. Thus, to assess the possibility of differential instability, it was useful to contrast the associations for those who revealed their secret with the comparable associations for participants who did not reveal their secret. As summarized in Table <ref type="table" target="#tab_2">3</ref>, all seven correlations between the Time 1 and Time 2 measures were statistically significant for respondents who did not reveal the secret. In each instance, the correlation was larger for those who did not reveal compared to those who did, and for four of the measures (evaluation, maintenance with target, defense, and communication problems for self) this difference was statistically significant. This provides compelling evidence that there was also a meaningful amount of differential instability among those who revealed their secret.</p><p>Consistency before and after the revelation also was examined by assessing absolute stability (i.e., average levels of perceptions before and after revealing the secret). Based on paired t tests of the means summarized in the left portion of Table <ref type="table" target="#tab_3">2</ref>, participants who revealed their secret were significantly lower at Time 2 than at Time 1 in terms of evaluation, t(62) ¼ 5.86, p , .01, partial g 2 ¼ .36, g 2 ¼ .08; maintenance with the target, t(62) ¼ 4.34, p , .01, partial g 2 ¼ .23, g 2 ¼ .07; maintenance with others, t(62) ¼ 3.99, p , .01, partial g 2 ¼ .21, g 2 ¼ .07; defense, t(62) ¼ 3.29, p , .01, partial g 2 ¼ .15, g 2 ¼ .05; and communication problems for the target, t(62) ¼ 3.47, p , .01, partial g 2 ¼ .16, g 2 ¼ .04. The differences were not significant for Time 1 versus Time 2 measures of communication problems for the self, t(62) ¼ 1.64, p ¼ .10, and privacy, t(62) ¼ 1.65, p ¼ .10.</p><p>Given that all the significant differences between Time 1 and Time 2 measures concerned reasons involving predictions of what likely would happen if the secret were revealed, these findings can be interpreted as discrepancies between participantsÕ anticipated outcomes and their reported outcomes after the secret was divulged. On average, the reported consequences were more positive than participants predicted. For instance, the higher scores on evaluation at Time 1 compared to Time 2 indicate that individuals more strongly endorsed the likelihood of being evaluated negatively before they revealed the secret than they reported being negatively evaluated after the revelation.</p><p>As with the differential stability analyses, it was difficult to interpret the absolute stability findings without comparing people who revealed their secret to people who did not (e.g., some unknown factor besides revealing the secret could have led to more positive reports over the course of the study). To address this issue, changes in levels for those who revealed were compared to changes in levels for those who did not. A 2 Â 2 analysis was conducted with the phase of the study as a repeated factor and those who revealed their secret versus those who did not as a between-subjects factor. A significant interaction indicated that the two groups differed in change over the course of the investigation. This interaction was significant for each of the measures that indicated significant differences between the phases for those who revealed their secret: evaluation, F(1, 339) ¼ 28.35, p , .01, partial g 2 ¼ .08, g 2 ¼ .01; maintenance with the target, F(1, 339) ¼ 15.19, p , .01, partial g 2 ¼ .05, g 2 ¼ .01; maintenance with others, F(1, 339) ¼ 7.28, p , .01, partial g 2 ¼ .03, g 2 ¼ .01; defense F(1, 339) ¼ 6.81, p , .01, partial g 2 ¼ .03, g 2 ¼ .01; and communication problems for target, F(1, 339) ¼ 12.59, p , .01, partial g 2 ¼ .04, g 2 ¼ .01. The interaction was not significant for privacy, F(1, 339) ¼ 2.24, p ¼ .14, or for communication problems for self, F(1, 339) ¼ 3.59, p ¼ .06.</p><p>In sum, a comparison of the revealersÕ reasons before telling the secret and perceived outcomes after telling the secret suggested that there was both consistency and inconsistency, depending on how one conceptualized consistency. In terms of differential stability, some consistency was suggested by the significant associations between secret revealersÕ prerevelation and postrevelation measures, but some inconsistency was demonstrated by the fact that these associations were smaller than the analogous ones for people who did not reveal. The analyses of absolute stability suggested that, on average, the perceived consequences of revealing a secret were more positive than participants had predicted during the first phase of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Retrospective reports of expectations.</head><p>The second research question concerned the extent to which respondents reported that they had expected the response that they received after revealing the secret. ParticipantsÕ average rating of the target's reaction was 4.32 (SD ¼ 1.49). As noted above, the scale midpoint (4) was labeled as expected. ParticipantsÕ reports were not significantly different from the scale midpoint, t(62) ¼ 1.69, p ¼ .10; that is, there was no evidence that, on average, participants perceived the target's responses to be more or less positive than they had expected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental analyses</head><p>The findings comparing prerevelation reasons for concealment to postdisclosure reports of outcomes suggested that the average consequence was more favorable than anticipated (see Table <ref type="table" target="#tab_3">2</ref>). A quick interpretation of such findings might suggest that advice about whether to reveal a secret may need to be adjusted to reflect the possibility that individuals may overestimate the negative consequences of revealing a secret. Before drawing such conclusions, however, it is important to note that the consequences were not always more positive than individuals had anticipated. For instance, of the 63 individuals who revealed their secret, 16 (25.4%) reported negative evaluation that was greater than or equal to what they had predicted. Because such variations in perceived consequences could have implications for interpreting the present investigation's findings, it was important to explore this issue further.</p><p>To gain insight into the varying consequences of revealing a secret, two of the authors independently examined the responses to the open-ended questions about what happened when the target learned about the secret and how that compared to the participantsÕ expectations. The two researchers independently analyzed the responses with latent content coding <ref type="bibr" target="#b2">(Babbie, 1999)</ref> and constant comparative procedures <ref type="bibr" target="#b10">(Glaser &amp; Strauss, 1967)</ref>. Because many responses included multiple distinct ideas, the coders focused on identifying themes within the data rather than attempting to categorize complete responses as belonging to one, and only one, category. After the coders each identified an initial set of themes, they met and developed common labels and descriptions for the themes. Because it was clear that the responses involving secret surprises and potential relational escalation were qualitatively different from the other responses (e.g., the disclosure of surprises invariably involved happy responses) and because there were not enough surprise and potential relational escalation secrets to complete separate analyses, participants who revealed these topics (n ¼ 7) were excluded from further analyses. Next, participantsÕ responses were divided into two groups based on their scores on the evaluation subscale at the two phases of the study. One group (n ¼ 42), which we labeled more approving, reported that the target evaluated them less negatively at Phase 2 than they reported expecting at Phase 1. The other (n ¼ 11) participants, which we called the less approving group, reported evaluation scores that were more negative at Phase 2 than at Phase 1. 3 The coders then independently examined the groups to determine which themes were present in each. They agreed completely on the presence of themes in each group.</p><p>3. Three participants reported the same score for evaluation at Phase 1 and Phase 2. These responses were utilized when developing categories but were not included in the descriptions of individuals for whom the evaluation was better or worse than the reported expectations.</p><p>There were a total of six prominent themes in the open-ended responses. Of these, four appeared in both the more and less approving groups. First, participants from both groups reported that the recipient's response was exactly as expected; that is, they reported anticipating the target's response (e.g., ''It was how I expected it''). A second salient response was negative emotional reaction, in which respondents reported that the recipient became upset or showed anger. One participant, for example, reported, ''she lashed out in anger.'' The third theme was calm response, in which the target appeared composed when learning about the secret. For instance, one respondent noted, ''He was very rational about the whole thing. We actually laughed about it.'' Finally, some individuals reported understanding/agreement. Such reactions involved understanding the action or events leading to the secret or agreeing with the reasons for previously keeping the secret. One participant wrote, ''he seemed to be more understanding than I expected''; another noted, ''she completely understood and even agreed with me on some things.''</p><p>The other two themes were evident only in the more approving group. Several participants reported that the recipient of the secret was not surprised by the revelation. One male respondent, who reported on his girlfriend's reaction to his telling her that he had cheated on her, wrote, ''We both realized that our relationship became too difficult to maintain over the last semester. As such the secret did not come as much of a shock to her.'' In some instances, participants suggested that the lack of surprise was attributable to the target having some foreknowledge of the secret; for example, one respondent noted, ''The person wasn't surprised in the least. I guess my ability to hide my financial problems wasn't very good. He had suspected the problem, but didn't know it was as bad as it is.''</p><p>The final theme was time-influenced reaction, in which secret tellers suggested that the revelation and the recipient's reaction were part of a process. In some instances, the process involved a reaction that changed over time after the person was told about the secret. One respondent, for example, wrote: At first he kinda ''stonewalled'' me . he just looked straight ahead and didn't say anything, even though I kept talking. Then he started talking about this conversation he'd recently had w/ an old friend, and told me his friend thought it was really weird we were trying to stay friends since we'd broken up and even weirder that we hadn't dated anybody else since then. Then he told me he thought it must be weird too and that it was probably too hard-impossible even-to stay friends, and he told me he didn't think he could be my friend anymore. He later told me he was acting defensively and didn't mean what he'd said. We've talked about this a lot and are working out new friendship boundaries that we are comfortable with.</p><p>In other cases, time-influenced reactions involved how the timing of the revelation influenced the reaction. Sometimes, a delay in the revelation was perceived to have exacerbated any negative evaluation, as in the case when a participant reported that the confidant was ''frustrated'' and experienced ''confusion about why I hadn't told him sooner.'' In other cases, delaying the telling was seen as having diminished the negative response, as in the case of a female participant who was keeping a romantic affair secret from her roommate: I thought she would be much more upset with me-which she might have been had this (the revelation) happened 2 months ago. But it happened about 3 weeks ago, and she realizes that I'm much happier with my new boyfriend (the guy I cheated on my ex-boyfriend with) than I was before.</p><p>Although the analyses of these open-ended responses do not provide a definitive explanation of why some individuals experienced more approving reactions than expected, while others experienced less approving reactions, they do suggest a plausible partial explanation. Given that lack of surprise and time-linked reactions were both evident only in instances when the response was more positive than expected and that participantsÕ responses often attributed relatively positive reactions to the lack of surprise or to time-linked reactions, lack of surprise and time-linked reactions often may distinguish between responses that are more or less favorable than anticipated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The current study is distinct from the vast majority of research on secrecy in that it followed people who were keeping a secret over time, examining who revealed their secret and assessing the extent to which the perceived consequences of revealing a secret were presaged by individualsÕ reasons for keeping the secret. Congruent with the hypothesis, several of participantsÕ reasons for keeping a secret predicted whether they would reveal the secret. Individuals were more likely to reveal their secret to the extent that they were low in their concerns about (a) negative evaluation, (b) maintenance of their relationship with the potential confidant, (c) maintenance of relationships with other people, (d) communication difficulties when revealing the secret, and (e) privacy. These findings extend previous research on family secrets, which has shown that individualsÕ reasons for keeping a secret are associated with their perceptions of how likely they are to reveal the secret in the future <ref type="bibr" target="#b37">(Vangelisti &amp; Caughlin, 1997)</ref>. The current study confirms that such reasons predict actual revelations.</p><p>From a practical standpoint, these results are important because they demonstrate that revealing secrets is at least partly explained by individualsÕ expectations for what would happen if they revealed a secret. Although exigent circumstances sometimes lead people to reveal secrets despite having otherwise good reasons for keeping their secrets <ref type="bibr" target="#b38">(Vangelisti et al., 2001)</ref>, the findings presented here show that such factors do not overwhelm the tendency for individuals to ground their decisions about revealing secrets in their expectations for what would happen if they revealed. This supports the viability of advice about revealing secrets that presupposes that individuals can base revelation decisions on their expectations for what would happen if they revealed <ref type="bibr" target="#b22">(Kelly &amp; McKillop, 1996)</ref>.</p><p>Such advice also assumes that individualsÕ expectations for what would happen are fairly accurate. The first research question addressed this notion by focusing on the consistency between individualsÕ reasons for keeping secrets prior to revelation and their perceptions of the consequences of their disclosure. Overall, the findings suggest that the accuracy of such forecasts depends on how one conceptualizes consistency. In terms of differential stability, secret tellersÕ reasons for keeping their secret were significantly associated with their postrevelation reports (see Table <ref type="table" target="#tab_2">3</ref>). With the exception of the privacy measure (which did not involve an explicit prediction about what would happen if the secret were revealed), the differential stability findings mean that participants who eventually revealed their secret were better than would be expected by chance at accurately predicting the consequences of revealing. The significant correlation between Phase 1 and Phase 2 on the privacy measure indicated significant stability in indi-vidualsÕ perceptions of the extent to which the secret was not relevant to the other person.</p><p>Although the stability correlations suggested some level of accuracy, there was also evidence of a meaningful amount of inaccuracy. Several correlations between the Phase 1 and Phase 2 measures were significantly smaller for participants who revealed their secret than for individuals who did not reveal their secret. The most straightforward explanation for these findings is that at least some of the individuals who revealed their secret reported consequences that were quite different from what they had predicted during Phase 1. 4 4. Another explanation could be that the instability among those who revealed could be an artifact of the alterations to the questions between the phases, which reflected that Phase 1 involved possible future revelation and Phase 2 involved actual past revelation. However, this is a less plausible explanation. The stability coefficients for those who revealed were still fairly large in magnitude, suggesting that any error due to the variation in measures was minimal. More important, if changing the wording from future to past tense had a meaningful impact on stability, that ought to affect all seven measures because they were all altered. As indicated by the virtually identical correlations for privacy for those who revealed versus those who did not, the findings did not provide evidence for a consistent effect of the wording change.</p><p>Even stronger evidence for instability was found in the analyses assessing absolute stability. The pattern of results suggested that, on average, secret tellers rated the consequences of revealing the secret more favorably than they had predicted before revealing. RevealersÕ ratings of the extent to which they actually were negatively evaluated, for example, were lower than they had reported expecting during the first part of the study. Also, their reports of the extent to which the revelation was harmful in terms of maintenance with the target, maintenance with others, defense, and communication problems for the target were significantly lower at Phase 2 than were their Phase 1 forecasts. Moreover, the differences between the phases on these measures were significantly greater for those who revealed their secret than for participants who did not. In short, there was ample evidence that (on average) secret tellers found the consequences of telling less onerous on several dimensions than they had anticipated during the first part of this investigation.</p><p>In contrast, the revealersÕ retrospective ratings of the extent to which they had anticipated the target's response were not significantly different from the scale midpoint, which indicated that the reaction was as expected. Also, a prominent theme in the open-ended accounts was that the participants believed that the recipient reacted exactly as they had expected. The belief that the reaction was expected occurred despite the fact that individualsÕ evaluation scores after the revelation tended to be different from their reported expectation before revealing. In short, both the close-ended and open-ended retrospective accounts implied a very different association between anticipated and actual reactions than did the prerevelation and postrevelation measures of recipientsÕ responses.</p><p>One possible explanation for this apparent disparity is the well-documented phenomenon of hindsight bias <ref type="bibr" target="#b9">(Fischhoff, 1975;</ref><ref type="bibr" target="#b16">Hoffrage &amp; Pohl, 2003)</ref>. After a particular event has occurred or a correct answer has been revealed, individuals often report that they had predicted the outcome or answer accurately, even when it can be demonstrated that their predictions were inaccurate. With respect to the current study, a hindsight bias is consistent with the findings that the average outcomes were somewhat different from what secret tellers had anticipated despite the fact that, on average, the retrospective reports suggested that participants believed that they knew all along what would happen.</p><p>The possibility of hindsight biases has important implications for studies that seek to compare predictions about what would happen if a secret were revealed to the actual consequences of revelation. <ref type="bibr" target="#b13">Greene and Faulkner's (2002)</ref> study of women who revealed their HIV-positive status, for example, found considerable overlap between par-ticipantsÕ retrospective accounts of how they expected the confidant to react and their reports of how the confidant actually reacted. The current study suggests that part of the overlap in expectations versus actual consequences may be due to a hindsight bias affecting retrospective reports. Such findings highlight the utility of the longitudinal design used here.</p><p>It is important to recognize, however, that even though the longitudinal design alleviates some of the difficulties in comparing expected responses to the targetsÕ actual responses, some challenges remain. For instance, the measures of the targetsÕ responses are based on the respondentsÕ perceptions rather than on a direct measure of the counterpartsÕ actual reactions. Not having the recipientsÕ perspectives limits the current study's ability to test questions about interpersonal understanding. Nevertheless, the present investigation's focus on participantsÕ perceptions was appropriate because a major goal of the study was to determine the extent to which secret tellers could accurately predict the consequences that they would experience when revealing. Secret tellersÕ perceptions of their relational counter-partsÕ reactions are at least as important as any unperceived actual reactions by the target. Indeed, <ref type="bibr" target="#b21">Kelly (2002)</ref> argued that a secret teller's perception that a recipient is nonjudgmental is more critical than are actual characteristics or behaviors of the recipient. Secret tellersÕ perceptions of recipientsÕ reactions can have real and substantial effects. <ref type="bibr" target="#b8">Cole, Kemeny, and Taylor (1997)</ref>, for instance, found that gay men, who were open about their sexual orientation and were living with HIV, experienced more rapid HIV progression over a 9-year period to the extent that they were sensitive to being socially rejected. <ref type="bibr">Cole et al.Õs (1997)</ref> research strongly suggests that the consequences of revealing private information (e.g., sexual orientation) can depend on individualsÕ perceptions of othersÕ social reactions.</p><p>In sum, the present study provides evidence buttressing some of the key assumptions of scholarly advice about when to reveal secrets (e.g., <ref type="bibr" target="#b20">Kelly, 1999)</ref>. Individuals can and do base revelations on factors such as the extent to which their relational counterpart can be expected to be nonjudgmental. Moreover, such expectations are more accurate than would be expected by chance, and the current findings suggest that inaccuracies tend to involve a confidant's reaction being more favorable than expected. That is, although the current advice may lead individuals to be somewhat more conservative than necessary about revealing their secrets in relationships, people who do reveal based on such advice are unlikely to perceive that their revelations are a mistake.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Descriptions and frequencies of secret topics</figDesc><table><row><cell>Descriptions of topics</cell></row></table><note><p>Note. Due to rounding error, the percentages do not add to 100.0%. The significance tests refer to whether the proportion of individuals who revealed a particular topic was different from the proportion of participants who revealed all other topics. *p , .05.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Correlations between Time 1 and Time 2 reasons measures</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Difference between</cell></row><row><cell></cell><cell cols="2">Revealed secret Did not reveal</cell><cell>correlations (z)</cell></row><row><cell>Evaluation</cell><cell>.68**</cell><cell>.85**</cell><cell>3.00**</cell></row><row><cell>Maintenance with target</cell><cell>.48**</cell><cell>.79**</cell><cell>3.85**</cell></row><row><cell>Maintenance with others</cell><cell>.48**</cell><cell>.63**</cell><cell>1.53</cell></row><row><cell>Defense</cell><cell>.41**</cell><cell>.68**</cell><cell>2.76**</cell></row><row><cell>Communication problems for target</cell><cell>.57**</cell><cell>.70**</cell><cell>1.54</cell></row><row><cell>Communication problems for self</cell><cell>.47**</cell><cell>.67**</cell><cell>2.11*</cell></row><row><cell>Privacy</cell><cell>.67**</cell><cell>.69**</cell><cell>0.26</cell></row></table><note><p>*p , .05. **p , .01.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Mean ratings for the reasons and consequences measures Note. The values in parentheses are standard deviations. Means in the same row that do not share subscripts differ significantly.</figDesc><table><row><cell></cell><cell cols="2">Revealed secret</cell><cell cols="2">Did not reveal</cell></row><row><cell></cell><cell>Time 1</cell><cell>Time 2</cell><cell>Time 1</cell><cell>Time 2</cell></row><row><cell>Evaluation</cell><cell>3.84 (1.77) a</cell><cell>2.84 (1.62) b</cell><cell>4.29 (1.80) c</cell><cell>4.08 (1.75) a</cell></row><row><cell>Maintenance with target</cell><cell>3.61 (1.86) a</cell><cell>2.60 (1.76) b</cell><cell>4.09 (1.99) c</cell><cell>3.85 (1.85) a</cell></row><row><cell>Maintenance with others</cell><cell>2.19 (1.39) a</cell><cell>1.57 (0.78) b</cell><cell>2.72 (1.49) c</cell><cell>2.63 (1.54) c</cell></row><row><cell>Defense</cell><cell>2.63 (1.49) a</cell><cell>2.02 (1.16) b</cell><cell>2.78 (1.39) a</cell><cell>2.69 (1.38) a</cell></row><row><cell>Communication problems</cell><cell>4.19 (1.79) a</cell><cell>3.42 (1.98) b</cell><cell>4.28 (1.76) a</cell><cell>4.21 (1.72) a</cell></row><row><cell>for target</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Communication problems</cell><cell>3.57 (1.77) a</cell><cell>3.21 (1.60) a</cell><cell>4.20 (1.91) b</cell><cell>4.25 (1.82) b</cell></row><row><cell>for self</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Privacy</cell><cell>3.11 (1.52) a</cell><cell>2.88 (1.17) a</cell><cell>3.78 (1.59) b</cell><cell>3.80 (1.52) b</cell></row></table><note><p><p>(p , .05</p>).</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>14756811, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1350-4126.2005.00101.x by City University Of Hong Kong, Wiley Online Library on [24/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>The privacy reason for keeping a secret does not involve an explicit prediction about what would happen if the secret were revealed; however, privacy was included to provide a more complete assessment of the common reasons for keeping a secret.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>J. P.Caughlin et al.   14756811, 2005,  1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1350-4126.2005.00101.x by City University Of Hong Kong, Wiley Online Library on [24/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Motivations underlying topic avoidance in close relationships</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Guerrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Balancing the secrets of private disclosures</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="165" to="180" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Toward a theory of motivated information seeking</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Weiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="167" to="190" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Babbie</surname></persName>
+		</author>
+		<title level="m">The basics of social research</title>
+		<meeting><address><addrLine>Belmont, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wadsworth</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Family secrets: What you don&apos;t know can hurt you</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bradshaw</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Bantam Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Concepts in the analysis of qualitative data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bulmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="651" to="677" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Continuity and change: Assortative marriage and the consistency of personality in adulthood</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Herbener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="250" to="258" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Personality continuity and change across the life course</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of personality: Theory and research</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Pervin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>John</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="300" to="326" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Privacy in families</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of family communication</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="379" to="412" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Social identity and physical health: Accelerated HIV progression in rejection-sensitive gay men</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Kemeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="320" to="335" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Hindsight 6 ¼ foresight: The effect of outcome knowledge on judgment under uncertainty</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fischhoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Human Perception and Performance</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="288" to="299" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The discovery of grounded theory: Strategies for qualitative research</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Glaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Strauss</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>De Gruyter</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">&apos;&apos;I&apos;d rather not talk about it.&apos;&apos; AdolescentsÕ and young adultsÕ use of topic avoidance in stepfamilies</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Golish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="78" to="106" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Privacy and disclosure of HIV in interpersonal relationships: A sourcebook for researchers and practitioners</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Greene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Derlega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Yep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Expected versus actual responses to disclosure in relationships of HIV-positive African American adolescent females</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Greene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Faulkner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="297" to="317" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">When love is blind: Maintaining idealized images of one&apos;s spouse</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="751" to="776" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Perceived consensus and predictive accuracy: The pros and cons of projection</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Hoch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="221" to="234" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Research on hindsight bias: A rich past, a productive present, and a challenging future</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Hoffrage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Pohl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="329" to="335" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Conceptual and methodological issues in studying close relationships</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="901" to="925" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The secret life of families</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Imber-Black</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Bantam Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">What we need is communication&apos;&apos;: &apos;&apos;Communication&apos;&apos; as a cultural category in some American speech</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Katriel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Philipsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="301" to="317" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Revealing personal secrets</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="105" to="109" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The psychology of secrets</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kelly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Kluwer Academic</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Consequences of revealing personal secrets</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mckillop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="450" to="465" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ten years of research on the false consensus effect: An empirical and theoretical review</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="72" to="90" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The self-fulfilling nature of positive illusions in romantic relationships: Love is not blind, but prescient</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Griffin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1155" to="1180" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Risk parameters across types of secrets</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Norton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tafoya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting Psychology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="450" to="454" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Factors influencing children to self-disclose sexual abuse</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Paine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="271" to="295" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Ideology in interpersonal communication: Off the couch and into the world</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Burgoon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="79" to="107" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Opening up: The healing power of expressing emotions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Pennebaker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Guilford</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Rev. ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+		<title level="m">Boundaries of privacy: Dialectics of disclosure</title>
+		<meeting><address><addrLine>Albany, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>SUNY Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Controlling the ramifications of disclosure: &apos;&apos;Don&apos;t tell anybody but</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bantz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="263" to="269" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Disclosure of sexual abuse by children and adolescents</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petronio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Reeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ros</forename><forename type="middle">-</forename><surname>Mendoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="181" to="199" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Domains of experience: Investigating relationship processes from three perspectives</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Reis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Theoretical frameworks for personal relationships</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Erber</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Gilmour</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="87" to="110" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Self-disclosure avoidance: Why am I afraid to tell you who I am?</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Rosenfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="63" to="74" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">(Mis)understanding</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Sillars</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The dark side of close relationships</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Spitzberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Cupach</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="73" to="102" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Attachment style, interpersonal perception accuracy, and relationship satisfaction in dating couples</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Tucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Anders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="403" to="412" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Family secrets: Forms, functions and correlates</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="113" to="135" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Revealing family secrets: The influence of topic, function, and relationships</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="679" to="705" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Criteria for revealing family secrets</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vangelisti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Caughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Timmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Family secrets: How telling and not telling affects our children, our relationships, and our lives</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Webster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Addison-Wesley</publisher>
+			<pubPlace>Reading, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

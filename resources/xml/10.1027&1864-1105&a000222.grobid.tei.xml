@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Relationship Between Use of Social Network Sites, Online Social Support, and Well-Being Results From a Six-Wave Longitudinal Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sonja</forename><surname>Utz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Knowledge Media Research Center</orgName>
+								<address>
+									<settlement>Tübingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Johannes</forename><surname>Breuer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Knowledge Media Research Center</orgName>
+								<address>
+									<settlement>Tübingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Relationship Between Use of Social Network Sites, Online Social Support, and Well-Being Results From a Six-Wave Longitudinal Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B79A9BABB20F5A4B3DC1A93EAB2234C5</idno>
+					<idno type="DOI">10.1027/a000001</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>social network sites</term>
+					<term>well-being</term>
+					<term>social support</term>
+					<term>life satisfaction</term>
+					<term>stress</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Existing work on the effects of social network sites (SNS) on well-being has often stressed that SNS can help people gain social support from their online networks, which positively affects their well-being. However, the majority of studies in this area have been crosssectional in nature and/or relied on student samples. Using data from six waves of a longitudinal study with a representative sample of Dutch Internet users, we first examined whether users and nonusers of SNS differ in online social support and well-being (as indicated by life satisfaction and stress). In a second step, we investigated in more detail how SNS usemore specifically, asking for advice and the number of strong ties on these SNSare related to online social support, stress, and satisfaction with life. Overall, our results provide no evidence for SNS use and online social support affecting either stress or life satisfaction. SNS users reported more online social support than nonusers did, but also higher levels of stress; the two groups did not differ in overall life satisfaction. With regard to the underlying processes, we found positive cross-sectional and longitudinal relationships between asking for advice on SNS and online social support, indicating that SNS can be an effective tool for receiving social support. However, online social support was not related to higher life satisfaction or reduced stress 6 months later; instead, it seems that SNS users with lower life satisfaction and/or higher stress seek more social support online by asking for advice on SNS.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Since social network sites (SNS), such as Facebook, have become a major part of many people's daily media diet, media psychologists have become interested in whether and how the use of SNS affects well-being (see <ref type="bibr" target="#b1">Ahn, 2011;</ref><ref type="bibr" target="#b6">Burke &amp; Kraut, 2016;</ref><ref type="bibr" target="#b48">Verduyn, Ybarra, Résibois, Jonides, &amp; Kross, 2017)</ref>. One variable that has been considered as crucial for psychosocial well-being for decades <ref type="bibr" target="#b11">(Cohen &amp; Syme, 1985)</ref>, and is also relevant in the context of SNS use, is social support. A dominant line of argumentation is that SNS use contributes to well-being because it increases social capital and, in turn, social support (e.g., <ref type="bibr" target="#b5">Burke &amp; Kraut, 2013</ref><ref type="bibr">, 2016;</ref><ref type="bibr" target="#b18">Ellison, Steinfield, &amp; Lampe, 2007;</ref><ref type="bibr" target="#b48">Verduyn et al., 2017)</ref>. A recent narrative review of research on SNS and social support <ref type="bibr" target="#b33">(Meng, Martinez, Holmstrom, Chung, &amp; Cox, 2017)</ref> found that the majority of studies in this area either described how people use SNS for social support or how SNS use affects various indicators of well-being via perceptions of received social support. However, the exact nature of the relationship between SNS use, social support, and well-being is still somewhat unclear because most studies are cross-sectional and/or focus only on two of these three constructs <ref type="bibr" target="#b42">(Trepte &amp; Scharkow, 2016;</ref><ref type="bibr" target="#b48">Verduyn et al., 2017)</ref>. <ref type="bibr" target="#b48">Verduyn et al. (2017)</ref> specifically identified a lack of longitudinal studies and a predominant focus on adolescents and young adults as major limitations in this area.</p><p>The present paper aims to address these limitations. We present data from six waves of a longitudinal study with a representative sample of Dutch online users in which we assessed SNS use, online social support (i.e., social support received via any means of online communication), life satisfaction, and stress as indicators of well-being. The data allow us to look at the potential effects of SNS use on wellbeing from two perspectives. First, we can assess the global effects of SNS use by comparing users and nonusers of SNS in our representative sample. Second, for the users of SNS, we can simultaneously explore the concurrent and longitudinal relationships between SNS use, social support, and indicators of well-being. Cross-lagged panel models allow us to examine which concurrent associations still hold when controlling for autoregressive effects, and whether some relationships evolve over time. Having six waves also allows us to investigate more complex patterns of growth and change that require more than two measurement points <ref type="bibr" target="#b39">(Singer &amp; Willett, 2003)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical Background</head><p>Social support has been defined as "an interpersonal transaction involving one or more of the following: (1) emotional concern (liking, love, empathy), (2) instrumental aid (goods or services), ( <ref type="formula">3</ref>) information (about the environment), or (4) appraisal (information relevant to self-evaluation)" <ref type="bibr">(House, 1981, p. 39)</ref>. Often, a distinction is made between structural and functional aspects <ref type="bibr" target="#b40">(Thoits, 2011;</ref><ref type="bibr" target="#b43">Uchino, 2004)</ref>. Structural aspects refer to the size and structure of a person's network, such as, for example, the number of strong versus weak ties. Functional aspects refer to the distinction between perceived versus received/enacted social support and various types of social support, such as emotional, informational, or esteem support <ref type="bibr" target="#b33">(Meng et al., 2017;</ref><ref type="bibr" target="#b38">Schwarzer, Dunkel-Schetter, &amp; Kemeny, 1994)</ref>.</p><p>Social support needs to be differentiated from social capital. Social capital refers to the resources from one's social network <ref type="bibr" target="#b28">(Lin, 2002)</ref> and originated in sociological research, whereas social support is a psychological construct. <ref type="bibr" target="#b0">Adler and Kwon (2002)</ref> suggest to clearly distinguish between the source and the effects of social capital. The source is "the structure and content of the actor's social relations", whereas the effects are "the information, influence, and solidarity it makes available to the actor" (p. 23). Accordingly, social support is a possible effect of social capital.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SNS Use and Social Support</head><p>The functionalities of SNS play a key role in the relationship between SNS use and social support. According to <ref type="bibr" target="#b15">Ellison and Boyd (2013)</ref>, SNS are web-based platforms:</p><p>In which participants (1) have uniquely identifiable profiles that consist of user-supplied content, content provided by other users, and/or system-provided data; (2) can publicly articulate connections that can be viewed and traversed by others; and (3) can consume, produce, and/or interact with streams of user-generated content provided by their connections on the site. (p. 158) SNS provide a low-cost way of maintaining relationships <ref type="bibr" target="#b19">(Ellison, Vitak, Gray, &amp; Lampe, 2014)</ref>: People are quickly friended, users can easily inform large parts of their network with one status update using the broadcasting feature, and there are "light-weight" means of showing affection, such as the like button <ref type="bibr" target="#b7">(Carr, Wohn, &amp; Hayes, 2016)</ref>. Hence, it has often been proposed that SNS help maintain relationships and build social capital <ref type="bibr" target="#b5">(Burke &amp; Kraut, 2013;</ref><ref type="bibr" target="#b16">Ellison, Gray, Vitak, Lampe, &amp; Fiore, 2013;</ref><ref type="bibr" target="#b45">Valenzuela, Park, &amp; Kee, 2009)</ref> and can, thus, increase social support and, ultimately, well-being <ref type="bibr" target="#b6">(Burke &amp; Kraut, 2016;</ref><ref type="bibr" target="#b34">Nabi, Prestin, &amp; So, 2013;</ref><ref type="bibr" target="#b48">Verduyn et al., 2017)</ref>. In line with this argument, <ref type="bibr" target="#b4">Brandtzaeg (2012)</ref> found that SNS users reported more face-to-face interactions, acquaintances, and bridging capital than nonusers did. In a similar vein, we expect that SNS users report higher levels of online social support than nonusers do. We focus on online social support in general, not only on social support received via the SNS, to be able to compare users and nonusers of SNS on the same measure.</p><p>Hypothesis 1 (H1): SNS users report higher levels of online social support than do nonusers of SNS.</p><p>Prior research has shown that it matters how people use SNS. Several studies have shown that self-disclosure about one's needs, especially so-called mobilization requests (i.e., posts in which users ask their network for recommendations or advice), are effective strategies for eliciting social support via SNS <ref type="bibr" target="#b19">(Ellison et al., 2014;</ref><ref type="bibr" target="#b49">Vitak &amp; Ellison, 2012)</ref>. A recent meta-analysis on SNS use and social capital also found that information seeking was related to larger social capital <ref type="bibr" target="#b30">(Liu, Ainsworth, &amp; Baumeister, 2016)</ref>. We therefore expected that within the group of SNS users, asking for advice on SNS is positively related to higher online social support within the same wave:</p><p>Hypothesis 2 (H2): Asking for advice on SNS is positively related to online social support in the same wave.</p><p>With regard to the structural aspects of social support, the network composition should matter. When it comes to emotional support, strong ties have been considered more useful than weak ties <ref type="bibr" target="#b50">(Wellman &amp; Wortley, 1990)</ref>. Although it has been argued that weak ties are more relevant when it comes to informational support <ref type="bibr" target="#b22">(Granovetter, 1973)</ref>, recent studies found that on SNS strong ties are generally more useful, even for informational support <ref type="bibr" target="#b24">(Krämer, Rösner, Eimler, Winter, &amp; Neubaum, 2014;</ref><ref type="bibr" target="#b44">Utz &amp; Breuer, 2016)</ref>. In addition, a study by <ref type="bibr">Carr and coworkers (2016)</ref> found that people also perceive the reactions from strong ties on SNS as more supportive. We therefore expected that more strong ties on SNS are positively related to online social support:</p><p>Hypothesis 3 (H3): The number of strong SNS ties is positively related to social support in the same wave.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SNS Use, Social Support, and Well-Being</head><p>Well-being is an umbrella concept that covers cognitive and affective aspects of the evaluation of one's life <ref type="bibr" target="#b12">(Diener, Oishi, &amp; Lucas, 2003)</ref>. It is often measured by a combination of several indicators, such as life satisfaction, affect, depression, or stress <ref type="bibr" target="#b1">(Ahn, 2011)</ref>. <ref type="bibr" target="#b48">Verduyn et al. (2017)</ref> report that the type of SNS use determines whether SNS use increases or decreases well-being. Passive use decreases well-being through processes like unfavorable social comparisons or envy <ref type="bibr" target="#b25">(Krasnova, Wenninger, Widjaja, &amp; Buxmann, 2013;</ref><ref type="bibr" target="#b26">Kross et al., 2013;</ref><ref type="bibr" target="#b47">Verduyn et al., 2015)</ref>, whereas active use increases well-being through increased social capital and receiving social support <ref type="bibr" target="#b48">(Verduyn et al., 2017)</ref>. Because we do not know whether the majority in our representative sample uses Facebook actively or passively, we do not know whether the users on average report lower or higher well-being than the nonusers. We therefore formulated an open research question for the comparison of users and nonusers on our well-being indicators stress and life-satisfaction:</p><p>Research Question 1 (RQ1): Do SNS users differ from nonusers with regard to life satisfaction and stress?</p><p>As <ref type="bibr" target="#b42">Trepte and Scharkow (2016)</ref> state, many studies have either examined associations between media use and social capital/support or the associations between social support and well-being. Most of these studies have also been correlational, so the direction of the effects is unclear. <ref type="bibr" target="#b42">Trepte and Scharkow (2016)</ref> present several models of possible causal directions. Media use might increase social capital and, in turn, social support, which leads to an increase in wellbeing. It could, however, also be that people with more social capital are more likely to use (social) media, which, then, results in higher levels of social support and wellbeing. This would be a rich-get-richer effect. Notably, both models assume an indirect effect of media use on wellbeing via social support. A poor-get-richer effect is also possible, such that people with lower well-being levels use media to receive social support. In this model, (low) wellbeing would be the cause and not the final outcome.</p><p>The empirical evidence for these models is scarce because most (longitudinal) studies only examined a subset of these variables. <ref type="bibr" target="#b13">Dienlin, Masur, and Trepte (2017)</ref> found a positive effect of frequency of SNS use on life satisfaction 6 months later, but no effect on loneliness. <ref type="bibr" target="#b36">Reinecke and Trepte (2014)</ref> found that authenticity of self-presentation on SNS positively affected well-being, but the reverse paths were also significant, indicating that a third variable might influence both variables.</p><p>Whether social support mediates the relationship between SNS use and well-being has rarely been tested previously. In a cross-sectional study among adolescents, <ref type="bibr" target="#b20">Frison and Eggermont (2015a)</ref> found that active Facebook use predicted increased social support, which was related to lower levels of depression, at least for females. In a two-wave panel study, the same authors <ref type="bibr" target="#b21">(Frison &amp; Eggermont, 2015b)</ref> found a negative effect of active Facebook use on depression via social support, when positivity of the received feedback on public posts was added post hoc to the model. Accordingly, there are some indications for an indirect effect of active SNS use on well-being via social support. By contrast, the poor-get-richer model <ref type="bibr" target="#b42">(Trepte &amp; Scharkow, 2016)</ref> would assume that (decreased) well-being is the cause for, rather than the consequence of, receiving social support. A combination of these models is also possible, such that lower well-being results in more frequent asking for advice on SNS, which then results in higher online social support and, ultimately, increased well-being. Our six-wave longitudinal study allows us to test such longitudinal relationships between active SNS use, online social support, and well-being. With regard to actively asking for advice on SNS, we wanted to answer the following general research question:</p><p>Research Question 2 (RQ2): What are the longitudinal relationships between asking for advice, online social support, stress, and life satisfaction?</p><p>In addition to asking for advice, we also wanted to examine the structural aspects (e.g., the role of strong ties) on social support and well-being. In a cross-sectional study, <ref type="bibr" target="#b34">Nabi et al. (2013)</ref> found that the number of Facebook friends correlates positively with perceived social support, with the latter also being positively related to well-being. <ref type="bibr" target="#b6">Burke and Kraut (2016)</ref> combined logged Facebook activity with panel data and found that receiving composed communication from strong ties was related to increased well-being. While this study did not consider the potential mediating role of social support, it does suggest that the number of strong ties on SNS is positively related to well-being. Notably, none of the previous studies tested the alternative model, which proposes that (decreased) well-being is the driving force behind creating a network of strong ties on SNS. Our final research question seeks to explore the possible longitudinal relationships between strong SNS ties as a structural component, social support, and our well-being indicators:</p><p>Research Question 3 (RQ3): What are the longitudinal relationships between number of strong ties, online social support, stress, and life satisfaction?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants and Procedure</head><p>We used six waves of an online panel study of Dutch Internet users. The first wave in the fall of 2013 included a total of 3,367 respondents who were representative of Dutch Internet users in terms of gender, age, education, and place of living (urban vs. rural). A professional market research institute recruited the participants and administered the online surveys. Panel members received points for completing surveys; they could exchange these for vouchers at several large retailers or donate them. The time interval between each of the following waves was 6 months with an average attrition rate of 16.92%, resulting in a sample of N = 1,330 in Wave 6. On average across all waves, 71.04% of the respondents reported that they use an SNS for primarily private purposes (i.e., not exclusively or primarily for professional/job-related purposes). Unsurprisingly, the most commonly used SNS was Facebook with an average share of 91.07% across all six waves among those who reported to use an SNS for (primarily) private purposes. Detailed information about the sample composition and attrition rates can be found in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures SNS Use</head><p>Respondents were first asked whether they have a profile on a SNS that they use (mainly) for private purposes. If they indicated that they did, they were asked which SNS they use primarily.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Asking for Advice</head><p>Respondents indicated how often they ask for advice in personal matters when posting on their preferred SNS (1 = never to 5 = very often).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of Strong Ties</head><p>Respondents first indicated the total number of contacts they have on the SNS and subsequently estimated how many of those were strong or weak ties. Examples were given (strong ties: "e.g., partner, family, close friends"; weak ties: "e.g., colleagues, teammates, neighbors").</p><p>Respondents were told that it would be helpful to open their SNS profile in a separate browser tab to answer these questions and either entered an absolute number or a percentage. Percentages were later converted into absolute numbers. We only used the number of strong ties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social Support</head><p>We adapted items from the UCLA social support inventory <ref type="bibr" target="#b14">(Dunkel-Schetter, Feinstein, &amp; Call, 1986)</ref> to assess online social support. We dropped the item on tangible support because tangible support is difficult to provide in online environments. Respondents indicated how often in the last month they had (a) received information or advice, (b) been bolstered up or had their self-esteem restored, and (c) been listened to carefully and felt understood. In the original version, respondents indicated how often they received the respective types of support from friends, relatives, their partner, or groups/organizations on 5-point scales ranging from 1 = never to 5 = very often. We asked whether they received these types of support from (a) a good friend or family memberoffline, (b) a good friend or family memberonline, (3) an acquaintanceoffline, (4) an acquaintanceonline, or (5) somebody they only interact with online. Exploratory factor analyses of the received support items revealed a two-factor solution with offline contacts loading on one factor and online contacts loading on the other factor. The answers for the three types of offline and online contacts were combined into a mean score for each type of social support (Cronbach's α Wave 1 = .89 for online support, α = .83 for offline social support; see Electronic Supplementary Material, ESM 1 for alpha values in other waves).</p><p>In addition to the questions about received support, people indicated how satisfied they were on average with the three types of support (collapsed across the online and offline sources; Cronbach's α = .82 in Wave 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stress</head><p>Stress was measured using four items from the Perceived Stress Scale by <ref type="bibr" target="#b10">Cohen, Kamarck, and Mermelstein (1983)</ref>. The options for answers ranged from 1 = never to 5 = very often. We chose not to include one item that showed an unsatisfactory loading of .28 in a confirmatory factor analysis and was only weakly correlated with the other variables in wave 1 (all r &lt; .3). The items we used were: 1. "How often have you been upset because of something that happened unexpectedly?" 2. "How often have you felt that you were unable to control the important things in your life?" 3. "How often have you felt nervous and 'stressed'?"</p><p>Respondents were instructed to answer these questions with regard to the last 6 months. Cronbach's α in Wave 1 was .82.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Life Satisfaction</head><p>Overall satisfaction with life was assessed via one item adapted from the Manchester Short Assessment of Quality of Life Scale <ref type="bibr" target="#b35">(Priebe, Huxley, Knight, &amp; Evans, 1999)</ref>.</p><p>Respondents were asked, "How satisfied are you with your life as a whole?" and could provide an answer on a scale from 1 = very unsatisfied to 7 = very satisfied.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>We tested the mean differences in online social support, stress, and life satisfaction between SNS users and nonusers in a series of independent-samples Welch's t tests because (a) the group sizes were unequal and (b) Levene's test suggested that homogeneity of variances could not be assumed in most cases <ref type="bibr" target="#b27">(Lakens, 2015)</ref>.</p><p>To investigate the cross-sectional and longitudinal relationships between SNS use, online social support, and our indicators of well-being (stress and life satisfaction) more closely, we estimated cross-lagged structural equation models (SEM)<ref type="foot" target="#foot_2">1</ref> using the lavaan package <ref type="bibr" target="#b37">(Rosseel, 2012)</ref> for R. Since the strong tie variable was heavily skewed and kurtotic and the estimation procedure for structural equation modeling fails if the variance of one of the variables exceeds that of the others by a factor of 1,000 or more, we log-transformed this variable using the formula ln(x + 1).<ref type="foot" target="#foot_3">2</ref> For the longitudinal models, we included only those who participated in all waves and consistently reported that they use SNS for private purposes (N = 624, 49.2% female).<ref type="foot" target="#foot_4">3</ref> Missing data were handled using the full information maximum likelihood procedure (FIML). Invariance tests for the latent variables online social support and stress suggested metric invariance over time; indicated by nonsignificant chi-square difference tests and changes in CFI .002 as recommended by <ref type="bibr" target="#b31">Meade, Johnson, and Braddy (2008)</ref>. Hence, all factor loadings for the latent variables were constrained to be equal over time in all models. The error variances of the indicators were allowed to covary across all waves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mean Differences Between SNS Users and Nonusers</head><p>As can be seen in Table <ref type="table" target="#tab_1">2</ref> and in line with H1, SNS users reported significantly more online social support than did SNS nonusers in all waves. With regard to RQ1, we found that SNS users reported more stress than nonusers (see Table <ref type="table" target="#tab_2">3</ref>), but did not differ in general life satisfaction from nonusers (see Table <ref type="table" target="#tab_3">4</ref>). The effect of SNS use (as a dichotomous variable) was somewhat larger for social support than for stress, but generally both effects were small. Notably, the means for online social support, stress, and life satisfaction were quite stable across all waves for both groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Asking for Advice, Online Social Support, and Well-Being</head><p>To test H2 and RQ2, our first cross-lagged model examined cross-sectional and longitudinal associations between the well-being indicators, life satisfaction and stress, and asking for advice on SNS and online social support. The results of this model are shown in Figure <ref type="figure" target="#fig_0">1</ref>. For the sake of readability, only the significant paths with coefficients |.1| are displayed. <ref type="foot" target="#foot_5">4</ref>The fit of this model was good (CFI = .93, TLI = .92, RMSEA = .05)<ref type="foot" target="#foot_6">5</ref> according to the rules-of-thumb proposed by <ref type="bibr" target="#b29">Little (2013)</ref>. As predicted in H2, there were consistent positive cross-sectional relationships between asking for advice on SNS and online social support. With regard to RQ2, we found that online social support positively predicted the frequency of asking for advice on SNS in the consecutive wave across all waves. The opposite cross-lagged paths from asking for advice to online social support were only evident from Waves 3 to 4 and 5 to 6. Stress at time t negatively predicted life satisfaction at time t + 1 across all waves. The complementing paths from life satisfaction to stress could be found for four out of five instances. There were no longitudinal relationships between online social support and life satisfaction or stress. As online social support was not predictive of either life satisfaction or stress, it also did not mediate the paths from asking for advice on SNS to the well-being indicators. The only direct longitudinal relationship between asking for advice and our well-being indicators was that asking for advice in Wave 2 positively predicted stress in Wave 3 (β = .11, p = .003).</p><p>On the cross-sectional level, there were significant positive associations between online social support and stress in five of the six waves and significant negative associations between life satisfaction and stress in all six waves.   Strong Ties, Online Social Support, and Well-Being</p><p>In Model 2, we replaced asking for advice with the number of strong SNS ties to test H3 and answer RQ3. Figure <ref type="figure" target="#fig_1">2</ref> shows the results of this model (again, only the significant paths with coefficients |.1|).</p><p>The model fits the data well (CFI = .93, TLI = .91, RMSEA = .05). The number of strong SNS ties was only positively related to online social support (r = .19, p &lt; .001) in Wave 1. Hence, our data do not support H3. On the longitudinal level (RQ3), life satisfaction in Wave 2 positively predicted the number of strong SNS ties in Wave 3 (β = .11, p = .002) and the number of strong SNS ties in Wave 3 positively predicted online social support in Wave 4 (β = .1, p = .005). The only other significant cross-sectional relationship, besides those between stress and social support already found in the first model, was the one between the number of strong ties and life satisfaction in Wave 1 (r = .11, p = .007). In sum, our second model provides no evidence for (consistent) relationships between the number of strong SNS ties on the one hand and online social support and well-being (stress and life satisfaction) on the other hand.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Using six waves of a large online panel study of Internet users in The Netherlands, we investigated the relationships between SNS use, online social support, stress, and life satisfaction. In a first step, we found that SNS users consistently reported higher levels of online social support than nonusers across all waves. Within the group of SNS users, we found that actively asking for advice on SNS plays a central part in this process, whereas the number of strong SNS ties showed no influence on social support or the two well-being indicators. Higher levels of online social support did not result in lower stress nor higher life satisfaction 6 months later; instead, more stress and, to some degree, also lower life satisfaction seemed to trigger asking for advice. Additionally, our models provide evidence for a reinforcing spiral between stress and life satisfaction.</p><p>Our results have several implications, both for research concerning the effects of SNS use on social support, as well as for research on (online) social support and well-being. The results of our first longitudinal model showed that people do receive online social support when they ask for advice on SNS and that they tend to ask again if they have previously received social support online. Asking for advice has already been identified as a potentially relevant mechanism in a qualitative study <ref type="bibr" target="#b49">(Vitak &amp; Ellison, 2012)</ref> and our large-scale quantitative study confirms the importance of actively asking for advice among one's SNS contacts. The stronger cross-sectional associations indicate that the connection between asking for advice and receiving support is typically more of a short-term process (i.e., SNS users usually receive responses within a few days or even the same day they ask). The longitudinal paths from online social support to the frequency of asking for advice are indicative of a reinforcement or learning process.</p><p>Interestingly, with regard to the structural perspective, we found that the number of strong ties on SNS was not associated with online social support, stress, or life satisfaction. <ref type="bibr" target="#b6">Burke and Kraut (2016)</ref>, however, reported positive effects of composed targeted communication on well-being for strong ties. It could be that tie strength mainly matters for targeted communication (private messages), but is less important for (semi-)public broadcasts, where the distinction between strong and weak ties easily becomes blurred since everybody is a "friend" on Facebook. Another explanation for this unexpected finding might be that our measure for network composition was too broad. <ref type="bibr" target="#b6">Burke and Kraut (2016)</ref> had access to log data and inferred tie strength for every single tie based on a machine-learning model. We only asked respondents to roughly judge how many of their SNS friends are strong (or weak) ties. More fine-grained and objective (in the sense of not self-reported) measures of network structure (e.g., density, brokerage) might be better predictors of social support <ref type="bibr" target="#b32">(Meng, Chung, &amp; Cox, 2016)</ref>.</p><p>Our results also provide some answers to the question of whether there are direct or indirect effects of SNS use on well-being. We did not find consistent direct longitudinal relationships between asking for advice/number of strong ties and stress and life satisfaction. Instead, there were two significant negative longitudinal paths from satisfaction with life to asking for advice 6 months later, indicating that people who are less satisfied with their life are more likely to ask for advice on the SNS they use. Higher stress levels were also consistently related to asking for advice more in the same wave. Both findings generally support the poorget-richer model. Individuals with lower well-being are more likely to turn to SNS for social support. However, these people only get "richer" in online social support, while the received social support did not decrease stress or increase life satisfaction over time. Accordingly, we also found no indirect effects of SNS use on well-being via social support.</p><p>There are several possible explanations why we did not find relationships between online social support and our well-being indicators (life satisfaction and stress). Firstly, examining the relationship with stress specifically, prior studies found both positive and negative relationships between stress and social support (see <ref type="bibr" target="#b2">Barrera, 1986</ref>, for a summary of the various models). Stress could trigger support-seeking and, in turn, social support, resulting in a positive relationship. However, it could also be that social support reduces stress, resulting in a negative association. Our positive concurrent associations support the first interpretation. For some participants, receiving support might have decreased stress subsequently, whereas for others, the stressful period continued or got worse (e.g., due to a severe illness), resulting in even more social support. This might explain why the longitudinal paths from online social support to stress in the subsequent period were, on average, statistically indistinguishable from zero.</p><p>Second, regarding the relationship between online social support and well-being, our results are in line with several previous studies that also found no or only weak relationships between received social support and different indicators of well-being <ref type="bibr" target="#b41">(Trepte, Dienlin &amp; Reinecke, 2015;</ref><ref type="bibr" target="#b42">Trepte &amp; Scharkow, 2016;</ref><ref type="bibr" target="#b46">Van Ingen, Utz, &amp; Toepoel, 2015)</ref>. Although a meta-analysis by <ref type="bibr" target="#b8">Chu, Saucier, and Hafner (2010)</ref> found a moderate effect of received social support on well-being, research in offline contexts has also demonstrated that perceived social support (i.e., the quality) shows higher correlations with well-being than received support (i.e., the quantity; see, e.g., <ref type="bibr" target="#b51">Wethington &amp; Kessler, 1986)</ref>. The differences in the effects of perceived and received support might be due to some types of social support being less appropriate for a problem than others <ref type="bibr" target="#b3">(Batenburg &amp; Das, 2014;</ref><ref type="bibr" target="#b42">Trepte &amp; Scharkow, 2016)</ref> and that quality of support is more important than quantity. In this paper we chose to focus on received social support, because perceived social support has been found to be relatively stable and almost trait-like <ref type="bibr" target="#b42">(Trepte &amp; Scharkow, 2016)</ref>. As we were interested in the effects of SNS use on social support, we opted to use a more volatile construct in this paper (i.e., the quantity of received support). Finally, it could also be that online support is less strongly related to well-being than offline support is <ref type="bibr" target="#b41">(Trepte et al., 2015)</ref>.</p><p>As explained in the method section, our adapted version of the UCLA scale also contained offline social support and satisfaction with social support (collapsed across online and offline support). While this was not the focus of our study, it allowed us to estimate two additional models to test the two explanations outlined earlier. To do so, we exploratively examined the importance of offline support and the perceived quality of social support (across all modalities).<ref type="foot" target="#foot_7">6</ref> For three waves, we found significant positive associations between offline social support and subsequent life satisfaction. However, none of these effects were larger than .1. <ref type="bibr" target="#b41">Trepte et al. (2015)</ref> also found that offline support showed higher (also still weak) correlations with life satisfaction than online support; we demonstrated this pattern for longitudinal effects. However, offline social support also positively predicted stress in two out of five waves, suggesting that received offline social support is also not consistently related to increased well-being.</p><p>Satisfaction with received social support (online + offline) and life satisfaction, on the other hand, reinforced each other positively over time, indicating that the quality of received social support is, indeed, more relevant than the quantityat least when it comes to life satisfaction. However, satisfaction with social support negatively predicted stress only from Wave 1 to Wave 2. The argument that quality of received social support is more important than quantity, hence, only holds true for life satisfaction in our sample.</p><p>Of course, our study had several limitations that need to be taken into account when interpreting its results. First of all, as the data come from a larger study that covered a variety of topics we often had to use short or abbreviated scales. In addition, the time lag of 6 months between waves was not chosen to specifically investigate the potential effects of SNS use on stress and life satisfaction. It may well be that 6 months is not enough to monitor changes in more trait-like measures such as overall satisfaction with life. Also, the fit of our models was good, but not excellent. A strength of our study is the largely representative sample of Dutch Internet users (also including people who do not use SNS) and the longitudinal design across six waves that allows to investigate more complex relationships between variables, such as, for example, reinforcing spirals.</p><p>This design and the large and representative sample allowed us to gain several interesting insights. First, our study suggests that SNS use, on a general level, has at best limited impact on the indicators of well-being that we looked atstress and satisfaction with life. It is highly likely that other factors, such as work, health, or a stable relationship, are much stronger predictors of stress and life satisfaction than is SNS use. Second, our investigation of the underlying processes revealed that it is not a user's number of strong SNS ties, but rather very specific activities, such as explicitly asking for advice, that help people gain social support via SNS. In sum, our findings indicate that SNS use only increases (online) support when users actively reap the benefits of the SNS by asking others, while it does not affect stress or life satisfaction. By contrast, offline social support has more power to directly influence life satisfaction. Future research can build on these results and further examine potential moderators of the relationship between online social support and well-being, such as negative life events, or other indicators of well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgment</head><p>The research leading to these results has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP7/2007-2013)/ERC grant agreement n o 312420.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electronic Supplementary Material</head><p>The electronic supplementary material is available with the online version of the article at http://dx.doi.org/10.1027/ 1864-1105/a000222 ESM 1. <ref type="bibr">Table, Figures (PDF)</ref>. Descriptives and additional analyses (offline social support, satisfaction with support).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Cross-sectional and longitudinal relationships between asking for advice on SNS, social support online, life satisfaction, and stress. Standardized coefficients, *p .05, **p .01, ***p .001, ML estimation, w 2 (df = 906, N = 624) = 2,334.45, p &lt; .001, CFI = .93, TLI = .92, RMSEA = .05. Only significant associations |.1| displayed here.</figDesc><graphic coords="7,53.86,70.87,482.39,196.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Cross-sectional and longitudinal relationships between strong SNS ties, social support online, life satisfaction, and stress. Standardized coefficients, *p .05, **p .01, ***p .001, ML estimation, w 2 (df = 906, N = 624) = 2,429.96, p &lt; .001, CFI = .93, TLI = .91, RMSEA = .05. Only significant associations |.1| displayed here.</figDesc><graphic coords="8,62.36,70.87,479.68,195.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Sample description of the panel waves (N and percentages)</figDesc><table><row><cell></cell><cell>Wave 1</cell><cell>Wave 2</cell><cell>Wave 3</cell><cell>Wave 4</cell><cell>Wave 5</cell><cell>Wave 6</cell></row><row><cell>Sample size</cell><cell>3,367</cell><cell>2,678</cell><cell>2,273</cell><cell>1,953</cell><cell>1,627</cell><cell>1,330</cell></row><row><cell>Attrition rate (%)</cell><cell>-</cell><cell>20.46</cell><cell>15.12</cell><cell>14.08</cell><cell>16.69</cell><cell>18.25</cell></row><row><cell>Female (%)</cell><cell>49.36</cell><cell>48.73</cell><cell>48.22</cell><cell>47.98</cell><cell>47.02</cell><cell>46.69</cell></row><row><cell>Users of SNS for private purposes (%)</cell><cell>71.43</cell><cell>72.78</cell><cell>71.84</cell><cell>70.30</cell><cell>70.13</cell><cell>69.77</cell></row><row><cell>Age 18-29 (%)</cell><cell>18.03</cell><cell>15.24</cell><cell>13.68</cell><cell>11.27</cell><cell>9.04</cell><cell>8.50</cell></row><row><cell>Age 30-39 (%)</cell><cell>15.36</cell><cell>15.53</cell><cell>15.26</cell><cell>14.80</cell><cell>13.52</cell><cell>12.56</cell></row><row><cell>Age 40-49 (%)</cell><cell>19.22</cell><cell>19.34</cell><cell>18.79</cell><cell>18.08</cell><cell>17.58</cell><cell>16.69</cell></row><row><cell>Age 50-65 (%)</cell><cell>26.37</cell><cell>26.89</cell><cell>27.76</cell><cell>29.03</cell><cell>29.32</cell><cell>29.70</cell></row><row><cell>Age 65+ (%)</cell><cell>21.03</cell><cell>22.97</cell><cell>24.51</cell><cell>26.83</cell><cell>30.55</cell><cell>32.56</cell></row><row><cell>Note. SNS = social networking sites.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Differences in online social support between users and nonusers of SNS</figDesc><table><row><cell></cell><cell>N Users</cell><cell>M Users</cell><cell>SD Users</cell><cell>N Nonusers</cell><cell>M Nonusers</cell><cell>SD Nonusers</cell><cell>t</cell><cell>d f</cell><cell>p</cell><cell>Cohen's d</cell></row><row><cell>Wave 1</cell><cell>2,405</cell><cell>2.15</cell><cell>0.86</cell><cell>962</cell><cell>1.77</cell><cell>0.84</cell><cell>11.86</cell><cell>1,792.73</cell><cell>&lt; .001</cell><cell>0.45</cell></row><row><cell>Wave 2</cell><cell>1,949</cell><cell>2.11</cell><cell>0.86</cell><cell>728</cell><cell>1.74</cell><cell>0.82</cell><cell>10.35</cell><cell>1,357.82</cell><cell>&lt; .001</cell><cell>0.44</cell></row><row><cell>Wave 3</cell><cell>1,633</cell><cell>2.10</cell><cell>0.87</cell><cell>640</cell><cell>1.85</cell><cell>0.82</cell><cell>6.28</cell><cell>1,231.89</cell><cell>&lt; .001</cell><cell>0.29</cell></row><row><cell>Wave 4</cell><cell>1,373</cell><cell>2.08</cell><cell>0.86</cell><cell>580</cell><cell>1.93</cell><cell>0.85</cell><cell>3.47</cell><cell>1,095.31</cell><cell>&lt; .001</cell><cell>0.29</cell></row><row><cell>Wave 5</cell><cell>1,141</cell><cell>2.05</cell><cell>0.86</cell><cell>486</cell><cell>1.89</cell><cell>0.87</cell><cell>3.28</cell><cell>907.40</cell><cell>.001</cell><cell>0.18</cell></row><row><cell>Wave 6</cell><cell>928</cell><cell>2.04</cell><cell>0.84</cell><cell>402</cell><cell>1.87</cell><cell>0.86</cell><cell>3.35</cell><cell>745.64</cell><cell>&lt; .001</cell><cell>0.20</cell></row><row><cell cols="3">Note. SNS = social networking sites.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Differences in stress between users and nonusers of SNS</figDesc><table><row><cell></cell><cell>N Users</cell><cell>M Users</cell><cell>SD Users</cell><cell>N Nonusers</cell><cell>M Nonusers</cell><cell>SD Nonusers</cell><cell>t</cell><cell>d f</cell><cell>p</cell><cell>Cohen's d</cell></row><row><cell>Wave 1</cell><cell>2,405</cell><cell>2.69</cell><cell>0.95</cell><cell>962</cell><cell>2.42</cell><cell>0.97</cell><cell>7.43</cell><cell>1,727.61</cell><cell>&lt; .001</cell><cell>0.29</cell></row><row><cell>Wave 2</cell><cell>1,949</cell><cell>2.65</cell><cell>0.94</cell><cell>728</cell><cell>2.39</cell><cell>0.95</cell><cell>6.24</cell><cell>1,287.91</cell><cell>&lt; .001</cell><cell>0.27</cell></row><row><cell>Wave 3</cell><cell>1,633</cell><cell>2.60</cell><cell>0.90</cell><cell>640</cell><cell>2.33</cell><cell>0.91</cell><cell>6.36</cell><cell>1,157.95</cell><cell>&lt; .001</cell><cell>0.30</cell></row><row><cell>Wave 4</cell><cell>1,373</cell><cell>2.53</cell><cell>0.95</cell><cell>580</cell><cell>2.35</cell><cell>0.87</cell><cell>4.20</cell><cell>1,173.01</cell><cell>&lt; .001</cell><cell>0.23</cell></row><row><cell>Wave 5</cell><cell>1,141</cell><cell>2.43</cell><cell>0.94</cell><cell>486</cell><cell>2.30</cell><cell>0.92</cell><cell>2.59</cell><cell>935.91</cell><cell>.01</cell><cell>0.14</cell></row><row><cell>Wave 6</cell><cell>928</cell><cell>2.48</cell><cell>0.92</cell><cell>402</cell><cell>2.35</cell><cell>0.93</cell><cell>2.50</cell><cell>758.73</cell><cell>.013</cell><cell>0.15</cell></row></table><note><p>Note. SNS = social networking sites.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Differences in life satisfaction between users and nonusers of SNS</figDesc><table><row><cell></cell><cell>N Users</cell><cell>M Users</cell><cell>SD Users</cell><cell>N Nonusers</cell><cell>M Nonusers</cell><cell>SD Nonusers</cell><cell>t</cell><cell>d f</cell><cell>p</cell><cell>Cohen's d</cell></row><row><cell>Wave 1</cell><cell>2,405</cell><cell>5.20</cell><cell>1.14</cell><cell>962</cell><cell>5.20</cell><cell>1.20</cell><cell>0.12</cell><cell>1,702.91</cell><cell>.900</cell><cell>0.00</cell></row><row><cell>Wave 2</cell><cell>1,949</cell><cell>5.21</cell><cell>1.17</cell><cell>728</cell><cell>5.18</cell><cell>1.27</cell><cell>0.59</cell><cell>1,214.16</cell><cell>.553</cell><cell>0.03</cell></row><row><cell>Wave 3</cell><cell>1,633</cell><cell>5.20</cell><cell>1.15</cell><cell>640</cell><cell>5.18</cell><cell>1.21</cell><cell>0.38</cell><cell>1,112.95</cell><cell>.706</cell><cell>0.02</cell></row><row><cell>Wave 4</cell><cell>1,373</cell><cell>5.24</cell><cell>1.17</cell><cell>580</cell><cell>5.27</cell><cell>1.16</cell><cell>0.54</cell><cell>1,096.80</cell><cell>.591</cell><cell>0.00</cell></row><row><cell>Wave 5</cell><cell>1,141</cell><cell>5.33</cell><cell>1.14</cell><cell>486</cell><cell>5.30</cell><cell>1.11</cell><cell>0.44</cell><cell>940.79</cell><cell>.662</cell><cell>0.02</cell></row><row><cell>Wave 6</cell><cell>928</cell><cell>5.23</cell><cell>1.15</cell><cell>402</cell><cell>5.36</cell><cell>1.12</cell><cell>1.99</cell><cell>781.46</cell><cell>.047</cell><cell>0.12</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of MediaPsychology (2017), 29(3), 115-125Ó 2017 Hogrefe Publishing. Distributed under the Hogrefe OpenMind License http://dx.doi.org/10.1027/a000001</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal of MediaPsychology (2017), 29(3), 115-125</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_2"><p>We opted for cross-lagged SEMs to test both direct and indirect effects and to control for measurement error as well as autoregressive paths.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_3"><p>This formula was used to avoid missing values for people who reported zero strong ties.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_4"><p>A table with descriptive statistics and Cronbach's α values for all variables of interest for the sample we used for our longitudinal models can be found in ESM 1. S. Utz &amp; J. Breuer, The Relationship Between Use of Social Network Sites, Online Social Support, and Well-Being</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_5"><p>We will limit our reporting and interpretation of relationships between variables to statistically significant paths with coefficients |.1| as this constitutes the threshold for a small effect according to<ref type="bibr" target="#b9">Cohen (1988)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_6"><p>We refrained from using the SRMR for evaluating model fit, as<ref type="bibr" target="#b29">Little (2013)</ref> noted that this particular fit index has "not been well evaluated for longitudinal models in any systematic way" (p. 112).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_7"><p>We provide the detailed results of these additional analyses in ESM 1. S. Utz &amp; J. Breuer, The Relationship Between Use of Social Network Sites, Online Social Support, and Well-Being</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social Capital: Prospects for a new concept</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-W</forename><surname>Kwon</surname></persName>
+		</author>
+		<idno type="DOI">10.5465/AMR.2002.5922314</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="40" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The effect of social network sites on adolescents&apos; social and academic development: Current theories and controversies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ahn</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/asi.21540</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Society for Information Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1435" to="1445" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Distinctions between social support concepts, measures, and models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barrera</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF00922627</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="413" to="445" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An experimental study on the effectiveness of disclosing stressful life events and support messages: When cognitive reappraisal support decreases emotional distress, and emotional support is like saying nothing at all</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Batenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/jour—nal.pone.0114169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<date type="published" when="2014">2014. 114169</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Social networking sites: Their users and social implications -A longitudinal study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Brandtzaeg</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2012.01580.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="467" to="488" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Using Facebook after losing a job: Differential benefits of strong and weak ties</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2013 Conference on Computer Supported Cooperative Work</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Bruckman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Counts</surname></persName>
+		</editor>
+		<meeting>the 2013 Conference on Computer Supported Cooperative Work<address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="1419" to="1430" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The relationship between Facebook use and well-being depends on communication type and tie strength</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jc—c4.12162</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="265" to="281" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Like as social support: Relational closeness, automaticity, and interpreting social support from paralinguistic digital affordances in social media</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Wohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hayes</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.03.087</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="385" to="393" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Meta-analysis of the relationships between social support and well-being in children and adolescents</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Saucier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hafner</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2010.29.6.624</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social &amp; Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="624" to="645" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Statistical power analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Hillsdale, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A global measure of perceived stress</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kamarck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mermelstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="385" to="396" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Social support and health</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Syme</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>Orlando, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Personality, culture, and subjective well-being: Emotional and cognitive evaluations of life</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Lucas</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/an—nurev.psych.54.101601.145056</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="403" to="425" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Reinforcement or displacement? The reciprocity of FtF, IM, and SNS communication and their effects on loneliness and life satisfaction</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dienlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Masur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jc—c4.12183</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="71" to="87" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dunkel-Schetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Call</surname></persName>
+		</author>
+		<title level="m">UCLA social support inventory</title>
+		<meeting><address><addrLine>Los Angeles</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished manuscript</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sociality through Social Network Sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of internet studies</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dutton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="151" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Calling all Facebook friends: Exploring requests for help on Facebook</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fiore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 7th Annual International Conference on Weblogs and Social Media</title>
+		<meeting>the 7th Annual International Conference on Weblogs and Social Media</meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="155" to="164" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">DC: Association for the Advancement of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">Washington</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &quot;friends&quot;: Social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00367.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Cultivating social resources on social network sites: Facebook relationship maintenance behaviors and their role in social capital processes</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jc—c4.12078</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="855" to="870" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Exploring the relationships between different types of Facebook use, perceived online social support, and adolescents&apos; depressed mood</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439314567449</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="153" to="171" />
+			<date type="published" when="2015">2015a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Toward an integrated and differential approach to the relationships between loneliness, different types of Facebook use, and adolescents&apos; depressed mood</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650215617506</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research. Advance online publication</title>
+		<imprint>
+			<date type="published" when="2015">2015b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Granovetter</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2776392</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1360" to="1380" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Work stress and social support</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>House</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Addison-Wesley</publisher>
+			<pubPlace>Reading, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Let the weakest link go! Empirical explorations on the relative importance of weak and strong ties on social networking sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Krämer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rösner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eimler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Neubaum</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/—soc4040785</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Societies</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Envy on Facebook: A hidden threat to users&apos; life satisfaction</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Widjaja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buxmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 11th International Conference on Wirtschaftsinformatik</title>
+		<meeting>the 11th International Conference on Wirtschaftsinformatik<address><addrLine>Leipzig, Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shablack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/jour—nal.pone.0069841</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Always use Welch&apos;s t-test instead of Student&apos;s t-test</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lakens</surname></persName>
+		</author>
+		<ptr target="http://daniellakens.blogspot.de/2015/01/always-use-welchs-t-test-instead-of.html" />
+		<imprint>
+			<date type="published" when="2015-01-26">2015. January 26</date>
+		</imprint>
+	</monogr>
+	<note>Web log post</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Social capital: A theory of social structure and action</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Longitudinal structural equation modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A metaanalysis of social networking online and social capital</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Ainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Baumeister</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/gpr0000091</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Review of General Psychology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="369" to="391" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Power and sensitivity of alternative fit indices in tests of measurement invariance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Meade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Braddy</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0021-9010.93.3.568</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="568" to="592" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Linking network structure to support messages: Effects of brokerage and closure on received social support</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cox</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12268</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="982" to="1006" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Research on social networking sites and social support from 2004 to 2015: A narrative review and directions for future research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Holmstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cox</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/—cy—ber.2016.0325</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="51" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prestin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>So</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/—cy—ber.2012.0521</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Facebook friends with (health) benefits? exploring social network site use and perceptions of social support, stress, and well-being</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="721" to="727" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Application and results of the Manchester Short Assessment of Quality of Life (MANSA)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Priebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Huxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Evans</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002076409904500102</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Social Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Authenticity and well-being on social network sites: A two-wave longitudinal study on the effects of online authenticity and the positivity bias in SNS communication</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.07.030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="95" to="102" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">lavaan: an R package for structural equation modeling</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rosseel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The multidimensional nature of received social support in gay men at risk of HIV infection and AIDS</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwarzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dunkel-Schetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kemeny</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF02506869</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="319" to="339" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Applied longitudinal data analysis: Modeling change and event occurrence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Willett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Mechanisms linking social ties and support to physical and mental health</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Thoits</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0022146510395592</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="161" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Influence of social support received in online and offline contexts on satisfaction with social support and satisfaction with life: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dienlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2013.838904</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="74" to="105" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">How social capital and social support received in media environments contribute to wellbeing</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trepte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge handbook of media use and well-being: International perspectives on theory and research on positive media effects</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Oliver</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="304" to="316" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Social support and physical health: Understanding the health consequences of relationships</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Uchino</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Informational benefits from social media use for professional purposes: Results from a longitudinal study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Breuer</surname></persName>
+		</author>
+		<idno type="DOI">10.5817/CP2016-4-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Is there social capital in a social network site?: Facebook use and college students&apos; life satisfaction, trust, and participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kee</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2009.01474.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="875" to="901" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Online coping after negative life events</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Ingen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Toepoel</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439315600322</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="511" to="529" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shablack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orvell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000057</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Do social network sites enhance or undermine subjective well-being? A critical review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Résibois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jonides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/sipr.12033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Issues and Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="274" to="302" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">There&apos;s a network out there you might as well tap&apos;: Exploring the benefits of and barriers to exchanging informational and support-based resources on Facebook</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444812451566</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="243" to="259" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Different strokes from different folks: Community ties and social support</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wortley</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/229572</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="558" to="588" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Perceived support, received support, and adjustment to stressful life events</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wethington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kessler</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2136504</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="78" to="89" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Accepted</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-05-10">May 10, 2017 Published online September 1, 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Her research focuses on the effects of social media use in interpersonal and professional settings. Johannes Breuer is a postdoctoral researcher at GESIS -Leibniz Institute for the Social Sciences in Cologne</title>
+	</analytic>
+	<monogr>
+		<title level="m">His research interests include the effects of digital games, learning with new media, and methods of media effects research</title>
+		<meeting><address><addrLine>Germany; Germany</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>Sonja Utz Knowledge Media Research Center 72076</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

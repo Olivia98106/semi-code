@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Does ‘clicking’ matter? The role of online participation in adolescents’ civic development</title>
+				<funder ref="#_xzwz4S8">
+					<orgName type="full">Czech Science Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Masaryk University Press</publisher>
+				<availability status="unknown"><p>Copyright Masaryk University Press</p>
+				</availability>
+				<date type="published" when="2017-12-30">2017-12-30</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Hana</forename><surname>Machackova</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Social Studies</orgName>
+								<orgName type="institution">Masaryk University</orgName>
+								<address>
+									<settlement>Brno</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jan</forename><surname>Šerek</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Social Studies</orgName>
+								<orgName type="institution">Masaryk University</orgName>
+								<address>
+									<settlement>Brno</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Does ‘clicking’ matter? The role of online participation in adolescents’ civic development</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+						<title level="j" type="abbrev">CP</title>
+						<idno type="eISSN">1802-7962</idno>
+						<imprint>
+							<publisher>Masaryk University Press</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2017-12-30" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A934A23092F13A0F39AD2DA70315BCB2</idno>
+					<idno type="DOI">10.5817/cp2017-4-5</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Online participation</term>
+					<term>adolescence</term>
+					<term>civic development</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study focuses on the role of online civic participation in the civic development of adolescents. We build on the assumption that online civic participation differs from more traditional offline civic participation in several key characteristics, namely lacking proximity to other actors, possible disconnection between civic actions and their outcomes, and a reduced hierarchy within the online environment. Considering these specifics, the study examined the longitudinal effect of online participation on the development of civic identity, political self-efficacy, and attitudes toward social authorities. Concurrently, we contrasted the impact of online participation with the impact of offline civic participation. Data from a survey-based two-wave panel study conducted in Spring 2014 and Autumn 2015 in the Czech Republic were utilized. The sample comprised 768 adolescents (aged 14-17 in T1; 54% females). The results showed that online participation predicted increased challenging attitudes towards social authorities, while offline participation had the opposite effect. Furthermore, online participation had no effect on political self-efficacy or civic development, but offline participation positively predicted civic identity. The findings are discussed with regard to the specific benefits and limits of online civic participation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Civic development is the process during which people become aware of public issues, develop their sociopolitical attitudes, and engage in various civic and political activities (e.g., <ref type="bibr">Sherrod, Torney-Purta, &amp; Flanagan, 2010;</ref><ref type="bibr" target="#b86">Yates &amp; Youniss, 1998;</ref><ref type="bibr" target="#b88">Zaff, Malanchuk, &amp; Eccles, 2008)</ref>. These activities are usually conceptualized as political and civic participation, though the specific conceptualizations differ across various studies. As noted in review conducted by <ref type="bibr" target="#b51">Lutz, Hoffmann, and Meckel (2014)</ref>, common definition of political participation is one articulated by <ref type="bibr">Verba, Schlozman, and Brady (1995, p.7)</ref>, denoting it as an "activity that is intended to or has the consequences of affecting, either directly or indirectly, government action". Civic participation is defined in a broader sense, such as "citizens' individual and collective involvement in public affairs" <ref type="bibr">(Park &amp; Perry, 2008, p. 191)</ref>. Although civic development can be understood as a never-ending, life-long process, numerous scholars pointed out the prominent role of adolescence in it (for a review, see <ref type="bibr" target="#b67">Sears &amp; Brown, 2013)</ref>. The main explanation is that adolescents, compared to older age groups, are characterized by a relative openness to socialization influences and subsequent attitude changes <ref type="bibr" target="#b1">(Alwin &amp; Krosnick, 1991;</ref><ref type="bibr" target="#b45">Krosnick &amp; Alwin, 1989)</ref>. In this context, there has been a growing emphasis on the fact that adolescents develop their sociopolitical attitudes not only through the transmission of attitudes from their families, schools, or media, but also through their own civic participation <ref type="bibr" target="#b65">(Quintelier &amp; van Deth, 2014)</ref>. Although adolescents are typically not eligible to vote, they can become engaged in public issues through other activities, such as taking part in political discussions, doing voluntary work for civil associations, signing petitions, or wearing clothing and accessories with social or political messages. It has been proposed that through these civic activities, young people might develop their civic identities <ref type="bibr" target="#b86">(Yates &amp; Youniss, 1998)</ref>, sense of agency <ref type="bibr" target="#b7">(Beaumont, 2010;</ref><ref type="bibr">2011)</ref>, or other sociopolitical attitudes <ref type="bibr" target="#b65">(Quintelier &amp; van Deth, 2014)</ref>.</p><p>However, participatory activities differ in their impact on civic development. The recent debates often centered on the role of the internet activities and online participation. Online participation is analogous to offline participation, however, it is enhanced by conducting specific actions in the online environment, such as through social media (see <ref type="bibr" target="#b51">Lutz et al., 2014)</ref>. Additionally, as online and offline civic participation differ in several characteristics, such as the extent of interpersonal contact, it may lead to diverse civic outcomes in younger people. Previous research has highlighted both positive and negative potential of internet use and online participation in relation to young people's civic life <ref type="bibr" target="#b3">(Bakker &amp; de Vreese, 2011;</ref><ref type="bibr" target="#b11">Buckingham, 2008;</ref><ref type="bibr" target="#b20">Dahlberg, 2007;</ref><ref type="bibr" target="#b21">Dahlgren, 2005</ref><ref type="bibr" target="#b22">Dahlgren, , 2009;;</ref><ref type="bibr">Chadwick &amp; Howard, 2010;</ref><ref type="bibr" target="#b57">Mossberger, Tolbert, &amp; McNeal, 2007;</ref><ref type="bibr" target="#b71">Smith, Schlozman, Verba, &amp; Brady, 2009)</ref>. However, we are still lacking evidence on the impact of adolescents' online civic participation on the changes in their attitudes. In this study, we examine the longitudinal effects of youth civic participation on their civic identity, political self-efficacy, and attitudes toward social authorities. To understand the effects of online civic participation in a broader context, we contrast them with the effects of offline civic participation. Specifically, though both participatory types are often part of one complex participatory pattern, in our analysis we investigate their single effects independently one each other to gain a deeper understanding of their specificities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Civic Participation</head><p>The rapid spread of the internet has created the possibility of participating in civic actions not only offline but also via online channels and platforms. This form of participation has quickly gained attention, especially in relation to youth <ref type="bibr" target="#b9">(Bennett, 2008;</ref><ref type="bibr" target="#b12">Buckingham &amp; Willett, 2006;</ref><ref type="bibr" target="#b49">Livingstone, Couldry, &amp; Markham, 2007)</ref>. Many online civic actions are, to some extent, analogous to offline ones, e.g. signing online petitions, discussing issues online, or expressing support for a political party on the website. Others can be more specific to the online environment, e.g. creating an interactive website centered on a certain political issue.</p><p>What is common to all online activities is that they are shaped by the specific affordances of the online environment. The use of the term affordance varies among scholars (see, e.g. <ref type="bibr" target="#b58">Nagy &amp; Neff, 2015)</ref>, however, crucial is the notion that diverse properties and qualities of the media and online environment can shape social behavior, including online participation. Some of the key characteristics of participation in the online environment are mentioned as beneficial and favorable: online activities are easily-accessed and low-cost, relatively open to content creation, enable encounters with diverse people, information, opinions and arguments, which can enhance awareness and interest <ref type="bibr" target="#b22">(Dahlgren, 2009;</ref><ref type="bibr">Chadwick &amp; Howard, 2010)</ref>. Moreover, the online environment has a potential for increased networking, information dissemination, and mobilization. It is favorable to less hierarchical and more democratic participation (e.g., in online discussions) and to the confrontation of diverse arguments <ref type="bibr" target="#b22">(Dahlgren, 2009;</ref><ref type="bibr" target="#b49">Livingstone et al., 2007;</ref><ref type="bibr" target="#b60">Östman, 2012;</ref><ref type="bibr" target="#b83">Wojcieszak &amp; Mutz, 2009)</ref>. Recent studies have focused on the potential of social media. For instance, boyd (2010) discusses new affordances of networked technologies, which affect social acts. These include persistence, replicability, scalability (i.e., potential visibility), and searchability of diverse content, such as information, materials, or expressions. As boyd states, these affordances introduce new dynamics which shape "networked publics": invisible audiences, collapsed contexts, and blurring of the private and the public. Considering these affordances, social media can impact numerous forms of online participation from opinion expressions, discussions, information sharing, and mobilizing for collective action <ref type="bibr" target="#b44">(Kim, Hsu, &amp; de Zúñiga, 2013;</ref><ref type="bibr" target="#b78">Valenzuela, 2013;</ref><ref type="bibr" target="#b82">Warren, Sulaiman, &amp; Jaafar, 2014;</ref><ref type="bibr" target="#b85">Xenos, Vromen, &amp; Loader, 2014)</ref>.</p><p>All these features of online civic participation can be advantageous compared to offline participation, especially for the youth <ref type="bibr" target="#b50">(Livingstone, 2009)</ref>. Majority of adolescents cannot engage in a prominent offline civic activity, voting, and their offline participation can be limited by the lack of resources and constraints of parents or school <ref type="bibr" target="#b37">(Hirzalla &amp; van Zoonen, 2011)</ref>. The online environment can represent an environment where the youth can engage more independently. Considering that large number of adolescents are equipped with sufficient digital skills for basic operations on the internet, (though differences still exist related to engagement and performance of diverse activities, including politics; <ref type="bibr" target="#b36">Hargittai, 2010;</ref><ref type="bibr" target="#b55">Min, 2010)</ref> and are frequent users of digital technology and social media <ref type="bibr" target="#b47">(Lenhart, 2015;</ref><ref type="bibr" target="#b74">Subrahmanyam &amp; Smahel, 2011;</ref><ref type="bibr" target="#b77">Tsitsika et al., 2014)</ref>, the internet can provide an open and accessible ground for civic activities. For example, in the Czech Republic, from where this study originates, the internet is accessible to most young people. According to the Czech Statistical Bureau, in 2014 (the year of the first data collection), 93% of households with children had internet access; moreover, 92% of people aged 16-24 used social network sites in the previous three months (Český statistický úřad, n.d.). However, online political participation is, on average, less common (in 2014, 7% of adults used internet for political activities such as online petitions, online communication with a politician, and online support to a political candidate, party, or event; <ref type="bibr" target="#b52">Macková &amp; Macek, 2015)</ref>. This is in line with the generally lower level of institutionalized and non-institutionalized political participation in Central and Eastern European countries as compared to Western European countries <ref type="bibr" target="#b38">(Hooghe &amp; Quintelier, 2014)</ref>.</p><p>Nevertheless, affordances of the online environment and consequently online form of participation received also consideration related to the possible drawbacks. A first possible drawback concerns the often-mentioned ease of performing online actions without constraints of spatial barriers. Besides its advantages, this characteristic of the online environment also means that online actions are usually conducted at a physical distance from others, without mutual visibility <ref type="bibr" target="#b6">(Bargh &amp; McKenna;</ref><ref type="bibr" target="#b75">2004)</ref>. These features can diminish subjective connection to the targeted issues as well as the commitment put into the (less effortful) actions. The features of online participation can also affect perceptions of the effectiveness of the online actions. The external efficiency, i.e., the actual effect of online participation on targeted or pursued goals, has often been questioned. Though the empirical evidence is scarce (as pointed out by <ref type="bibr" target="#b81">Vissers and Stolle, 2014)</ref>, the doubts concerning the external efficiency of online participation have been reflected and studied under the concept of slacktivism or clicktivism, which denote the views on online participation as having no real-life impact besides an individual's selfsatisfaction <ref type="bibr" target="#b17">(Christensen, 2011;</ref><ref type="bibr" target="#b51">Lutz et al., 2014;</ref><ref type="bibr" target="#b56">Morozov, 2011;</ref><ref type="bibr" target="#b73">Štětka &amp; Mazák, 2014)</ref>. Furthermore, the potential for creating a more democratic environment unconstrained by authorities has also its downside in the form of increased un-civility, hostility, and the absence of actual debate. These outcomes might be more likely online than offline given the possibility of concealing one's identity and the lack of authority figures moderating ongoing debates <ref type="bibr" target="#b25">(Edwards, 2002;</ref><ref type="bibr" target="#b46">Lampe, Zube, Lee, Park, &amp; Johnston, 2014;</ref><ref type="bibr" target="#b75">Suler, 2004;</ref><ref type="bibr" target="#b84">Wright &amp; Street, 2007)</ref>. Moreover, the potential to encounter diverse individuals, opinions, and information is not necessarily realized. It is possible that despite the almost unlimited choice of diverse sources, individuals can select online groups and information that are simply confirming pre-existing perspectives, values, and opinions <ref type="bibr" target="#b34">(Garrett, 2009;</ref><ref type="bibr" target="#b42">Kahne, Middaugh, Lee, &amp; Feezell, 2012;</ref><ref type="bibr" target="#b83">Wojcieszak &amp; Mutz, 2009)</ref>. There is also a vast quantity of misleading or false information, including "fake news" or "clickbaits" <ref type="bibr" target="#b14">(Chen, Conroy, &amp; Rubin, 2015;</ref><ref type="bibr" target="#b76">Tandoc et al., 2017)</ref>, which creates biased impressions concerning civic and political issues. Additionally, the diverse and simply reachable online resources that are available include those that are directly anti-democratic, e.g. groups spreading extremist attitudes <ref type="bibr" target="#b19">(Costello, Hawdon, Ratliff, &amp; Grantham, 2016;</ref><ref type="bibr" target="#b63">Pauwels &amp; Schils, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Effect of Online Participation on Civic Development</head><p>Following this debate, prior research investigated differences and similarities between online and offline participation <ref type="bibr" target="#b35">(Gibson &amp; Cantijoch, 2013;</ref><ref type="bibr" target="#b37">Hirzalla &amp; van Zoonen, 2011;</ref><ref type="bibr" target="#b40">Jugert, Eckstein, Noack, Kuhn, &amp; Benbow, 2013;</ref><ref type="bibr" target="#b59">Oser, Hooghe, &amp; Marien, 2013;</ref><ref type="bibr" target="#b68">Šerek &amp; Machackova, 2014;</ref><ref type="bibr" target="#b81">Vissers &amp; Stolle, 2014)</ref>. Specific attention was paid to the question of how online participation affects youth civic development. This issue has been addressed by the examination of links between youth's political use of the internet and their civic or political participation. For example, <ref type="bibr" target="#b64">Quintelier and Vissers (2008)</ref> showed in a sample of 16-year old respondents in Belgium that forwarding political e-mails was positively linked with offline political participation. A panel survey among Swedish adolescents showed that online political interaction increased both online and offline participation <ref type="bibr" target="#b26">(Ekström &amp; Östman, 2013)</ref>. In another panel study on a sample of US high school students, <ref type="bibr" target="#b41">Kahne, Lee, and Feezell (2013)</ref> found that politically driven online participation was linked with greater political action and expression and campaign participation, but it was not related to civic participation or voting. Therefore, prior studies suggested the link between online activities and greater future participatory behavior. However, we still lack evidence about the specific effects of online participation on adolescents' civic attitudes. In the present study, we focused on the development of the following attitudes: civic identity, political self-efficacy, and attitudes towards social authorities. These attitudes reflect the motivation to engage in societal issues, shape orientation towards the society (and its leaders), and define the assessment of own capabilities in the pursuit of societal change. Thus, they are essential factors underlying civic behavior. Considering the specific factors of online participation, specifically the lack of proximity to other actors, disconnection between civic actions and the outcomes, and a reduced hierarchy within the online environment <ref type="bibr" target="#b6">(Bargh &amp; McKenna, 2004;</ref><ref type="bibr" target="#b75">Suler, 2004;</ref><ref type="bibr" target="#b79">Valkenburg, Peter, &amp; Walther, 2016)</ref>, we suggest that each of these attitudes can be impacted differently by the online and offline participation. In the text below, we introduce how these attitudes can be affected by participation in an online environment and specify our research questions regarding these attitudes.</p><p>Civic identity. First, by participating in collective civic actions, adolescents can develop psychological connections and a sense of responsibility to their fellow citizens, sometimes referred to as civic identity <ref type="bibr" target="#b2">(Atkins &amp; Hart, 2003;</ref><ref type="bibr" target="#b87">Youniss, McLellan, &amp; Yates, 1997)</ref>. Such development could be enhanced by the contact and a direct hands-on cooperation with people or groups coming from different backgrounds and facing diverse problems. However, online participation is mediated via online channels and is conducted at a relative distance from the people it concerns, including individuals as well as whole groups or communities. Hence, the contact often lacks direct interactions or non-verbal communicative cues <ref type="bibr" target="#b6">(Bargh &amp; McKenna, 2004;</ref><ref type="bibr" target="#b79">Valkenburg et al., 2016)</ref>. Consequently, the effect of online participation on the development of civic identity might be limited, particularly when compared with the effects of offline participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ1: Does online participation predict changes in civic identity?</head><p>Political self-efficacy. Another important component in civic development is the formation of internal political self-efficacy, i.e. a "personal belief regarding the ability to achieve desired results in the political domain through personal engagement and an efficient use of one's own capacities and resources" <ref type="bibr" target="#b13">(Caprara, Vecchione, Capanna, &amp; Mebane, 2009;</ref><ref type="bibr">p. 1002)</ref>. One of the most important ways through which self-efficacy is developed are mastery experiences, that is situations when individuals successfully achieve desired goals and attribute their success to their own abilities <ref type="bibr" target="#b4">(Bandura, 1997;</ref><ref type="bibr" target="#b8">Beaumont, 2011;</ref><ref type="bibr">Pajares &amp; Urdan, 2006)</ref>. Online participation might boost self-efficacy because it decreases participatory barriers and provides opportunities to take an active part in the civic processes even for those who would refrain from doing so offline <ref type="bibr" target="#b43">(Kenski &amp; Stroud, 2006)</ref>. However, selfefficacy is not dependent only upon engaging in the activities per se but depends also on subjective interpretations of one's accomplishments. Online participation may involve an absence of a connection to "visible" outcomes. Online actions are performed in a mediated environment, at a distance from the actors, raising the question of whether it can bring "tangible benefits" similar to offline interaction <ref type="bibr" target="#b69">(Shah, Cho, Eveland, &amp; Kwak, 2005)</ref>. Moreover, online environments offer not only a venue for participation but also multiple other activities (notably communication and entertainment), diverting users' attention from the pursued issues <ref type="bibr" target="#b27">(Ekström, Olsson, &amp; Shehata, 2014)</ref>. Considering also the expressed doubts about the lack of external efficiency of online participation, that is whether is online participation efficient in the achievement of stated goals, involvement in online participatory activities can result in lack of a sense of accomplishment due to the disconnection from visible or tangible outcomes. Thus, we can ask whether online participation substantially contributes to political self-efficacy development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ2: Does online participation predict changes in political self-efficacy?</head><p>Attitudes toward social authorities. Finally, participation might be related to the development of adolescents' attitudes toward authorities or non-conventional behavior challenging prevailing rules and systems. These are reflected, for example, in the acceptance of non-conventional civic participation or, on the contrary, authoritarianism, i.e. beliefs in coercive social control, respect for authorities, and conformity to traditions <ref type="bibr" target="#b23">(Duckitt, 2009)</ref>. As described above, the online environment diminishes barriers (and inhibition of selfexpression) based on authority <ref type="bibr" target="#b75">(Suler, 2004)</ref>. In this sense, the internet potentially presents an environment enabling free speech of diverse actors, providing them with opportunities for challenging and contesting authorities <ref type="bibr" target="#b0">(Akdeniz, 2002;</ref><ref type="bibr" target="#b21">Dahlgren, 2005;</ref><ref type="bibr" target="#b20">Dahlberg, 2007;</ref><ref type="bibr" target="#b66">Savigny, 2002)</ref>. The internet also provides opportunities for increased awareness about the complexity of social issues by confrontation with diverse and non-conventional experiences and opinions <ref type="bibr" target="#b10">(Brundidge, 2010)</ref>. Therefore, we presume that online participation may increase people's acceptance of non-conventional behavior and make them less authoritarian, i.e. more vigilant toward social authorities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ3: Does online participation predict changes in political self-efficacy?</head><p>Differences from offline participation. Finally, all effects are considered not only with regard to selected attitudes, but also in comparison to the effects of offline participation. Though in many cases, civic participation is realized in both online and offline realm, questions prevail regarding the specific effects of online activities. Thus, our analysis will investigate the effect of both these participatory types independently, to assess whether their effects differ.</p><p>RQ4: Does online participation affect socio-political attitudes differently than offline participation?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aim of the Study</head><p>This study´s aim is to enhance our understanding of the role of online participation in adolescents' civic development. Specifically, we investigate how participatory activities affect the development of civic identity, political self-efficacy, and attitudes toward systems and authorities. To put the development of these characteristics in context, we concurrently examine the effect of participation in traditional, offline activities. In our investigation, we also control for possible effects of gender and school track, as these variables may diversify participatory patterns <ref type="bibr" target="#b18">(Cicognani, Zani, Fournier, Gavray &amp; Born, 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants and Procedure</head><p>Data were taken from a broader longitudinal study conducted in the Czech Republic in mid-2014 (T1) and 1.5 year later (T2). This Central European country was a part the Eastern Block of communist countries until 1989 and today it is a member of the European Union (since 2004) with relatively advanced democracy (e.g., classified as a free country by the Freedom House or as a flawed democracy by the Economic Intelligence Unit; Economist Intelligence Unit, 2017; Freedom House, 2017). A random cluster sampling of schools was used within four (out of 14) Czech regions. The sample at T1 consisted of 1,137 high school students (53% females) aged 14 to 17 at T1 (M = 15.99; SD = 0.55), out of which 768 participated in both data collections and were included in the analyses (54% females; M = 15.99; SD = 0.55). Two-thirds of the students (67% in the original sample, 66% in the final sample) were from vocationally oriented high schools, while others were from academically oriented grammar schools.</p><p>Based on the preference of the school, paper (43%) or online (57%) questionnaires were administered at schools under the supervision of trained administrators. Students completed the questionnaire in one school hour (45 minutes) as a part of their classes and were not financially or materially rewarded for their participation. All foreign scales were translated into Czech using the translation back-translation procedure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Online and offline civic participation (T1). Measures of participation were developed by the authors of the study. Respondents were asked whether they participated, in the past 12 months, in "activities linked to some social, local, environmental, or political issue". Six items captured online participation: signing an online petition (P1); expressing an opinion through a social network site (P2); trying to persuade somebody in an online discussion (P3); writing an online article or blog (P4); creating an SNS group or webpage (P5); voting in an online opinion poll (P6). Eight items measured offline participation: signing a printed petition (P7); taking part in demonstrations or protests (P8); helping an organization (P9); taking part in a cultural event (P10); distributing leaflets, posters or other materials (P11); wearing a T-shirt, badge or other symbol (P12); trying to persuade somebody in personal discussion (P13); leading a group of people (P14). The questions were responded to on an ordinal response scale consisting of "never" ( = 1), "once" ( = 2), "twice" ( = 3) and "more than twice" ( = 4). In total, 62% participants did at least one online activity and 79% at least one offline activity (see Table <ref type="table" target="#tab_0">1</ref> for more details). For most activities, the frequencies of involvement did not significantly differ (Mann-Whitney U test, ps&gt;.05) between adolescents who were included in the longitudinal analyses (n = 768) and those who participated only at T1 (n = 369). The exceptions were wearing a T-shirt, badge or other symbol, which was more common for adolescents included in the analyses (p&lt;.05), and writing an online article or blog, which was more common for adolescents who were not included (p&lt;.05). Civic identity (T1 and T2). Three items were used to measure civic identity: "When you think about your life and your future, how important is it to you personally to (a) help the other ones, who had been less lucky (CI1); (b) do something to improve community (CI2); and (c) to help your own country (CI3)?" <ref type="bibr" target="#b30">(Flanagan, Bowes, Jonsson, Csapo, &amp; Sheblanova, 1998;</ref><ref type="bibr" target="#b31">Flanagan et al., 1999)</ref>. A four-point response scale ranged from "not important at all" ( = 1) to "very important" ( = 4). M T1 = 3.00; M T2 = 2.92.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political self-efficacy (T1 and T2</head><p>). The scale was constructed based on general guidelines for creating selfefficacy scales <ref type="bibr" target="#b5">(Bandura, 2006)</ref> and other political self-efficacy measures <ref type="bibr" target="#b13">(Caprara et al., 2009;</ref><ref type="bibr" target="#b72">Sohl &amp; Arensmeier, 2015)</ref>. Adolescents assessed whether they believed they could carry out four political activities in the place where they lived. Items were: "organize a demonstration (PE1)," "organize a petition (PE2)," "negotiate with local politicians (PE3)," "lead a group of people that is enforcing a certain cause (PE4)." Four-point response scales ranged from "absolutely disagree" ( = 1) to "absolutely agree" ( = 4). M T1 = 2.30; M T2 = 2.29.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acceptance of non-conventional activism (T1 and T2</head><p>). Adolescents' acceptance of non-conventional forms of political activism, our first indicator of attitudes towards social authorities, was measured by three items loosely based on measures of repressive potential <ref type="bibr" target="#b29">(Finkel, Sigelman, &amp; Humphries, 1999;</ref><ref type="bibr" target="#b53">Marsh &amp; Kaase, 1979)</ref>. Items were: "Protesters who disregard the police should always be punished hard (AN1)," "We should eliminate so called activists who only criticize the government but don't actually do anything (AN2)," and "Demonstrations and protests at squares should be under stricter control (AN3)." Four-point response scales ranged from "absolutely disagree" ( = 1) to "absolutely agree" ( = 4). All items were reversed so that a higher score indicates higher acceptance of non-conventional activism. M T1 = 2.47; M T2 = 2.40.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authoritarianism (T1 and T2</head><p>). The second indicator of attitudes towards social authorities, specifically adolescents' compliance with social authorities and traditions, was measured by six items selected from the scale of right-wing authoritarianism <ref type="bibr" target="#b33">(Funke, 2005</ref>; translated to Czech by <ref type="bibr">Ťápal, 2012)</ref>. Sample items: "Obedience and respect for authority are the most important values children should learn" or "The withdrawal from tradition will turn out to be a fatal fault one day." Four-point response scales ranged from "absolutely disagree" ( = 1) to "absolutely agree" ( = 4), a higher score indicates a higher authoritarianism. M T1 = 2.80; M T2 = 2.87.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Four structural equation models predicting changes in civic identity, political self-efficacy, acceptance of nonconventional activism, and authoritarianism were estimated (using robust weighted least squares estimator) using Mplus 6.1 (see Figure <ref type="figure" target="#fig_0">1</ref>). Ordinal indicators of online and offline participation were estimated using probit regressions. Other indicators were treated as continuous and estimated using linear regressions. Indicators of authoritarianism were reduced to three parcels using an item-to-construct balance procedure <ref type="bibr" target="#b48">(Little, Cunningham, Shahar, &amp; Widaman, 2002)</ref>. Occasional missing values were treated using a pairwise present approach.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement Model of Civic Participation</head><p>Confirmatory factor analysis showed that a two factor model assuming two correlated latent variables, representing online and offline activities (χ 2 74 = 216.14; CFI = .96; TLI = .96; RMSEA = .05; WRMR = 1.14), had a better fit than a one-factor model assuming that all activities indicated a single latent dimension (χ 2 75 = 501.54; CFI = .89; TLI = .87; RMSEA = .09; WRMR = 1.82). Standardized factor loadings in the two-factor model ranged from .43 to .91 (all factor loadings can be found in Figures <ref type="figure" target="#fig_2">1 to 4</ref>) and the correlation between the factors was .63. No residual correlations had to be allowed except for correlations between signing online and offline petitions (r = .38) and between trying to persuade somebody online and personally (r = .56). Two indicators of convergent validity -average variance extracted (AVE) and composite reliability (CR) -showed a good validity (AVE&gt;.50 and CR&gt;.70) for online participation (AVE = .62, CR = .90) and a slightly worse but acceptable validity for offline participation (AVE = .43, CR = .85).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement Invariance and Convergent Validity of Outcome Measures</head><p>For each outcome variable, cross-time measurement invariance was tested by comparing a model assuming no invariance over time and a model assuming full metric and scalar invariance (i.e. identical unstandardized factor loadings and intercepts of indicators from T1 to T2). According to <ref type="bibr" target="#b16">Cheung &amp; Rensvold (2002)</ref>, a difference in CFI between the models should be lower than .01 to retain the assumption of invariance. Our analyses showed measurement invariance for all outcomes, that is for civic identity (ΔCFI = .003), political self-efficacy (ΔCFI = .005), acceptance of non-conventional activism (ΔCFI&lt;.001), and authoritarianism (ΔCFI = .003). Thus, all subsequent models were restricted to assume full metric and scalar measurement invariance of outcome variables.</p><p>To further investigate convergent validity of our outcome measures, we computed AVE and CR scores for all outcomes T1 and T2. These indices showed a good validity (AVE&gt;.50 and CR&gt;.70) for civic identity (AVE T1 = .57, CR T1 = .80, AVE T2 = .55, CR T2 = .79), political self-efficacy (AVE T1 = .67, CR T1 = .89, AVE T2 = .68, CR T2 = .89) and authoritarianism (AVE T1 = .65, CR T1 = .85, AVE T2 = .69, CR T2 = .87), and a slightly worse validity for acceptance of non-conventional activism (AVE T1 = .46, CR T1 = .71, AVE T2 = .39, CR T2 = .65).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Effects of Online and Offline Participation</head><p>Results from the main analyses are presented in Figures <ref type="figure" target="#fig_2">1 to 4</ref>. Changes in civic identity were positively predicted by offline but not online participation (which had a weak negative but non-significant effect). On the other hand, changes in the acceptance of non-conventional activism were positively predicted by online but not offline participation. Standardized effects of participation on changes in authoritarianism were greater than .10, online participation predicting authoritarianism negatively while offline participation predicting authoritarianism positively, but they were significant only at the .06 level. Finally, changes in political self-efficacy were not predicted by online or offline participation.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our study investigated the role of online civic participation in adolescents' civic development, specifically in the development of civic identity, political self-efficacy, and attitudes toward social authorities. Results revealed that online and offline civic participation affected the formation of adolescents' attitudes differently.</p><p>The findings showed that the development of civic identity (the sense of connection and responsibility to fellow citizens) was not affected by online participation, but it was positively predicted by offline participation. The lack of an effect of online participation could be explained by its specific character: online participation is typically performed at a relative distance from other people, demanding no direct interactions or hands-on cooperation.</p><p>As suggested by <ref type="bibr" target="#b54">Metz, McLellan, and Youniss (2003)</ref>, youth concern for the broader society and fellow citizens is often raised through direct participation in activities within a communal or organizational context that explicitly expresses pro-societal stances and norms. Such direct exposure typically accompanies many offline activities, such as volunteering for civic organizations or organizing public protests. On the other hand, these experiences might be limited or even lacking in online participation that involves virtual forms of interpersonal contact.</p><p>Next, our findings suggested no effect of online or offline participation on adolescent's political self-efficacy. This finding might be considered surprising because adolescents' practicing of their civic skills via both types of participation should help them to gain mastery experiences that, consequently, would increase their confidence in their own capabilities <ref type="bibr" target="#b7">(Beaumont, 2010)</ref>. Consistent with our expectations, one explanation for our findings regarding online participation could be that online activities provide only a limited number of opportunities to feel a sense of accomplishment, which is one of the important factors in the development of self-efficacy <ref type="bibr" target="#b4">(Bandura, 1997)</ref>. However, considering that offline activities also did not have any effect on participants' political self-efficacy, alternative explanations seem to be more plausible. One of them is that the one and half year time lag between our first and second measurement was too short to provide adolescents with enough mastery experiences that would affect their sense of efficacy. Another explanation concerns our measurement of political self-efficacy, which was relatively narrowly focused only on some types of civic activities, such as organizing a demonstration or negotiating with politicians. It is possible that if we had included measures of political self-efficacy better reflecting adolescents' actual civic behaviors (e.g., self-efficacy regarding voluntary work), the association between participation and the changes in self-efficacy beliefs could be found.</p><p>Finally, we found an effect of online, but not offline, participation on a greater acceptance of non-conventional, authority-challenging activism. Similarly, we found a weak effect of online participation on more negative attitudes towards social authorities and conventions, that is lower authoritarianism. The effect of offline participation on authoritarianism was exactly the opposite, but it should be noted that both effects on authoritarianism were not significant and thus should be treated only with caution. These findings outline a general trend in which online participation seems to rather enhance attitudes challenging systems and authorities, while offline participation decreases them. To take an optimistic perspective on the findings, we might interpret them by focusing on the beneficial effects of the online environment on youth development. Such an interpretation would emphasize that participating online can lead to the development of more independent and novel opinions through experiences with diverse online information resources <ref type="bibr" target="#b42">(Kahne et al., 2012)</ref>, online debates and argumentations, or active participation in the environment with less authority-or power-based barriers <ref type="bibr" target="#b21">(Dahlgren, 2005</ref><ref type="bibr">(Dahlgren, , 2013;;</ref><ref type="bibr" target="#b20">Dahlberg, 2007;</ref><ref type="bibr" target="#b66">Savigny, 2002)</ref>. This could support positive views of online participation as a mean to enhance deliberation: to increase general awareness <ref type="bibr" target="#b69">(Shah et al., 2005)</ref>, develop more open yet critical perspectives on societal issues, and promote decreased compliance toward authorities, development of autonomy, and individuation <ref type="bibr" target="#b28">(Fenton &amp; Barassi, 2011)</ref>. However, we should not dismiss also a less optimistic interpretation. In our results, online participation did not predict changes in civic identity, which means that growing individuation is probably not accompanied by increasing social concern. Hence, a question remains as to whether the non-conventional and authority-challenging attitudes, developed through online participation, are oriented towards contributing to the common good (e.g., by challenging social injustice), or whether they might result, for instance, in greater acceptance of radically intolerant attitudes.</p><p>This study outlined the potential effect of online participation on youth civic development. Among the study's strengths are the large sample size and panel design. However, the study also has several limitations. The first limitation is the self-reported format of the data, which might be in future studies overcome by triangulation of more methods (e.g., by supplementing the survey data with interviews, or by consensual records of actual online behavior). Furthermore, we studied only three selected components related to civic development, yet there are other factors that can help our understanding of this process (e.g., the above-mentioned civic self-efficacy). Also, our conceptualization of online and offline civic participation captured only a limited range of activities, while others were not included. For instance, capturing a greater number of protest activities would help to deepen our insight into the examined developmental effects. Moreover, the answer scale for these activities was ordinal and did not distinguish more frequent participatory activities. Although the overall intensity of participation is partially captured via the overall involvement in the number of activities, the absence of the measurement of the more frequent participation poses a limitation and may be the reason why we did not detect some of the studied effects. Additionally, some non-significant effects might be caused by the fact that the link is not direct. We focused solely on the effect of participation; however, civic development is also affected by other factors, for example the social environment and the overall context (see e.g. <ref type="bibr" target="#b88">Zaff, Malanchuk, &amp; Eccles, 2008)</ref>, which, besides their own direct effect, can shape the effect of participation on civic development. Future studies are encouraged to include these factors to better understand youth civic development. Finally, since our data originate from the Czech Republic, our findings should be generalized to countries with similar political and democratic climate and rates of internet penetration.</p><p>Despite these limitations, our study contributes to the understanding of civic development in youth. Our findings support the presumption that the performed actions promote the development of certain characteristics connected to civic life. We also showed that the effect of online participatory activities is different from offline ones: they enhance the development of attitudes challenging social authorities but have no effect on the development of civic identity (which was increased via offline participation) and political self-efficacy (which was not linked with offline participation either). These findings highlight contributions and limits of online participation in adolescents' civic development, which should be reflected in further debates about the consequences of engagement in different types of participatory activities. Specifically, it should be recommended to encourage youth to engage in both forms of activities, since each form provides specific opportunities for the civic development; while engagement in online participatory activities solely is limited in this regard.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Structural model predicting changes in civic identity. Model fit: χ 2 201 = 501.01, CFI = .93, TLI = .92, RMSEA = .04, WRMR = 1.33. Effects of academic school track (β = -.01; p&gt;.05) and female gender (β = .22; p&lt;.01) on civic identity at T2 were controlled. Standardized coefficients are presented. * p&lt;.05. ** p&lt;.01.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .Figure 3 .</head><label>23</label><figDesc>Figure 2. Structural model predicting changes in political self-efficacy. Model fit: χ 2 245 = 562.57, CFI = .93, TLI = .93, RMSEA = .04, WRMR = 1.25. Effects of academic school track (β = .05; p&gt;.05) and female gender (β = -.01; p&gt;.05) on political self-efficacy at T2 were controlled. Standardized coefficients are presented. * p&lt;.05. ** p&lt;.01.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Structural model predicting changes in authoritarianism. Model fit: χ 2 201 = 413.15, CFI = .95, TLI = .95, RMSEA = .04, WRMR = 1.18. Effects of academic school track (β = -.12; p&lt;.01) and female gender (β = -.02; p&gt;.05) on authoritarianism at T2 were controlled. Standardized coefficients are presented. * p&lt;.05. ** p&lt;.01.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Frequencies (%) of Online and Offline Participatory Activities.</figDesc><table><row><cell>Never Once Twice More than twice</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors acknowledge the support of the <rs type="funder">Czech Science Foundation</rs> (<rs type="grantNumber">GA14-20582S</rs>), and the <rs type="institution">Faculty of Social Studies, Masaryk University</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_xzwz4S8">
+					<idno type="grant-number">GA14-20582S</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Anonymity, democracy, and cyberspace</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Akdeniz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Research: An International Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="223" to="237" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Aging, cohorts, and the stability of sociopolitical orientations over the life span</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Alwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/229744</idno>
+		<ptr target="https://doi.org/10.1086/229744" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="169" to="195" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Neighborhoods, adults, and the development of civic identity in urban youth</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hart</surname></persName>
+		</author>
+		<ptr target="https://doi.org/0.1207/S1532480XADS0703_6" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="156" to="164" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Good news for the future? Young people, Internet use, and political participation</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>De Vreese</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650210381738</idno>
+		<ptr target="https://doi.org/10.1177/0093650210381738" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="451" to="470" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Self-efficacy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>W. H. Freeman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Guide for constructing self-efficacy scales</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Self-efficacy beliefs of adolescents</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Pajares</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Urdan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Greenwich, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Information Age Publishing</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="307" to="337" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Internet and social life</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bargh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Mckenna</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.psych.55.090902.141922</idno>
+		<ptr target="https://doi.org/10.1146/annurev.psych.55.090902.141922" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="573" to="590" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Political agency and empowerment: Pathways for developing a sense of political efficacy in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Beaumont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of research on civic engagement in youth</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Sherrod</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Torney-Purta</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Flanagan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="525" to="558" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Promoting political agency, addressing political inequality: A multilevel model of internal political efficacy</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Beaumont</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0022381610000976</idno>
+		<ptr target="https://doi.org/10.1017/S0022381610000976" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="216" to="231" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Social network sites as networked publics: Affordances, dynamics, and implications</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networked self: Identity, community, and culture on social network sites</title>
+		<editor>
+			<persName><forename type="first">Z</forename><surname>Papacharissi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA; New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2008">2008. 2010</date>
+			<biblScope unit="page" from="39" to="58" />
+		</imprint>
+	</monogr>
+	<note>Civic life online: Learning how digital media can engage youth</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Encountering &quot;difference&quot; in the contemporary public sphere: The contribution of the Internet to the heterogeneity of political discussion networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brundidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2010.01509.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1460-2466.2010.01509.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="680" to="700" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Buckingham</surname></persName>
+		</author>
+		<title level="m">Youth, identity and digital media</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Digital generations: Children, young people, and the new media</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Buckingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Perceived political self-efficacy: Theory, assessment, and applications</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Caprara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vecchione</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Capanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mebane</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ejsp.604</idno>
+		<ptr target="https://doi.org/10.1002/ejsp.604" />
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1002" to="1020" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Misleading online content: Recognizing clickbait as &quot;false news</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Rubin</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/2823465.2823467</idno>
+		<ptr target="https://doi.org/10.1145/2823465.2823467" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2015 ACM on Workshop on Multimodal Deception Detection</title>
+		<meeting>the 2015 ACM on Workshop on Multimodal Deception Detection</meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="15" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Informační technologie v domácnostech a mezi jednotlivci [ICT in households and among individuals]. Český statistický úřad</title>
+		<ptr target="https://www.czso.cz/csu/czso/domacnosti_a_jednotlivci" />
+	</analytic>
+	<monogr>
+		<title level="m">Český statistický úřad</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Evaluating goodness-of-fit indexes for testing measurement invariance</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Rensvold</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15328007SEM0902_5080/02671522.2014.908408</idno>
+		<ptr target="https://doi.org/10.1207/S15328007SEM0902_5080/02671522.2014.908408" />
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="233" to="255" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Political activities on the Internet: Slacktivism or political participation by other means? First Monday</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Christensen</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v16i2.3336</idno>
+		<ptr target="https://doi.org/10.5210/fm.v16i2.3336" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Gender differences in youths&apos; political engagement and participation. The role of parents and of adolescents&apos; social and civic participation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cicognani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fournier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gavray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Born</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2011.10.002</idno>
+		<ptr target="https://doi.org/10.1016/j.adolescence.2011.10.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="561" to="576" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Who views online extremism? Individual attributes leading to exposure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Costello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hawdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ratliff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Grantham</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.05.033</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2016.05.033" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="311" to="320" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Internet, deliberative democracy, and power: Radicalizing the public sphere</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1386/macp.3.1.47_1</idno>
+		<ptr target="https://doi.org/10.1386/macp.3.1.47_1" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Media &amp; Cultural Politics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="47" to="64" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The Internet, public spheres, and political communication: Dispersion and deliberation. Political Communication</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dahlgren</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10584600590933160</idno>
+		<ptr target="https://doi.org/10.1080/10584600590933160" />
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="147" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Media and political engagement: Citizens, communication and democracy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dahlgren</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Authoritarianism and dogmatism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duckitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Individual Differences in Social Behavior</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hoyle</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="298" to="317" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Economist Intelligence Unit&apos;s Democracy Index</title>
+		<ptr target="https://infographics.economist.com/2017/DemocracyIndex/" />
+	</analytic>
+	<monogr>
+		<title level="j">Economist Intelligence Unit</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Edwards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The moderator as an emerging democratic intermediary: The role of the moderator in Internet discussions about public issues</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="3" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Information, interaction, and creative production: The effects of three forms of Internet use on youth democratic engagement</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ekström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Östman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650213476295</idno>
+		<ptr target="https://doi.org/10.1177/0093650213476295" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="796" to="818" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Spaces for public orientation? Longitudinal effects of Internet use in adolescence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ekström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shehata</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2013.862288</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2013.862288" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="168" to="183" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Alternative media and social networking sites: The politics of individuation and political participation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fenton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barassi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10714421.2011.597245</idno>
+		<ptr target="https://doi.org/10.1080/10714421.2011.597245" />
+	</analytic>
+	<monogr>
+		<title level="j">The Communication Review</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="179" to="196" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Democratic values and political tolerance</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Finkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sigelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Humphries</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Measures of political attitudes</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Robinson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Shaver</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Wrightsman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Diego</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="203" to="296" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Ties that bind</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Flanagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bowes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Csapo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sheblanova</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-4560.1998.tb01230.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1540-4560.1998.tb01230.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="457" to="475" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Adolescents and the &apos;Social Contract&apos;: Developmental roots of citizenship in seven countries</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Flanagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Botcheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Csapo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bowes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Averina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sheblanova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roots of civic identity. Community service and civic engagement in youth: International perspectives</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Yates</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Youniss</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="135" to="155" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Freedom in the World</title>
+		<author>
+			<persName><forename type="first">Freedom</forename><surname>House</surname></persName>
+		</author>
+		<ptr target="https://freedomhouse.org/report/freedom-world/2017/czech-republic" />
+		<imprint>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Czech Republic Profile</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The dimensionality of right-wing authoritarianism: Lessons from the dilemma between theory and measurement</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Funke</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9221.2005.00415.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-9221.2005.00415.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="195" to="218" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Echo chambers online?: Politically motivated selective exposure among Internet news users</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Garrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2009.01440.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1083-6101.2009.01440.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="265" to="285" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Conceptualizing and measuring participation in the age of the Internet: Is online political engagement really different to offline?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cantijoch</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0022381613000431</idno>
+		<ptr target="https://doi.org/10.1017/S0022381613000431" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="701" to="716" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Digital Na(t)ives? Variation in internet skills and uses among members of the &quot;net generation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hargittai</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-682x.2009.00317.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1475-682x.2009.00317.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="92" to="113" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Beyond the online/offline divide how youth&apos;s online and offline civic activities converge</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hirzalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Zoonen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439310385538</idno>
+		<ptr target="https://doi.org/10.1177/0894439310385538" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="481" to="498" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Political participation in European countries: The effect of authoritarian rule, corruption, lack of good governance and economic downturn</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hooghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quintelier</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/cep.2013.3</idno>
+		<ptr target="https://doi.org/10.1057/cep.2013.3" />
+	</analytic>
+	<monogr>
+		<title level="j">Comparative European Politics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="209" to="232" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Routledge handbook of Internet politics</title>
+		<editor>Chadwick, A., &amp; Howard, P. N.</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Offline and online civic engagement among adolescents and young adults from three ethnic groups</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jugert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eckstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Noack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benbow</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-012-9805-4</idno>
+		<ptr target="https://doi.org/10.1007/s10964-012-9805-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="123" to="135" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The civic and political significance of online participatory cultures among youth transitioning to adulthood</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kahne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Feezell</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19331681.2012.701109</idno>
+		<ptr target="https://doi.org/10.1080/19331681.2012.701109" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Information Technology &amp; Politics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Youth online activity and exposure to diverse perspectives</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kahne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Middaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Feezell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444811420271</idno>
+		<ptr target="https://doi.org/10.1177/1461444811420271" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="492" to="512" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Connections between Internet use and political efficacy, knowledge, and participation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kenski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Stroud</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15506878jobem5002_1</idno>
+		<ptr target="https://doi.org/10.1207/s15506878jobem5002_1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="173" to="192" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Influence of social media use on discussion network heterogeneity and civic engagement: The moderating role of personality traits</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>De Zúñiga</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12034</idno>
+		<ptr target="https://doi.org/10.1111/jcom.12034" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="498" to="516" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Aging and susceptibility to attitude change</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Alwin</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.57.3.416</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.57.3.416" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="416" to="425" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Crowdsourcing civility: A natural experiment examining the effects of distributed moderation in online forums</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Johnston</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.giq.2013.11.005</idno>
+		<ptr target="https://doi.org/10.1016/j.giq.2013.11.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Government Information Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="317" to="326" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/" />
+		<title level="m">Teens, social media &amp; technology overview 2015. Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">To parcel or not to parcel: Exploring the question, weighing the merits</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Shahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Widaman</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15328007SEM0902_1</idno>
+		<ptr target="https://doi.org/10.1207/S15328007SEM0902_1" />
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="151" to="173" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Youthful steps towards civic participation: Does the internet help?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Couldry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Markham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Young citizens in the digital age: Political engagement, young people and new media</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Loader</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="21" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</author>
+		<title level="m">Children and the Internet</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Beyond just politics: A systematic literature review of online participation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meckel</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v19i7.5260</idno>
+		<ptr target="https://dx.doi.org/10.5210/fm.v19i7.5260" />
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Macková</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Macek</surname></persName>
+		</author>
+		<ptr target="https://is.muni.cz/repo/1306297/Old_and_New_Media_and_Participation_in_Czech_Society.pdf" />
+		<title level="m">Old and New media and Participation in Czech Society</title>
+		<meeting><address><addrLine>Brno</addrLine></address></meeting>
+		<imprint>
+			<publisher>Masarykova univerzita</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Research Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Measuring political action</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Kaase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Political action: Mass participation in five Western democracies</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Barnes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Kaase</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="57" to="96" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Types of voluntary service and adolescents&apos; civic development</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Metz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Youniss</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0743558402250350</idno>
+		<ptr target="https://doi.org/10.1177/0743558402250350" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Research</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="188" to="203" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">From the digital divide to the democratic divide: Internet skills, political interest, and the secondlevel digital divide in political internet use</title>
+		<author>
+			<persName><forename type="first">S.-J</forename><surname>Min</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19331680903109402</idno>
+		<ptr target="https://doi.org/10.1080/19331680903109402" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Information Technology &amp; Politics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="22" to="35" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">The net delusion</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morozov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>PublicAffairs</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mossberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tolbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mcneal</surname></persName>
+		</author>
+		<title level="m">Digital citizenship: The Internet, society, and participation</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Imagined affordance: Reconstructing a keyword for communication theory</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nagy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Neff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115603385</idno>
+		<ptr target="https://doi.org/10.1177/2056305115603385" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Is online participation distinct from offline participation? A latent class analysis of participation types and their stratification</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hooghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marien</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1065912912436695</idno>
+		<ptr target="https://doi.org/10.1177/1065912912436695" />
+	</analytic>
+	<monogr>
+		<title level="j">Political Research Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="91" to="101" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Information, expression, participation: How involvement in user-generated content relates to democratic engagement among young people</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Östman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444812438212</idno>
+		<ptr target="https://doi.org/10.1177/1461444812438212" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1004" to="1021" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Self-efficacy beliefs of adolescents</title>
+		<editor>Pajares, F., &amp; Urdan, T. C.</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>IAP</publisher>
+			<pubPlace>Greenwich, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Do campaign Web sites really matter in electoral civic engagement? Empirical evidence from the 2004 post-election Internet tracking survey</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Perry</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439307309026</idno>
+		<ptr target="https://doi.org/10.1177/0894439307309026" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="190" to="212" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Differential online exposure to extremist content and political violence: Testing the relative strength of social learning and competing perspectives. Terrorism and Political Violence</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pauwels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schils</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09546553.2013.876414</idno>
+		<ptr target="https://doi.org/10.1080/09546553.2013.876414" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The effect of Internet use on political participation an analysis of survey results for 16-year-olds in Belgium</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quintelier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vissers</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439307312631</idno>
+		<ptr target="https://doi.org/10.1177/0894439307312631" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="411" to="427" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Supporting democracy: Political participation and political attitudes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quintelier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Van Deth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Studies</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="153" to="171" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Exploring causality using panel data</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Public opinion, political communication and the internet</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Savigny</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9256.00152</idno>
+		<ptr target="https://doi.org/10.1111/1467-9256.00152" />
+	</analytic>
+	<monogr>
+		<title level="j">Politics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Childhood and adult political development</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Sears</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of political psychology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Huddy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Sears</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Levi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="59" to="95" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Online only: Which Czech young adults prefer online civic participation?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Šerek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Machackova</surname></persName>
+		</author>
+		<idno type="DOI">10.5817/cp2014-3-6</idno>
+		<ptr target="https://doi.org/10.5817/cp2014-3-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Information and expression in a digital age modeling Internet effects on civic participation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650205279209</idno>
+		<ptr target="https://doi.org/10.1177/0093650205279209" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="531" to="565" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Handbook of research on civic engagement in youth</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sherrod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Torney-Purta</surname></persName>
+		</author>
+		<editor>&amp; Flanagan, C.</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Wiley &amp; Sons</publisher>
+			<pubPlace>Hoboken, N.J</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">The Internet and civic engagement</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Schlozman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brady</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/files/old-media/Files/Reports/2009/" />
+	</analytic>
+	<monogr>
+		<title level="m">The%2520Internet%2520and%2520Civic%2520Engagement</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Pew Internet &amp; American Life Project</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">The school&apos;s role in youths&apos; political efficacy: Can school provide a compensatory boost to students&apos; political efficacy?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sohl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arensmeier</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02671522.2014.908408</idno>
+		<ptr target="https://doi.org/10.1080/02671522.2014.908408" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="133" to="163" />
+		</imprint>
+	</monogr>
+	<note>Research Papers in Education</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Whither slacktivism? Political engagement and social media use in the 2013 Czech Parliamentary elections</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Štětka</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mazák</surname></persName>
+		</author>
+		<idno type="DOI">10.5817/CP2014-3-7</idno>
+		<ptr target="https://doi.org/10.5817/CP2014-3-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">Digital youth: The role of media in development</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smahel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">The online disinhibition effect</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Suler</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/1094931041291295</idno>
+		<ptr target="https://doi.org/10.1089/1094931041291295" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="321" to="326" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Audiences&apos; acts of authentication in the age of fake news: A conceptual framework</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tandoc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Westlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Duffy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444817731756</idno>
+		<ptr target="https://doi.org/10.1177/1461444817731756" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>New Media &amp; Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Online social networking in adolescence: Patterns of use in six European countries and links with psychosocial functioning</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ťápal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Tsitsika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tzavela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Janikian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ólafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Iordache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Schoenmakers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2013.11.010</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2013.11.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="2012">2012. 2014</date>
+			<pubPlace>Brno</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Masaryk University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Kognitivně-motivační dispozice autoritářství [Cognitive-motivational dispositions of authoritarianism</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Unpacking the use of social media for protest behavior the roles of information, opinion expression, and activism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002764213479375</idno>
+		<ptr target="https://doi.org/10.1177/0002764213479375" />
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="920" to="942" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Media effects: Theory and research</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Walther</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-psych-122414-033608</idno>
+		<ptr target="https://doi.org/10.1146/annurev-psych-122414-033608" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="315" to="338" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Voice and equality: Civic voluntarism in American politics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Schlozman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Brady</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">The Internet and new modes of political participation: Online versus offline participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vissers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stolle</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2013.867356</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2013.867356©2007-2017Cyberpsychology" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosocial Research on Cyberspace</title>
+		<idno type="ISSN">1802-7962</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="937" to="955" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>Faculty of Social Studies, Masaryk University | Contact | Editor: David Smahel</orgName>
+		</respStmt>
+	</monogr>
+	<note>Information, Communication &amp; Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Facebook: The enabler of online civic engagement for activists</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sulaiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Jaafar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.12.017</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2013.12.017" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="284" to="289" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Online groups and political discourse: Do online discussion spaces facilitate exposure to political disagreement</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Wojcieszak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2008.01403.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1460-2466.2008.01403.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="40" to="56" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Democracy, deliberation and design: the case of online discussion forums</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Street</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444807081230</idno>
+		<ptr target="https://doi.org/10.1177/1461444807081230" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="849" to="869" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The great equalizer? Patterns of social media use and youth political engagement in three advanced democracies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xenos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vromen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Loader</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2013.871318</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2013.871318" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="151" to="167" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Community service and political identity development in adolescence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Youniss</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-4560.1998.tb01232.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1540-4560.1998.tb01232.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="495" to="512" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">What we know about engendering civic identity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Youniss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yates</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002764297040005008</idno>
+		<ptr target="https://doi.org/10.1177/0002764297040005008" />
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="620" to="631" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Predicting positive citizenship from adolescence to young adulthood: The effects of a civic context</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Zaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Malanchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Eccles</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10888690801910567</idno>
+		<ptr target="https://doi.org/10.1080/10888690801910567" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Development Science</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="38" to="53" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

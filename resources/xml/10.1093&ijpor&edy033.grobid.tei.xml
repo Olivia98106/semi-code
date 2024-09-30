@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">When Can Exemplars Shape White Racial Attitudes? Evidence from the 2012 U.S. Presidential Campaign</title>
+				<funder>
+					<orgName type="full">Annenberg Public Policy Center</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Pennsylvania School of Arts and Sciences and University Research Foundation</orgName>
+				</funder>
+				<funder ref="#_HQuY4nZ">
+					<orgName type="full">Russell Sage Foundation</orgName>
+				</funder>
+				<funder ref="#_cWX4X4g #_Etc4AGA">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability status="unknown"><p>Copyright Oxford University Press (OUP)</p>
+				</availability>
+				<date type="published" when="2019-10-24">24 October 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Seth</forename><forename type="middle">K</forename><surname>Goldman</surname></persName>
+							<email>skgoldman@comm.umass.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Integrative Learning Center</orgName>
+								<orgName type="institution">University of Massachusetts-Amherst</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">J</forename><surname>Hopkins</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Perelman Center for Political Science and Economics</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">N370 Integrative Learning Center</orgName>
+								<orgName type="institution">University of Massachusetts-Amherst</orgName>
+								<address>
+									<addrLine>650 N. Pleasant Street</addrLine>
+									<postCode>01003</postCode>
+									<settlement>Amherst</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">When Can Exemplars Shape White Racial Attitudes? Evidence from the 2012 U.S. Presidential Campaign</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Public Opinion Research</title>
+						<idno type="ISSN">0954-2892</idno>
+						<idno type="eISSN">1471-6909</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">31</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="649" to="668"/>
+							<date type="published" when="2019-10-24">24 October 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5107A0315BC4DD6A5AE8EFFBA624C833</idno>
+					<idno type="DOI">10.1093/ijpor/edy033</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Prior research finds that exposure to outgroup exemplars reduces prejudice, but it has focused on most-likely cases. We examine whether salient outgroup exemplars can reduce prejudice under more challenging conditions, such as when they are counterstereotypical but not well-liked, and the audience is heterogeneous and holds strong priors. Specifically, we assess the impact of the Obama exemplar under the less auspicious conditions of the 2012 U.S. presidential campaign. Using panel data, we find that racial prejudice declined during the campaign, especially among Whites with the most exposure to Obama through political television. Liking Obama proved irrelevant to these effects, as did partisanship. Racial prejudice increased slightly after the campaign ended, but the effects remained largely intact weeks later.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In recent years, scholars have increasingly focused on how exposure to salient individuals from stigmatized groups-or outgroup exemplars-can reduce prejudice. Yet much of this research is based on studies carried out under highly favorable conditions, in which the exemplars are well-liked and counter negative stereotypes, the audience is composed of college students, and prejudice is measured immediately after exposure <ref type="bibr">(Schiappa, Greg, &amp; Hewes, 2005;</ref><ref type="bibr" target="#b29">Mastro &amp; Tukachinsky, 2011;</ref><ref type="bibr" target="#b37">Ramasubramanian, 2011)</ref>. As such, it remains unclear if prejudice is reduced when exemplars are not perceived in uniformly positive terms, the audience is heterogeneous and holds strong priors, and prejudice is measured days or weeks later.</p><p>Evidence that one exemplar, Barack Obama, reduced racial prejudice during the 2008 U.S. presidential campaign may also be because of the specific conditions surrounding the election <ref type="bibr" target="#b18">(Goldman, 2012;</ref><ref type="bibr" target="#b30">Meirick &amp; Dunn, 2015;</ref><ref type="bibr" target="#b48">Welch &amp; Sigelman, 2011)</ref>. News coverage portrayed Obama positively and highlighted the historic campaign <ref type="bibr">(Pew Research Center, 2012)</ref>. Meanwhile, Obama had the highest favorability ratings of any candidate since 1988 <ref type="bibr" target="#b40">(Saad, 2008)</ref> and countered numerous anti-Black stereotypes <ref type="bibr" target="#b38">(Remnick, 2010)</ref>. Soon after the election, however, racial prejudice began to increase and did so throughout Obama's first term <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014;</ref><ref type="bibr" target="#b32">Pasek, Stark, Krosnick, Tompson, &amp; Payne, 2014;</ref><ref type="bibr" target="#b47">Valentino &amp; Brader, 2011)</ref>, perhaps because of increasingly negative news coverage, sharp decreases in Obama's favorability, or the decay of the 2008 effect.</p><p>Thus, it is unknown whether the Obama exemplar and outgroup exemplars generally can reduce prejudice under less favorable conditions. To examine this question, we assess the impact of exposure to Obama during the 2012 U.S. presidential campaign and probe the underlying mechanisms of exemplar likeability and partisanship, as well as the duration of any such effects. Our study leverages two new waves of panel data, fielded as part of a population-based panel reaching back to 2007, and stringent fixed-effects models of withinperson change, to provide more credible causal evidence <ref type="bibr" target="#b1">(Allison, 2009)</ref>.</p><p>We find that levels of White racial prejudice declined during the 2012 campaign, and that the size of the decline is slightly or much larger than other recent shifts. Moreover, those with the greatest likelihood of exposure to Obama, as indicated by their political television use, showed declines four to six times larger than the overall trend. We find as well that Obama likeability neither mediates nor moderates these effects and that the effects hold even among Republicans and viewers of conservative television. Finally, although the effects slightly diminished after the campaign ended, they remained largely intact weeks later.</p><p>These findings further understanding of the ''Obama effect,'' the influence of exemplars, and the durability of racial attitudes. First, this is not a mere replication of the 2008 Obama effect, as conditions in 2012 differed substantially. News coverage of Obama shifted from mostly positive to mostly negative, his favorability ratings dropped precipitously, his racial significance no longer received much attention <ref type="bibr" target="#b3">(Bell, Entman, Gross, &amp; Rojecki, 2014)</ref>, and an increasingly racialized opposition grew in its place <ref type="bibr" target="#b46">(Tesler, 2016)</ref>. Although Obama remained counter-stereotypical, as America's first Black president he arguably became more vulnerable to being dismissed as an exceptional case. So, rather than being more of the same, the 2012 Obama effect is highly informative.</p><p>Second, our analyses explain apparent contradictions in prior research. We find decreases in racial prejudice only during the high-intensity campaign periods when Obama was most salient to the public, consistent with a critical role of exemplar salience <ref type="bibr" target="#b49">(Zillmann &amp; Brosius, 2000)</ref>. The Obama effect is a temporary campaign effect, so racial prejudice is expected to increase after each election, as Obama's relative salience decreases <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014;</ref><ref type="bibr" target="#b32">Pasek et al., 2014)</ref>. Studies which do not account for the timing of the campaigns would miss these dynamics, as decreases and increases cancel out <ref type="bibr" target="#b46">(Tesler, 2016)</ref>. Thus, prior research may not conflict with this study, but rather clarify the theoretical conditions for the Obama effect.</p><p>Third, our results demonstrate that exposure to outgroup exemplars can reduce prejudice even under less-than-ideal conditions. Whereas much prior research posits that exemplars must be well-liked to improve attitudes, we find that neither changes over time in Obama's likeability or stable levels of likeability explain Obama's impact on racial prejudice. Similarly, partisan opposition also proved irrelevant. Given the null effects of liking and partisanship, the most likely mechanism of influence is Obama's counter-stereotypicality. This suggests that counter-stereotypical exemplars can reduce prejudice independent of whether they are well-liked.</p><p>Fourth, our findings are important for understanding the durability of racial attitudes. Racial attitudes typically improve very slowly, if at all <ref type="bibr" target="#b44">(Schuman, Steeh, Bobo, &amp; Krysan, 1997)</ref>, and indeed most Whites expressed racial prejudice on all waves of our panel. Yet the stubbornness of prejudice makes any positive effects all the more notable. The effects of the Obama exemplar suggest that exposure to counter-stereotypical Black exemplars, including Black political leaders, may promote positive attitude change <ref type="bibr" target="#b20">(Hajnal, 2007)</ref>. Obama's impact began to decay not long after each campaign, which highlights the short-lived nature of exemplar effects but also the possibility of repeated effects over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Three Theories of White Reactions to Obama</head><p>Scholars have used three psychological theories to make predictions about Obama's influence on White racial attitudes: exemplar positivity, exemplar counter-stereotypicality, and subtyping. The first two theories draw on exemplar-based models of social judgment to suggest that exposure to an individual member of a social group, or exemplar, can increase the salience of that individual in the mind of the audience, altering attitudes toward the group <ref type="bibr" target="#b45">(Smith &amp; Zarate, 1992)</ref>. Because attitudes toward social groups are based partly on the group members who most easily come to mind, media exposure can influence those attitudes by temporarily increasing the cognitive accessibility of particular exemplars <ref type="bibr" target="#b49">(Zillmann &amp; Brosius, 2000)</ref>.</p><p>Although exemplification's impact is well established, how exemplars influence attitudes is a matter of debate. According to exemplar positivity, only well-liked exemplars can improve outgroup attitudes, and experiments have shown that exposure to Black exemplars rated as highly likeable (Oprah and Michael Jordan) improved attitudes toward Blacks, whereas neutral exemplars (Spike Lee and Jesse Jackson) did not <ref type="bibr" target="#b6">(Bodenhausen, Schwarz, Bless, &amp; Wanke, 1995)</ref>. By contrast, exemplar counter-stereotypicality only requires that exemplars counter stereotypes, and experiments have demonstrated that altering the presentation of the same Black individual to either reinforce or counter stereotypes-such as by wearing clothing to look like a prisoner or lawyer-moved racial prejudice accordingly <ref type="bibr" target="#b2">(Barden, Maddux, Petty, &amp; Brewer, 2004</ref>). What we do not know is ''whether the influence of exemplars is due primarily to their positivity or counter-stereotypicality'' <ref type="bibr">(Columb &amp; Plant, 2016, p. 526)</ref>.</p><p>In practice, exemplar positivity and counter-stereotypicality often go hand in hand, complicating efforts to understand their independent effects <ref type="bibr" target="#b10">(Dasgupta &amp; Greenwald, 2001)</ref>. During the 2008 U.S. presidential campaign, for instance, Barack Obama enjoyed high favorability ratings <ref type="bibr" target="#b23">(Jones, 2008;</ref><ref type="bibr" target="#b40">Saad, 2008)</ref> and refuted stereotypes associating Blacks with criminality, laziness, unintelligence, and scandal <ref type="bibr" target="#b38">(Remnick, 2010)</ref>. Moreover, Obama received mostly positive news coverage that accentuated his novelty and highlighted the historic campaign <ref type="bibr" target="#b3">(Bell et al., 2014;</ref><ref type="bibr">Pew Research Center, 2012)</ref>. Perhaps because of these ideal conditions, several studies employing nationally representative samples found that racial prejudice declined during the 2008 campaign, especially among Whites with the most exposure to Obama <ref type="bibr" target="#b18">(Goldman, 2012;</ref><ref type="bibr" target="#b19">Goldman &amp; Mutz, 2014;</ref><ref type="bibr" target="#b30">Meirick &amp; Dunn, 2015;</ref><ref type="bibr" target="#b48">Welch &amp; Sigelman, 2011)</ref>.</p><p>By the time of the 2012 presidential campaign, however, Obama's favorability ratings had dropped precipitously, while news coverage tilted negative and no longer accentuated his novelty or racial significance <ref type="bibr" target="#b3">(Bell et al., 2014;</ref><ref type="bibr" target="#b24">Jones, 2013;</ref><ref type="bibr">Pew Research Center, 2012)</ref>. <ref type="bibr" target="#b32">Pasek et al. (2014)</ref> cite Obama's reduced favorability to explain evidence from repeated cross-sectional surveys that various racial attitudes either did not change or became more negative between fall 2009 and summer 2012. This is consistent with exemplar positivity and leads to the hypothesis of either no change or an increase in racial prejudice during the 2012 campaign.</p><p>On the other hand, Obama continued to counter racial stereotypes in 2012, and experimental evidence has demonstrated that exposure to Obama remained capable of reducing racial prejudice after the 2008 election <ref type="bibr" target="#b8">(Columb &amp; Plant, 2011</ref><ref type="bibr" target="#b46">, 2016)</ref>. Yet exposure to Obama via political media declined substantially after the 2008 election, and panel data confirmed that decreases in exposure corresponded to increases in racial prejudice between winter 2009 and fall 2010 <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014)</ref>. This account of exemplar counter-stereotypicality points to a critical role of exemplar salience and leads to the hypothesis that revived exposure to Obama during the 2012 campaign should increase Obama's salience and so produce declines in racial prejudice.</p><p>By contrast, subtyping predicts no positive effects from exposure to Obama, because counter-stereotypical individuals are expected to be dismissed as exceptions to the rule <ref type="bibr" target="#b39">(Rothbart &amp; John, 1985)</ref>, and thus have limited impact on racial prejudice <ref type="bibr" target="#b25">(Joy-Gaba &amp; Nosek, 2010;</ref><ref type="bibr" target="#b28">Lybarger &amp; Monteith, 2011)</ref>. Several studies using convenience samples use subtyping to explain findings of no change in racial attitudes during the 2008 and 2012 campaigns <ref type="bibr" target="#b4">(Bernstein, Young, &amp; Claypool, 2010;</ref><ref type="bibr" target="#b42">Schmidt &amp; Axt, 2016;</ref><ref type="bibr" target="#b43">Schmidt &amp; Nosek, 2010;</ref><ref type="bibr">c.f. Plant et al., 2009)</ref>. Similarly, <ref type="bibr" target="#b46">Tesler (2016)</ref> finds no overall change in racial attitudes on the General Social Surveys (GSS) or American National Election Studies (ANES) after Obama became a national public figure (c.f. <ref type="bibr" target="#b48">Welch &amp; Sigelman, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mechanisms of Exemplar Effects</head><p>In addition to assessing Obama's overall impact, we also investigate three mechanisms. The first is whether counter-stereotypicality or likeability is responsible for Obama's impact. On the one hand, some point to the sheer amount of coverage of Obama countering stereotypes to explain the declines in prejudice during the 2008 campaign <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014)</ref>. On the other hand, aggregate trends in Obama favorability and racial attitudes appear to coincide <ref type="bibr" target="#b32">(Pasek et al., 2014)</ref>, and an experiment using a student sample found that exposure to Kobe Bryant, who was rated as likeable but stereotypic, produced a similar reduction in racial bias as exposure to Obama, who was rated as likeable and counter-stereotypic <ref type="bibr" target="#b9">(Columb &amp; Plant, 2016)</ref>. Here, we directly test the likeability mechanism using repeated measures of Obama favorability.</p><p>In addition, we examine the role of partisanship. Exemplar positivity suggests that because Republicans are likely to evaluate Obama negatively, exposure should increase racial prejudice among this group; among Democrats, who are likely to evaluate Obama positively, exposure should decrease racial prejudice <ref type="bibr" target="#b30">(Meirick &amp; Dunn, 2015)</ref>. Subtyping also suggests partisan differences. Because Republicans on average have more negative preexisting racial attitudes, Obama should be especially counter-stereotypical for them, which may increase the chances of Obama being dismissed as an atypical case <ref type="bibr" target="#b20">(Hajnal, 2007)</ref>. Alternatively, this sharp contrast between Obama and Republicans' priors could make him more influential, especially if exemplar effects occur outside of conscious awareness <ref type="bibr" target="#b18">(Goldman, 2012)</ref>.</p><p>Finally, we investigate the duration of effects. In general, media effects typically wane after the removal of the stimulus <ref type="bibr" target="#b17">(Gerber, Gimpel, Green &amp; Shaw, 2011;</ref><ref type="bibr" target="#b22">Hill, Lo, Vavreck &amp; Zaller, 2013)</ref>, and the effects of exemplification are</p><formula xml:id="formula_0">E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S</formula><p>also expected to be short-lived because of their reliance on the accessibility of recently activated exemplars <ref type="bibr" target="#b49">(Zillmann &amp; Brosius, 2000)</ref>. Beyond recency, an exemplar's vividness and emotionality also affect accessibility-two factors that likely contributed to Obama's 2008 effect continuing through his historic inauguration <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014)</ref>. Given Obama's declining novelty and favorability, however, the same response is less likely post-2012, suggesting a more short-lived effect. Still, repeated exposure can make exemplars chronically accessible, so Obama's impact may prove more enduring. All waves were fielded over the Internet by GfK (formerly Knowledge Networks), which recruited a national sample of online and offline adults using random digit-dialing and address-based sampling. Online Appendix Table <ref type="table" target="#tab_0">B1</ref> shows that the panel approximates demographic benchmarks from the July 2008 Current Population Survey, although younger and lower-educated individuals were somewhat underrepresented. We rely primarily on the 2010-2013 samples, and so do not weight the data to 2008 benchmarks in our primary models (though doing so does not change our results). Although all long-term panels have attrition and become less demographically representative over time, they nonetheless provide unparalleled leverage for assessing individual-level change. Finally, we checked for panel conditioning effects but found no evidence of them: the number of prior waves on which respondents received the stereotype items did not influence responses to these items on Wave 8 (-0.003, p ¼ .24, N ¼ 1,677).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><formula xml:id="formula_1">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>To measure racial prejudice, we rely on a standard indicator used on the General Social Surveys and American National Election Studies since 1990 and 1992, respectively. Starting in the latter part of Wave 3 (July 17, 2008) and continuing through all subsequent waves, several items indirectly assessed whether Whites have more positive attitudes toward Whites than Blacks. In six questions posed at different points in the surveys-with the order randomized and separated by nonracial items-Whites were asked to rate Whites and Blacks on scales ranging from hardworking to lazy, intelligent to unintelligent, and trustworthy to untrustworthy. We then subtracted ratings of Blacks from ratings of Whites for each dimension and averaged the difference scores to create a reliable scale (Cronbach's alphas for <ref type="bibr">Waves 3,</ref><ref type="bibr">4,</ref><ref type="bibr">5,</ref><ref type="bibr">6,</ref><ref type="bibr">7,</ref><ref type="bibr">and 8 are .90,</ref><ref type="bibr">.90,</ref><ref type="bibr">.91,</ref><ref type="bibr">.92,</ref><ref type="bibr">.91,</ref><ref type="bibr">and .93,</ref><ref type="bibr">respectively)</ref>. For several reasons, using difference scores is standard practice. For instance, if social desirability bias inflates outgroup ratings, one can still detect prejudice if ratings of the ingroup are more positive. Further, respondents often rate groups positively or negatively across the board, necessitating a measure of ''views [of] blacks relative to whites'' <ref type="bibr">(Piston, 2010, p. 436)</ref>. Our measure ranges from 0 to 100, where 0 indicates an absence of prejudice and higher values indicate greater prejudice. This measure predicts policy and candidate support <ref type="bibr" target="#b5">(Bobo &amp; Kluegel, 1993;</ref><ref type="bibr" target="#b26">Kinder &amp; Sanders, 1996;</ref><ref type="bibr" target="#b35">Piston, 2010)</ref>.</p><p>To measure exposure to Obama, respondents were presented with lists of political television programs and asked to indicate those they watched regularly. The measure includes hard news (e.g., ABC World News Tonight), soft news (e.g., 60 Minutes), opinion (e.g., The O'Reilly Factor), political talk (e.g., This Week with George Stephanopoulos), daytime talk (e.g., Ellen), and satire (e.g., The Daily Show). The measure is a count of the number of programs viewed, coded to range from 0 to 1. This measure has demonstrated high truescore reliability and strong predictive, construct, and convergent validity <ref type="bibr" target="#b12">(Dilliplane, Goldman, &amp; Mutz, 2013;</ref><ref type="bibr" target="#b27">LaCour &amp; Vavreck, 2014)</ref>. Following <ref type="bibr" target="#b11">Dilliplane (2011)</ref>, we also calculated the proportion of each person's television diet leaning conservative, liberal, or neutral (see Online Appendix A).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analyzing Panel Data With Fixed Effects</head><p>In this study, each individual was interviewed multiple times, allowing us to examine whether attitudes changed over time. Fixed-effects regression assesses within-person change by comparing each respondent to herself at an earlier point in time. To document change, we use the wave variables, which represent the passage of time, to predict within-person change in racial prejudice. The coefficients for the wave variables indicate the direction and average overtime change in racial prejudice.</p><formula xml:id="formula_2">E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S</formula><p>For estimating the impact of media exposure, fixed-effects regression offers a critical advantage over other observational designs <ref type="bibr" target="#b0">(Allison, 1990</ref><ref type="bibr" target="#b1">(Allison, , 2009;;</ref><ref type="bibr" target="#b21">Halaby, 2004)</ref>. Standard between-person designs compare different individuals to each other, thus relying on strong assumptions about comparability across people. However, those assumptions are likely to be violated because of preexisting individual differences, and including control variables still misses unmeasured or unobservable confounders. Because fixed-effects regression uses only within-person variance, the constant effects of all stable factors are controlled.</p><p>We have hypothesized that change in exposure to Obama may influence change in racial prejudice. Using fixed effects, we model the impact of exposure in two standard ways: within-person change in the independent variable and the time-varying effects of stable levels of the independent variable <ref type="bibr" target="#b1">(Allison, 2009)</ref>. We begin by modeling within-person change in the number of political television programs viewed for two reasons. First, if the underlying psychological process relies on the temporary accessibility of recently activated exemplars, then change in media use should correspond to change in the accessibility of the Obama exemplar. Second, using within-person change in the independent variable provides the strongest control for spuriousness <ref type="bibr" target="#b1">(Allison, 2009)</ref>. And, by including the wave variable, we efficiently capture the average total effects of all other factors that changed over time <ref type="bibr" target="#b21">(Halaby, 2004)</ref>.</p><p>The second approach assesses the time-varying effects of 2012 (Wave 7) levels of media use, given that what people watched during the campaign may be particularly influential. This approach assumes that most media use is habitual <ref type="bibr" target="#b12">(Dilliplane et al., 2013)</ref> and, in turn, that greater cumulative exposure to Obama should be influential by increasing his chronic accessibility. This is in contrast to the psychological process presumed by modeling change in media use, which should be influential by increasing Obama's temporary accessibility. Using both modeling approaches can help us understand whether exemplification effects rely more on cumulative media use, incremental increases in media use, or some combination of the two.</p><p>Note that because the main effects of stable factors drop out with fixed effects, it is only possible to model their time-varying effects. This requires including an interaction between the stable factor-2012 media use-and one that changes within-persons-the wave variable <ref type="bibr" target="#b1">(Allison, 2009)</ref>. This interaction tells us whether the impact of stable media use changes over time. Because the main effects of stable media use-like all other individual differences-drop out, only the interaction appears in the model. Finally, although spuriousness is much less of a concern with fixed effects, we assess the robustness of our models by including the time-varying effects of several individual difference variables (education, gender, income, region, and age).</p><p>Owing to space constraints, we include the details of the measurement of these and other variables in the Online Appendices.  <ref type="table" target="#tab_0">C1</ref>, within-person change is racial prejudice from Waves 3-8 is negative and significant -2.54 (p &lt; .01).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In Figure <ref type="figure" target="#fig_2">2</ref>, we examine change in racial attitudes between Wave 6 (Fall 2010) and Wave 7, fielded the week before the 2012 election. The solid black line shows a decline in racial prejudice among the 693 Whites who completed both waves. As shown in the fixed-effects model in Column 1 of Online Appendix Table <ref type="table" target="#tab_1">C2</ref>, the coefficient for the Waves 6-7 variable is -1.94 (p &lt; .001). Decomposing the measure of prejudice, the dotted black line shows a positive shift in attitudes toward Blacks, while the solid gray line shows no change in attitudes toward Whites. The fixed effects models in Columns 2 and 3 of Table <ref type="table" target="#tab_1">C2</ref> confirm that attitudes toward Blacks became significantly more positive (1.67, p &lt; .05), while attitudes toward Whites did not change significantly (-0.35, p &gt; .10). In sum, overall levels of White racial prejudice declined during the 2012 campaign, due primarily to a positive shift in esteem for Blacks.</p><p>To better understand the size of the decline in racial prejudice, we follow past research and compare it with recent secular trends. During the 2 years between Waves 6 and 7, racial prejudice changed by 0.13 SDs. By comparison, the General Social Survey showed an average change of 0.12 SDs for the same measure per 2-year period between 1990 and 2008; the American National Election Studies showed an average change of 0.04 SDs per 2-year period between 1992 and 2008 <ref type="bibr" target="#b18">(Goldman, 2012)</ref>. Within this context, the decline during the 2012 campaign is at least as large as the average 2-year change observed in these measures.</p><p>Overall trends in racial prejudice neglect individual variability in exposure. Those who became more attentive to political television should have a higher probability of exposure to Obama. Column 1 of Table <ref type="table" target="#tab_0">1</ref> presents a fixedeffects model where within-person change in the number of political television shows viewed predicts within-person change in racial prejudice. The negative and significant coefficient for the TV variable (-11.17, p &lt; .05) indicates that  increases over time in viewing are associated with declines in racial prejudice. The model in Column 2 adds controls for the time-varying effects of demographic characteristics. Because the main effects of stable factors automatically drop out, only their interactions with the wave variable appear. These controls do not diminish the effect of TV use (-11.99, p &lt; .05).</p><formula xml:id="formula_3">E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S</formula><p>In Table <ref type="table" target="#tab_1">2</ref>, we treat television use as a stable factor and examine whether the number of programs viewed in Fall 2012 predicts within-person change in racial prejudice. Column 1 presents a fixed-effects model that includes the Waves 6-7 variable and its interaction with Fall 2012 levels of the number of television programs viewed. Again, the main effects of stable predictors such as 2012 television use cannot be included, so only the interaction appears in the model. As indicated by the significant interaction (-7.77, p &lt; .05), Whites who watched more political television during the 2012 campaign showed larger declines in racial prejudice. The effect of exposure (-8.94, p &lt; .05) is robust to the inclusion of demographic controls in Column 2.</p><p>In sum, both approaches to modeling exposure, with or without demographic controls, show consistent evidence of a significant relationship between greater media exposure and decreases over time in racial prejudice. Among Whites with the highest levels of media exposure, the estimated decreases in racial prejudice ranged from 7.77 to 11.99 points on average. Notably, these decreases are four to six times larger than the overall decline in racial prejudice of 1.94 points. Individual-level exposure varied markedly among Whites, and this within-person variance in exposure had a sizeable impact on changing levels of racial prejudice.</p><p>Turning to the underlying mechanisms, we examine whether Obama favorability, operationalized with the standard 0-100 feeling thermometer, For more formal tests, we carried out mediation and moderation analyses for each period (see Online Appendix Tables <ref type="table">C3-6</ref>). We began with the 2008 campaign and replicated the finding that increases in television exposure predict declines in racial prejudice <ref type="bibr" target="#b18">(Goldman, 2012)</ref>. To assess mediation, we added change in Obama favorability to the model, which did not alter the size or significance of the exposure coefficient. To assess moderation, we included an interaction between change in exposure and change in Obama favorability, which was not significant. We did the same for the post-2008 campaign period between Waves 5 and 6 <ref type="bibr" target="#b19">(Goldman &amp; Mutz, 2014)</ref>, and again found no evidence of mediation or moderation effects. For the 2012 campaign, analyses using change in exposure and change in Obama favorability between Waves 6 and 7 revealed no evidence of mediation or moderation. Using stable exposure, we assessed mediation by including the time-varying effects of Obama Note: The table presents unstandardized fixed-effects coefficients, with standard errors in parentheses. All of the independent variables were measured on Wave 7 and range from 0 to 1. Each model controls for change in the order in which the racial groups were asked about. Uses all shows that were on Wave 7. Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001.</p><formula xml:id="formula_4">I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</formula><p>favorability and moderation by including the three-way interaction between exposure, Obama favorability, and wave. Neither of these models showed significant evidence of mediation or moderation. Next, we examined the role of partisanship. We first tested whether change in racial prejudice from Waves 6-7 varied among partisan and ideological subgroups. As shown in Online Appendix Table <ref type="table">C7</ref>, we found no evidence of differential change in racial prejudice between Republicans and Democrats or between conservatives and liberals. We also found no evidence that ideology or partisanship moderate the impact of political television exposure. As shown in Online Appendix Tables <ref type="table">C8</ref> and<ref type="table">C9</ref>, the effects of changing exposure and stable exposure did not vary among partisan or ideological subgroups. For tests of media partisanship, we assessed the impact of the proportion of respondents' political television diet that leaned conservative, liberal, and neutral, controlling for change in overall exposure. Online Appendix Table <ref type="table" target="#tab_0">C10</ref> shows no effects of change in media partisanship, and Online Appendix Table <ref type="table" target="#tab_0">C11</ref> shows no effects of stable media partisanship.</p><p>During the 2012 campaign, racial prejudice declined to a similar extent regardless of partisanship; yet, the durability of these changes is unclear. Did racial prejudice increase after the campaign ended? Did the influence of exposure to Obama wane over time? Beginning with the first question, the fixedeffects model in Column 1 of Online Appendix Table <ref type="table" target="#tab_1">C12</ref> shows a marginally significant increase in White racial prejudice from the pre-election (Wave 7) to the post-election (Wave 8) periods (0.53, SE ¼ 0.28, p &lt; .10). Moving to the second question, we adopt the strategy of <ref type="bibr" target="#b15">Druckman and Nelson (2003)</ref> and test whether the effects of exposure to Obama persist once we include the post-election wave. Online Appendix Table <ref type="table" target="#tab_0">C13</ref> shows a negative and significant influence of change in the number of political television shows viewed from Waves 6-7 on change in racial prejudice from Waves 6-8 (-12.60, SE ¼ 5.16, p &lt; .05); adding demographic controls in a second model does not alter the exposure coefficient (-13.45, SE ¼ 5.18, p &lt; 0.05). Similarly, Online Appendix Table <ref type="table" target="#tab_0">C14</ref> shows a marginally significant interaction between Wave 7 exposure and the Waves 6-8 variable (-5.58, SE ¼ 3.16, p &lt; .10); the interaction is significant with the addition of demographic controls (-7.44, SE ¼ 3.50, p &lt; .05). Overall, the impact of exposure remained largely intact immediately after the 2012 campaign.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The extent to which outgroup exemplars can reduce prejudice has gained increasing attention; yet, little is known about the effects of exemplars who are counter-stereotypical but not uniformly well liked, among heterogeneous audiences who have strong prior attitudes, and in dynamic communication environments. In this study, we engage with these theoretical questions through an analysis of the effects of one historically important exemplar, Barack Obama, during the 2012 U.S. presidential campaign. Our results contribute to our understanding of Obama's impact as well as exemplars generally, but we first consider potential limitations of this study.</p><p>An initial question is about the size of the decline in racial prejudice. On the one hand, a two-point decline is small relative to the 0-100 range of the variable, but that metric fails to account for the much more limited dispersion of respondents along the scale. The two-point change is 0.13 SD units, which is often considered a modest effect size, but such labels are context-specific. It seems to us that the size of a change can be more meaningfully understood within the context of what is typical for that variable. Racial prejudice, by all accounts, typically changes very little, if at all, and indeed, ANES and GSS data reveal that the same prejudice measure as the one used in this study changed by an average of 0.12 or 0.03 SDs, respectively, during recent 2-year periods. In that context, the size of the change in racial prejudice during the 2012 campaign is slightly or much larger than average.</p><p>Further, as an estimate of the Obama effect, the overall trend in racial prejudice is conservative, as it assumes that all respondents experienced the same exposure. We find substantial intra-individual variation in exposure: Whites who reported the most political television use, and who were thus likely to be most exposed to Obama, showed declines in racial prejudice four to six times larger than the overall trend. This means that studies that do not measure and model exposure are likely to underestimate effect sizes among heavily exposed subgroups.</p><p>We must be cautious in interpreting these results in causal terms, of course. By using only within-person variance, however, fixed-effects regression controls for all stable individual differences, which represent the single greatest threat to causal inference in media effects research. We also control for any time-varying effects of individual differences as well as period effects, representing the sum-total of all else that changed. Using fixed effects clearly reduces the chances of spuriousness, but reverse causality remains plausible, albeit unlikely in this particular case. That Whites with more positive preexisting racial attitudes may have sought out coverage of Obama makes little sense given that Obama received mostly negative coverage <ref type="bibr">(Pew Research Center, 2012)</ref>. Partisan selective exposure is also unlikely given that we found no effects of either individual or media partisanship.</p><p>Another question is whether the decline in racial prejudice and effects of political television exposure can be fairly attributed to the 2012 campaign given that the two panel waves include the full 2-year period between 2010 and 2012. Although all of the changes in prejudice may not be because of the 2012 campaign alone, it is the most plausible primary cause. Political television generally portrays Black people using stereotypes <ref type="bibr" target="#b16">(Entman &amp; Rojecki, 2000)</ref>, and there has not been a significant overall positive change in portrayals in recent years <ref type="bibr" target="#b13">(Dixon &amp; Williams, 2015)</ref>. During Obama's first term, news coverage rarely made explicit reference to race, but when it did it reinforced racial conflict <ref type="bibr">(Pew Research Center, 2010)</ref>. Meanwhile, some suggest that the Tea Party rose to power partly through priming racial animosity <ref type="bibr">(Parker &amp; Barretto, 2013)</ref>. Other race-related stories, such as the killing of Trayvon Martin, likely modeled racial conflict as well <ref type="bibr" target="#b7">(Coates, 2017)</ref>. Even the 2012 campaign, which highlighted Obama countering stereotypes, alluded to his ''otherness'' <ref type="bibr" target="#b3">(Bell et al., 2014)</ref>. Indeed, all of these negative portrayals suggest that the effects we observed are due both to their displacement as well as the introduction of a positive stimulus (i.e., exposure to Obama).</p><p>It is possible that some part of the 2012 effect may be because of cumulative exposure to Obama reaching back to the 2008 campaign. Unfortunately, we cannot directly test this idea because of small sample sizes for the panel sample that includes both campaigns. Media effects research more generally casts doubt on this explanation though, because accessibility effects tend to decay in a matter of days <ref type="bibr" target="#b17">(Gerber et al., 2011;</ref><ref type="bibr" target="#b22">Hill et al., 2013)</ref>. Our own results suggest a somewhat slower decay rate. The post-election wave revealed that most of the 2012 effect remained intact weeks later. We attempted to assess more fine-grained changes in post-election levels of prejudice using respondents' date of interview. This did not show any clear patterns, though high error variance because of small daily samples limits our ability to make precise conclusions.</p><p>Insofar as the decline in racial prejudice is due primarily to the 2012 campaign, this may appear at odds with other recent findings in the literature. In particular, Pasek and his colleagues (2014) find no change in racial stereotypes on repeated cross-sectional surveys between 2010 and 2012, and small increases in other prejudice measures. Yet, their 2012 survey was fielded between August 30 and September 11, 2012, thus excluding the fall 2012 campaign. The second wave of our panel, by contrast, was fielded during the last week of the campaign. In light of these differences in survey timing, we do not see a conflict between our findings and <ref type="bibr">Pasek et al.'s (2014)</ref>. The importance of survey timing is consistent with the role of exemplar accessibility.</p><p>The measurement of prejudice may also be relevant. In this study, we use a standard, stereotype-based measure of prejudice that aligns with the hypothesized mechanism of Obama countering stereotypes. Yet some suggest that Obama's success may have sent the message that Blacks who do not succeed lack a strong work ethic <ref type="bibr" target="#b28">(Lybarger &amp; Monteith, 2011;</ref><ref type="bibr" target="#b47">Valentino &amp; Brader, 2011)</ref>. That argument is closely linked to racial resentment, which highly correlates with racial stereotypes <ref type="bibr" target="#b26">(Kinder &amp; Sanders, 1996)</ref>. Moreover, exposure to counter-stereotypical Black exemplars has been shown to improve overall attitudes toward Blacks and, in turn, increase support for affirmative action <ref type="bibr" target="#b37">(Ramasubramanian, 2011)</ref>. An experimental study revealed that exposure to Obama could reduce implicit racial bias as well <ref type="bibr" target="#b9">(Columb &amp; Plant, 2016)</ref>. Collectively, these findings give us confidence that our results are not contingent on a particular measure of prejudice. Even if they were, racial stereotypes still have numerous attitudinal and behavioral consequences <ref type="bibr" target="#b5">(Bobo &amp; Kluegel, 1993;</ref><ref type="bibr" target="#b26">Kinder &amp; Sanders, 1996;</ref><ref type="bibr" target="#b35">Piston, 2010)</ref>.</p><p>Overall, the prejudice-reducing potential of outgroup exemplars is bolstered by our findings. Liking Obama did not prove necessary for exposure to reduce racial prejudice, and indeed, on all panel waves most Whites' feeling thermometer ratings of Obama were below the midpoint. This leaves Obama's counter-stereotypical influence as the most likely explanation for the decline in racial prejudice, and suggests more broadly that counter-stereotypical exemplars can reduce prejudice even when they are not well-liked, though additional research is needed to further probe this possibility. Yet even skeptics have recognized Obama's strong counter-stereotypical character, albeit as a reason for Whites to dismiss him as an atypical exemplar <ref type="bibr" target="#b46">(Tesler, 2016)</ref>. That this did not happen is heartening, and consistent with exemplification occurring outside conscious awareness <ref type="bibr" target="#b6">(Bodenhausen et al., 1995)</ref>. Also heartening given the political turbulence of our times is the irrelevance of partisanship in our analyses. Although on the surface campaign communication is oppositional, the implicit images nonetheless showed Obama and his family refuting Whites' negative preexisting images of Blacks. Ultimately, racial attitudes are responsive not only to counter-stereotypical outgroup exemplars but also to those that reinforce stereotypes. This makes it all the more important to continue investigating when and how exposure to outgroup exemplars influences public opinion toward African Americans as well as the many other outgroups who face prejudice and discrimination.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>This study relies on an eight-wave, population-based panel survey from Fall 2007 to Winter 2013. The first five waves were collected for the 2008 National Annenberg Election Study (NAES) between Fall 2007 and Winter 2009. The NAES began in Wave 1 with approximately 20,000 respondents, and each subsequent wave included re-interviews and fresh samples. Wave 6 was executed in fall 2010 as part of the Russell Sage Foundation (RSF) Recontact Study with 3,263 non-Hispanic Whites from Waves 4 and 5. Finally, as part of the Institute for the Study of Citizens and Politics (ISCAP) panel, Wave 7 re-interviewed 1,826 non-Hispanic Whites from Wave 4 and 5 the week before the 2012 election, with 1,738 completing Wave 8 immediately after the election. The dates for the waves we rely on are as follows: Wave 3: July 17-August 29, 2008; Wave 4: August 29-November 4, 2008; Wave 5: November 5, 2008-January 31, 2009; Wave 6: September 21-October 6, 2010; Wave 7: October 20-October 29, 2012; and Wave 8: November 14, 2012-January 29, 2013.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1 presents an overview of change in levels of White racial prejudice from Summer 2008 through Winter 2013. The black trend line represents the 290 White respondents who completed Waves 3-8, while the gray trend line represents the 652 White respondents who completed Waves 4-8. Both groups show the same pattern: a decline in racial prejudice during Fall 2008, an increase in Fall 2010, a decline in Fall 2012, and an increase in Winter 2013. The declines correspond with the two presidential campaigns, and despite increases after each campaign, racial prejudice remained lower in Winter 2013 than in Summer 2008. As shown in the fixed effects model in Online Appendix TableC1, within-person change is racial prejudice from Waves 3-8 is negative and significant -2.54 (p &lt; .01).In Figure2, we examine change in racial attitudes between Wave 6 (Fall 2010) and Wave 7, fielded the week before the 2012 election. The solid black line shows a decline in racial prejudice among the 693 Whites who completed both waves. As shown in the fixed-effects model in Column 1 of Online Appendix TableC2, the coefficient for the Waves 6-7 variable is -1.94 (p &lt; .001). Decomposing the measure of prejudice, the dotted black line shows a positive shift in attitudes toward Blacks, while the solid gray line shows no change in attitudes toward Whites. The fixed effects models in Columns 2 and 3 of TableC2confirm that attitudes toward Blacks became significantly more positive (1.67, p &lt; .05), while attitudes toward Whites did not change significantly (-0.35, p &gt; .10). In sum, overall levels of White racial prejudice declined during the 2012 campaign, due primarily to a positive shift in esteem for Blacks.To better understand the size of the decline in racial prejudice, we follow past research and compare it with recent secular trends. During the 2 years between Waves 6 and 7, racial prejudice changed by 0.13 SDs. By comparison, the General Social Survey showed an average change of 0.12 SDs for the same measure per 2-year period between 1990 and 2008; the American National Election Studies showed an average change of 0.04 SDs per 2-year period between 1992 and 2008<ref type="bibr" target="#b18">(Goldman, 2012)</ref>. Within this context, the decline during the 2012 campaign is at least as large as the average 2-year change observed in these measures.Overall trends in racial prejudice neglect individual variability in exposure. Those who became more attentive to political television should have a higher probability of exposure to Obama. Column 1 of Table1presents a fixedeffects model where within-person change in the number of political television shows viewed predicts within-person change in racial prejudice. The negative and significant coefficient for the TV variable (-11.17, p &lt; .05) indicates that</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Mean Levels of White Racial Prejudice, Attitudes toward Blacks, and Attitudes toward Whites, Fall 2010-Fall 2012 Note: Includes non-Hispanic Whites who completed Waves 6 and 7 (N ¼ 693).</figDesc><graphic coords="10,51.93,395.04,336.93,186.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Change in White Racial Prejudice, Summer 2008 to Winter 2013 Note: White racial prejudice ranges from 0 to 100, where higher positive values indicate higher levels of prejudice.</figDesc><graphic coords="10,53.75,97.12,336.93,188.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S 13 Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy033/5280952 by guest on 24 October 2019</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Effects of Within-Person Change in Political TV Exposure on Within-Person Change in White Racial Prejudice (Fixed-Effects Panel Models) The table presents unstandardized fixed-effects coefficients, with standard errors in parentheses. All independent variables range from 0 to 1. Each model controls for change in the order in which the racial groups were asked about. Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001.</figDesc><table><row><cell>1</cell><cell>2</cell></row></table><note><p><p><p><p><p><p><p><p><p><p>Note:</p>E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S explains the effects of exposure. Across all waves, Obama favorability has a modest negative correlation with racial prejudice (r ¼ -.19), and aggregate change in favorability mostly corresponds with change in racial prejudice. During the 2008 campaign, when prejudice declined between Waves 3, 4, and 5, mean Obama favorability increased</p>(38.87, 42.31, 48.21, n ¼ 2,630)</p>. After the 2008 campaign, when prejudice increased between Waves 5 and 6, Obama favorability decreased</p>(48.54, 39.84, n ¼ 3,212)</p>. When prejudice declined during the 2012 campaign, between Waves 6 and 7, Obama favorability increased</p>(38.05, 40.73, n ¼ 692)</p>. However, after the 2012 campaign, when prejudice increased between Waves 7 and 8, Obama favorability increased as well</p>(40.57, 42.89, n ¼ 1,738)</p>.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Effects of 2012 Levels of Political Television Exposure on Within-Person Change in White Racial Prejudice (Fixed-Effects Panel Models)</figDesc><table><row><cell>1</cell><cell>2</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded from https://academic.oup.com/ijpor/advance-article-abstract/doi/10.1093/ijpor/edy033/5280952 by guest on 24 October 2019</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>I N T E R N A T I O N A L J O U R N A L O F P U B L I C O P I N I O N R E S E A R C H</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>Financial support was provided by the <rs type="funder">Annenberg Public Policy Center</rs>, the <rs type="institution">Institute for the Study of Citizens and Politics</rs>, the <rs type="funder">University of Pennsylvania School of Arts and Sciences and University Research Foundation</rs>, and the <rs type="funder">Russell Sage Foundation</rs> (<rs type="grantNumber">Awards 94-17-01</rs> and <rs type="grantNumber">94-18-01</rs> to D.J.H. and <rs type="person">W. Hobbs</rs> and <rs type="grantNumber">87-11-01</rs> to S.K.G. and <rs type="person">D. Mutz</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_HQuY4nZ">
+					<idno type="grant-number">Awards 94-17-01</idno>
+				</org>
+				<org type="funding" xml:id="_cWX4X4g">
+					<idno type="grant-number">94-18-01</idno>
+				</org>
+				<org type="funding" xml:id="_Etc4AGA">
+					<idno type="grant-number">87-11-01</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Data</head><p>Supplementary Data are available at IJPOR online. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Change scores as dependent variables in regression analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Allison</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/271083</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Sociological methodology</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Clogg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basil Blackwell</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="93" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Fixed effects regression models</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Allison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Sage Publications</publisher>
+			<pubPlace>Los Angeles, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Contextual moderation of racial bias: The impact of social roles on controlled and automatically activated attitudes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Maddux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Petty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Brewer</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.87.1.5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="22" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Racial framing and racial appeals in the 2012 presidential election</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Entman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rojecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annual meeting of the American political science association</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Paper prepared for presentation</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Is Obama&apos;s win a gain for blacks? Changes in implicit racial prejudice following the 2008 election</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bernstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Claypool</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-9335/a000021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="147" to="151" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Opposition to race-targeting: Self-interest, stratification ideology, or racial attitudes?</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Kluegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="443" to="464" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of atypical exemplars on racial beliefs: Enlightened racism or generalized appraisals</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Bodenhausen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wanke</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/jesp.1995.1003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="63" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">My President was black: A history of the first African American White House-and what comes next. The Atlantic</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Coates</surname></persName>
+		</author>
+		<ptr target="https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Revisiting the Obama effect: Exposure to Obama reduces implicit prejudice</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Columb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Plant</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2010.11.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="499" to="501" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Obama effect six years later: The effect of exposure to Obama on implicit anti-black evaluative bias and implicit racial stereotyping</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Columb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Plant</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/soco.2016.34.6.523</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Cognition</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="523" to="543" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">On the malleability of automatic attitudes: Combating automatic prejudice with images of admired and disliked individuals</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Greenwald</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.81.5.800</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="800" to="814" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">All the news you want to hear: The impact of partisan news exposure on political participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dilliplane</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfr006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="287" to="316" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Televised exposure to politics: New measures for a fragmented media environment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dilliplane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-5907.2012.00600.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="236" to="248" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The changing misrepresentation of race and crime on network and cable news</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12133</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="24" to="39" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>E X E M P L A R S A N D W H I T E R A C I A L A T T I T U D E S</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Framing and deliberation: How citizens&apos; conversations limit elite influence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Druckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1540-5907.00051</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="729" to="745" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Entman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rojecki</surname></persName>
+		</author>
+		<title level="m">The black image in the white mind: Media and race in America</title>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">How large and long-lasting are the persuasive effects of televised campaign ads? Results from a randomized field experiment</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Gimpel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">.org/10.1017/S000305541000047X</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="135" to="150" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effects of the 2008 Obama presidential campaign on white racial prejudice</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Goldman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfs056</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="663" to="687" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Obama effect: How the 2008 campaign changed white racial attitudes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Russell Sage Foundation</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Changing white attitudes toward black political leadership</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Hajnal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Panel models in sociological research: Theory into practice</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Halaby</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.soc.30.012703.110629</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="507" to="544" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">How quickly we forget: The duration of persuasion effects from mass communication. Political Communication</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vavreck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zaller</surname></persName>
+		</author>
+		<idno type="DOI">.org/10.1080/10584609.2013.828143</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="521" to="547" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Obama, McCain two of the best-liked candidates</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Jones</surname></persName>
+		</author>
+		<ptr target="http://www.gallup.com/poll/111439/Obama-McCain-Two-BestLiked-Candidates.aspx" />
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Obama averages 49% approval in first term</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Jones</surname></persName>
+		</author>
+		<ptr target="http://www.gallup.com/poll/159965/obama-averages-approval-first-term.aspx" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The surprisingly limited malleability of implicit racial evaluations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Joy-Gaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-9335/a000020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="137" to="146" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Divided by color: Racial politics and democratic ideals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Kinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sanders</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Improving media measurement: Evidence from the field</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lacour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vavreck</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10584609.2014.921258</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="408" to="420" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The effect of Obama saliency on individual-level racial bias: Silver bullet or smokescreen</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lybarger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monteith</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2010.12.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="647" to="652" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The influence of exemplar versus prototypebased media primes on racial/ethnic evaluations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mastro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tukachinsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2011.01587.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="916" to="937" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Obama as exemplar: Debate exposure and implicit and explicit racial affect</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Meirick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Dunn</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10646175.2014.986312</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Howard Journal of Communications</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="73" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Change they can&apos;t believe in: The tea party and reactionary politics in America</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Barreto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Attitudes toward blacks in the Obama era: Changing distributions and impacts on job approval and electoral choice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pasek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Stark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Payne</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfu012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="276" to="302" />
+			<date type="published" when="2008">2014. 2008-2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Media, race, and Obama&apos;s first year: A study of African Americans in U.S. news coverage</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Pew Research Center</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Project for Excellence in Journalism</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Winning the media campaign 2012</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Pew Research Center</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Project for Excellence in Journalism</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">How explicit racial prejudice hurt Obama in the 2008 election</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Piston</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11109-010-9108-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="431" to="451" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Obama effect: Decreasing implicit prejudice and stereotyping</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Plant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T L</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Columb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goplen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Peruche</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2009.04.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="961" to="964" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The impact of stereotypical versus counterstereotypical media exemplars on racial attitudes, causal Attributions, and support for affirmative action</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramasubramanian</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/josi.12100</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="497" to="516" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The bridge: The life and rise of Barack Obama</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Remnick</surname></persName>
+		</author>
+		<editor>Alfred A. Knopf</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Social categorization and behavioral episodes: A cognitive analysis of the effects of intergroup contact</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rothbart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>John</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-4560.1985.tb01130.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="81" to="104" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Obama and Bush: A contrast in popularity</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saad</surname></persName>
+		</author>
+		<ptr target="http://www.gallup.com/poll/111838/obama-bush-contrast-popularity.aspx" />
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The parasocial contact hypothesis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schiappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hewes</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0363775052000342544</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="92" to="115" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Implicit and explicit attitudes toward African Americans and Barack Obama did not substantively change during Obama&apos;s presidency</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Axt</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/soco.2016.34.6.559</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Cognition</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="559" to="588" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Implicit (and explicit) racial attitudes barely changed during Barack Obama&apos;s presidential campaign and early presidency</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Nosek</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2009.12.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="308" to="314" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krysan</surname></persName>
+		</author>
+		<title level="m">Racial attitudes in America: Trends and interpretations</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Exemplar-based model of social judgment</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Zarate</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-295X.99.1.3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="21" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Post-racial or most-racial? Race and politics in the Obama era</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tesler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The sword&apos;s other edge: Perceptions of discrimination and racial policy opinion after Obama</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Valentino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brader</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfr010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="201" to="226" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The &apos;Obama effect&apos; and white racial attitudes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sigelman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002716210386302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the American Academy of Political and Social Science</title>
+		<imprint>
+			<biblScope unit="volume">634</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="207" to="220" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Exemplification in communication: The influence of case reports on the perception of issues</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zillmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brosius</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

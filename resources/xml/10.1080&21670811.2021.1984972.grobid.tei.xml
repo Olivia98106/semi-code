@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Digital News Readership and Subscription in the United States during COVID-19: A Longitudinal Analysis of Clickstream and Subscription Data from a Local News Site</title>
+				<funder>
+					<orgName type="full">SRC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Northwestern Local News Initiative</orgName>
+					<orgName type="abbreviated">LNI</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Lilly Endowment</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2021-10-20">2021-10-20</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Su</forename><forename type="middle">Jung</forename><surname>Kim</surname></persName>
+							<idno type="ORCID">0000-0003-2025-4019</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Annenberg School for Communication and Journalism</orgName>
+								<orgName type="laboratory">Strategic Public Relations</orgName>
+								<orgName type="institution">University of Southern California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaohan</forename><surname>Wang</surname></persName>
+							<idno type="ORCID">0000-0002-3978-1946</idno>
+							<affiliation key="aff1">
+								<address>
+									<settlement>Dexcom, San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+							<idno type="ORCID">0000-0001-7077-0172</idno>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Integrated Marketing Communications</orgName>
+								<orgName type="department" key="dep2">Integrated Marketing Communications</orgName>
+								<orgName type="institution">Medill School of Journalism</orgName>
+								<address>
+									<settlement>Media</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Northwestern University</orgName>
+								<address>
+									<settlement>Evanston</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Su Jung Kim http://orcid</orgName>
+								<address>
+									<postCode>0000-0003-2025-4019</postCode>
+									<settlement>Xiaohan Wang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">http://orcid</orgName>
+								<address>
+									<postCode>0000-0002-3978-1946</postCode>
+									<settlement>Edward C. Malthouse</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Digital News Readership and Subscription in the United States during COVID-19: A Longitudinal Analysis of Clickstream and Subscription Data from a Local News Site</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Digital Journalism</title>
+						<title level="j" type="abbrev">Digital Journalism</title>
+						<idno type="ISSN">2167-0811</idno>
+						<idno type="eISSN">2167-082X</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="1015" to="1036"/>
+							<date type="published" when="2021-10-20" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">01641C735BB049C504225C6C4EBC5214</idno>
+					<idno type="DOI">10.1080/21670811.2021.1984972</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The COVID-19 pandemic created a unique opportunity where local news sites play an essential role in their readers' lives. Whether this increased level of news readership will help save the business of local journalism is a question that journalism scholars and professionals seek to answer. We propose a framework that demonstrates the relationships between local news consumption experiences, reading behaviours, and audience retention. We analysed individual-level clickstream data and payment records of subscribers of a regional newspaper to track the changes in their news reading behaviours and renewal decisions before and after the virus outbreak. We found that reading behaviours spiked since the beginning of the pandemic and gradually decreased but remained at a relatively higher level compared to the same period in previous years. We also found that reading news on COVID-19 or local issues and signing up for email newsletters for local news or sports positively influenced establishing the regularity of online local news consumption. The regularity of consuming local news on the site, in turn, positively impacted audience retention, demonstrating the importance of building the habit of online news consumption by providing the value that current and potential subscribers seek from their digital news consumption experiences.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The steady growth of digital news consumption has accelerated since the pandemic unfolded. More than 8 in 10 American adults are closely following the news about the coronavirus and approximately 60% name news media as the most used source for information about the virus <ref type="bibr" target="#b51">(Watson 2020)</ref>. Local news sites have played a particularly critical role in delivering news on the impact of the pandemic on local communities. We have seen a surge of user traffic as people try to learn how the pandemic has affected their hometowns and neighbourhoods <ref type="bibr" target="#b21">(Koeze and Popper 2020)</ref>. Audiences, in desperate need of credible news sources amid widespread fake news, have turned to local news media for accurate and trustworthy information. According to the Pew Research Centre, people generally respond that they trust information from local news organizations more than from the general news media, demonstrating how much people rely on local news as one of the most vital sources of information during the global public health crisis <ref type="bibr" target="#b45">(Shearer 2020)</ref>.</p><p>Whether and how this recently gained readership in local news sites will be enough to save news companies from the financial challenges they have long been facing are questions that both journalism scholars and practitioners hope to find answers for. Even before the pandemic, news organizations had already been struggling due to shrinking advertising revenue and people's reluctance to pay for online news. Giant tech companies such as Google, Facebook, and Amazon collectively keep about 70% of digital advertising revenue <ref type="bibr" target="#b48">(Sterling 2019)</ref>. The free-to-fee transition of online news sites has not generated much revenue that can compensate for the loss of print subscription or ad revenue because people generally are not willing to pay for online news <ref type="bibr" target="#b7">(Chyi and Ng 2020)</ref> due to the free mentality that assumes digital news is something provided free of charge <ref type="bibr" target="#b9">(Dou 2004;</ref><ref type="bibr" target="#b11">Fletcher and Nielsen 2017)</ref>. On top of these circumstances, the economic crisis that stemmed from the pandemic has led to more layoffs and budget cuts in the newsroom, exacerbating the situation <ref type="bibr" target="#b15">(Izadi 2020)</ref>. On the other hand, we have witnessed an increase in digital news subscription since the virus outbreak, with an inelastic response to price changes (i.e. price increases having a minimal impact on subscription volume), which could be a turning point for the business viability of digital journalism <ref type="bibr" target="#b26">(Mather 2020)</ref>.</p><p>The motivation behind this study lies in understanding these complicated dynamics between digital news readership and subscription/retention during the COVID-19 pandemic using the pandemic as an external shock that stimulated news interest and engagement, which contributed to subscriber retention. There is a growing body of work that investigates the business model for digital journalism that is supported by news readers (e.g. <ref type="bibr" target="#b20">Kim et al. 2021;</ref><ref type="bibr" target="#b56">Zhou et al. 2021)</ref>. Given the vital role that local news sites play during the pandemic in providing access to credible news and information about different ways the virus impacted local communities <ref type="bibr" target="#b50">(Waldman and Sennott 2020)</ref>, examining news consumption patterns and their impact on news audiences before and after the virus outbreak will show us how the elevated news interest and usage contribute to people's online new reading habits, which then lead to subscriber retention. It also provides us with an opportunity to harness user clickstream data to provide a more nuanced understanding of news consumption patterns during the pandemic, which reveals audiences' needs for and experiences with local news when they are facing the uncertainty of the unfolding situation.</p><p>We use large-scale individual-level clickstream data and payment history records from a regional newspaper located in the southern region of the United States. By conducting a longitudinal analysis of clickstream data, we first analyse how people's reading behaviours on a local news site have changed before and after the virus outbreak. Then we examine which news categories or email newsletter subscriptions, including COVID-19 and other categories or topics, have contributed to visiting the local news site more regularly before and after the virus outbreak. Finally, by linking news reading behaviours with subscription data, we offer insights on how news reading behaviours drive audiences' decisions to keep their digital news subscriptions on a local news site during COVID-19.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reading Behaviours as Building Blocks of Audience Engagement</head><p>Digital disruptionthe expansion of digital news outlets, erosion of advertising revenue by tech giants, and increasing user participation in news production, distribution, and consumptionhas led journalism scholars to discuss what audience engagement means and how organizations can increase it <ref type="bibr" target="#b2">(Batsell 2015)</ref>. The basic assumption is that by promoting audience engagement, news organizations can build more trust and transparency with their audience, which will ultimately lead to positive outcomes such as subscriptions, donations, public awareness, or more broadly, policy change <ref type="bibr" target="#b13">(Green-Barber and McKinley 2019;</ref><ref type="bibr" target="#b35">Nelson and Kim 2021;</ref><ref type="bibr" target="#b40">Powers 2018)</ref>. Many scholars note the multidimensional aspect of audience engagement and provide a framework that disentangles different dimensions of the concept (Belair-Gagnon, <ref type="bibr" target="#b3">Nelson, and Lewis 2019;</ref><ref type="bibr" target="#b23">Lawrence, Radcliffe, and Schmidt 2018;</ref><ref type="bibr" target="#b29">Meier, Kraus, and Michaeler 2018;</ref><ref type="bibr" target="#b32">Mersey, Malthouse, and Calder 2012;</ref><ref type="bibr" target="#b35">Nelson 2021;</ref><ref type="bibr" target="#b44">Schmidt, Nelson, and Lawrence 2020;</ref><ref type="bibr" target="#b47">Steensen, Ferrer-Conill, and Peters 2020;</ref><ref type="bibr" target="#b54">Xia et al. 2020)</ref>. The review of audience engagement shows the field's emphasis on audience participation through dialogue and co-creation in and outside the newsroom (e.g. reciprocal or participatory journalism). Simply speaking, audience engagement is equated with audience participation in "different stages of the news production process, sometimes in unrelated and unexpected ways (Belair-Gagnon, <ref type="bibr">Nelson, and Lewis 2019, pp. 558-559)</ref>."</p><p>This study shifts the focus to exposure-based audience reading behaviours as the behavioural manifestations of audience engagement. As <ref type="bibr" target="#b33">Napoli (2011)</ref> points out, exposure-based dimensions such as site visits, page views, or time spent, have been used as "some of the building blocks of the more complexand persistently ambiguousnotion of engagement (p. 91)". These behaviours are reflections of news audiences' needs, gratifications, or orientations when they consume news, which reveal the "value propositions" from the news audiences' perspective <ref type="bibr">(Lewis 2020, p. 684)</ref>. To a larger extent, this is a "bottom-up" approach to understanding value creation of a local news site for its audiences within the framework of the integrated value creation model that considers the value of local news in the digital era <ref type="bibr" target="#b37">(Olsen 2021)</ref>. According to <ref type="bibr" target="#b37">Olsen (2021)</ref>, value creation is referred to as "how a source (e.g. local newspaper businesses) generates and proposes value for a target (e.g. audiences and society) and how value is captured and shared in the process (p. 3)."</p><p>The COVID-19 pandemic created a unique opportunity for news organizations to be essential in their readers' lives since the need for credible information about the unfolding situation and its impact on daily lives has become exceptionally high. Journalism scholars can better understand what audiences expect from news media and what value is created from audiences' news consumption experience. Such understanding will help them identify the discrepancy between what audiences actually want and what journalists expect them to want <ref type="bibr" target="#b44">(Schmidt, Nelson, and Lawrence 2020)</ref>, contributing "both to economic survival (market-driven approach) and to sustaining journalism output necessary to meet audience information needs (public journalism) <ref type="bibr">(McCollough, Crowell, and Napoli 2017, p. 102)</ref>." The value creation, and the repeated experience of obtaining value generated from digital news consumption help nonreaders or occasional readers build a habit of news consumption on a local news site. The habit then moves these readers down the digital subscription funnel <ref type="bibr" target="#b4">(Benton 2019)</ref>, turning them into habitual readers to first-time subscribers and ultimately recurring subscribers.</p><p>Figure <ref type="figure" target="#fig_0">1</ref> visualizes this process in a framework, which we will explain in more detail in the following section. The boxes on the left side show how value is created from local news consumption. By consuming various categories of news and/or email newsletters, audiences go through a wide range of experiences <ref type="bibr" target="#b5">(Calder and Malthouse 2004;</ref><ref type="bibr" target="#b31">Mersey, Malthouse, and Calder 2010)</ref>, which satisfy multiple needs. The boxes on the right side represent behavioural manifestations of this engagement. The repetition of that process will lead the audiences to become habitual readers, who may read more (i.e. intensity) and other topics on the site (i.e. diversity). These reading behaviours, as manifestations of engagement, predict retention (i.e. whether audiences will maintain their relationship with the news outlet or not). In the following sections, we address how the pandemic created an opportunity to promote reading behaviours on a local news site and how these boosted reading behaviours lead to audience retention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pandemic as an Opportunity to Stimulate Local News Reading Behaviours</head><p>The uncertainties surrounding a pandemic and their long-term consequences on public health, economy, and other sectors of the society drive audiences to seek out news actively <ref type="bibr" target="#b10">(Dunwoody 2020)</ref>. A pandemic, at the basic level, is a global public health issue about which people need information on the cause, transmission, prevention, or cure. On the other hand, it is an emotional and communal issue that touches upon many facets of human lives. These far-reaching implications of the pandemic have created a situation where engagement with news is more important than ever. As previous research on news engagement (or the lack of it) notes, the motivations behind building habits or engagement are multilayered in personal and social levels <ref type="bibr" target="#b31">(Mersey, Malthouse, and Calder 2010;</ref><ref type="bibr" target="#b39">Palmer and Toff 2020)</ref>. People read the news to meet their gratifications for information, entertainment, opinion, and social interaction <ref type="bibr" target="#b24">(Lee 2013)</ref>. At the same time, news consumption contributes to having a sense of community <ref type="bibr" target="#b30">(Mersey 2009</ref>) and public connection <ref type="bibr" target="#b8">(Couldry, Livingstone, and Markham 2010)</ref>.</p><p>Narrowing down to the case of COVID-19, this outbreak disrupted most of our daily routines, from work to education to family care to shopping to leisure time, to name a few. As mentioned earlier, the uncertainty stemming from the virus prompted the public to turn their attention to news media for informational, emotional, and communal needs. Local news played a particularly central role as a conduit for accurate information about the virus in the face of fake news. Reports on media trust during the pandemic consistently found that people list local news outlets as one of the most trustworthy media sources for information about the pandemic <ref type="bibr" target="#b1">(Ballew et al. 2020;</ref><ref type="bibr" target="#b45">Shearer 2020</ref>), whereas those who mostly get their news from social media are less likely to follow the coverage of COVID-19 news and more likely to be exposed to misinformation about the virus <ref type="bibr" target="#b18">(Jurkowitz and Mitchell 2020)</ref>. People also seek out local news to closely monitor rules and policies from local government and health officials as well as obtain other vital information that helps locals overcome the challenges caused by the pandemic <ref type="bibr" target="#b12">(Glaser 2020)</ref>.</p><p>The pandemic has also elicited various emotional reactions from the public such as fear, frustration, anxiety, loneliness, depression, sadness, or anger (American Psychological Association 2020; <ref type="bibr" target="#b19">Keeter 2020;</ref><ref type="bibr" target="#b27">McCarthy 2020)</ref>. With strict preventive measures such as social distancing and lockdowns, which inevitably prevented people from having physical social interactions, not only does local news give access to crucial information about the crisis, but also serves as a "good neighbor"expressing care about the community, showing an understanding of the collective experiences of the community, and offering solutions <ref type="bibr" target="#b13">(Heider, McCombs, and Poindexter 2005)</ref>. Stories of witness suffering or messages of hope provide a way to cope with negative emotions by motivating the readers emotionally engaged in the narrative of personal stories <ref type="bibr" target="#b49">(Wahl-Jorgensen, 2020)</ref>. Processing such personal narratives also help construct the "affective community" whose members share "intimate emotional experiences" with those affected and "feel with" them <ref type="bibr">(Yell 2012, p. 425)</ref>.</p><p>To sum, the COVID-19 pandemic provided a great opportunity for local newspapers in regaining audience engagement. Many observed a surge in traffic to local news sites since the beginning of the pandemic <ref type="bibr" target="#b21">(Koeze and Popper 2020)</ref>. What is unclear from the existing report or research is a more nuanced understanding of the patterns of local news consumptionvarious reading behaviours that reflect the level of audience engagement. Do they visit local news sites more frequently since the pandemic started? Do they spend more time on local news sites, if so, which news categories do they consume more? Do they digest diverse topics or only read stories related to the pandemic? To answer these questions, we pose the following questions:</p><p>RQ1: How much the level of news audience engagementmanifested by regularity, intensity, and diversity of readingincreased over the course of the COVID-19 pandemic? What are the major differences before and after the virus outbreak? RQ2: How much the consumption of different news categories changed over the course of the COVID-19 pandemic? What are the major differences before and after the virus outbreak?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pandemic as an Opportunity to Turn Occasional Readers into Habitual Readers on a Local News Site</head><p>In addition, we ask whether the increased interest in local news has contributed to building or strengthening one of the reading behaviours we investigate: regularity of reading news on a local news site. We particularly focus on regularity (as measured by frequency) because it is one of the key aspects of news consumption habits <ref type="bibr" target="#b14">(Hirsch 2018)</ref> and what the news industry sees as an important driver in the digital subscription funnel <ref type="bibr" target="#b38">(Owen 2019)</ref>. We expect that reading COVID-19 news will have a positive influence on subsequent regularity since it is the main driver of the heightened local news readership that we observed at the beginning of the pandemic. However, it is unclear whether consuming news categories other than COVID-19 would also influence local news consumption habits, if so, which news categories will have an impact.</p><p>Email newsletters are another driver that helps the audiences build the regularity of reading local news. From the news publisher's perspective, newsletters "offer news organizations a chance to maintain a strong direct relationship with readers, a high degree of targeting, better showcasing of existing content and original analysis and commentary <ref type="bibr">(Jack 2016, p. 2)</ref>." From the audiences' perspective, signing up for newsletters reduces information overload. By filtering out information that is not personally relevant or useful, they can selectively receive information that caters to their needs <ref type="bibr" target="#b43">(Savolainen 2007</ref>) and may build "reading routines/consumption, which is key for establishing reader loyalty <ref type="bibr">(Santos and Peixinho 2017, p. 781)</ref>." Previous research notes that engaging in habitual behaviours provides a sense of comfort and security <ref type="bibr" target="#b41">(Rosenstein and Grant 1997)</ref>, which became more important during the pandemic when most of our daily routines were disrupted. Based on the discussion above, we pose the following hypotheses and research questions: Whether the boosted audience engagement in local news during the pandemic will lead to continuing subscription or cancellation is another important question for the sustainability of local journalism. We have seen both negative and positive projections about the future of local news since before the start of the pandemic: Those who share a pessimistic view of the financial viability of local news are concerned about layoffs, furloughs, and decreasing ad revenue that have long threatened the survival of local news <ref type="bibr" target="#b17">(Jacobs 2020)</ref>. The removal of paywalls for COVID-19 coverage and the resistance of advertisers to place their online ads near virus-related news also exacerbate the situation <ref type="bibr" target="#b34">(Napoli 2020)</ref>. On the other hand, the positive side notes that more people are now paying for news (Reuters Institute, 2020), which has been a challenge to news publishers during their free-to-fee transition <ref type="bibr" target="#b6">(Chyi 2012;</ref><ref type="bibr" target="#b7">Chyi and Ng 2020)</ref>. Local newspapers have learned to adopt various audience engagement strategies that increased subscriptions and diminished churn <ref type="bibr" target="#b52">(Williams 2020)</ref>.</p><p>A recent systematic review of the extant literature on news readers' paying intention/behaviour finds 17 factors that influence paying intention or behaviour (O'Brien, Wellbrock, and Kleer 2020). Although the systematic review does not directly include reading habits as one of the influential factors (e.g., <ref type="bibr" target="#b20">Kim et al. 2021)</ref>, media use or news interest has consistently been found to influence news audiences' paying behaviours. As we explained in the previous section, the regularity of reading behaviour is one aspect of exposure-based audience behaviours that moves the audiences down the digital subscription funnel, converting non-or occasional readers into habitual readers into subscribers. A positive initial experience on a local news site leads to repeated visits, resulting in more loyalty such as membership or subscription. We expect that the regularity of reading local news will contribute to news subscribers' decision to continue the relationship with the news publisher (i.e. retention). Thus, we pose the following hypothesis:</p><p>H3: Subscribers who read the news on a local news site more regularly during the COVID-19 pandemic are less likely to cancel their digital subscription.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data</head><p>We obtained clickstream data from WEHCO Media on the Arkansas Democrat-Gazette (ADG) newspaper from June 11, 2018, to June 7, 2020. ADG, founded in 1819, is distributed in all 75 counties of Arkansas as well as border cities such as Memphis and Texarkana. It is one of the oldest continuously published newspapers west of the Mississippi. ADG implemented a hard paywall in 2002 and switched to a soft paywall in 2015 to attract more readers. More recently it has attracted national attention because it gave its subscribers iPads and cut print distribution to only on Sundays. Our data consist of 752,507 subscription payment records from 692,229 customers. Among these subscribers, 663,941 customers paid for services that offer both Sunday print and 7-day digital access, and the remaining 28,288 customers subscribed for digital-only services. From the 44,905 subscribers who have online reading records in our data, we have 13,120,420 online reading sessions, 11,692,881 page views, and 380,470 newsletter subscriptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>News Reading Behaviors</head><p>We study reading behaviours with three metrics: regularity, intensity, and diversity. For each subscriber month, we calculated regularity as the number of distinct days that the user read the ADG newspaper online, intensity as the number of page views per day of reading, and diversity as the number of news categories that the user read. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>News</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Newsletter Subscription</head><p>There are 21 kinds of newsletters that we aggregated into 13 newsletter groups, including COVID-19 (subscription rate 3.13%), food (2.64%), business (0.97%), entertainment (2.18%), politics (2.14%), crime (2.04%), sports (2.67%), local life (4.26%), Arkansas life (6.86%), breaking news (22.42%), morning update (21.87%), midday update (21.11%), and afternoon update (7.71%). For each subscriber month, we counted the number of newsletter groups that the customer subscribed to, and we used the numbers as predictors in our logistic models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Renewal of Digital News Subscription</head><p>Our dependent variable is the cancellation of a digital-news subscription. It is measured as a binary variable indicating whether a digital-news subscriber cancelled payment during the current month.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Variables</head><p>Whether a customer is subscribed to a digital, print, or print þ digital pricing plan was included in the models as dummies with digital as the reference category.</p><p>All variables that are counts are right skewed with outliers. We transform them with a log to symmetrize the distribution, reduce the extremeness of outliers, and reduce the sparsity of data in the right tail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>We addressed RQ1 and RQ2 by creating time-series plots describing how news reading variables change over time, including reader averages for regularity, intensity, diversity, total number of page views and page views by content category.</p><p>To evaluate the effect of COVID-19 on subscriber's reading behaviours (H1, RQ3, H2, RQ4), we estimated panel regression models predicting the regularity of reading during the next week from reading behaviours during the current week. We also estimated models using monthly data and found similar conclusions, but the weekly data provided more immediate feedback to the organization and often had stronger effect sizes. We estimated separate models for customers who joined less than 3 months prior to the start of the pandemic (i.e. the start of the pandemic being January 27, 2020) and new customers who joined after the pandemic began. For the customers who joined before COVID-19, we further split their reading behaviours pre-and post-COVID.</p><p>We tested H3, which posits that regularity is associated with lower churn rates in the next month, using discrete-time survival analysis models <ref type="bibr" target="#b0">(Allison, 2010)</ref>. Survival analysis models the time until some events occur, in our case cancelling the subscription, as a function of (1) the baseline hazard function, which controls for how long a customer has subscribed, and (2) predictor variables that will enable us to test our hypotheses and control for other factors that might affect cancellation, such as pricing plans. We extracted their reading and payment records from their first subscriptions to first cancellations, or the latest censor date (i.e. June 7, 2020) if they have never cancelled.</p><p>Studying how reading different content topics relates to subsequent regularity and churn can provide important diagnostic information to newsroom editors that can inform, for example, the assignment of reporters, but there are special considerations when building and interpreting the models. The multiple comparison problem implies that if an analyst performed, say, 20 hypothesis tests at the 0.05 level when the null hypothesis is, in fact, true for all tests, then we would expect a type I error, where the true null is rejected by chance. A conservative remedy is to apply the Bonferroni procedure: to achieve a family wise error rate of 0.05 across the 20 tests, reject the null if the P value is less than 0.05/20 ¼ 0.0025. Coefficients with three stars (p &lt; 0.001) will have family wise error rates less than 0.05, while those with one (p &lt; 0.05) or two stars (p &lt; 0.01) should be regarded as inconclusive, borderline "significant" results. As always, one should check for multicollinearity by inspecting a correlation matrix and variance inflation factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Before estimating models, we checked whether multicollinearity is an issue by examining the correlation matrix (see Table <ref type="table" target="#tab_2">1</ref>). Among dependent variables, regularity and diversity have a large positive correlation, indicating that those who read more regularly read more broadly, and vice versa. The two variables are nearly perfectly confounded, making it difficult to study their separate effects on cancellation by having them in any model at the same time. There is a modest positive correlation between regularity and intensity, suggesting that those who read on more days tend to read more articles when they do read. The correlation matrix also shows relationships with cancellation. The correlation between cancellation and regularity is negative, suggesting that the more often people read, the less likely they are to cancel. The same is true for diversity. There is a small, negative correlation between intensity and cancellation, indicating that reading articles in a day of reading is associated with churn. We will study how cancellation depends on regularity and intensity in a multivariate model below.</p><p>Changes in News Reading Behaviors before and after the Pandemic (RQ1) RQ1 asked how news reading behaviours have increased over the course of the COVID-19 pandemic. Figures <ref type="figure" target="#fig_2">2</ref><ref type="figure" target="#fig_4">3</ref><ref type="figure" target="#fig_3">4</ref>provide the total number of distinctive days, average diversity, and average intensity from June 2018 to June 2020, respectively. By including two years of reading behaviours, we can compare them before and after the virus outbreak, and during the same period in previous years. As shown in all three figures, we see a sudden increase in news reading behaviours after the outbreak. For example, for 6 months before the pandemic started (i.e. from August 2019 to January 2020), the total number of days that a user read ADG site was relatively stable at around 5 days per month. After the pandemic began, the same number increased to 20 (four times higher). Individuals' regularity remained at a high level through the end of our study period. Such high levels were not observed prior to COVID-19 (See Figure <ref type="figure" target="#fig_2">2</ref>).</p><p>The levels of average diversity and intensity show similar patterns. This indicates that the pandemic has not only attracted subscribers to read more frequently with more page views, but also engaged them to read more diverse topics (See Figure <ref type="figure" target="#fig_4">3</ref>). All reading behaviours peaked in April 2020, and subsequently decreased, but at a more gradual rate than the surge in February. The Governor of Arkansas announced a plan to reopen the economy on April 18th, and a series of gradual reopening has occurred since May 4th (we provide a more detailed explanation in the Discussion RQ2 asked how much the consumption of different news categories changed over the course of the pandemic. The pandemic and other major spring news events including the economic disruption and the Black Lives Matter movement have led to an increase in the news consumption for almost all categories, but page views in some categories  increased at faster rates than others. For comparison, we provided total page views and page views by local news, national news, and sports for the past 2 years in Figure <ref type="figure" target="#fig_5">5</ref>. As shown in Figure <ref type="figure" target="#fig_5">5a</ref>, the total number of page views per day remained relatively stable at around 12,500, but spiked by five times on January 27, 2020. If we break down this overall pattern across news categories, we find more nuanced differences: before COVID-19, the consumption of local news and sports were at a similar level of around 2,000 page views per day, with more page views of local news in general. However, after the virus outbreak, page views for local news soared to more than 7,000 per day on January 27, 2020, while sports had slightly higher page views instead of such a drastic growth. Consumption of national news content also peaked on January 27, 2020, but compared to local news or sports news (which also includes college sports, which is very popular in Arkansas), the level of national news consumption remained much lower as the pandemic progressed into March when Arkansas had its first COVID-19 infection. The Influence of Local News Readership on Reading Regularity (H1, RQ3) H1 and RQ3 concerned how reading about COVID-19 and other news categories influenced the regularity of local news reading behaviour (i.e. habit) during the pandemic. Table <ref type="table" target="#tab_3">2</ref> presents estimates for the panel regression models that quantify the association between reading different topics in the current week with reading regularity in the following week. The results consistently show that reading news articles related to COVID-19 positively impacted the regularity of reading behaviour for both non-subscribers and subscribers, as predicted by H1. H1 is confirmed.</p><p>We also found that local coverage such as "Other Local News" and "Local Food" has promoted the subsequent regularity. Those who read more articles about topics of crime stories and politics were more likely to read local news online more frequently. Interestingly, news categories that are less relevant to local or pandemic coverage, for example, "National/World News" and "General Business" have negatively impacted the regularity of local news reading behaviour. We bolded the coefficients of these content categories in Table <ref type="table" target="#tab_3">2</ref>.</p><p>The Influence of email Newsletters on Reading Regularity (H2, RQ4) H2 and RQ4 are concerned with how subscribing to different types of email newsletters influences the regularity of reading. Table <ref type="table" target="#tab_4">3</ref> summarizes the results of the panel regression models that use newsletter subscriptions to predict reading regularity in the following week. Subscribing to the COVID-19 newsletter had a nonsignificant association with reading regularity in the next week, and so H2 was not confirmed. Among other types of newsletters, those related to "Arkansas Life" and "Sports" attracted customers to read more regularly. ADG readers who read about local news in Arkansas or receive email notifications about local life are associated with building a stronger habit of reading local news more regularly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reading Behaviors as Paths to Audience Retention (H3)</head><p>H3 predicted that subscribers who read the news on a local news site more regularly are less likely to cancel their digital subscriptions. As shown in Table <ref type="table" target="#tab_5">4</ref>, our baseline model that used reading regularity and intensity to predict churn during the next month shows that reading regularity and intensity are both significant predictors of churn. Customers who read more regularly were less likely to cancel their newspaper subscriptions during the following month, supporting H3. On the other hand, readers who read more articles per day of reading were more likely to cancel their newspaper subscription during the next month, after controlling for regularity. The regularity effect (Z ¼ À15.739) is much stronger than the intensity effect (Z ¼ þ2.730). The intensity effect has been found with other newspapersnot at all page views drive intention (e.g., <ref type="bibr" target="#b20">Kim et al. 2021;</ref><ref type="bibr" target="#b56">Zhou et al. 2021)</ref>. We conclude that the regularity of reading is an important reading behaviour that motivates a subscriber to maintain the relationship with the local news organization.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The COVID-19 pandemic period, which also includes the economic crisis and Black Lives Matter protests, created a momentum in which people actively seek out local news and engage with their content. It also made people realize the importance of credible news sources in times of crisis when misinformation and disinformation about the virus circulate through social media. Focussing on the vital role of local journalism and its financial viability during the pandemic, this study examined how news audiences' local news consumption patterns on a local news site changed before and after the virus outbreak, which news consumption experiences helped digital news readers build the habit of reading local news, and how the local news consumption habit prevented them from cancelling their digital subscriptions. We analysed individual-level clickstream data and payment records of existing ADG subscribers to track the changes in their reading behaviours and renewal decisions before and after the virus outbreak.</p><p>Our findings confirm that audience interest and attention to local news skyrocketed since the beginning of the pandemic. All the reading behaviours we examinedregularity, diversity, and intensityhave increased by about five times higher compared to the pre-pandemic period. Simply speaking, people read more pages across more diverse news categories more frequently since the pandemic started. All three reading behaviours showed a rapid growth in February 2020, reached a peak in April, and gradually decreased until the end of our data period in June 2020. Two patterns are noteworthy: first, the ups and downs of reading behaviours seem to follow the state's reopening plan. 1 The Governor of Arkansas first announced his plan to reopen the economy on April 18 and subsequently rolled out gradual reopening plans throughout May. As the local economy reopened and the virus infection became relatively under control 2 , people's need for local news was subdued, which is shown in the gradual decrease in news consumption.</p><p>The second interesting pattern is that although we observed a decrease in reading behaviours with the gradual reopening of the economy and return to normalcy, the levels of reading frequency and diversity remained at the same level as in February 2020, which is four or five times higher than the same period in previous years. When we analysed the changes in reading behaviours across news categories, we saw a spike in the local news categories. These findings together indicate that people visit a local news site to find virus-related information or stories related to their local community, then repeat the process until it becomes habitual without much mental effort (LaRose 2010). Although we cannot extrapolate the trend past June 2020 (our last data point), this is an optimistic sign that shows the pandemic has indeed driven people's engagement with local news, motivating people to become more habitual readers who consume various news stories, not just the virus coverage.</p><p>This brings us to the question of which news consumption experiences positively influence establishing or promoting local news reading habits. We particularly focussed on two news consumption experiences that create value for local news customers: reading different news categories and signing-up for email newsletters. The results from panel regression models revealed that reading COVID-19 news and other local news as well as signing up for email newsletters on local news were strong predictors that increased one's reading regularity. Previous research has consistently found that audiences expect local news to provide information on local issues, care for the local community, and feature local people and share their stories <ref type="bibr" target="#b13">(Heider, McCombs, and Poindexter 2005;</ref><ref type="bibr" target="#b30">Mersey 2009;</ref><ref type="bibr" target="#b46">Smethers et al. 2007)</ref>. All these news experiences (and expectations) became particularly important during the pandemic when people lost physical contact with their personal networks and were prone to be exposed to fake news circulating in social media. Email newsletters help audiences keep updated with news they are interested in and establish a routine of getting news at set times <ref type="bibr" target="#b42">(Santos and Peixinho 2017)</ref>. As our findings demonstrated, reading or signing up for pandemic-related news or news about local communities contributed to the regularity of reading news, suggesting the importance of providing the information that people find valuable during the pandemic <ref type="bibr" target="#b20">(Kim et al. 2021)</ref>. As this positive experience with a local news site repeats, it helps news readers move down the digital subscription funnel, turning them into more frequent and habitual readers and ultimately those who are willing to pay and continue to pay <ref type="bibr" target="#b4">(Benton 2019;</ref><ref type="bibr" target="#b38">Owen 2019)</ref>.</p><p>We also found that reading regularity plays a vital role in local news subscribers' decision to renew or cancel their digital news subscriptions during the pandemic. Forming a habit of reading local news means that audiences repeatedly had satisfying experiences with the local news (content, journalists, or publisher), which made visiting the local news site part of the audiences' daily routines. In other words, local news reading happens in an autonomous manner not because the audiences are passive but because the behaviour has been ingrained in their daily rhythms <ref type="bibr" target="#b53">(Wood and R€ unger 2016)</ref>. The level of engagement (and stickiness) increases the likelihood of renewing digital news subscriptions. Interestingly, intensity was found not to be a good indicator of cancellation in models that account for regularity. Given that audience engagement metrics such as page views or time spent are used as a currency in the industry, our finding suggests that page views should be used with more caution as a performance metric or research variable because not all page views create positive experiences for the audience <ref type="bibr" target="#b20">(Kim et al. 2021;</ref><ref type="bibr" target="#b56">Zhou et al. 2021)</ref>.</p><p>Theoretically, this study demonstrated the importance of studying exposure-based audience behaviours to better understand the value proposition of local news from the perspective of local news users <ref type="bibr" target="#b25">(Lewis 2020)</ref>. Most literature on audience engagement in journalism research has emphasized production-oriented audience engagement <ref type="bibr" target="#b35">(Nelson 2021</ref>) such as citizen participation in the selection and creation of news stories or making the journalistic process more transparent to their readers <ref type="bibr" target="#b29">(Meier, Kraus, and Michaeler 2018)</ref>. Oftentimes, reception-oriented or exposure-based audience engagement has been regarded as the "thin" approach where audiences are seen as passive consumers who are positioned at the back-end of news reception <ref type="bibr" target="#b23">(Lawrence, Radcliffe, and Schmidt 2018)</ref>. We argue that exposurebased audience behaviours are indeed the behavioural manifestations of audience engagement that reveal the audiences' needs, gratifications, and value perception from their local news consumption experiences. The COVID-19 pandemic, despite its disruption to many facets of journalistic processes, provided an opportunity to examine the patterns of news consumption with more granularity and gain a much better understanding of the set of value people obtain from local news consumption and the process of establishing local news consumption habits, which ultimately increases their loyalty to local news.</p><p>Methodologically, this study illustrates how behavioural engagement metrics, collected by clickstream logs, combined with subscription records, can be used to investigate the relationship between news experiences, reading behaviours, and payment behaviours, providing both theoretical and practical contributions to research on the financial sustainability of local journalism, especially for-profit enterprises. We illustrate how to draw conclusions about some events using longitudinal behavioural data with survival analysis and panel regression models. Analysing big behavioural data requires more than counting clicks. Click behaviours are manifestations of thoughts, feelings, and emotions, and the two are connected. For example, understanding the behaviour of reading regularly as an indication of a mental habit provides important insights to the journalist designing interfaces or other touchpoints and provides a theoretical grounding for the analysis. Similar points can be made about connecting the behaviour of reading local content with perceived needs to stay informed and connected with the community.</p><p>From the business perspective, the pandemic has made the audience realize how crucial it is to have access to credible local news sources. This means that the pandemic and other major news events are, in fact, great opportunities to build a relationship with local news audiences who may have not been reachable pre-pandemic, habituate reading news that is not on social media, convert them into subscribers, and increase revenue from subscriptions. For example, ADG has been giving free access to COVID-19 coverage for those who create an account on their news site and provide their email address (see Figure <ref type="figure" target="#fig_6">6</ref>). Providing such critical information to a wider audience is vital to have an informed public, yet it does not generate immediate monetary value from the very product that carries high informational value <ref type="bibr" target="#b34">(Napoli 2020)</ref>. Although this may seem like news organizations' democratic and commercial logics collide (Ananny and Biglash 2016), news organizations should view this as an opportunity to incubate meaningful relationships with readers otherwise may not read their content. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Suggestions for Future Research</head><p>This study has a few limitations, which can offer suggestions for future research. First, our analysis of news consumption was performed at the news category level, but we did not dig deeper into the article-level analysis. Future research can employ natural language processing and text mining techniques to the content of the articles to see which stories or narratives news audiences find most valuable during the times of crisis and which of them contribute to habit formation and decision to subscribe or renew. Second, we used the tags assigned to each story to determine the categories of news content. It is possible that news stories are classified in multiple categories and thus tagged in different ways, for example, an article tagged as finance can still be a piece of local news that talks about the local economy. Researchers need to refine the tagging categories used by the news publisher so that they can better classify the characteristics of news stories. Third, it would be desirable to compare the demographic characteristics of those who are willing to pay for local news versus those in the community who will not pay. Fourth, big behavioural data reveal associations between behaviours and outcomes, but do not study the underlying motivations. It is important to link motivating experiences to behavioural data <ref type="bibr" target="#b56">(Zhou et al. 2021)</ref>. Finally, we have offered a framework that explains the relationship between news experiences, reading behaviours, and payment behaviours (as illustrated in Figure <ref type="figure" target="#fig_0">1</ref>) and tested it in only one mid-size US market. Future research should test the framework elsewhere to improve external validity, refining the concepts and measurements, and identifying the linkage between the elements of the framework. Notes 1. For a more detailed timeline of the reopening plan: https://www.washingtonpost.com/ graphics/2020/national/states-reopening-coronavirus-map/ 2. For infection trends and map in Arkansas: https://www.nytimes.com/interactive/2020/us/ arkansas-coronavirus-cases.html</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Framework of this study.</figDesc><graphic coords="4,90.54,52.95,312.21,171.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>H1:</head><label></label><figDesc>Reading news about COVID-19 will positively influence the regularity of local news consumption (i.e., habit) during the COVID-19 pandemic. RQ3: How does the consumption of different news categories influence the regularity of local news consumption during the COVID-19 pandemic? H2: Subscribing to the COVID-19 newsletter will positively influence the regularity of local news consumption (i.e., habit) during the COVID-19 pandemic. RQ4: How does subscribing to different newsletters influence the regularity of local news consumption during the COVID-19 pandemic? A Path to Subscription (Retention) to Local News: Will the COVID-19 Pandemic Be a Breakthrough for the Viability of Local News Media?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Average regularity from July 2018 to June 2020.</figDesc><graphic coords="10,72.68,53.01,347.99,204.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Average intensity from July 2018 to June 2020.</figDesc><graphic coords="11,72.68,289.99,347.99,204.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Average diversity per month from July 2018 to June 2020.</figDesc><graphic coords="11,72.68,53.01,347.99,204.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. (a) Page view from July 2018 to June 2020; (b) Page views by local, news, national news, and sports from July 2018 to June 2020.</figDesc><graphic coords="12,72.62,52.95,347.98,364.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Screenshot of the ADG site inviting a visitor to create an account to get free access to COVID-19 coverage.</figDesc><graphic coords="18,132.55,454.85,228.20,163.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Content ADG classified 225,154 news articles into 26 distinct categories including pro sports, outdoor sports, college sports, sub-exclusive, coronavirus, opinion, politics, entertainment, nation/world news, central news, northwest news, other local news, other news, games, crime/justice, general business, local business, local food, lifestyle, promotions, obituaries, local deaths, weather, out-about and other. Stories were classified using tags provided by ADG and the URL for the article.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>Correlation matrix between cancellations and reading behaviour metrics.</figDesc><table><row><cell></cell><cell>Cancellation</cell><cell>Regularity</cell><cell>Intensity</cell><cell>Diversity</cell></row><row><cell>Cancellation Regularity a Intensity a Diversity a</cell><cell>1 À0.0630 ÃÃÃ À0.0081 ÃÃ À0.0588 ÃÃÃ</cell><cell>-1 0.1145 ÃÃÃ 0.9164 ÃÃÃ</cell><cell>--1 0.4107 ÃÃÃ</cell><cell>---1</cell></row><row><cell>Note.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001. a Log-transformed.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Panel regression models predicting weekly regularity using lagged intensity of reading different news content. Note. Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001.</figDesc><table><row><cell></cell><cell></cell><cell>Pre-COVID</cell><cell>Pre-COVID</cell><cell></cell></row><row><cell></cell><cell></cell><cell>subscribers at pre-</cell><cell>subscribers at post-</cell><cell></cell></row><row><cell>Predictors</cell><cell>Pre-COVID customers</cell><cell>COVID time</cell><cell>COVID time</cell><cell>Post-COVID subscribers</cell></row><row><cell></cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell></row><row><cell>Pro Sports a</cell><cell>À0.038</cell><cell>0.035</cell><cell>0.048 Ã</cell><cell>0.192 ÃÃÃ</cell></row><row><cell></cell><cell>(1.576)</cell><cell>(0.028)</cell><cell>(2.002)</cell><cell>(7.536)</cell></row><row><cell>Outdoor Sports a</cell><cell>0.079</cell><cell>À0.351</cell><cell>0.107</cell><cell>À0.098</cell></row><row><cell>College Sports a</cell><cell>(1.441) 0.112 ÃÃÃ</cell><cell>(-1.578) 0.359 ÃÃÃ</cell><cell>(1.907) 0.099 ÃÃÃ</cell><cell>(-1.550) 0.029</cell></row><row><cell>Prep Sports a</cell><cell>(8.745) À0.086 Ã</cell><cell>(7.908) 0.249 ÃÃ</cell><cell>(7.535) À0.108 ÃÃ</cell><cell>(1.511) À0.088</cell></row><row><cell>Sub Exclusive a</cell><cell>(-2.554) À0.081</cell><cell>(2.710) À0.792 ÃÃ</cell><cell>(-3.102) À0.065</cell><cell>(-1.827) 0.027</cell></row><row><cell>COVID a</cell><cell>(-1.036) 0.161 ***</cell><cell>(-2.792)</cell><cell>(-0.805) 0.165 ***</cell><cell>(0.269) 0.346 ***</cell></row><row><cell>Opinion a</cell><cell>(25.855) À0.044 ÃÃ</cell><cell>0.134</cell><cell>(26.307) À0.051 ÃÃÃ</cell><cell>(43.241) À0.066 ÃÃ</cell></row><row><cell>Local Deaths a</cell><cell>(-3.030) 0.054 ÃÃÃ</cell><cell>(1.871) 0.256 ÃÃÃ</cell><cell>(-3.439) 0.046 ÃÃ</cell><cell>(-3.266) À0.023</cell></row><row><cell>Entertainment a</cell><cell>(3.303) 0.063 ÃÃÃ</cell><cell>(3.761) 0.014</cell><cell>(2.762) 0.060 ÃÃÃ</cell><cell>(-0.896) 0.048 Ã</cell></row><row><cell>Nation/World News a</cell><cell>(4.162) -0.122 ***</cell><cell>(0.188) -0.064</cell><cell>(3.915) -0.119 ***</cell><cell>(2.148) -0.132 ***</cell></row><row><cell></cell><cell>(-8.787)</cell><cell>(-0.718)</cell><cell>(-8.474)</cell><cell>(-6.118)</cell></row><row><cell>Central News a</cell><cell>0.214</cell><cell>À0.387</cell><cell>0.246</cell><cell>À0.312</cell></row><row><cell></cell><cell>(1.408)</cell><cell>(-1.294)</cell><cell>(1.491)</cell><cell>(-0.851)</cell></row><row><cell>Northwest News a</cell><cell>À0.042</cell><cell>À0.015</cell><cell>À0.040</cell><cell>À0.044</cell></row><row><cell>Other Local News a</cell><cell>(-1.702) 0.119 ***</cell><cell>(-0.153) 0.315 ***</cell><cell>(-1.581) 0.114 ***</cell><cell>(-1.192) 0.026</cell></row><row><cell>Local Food a</cell><cell>(12.040) 0.257 ***</cell><cell>(6.989) -0.306</cell><cell>(11.281) 0.269 ***</cell><cell>(1.766) 0.175 **</cell></row><row><cell>Games a</cell><cell>(7.401) 0.076 ÃÃÃ</cell><cell>(-1.729)</cell><cell>(7.604) 0.076 ÃÃÃ</cell><cell>(3.257) 0.004</cell></row><row><cell>Crime Justice a</cell><cell>(5.123) 0.139 ***</cell><cell>0.184 ***</cell><cell>(5.115) 0.135 ***</cell><cell>(0.129) 0.028 *</cell></row><row><cell>General Business a</cell><cell>(14.975) -0.141 ***</cell><cell>(4.172) -0.612 ***</cell><cell>(14.275) -0.130 ***</cell><cell>(2.086) -0.094 *</cell></row><row><cell>Local Business a</cell><cell>(-6.016) 0.135 ÃÃÃ</cell><cell>(-3.790) 0.107</cell><cell>(-5.492) 0.137 ÃÃÃ</cell><cell>(-2.217) 0.082 ÃÃÃ</cell></row><row><cell>Promotions a</cell><cell>(7.618) 0.264 ÃÃÃ</cell><cell>(1.236) 0.194</cell><cell>(7.553) 0.265 ÃÃÃ</cell><cell>(2.854) 0.158</cell></row><row><cell>Lifestyle a</cell><cell>(4.596) À0.136 ÃÃÃ</cell><cell>(0.861) 0.095</cell><cell>(4.508) À0.145 ÃÃÃ</cell><cell>(1.576) À0.021</cell></row><row><cell>Other News a</cell><cell>(-6.060) 0.107 Ã</cell><cell>(0.873) À0.478</cell><cell>(-6.361) 0.106 Ã</cell><cell>(-0.646) À0.104</cell></row><row><cell></cell><cell>(2.058)</cell><cell>(1.619)</cell><cell>(2.006)</cell><cell>(1.423)</cell></row><row><cell>Weather a</cell><cell>0.033</cell><cell>0.199</cell><cell>0.033</cell><cell>0.014</cell></row><row><cell>Politics a</cell><cell>(1.693) 0.088 ***</cell><cell>(1.412) 0.019</cell><cell>(1.709) 0.090 ***</cell><cell>(0.48) 0.010</cell></row><row><cell>Out About a</cell><cell>(7.063) 0.136 ÃÃÃ</cell><cell>(0.296) 0.270 ÃÃ</cell><cell>(7.122) 0.129 ÃÃÃ</cell><cell>(0.491) 0.132 ÃÃÃ</cell></row><row><cell></cell><cell>(5.581)</cell><cell>(3.190)</cell><cell>(5.110)</cell><cell>(3.523)</cell></row><row><cell>Obituaries a</cell><cell>0.044</cell><cell></cell><cell>0.043</cell><cell>0.132</cell></row><row><cell>Other a</cell><cell>(0.471) 0.334 ÃÃÃ</cell><cell>0.137</cell><cell>(0.461) 0.335 ÃÃÃ</cell><cell>(1.758) 0.289 ÃÃÃÃ</cell></row><row><cell></cell><cell>(65.556)</cell><cell>(1.113)</cell><cell>(65.281)</cell><cell>(40.154)</cell></row><row><cell>Subscription plan b Print</cell><cell>À0.447 ÃÃÃ</cell><cell>À0.263 ÃÃÃ</cell><cell>À0.452 ÃÃÃ</cell><cell>À0.527 ÃÃÃ</cell></row><row><cell>Print -digital</cell><cell>(-27.356) À0.014</cell><cell>(-5.346) À0.149 ÃÃÃ</cell><cell>(-26.766) À0.009</cell><cell>(-19.132) 0.061 ÃÃÃ</cell></row><row><cell></cell><cell>(-1.754)</cell><cell>(-4.694)</cell><cell>(-1.064)</cell><cell>(5.10)</cell></row></table><note><p>a Log-transformed. b The base category is digital.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Panel regression models predicting weekly regularity using lagged newsletter subscriptions. Note. Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001.</figDesc><table><row><cell></cell><cell></cell><cell>Pre-COVID</cell><cell>Pre-COVID</cell><cell></cell></row><row><cell></cell><cell></cell><cell>subscribers at pre-</cell><cell>subscribers at post-</cell><cell></cell></row><row><cell>Predictors</cell><cell>Pre-COVID customers</cell><cell>COVID time</cell><cell>COVID time</cell><cell>Post-COVID subscribers</cell></row><row><cell></cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell><cell>Slope (SE)</cell></row><row><cell>Breaking News a</cell><cell>0.164 Ã</cell><cell>À0.448</cell><cell>0.180 ÃÃ</cell><cell>0.263 ÃÃÃ</cell></row><row><cell>Morning Update a</cell><cell>(2.574) À0.015</cell><cell>(-1.810) 0.538 Ã</cell><cell>(2.761)) À0.028</cell><cell>(3.810) À0.222 ÃÃÃ</cell></row><row><cell>Midday Update a</cell><cell>(-0.233) 0.165 ÃÃ</cell><cell>(2.052) À0.561 Ã</cell><cell>(-0.419) 0.187 ÃÃ</cell><cell>(-3.348) 0.327 ÃÃÃ</cell></row><row><cell>Afternoon Update a</cell><cell>(2.633) 0.204 ÃÃÃ</cell><cell>(-2.295) 1.024 ÃÃÃ</cell><cell>(2.913) 0.176 ÃÃ</cell><cell>(4.810) 0.079</cell></row><row><cell>Arkansas Life a</cell><cell>(3.701) 0.176 ÃÃÃ</cell><cell>(4.913) 0.055</cell><cell>(3.110) 0.180 ÃÃÃ</cell><cell>(1.284) 0.142 ÃÃÃ</cell></row><row><cell></cell><cell>(7.608)</cell><cell>(0.565)</cell><cell>(7.619)</cell><cell>(4.397)</cell></row><row><cell>COVID a</cell><cell>À0.011</cell><cell>0.161</cell><cell>À0.016</cell><cell>À0.004</cell></row><row><cell>Food a</cell><cell>(-0.319) À0.000</cell><cell>(0.103) 0.327</cell><cell>(-0.456) À0.013</cell><cell>(-0.126) À0.205 ÃÃÃ</cell></row><row><cell>Politics a</cell><cell>(-0.005) À0.319 Ã</cell><cell>(1.809) 0.213</cell><cell>(-0.261) À0.145 Ã</cell><cell>(-3.413) 0.157 Ã</cell></row><row><cell>Crime a</cell><cell>(-2.401) À0.141 Ã</cell><cell>(0.933) 0.393</cell><cell>(-2.452) À0.156 ÃÃ</cell><cell>(2.310) À0.322 ÃÃÃ</cell></row><row><cell>Sports a</cell><cell>(-2.431) 0.370 ÃÃÃ</cell><cell>(1.600) 0.251</cell><cell>(-2.634) 0.373 ÃÃÃ</cell><cell>(-4.146) 0.227 ÃÃÃ</cell></row><row><cell>Local Life a</cell><cell>(6.595) 0.059</cell><cell>(1.165) À0.127</cell><cell>(6.481) 0.065</cell><cell>(3.564) À0.120 Ã</cell></row><row><cell></cell><cell>(1.158)</cell><cell>(-0.677)</cell><cell>(1.242)</cell><cell>(-2.134)</cell></row><row><cell>Business a</cell><cell>0.073</cell><cell>À0.193</cell><cell>À0.080</cell><cell>À0.112</cell></row><row><cell>Entertainment a</cell><cell>(0.777) À0.125</cell><cell>(-0.484) À0.028</cell><cell>(0.833) À0.131</cell><cell>(-1.003) 0.385 Ã</cell></row><row><cell></cell><cell>(-1.649)</cell><cell>(-0.094)</cell><cell>(-1.684)</cell><cell>(4.452)</cell></row><row><cell>Subscription plan b Print</cell><cell>À0.595 ÃÃÃ</cell><cell>À0.392 ÃÃÃ</cell><cell>À0.605 ÃÃÃ</cell><cell>À0.761 ÃÃÃ</cell></row><row><cell>Print -digital</cell><cell>(-31.072) 0.006</cell><cell>(-6.765) À0.257 ÃÃÃ</cell><cell>(-30.509) 0.013</cell><cell>(-23.061) 0.099 ÃÃÃ</cell></row><row><cell></cell><cell>(0.637)</cell><cell>(-6.900)</cell><cell>(1.398)</cell><cell>(6.984)</cell></row></table><note><p>a Log-transformed. b The base category is digital.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4 .</head><label>4</label><figDesc>Discrete-time survival model predicting cancellations using news reading behaviours. Note. Ã p &lt; .05, ÃÃ p &lt; .01, ÃÃÃ p &lt; .001.</figDesc><table><row><cell>Predictors</cell></row></table><note><p>a Log-transformed. b The base category is digital.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to thank the <rs type="funder">Northwestern Local News Initiative (LNI)</rs> and the <rs type="institution">Spiegel Research Center (SRC)</rs> for giving us access to the data for this research. Both LNI and SRC are supported by the <rs type="funder">Lilly Endowment</rs>, <rs type="person">Myrta Pulliam Charitable Trust</rs>, <rs type="person">John Mutz</rs>, and several anonymous donors. We are grateful to <rs type="person">Tim Franklin</rs>, director of LNI, <rs type="person">Jonathan Copulsky</rs>, director of <rs type="funder">SRC</rs>, and <rs type="person">Tom Collinger</rs>, former director of SRC &amp; associate professor emeritus at Medill IMC, and the participating news organizations.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Survival analysis using SAS: A practical guide. 2nd ed. Cary, NC: SAS Institute</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Biglash</surname></persName>
+		</author>
+		<ptr target="https://www.apa.org/news/press/releases/stress/2020/report-julyAnanny" />
+	</analytic>
+	<monogr>
+		<title level="m">Stress in America TM 2020: Stress in the time of COVID-19</title>
+		<imprint>
+			<publisher>American Psychological Association</publisher>
+			<date type="published" when="2010">2010. 2020. 2016</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+	<note>Why Drop a Paywall? Mapping Industry Accounts of Online News Decommodification</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">American Public Response to COVID-19</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ballew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bergquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gustafson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kotcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marlon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+		<ptr target="https://climate-communication.yale.edu/publications/american-public-responses-to-covid-19-april-2020/5/" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Batsell</surname></persName>
+		</author>
+		<title level="m">Engaged Journalism: Connecting with Digitally Empowered News Audiences</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">V</forename><surname>Belair-Gagnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Audience Engagement, Reciprocity, and the Pursuit of Community Connectedness in Public Media Journalism</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="558" to="575" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">jThe News Revenue Hub Is Launching a Pilot Project to Help News Orgs Increase Their Readers&apos; Loyalty</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benton</surname></persName>
+		</author>
+		<ptr target="https://www.niemanlab.org/2019/10/the-news-revenue-hub-is-launching-a-pilot-project-to-help-news-orgs-increase-their-readers-loyalty/" />
+	</analytic>
+	<monogr>
+		<title level="j">Nieman Lab</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Qualitative Media Measures: Newspaper Experiences</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal on Media Management</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="123" to="130" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Paying for What? How Much? And Why (Not)? Predictors of Paying Intent for Multiplatform Newspapers</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Chyi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal on Media Management</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="227" to="250" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Still Unwilling to Pay: An Empirical Analysis of 50 U.S. Newspapers&apos; Digital Subscription Results</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Chyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M M</forename><surname>Ng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="526" to="522" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Couldry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Markham</surname></persName>
+		</author>
+		<title level="m">Media Consumption and Public Engagement</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillian</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Will Internet Users Pay for Online Content?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="349" to="359" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dunwoody</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Science Journalism and Pandemic Uncertainty</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="471" to="474" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Paying for Online News</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1173" to="1191" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ways Local News Makes a Crucial Impact Covering COVID-19</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Glaser</surname></persName>
+		</author>
+		<ptr target="https://knightfoundation.org/articles/6-ways-local-news-makes-a-crucial-impact-covering-covid-19/" />
+	</analytic>
+	<monogr>
+		<title level="m">The Knight Foundation</title>
+		<meeting><address><addrLine>Miami, FL</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>Green-Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Mckinley ; Heider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mccombs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Poindexter</surname></persName>
+		</author>
+		<ptr target="https://s3-us-west-2.amazonaws.com/lindsaygreenbarber.com/assets/IA+Engaged+Journalism+Report+1.31.19" />
+	</analytic>
+	<monogr>
+		<title level="m">Engaged Journalism: Practices for Building Trust, Generating Revenue, and Fostering Civic Engagement. Hassan: Impact Architects</title>
+		<imprint>
+			<date type="published" when="2005">2019. 2005</date>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="952" to="967" />
+		</imprint>
+	</monogr>
+	<note>What the Public Expects of Local News: Views on Public and Traditional Journalism</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Online News Habits: Related Motives, Context, and Behavior</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hirsch</surname></persName>
+		</author>
+		<ptr target="http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1512289680289342" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Ohio University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">As Ad Dollars Vanish, Digital News Highfliers Cut Their Staffs</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Izadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The Washington Post</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Editorial Email Newsletters: The Medium is Not the Only Message</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jack</surname></persName>
+		</author>
+		<ptr target="https://ora.ox.ac.uk/objects/uuid" />
+		<imprint>
+			<date type="published" when="2016">2016. 8248179f-83e1-4bb9-81d1-6197d77900f3</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">COVID-19 Accelerates Local News Trends, for Bad and Good</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jacobs</surname></persName>
+		</author>
+		<ptr target="https://localnewsinitiative.northwestern.edu/posts/2020/04/22/local-news-pan-demic/index.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Medill Local News Initiative</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Americans Who Primarily Get News through Social Media Are Least Likely to Follow COVID-19 Coverage, Most Likely to Report Seeing Made-Up News</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jurkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mitchell</surname></persName>
+		</author>
+		<ptr target="https://www.journalism.org/2020/03/25/americans-who-primarily-get-news-through-social-media-are-least-likely-to-follow-covid-19-coverage-most-likely-to-report-seeing-made-up-news/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">People Financially Affected by COVID-19 Outbreak Are Experiencing More Psychological Distress than Others</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keeter</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2020/03/30/people-financially-affected-by-covid-19-outbreak-are-experiencing-more-psy-chological-distress-than-others/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hessary</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21670811.2021.1948347</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Search for an Audience-Supported Business Model for Local Newspapers: Findings from Clickstream and Subscriber Data</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="1" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Virus Chaged the Way We Internet</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koeze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Popper</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html" />
+	</analytic>
+	<monogr>
+		<title level="m">The New York Times</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Problem of Media Habits</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="194" to="222" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Practicing Engagement: Participatory Journalism in the Web 2.0 Era</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Radcliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Practice</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1220" to="1240" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">News Audiences Revisited: Theorizing the Link between Audience Motivations and News Consumption</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="300" to="317" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Objects and Objectives of Journalism Research during the Coronavirus Pandemic and beyond</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="681" to="689" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">COVID-19: Early Subscription Insights &amp; Consideration for Business Continuity</title>
+		<author>
+			<persName><surname>Mather</surname></persName>
+		</author>
+		<ptr target="https://www.mathereconomics.com/wp-content/uploads/2020/03/Mather-Economics_COVID-19-Subscription-Benchmarks.pdf" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">U.S. emotions mixed after a tense month of COVID-19 response</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<ptr target="https://news.gallup.com/poll/306026/emotions-mixed-tense-month-covid-response.aspx" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Gallup</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Portrait of the Online Local News Audience</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mccollough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Crowell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Napoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="100" to="118" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Audience Engagement in a Post-Truth Age</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Michaeler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1052" to="1063" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Online News Users&apos; Sense of Community: Is Geography Dead?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Mersey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Practice</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="360" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Engagement with Online Media</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Mersey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Business Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="39" to="56" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Focusing on the Reader: Engagement Trumps Satisfaction</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Mersey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="695" to="709" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Napoli</surname></persName>
+		</author>
+		<title level="m">Audience Evolution: New Technologies and the Transformation of Media Audiences</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Next Media Regime: The Pursuit of &apos;Audience Engagement&apos; in Journalism. Journalism</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Napoli</surname></persName>
+		</author>
+		<ptr target="https://www.wired.com/story/opinion-people-read-a-lot-of-covid-news-but-it-wont-save-the-media/Nelson" />
+	</analytic>
+	<monogr>
+		<title level="j">Journalism</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2350" to="2367" />
+			<date type="published" when="2020">2020. 2021</date>
+		</imprint>
+	</monogr>
+	<note>J. L.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Improve Trust, Increase Loyalty? Analyzing the Relationship between News Credibility and Consumption</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Practice</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="348" to="318" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Content for Free? Drivers of past Payment, Paying Intent and Willingness to Pay for Digital Journalism -A Systematic Literature Review</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-M</forename><surname>Wellbrock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kleer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="643" to="672" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Value of Local News in the Digital Realm -Introducing the Integrated Value Creation Model</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Olsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="810" to="834" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Researchers Crunched 13 TB of Local Newspaper Subscriber Data. Here&apos;s What They Found about Who Sticks Around</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Owen</surname></persName>
+		</author>
+		<ptr target="https://www.niemanlab.org/2019/02/researchers-crunched-13-tb-of-local-newspaper-subscriber-data-heres-what-they-found-about-who-sticks-around/" />
+	</analytic>
+	<monogr>
+		<title level="j">Nieman Lab</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">What Does It Take to Sustain a News Habit? The Role of Civic Duty Norms and a Connection to a &quot;News Community&quot; among News Avoiders in the UK and Spain</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Toff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1634" to="1653" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Selecting Metrics, Reflecting Norms</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Powers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="454" to="471" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Reconceptualizing the Role of Habit: A New Model of Television Audience Activity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Rosenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Grant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="324" to="344" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Newsletters and the Return of Epistolarity in Digital Media</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Peixinho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="774" to="790" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Filtering and Withdrawing: Strategies for Coping with Information Overload in Everyday Contexts</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Savolainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Information Science</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="611" to="621" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Conceptualizing the Active Audience: Rhetoric and Practice in &quot;Engaged Journalism</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Lawrence</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1464884920934246</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Local News is Playing an Important Role for Americans during COVID-19 Outbreak</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shearer</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2020/07/02/local-news-is-playing-an-important-role-for-americans-during-covid-19-outbreak/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Kansas Readers Feel Loss When Town&apos;s Paper Closes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smethers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">B</forename><surname>Bressers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Willard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Freeland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Newspaper Research Journal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="6" to="21" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">(Against a) Theory of Audience Engagement with News</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Steensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">R</forename><surname>Ferrer-Conill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Peters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1662" to="1680" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Almost 70% of Digital Ad Spending Going to Google, Facebook, Amazon, Says Analyst Firm</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sterling</surname></persName>
+		</author>
+		<ptr target="https://marketingland.com/almost-70-of-digital-ad-spending-going-to-goo-gle-facebook-amazon-says-analyst-firm-262565" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">An Emotional Turn in Journalism Studies?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wahl-Jorgensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="194" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The Coronavirus is Killing Local News</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Waldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sennott</surname></persName>
+		</author>
+		<ptr target="https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-killing-local-news/608695/" />
+	</analytic>
+	<monogr>
+		<title level="j">The Atlantic</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Share of Adults Who Are Closely Following News about the Coronavirus in the United States as of March 2020, by Age Group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Watson</surname></persName>
+		</author>
+		<ptr target="https://www.statista.com/statis-tics/1105443/coronavirus-news-consumption-by-age-us/" />
+	</analytic>
+	<monogr>
+		<title level="m">Statista</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">How Local Newspapers Can Boost Subscriptions, Reduce Churn</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<ptr target="https://www.mediapost.com/publications/article/357157/how-local-newspapers-can-boost-sub-scriptions-redu.html" />
+	</analytic>
+	<monogr>
+		<title level="m">MediaPost</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Psychology of Habit</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Unger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="289" to="314" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zahay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Freelon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Evolving Journalistic Roles on Social Media: Exploring &quot;Engagement&quot; as Relationship-Building between Journalists and Citizens</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="556" to="573" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Natural Disaster News and Communities of Feeling: The Affective Interpellation of Local and Global Publics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Semiotics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="409" to="428" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Not All Clicks Are Equal: Detecting Engagement with Digital Content</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Malthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">K</forename><surname>Hessary</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/16522354.2021.1924558</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Business Studies</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

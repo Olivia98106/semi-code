@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2022-11-26">2022-11-26</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Yini</forename><surname>Zhang</surname></persName>
+							<email>yzhang20@buffalo.edu</email>
+							<idno type="ORCID">0000-0002-2957-1590</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Zhiying</forename><surname>Yue</surname></persName>
+							<idno type="ORCID">0000-0003-1921-1409</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Xiyu</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fan</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nojin</forename><surname>Kwak</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University at Buffalo</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Boston Children&apos;s Hospital</orgName>
+								<orgName type="institution" key="instit2">Harvard Medical School</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Harvard John A. Paulson School of Engineering and Applied Sciences</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Nojin Kwak University at Buffalo</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution" key="instit1">University at Buffalo</orgName>
+								<orgName type="institution" key="instit2">North Campus</orgName>
+								<address>
+									<addrLine>355 Baldy Hall</addrLine>
+									<postCode>14260-1020</postCode>
+									<settlement>Buffalo, New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">How a peripheral ideology becomes mainstream: Strategic performance, audience reaction, and news media amplification in the case of QAnon Twitter accounts</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">New Media &amp; Society</title>
+						<title level="j" type="abbrev">New Media &amp; Society</title>
+						<idno type="ISSN">1461-4448</idno>
+						<idno type="eISSN">1461-7315</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page" from="5597" to="5618"/>
+							<date type="published" when="2022-11-26" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">CDBE716B811EBDBB1781AD4306B40BF1</idno>
+					<idno type="DOI">10.1177/14614448221137324</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Identity performance</term>
+					<term>news media amplification</term>
+					<term>peripheral groups</term>
+					<term>QAnon</term>
+					<term>social identity</term>
+					<term>social media ORCID iDs</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social media platforms have been used by various actors to bypass traditional media gatekeepers to share messages, draw attention, and accumulate influence. We study how actors from peripheral groups gain influence on social media and how their</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social media platforms constitute a critical space for any actors, ranging from celebrities to politicians, social movement activists, fringe groups, and disinformation agents, to bypass traditional media gatekeepers to share messages, draw attention, and accumulate influence (e.g. <ref type="bibr" target="#b55">Marwick and boyd, 2011;</ref><ref type="bibr" target="#b73">Tufekci, 2013)</ref>. For example, far-right actors create memes and engage in trolling on social media to attract the attention of journalists and gain widespread public attention <ref type="bibr" target="#b56">(Marwick and Lewis, 2017;</ref><ref type="bibr">Phillips, 2018)</ref>. Hate groups proselytize their ideologies via Twitter and call for active participation through Facebook <ref type="bibr" target="#b67">(Phadke and Mitra, 2020)</ref>. The fact that a peripheral group can use social media as a springboard to gain broad societal attention reveals both exciting opportunities and dangerous undercurrents in an open media ecosystem without central gatekeepers <ref type="bibr" target="#b11">(Blumler and Kavanagh, 1999;</ref><ref type="bibr" target="#b19">Chadwick, 2017)</ref>.</p><p>In this article, we explore how actors from peripheral groups use social media to become mainstream-defined as increasing social media reaction and news media attention-while accounting for three interlinked components within the media ecosystem: social media actors, social media audience, and news media. In doing so, we draw on three strands of literature. First, according to the online self-presentation literature, people engage in strategic performance to seek attention and win trust from their networked audience <ref type="bibr" target="#b23">(Djafarova and Trofimenko, 2019;</ref><ref type="bibr" target="#b52">Maddox, 2022;</ref><ref type="bibr" target="#b56">Marwick and Lewis, 2017)</ref>, a tendency pronounced among fringe groups <ref type="bibr" target="#b67">(Phadke and Mitra, 2020;</ref><ref type="bibr" target="#b81">Xu, 2020)</ref>. Second, the hybrid media system literature underscores the deep linkage between social media and traditional media <ref type="bibr" target="#b19">(Chadwick, 2017)</ref>, showing how social media engagement can translate into news media coverage and result in broader amplification of strategic actors on social media <ref type="bibr" target="#b79">(Wells et al., 2016;</ref><ref type="bibr" target="#b84">Zhang et al., 2021)</ref>. Finally, social media actors can adapt their behaviors based on social media audience reaction and news media amplification, which function as concrete metrics and social feedback guiding strategic performance <ref type="bibr" target="#b13">(boyd, 2015;</ref><ref type="bibr" target="#b14">Brady et al., 2021;</ref><ref type="bibr" target="#b65">Papacharissi, 2012)</ref>. These mutually reinforcing processes can likely catapult obscure social media actors to popularity.</p><p>We situate this framework in the context of QAnon believers on Twitter, examining their identity performance, their retweets and followers, and news media amplification of them. Since it originated in 2017, QAnon has morphed from a wild peripheral ideology with only a few comments on 4chan/pol/ to a phenomenon that pervades most social media platforms and news media outlets, especially during Trump's presidency <ref type="bibr" target="#b1">(Anwar et al., 2021;</ref><ref type="bibr" target="#b31">Gallagher et al., 2020;</ref><ref type="bibr" target="#b32">Garry et al., 2021;</ref><ref type="bibr" target="#b37">Hannah, 2021)</ref>. QAnon is undergirded by a general distrust in institutions, reflected in its central tenet that Donald Trump has been fighting a global cabal of elites that controls the government and media; it is enabled by the participatory opportunities offered by social media, where QAnon adherents assemble piecemeal information dropped by the anonymous Q and establish their "alternative facts" <ref type="bibr" target="#b32">(Garry et al., 2021;</ref><ref type="bibr" target="#b57">Marwick and Partin, 2022;</ref><ref type="bibr" target="#b87">Zuckerman, 2019)</ref>. How QAnon fits and thrives in the larger media ecosystem remains understudied. On one hand, QAnon believers seem insulated because the topics of their conversations on Telegram are more distinct to their group and less responsive to real-world events and news media coverage, compared with far-right communities <ref type="bibr" target="#b86">(Zihiri et al., 2022)</ref>. On the other hand, QAnon has experienced "normiefication," traveling from fringe message boards to news media headlines and mainstream social media platforms like YouTube and Reddit <ref type="bibr" target="#b22">(De Zeeuw et al., 2020)</ref>. A platform central to American politics due to the active participation of American journalists, politicians, and activists <ref type="bibr" target="#b45">(Jungherr, 2014;</ref><ref type="bibr" target="#b46">Jurkowitz and Gottfried, 2022)</ref>, Twitter turns out to be a prominent network hub of QAnon believers <ref type="bibr" target="#b1">(Anwar et al., 2021;</ref><ref type="bibr" target="#b36">Hanley et al., 2022;</ref><ref type="bibr" target="#b43">Jackson et al., 2021)</ref>, making it an appropriate platform for the study of their growth.</p><p>Using the three-pronged framework of social media actors' strategic performance, social media audience reaction, and news media amplification, we can gain a deeper understanding of how QAnon believers might have leveraged Twitter and news media to gain popularity. This inquiry contributes to broader conversations in the field of communication, including how social media and news media amplify marginal voices and actors <ref type="bibr" target="#b30">(Freelon et al., 2018;</ref><ref type="bibr" target="#b44">Jackson and Foucault Welles, 2015;</ref><ref type="bibr" target="#b84">Zhang et al., 2021)</ref>, what performances on social media spark audience attention and engagement <ref type="bibr" target="#b15">(Brady et al., 2017;</ref><ref type="bibr" target="#b27">Fine and Hunt, 2021;</ref><ref type="bibr" target="#b68">Rathje et al., 2021)</ref>, and how social media actors' behaviors can be adaptive in order to seek attention, approval, and status <ref type="bibr" target="#b4">(Bail, 2021;</ref><ref type="bibr" target="#b14">Brady et al., 2021;</ref><ref type="bibr" target="#b77">Walsh et al., 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategic performance for audience reaction</head><p>Presenting selective aspects of oneself is a basic persona-sculpting strategy <ref type="bibr" target="#b34">(Goffman, 1959)</ref>. Such performativity of the self is a hallmark of modernity as people consciously and reflectively author their life projects <ref type="bibr" target="#b33">(Giddens, 1991)</ref>. Rather than simply providing a convenient stage for people to perform themselves for self-branding and promotion purposes, social media intensify this performative tendency by building popularity and status into platform architectures <ref type="bibr" target="#b54">(Marwick, 2013;</ref><ref type="bibr" target="#b75">Van Dijck, 2013;</ref><ref type="bibr" target="#b76">Van Dijck &amp; Poell, 2013)</ref>. Metrics such as the number of shares and the number of followers are synonymous with clout; and such metricized popularity is coveted because it not only is a "status symbol" but also begets future popularity <ref type="bibr">(Marwick, 2013: 77)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Performance of group identity</head><p>To stand out from the crowd and gain audience attention and social status, social media actors strive to project an attractive identity <ref type="bibr" target="#b75">(Van Dijck, 2013)</ref>. Some focus on establishing individual identities by demonstrating their tastes, accomplishments, skills, and expertise <ref type="bibr" target="#b25">(Ellison et al., 2006;</ref><ref type="bibr" target="#b52">Maddox, 2022)</ref>. Others may choose to project affiliative/group identities by situating themselves within social groups and emphasizing the sense of "us" <ref type="bibr" target="#b71">(Tajfel et al., 1979)</ref>. This is crucial for the mainstreaming of a peripheral group. A clear group identity affirms the group value and attracts like-minded others, thus creating a conducive space for the group to expand <ref type="bibr" target="#b81">(Xu, 2020)</ref>. The performance of group identities can also energize social media audiences <ref type="bibr" target="#b4">(Bail, 2021;</ref><ref type="bibr" target="#b68">Rathje et al., 2021)</ref>, which is essential for directing broad societal attention to the peripheral group <ref type="bibr" target="#b81">(Xu, 2020)</ref>. Peripheral right-wing groups exhibit a strong tendency to perform group identities: right-wing hate groups juxtapose their in-group superiority and grievances vis-à-vis out-group inferiority and immorality, a strategy to bond with their in-group members and educate the public about the out-groups <ref type="bibr" target="#b67">(Phadke and Mitra, 2020)</ref>. In addition, messages originating from right-wing networks on social media are highly centralized and coordinated <ref type="bibr" target="#b40">(Haupt et al., 2021;</ref><ref type="bibr">Zhang et al., 2022a)</ref>, suggesting possible group dynamics.</p><p>Notably, QAnon is marked by its participatory fan culture centered around its star-Donald Trump <ref type="bibr" target="#b1">(Anwar et al., 2021;</ref><ref type="bibr" target="#b87">Zuckerman, 2019)</ref>, its performative efforts to establish group conventions and norms <ref type="bibr" target="#b86">(Zihiri et al., 2022)</ref>, and its deliberate efforts to hack algorithms to spread ideas across platforms <ref type="bibr" target="#b22">(De Zeeuw et al., 2020;</ref><ref type="bibr" target="#b29">Forberg, 2022)</ref>. Therefore, QAnon believers are likely to perform their group identity on social media. We focus on their performance of group identity on Twitter, operationalizing it as the performance of (a) in-group solidarity and (b) out-group animosity <ref type="bibr" target="#b68">(Rathje et al., 2021)</ref>.</p><p>According to social identity theory <ref type="bibr" target="#b71">(Tajfel et al., 1979)</ref>, individuals are more obligated to in-group members (based on kinship, race, nationality, political values, etc.) and expect in-group reciprocity on resources and interactions. Social media afford individuals the opportunity to directly network and communicate with in-group members and build group cohesion <ref type="bibr" target="#b20">(Christensen and Jensen, 2018)</ref>. For example, hip-hop celebrities project Black identity to build solidarity and mobilize collective action to combat racial injustice <ref type="bibr" target="#b39">(Harlow and Benbrook, 2019)</ref>. Similarly, the Alt-Right and Antifa use in-group hashtags in their Twitter profile descriptions and tweets for coalition building <ref type="bibr" target="#b81">(Xu, 2020)</ref>; and White supremacy groups post in-group status enhancement messages to burnish their group images <ref type="bibr" target="#b67">(Phadke and Mitra, 2020)</ref>.</p><p>In-group members also disparage the out-group to distinguish their in-group as a "better" one, which fulfills their need to belong and promotes in-group values <ref type="bibr" target="#b21">(Cikara and Van Bavel, 2014)</ref>. Hate groups use Twitter to educate their audience about problems with the out-groups, demanding restrictive policies targeting them <ref type="bibr" target="#b67">(Phadke and Mitra, 2020)</ref>. Notably, partisan posts featuring out-group animosity-negative expressions about counter-partisans-tend to receive more retweets on Twitter and reactions on Facebook than posts featuring in-group or moral-emotional language <ref type="bibr" target="#b68">(Rathje et al., 2021)</ref>. Also, right-wing political parties' anti-immigrant messages on Facebook receive angry "reactions" through fanning out-group hate, which contributes to their follower increase on Facebook <ref type="bibr" target="#b41">(Heiss and Matthes, 2020)</ref>. A study analyzing popular QAnon-related comments on YouTube points in a similar direction: foreign affairs, particularly China-related topics, have remained quite robust over time and received more attention and "likes" <ref type="bibr" target="#b59">(Miller, 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Audience reaction</head><p>People on social media can react to others' performance as their audience in many ways, from direct liking, sharing, and commenting to more complex reactions like getting an account "ratio-ed" <ref type="bibr" target="#b4">(Bail, 2021)</ref>. Such quantified engagement is valued and pursued by all kinds of actors, such as social media platforms, social media influencers, journalists, and politicians. We focus on two sought-after metrics of audience reaction on Twitter: the number of retweets and the number of followers. We argue that they are valid indicators of positive audience reaction to QAnon accounts' identity performance on Twitter.</p><p>The retweet function allows an original tweet to spread quickly and extensively across Twitter networks, resulting in an exponential increase in message reach <ref type="bibr" target="#b28">(Firdaus et al., 2018)</ref>. As a key metric of message dissemination, it can indicate the content value of one's tweets <ref type="bibr" target="#b18">(Cha et al., 2010;</ref><ref type="bibr" target="#b69">Riquelme and González-Cantergiani, 2016)</ref>. Retweets also shape the formation of new ties <ref type="bibr" target="#b42">(Hutto et al., 2013)</ref>, a way to grow followers <ref type="bibr" target="#b84">(Zhang et al., 2021)</ref>. Moreover, highly retweeted tweets can be considered engagement-worthy by algorithms and news-worthy in the eyes of journalists, contributing to algorithm and journalistic amplification <ref type="bibr" target="#b79">(Wells et al., 2016;</ref><ref type="bibr" target="#b85">Zhang et al., 2018)</ref>.</p><p>In a similar vein, followers not only function as direct audiences to facilitate message dissemination but also serve as a badge of popularity and status that further begets attention and power <ref type="bibr" target="#b2">(Aral et al., 2009;</ref><ref type="bibr" target="#b54">Marwick, 2013;</ref><ref type="bibr" target="#b80">Wells et al., 2020)</ref>. The follower count can provide a heuristic to determine the reach of content <ref type="bibr" target="#b48">(Lee et al., 2018)</ref> and an indicator of the competence and trustworthiness of an account <ref type="bibr">(O'Keefe, 2016)</ref>. Brand followers on social media often engage in supportive behaviors: sharing or generating brand content and spreading the positive word-of-mouth about it <ref type="bibr" target="#b47">(Kim, 2020)</ref>. Similarly, politicians' Twitter followers also amplify their messages, bestowing on them greater communicative power (e.g. <ref type="bibr" target="#b85">Zhang et al., 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>News media amplification for expanded reach</head><p>In the hybrid media system where social media and news media depend on each other for audience attention, information can flow dynamically between social media and news media <ref type="bibr" target="#b19">(Chadwick, 2017;</ref><ref type="bibr" target="#b70">Russell Neuman et al., 2014)</ref>. Consequently, news media might amplify actors' strategic performance on social media.</p><p>Existing research demonstrates that news media amplify the voices and enhance the influence of social media actors, including those from peripheral groups. The premise of this amplification is strong social media engagement. To move up the chain from social media to fringe media outlets and mainstream news media, movement activists <ref type="bibr" target="#b30">(Freelon et al., 2018)</ref>, clickbait media <ref type="bibr" target="#b62">(Munger, 2020)</ref>, extremists <ref type="bibr" target="#b56">(Marwick and Lewis, 2017)</ref>, and disinformation agents <ref type="bibr" target="#b50">(Lukito et al., 2020)</ref> can stir up social media frenzies and collect proof of credibility and newsworthiness (e.g. likes and retweets) via coordinated messaging, trolling, providing controversial opinions, or supplying novel information. Donald Trump's ability to make Twitter abuzz has increased news media attention to him <ref type="bibr" target="#b79">(Wells et al., 2016)</ref>. News media amplification can directly contribute to social media actors' follower increase <ref type="bibr" target="#b84">(Zhang et al., 2021)</ref> by exposing them to larger audiences. It can further help them gain broader public and elite attention by legitimizing their voices and stances <ref type="bibr" target="#b30">(Freelon et al., 2018)</ref>. Mainstream news media coverage of QAnon has increased substantially since QAnon adherents' appearance at Trump's Tampa Bay rally in 2018 <ref type="bibr" target="#b22">(De Zeeuw et al., 2020)</ref>. Although mainstream media have portrayed QAnon as "somewhat gullible or motivated by populist resentment," their coverage has nonetheless introduced QAnon to large swaths of audiences and animated discussions about QAnon across social media platforms <ref type="bibr" target="#b22">(De Zeeuw et al., 2020;</ref><ref type="bibr" target="#b29">Forberg, 2022)</ref>.</p><p>Such news media amplification of social media actors and/or their content is related to one notable transition in journalistic practice. Increasingly, journalists incorporate in news stories social media content <ref type="bibr" target="#b12">(Bossio, 2017)</ref> that supplies new information, represents "vox populi," or has simply gone viral <ref type="bibr" target="#b8">(Beckers and Harder, 2016;</ref><ref type="bibr" target="#b51">McGregor, 2019;</ref><ref type="bibr" target="#b74">Usher, 2017)</ref>. This practice is propelled by the journalistic shift to including input from networked audiences <ref type="bibr" target="#b49">(Loosen and Schmidt, 2012)</ref>; it is also driven by a market orientation to give people what they want so as to capture their attention <ref type="bibr" target="#b38">(Hanusch and Tandoc, 2019)</ref> and produce content cost-effectively under mounting economic pressure <ref type="bibr" target="#b5">(Bakker, 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>From audience reaction and media amplification back to strategic performance</head><p>After discussing how actors from peripheral groups can gain social media engagement as well as news media amplification by strategically staging their social media performance, we now turn to the possibility that social media performance might in turn be influenced by audience reaction and media amplification. While certain goals drive strategic performances, social media actors are generally attentive to their target audience <ref type="bibr" target="#b13">(boyd and Heer, 2006)</ref> and may learn from audience reaction and adapt their self-presentation accordingly <ref type="bibr" target="#b25">(Ellison et al., 2006)</ref>. On social media, as <ref type="bibr" target="#b4">Bail (2021)</ref> eloquently puts it, it is "all too human" for us to "perform different identities, observe how other people react, and update our presentation of self to make us feel like we belong" (p. 53). Since positive feedback is associated with perceived popularity and self-esteem <ref type="bibr" target="#b16">(Burrow and Rainone, 2017;</ref><ref type="bibr" target="#b58">Meeus et al., 2019)</ref>, the strategic performance that draws positive audience reaction (i.e. more retweets and followers) can be repeatedly enacted. Furthermore, social reinforcement and norm learning can motivate additional performance: expression of moral outrage by politically engaged users on Twitter will intensify if rewarded with more retweets and likes <ref type="bibr" target="#b14">(Brady et al., 2021)</ref>. In addition, when social media actors are aware of their posts being quoted in news articles, such media amplification and, by extension, legitimization might further embolden their performance on social media.</p><p>With the discussion above, we propose a set of hypotheses about the relationships between strategic performance, audience reaction, and news media amplification in the context of QAnon believers on Twitter (Figure <ref type="figure" target="#fig_0">1</ref>). We first hypothesize that by posting messages that (a) affirm and valorize in-group membership and (b) launch out-group criticism and attack, QAnon accounts can stimulate positive audience reaction, that is, more retweets and followers.</p><p>H1: The number of QAnon accounts' tweets featuring in-group solidarity positively predicts the number of (a) retweets and the number of (b) followers they get.</p><p>H2: The number of QAnon accounts' tweets featuring out-group animosity positively predicts the number of (a) retweets and the number of (b) followers they get.</p><p>We also hypothesize that QAnon accounts' performance of group identity and the audience reaction it sparks can both trigger news media amplification.</p><p>H3: The number of tweets featuring (a) in-group solidarity and the number of tweets featuring (b) out-group animosity positively predict the amount of news media amplification QAnon accounts receive.</p><p>H4: The number of (a) retweets and the number of (b) followers that QAnon accounts get positively predict the amount of news media amplification they receive.</p><p>Finally, we hypothesize that both audience reaction and news media amplification strengthen QAnon accounts' performance of group identity. H5: The number of (a) retweets and the number of (b) followers that QAnon accounts get positively predict the number of tweets featuring in-group solidarity.</p><p>H6: The number of (a) retweets and the number of (b) followers that QAnon accounts get positively predict the number of tweets featuring out-group animosity. H7: The amount of news media amplification QAnon accounts receive positively predicts the number of tweets featuring in-group solidarity.</p><p>H8: The amount of news media amplification QAnon accounts receive positively predicts the number of tweets featuring out-group animosity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data</head><p>We selected QAnon Twitter accounts from an existing project that first conducted a network sampling of influential accounts that talked about politics in 2018 and 2019, respectively, and then collected the tweets of the sampled accounts on a daily basis <ref type="bibr" target="#b83">(Zhang et al., 2022b)</ref>. This user-centered data collection approach is suitable to chart individual QAnon accounts' growth. Among the sampled accounts, we searched in their profile descriptions for QAnon-related keywords: "q," "qanon," "deep state," "deepstate," "pizzagate," "pedogate," "wwg1wga," "wwgwga," "obamagate," "obama gate," and "sethrich," which yielded 263 such accounts in the 2018 sample and 342 accounts in the 2019 sample.</p><p>Three additional steps were taken to ensure data quality. First, two authors perused each account's profile description to eliminate ostensibly irrelevant accounts (down to 412 unique accounts from both samples). Second, to remove accounts with data gaps too large for the subsequent analysis, we filled the missing values in each account's follower counts with linear interpolation and ARIMA modeling. We also removed accounts whose follower counts could not be reasonably forecast possibly due to data sparsity (the forecast follower counts for those accounts were negative, down to 242 accounts). Third, among the remaining accounts, we checked the potential coordination in the form of mutual retweeting and found little evidence for it. 1 We selected two periods where tweets for each sample were continuously collected: between 1 November 2018 and 1 October 2019 for the 2018 sample (3,937,505 tweets with 626,983 non-retweets and 3,310,522 retweets); and between 1 February 2020 and 31 December 2020 for the 2019 sample (3,325,777 tweets with 467,497 non-retweets and 2,858,280 retweets). 2 Overall, this set of 242 QAnon accounts was fairly active (producing 82 tweets per day on average) and some achieved a significant measure of success (one account accumulating 190,080 followers and one tweet receiving 21,855 retweets). These features make them appropriate cases for this study.</p><p>To investigate media amplification, we collected data about these QAnon accounts' media uptake from Media Cloud, an open-source platform that ingests news stories from around the world. To comprehensively capture all media uptake of the QAnon accounts' tweets, we compiled a total of 1503 unique media sources with pre-coded partisan leanings based on four sources: Media Cloud's own collection <ref type="bibr" target="#b26">(Faris et al., 2017</ref>), Buzzfeed's hyperpartisan 3 and fake news 4 collections, and the US far-right conspiracy collections from Media Cloud (Collection #214598068) (see Supplemental Appendix I for all the media outlets). Then each account's screen name (@screen_name) was used as a keyword for story search in Media Cloud among the media outlets. These accounts received sparse media uptake. Only 31 accounts' tweets appeared in 110 stories during the two time periods. Among them, 100 stories came from hyper-conservative outlets, 2 from conservative outlets, 2 from moderate outlets, and 6 from liberal/hyper-liberal outlets, demonstrating that the media uptake of QAnon accounts occurred mostly in the hyper-conservative media sphere.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Number of in-group solidarity tweets and number of out-group animosity tweets. To map out the identity performance strategies, we conducted topic modeling of the unique tweets with latent Dirichlet allocation (LDA) <ref type="bibr" target="#b53">(Maier et al., 2018)</ref> and Gibbs sampling <ref type="bibr" target="#b35">(Griffiths and Steyvers, 2004)</ref>. Log-likelihood and estimated perplexity <ref type="bibr" target="#b6">(Barberá et al., 2019)</ref> suggested that the optimal number of topics should be 140. Two authors independently interpreted the topics and assigned them to one of the three categories-in-group solidarity, out-group animosity, and other-before discussing and finalizing the category assignment. In-group solidarity tweets tagged and networked with in-group members, expressed support for Trump, and interpreted or created QAnon messages. Out-group animosity tweets criticized various targets like the Washington establishment, liberals, Democrats, Hollywood, and the mainstream media. Each tweet was assigned the topic number with the highest topic probability, a process that yielded 1,452,238 (20% of all tweets) in-group solidarity tweets and 1,127,715 (16% of all tweets) out-group animosity tweets. For each account, the daily in-group solidarity and out-group animosity tweet counts were tallied. See Supplemental Appendix II for the topic modeling process and results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of retweets.</head><p>Given the uneven number of tweets the QAnon accounts posted, we computed the mean number of retweets that a QAnon account received within a day by averaging the retweet counts of its original tweets (i.e. non-retweets; tweets created by oneself). The 242 QAnon accounts on average received about 12 retweets per original tweet they posted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of followers.</head><p>At the time of daily data collection, an account's follower count was queried in real time. When an account had multiple follower counts within a day, we took the average. The 242 QAnon accounts experienced uneven follower change, with some enjoying steady follower growth and some suffering gradual or occasionally sharp follower loss. Among them, about one-third (N = 84) experienced consistent follower growth (see Supplemental Appendix III for how consistent follower growth was measured).</p><p>Amount of media uptake. Although news media sources were grouped into five categories based on their partisan leanings, we collapsed them into a single media uptake count due to data sparsity. A qualitative analysis revealed that QAnon tweets appeared most frequently in conservative and hyper-conservative outlets as information sources, evidence, or public opinion, 5 though very few articles in hyper-liberal outlets quoted QAnon tweets to analyze this phenomenon. 6   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Time series modeling</head><p>The data collection process above yielded daily counts of the following variables for each QAnon account: in-group solidarity tweets, out-group animosity tweets, retweets, followers, and news media uptake. 7 We applied log transformation to the number of ingroup solidarity tweets, the number of out-group animosity tweets, and the number of retweets to address the heavy-tailed distribution of these variables (Keene, 1995); we also applied square root transformation to the number of followers for variance stabilization <ref type="bibr" target="#b7">(Bartlett, 1947)</ref> (Supplemental Appendix IV and Supplemental Appendix V).</p><p>We analyzed the time series data using the techniques from <ref type="bibr" target="#b6">Barberá et al. (2019)</ref> in their analysis of the temporal relationship between politicians, publics, and news media regarding their attention to different topics of public interest on Twitter. Specifically, we performed the augmented Dickey-Fuller test on the time series of the transformed endogenous variables and found that they were all stationary; then we applied vector autoregression (VAR) modeling, where each dependent variable is a function of its own previous lags plus the lags of the other variables, to estimate the relationships between the five endogenous variables while accounting for the exogenous variables (241 dummy variables for the 242 QAnon accounts and another dummy variable indicating the two samples). Finally, we applied the impulse response functions (IRFs) on the fitted VAR model results to estimate the significance, duration, and magnitude of the effect of a oneunit increase in one variable on another variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Following <ref type="bibr">Barberá et al.'s (2019)</ref> approach, we focus on two different types of IRFs for a 15-day period based on VAR modeling. In Figure <ref type="figure" target="#fig_1">2</ref>, each panel shows how much cumulative percentage-point increase in the panel title is predicted to occur after a onetime (in gray) and a permanent (in black) 10 percentage-point increase in the variables in the y-axis 15 days ago.</p><p>We first present findings on whether the performance of group identity predicts audience reaction. In-group solidarity tweets predict retweets positively (supporting H1a) and followers negatively (not supporting H1b). Retweets (log-transformed) will increase by 0.73% (95% confidence interval [CI] = [0.59%, 0.82%]) after a onetime 10 percentage-point increase in in-group solidarity tweets (log-transformed), and by 1.86% (95% CI = [1.52%, 2.09%]) following a permanent 10 percentage-point such increase. However, followers (square root transformed) are predicted to decrease by 0.31% (95% CI = [-0.40%, -0.21%]) after a one-time 10 percentage-point increase in in-group solidarity tweets and by 0.80% (95% CI = [-1.03%, -0.56%]) after a permanent 10 percentage-point such increase.</p><p>Out-group animosity tweets have a similar predicted effect on retweets: retweets are predicted to increase by 0.70% (95% CI = [0.56%, 0.78%]) 15 days after a one-time 10 percentage-point increase in out-group animosity tweets; by 2.24% (95% CI = [1.81%, 2.52%]) after a permanent 10 percentage-point increase in such tweets (supporting H2a). Neither a one-time increase nor a permanent increase in out-group animosity tweets predicts followers (not supporting H2b). These results suggest that the performance of group identity can directly and positively influence retweets, though it has little or a small negative relationship with followers. It is worth noting that followers are positively predicted by retweets. The number of followers will increase by 0.13% (95% CI = [0.08%, 0.18%]) and 0.47% (95% CI = [0.29%, 0.64%]) after a one-time and a permanent 10 percentage-point increase in retweets.</p><p>Then we examine whether in-group solidarity tweets (H3a), out-group animosity tweets (H3b), retweets (H4a), and followers (H4b) positively predict news media amplification. Our results show that the performance of group identity does not predict media uptake, rejecting H3a and H3b. However, media uptake increases by 0.13% (95% CI = [0.05%, 0.20%]) and by 0.42% (95% CI = [0.16%, 0.66%]) following a one-time and a permanent 10 percentage-point increase in retweets. Similarly, after a one-time and a permanent 10-point increase in followers, media uptake also increases by 2.45% (95% CI = [1.68%, 2.80%]) and 4.81% (95% CI = [3.30%, 5.49%]), respectively. Therefore, H4a and H4b are supported.</p><p>Finally, we turn to whether audience reaction and news media amplification may in turn influence identity performance. Our results show that in-group solidarity tweets are predicted to increase by 2.18% (95% CI = [2.03%, 2.18%]) after a one-time 10 Each panel shows how much cumulative percentage-point increase in the panel title is predicted to occur after a one-time (in gray) and permanent (in black) 10 percentage-point increase in the variables in the y-axis 15 days ago. The predicted responses (95% confidence interval lines) are expressed in percentage points (0-100 scale).</p><p>percentage-point increase in retweets; by 7.00% (95% CI = [6.52%, 7.00%]) after a permanent 10-point increase in retweets, supporting H5a. However, in-group solidarity tweets are negatively predicted by followers (one-time effect: -2.62%, 95%CI = [-3.15%, -1.77%], permanent effect: -5.04%, 95%CI = [-6.11%, -3.39%]), thus not supporting H5b.</p><p>Out-group animosity tweets are predicted by both retweets and followers, lending support for H6a and H6b. A one-time 10 percentage-point increase in retweets and followers predicts a 1.09% (95% CI = [0.97%, 1.14%]) and 4.64% (95% CI = [4.46%, 4.76%]) increase in out-group animosity tweets after 15 days, respectively. A permanent 10 percentage-point increase in retweets and followers predicts a 3.49% (95% CI = [3.13%, 3.63%]) and a 9.10% (95% CI = [8.71%, 9.37%]) increase in out-group animosity tweets, respectively. The results suggest that the performance of out-group animosity is more adaptive than the performance of in-group solidarity, since the former responds to both retweet and follower changes.</p><p>Media uptake has a neglectable or insignificant effect on in-group solidarity tweets (95% CI = [0.00%, 0.01%] and [0.00%, 0.05%]) and out-group animosity tweets (95% CI = [0.00%, 0.01%] and [0.00%, 0.05%]), lending little support for H7 and H8. See Supplemental Appendix VI for the IRFs data table. Figure <ref type="figure" target="#fig_2">3</ref> provides a summary of the supported hypotheses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>To explore how obscure groups in society can become mainstream, we propose a framework consisting of three interlinked components: strategic performance by social media actors, social media audience reaction, and news media amplification. Our empirical analysis demonstrates that a peripheral group can expand and adapt over time by playing the game of social media and tapping into the interconnected media system. Specifically, the performance of group identity helps QAnon accounts attract audience engagement in the form of retweets. Also, the media amplification of QAnon accounts results not directly from their group identity performance, but from positive audience reaction to their performance on Twitter. Furthermore, audience reaction on Twitter has fueled their group identity performance, particularly their performance of out-group animosity.</p><p>First of all, QAnon accounts employ a range of tactics to perform in-group solidarity and program their network, such as networking with in-group members, highlighting shared political values, and expressing support for political leaders. Consistent with social identity theory <ref type="bibr" target="#b71">(Tajfel et al., 1979)</ref>, this finding shows that QAnon accounts promote shared values and beliefs to bond with in-group members, speaking of how social media provide a hotbed for members of a group, marginal or not, to network with each other, seek gratification, and build group cohesion <ref type="bibr" target="#b9">(Benkler, 2006;</ref><ref type="bibr" target="#b17">Castells, 2007;</ref><ref type="bibr" target="#b72">Törnberg, 2022)</ref>.</p><p>Attacking out-groups is another strategy in QAnon accounts' social media performance playbook. And out-group animosity tweets are effective, arguably more so in driving retweets than in-group solidarity tweets, evidenced by their larger permanent effect on retweets. According to social identity theory, disliking and discriminating against common enemies can foster a sense of belonging and catalyze group formation. By attacking out-groups (e.g., Democrats and the mainstream media), QAnon accounts might appeal to and resonate with those not initially belonging to the QAnon community, such as mainstream conservatives. This suggests the power that peripheral groups can gain by setting up boogeymen and provoking emotions and engagement. In this process, the participatory culture of online conspiracy groups can produce detrimental social outcomes, such as physical violence and spread of misinformation <ref type="bibr" target="#b64">(Ovide, 2021)</ref>.</p><p>Although the performance of group identity does not predict the increase in followers directly, it might do so indirectly through driving up retweets, which can positively predict follower increase. This finding is consistent with existing evidence showing the role of retweets in expanding one's social network <ref type="bibr" target="#b80">(Wells et al., 2020;</ref><ref type="bibr" target="#b84">Zhang et al., 2021)</ref>, suggesting that for an obscure account to grow its follower network, collecting social proof, like gaining more retweets, is important.</p><p>Second, the key for QAnon accounts to gain media amplification is not performing group identity, but their audience's enthusiastic reaction to the performance. In other words, news media amplification of a given social media user might be contingent on other social media users' amplification of the user. This pattern indicates the importance of social media public opinion in journalists' decisions to incorporate certain social media content. In particular, since massive followers and retweets can signal the credibility of a source as well as the wide reach of its messages on social media <ref type="bibr" target="#b48">(Lee et al., 2018)</ref>, quoting its "hot takes" in news reports can potentially maximize news appeal. This finding dovetails with prior research showing how journalists construct news stories by incorporating social media content and how audience reaction to social media content can influence their news judgment <ref type="bibr" target="#b61">(Mourão and Harlow, 2020)</ref>. In the hybrid media system driven by the attention economy <ref type="bibr" target="#b19">(Chadwick, 2017;</ref><ref type="bibr" target="#b78">Webster, 2014)</ref>, news producers strive to adapt to new challenges in order to produce engaging content in a cost-effective way. Embedding engaging content from influential social media accounts exactly serves this purpose.</p><p>Importantly, the vast majority of stories (91%) quoting QAnon tweets appear in conservative and hyper-conservative news outlets. The few stories in moderate, liberal and hyper-liberal news outlets are mainly news analyses of the QAnon conspiracy. With indiscriminate media amplification resulting in the mainstreaming of anti-Muslim organizations and sentiment <ref type="bibr" target="#b3">(Bail, 2012)</ref>, the spread of disinformation <ref type="bibr" target="#b50">(Lukito et al., 2020)</ref>, and the growth of extremist groups <ref type="bibr">(Phillips, 2018)</ref>, scholars call for news media to adapt to new reality. Donovan and boyd (2021) recommend that journalists practice strategic silence before they know how to strategically amplify content in a socially responsible way. Our finding seems to suggest that mainstream and moderate news media have learned their lesson: they have exercised their amplification power with greater caution to guard against exploitation by potential bad actors <ref type="bibr" target="#b0">(Abubakar, 2020)</ref>. The institution-wide reckoning might have produced a welcomed short-term change in journalistic practice.</p><p>Nevertheless, the finding that QAnon accounts' influence beyond Twitter is relatively bounded within an echo chamber of hyper-conservative media outlets does not detract from their success. QAnon accounts have banded together and created an active online community on Twitter, directly paving the way for like-minded news outlets' amplification of them. This way, a peripheral group can expand its influence beyond social media, gain recognition from media that they trust, and become more outspoken about its views. This finding aligns with research showing that the rightwing media ecosystem is overall cloistered and insulated from the larger media ecology <ref type="bibr" target="#b10">(Benkler et al., 2018;</ref><ref type="bibr" target="#b26">Faris et al., 2017)</ref>. In this regard, the power of the hyper-conservative wing of this ecosystem might not come from scale but from depth: the uptake of QAnon accounts' tweets in hyper-conservative media can lead to the further radicalization and audacity of QAnon believers.</p><p>Finally, we show that though media amplification has little impact on identity performance, audience reaction can greatly influence it. QAnon accounts are not only strategic in their online performance, but also attentive to the audience reaction they get. This finding corresponds to existing research on how positive social feedback can foster a given behavioral pattern <ref type="bibr" target="#b14">(Brady et al., 2021)</ref> and how people selectively self-disclose to maximize social approval and minimize criticism <ref type="bibr" target="#b77">(Walsh et al., 2020)</ref>. Audience reaction seems to affect the performance of out-group animosity more than the performance of in-group solidarity, with the former sensitive to both retweet and follower increase. Arguably, by retweeting and following QAnon accounts, social media audience can add fuel to the QAnon outrage machine.</p><p>This article fills some important gaps in current research. While some studies investigate the behaviors of QAnon actors on social media (e.g. <ref type="bibr" target="#b60">Moran et al., 2021;</ref><ref type="bibr" target="#b66">Papasavva et al., 2021)</ref>, little is known regarding how some QAnon accounts have become influential on social media and whether their popularity is aided by their social media performance and/or news media amplification. Focusing on what contributes to QAnon's increased influence, this research sheds light on how the media systemincluding social media as well as news media-can facilitate the growth of conspiratorial actors and fringe ideologies. Also, though abundant research shows what message characteristics generate user engagement in the form of retweets or reactions, such as moral-emotional language, negativity, and identity-related terms <ref type="bibr" target="#b15">(Brady et al., 2017;</ref><ref type="bibr" target="#b27">Fine and Hunt, 2021;</ref><ref type="bibr" target="#b68">Rathje et al., 2021)</ref>, we demonstrate that group identity performance can also drive follower growth and media amplification. Finally, by taking into account the possibility of actors adapting to audience reaction, we reveal the role that social media audiences play in influencing the messaging strategies of social media actors.</p><p>However, this study has several limitations. The current analysis cannot rule out alternative explanations of the relationships between our key variables. For example, the overall level of activity rather than the strategic performance might explain the increase in retweets, such that the more tweets QAnon accounts post, the more engagement they get, regardless of the tweet content. We conducted an analysis with everything else remaining the same except for replacing in-group solidarity tweets and out-group animosity tweets with the total number of tweets. Results show that though the total number of tweets can positively predict the number of retweets (onetime effect: 0.76%, 95% CI = [0.59%, 0.87%]; permanent effect: 1.69%, 95% CI = [1.31%, 1.92%]), the permanent effect is much smaller than that of the strategic performance of in-group solidarity and out-group animosity. This provides further evidence for how strategic performance of group identity is a key predictor of audience engagement, rather than indiscriminate hyperactivity. Besides, we conducted another robustness check by replacing the average number of retweets with the total number of retweets, which yielded identical results (Supplemental Appendix VII). Although our study is limited in drawing causal inferences, these analyses provide additional support for our findings.</p><p>Our measurement of media amplification focuses on the media uptake of individual QAnon accounts and their tweets, rather than media coverage of QAnon in general. Since we are interested in individual trajectories, this measurement is appropriate. However, it is reasonable to argue that just by giving exposure to the QAnon movement, news media can lend credibility to individual QAnon accounts.</p><p>In addition, though our automated text analysis presents clear patterns in QAnon tweets, it cannot capture nuances. Peripheral groups might employ strategies other than group identity performance, such as fear appeal and moral judgments <ref type="bibr" target="#b67">(Phadke and Mitra, 2020)</ref>. Future research can examine their tweets qualitatively. An in-depth interview with QAnon social media users might offer rich insights into their motivations, goals, and behaviors on social media.</p><p>Finally, this is a case study in a specific context. To increase the external validity of our conclusions, future quantitative research should study peripheral online communities on other social media platforms and in other countries. In particular, though Twitter functions as a key platform for journalists to gather information <ref type="bibr" target="#b46">(Jurkowitz and Gottfried, 2022)</ref>, social media platforms have drastically different dynamics and cannot be reduced to a monolith, requiring attention to cross-platform differences. Future research should chart the growth of peripheral ideologies in other platforms, especially the alt-tech ones like Gab, Parler, and Rumble.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Exploring the mechanisms of the mainstreaming of peripheral groups in the current media ecology, our three-pronged framework attends to social media logics and hybrid media dynamics. It can be applied to different social media platforms, where users perform their identities, accumulate shares/retweets/reposts and subscribers/followers, and garner news media attention. Situated in the context of QAnon accounts on Twitter, our article demonstrates how peripheral groups like QAnon can use Twitter to perform their group identity and spark audience reaction, which can in turn reinforce their group identity performance and drive news media amplification. These dynamics speak of not only how social media actors can tap into the affordances of social media <ref type="bibr" target="#b9">(Benkler, 2006;</ref><ref type="bibr" target="#b13">boyd, 2015)</ref> to form communities and project their voices <ref type="bibr" target="#b30">(Freelon et al., 2018;</ref><ref type="bibr">Phillips, 2018)</ref>, but also how news media can further amplify and legitimize their voices. Both paths can empower and embolden a peripheral group, providing a potent formula for political radicalization and mobilization. It is worth noting that Twitter audience, likely QAnon believers and sympathizers in this case, play a critical role in all these processes: by retweeting QAnon tweets and following QAnon accounts, they inflame QAnon's expression of out-group animosity and prompt partisan media's amplification of QAnon tweets. Taken together, these results portray a media ecosystem conducive to the overall amplification of peripheral groups, regardless of whether they are good or bad for society.</p><p>2. We avoided extending the timeline to 2021 due to Twitter's suspension of many QAnon accounts following the January 6 Capitol attack. 3. This Is How Your Hyperpartisan Political News Gets Made, available at: https://www.buzzfeednews.com/article/craigsilverman/how-the-hyperpartisan-sausage-is-made 4. This Analysis Shows How Viral Fake Election News Stories Outperformed Real News On Facebook, available at https://www.buzzfeednews.com/article/craigsilverman/viralfake-election-news-outperformed-real-news-on-facebook 5. For example, Hot Air, a conservative American political blog, frequently cited QAnon accounts' posts as news resources. In an article titled "What did Jacky Rosen say to Kyrsten Sinema when she clapped for Trump at the SOTU," a QAnon account's tweet was quoted as the original video showing Jacky Rosen approaching Kyrsten Sinema when she clapped for Trump. Some QAnon tweets were employed to represent public opinion. One article titled "Trump Flips Script on Media Shows Video that 'Media Minimized the Risk from the Start' on Coronavirus" by Deneen Borelli, a well-known conservative author, embedded a QAnon account's tweet-"President Trump destroys the leftist fake news MSM with his own collage of media clips! Love this Stable Genius"-as an example of how Trump was "praised for taking on the anti-Trump media and for the video content" by the public. 6. For example, Media Matters for America in its article "Here's How a Fringe Smear Targeting E. Jean Carroll Reached Donald Trump Jr." reported how "fringe smear" targeted Jean Carroll who accused Donald Trump of sexually assaulting her in the 1990s; it quoted a QAnon account's tweet that called for Carroll to be prosecuted. 7. For missing follower counts (e.g. days when an account did not tweet), we applied two different imputation techniques: linear interpolation for missing gaps shorter than 4 days and forecasting for gaps longer than 4 days. For other variables, we replaced the missing data with zeros, assuming that those days indicated a lack of activity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Theoretical framework and specific hypotheses.</figDesc><graphic coords="7,57.75,76.23,332.88,220.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Results based on impulse response functions (IRFs).</figDesc><graphic coords="11,57.75,70.55,332.88,133.61" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Summary of supported hypotheses.</figDesc><graphic coords="12,52.08,66.54,332.88,183.31" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) received no financial support for the research, authorship, and/or publication of this article.</p></div>
+			</div>
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The social media and news media datasets are available upon request. The R code for data analysis is available at https://osf.io/dpcyu/</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental material</head><p>Supplemental material for this article is available online.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. For a given account, we computed the number of times other fellow QAnon accounts retweeted it. Then we calculated the percentage of such retweets among the total number of retweets it received. Note that this percentage is a conservative estimate because we collected data at the end of each day. The percentage of retweeting by fellow QAnon accounts is low for all accounts across the two time periods (M = 0.7%). Only for one account appearing in both samples, 12% and 18% of its retweets come from the other QAnon accounts in the respective sample; for other accounts, this number is nearly 0. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author biographies</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">News values and the ethical dilemmas of covering violent extremism</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Abubakar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="278" to="298" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Analyzing qanon on twitter in context of us elections 2020: analysis of user messages and profiles using VADER and BERT topic modeling</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Anwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ilyas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Yaqub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 22nd annual international conference on digital government research</title>
+		<meeting>the 22nd annual international conference on digital government research<address><addrLine>Omaha, NE; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2021-06">2021. June</date>
+			<biblScope unit="page" from="82" to="88" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Distinguishing influence-based contagion from homophily-driven diffusion in dynamic networks</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Muchnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sundararajan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">51</biblScope>
+			<biblScope unit="page" from="21544" to="21549" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The fringe effect: Civil society organizations and the evolution of media discourse about Islam since the September 11th attacks</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Bail</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="855" to="879" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Breaking the Social Media Prism</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Aggregation, content farms and Huffinization: the rise of low-pay and no-pay journalism</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bakker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Practice</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="627" to="637" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Who leads? Who follows? Measuring issue attention and agenda setting by legislators and the mass public using social media data</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barberá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Casas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nagler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="883" to="901" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The use of transformations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Bartlett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="52" />
+			<date type="published" when="1947">1947</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Twitter just exploded&quot;: social media as alternative vox pop</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Beckers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Harder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="910" to="920" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Wealth of Networks: How Social Production Transforms Markets and Freedom</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Benkler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">528</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="259" to="261" />
+			<date type="published" when="2006">2006</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven and London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>papercloth</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Benkler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Faris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Roberts</surname></persName>
+		</author>
+		<title level="m">Network propaganda: Manipulation, disinformation, and radicalization in American politics</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The third age of political communication: influences and features</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Blumler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kavanagh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="230" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">News in social media environments: journalism in a &quot;post-truth&quot; world</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bossio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism and Social Media</title>
+		<imprint>
+			<biblScope unit="volume">2017</biblScope>
+			<biblScope unit="page" from="133" to="152" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Profiles as conversation: networked identity performance on Friendster</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 39th annual Hawaii international conference on system sciences HICSS&apos;06 3906(HICSS&apos;06)</title>
+		<meeting>the 39th annual Hawaii international conference on system sciences HICSS&apos;06 3906(HICSS&apos;06)<address><addrLine>Kauai, HI; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2006-01">2015. 2006. January</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="4" to="7" />
+		</imprint>
+	</monogr>
+	<note>Social media: A phenomenon to be analyzed</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">How social learning amplifies moral outrage expression in online social networks</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcloughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Doan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Advances</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<biblScope unit="page">5641</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Emotion shapes the diffusion of moralized content in social networks</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Jost</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">28</biblScope>
+			<biblScope unit="page" from="7313" to="7318" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">How many likes did I get? Purpose moderates links between positive social media feedback and self-esteem</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Burrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rainone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="232" to="236" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Communication, power and counter-power in the network society</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castells</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="238" to="266" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Measuring user influence in Twitter: the million follower fallacy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haddadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Benevenuto</surname></persName>
+		</author>
+		<ptr target="https://ojs.aaai.org/index.php/ICWSM/article/view/14033" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the international AAAI conference on Web and social media</title>
+		<meeting>the international AAAI conference on Web and social media</meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>text=In%20this%20paper%2C%20using%20a, We%20make%20several%20 interesting%20observations</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chadwick</surname></persName>
+		</author>
+		<title level="m">The Hybrid Media System: Politics and Power</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The JohnLock conspiracy, fandom eschatology, and longing to belong</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transformative Works and Cultures</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The neuroscience of intergroup relations: an integrative review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cikara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Bavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="245" to="274" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Tracing normiefication: a cross-platform analysis of the QAnon conspiracy theory</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Zeeuw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hagen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Peeters</surname></persName>
+		</author>
+		<ptr target="https://firstmonday.org/ojs/index.php/fm/article/view/10643" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>First Monday. Available at</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Instafamous&quot;: credibility and self-presentation of microcelebrities on social media</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Djafarova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Trofimenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1432" to="1446" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Stop the presses? Moving from strategic silence to strategic amplification in a networked media ecosystem</title>
+		<author>
+			<persName><forename type="first">Donovan</forename><forename type="middle">J</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="333" to="350" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Managing impressions online: self-presentation processes in the online dating environment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="415" to="441" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Faris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Etling</surname></persName>
+		</author>
+		<ptr target="https://dash.harvard.edu/handle/1/33759251" />
+		<title level="m">Partisanship, propaganda, and disinformation: online media and the 2016 U.S. presidential election. Berkman Klein Center Research Publication</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Negativity and elite message diffusion on social media. Political Behavior. Epub ahead of print 11 August</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Hunt</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11109-021-09740-8</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Retweet: a popular information diffusion mechanism -a survey paper</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Firdaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sadeghian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Online Social Networks and Media</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="26" to="40" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">From the fringe to the fore: an algorithmic ethnography of the far-right conspiracy theory group QAnon</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Forberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Contemporary Ethnography</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="291" to="317" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Quantifying the power and consequences of social media protest</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Freelon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcilwain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="990" to="1011" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The genesis of a conspiracy theory: key trends in QAnon activity since 2017</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davey</forename><forename type="middle">J</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<ptr target="https://www.isdglobal.org/wp-content/uploads/2020/07/The-Genesis-of-a-Conspiracy-Theory.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">ISD reports</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">QAnon conspiracy theory: examining its evolution and mechanisms of radicalization</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rukaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal for Deradicalization</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="152" to="216" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Modernity and Self-Identity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giddens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Presentation of Self in Everyday Life</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goffman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<publisher>Doubleday</publisher>
+			<pubPlace>Garden City, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Finding scientific topics</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steyvers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">suppl_1</biblScope>
+			<biblScope unit="page" from="5228" to="5235" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">No calm in the storm: investigating QAnon website relationships</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Durumeric</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/abs/2106.15715" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the international AAAI conference on Web and social media</title>
+		<meeting>the international AAAI conference on Web and social media</meeting>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="299" to="310" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">QAnon and the information dark age</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hannah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">10868</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Comments, analytics, and social media: the impact of audience feedback on journalists&apos; market orientation</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hanusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tandoc</forename><surname>Ec</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="695" to="713" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">How# Blacklivesmatter: exploring the role of hip-hop celebrities in constructing racial identity on Black Twitter</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benbrook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="352" to="368" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Characterizing twitter user topics and communication network dynamics of the &quot;Liberate&quot; movement during COVID-19 using unsupervised machine learning and social network analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Haupt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jinich-Diamant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Online Social Networks and Media</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">100114</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Stuck in a nativist spiral: content, selection, and effects of right-wing populists&apos; communication on Facebook</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Matthes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="303" to="328" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">A longitudinal study of follow predictors on Twitter</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Hutto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gilbert</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI conference on human factors in computing systems</title>
+		<meeting>the SIGCHI conference on human factors in computing systems<address><addrLine>Paris; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013-04-27">2013. 27 April-2 May</date>
+			<biblScope unit="page" from="821" to="830" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">QAnon on Twitter: An Overview</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakatsuka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>George Washington University</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Hijacking# myNYPD: social media dissent and networked counterpublics</title>
+		<author>
+			<persName><forename type="first">Jackson</forename><surname>Sj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Foucault</forename><surname>Welles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="932" to="952" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jungherr</surname></persName>
+		</author>
+		<ptr target="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2402443" />
+		<title level="m">Twitter in politics: a comprehensive literature review</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The log transformation is special</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jurkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gottfried</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2022/06/27/twitter-is-the-go-to-social-media-site-for-u-s-journalists-but-not-for-the-public/KeeneON" />
+	</analytic>
+	<monogr>
+		<title level="m">Twitter is the go-to social media site for US journalists</title>
+		<imprint>
+			<date type="published" when="1995">2022. 1995</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="811" to="819" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The value of followers on social media</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Engineering Management Review</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="183" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">When social media become hostile media: an experimental examination of news sharing, partisanship, and follower count</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Coe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="450" to="472" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Re-) discovering the audience: the relationship between journalism and audience in networked digital media</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Loosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-H</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="867" to="887" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The wolves in sheep&apos;s clothing: How Russia&apos;s Internet Research Agency tweets appeared in US news as vox populi</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lukito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Suk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Press/Politics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="196" to="216" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Social media as public opinion: how journalists use social media to represent public opinion</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mcgregor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1070" to="1086" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Micro-celebrities of information: mapping calibrated expertise and knowledge influencers among social media veterinarians. Information, Communication &amp; Society</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maddox</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2022.2109980</idno>
+		<imprint>
+			<date type="published" when="2022-08">2022. August</date>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Applying LDA topic modeling in communication research: toward a valid and reliable methodology</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Waldherr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Miltner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="93" to="118" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marwick</surname></persName>
+		</author>
+		<title level="m">Status update: Celebrity, publicity, and branding in the social media age</title>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="114" to="133" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Media Manipulation and Disinformation Online</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lewis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Data &amp; Society Research Institute</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Constructing alternative facts: populist expertise and the QAnon conspiracy</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Partin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/146144482210902</idno>
+		<imprint>
+			<date type="published" when="2022-05">2022. May</date>
+			<publisher>New Media &amp; Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Like me (please?): connecting online selfpresentation to pre-and early adolescents&apos; self-esteem</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meeus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Beullens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">11-12</biblScope>
+			<biblScope unit="page" from="2386" to="2403" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Characterizing QAnon: analysis of YouTube comments presents new conclusions about a popular conservative conspiracy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">10168</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Misinformation or activism: mapping networked moral panic through an analysis of # savethechildren</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prochaska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Schlegel</surname></persName>
+		</author>
+		<ptr target="https://journals.uic.edu/ojs/index.php/spir/article/view/12212" />
+	</analytic>
+	<monogr>
+		<title level="m">AOIR Selected Papers of Internet Research</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Awareness, reporting, and branding: exploring influences on Brazilian journalists&apos; social media use across platforms</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mourão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harlow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="215" to="235" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">All the news that&apos;s fit to click: the economics of clickbait media</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Munger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="376" to="397" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Persuasion: Theory and Research</title>
+		<author>
+			<persName><surname>O'keefe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">DJ</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>SAGE</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Trump: Twitter-QAnon: who&apos;s to blame?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ovide</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/2021/01/07/technology/trump-twitter-qanon.html" />
+	</analytic>
+	<monogr>
+		<title level="j">New York Times</title>
+		<imprint>
+			<date type="published" when="2021-01-07">2021. 7 January. September 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Without you, I&apos;m nothing: performances of the self on Twitter</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Papacharissi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1989" to="2006" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Is it a qoincidence?&quot;: an exploratory study of QAnon on Voat</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Papasavva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blackburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stringhini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Web Conference</title>
+		<meeting>the Web Conference</meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">2021</biblScope>
+			<biblScope unit="page" from="460" to="471" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The Oxygen of Amplification: Better Practices for Reporting on Extremists, Antagonists, and Manipulators Online</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Phadke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mitra</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2020 CHI conference on human factors in computing systems</title>
+		<meeting>the 2020 CHI conference on human factors in computing systems<address><addrLine>Honolulu, HI; New York; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Data &amp; Society Research Institute</publisher>
+			<date type="published" when="2018-04-30">2020. 25-30 April. 2018</date>
+			<biblScope unit="page" from="1" to="13" />
+		</imprint>
+	</monogr>
+	<note>Many faced hate: a cross platform study of content framing and information sharing by online hate groups</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Out-group animosity drives engagement on social media</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rathje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Bavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">26</biblScope>
+			<date type="published" when="2021">2021. 2024292118</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Measuring user influence on Twitter: a survey</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Riquelme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">González-Cantergiani P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information Processing &amp; Management</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="949" to="975" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The dynamics of public attention: agenda-setting theory meets big data</title>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Neuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Guggenheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mo</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="214" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">An integrative theory of intergroup conflict</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tajfel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Austin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Organizational Identity: A Reader</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hatch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Schultz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="56" to="65" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">How digital media drive affective polarization through partisan sorting</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Törnberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">42</biblScope>
+			<biblScope unit="page">2207159119</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Not this one&quot; social movements, the attention economy, and microcelebrity networked activism</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tufekci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="848" to="870" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Venture-backed news startups and the field of journalism: challenges, changes, and consistencies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Usher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1116" to="1133" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijck</surname></persName>
+		</author>
+		<title level="m">The Culture of Connectivity: A Critical History of Social Media</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Understanding social media logic</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Poell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Media and Communication</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2" to="14" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Self-disclosure on social media: the role of perceived network responsiveness</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Forest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Orehek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">106162</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Webster</surname></persName>
+		</author>
+		<title level="m">Theories of the Information Society</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">How Trump drove coverage to the nomination: hybrid media campaigning</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pevehouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="669" to="676" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Modeling the formation of attentive publics in social media: the case of Donald Trump</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lukito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="181" to="205" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Mapping connective actions in the global alt-right and Antifa counterpublics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Network amplification of politicized information and misinformation about COVID-19 by conservative media and partisan influencers on Twitter. Political Communication</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chen</forename><forename type="middle">F</forename><surname>Lukito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/1058460</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Social media public opinion as flocks in a murmuration: Conceptualizing and measuring opinion expression on social media</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rohe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="2022">2022b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Assembling the networks and audiences of disinformation: how successful Russian IRA Twitter accounts built their followings, 2015-2017</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lukito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M-H</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="305" to="331" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Attention and amplification in the hybrid media system: the composition and activity of Donald Trump&apos;s Twitter following during the 2016 presidential election</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3161" to="3182" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">QAnon shifts into the mainstream, remains a far-right ally</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zihiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heliyon</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">8764</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">QAnon and the emergence of the unreal</title>
+		<author>
+			<persName><surname>Zuckerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Design and Science</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

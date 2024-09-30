@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Informational benefits from social media use for professional purposes: Results from a longitudinal study</title>
+				<funder ref="#_Yqa47Uz #_fRSmT94">
+					<orgName type="full">European Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Masaryk University Press</publisher>
+				<availability status="unknown"><p>Copyright Masaryk University Press</p>
+				</availability>
+				<date type="published" when="2016-12-01">2016-12-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sonja</forename><surname>Utz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Leibniz-Institut für Wissensmedien</orgName>
+								<orgName type="institution">Eberhard Karls University of Tübingen</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Johannes</forename><surname>Breuer</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Leibniz-Institut für Wissensmedien</orgName>
+								<orgName type="institution">University of Cologne</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Informational benefits from social media use for professional purposes: Results from a longitudinal study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+						<title level="j" type="abbrev">Cyberpsychology</title>
+						<idno type="eISSN">1802-7962</idno>
+						<imprint>
+							<publisher>Masaryk University Press</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2016-12-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">E099294EE781A4E2E33B51559AE224CF</idno>
+					<idno type="DOI">10.5817/cp2016-4-3</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Social capital</term>
+					<term>informational benefits</term>
+					<term>social media</term>
+					<term>ambient awareness</term>
+					<term>longitudinal</term>
+					<term>social network</term>
+					<term>social network sites</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Using data from four waves of a longitudinal study among Dutch internet users, we examined whether and how the use of social network sites (SNS) for professional purposes is related to informational benefits. Building on a social capital framework and taking into account the affordances of social media, we specifically looked at users' activities and the structure of their online networks. Users of LinkedIn or other professional SNS consistently reported higher informational benefits than non-users. The number of ties on the SNS used for professional purposes predicted informational benefits half a year later, and strong ties became more important over time. We also found evidence for a reciprocal relationship between strategic networking and informational benefits. For the use variables (frequency of login, reading, activity in groups, posting professional content), we mainly found concurrent associations with informational benefits. The results shed light on the complex interplay of concurrent and longitudinal processes in the relationship between SNS use and professional informational benefits.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Social network sites (SNS) designed for professional purposes have become increasingly popular. The internationally most prominent of these sites, LinkedIn, for example, has more than 430 million users <ref type="bibr" target="#b23">(LinkedIn, 2016)</ref>. Similar to other SNS, users of these services have a profile, can add contacts and see the profiles and contacts of others. Unlike on SNS (predominantly) used for private purposes, such as Facebook, however, the focus here is on the users' professional life <ref type="bibr" target="#b29">(Papacharissi, 2009)</ref>. The profile fields resemble the categories of a CV as they include education, work experience, and skills. SNS for professional use, such as LinkedIn or Xing, promise their users benefits such as access to people and important information on their mission pages. This claim resonates well with the idea that the people we know and interact with form our social capital and that especially weak ties, i.e., the people we are less close to, are important when it comes to receiving new information and being pointed to career opportunities <ref type="bibr" target="#b13">(Granovetter, 1973</ref>; see <ref type="bibr" target="#b0">Adler &amp; Kwon, 2002</ref>, for a review). However, not much is known about the actual benefits of using SNS for professional purposes as most research on the uses and effects of SNS so far has focused on the use of SNS for relationship maintenance and most studies mainly or exclusively looked at Facebook use (see <ref type="bibr" target="#b41">Zhang &amp; Leung, 2014</ref>, for a review). Moreover, most prior studies were cross-sectional and can, hence, not be used to determine the direction of effects or to explain the underlying causal mechanisms.</p><p>The present paper will build on social capital theory to explore the longitudinal effects of SNS use for professional purposes. More specifically, we focus on informational benefits, i.e., receiving work-related information timely and being pointed to career opportunities <ref type="bibr" target="#b3">(Burt, 1992)</ref>, as one potential effect of social capital and consider the structure of a user's online network as a source of social capital <ref type="bibr" target="#b0">(Adler &amp; Kwon, 2002)</ref>. We also take into account the specific affordances of SNS, i.e., the action possibilities built into the platforms, such as the visibility or persistence of posts <ref type="bibr" target="#b6">(Ellison, Gibbs, &amp; Weber, 2015;</ref><ref type="bibr" target="#b35">Treem &amp; Leonardi, 2013)</ref>, when examining the relationship between user activities and informational benefits.</p><p>In previous research, the (potential) benefits of social media in the professional domain have mainly been examined in the context of so-called enterprise social networks (ESN) (i.e., social media only used within a company; <ref type="bibr" target="#b6">Ellison et al., 2015;</ref><ref type="bibr" target="#b20">Leonardi &amp; Meyer, 2015;</ref><ref type="bibr" target="#b18">Leonardi, 2014)</ref>, but there is some initial evidence that users of public SNS for professional purposes, such as LinkedIn, report higher informational benefits than nonusers do <ref type="bibr" target="#b36">(Utz, 2016)</ref>. Many papers were purely conceptual <ref type="bibr" target="#b6">(Ellison et al., 2015)</ref> or focused on one specific underlying mechanism, such as ambient awareness <ref type="bibr" target="#b19">(Leonardi, 2015)</ref>. In the study presented here, we wanted to look at the role of the actual use and the structure of the network on the platform to get a more comprehensive understanding of the underlying processes and dynamics. The study by <ref type="bibr" target="#b36">Utz (2016)</ref> provided some initial evidence by showing that specific types of use (e.g., activity in groups) and the content and structure of the network on the online platform matter. However, as this study was cross-sectional, it remains unclear whether SNS use for professional purposes increases informational benefits over time (media effect) or whether people who already have higher informational benefits are simply more likely to use SNS for professional purposes (selection effect), so that the cross-sectional relationship is driven by (personality) characteristics of the users rather than media use. We used data from a longitudinal panel study to answer the question whether use of SNS for professional purposes leads to higher informational benefits over time or whether people who receive a high amount of informational benefits are also more likely to use SNS for professional purposes (more intensely). Additionally, we wanted to examine the underlying processes and test the role of specific usage patterns and the network composition. <ref type="bibr">Adler and Kwon (2002, p. 23)</ref> define social capital as "the goodwill available to individuals or groups. Its source lies in the structure and content of the actor's social relations. Its effects flow from the information, influence, and solidarity it makes available to the actor". The advantage of this definition is that it clearly distinguishes between the sources and effects of social capital and, thus, avoids the risk of being tautological <ref type="bibr" target="#b30">(Portes &amp; Landolt, 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social Capital</head><p>According to the above definition, information is one of the potential benefits retrieved from social networks. It is important to note, however, that informational benefits go beyond the pure access to information <ref type="bibr" target="#b3">(Burt, 1992)</ref>. It is also relevant that information is obtained in a timely manner and that people are referred to (career) opportunities. In the context of work and business, timely access to information is important for day-to-day business, whereas referrals play an important role in career progression.</p><p>As stated above, the source of social capital lies in the structure and content of the social network. When it comes to structural approaches to social capital, an important distinction is the one between strong and weak ties. Strong ties are close ties with family members or friends. Weak ties are looser ties, for example, with acquaintances or former colleagues. <ref type="bibr" target="#b13">Granovetter (1973)</ref> proposed in his "strength of weak ties" theory that strong ties mainly provide emotional support, whereas weak ties typically provide people with informational benefits. Especially weak ties in a bridging position, i.e., weak ties that are the only connection between two otherwise unconnected groups, provide access to non-redundant information, i.e., information that one does not already have from other contacts. Accordingly, the terms bonding vs. bridging social capital are also used to refer to social capital stemming from strong vs. weak ties <ref type="bibr" target="#b8">(Ellison, Steinfield, &amp; Lampe, 2007;</ref><ref type="bibr" target="#b31">Putnam, 2000)</ref>. The content of the social network is characterized by the motivation and ability of the ties <ref type="bibr" target="#b0">(Adler &amp; Kwon, 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects of Social Media Use on Social Capital</head><p>The social capital framework has proven useful to examine whether people can retrieve useful information via SNS, e.g., when asking their Facebook friends for recommendations for places to go to <ref type="bibr" target="#b7">(Ellison, Gray, Lampe, &amp; Fiore, 2014;</ref><ref type="bibr" target="#b37">Vitak &amp; Ellison, 2012)</ref>. On the longitudinal level, it has been shown that Facebook use results in more social capital, especially bridging capital, one year later <ref type="bibr" target="#b34">(Steinfield, Ellison, &amp; Lampe, 2008)</ref>. There are also various conceptual papers outlining the potential of ESN for building social capital within a company <ref type="bibr" target="#b6">(Ellison et al., 2015;</ref><ref type="bibr" target="#b10">Fulk &amp; Yuan, 2013;</ref><ref type="bibr" target="#b35">Treem &amp; Leonardi, 2013)</ref>. These papers argue that regularly skimming the updates of colleagues helps people to create ambient awareness, i.e., knowledge about "who does what" and "who knows what" in the company, and fosters trust in colleagues, thereby making it easier to identify and approach experts within the company <ref type="bibr" target="#b20">(Leonardi &amp; Meyer, 2015;</ref><ref type="bibr" target="#b19">Leonardi, 2015)</ref>.</p><p>Many papers in this domain take an affordances approach. Affordances are the action possibilities inherent in objects and perceived by the users <ref type="bibr" target="#b12">(Gibson, 1977)</ref>. The same feature can be perceived in different ways by different people. By considering the perceptions of users, the affordances approach can explain why different people use the same media in different ways. <ref type="bibr" target="#b35">Treem and Leonardi (2013)</ref> identified high visibility, persistence, editability, and association as the central affordances of social media used in organizational settings. The first three are relatively self-explanatory and characterize also older forms of computer-mediated communication, such as usenet newsgroups or online forums. What is genuinely new about SNS is the affordance association, i.e., the explicit display of associations between people (e.g., friends or followers) or between people and content (e.g., likes or shares). <ref type="bibr" target="#b11">Gibbs, Rozaidi, and Eisenberg (2013)</ref> added the affordances of notified attention and selectivity. SNS point users with notifications to new or -according to their algorithm -relevant posts, enabling users to focus on the important information and to skim the rest instead of reading everything carefully. Selectivity means that users can subscribe to specific groups that match their interests.</p><p>Several authors have used the affordances approach in conceptual papers to discuss the potential benefits (and pitfalls) of social media in organizational settings <ref type="bibr" target="#b6">(Ellison et al., 2015;</ref><ref type="bibr" target="#b10">Fulk &amp; Yuan, 2013;</ref><ref type="bibr" target="#b26">Majchrzak, Faraj, Kane, &amp; Azad, 2013)</ref>. These papers often also refer to social capital. For example, <ref type="bibr" target="#b6">Ellison et al. (2015)</ref> point out that the association affordance can help to increase bridging capital and to detect relevant latent ties, i.e., ties that are "technologically possible but not yet activated socially" <ref type="bibr">(Haythornthwaite, 2005, p. 137)</ref>. <ref type="bibr" target="#b6">Ellison et al. (2015)</ref> also point out the possible downsides of these affordances. The persistence of content on social media, for example, could also disencourage information sharing for people who are afraid to post inaccurate information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Professional Social Media and Informational Benefits</head><p>In a cross-sectional study, <ref type="bibr" target="#b36">Utz (2016)</ref> examined the relationship between use of publicly accessible social media platforms and professional informational benefits. This paper was based on the first wave of a longitudinal study among a representative sample of Dutch online users that focused on three types of platforms: SNS primarily used for private purposes (Facebook for the majority of the participants), SNS primarily used for professional purposes (LinkedIn for the majority of the participants) and microblogging services (Twitter for the majority of the participants). For reasons of brevity, we therefore talk about Facebook/LinkedIn/Twitter users in the remainder of this paper when we refer to the three types of platforms. All working respondents, also the ones who did not use any social media platform, filled in a scale on professional informational benefits (see Appendix A.1). In the study by <ref type="bibr" target="#b36">Utz (2016)</ref>, LinkedIn users reported significantly higher informational benefits than nonusers of LinkedIn did. A similar, but smaller difference emerged for Twitter users. Facebook users, in contrast, on average reported lower informational benefits than non-users. These results are not surprising against the background of the conceptual work by <ref type="bibr" target="#b29">Papacharissi (2009)</ref> who compared the SNS LinkedIn, Facebook, and ASmallWorld and found that the architectural elements (e.g., providing only resumé-related profile fields in case of LinkedIn) suggest a particular type of use, although this is also shaped socially by the users. The focus on professional content also has implications for the structure and makeup of the network on the platform. In comparison to Facebook, where the main goal is to maintain existing relationships, the proportion of stronger ties is smaller and the proportion of weaker and latent ties is larger on SNS for professional purposes. On the other hand, a higher proportion of ties come from the same occupational field. Accordingly, the ability of the ties on such SNS to provide work-related information and advice should be higher.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Present Research</head><p>Building on the results of the cross-sectional study by <ref type="bibr" target="#b36">Utz (2016)</ref>, we decided to focus on the use of SNS for professional purposes. Firstly, because the effects for this type of platforms have been largest in that study and, secondly, because it also makes sense from a theoretical point of view to expect professional informational benefits from using platforms designed explicitly for this purpose. Before looking at underlying concurrent and longitudinal mechanisms, we first want to establish that the difference in informational benefits is robust across the four waves of our longitudinal study. Our first hypothesis is therefore: H1: Users of SNS for professional purposes (such as LinkedIn) report higher informational benefits than nonusers of SNS for professional purposes.</p><p>In the following sections, we examine which user activities and network characteristics might specifically contribute to this difference. For each variable, we always first discuss potential concurrent associations (within the same wave; cross-sectional) before we turn to potential longitudinal relationships.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predictors of Informational Benefits</head><p>User activities. For analyzing user activities, we follow the broad distinction between passive and active use of social media as suggested by <ref type="bibr" target="#b2">Burke, Kraut, and Marlow (2011)</ref>. They found that passive use, i.e., reading posts or looking at profiles, resulted in higher bridging social capital for people with lower social communication skills. Recent findings on ambient awareness further highlight the importance of an even more passive kind of use, namely just skimming updates <ref type="bibr" target="#b20">(Leonardi &amp; Meyer, 2015;</ref><ref type="bibr" target="#b18">Leonardi, 2014</ref><ref type="bibr" target="#b19">Leonardi, , 2015))</ref>. Ambient awareness refers to the awareness of what members of your online network are doing that stems from regularly skimming the updates of others. It is "ambient" because awareness is built without a deliberate goal to do so and without putting much effort on the task <ref type="bibr" target="#b22">(Levordashka &amp; Utz, 2016)</ref>. Thus, not only carefully reading posts, but also skimming posts, an almost inevitable by-product of logging in, should increase informational benefits. We therefore expected a cross-sectional relationship between frequency of login/reading and informational benefits in the respective waves of our longitudinal dataset.</p><p>Hypothesis 2: Frequency of login at time t is positively related to informational benefits at time t.</p><p>Hypothesis 3: Frequency of reading at time t is positively related to informational benefits at time t.</p><p>It is less clear whether there should also be a longitudinal association between frequency of login/reading and informational benefits. In a quasi-experimental study, <ref type="bibr" target="#b19">Leonardi (2015)</ref> found that employees who used a newly introduced ESN for six months had a better representation of "who knows what" and "who knows whom" in the company six months later than the control group that did not have access to the ESN. Informational benefits, however, is a broader concept, entailing more than identifying experts. When it comes to receiving information that is needed for a job-at-hand, skimming/reading in the concurrent wave might be a better predictor of informational benefits than having read posts half a year earlier. Hence, we posed an open research question regarding the longitudinal level.</p><p>RQ1: Does frequency of passive use (skimming and/or deliberate reading) at time t lead to higher informational benefits at time t+1?</p><p>With regard to active use, <ref type="bibr" target="#b2">Burke et al. (2011)</ref> found an effect of directed private messages, but not of undirected status updates on bridging social capital on Facebook. The selectivity affordance opens up the possibility of reading not only the general updates in one's network, but to also join relevant (discussion) groups. Engaging in these groups might result in higher informational benefits than just posting or reading general status updates. In line with this argumentation, <ref type="bibr" target="#b36">Utz (2016)</ref> found that participation in groups rather than the general frequency of posting predicted professional informational benefits. We therefore expected to also find the positive concurrent relationship between participation in groups and professional informational benefits for the four waves in our longitudinal study.</p><p>Hypothesis 4: Active participation in groups at time t is positively related to informational benefits at time t.</p><p>Predictions about the longitudinal effects of participation in groups are less clear. On the one hand, one could argue that, although information on SNS is persistent, the most recent activities are displayed much more prominently. From this perspective, the concurrent effects should be much stronger than longitudinal effects. On the other hand, one could also argue that regularly posting about a topic is necessary to establish a reputation as an expert in a field and to gain the trust of other members of a group. As there is no clear theoretical or empirical indication for a longitudinal effect of activity in SNS groups, we formulated an open research question instead of a hypothesis for this relationship.</p><p>RQ2: Does active participation in groups at time t lead to higher informational benefits at time t+1? What might be more important than the frequency of participation is the actual content of a user's posts. The argument here is straightforward: People have to inform their ties about their work and informational needs if they want to receive informational benefits <ref type="bibr" target="#b6">(Ellison et al., 2015)</ref>. Users can boost their reputation by posting about work-related success or competently responding to posts from other users <ref type="bibr" target="#b10">(Fulk &amp; Yuan, 2013)</ref>, thereby making use of the visibility affordance, and might, ultimately, also receive more referrals to job opportunities. <ref type="bibr" target="#b36">Utz (2016)</ref> found that frequently posting-work related content was related to increased informational benefits. We, again, expected the concurrent associations of work-related content to replicate across waves in our longitudinal study.</p><p>Hypothesis 5: Frequency of posting work-related content at time t is positively related to informational benefits at time t.</p><p>It is, again, less clear whether there are also longitudinal effects of posting work-related content. For building a reputation, continuous posting might be important, but for the daily work, the most recent posts might be more important. Hence, we decided to formulate an open research question for the longitudinal associations.</p><p>RQ3: Does frequency of posting work-related content at time t lead to higher informational benefits at time t+1? Network structure. Structural approaches to social capital repeatedly found that weak ties were more helpful for finding a new job than strong ties <ref type="bibr" target="#b13">(Granovetter, 1973;</ref><ref type="bibr" target="#b24">Lin, Ensel, &amp; Vaughn, 1981;</ref><ref type="bibr" target="#b40">Yakubovich, 2005)</ref>. Studies on organizational knowledge sharing, however, found more ambiguous patterns when studying the effects of tie strength. In some studies, people received more information from strong ties, at least for some types of knowledge <ref type="bibr" target="#b14">(Hansen, 1999;</ref><ref type="bibr" target="#b32">Reagans &amp; McEvily, 2003)</ref>. <ref type="bibr" target="#b21">Levin and Cross (2004)</ref> pointed out that people trust their strong ties more and, hence, prefer turning to their strong ties even if their weak ties would have more nonredundant knowledge. The association affordance of SNS allows users to extend their network, strengthening weak ties and maintaining (strong) ties. The association affordance also results in context collapse -strong and weak ties, family, friends, colleagues, acquaintances and so on can all be contacts on LinkedIn, friends on Facebook or followers on Twitter <ref type="bibr" target="#b27">(Marwick &amp; boyd, 2011)</ref>. This context collapse might blur the boundary between strong and weak ties. This might explain why <ref type="bibr" target="#b36">Utz (2016)</ref> found that both, the number of strong and the number of weak ties on LinkedIn, were related to professional informational benefits. We expected these associations to replicate across the different waves in our longitudinal study.</p><p>Hypothesis 6: a) Number of strong ties and b) number of weak ties at time t are positively related to informational benefits at time t.</p><p>We also expected longitudinal effects of the number of strong and weak ties. Networking does not only entail building a network (e.g., adding as many contacts as possible), but also maintaining and attending to these contacts <ref type="bibr" target="#b39">(Wolff &amp; Moser, 2009)</ref>. Repeated interactions are needed for strengthening bonds and creating trust <ref type="bibr" target="#b9">(Ellison, Steinfield, &amp; Lampe, 2011)</ref>. The number of strong and weak ties in the previous wave might be a proxy for continuous networking which is why we also expected longitudinal associations of the network variables.</p><p>Hypothesis 7: A higher number of a) strong ties and b) weak ties at time t leads to higher informational benefits at time t + 1.</p><p>We have to concede, however, that the number of strong and weak ties is, of course, just a rough proxy for the overall network structure. It is likely that the expertise and position of the ties is more relevant than their overall number. Because it is not feasible to assess the expertise and position of each member of the respondent's online network in a longitudinal online survey, we instead focus on the role of the respondents' strategic networking behavior (online). For this purpose, we build on the concept of networking behavior that has already been studied in offline contexts by organizational psychologists. <ref type="bibr">Wolff and Moser (2009, pp. 196-197)</ref> define networking as "behaviors that are aimed at building, maintaining, and using informal relationships that possess the (potential) benefit of facilitating work-related activities of individuals by voluntarily granting access to resources and maximizing common advantages". Strategic networking behavior has been found to be related to career success in retrospective, concurrent, and prospective studies (see <ref type="bibr" target="#b39">Wolff &amp; Moser, 2009</ref>, for an overview). In an online context, strategic networking refers to the strategic selection of ties on a SNS. Utz (2016) also found a positive cross-sectional relationship between strategic networking online and professional informational benefits. We expected that this will be replicated across waves. In addition, based on the findings on longitudinal effects of offline networking on career success <ref type="bibr" target="#b39">(Wolff &amp; Moser, 2009)</ref>, we also expected positive longitudinal effects of online networking on informational benefits. Hypothesis 8: Strategic networking at time t is positively related to informational benefits at time t. Hypothesis 9: Strategic networking at time t leads to higher informational benefits at time t + 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Participants and Panel Description</head><p>For the present study, we used data from four waves of an online panel study of Dutch internet users. The participants were recruited by a professional Dutch market research company that also administered the online questionnaires. Data for the first wave was collected in the fall of 2013. The time interval between each of the consecutives waves was six months. A sample of 3367 people, representative for Dutch online users with regard to gender, age, education level, and place of living (urban/rural) answered the online survey in the first wave. Approximately 60% of the respondents in wave 1 were working (either employed or self-employed) and 23.6% used a SNS for professional purposes. Overall, those numbers were quite stable across waves (see Table <ref type="table" target="#tab_0">1</ref>). Of the 3367 respondents who participated in wave 1, 2678 also participated in wave 2, 2273 in wave 3, and 1953 in wave 4. The average attrition rate across waves was 16.55%. The attrition rates between each wave and sample descriptions for all waves are displayed in Table <ref type="table" target="#tab_0">1</ref>. Among the respondents who reported to have a profile on a SNS that they use mainly for professional purposes in wave 1, LinkedIn was by far the most popular platform (86.4%), while 8.2% indicated that Facebook was the SNS that they mainly use for professional purposes, 1.3% used Google+ and the remaining 4.1% used other platforms. Again, these percentages remained relatively stable across waves (see Table <ref type="table" target="#tab_1">2</ref>). For the longitudinal models we included only those participants who participated in all waves and reported that they used SNS for professional purposes in at least one of the four waves (N = 637, 33.1% female). We used the second criterion to also take into account respondents who change from users to non-users or vice versa over the course of our study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>SNS use for professional purposes. Respondents were asked whether they had a profile on a SNS that they use (mainly) for professional purposes. If they answered yes, they were asked to indicate which SNS they use. To assess passive use, respondents indicated how often they log in to this SNS and how often they read/look at posts by other users. Answer categories were "several times a day" (5), "once every day" (4), "several times a week" (3), "several times per month" (2), and "rarely" (1), with the additional option to answer "I don't know" (coded as missing). We assume that the reading item measures deliberate reading rather than just skimming updates. Because users almost automatically skim the latest posts when logging into a SNS, we use the login frequency item as a proxy for skimming. To assess activity in groups, respondents indicated their activity in groups on a scale from "not at all" (1) to "regularly" (5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Professional content.</head><p>Respondents indicated how often they post about their professional success, general information about their work or asked for advice about their work on 5-point scales ranging from "never" (1) to "very often" (5). The internal consistency of this scale was high and stable across waves, Cronbach's α = .83, .86, .86, and .86 for waves 1, 2, 3, and 4 respectively. 1 See Appendix A.2 for all items and factor loadings from the confirmatory factor analysis (CFA) with the complete sample in wave 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Network composition.</head><p>Respondents were told that it would be helpful to open their SNS profile in a separate window to answer the network composition questions. Respondents indicated the overall number of contacts they have on the SNS and were asked to estimate how many people in their online network are strong or weak ties. Brief descriptions of these types of ties were given. Respondents could choose to enter the absolute number or a percentage. Percentages were later converted into absolute numbers based on the overall network size.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategic networking.</head><p>Respondents indicated their agreement with four statements, such as "I invite people who might sometimes be useful for me", on five-point scales ranging from "strongly disagree" (1) to "totally agree" (5). The fifth item ("I accept invitations from important people") that was included in the cross-sectional analysis by <ref type="bibr" target="#b36">Utz (2016)</ref> was dropped as its factor loading was &lt; .6 in a CFA with the complete data from wave 1 and its removal also improved model fit in the CFA (CFI from 0.936 to 0.971, TLI from 0.872 to 0.913, RMSEA from 0.124 to 0.114, SRMR from 0.039 to 0.025) For the 4-item scale, internal consistency was satisfactory with Cronbach's α of .79, .77, .80, and .79, respectively for waves 1, 2, 3, and 4. See Appendix A.3 for all items and CFA factor loadings in wave 1.</p><p>Professional informational benefits. The items on professional informational benefits were only presented to participants who reported that they are currently working (employed or self-employed; see Table <ref type="table" target="#tab_0">1</ref> for the percentages of working respondents in each wave). 2 We used five items from the scale by <ref type="bibr" target="#b38">Wickramasinghe and Weliwitigoda (2011)</ref> that capture the dimensions of access, timeliness, and referrals <ref type="bibr" target="#b3">(Burt, 1992)</ref>. This scale assesses informational benefits in general, and not the benefits retrieved from a specific platform. An example item is: "I receive information about innovations in my field from my network members, timely". Respondents indicated their agreement with the statements on five-point scales ranging from "strongly disagree" (1) to "totally agree" (5). Although the three dimensions can be distinguished theoretically, a confirmatory factor analysis with data from all working respondents in wave 1 provided support for a single-factor model, as indicated by standardized factor loadings &gt; .7 and a good model fit (see Appendix A.1). The scale showed high internal consistency in waves 1 (α = .90), 2 (α = .91), 3 (α = .91), and 4 (α = .91).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>To test the differences in informational benefits between users and non-users of SNS for professional purposes, we used independent samples t-tests. We used Welch's t-test instead of the more commonly used Student's ttest as a) the group sizes were unequal and b) Levene's test revealed that homogeneity of variances could not be assumed.</p><p>3</p><p>In order to control for auto-regression and to account for measurement errors we used structural equation modelling (SEM) for our main analyses of the longitudinal panel data. All confirmatory factor analysis and structural equation models were calculated using the lavaan package <ref type="bibr" target="#b33">(Rosseel, 2012)</ref> for R. As some of our variables of interest were slightly skewed and/or kurtotic (all univariate skew and kurtosis &lt; |1.5|), we used the MLR estimator with Yuan-Bentler scaling correction that is robust to non-normality.</p><p>To answer our research questions, we estimated four cross-lagged models. In the first cross-lagged model, we looked at passive use (frequency of logging in and reading posts). In the second model, we focused on active and work-related use by including participation in groups and posting work-related content. To understand the role of network composition, we estimated a third model with the number of strong and weak ties on the professionally used SNS. As these two variables were heavily skewed and kurtotic and because the SEM estimation procedure fails if the variance of one of the variables exceeds that of the others by a factor of 1000 or more, we log-transformed these numbers using the formula ln(x+1) to avoid missing values for people who reported zero strong or weak ties. 4 In the fourth model, we investigated the longitudinal relations between strategic networking behavior on SNS and professional informational benefits.</p><p>Missing data were handled using the full information maximum likelihood procedure (FIML). Invariance tests for the latent variables professional content, strategic networking, and professional informational benefits showed metric invariance over time, as indicated by nonsignificant scaled chi-square difference tests and changes in CFI ≤ .002 as recommended by <ref type="bibr" target="#b28">Meade, Johnson, and Braddy (2008)</ref>. Hence, factor loadings for the latent variables were constrained to be equal over time in all models. The error variances of the indicators were allowed to covary across all waves. For the evaluation of model fit we used the criteria suggested by <ref type="bibr" target="#b25">Little (2013)</ref> for longitudinal structural equation models.</p><p>5</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptives and Group Comparisons</head><p>While we used latent variable modeling for the main analyses, the descriptive analyses for the variables professional content, strategic networking, and professional informational benefits are based on mean scores. Table <ref type="table" target="#tab_2">3</ref> shows the descriptive statistics from all waves for the subsample that we used for our SEM analyses.</p><p>As can be seen in Table <ref type="table" target="#tab_2">3</ref>, the means for the variables of interest were quite stable across time, with the notable exception of the number of weak ties. While the total number of strong ties on SNS used for professional purposes remained relatively stable across waves, the number of weak ties increased linearly over time. This, however, is not surprising as it reflects the common way of adding contacts on such sites. To test H1, we looked at differences in informational benefits between users and non-users of SNS for professional purposes in each wave. Using Welch's t-test, we found significant differences between users and non-users. As can be seen in Table <ref type="table" target="#tab_3">4</ref>, the users consistently reported higher professional benefits than the nonusers in all of the waves. 6 H1 is therefore supported. However, these mean level differences do not tell us anything about the nature of these effects and the underlying causal mechanisms. They might be due to a media effect, such that using LinkedIn (in a particular way) leads to increased informational benefits over time or to a self-selection effect, such that individuals who have more informational benefits are simply more likely to make use of LinkedIn. It might also be that those two processes work in unison: people with higher informational benefits are more likely to use professional platforms and receive even higher informational benefits in turn. To investigate which of these processes can best explain the data, we calculated the cross-lagged models. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Model 1: Passive SNS Use</head><p>The overall fit of the passive use model was good (CFI = .95, TLI = .94, RMSEA = .04) according to the rules of thumb for longitudinal SEM provided by <ref type="bibr" target="#b25">Little (2013)</ref>. As can be seen in Figure <ref type="figure" target="#fig_0">1</ref>, the frequency of logging in and the professional informational benefits were relatively stable across waves. This stability was somewhat lower for the frequency of reading posts. In line with hypothesis 2, the cross-sectional relationships between the frequency of use and informational benefits were &gt;.1, which represents a small effect according to <ref type="bibr" target="#b5">Cohen (1988)</ref>, in 3 out of 4 waves and significant at the p ≤ .05-level in 2 of the waves. This pattern was very similar for the frequency of reading posts by other users (H3); with the difference that this only reached significance in wave 1. H2 and H3 are thus partly supported. Looking at the cross-lagged paths, it seems that the login frequency is a better longitudinal predictor of informational benefits six months later than the frequency of reading posts. However, all of the cross-sectional and longitudinal associations were small and only one of the cross-lagged paths from login frequency (in wave 1) to informational benefits (in wave 2) was significant. Hence, the answer to RQ1 is that there is only very limited evidence for a longitudinal effect of reading or skimming posts on informational benefits.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Model 2: Active Use</head><p>As for model 1, the overall fit of the active use model was good (CFI = .95, TLI = .95, RMSEA = .03). The stability indicators for informational benefits were very similar to the previous model (see Figure <ref type="figure" target="#fig_1">2</ref>). Supporting hypothesis 4, the cross-sectional associations between activity in groups and informational benefits were larger than .1 and significant in 3 of the 4 waves. This was similar for posting about work (professional content in Figure <ref type="figure" target="#fig_1">2</ref>) with coefficients that were &gt; .1 in all waves and significant in two waves (1 and 2). The overall pattern of this model largely supports hypothesis 5.</p><p>All longitudinal paths from posting professional content to informational benefits were &lt; .1 and nonsignificant, there was only one small but nonsignificant effect of activity in groups in wave 2 on informational benefits in wave 3 (β = .1, p = .073). Interestingly, there were small significant paths from informational benefits in wave 2 to activity in groups and to posting professional content in wave 3. Considering these results, the answer to RQ2 and RQ3 is that activity in groups and posting about work on SNS does not lead to higher professional informational benefits six months later, but, occasionally, higher informational benefits might lead to more subsequent activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Model 3: Network Composition</head><p>Model 3 estimated the longitudinal relationships between the number of strong and weak ties and professional informational benefits. Compared to models 1 and 2, the fit of the network composition model was slightly lower, but still well within the range that Little (2013) describes as a good fit (CFI = .93, TLI = .91, RMSEA = .04). While there were significant cross-sectional associations between informational benefits and both the number of strong (β = .3, p &lt; .001) and weak ties (β = .29, p &lt; .001) in wave 1, this was not the case in the consecutive waves (see Figure <ref type="figure" target="#fig_2">3</ref>). Only the association between strong ties and informational benefits in wave 3 was larger than .1 (β = .15, p = .062). Hence, H6a and H6b are not supported by this model. In terms of longitudinal relationships, there was a significant but small effect of the number of weak ties on informational benefits from wave 1 to 2 (β = .18, p &lt; .001) and 2 to 3 (β = .12, p = .029) and from strong ties to informational benefits from wave 3 to 4 (β = .14, p = .019). Overall, the pattern indicates that the effect of weak ties on the subsequent wave becomes weaker over time, whereas the effect of strong ties becomes stronger. Thus, H7a and H7b are only partly supported, but the results suggest a shift of influence from weak to strong ties over time rather than consistent longitudinal effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Model 4: Strategic Networking</head><p>The final model looked at the relationship between strategic networking and professional informational benefits. Again, the fit of model 4 was good (CFI = .94, TLI = .94, RMSEA = .04). As Figure <ref type="figure" target="#fig_3">4</ref> shows, strategic networking was also quite stable across time. Overall, the cross-sectional paths showed a more consistent pattern than the cross-lagged ones with positive associations &gt; .1 in all waves of which 3 were significant at the p &lt; .05 level. The consistency in the cross-sectional relationships between strategic networking and professional informational benefits provides support for H8. On the longitudinal level, the cross-lagged paths seem to suggest a reciprocal process. From wave 1 to wave 2 (β = .16, p = .013) and wave 3 to wave 4 (β = .22, p = .004) strategic networking increased informational benefits, while the corresponding paths from informational benefits to strategic networking behavior were &lt; .1 and nonsignificant. For the longitudinal associations between waves 2 and 3, however, this pattern was reversed. In sum, the data from our study are indicative of a reciprocal process rather than a consistent positive longitudinal effect of strategic networking on informational benefits as suggested by H9.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The goal of the present study was to go beyond prior cross-sectional studies by examining the (long-term) relationship between social media use and professional informational benefits in order to understand the underlying causal mechanisms of this relationship and the underlying processes. People who use SNS for professional purposes consistently reported to have higher professional informational benefits than non-users.</p><p>In the longitudinal models, we found some concurrent associations of passive use and -more consistentlyactive use with informational benefits. A different pattern was found for the networking variables. Here, longitudinal effects emerged. In the beginning, the number of weak ties was more important than the number of strong ties, but this pattern reversed over time. For strategic networking, we found indication for a reciprocal process.</p><p>Taken together, these results have both theoretical and practical implications. First, the relatively large and consistent differences in informational benefits between users and non-users and the overall relatively small cross-sectional and longitudinal associations indicate a selection effect, such that people who are better networkers and already have more informational benefits are more likely to use SNS for professional purposes in the first place. Future research could examine which personality traits predict the use of professional networks.</p><p>However, there are also indications of media effects. When it came to the use variables, we mainly replicated the concurrent associations reported by <ref type="bibr" target="#b36">Utz (2016)</ref>. Our findings for active use also corroborate those of <ref type="bibr" target="#b2">Burke et al. (2011)</ref>. The answer to our open research questions on the longitudinal effects is that there seem to be no longitudinal effects of SNS use for professional purposes. This can be explained by the focus on most recent contributions on social media platforms. If a user posts something on her/his timeline or asks a question (in a group), s/he expects an immediate (or at least quick) response. Hence, such interactions affect informational benefits concurrently and not several months later.</p><p>With regard to passive use, the coefficients for the concurrent relationships of informational benefits with login frequency were larger (&gt;.1) than the ones for reading frequency. When login frequency is treated as a proxy of skimming messages, our results are in line with <ref type="bibr" target="#b19">Leonardi's (2015)</ref> finding that it is not deliberate reading but peripheral awareness that leads to knowing "who knows what" in the network. For research that specifically wants to investigate ambient awareness, however, future studies need to employ measures that can distinguish more clearly between deliberate reading and skimming.    For the network variables, we only found concurrent associations in wave 1. More importantly, however, we detected interesting longitudinal relationships between SNS ties and informational benefits: over time, the weak ties became less important and the strong ties became more important for informational benefits. This change points towards the dynamics that underlie the formation and transformation of ties in general and on SNS in particular. The affordances of SNS for professional purposes allow for new (weak) ties to be established quickly and without much effort, which is also reflected by the linear growth in the number of weak ties across the waves (see Table <ref type="table" target="#tab_2">3</ref>). The number of strong ties was more stable across waves, but this does not necessarily imply that these are the same strong ties. Some previously strong ties might have become weak(er) and some previously weak ties might have been transformed into strong ties. Hence, on the level of the individual, the importance of (specific) weak and strong ties for professional informational benefits is likely to shift over time.</p><p>The larger the network, the more important the, arguably more trusted <ref type="bibr" target="#b21">(Levin &amp; Cross, 2004)</ref>, strong ties become. If we consider the attribute of network diversity, for example, there is a possibility that the number of ties is simply not the best indicator.</p><p>Our second network measure, strategic networking, assessed whether people strategically added people who might be important for them to their network. This behavioral measure was consistently positively associated with informational benefits in the same wave and also positively predicted informational benefits six months later in 2 out of 3 instances. Similar long-term effects have been found for offline networking and career success <ref type="bibr" target="#b39">(Wolff &amp; Moser, 2009)</ref>. However, the effect of informational benefits in wave 2 on strategic networking behavior in wave 3 indicates that there might be a reciprocal process at work here, in a way that positive or rewarding experiences with networking stimulate further strategic networking. <ref type="bibr" target="#b39">Wolff and Moser (2009)</ref> conceptualize networking as a personality trait. Our findings suggest that networking can also be learned. Future research could more systematically compare online and offline networking. It has been shown that some people feel bad after instrumental networking <ref type="bibr" target="#b4">(Casciaro, Gino, &amp; Kouchaki, 2014)</ref>; this might be less the case for online networking. In addition, shy people might also profit from online networking.</p><p>The results of our study also have practical implications. First, they show that use of professional SNS can result in higher informational benefits. We focused on people who are currently employed or self-employed, but we assume that also people (re-)entering the job market might benefit from SNS use for professional purposes. However, just creating a profile is not enough. To reap short time benefits, frequent skimming of posts helps to develop an ambient awareness of what is going on in one's field and network. Even more important, however, are active contributions to work-related discussions. Building a network on the other hand takes time, so users might have to be patient to see the benefits of their use. Our results show that the network composition also matters. Instead of mainly adding one's closest friends, it seems advisable to also extend the network of weaker ties. Through regular interactions, these weak ties might become strong ties over time and strategic networking likely pays off if users connect with people who are relevant in their field. Our results also suggest that receiving informational benefits further stimulates the strategic selection of contacts. This indicates that successful networking strategies can be learned -at least to a certain degree. Individual users, but also career coaches can take these findings into account.</p><p>For actors on a managerial level, the results imply that they should not focus exclusively on ESN but allow and encourage their employees to engage in relevant discussions on public social media platforms (as long as sensitive customer or other confidential information is not shared). In some cases, the fresh perspective of an outsider can be more helpful than advice from colleagues from the same company. Finally, the operators of services for professional networking could try to stimulate network building by making the right kinds of suggestions for new contacts. Currently, most platforms suggest contacts based on the e-mail address book or on similarities in profile and network. However, to stimulate creativity and innovation, it might be useful to build more heterogeneous networks.</p><p>Of course, our study has several (methodological) limitations that need to be taken into account when interpreting its results. First of all, it is unclear whether six months is an appropriate time window for detecting long-term effects. It could be that effects of social media use already dissipate after a few weeks, or that it takes even longer until the use of SNS for professional purposes yields results (especially with regard to building professional online networks). Another limitation was the use of short or abbreviated scales in a multipurpose and -topic panel study on the effects of SNS use in many different domains. Our findings may also not generalize to other countries and cultures where other SNS are used for professional purposes or the overall spread of SNS use and internet use in general is different.</p><p>Despite these limitations, this study also has several particular strengths that can add to the existing literature in this field. To our knowledge, this is the first study to investigate the longitudinal relationships between SNS use and professional informational benefits. Longitudinal data are scarce in research on social media effects in general; a recent meta-analysis on the relationship between social media use and civic participation, for example, found only six panel studies and these often consisted of only two waves <ref type="bibr" target="#b1">(Boulianne, 2015)</ref>. Another strength is that we included both, network and use variables, to examine the underlying mechanisms that explain how exactly SNS use increases informational benefits. Moreover, the present sample was largely representative for Dutch online users with regard to age, sex, education level and urban/rural residence. This extends prior research that typically focused on student/convenience samples or employees from a specific, often tech-savvy, organization.</p><p>In conclusion, we believe that our study goes well beyond the insights gained from cross-sectional studies since it shows that the pattern of relationships between informational benefits and SNS use for professional purposes is more complex than simple unidirectional effects. The size of the network on the SNS does not matter as much as the actual networking strategy. More importantly, there are also dynamic developments and changes in the causal process over time. Receiving informational benefits stimulates further strategic networking and strong ties tend to become more important over time. Building a network takes time as indicated by the cross-lagged associations, but the actual use of the affordances is a predictor of concurrent informational benefits. The practical take-home message of the study is that collecting a large number of strong and weak ties is not enough; it is more important to strategically select them and interact with them on a regular basis and in a productive and goal-oriented manner.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. The internal consistencies (Cronbach's Alphas) for professional content, strategic networking, and professional informational benefits reported in the measures section were calculated for all participants who answered these questions in the respective waves. The respective values for the subsample we used for our longitudinal models can be found in Table <ref type="table" target="#tab_2">3</ref>.</p><p>2. While we acknowledge that it would have been interesting to also look at whether or how people who (re-)enter the job market (e.g., students after they graduate) might benefit from the use of SNS, the items from the scale we used (see Appendix A.1) explicitly refer to current benefits (and not future or past benefits) and are, hence, not suitable for people who are currently not working.</p><p>3. In addition, <ref type="bibr" target="#b17">Lakens (2015)</ref> generally recommends the use of Welch's t-test instead of Student's t-test and it is also the default procedure in R.</p><p>4. For the descriptive analyses we used the original values (see Table <ref type="table" target="#tab_2">3</ref>).</p><p>5. We refrained from using the SRMR for evaluating the fit of the cross-lagged models as <ref type="bibr" target="#b25">Little (2013)</ref> noted that this particular fit index has "not been well evaluated for longitudinal models in any systematic way" (p. 112).</p><p>6. Effect sizes were calculated using the Excel spreadsheet by <ref type="bibr" target="#b16">Lakens (2013)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Longitudinal relationship between frequency of reading posts, frequency of SNS use for professional purposes, and informational benefits. Standardized coefficients, *p ≤ .05, **p ≤ .01, ***p ≤ .001, MLR estimation, χ 2 (Yuan-Bentler scale correction, d.f. = 301, N = 635) = 630.73, p &lt; .001, CFI = .95, TLI = .94, RMSEA = .04.</figDesc><graphic coords="12,42.55,28.35,763.79,291.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Longitudinal relationship between posting professional content, activity in groups, and informational benefits. Standardized coefficients, *p ≤ .05, **p ≤ .01, ***p ≤ .001, MLR estimation, χ 2 (Yuan-Bentler scale correction, d.f. = 529, N = 637) = 913.54, p &lt; .001, CFI = .95, TLI = .95, RMSEA = .03.</figDesc><graphic coords="13,42.55,28.35,763.80,290.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Longitudinal relationship between number of strong ties, number of weak ties, and informational benefits. Standardized coefficients, *p ≤ .05, **p ≤ .01, ***p ≤ .001, MLR estimation, χ 2 (Yuan-Bentler scale correction, d.f. = 301, N = 637) = 778.7, p &lt; .001, CFI = .93, TLI = .91, RMSEA = .05.</figDesc><graphic coords="14,42.55,28.35,763.78,291.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Longitudinal relationship between strategic networking and informational benefits. Standardized coefficients, *p ≤ .05, **p ≤ .01, ***p ≤ .001, MLR estimation, χ 2 (Yuan-Bentler scale correction, d.f. = 545, N = 637) = 988.36, p &lt; .001, CFI = .94, TLI = .94, RMSEA = .04.</figDesc><graphic coords="15,42.55,28.35,763.85,278.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Sample Description of the Panel Waves (n and Percentages).</figDesc><table><row><cell>Wave 1</cell><cell>Wave 2</cell><cell>Wave 3</cell><cell>Wave 4</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Popularity of SNS for Professional Use.</figDesc><table><row><cell></cell><cell>Wave 1</cell><cell>Wave 2</cell><cell>Wave 3</cell><cell>Wave 4</cell></row><row><cell>LinkedIn</cell><cell>86.4% (685)</cell><cell>91% (583)</cell><cell>87.8% (467)</cell><cell>86.8% (415)</cell></row><row><cell>Facebook</cell><cell>8.2% (65)</cell><cell>6.2% (40)</cell><cell>5.8% (31)</cell><cell>6.5% (31)</cell></row><row><cell>Google+</cell><cell>1.3% (10)</cell><cell>2.3% (15)</cell><cell>3.2% (17)</cell><cell>2.9% (14)</cell></row><row><cell>Others</cell><cell>4.1% (33)</cell><cell>0.5% (3)</cell><cell>3.2% (17)</cell><cell>3.8% (18)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Descriptives for Variables of Interest.</figDesc><table><row><cell></cell><cell>N</cell><cell># of items</cell><cell cols="3">Cronbach's α Min Max</cell><cell>M</cell><cell>SD</cell><cell>Skew</cell><cell>Kurtosis</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Wave 1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Frequency of use</cell><cell>419</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.58</cell><cell>1.09</cell><cell>0.37</cell><cell>-0.37</cell></row><row><cell>Frequency of reading posts</cell><cell>417</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.23</cell><cell>1.12</cell><cell>0.67</cell><cell>-0.24</cell></row><row><cell>Activity in groups</cell><cell>419</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.02</cell><cell>1.17</cell><cell>0.93</cell><cell>-0.1</cell></row><row><cell>Strong ties</cell><cell>427</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="3">480 18.87 43.24</cell><cell>5.89</cell><cell>44.44</cell></row><row><cell>Weak ties</cell><cell>427</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="3">1188 96.08 154.39</cell><cell>3.16</cell><cell>13.12</cell></row><row><cell>Professional content</cell><cell>427</cell><cell>3</cell><cell>0.83</cell><cell>1</cell><cell>5</cell><cell>1.96</cell><cell>1</cell><cell>0.66</cell><cell>-0.63</cell></row><row><cell>Strategic networking</cell><cell>427</cell><cell>4</cell><cell>0.71</cell><cell>1</cell><cell>5</cell><cell>2.49</cell><cell>0.96</cell><cell>0.29</cell><cell>-0.34</cell></row><row><cell>Informational benefits</cell><cell>486</cell><cell>5</cell><cell>0.88</cell><cell>1</cell><cell>5</cell><cell>2.96</cell><cell>0.88</cell><cell>-0.37</cell><cell>-0.15</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Wave 2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Frequency of use</cell><cell>439</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.65</cell><cell>1.15</cell><cell>0.33</cell><cell>-0.59</cell></row><row><cell>Frequency of reading posts</cell><cell>435</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.33</cell><cell>1.17</cell><cell>0.57</cell><cell>-0.57</cell></row><row><cell>Activity in groups</cell><cell>433</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>1.94</cell><cell>1.16</cell><cell>1.12</cell><cell>0.32</cell></row><row><cell>Strong ties</cell><cell>442</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="3">350 19.82 38.86</cell><cell>5.14</cell><cell>31.93</cell></row><row><cell>Weak ties</cell><cell>442</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="3">1000 99.65 152.16</cell><cell>2.96</cell><cell>10.84</cell></row><row><cell>Professional content</cell><cell>442</cell><cell>3</cell><cell>0.87</cell><cell>1</cell><cell>5</cell><cell>1.9</cell><cell>1</cell><cell>0.78</cell><cell>-0.49</cell></row><row><cell>Strategic networking</cell><cell>442</cell><cell>4</cell><cell>0.78</cell><cell>1</cell><cell>5</cell><cell>2.52</cell><cell>0.91</cell><cell>0.2</cell><cell>-0.34</cell></row><row><cell>Informational benefits</cell><cell>487</cell><cell>5</cell><cell>0.88</cell><cell>1</cell><cell>5</cell><cell>3.02</cell><cell>0.83</cell><cell>-0.32</cell><cell>-0.02</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Wave 3</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Frequency of use</cell><cell>445</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.55</cell><cell>1.14</cell><cell>0.41</cell><cell>-0.53</cell></row><row><cell>Frequency of reading posts</cell><cell>441</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.27</cell><cell>1.16</cell><cell>0.61</cell><cell>-0.5</cell></row><row><cell>Activity in groups</cell><cell>437</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>1.93</cell><cell>1.11</cell><cell>0.98</cell><cell>-0.02</cell></row><row><cell>Strong ties</cell><cell>450</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="2">400 21.14</cell><cell>37.72</cell><cell>4.83</cell><cell>32.67</cell></row><row><cell>Weak ties</cell><cell>450</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="2">1398 105.9</cell><cell>170.96</cell><cell>3.36</cell><cell>14.98</cell></row><row><cell>Professional content</cell><cell>450</cell><cell>3</cell><cell>0.86</cell><cell>1</cell><cell>5</cell><cell>1.96</cell><cell>1</cell><cell>0.66</cell><cell>-0.69</cell></row><row><cell>Strategic networking</cell><cell>450</cell><cell>4</cell><cell>0.8</cell><cell>1</cell><cell>5</cell><cell>2.49</cell><cell>0.97</cell><cell>0.2</cell><cell>-0.52</cell></row><row><cell>Informational benefits</cell><cell>497</cell><cell>5</cell><cell>0.9</cell><cell>1</cell><cell>5</cell><cell>3.02</cell><cell>0.89</cell><cell>-0.22</cell><cell>0.14</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Wave 4</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Frequency of use</cell><cell>472</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.61</cell><cell>1.13</cell><cell>0.38</cell><cell>-0.5</cell></row><row><cell>Frequency of reading posts</cell><cell>472</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>2.26</cell><cell>1.23</cell><cell>0.63</cell><cell>-0.64</cell></row><row><cell>Activity in groups</cell><cell>472</cell><cell>1</cell><cell></cell><cell>1</cell><cell>5</cell><cell>1.94</cell><cell>1.16</cell><cell>1.11</cell><cell>0.27</cell></row><row><cell>Strong ties</cell><cell>478</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="2">350 21.58</cell><cell>37.66</cell><cell>4.21</cell><cell>23.18</cell></row><row><cell>Weak ties</cell><cell>478</cell><cell>1</cell><cell></cell><cell>0</cell><cell cols="2">1400 110.36</cell><cell>176.46</cell><cell>3.42</cell><cell>16.1</cell></row><row><cell>Professional content</cell><cell>478</cell><cell>3</cell><cell>0.86</cell><cell>1</cell><cell>5</cell><cell>1.9</cell><cell>1.01</cell><cell>0.73</cell><cell>-0.71</cell></row><row><cell>Strategic networking</cell><cell>478</cell><cell>4</cell><cell>0.79</cell><cell>1</cell><cell>5</cell><cell>2.51</cell><cell>0.95</cell><cell>0.23</cell><cell>-0.5</cell></row><row><cell>Informational benefits</cell><cell>491</cell><cell>5</cell><cell>0.89</cell><cell>1</cell><cell>5</cell><cell>3.1</cell><cell>0.87</cell><cell>-0.35</cell><cell>0.34</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Informational Benefits among Users and Non-Users of SNS for Professional Purposes.</figDesc><table><row><cell></cell><cell cols="2">N Users M Users</cell><cell>SD Users</cell><cell>N Non-users</cell><cell>M Non-users</cell><cell>SD Non-users</cell><cell>t</cell><cell>df</cell><cell>p</cell><cell>Cohen's d s</cell></row><row><cell>Wave 1</cell><cell>643</cell><cell>3.04</cell><cell>0.85</cell><cell>1364</cell><cell>2.48</cell><cell>0.95</cell><cell>13.34</cell><cell>1390.37</cell><cell>&lt;.001</cell><cell>0.64</cell></row><row><cell>Wave 2</cell><cell>544</cell><cell>3.04</cell><cell>0.86</cell><cell>997</cell><cell>2.51</cell><cell>0.97</cell><cell>11.01</cell><cell>1241.13</cell><cell>&lt;.001</cell><cell>0.59</cell></row><row><cell>Wave 3</cell><cell>436</cell><cell>3.04</cell><cell>0.87</cell><cell>858</cell><cell>2.55</cell><cell>0.98</cell><cell>9.04</cell><cell>971.3</cell><cell>&lt;.001</cell><cell>0.53</cell></row><row><cell>Wave 4</cell><cell>386</cell><cell>3.16</cell><cell>0.84</cell><cell>704</cell><cell>2.57</cell><cell>0.94</cell><cell>10.56</cell><cell>874</cell><cell>&lt;.001</cell><cell>0.67</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>JohannesBreuer is a postdoc at the research lab Social Media at Leibniz-Institut für Wissensmedien and at the University of Cologne (Department of Psychology). His research interests include the effects of digital games, learning with new media, and methods of media effects research. © 2007-2016 Cyberpsychology: Journal of Psychosocial Research on Cyberspace | ISSN: 1802-7962 Faculty of Social Studies, Masaryk University | Contact | Editor: David Smahel</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The research leading to these results has received funding from the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Seventh Framework Programme</rs> (<rs type="programName">FP7/2007-2013)</rs> / <rs type="funder">ERC</rs> grant agreement no <rs type="grantNumber">312420</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Yqa47Uz">
+					<orgName type="program" subtype="full">Seventh Framework Programme</orgName>
+				</org>
+				<org type="funding" xml:id="_fRSmT94">
+					<idno type="grant-number">312420</idno>
+					<orgName type="program" subtype="full">FP7/2007-2013)</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>Table <ref type="table">A1</ref>. Items and Factor Loadings from the Confirmatory Factor Analyses for the Informational Benefits Scale (with Data From All (Self-)Employed Respondents in Wave 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Item</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Factor loading</head><p>I can gain access to knowledge that is helpful in mastering job tasks from my network members.</p><p>.77</p><p>I receive information about innovations in my field from my network members, timely.</p><p>.71</p><p>I receive information about job opportunities from my network members.</p><p>.86 Contacts that I have established are essential for my career success.</p><p>.79 The relationships that I maintain are helpful in making career moves.</p><p>.86 Note. Standardized coefficients, MLR estimation,  2 (Yuan-Bentler scale correction, d.f. = 5, N = 2007) = 67.68, p &lt; .001, CFI = .98, TLI = .95, RMSEA = .08, SRMR = .02. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Item</head><p>Factor loading I invite people whom I have met once, but don't know so well.</p><p>.73 I invite people whom I have never met, but whom I find interesting.</p><p>.71 I invite people who might at some point be useful for me.</p><p>.68 I invite a great number of people to get a large network.</p><p>.68 Note. Standardized coefficients, MLR estimation,  2 (Yuan-Bentler scale correction, d.f. = 2, N = 793) = 22.56, p &lt; .001, CFI = .97, TLI = .91, RMSEA = .11, SRMR = .03.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Correspondence to:</head><p>Sonja Utz Leibniz-Institut für Wissensmedien Social Media Schleichstr. 6 72086 Tübingen Germany Email: s.utz(at)iwm-tuebingen.de</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>About authors</head><p>Sonja Utz is a professor for communication via social media at University of Tübingen, Germany. She is head of the research lab social media at Leibniz-Institut für Wissensmedien. Her research focuses on the effects of social media use in interpersonal and professional settings.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social capital: Prospects for a new concept</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-W</forename><surname>Kwon</surname></persName>
+		</author>
+		<idno type="DOI">10.5465/AMR.2002.5922314</idno>
+		<ptr target="http://dx.doi.org/10.5465/AMR.2002.5922314" />
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="17" to="40" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Social media use and participation: A meta-analysis of current research</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boulianne</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2015.1008542</idno>
+		<ptr target="http://dx.doi.org/10.1080/1369118X.2015.1008542" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="524" to="538" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Social capital on Facebook: Differentiating uses and users</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marlow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the SIGCHI Conference on Human Factors in Computing Systems</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="571" to="580" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</author>
+		<title level="m">Structural holes: The social structure of competition</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The contaminating effects of building instrumental ties: How networking can make us feel dirty</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Casciaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kouchaki</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0001839214554990</idno>
+		<ptr target="http://dx.doi.org/10.1177/0001839214554990" />
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="705" to="735" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Statistical power analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Hillsdale, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The use of enterprise social networking sites for knowledge sharing in distributed organizations: The role of organizational affordances</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Weber</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002764214540510</idno>
+		<ptr target="http://dx.doi.org/10.1177/0002764214540510" />
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="103" to="123" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Social capital and resource requests on Facebook</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Fiore</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444814543998</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444814543998" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1104" to="1121" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &quot;friends&quot;: Social capital and college students&apos; use of online social networking sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00367.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1083-6101.2007.00367.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Connection strategies: Social capital implications of Facebookenabled communication practices</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444810385389</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444810385389" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="873" to="892" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Location, motivation, and social capitalization via enterprise social networking</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fulk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Yuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12033</idno>
+		<ptr target="http://dx.doi.org/10.1111/jcc4.12033" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="20" to="37" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Overcoming the &quot;ideology of openness&quot;: Probing the affordances of social media for organizational knowledge sharing</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Rozaidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12034</idno>
+		<ptr target="http://dx.doi.org/10.1111/jcc4.12034" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="102" to="120" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The concept of affordances</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">perceiving, acting, and knowing: toward an ecological psychology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Bransford</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="67" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Granovetter</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2776392</idno>
+		<ptr target="http://dx.doi.org/10.2307/2776392" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="1360" to="1380" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The search-transfer problem: The role of weak ties in sharing knowledge across organization subunits</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2667032</idno>
+		<ptr target="http://dx.doi.org/10.2307/2667032" />
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="82" to="111" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Social networks and Internet connectivity effects</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13691180500146185</idno>
+		<ptr target="http://dx.doi.org/10.1080/13691180500146185" />
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="125" to="147" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for ttests and ANOVAs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lakens</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2013.00863</idno>
+		<ptr target="http://dx.doi.org/10.3389/fpsyg.2013.00863" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">863</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Always use Welch&apos;s t-test instead of Student&apos;s t-test</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lakens</surname></persName>
+		</author>
+		<ptr target="http://daniellakens.blogspot.de/2015/01/always-use-welchs-t-test-instead-of.html" />
+		<imprint>
+			<date type="published" when="2015-01-26">2015. January 26</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Social media, knowledge sharing, and innovation: Toward a theory of communication visibility</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Leonardi</surname></persName>
+		</author>
+		<idno type="DOI">10.1287/isre.2014.0536</idno>
+		<ptr target="http://dx.doi.org/10.1287/isre.2014.0536" />
+	</analytic>
+	<monogr>
+		<title level="j">Information Systems Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="796" to="816" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ambient awareness and knowledge acquisition: Using social media to learn &quot;who knows what&quot; and &quot;who knows whom</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Leonardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MIS Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="747" to="762" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Social media as social lubricant: How ambient awareness eases knowledge transfer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Leonardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Meyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0002764214540509</idno>
+		<ptr target="http://dx.doi.org/10.1177/0002764214540509" />
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="10" to="34" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties you can trust: The mediating role of trust in effective knowledge transfer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cross</surname></persName>
+		</author>
+		<idno type="DOI">10.1287/mnsc.1030.0136</idno>
+		<ptr target="http://dx.doi.org/10.1287/mnsc.1030.0136" />
+	</analytic>
+	<monogr>
+		<title level="j">Management Science</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1477" to="1490" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ambient awareness: From random noise to digital closeness in online social networks</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Levordashka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.02.037</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.chb.2016.02.037" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="147" to="154" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">About us</title>
+		<author>
+			<persName><surname>Linkedin</surname></persName>
+		</author>
+		<ptr target="https://www.linkedin.com/about-us" />
+		<imprint>
+			<date type="published" when="2016-08">2016. August</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Social resources and strength of ties: Structural factors in occupational status attainment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Ensel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Vaughn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="393" to="405" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Longitudinal structural equation modeling</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The contradictory influence of social media affordances on online communal knowledge sharing</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Majchrzak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Faraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Azad</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12030</idno>
+		<ptr target="http://dx.doi.org/10.1111/jcc4.12030" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="38" to="55" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marwick</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444810365313</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444810365313" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="114" to="133" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Power and sensitivity of alternative fit indices in tests of measurement invariance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Meade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Braddy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="568" to="592" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The virtual geographies of social networks: A comparative analysis of Facebook</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Papacharissi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444808099577</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444808099577" />
+	</analytic>
+	<monogr>
+		<title level="j">LinkedIn and ASmallWorld. New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="199" to="220" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Social capital: Promise and pitfalls of its role in development</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Landolt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Latin American Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="529" to="547" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Bowling alone: The collapse and revival of American community</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Simon and Schuster</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Network structure and knowledge transfer: The effects of cohesion and range</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reagans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcevily</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3556658</idno>
+		<ptr target="http://dx.doi.org/10.2307/3556658" />
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="240" to="267" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">lavaan: An R package for structural equation modeling</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rosseel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Social capital, self-esteem, and use of online social networking sites: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.appdev.2008.07.002</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.appdev.2008.07.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="434" to="445" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Social media use in organizations: Exploring the affordances of visibility, editability, persistence, and association</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Treem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leonardi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23808985.2013.11679130</idno>
+		<ptr target="http://dx.doi.org/10.1080/23808985.2013.11679130" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the International Communication Association</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="143" to="189" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Is LinkedIn making you more successful? The informational benefits derived from public social media</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444815604143</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444815604143" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2685" to="2702" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">There&apos;s a network out there you might as well tap&apos;: Exploring the benefits of and barriers to exchanging informational and support-based resources on Facebook</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444812451566</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444812451566" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="243" to="259" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Benefits gained from dimensions of social capital: A study of software developers in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Wickramasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weliwitigoda</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/09593841111182287</idno>
+		<ptr target="http://dx.doi.org/10.1108/09593841111182287" />
+	</analytic>
+	<monogr>
+		<title level="j">Information Technology &amp; People</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="393" to="413" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Effects of networking on career success: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">H.-G</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0013350</idno>
+		<ptr target="http://dx.doi.org/10.1037/a0013350" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="196" to="206" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Weak ties, information, and influence: How workers find jobs in a local Russian labor market</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Yakubovich</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/000312240507000303</idno>
+		<ptr target="http://dx.doi.org/10.1177/000312240507000303" />
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="408" to="421" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A review of social networking service (SNS) research in communication journals from 2006 to 2011</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444813520477</idno>
+		<ptr target="http://dx.doi.org/10.1177/1461444813520477" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1007" to="1024" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

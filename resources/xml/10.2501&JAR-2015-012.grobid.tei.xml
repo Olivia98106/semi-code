@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Relationship Between Product Placement And the Performance of Movies Can Brand Promotion in Films Help or Hurt Moviegoers&apos; Experience?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Reo</forename><surname>Song</surname></persName>
+							<email>reo.song@csulb.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">California State University</orgName>
+								<address>
+									<settlement>Long Beach</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><surname>Meyer</surname></persName>
+							<email>jdmeyer@bgsu.edu</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Bowling Green State University</orgName>
+								<address>
+									<settlement>Bowling Green</settlement>
+									<region>Ohio</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kyoungnam</forename><surname>Ha</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of New Haven</orgName>
+								<address>
+									<settlement>West Haven, Connecticut</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Relationship Between Product Placement And the Performance of Movies Can Brand Promotion in Films Help or Hurt Moviegoers&apos; Experience?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A4A1ACABAC101EEC1F0CED2FE26CE687</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Star power, genre, sequel, and word of mouth (WOM), are among the critical factors affecting a film 's box-office success. The current study added a new wrinkle to the WOM factor, analyzing whether advertising in the form of product placements in films affected consumer enjoyment of the movie, and, in turn, whether the related positive or negative WOM about the film affected box-office revenues. The authors investigated the relationship between product placements and the performance of 122 movies released between 2000 and 2007 and found that product placements had both helpful and harmful consequences. Product placements exhibited a positive relationship with movie revenues, but when used in excess (i'.e., more than 44 placements per movie) the relationship with revenues turned negative.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Brands long have appeared in all kinds of enter tainment programing. A few successful examples in film include "Wings," a 1927 movie and the winner of the first Academy Award for Most Outstanding Production, which featured Hershey's chocolate bars. The first movie in the James Bond series, "Dr. No," plugged the Aston Martin automobile and Smirnoff vodka. The Hershey Company's Reese's Pieces appeared in "E.T."; Tom Cruise wore Ray-Ban sunglasses in "Risky Business" and "Top Gun"; and Mr. Potato Head, Slinky, Etch-a-Sketch, and Barbie, among other toy brands, have been placed in the three "Toy Story" animated movies.</p><p>Whether visual or audible, product placementdefined as the inclusion of a product, brand, or M amagtgmtsoijS ® lainrS</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Product placements in movies exhibit a positive relationship with movie revenues, but when used in excess, this relationship with revenues turns negative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>The relationship between product placement and the benefits a consumer receives from media programing is robust across movies with different budgets and qualities.</p><p>• These findings have important managerial implications for both media programmers and advertisers, who may need to reevaluate the widely assumed negative effects of product placements.</p><p>firm in entertainment programing for pro motional purposes <ref type="bibr">(d'Astous and Chartier, 2000)</ref>-is an important part of the productservice marketing mix. Global spending on product placement in film and television totaled an estimated $10.6 billion in 2014 <ref type="bibr">(PQ Media, 2015)</ref>.</p><p>There is a rich tradition of research about product placements describing consumers' attitudes toward the practice and the effects on viewers <ref type="bibr">(McCarty and Lowrey, 2012)</ref>. To the authors' knowledge, however, there is less work describing the relationship between product placement and the performance of the programing in which the brands or products appear.</p><p>On some occasions, the direct impact on the bottom line of the content producer is evident: Heineken, for example, reportedly paid $45 million to appear in the James Bond movie, "Skyfall" <ref type="bibr">(Graser, 2012)</ref>. But, in other instances, the broader relationship between product placement and mediaprograming performance is less clearly defined: Two prom inent brands that appeared in the movie, "Up in the Air"-American Airlines and Hilton Hotels-for example, did not pay the production com pany, Paramount; instead, they provided production locations for filming (such as in airports, airplanes, and hotels) and brand ing that helped defray what otherwise would have been incrementally massive production costs <ref type="bibr">(Hampp, 2009)</ref>.</p><p>Although the means to the end of brand engagement might matter, whether the engagement is direct (Heineken) or indi rect (American Airlines and Hilton Hotels) is important to programmers and place ment firms in that it may affect pricing strategies and negotiation outcomes.</p><p>The authors do not claim product place ment as the principal driver of box office performance for movies. Clearly a number of other factors are critical to the success or failure of movie, including, but not lim ited to</p><p>• star performers <ref type="bibr">(De Vany and Walls, 1999)</ref>,</p><p>• directors and producers <ref type="bibr">(Hennig-Thurau, Walsh, and Wruck, 2001</ref>), • advertising <ref type="bibr">(Faber and O'Guinn, 1984)</ref>,</p><p>• number of screens <ref type="bibr">(Swami, Eliashberg, and Weinberg, 1999</ref>), • moviegoers' word of mouth <ref type="bibr">(Bruce, Foutz, and Kolsarici, 2012;</ref><ref type="bibr">Craig, Greene, and Versaci, 2015;</ref><ref type="bibr">Moon, Bergey, and Iacobucci, 2009;</ref><ref type="bibr">Neelamegham and Chintagunta, 1999</ref>), • Motion Picture Association of America ratings <ref type="bibr">(Prag and Casavant, 1994</ref>), • genre <ref type="bibr" target="#b53">(Litman, 1983)</ref>, and</p><p>• sequel <ref type="bibr">(Hennig-Thurau, Houston, and Walsh, 2006)</ref>.</p><p>Prior studies have indicated that product placements improve consumer aware ness, brand image, and sales of the placed product (e.g., <ref type="bibr" target="#b73">Russell and Belch, 2005;</ref><ref type="bibr">Van der Waldt, Du Toit, and Redelinghuys, 2007)</ref>, but their relationship with the rev enues of the surrounding media content is unknown. The authors of the current arti cle believe that their research addresses this important gap. Customers' utility (i.e., enjoyment)-the total satisfaction received from consuming a good or service-is a vital component in measuring the effect of advertising-and in the instance of this study, product place ments in media programing.</p><p>Arguments suggest the possibility of both positive and negative effects of product placements for consumers of entertainment programing. For example, on the positive side, product placements have been shown to increase realism of the programing for consumers (DeLorme and <ref type="bibr" target="#b24">Reid, 1999)</ref>, whereas on the negative side, product placements have been shown to interrupt the viewing experience for con sumers (Cowley and <ref type="bibr" target="#b19">Barron, 2008)</ref>.</p><p>Opinions among prominent filmmakers about the effects of product placements also vary. David Lynch <ref type="bibr" target="#b57">(Lynch, 2008)</ref> has observed, "Product placement in a film putrefies the environment. It is so absurd, but it is happening more and more. <ref type="bibr">" And, Ron Howard (Dretzka, 1998, p. 16</ref>) has said, "I don't feel using an actual product detracts from the movie. It creates oppor tunities, enhances the story and can actu ally draw people in."</p><p>Scholars, in fact, have found that effect ive product placements can enhance a viewer's experience by increasing real ism, such as the use of real beer brands in "Forrest Gump" (e.g., <ref type="bibr">DeLorme and Reid, 1999)</ref>, whereas incongruent product place ments can diminish a viewer's experience by being out of place (e.g., <ref type="bibr" target="#b72">Russell, 2002)</ref>, ceteris paribus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Word of Mouth and Films</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>With Product Placements</head><p>To examine the relationship between prod uct placements and media-programing performance, the authors mined data on 122 movies released between 2000 and 2007 in which there were 1,497 occasions of product placement (See Methodology-The Data, p. 327).</p><p>The data indicated an inverted U-shaped relationship. Holding all other movie characteristics constant, the link between product placement and movie perfor mance (revenue, as measured by gross weekly ticket sales) was positive initially, but excessive placements led to a nega tive turn. This finding does not mean that product placements alone drove the suc cess or failure of a movie; instead, product placements, on average, helped a movie be more successful unless used in excess, in which case they could hurt a movie's box office revenue, ceteris paribus.</p><p>As part of their analysis, the authors completed additional study on the rela tionship between product placements and consumer word of mouth (WOM), as measured by consumer ratings. Drawing from previous research that defined the relationship between WOM and perfor mance of film, the authors speculated that the significant relationship between product placements and movie box-office performance likely reflected online and offline WOM. That is, if product place ments increased consum ers' overall enjoyment of the film, overall WOM, as measured by consumer ratings would increase, ceteris paribus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I f t h e s i g n i f i c a n t r e l a t i o n s h i</head><p>Indeed, consumers often rely on WOM and recommendations from other view ers when deciding which movie to watch (e.g., <ref type="bibr">Chintagunta, Gopinath, and Venkataraman, 2010;</ref><ref type="bibr" target="#b54">Liu, 2006)</ref>. And consumer WOM has been shown to affect the perfor mance of movies both directly (e.g., <ref type="bibr" target="#b11">Bruce et al., 2012;</ref><ref type="bibr">Craig et ah, 2015;</ref><ref type="bibr">Moon et al, 2009)</ref> and indirectly through greater buzz (e.g., <ref type="bibr">Duan, Gu, and Whinston, 2008)</ref>. If the significant relationship between prod uct placements and movie performance is because of WOM, the current authors expected to see a significant relationship between product placements and con sumer WOM. Using data on the same 122 movies, the results showed that when holding all other movie-performance char acteristics constant, a significant, positive relationship between product placements and consumer WOM existed.</p><p>The findings from this study may help inform negotiations between media pro grammers and advertisers. Advertisers may have more leverage because of the increased value product placements have to program mers. Alternatively, programmers may have more leverage because of the larger audi ences and more favorable brand attitudes from product placements. Additionally, as the example from the movie, "Up in the Air," shows, the two parties can benefit from collaborative integrations of products in the content, instead of relying solely on a monetary exchange <ref type="bibr">(Hampp, 2009)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LITERATURE REVIEW</head><p>Product placement in program ing is nearly as old as the movie industry. In 1896, the Sunlight Soap brand appeared in the French film "Defile du 8e Bataillon" <ref type="bibr">(Newell, Salmon, and Chang, 2006)</ref>. Product-placement discussions in the popular press began in the late 1970s. Scholars introduced product placement as a hybrid message with elements of both advertising and publicity <ref type="bibr" target="#b5">(Balasubramanian, 1994)</ref>.</p><p>Most of the resulting literature on prod uct placement has focused on its effect on consumers, such as their • attitudes toward product placements and their related consumption expe riences (de Gregorio and <ref type="bibr" target="#b22">Sung, 2010;</ref><ref type="bibr">DeLorme and Reid, 1999;</ref><ref type="bibr">Nelson, 2002)</ref>, • brand recognition and recall <ref type="bibr" target="#b10">(Bressoud, Lehu, and Russell, 2010;</ref><ref type="bibr">d'Astous and Chartier, 2000;</ref><ref type="bibr">Dens, De Pelsmacker, Wouters, and Purnawirawan, 2012</ref>; Rus sell, 2002),</p><p>• brand attitudes (Cowley and <ref type="bibr" target="#b19">Barron, 2008;</ref><ref type="bibr">Homer, 2009;</ref><ref type="bibr" target="#b74">Russell and Stern, 2006;</ref><ref type="bibr">Tiwsakul, Hackley, and Szmigin, 2005;</ref><ref type="bibr" target="#b80">Van Reijmersdal, 2009)</ref>, or • purchase intentions and choices <ref type="bibr">(Hang, 2014;</ref><ref type="bibr" target="#b52">Law and Braun, 2000;</ref><ref type="bibr">Morton and Friedman, 2002)</ref>.</p><p>Another stream of product-placement literature addresses film -production companies and advertising firms. An application of social-exchange theory and qualitative expert interviews indi cated that advertising firms use product placements as a communication tool, whereas the production companies use them to offset production costs and for cross-promotional opportunities <ref type="bibr">(Chang, Newell, and Salmon, 2009)</ref>. These views seemingly have changed over time, though, such that each side recognizes trade-offs between the financial benefits and creative harms of product placements <ref type="bibr">(Karrh, McKee, and Pardun, 2003)</ref>. Event studies also have specified the product placement's worth to the advertising firm <ref type="bibr">(Karniouchina, Uslay, and Erenburg, 2011;</ref><ref type="bibr">Wiles and Danielova, 2009)</ref>.</p><p>The authors of the current study found a notable gap in the literature: full consid eration of the relationship between prod uct placement and the performance of the placement medium (e.g., movie, television show, video game). In the context of film, a number of factors have been shown to determine box-office performance, includ ing star power, directors-producers, and WOM (See Introduction). Extant literature has predicted some potential implica tions of the effect of product placements but no conclusive or empirical evidence. For example, film production companies should be wary of the continued use of prominent product placements to avoid potentially lowering consumers' attitudes toward media programing and decreasing audience sizes <ref type="bibr">(Homer, 2009)</ref>. In addition to addressing this gap, the current study represented a response to scholars' calls to explore the placement saturation (Balasubram anian, <ref type="bibr">Karrh, and Patwardhan, 2006</ref>) that occurs when too many product placements appear in media programing and, thereby, invoke negative reactions by consumers. This negative reaction, the current authors presumed, may be related to lower overall performance of the programing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In t h e a u t h o r s ' v i e w , h o w e v e r , i f t h e a d v e r t i s i n g d i m i n i s h e s t h e o v e r a l l c o n s u m p t i o n e x p e r i</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C o n cep tu al B ackground</head><p>Product placement is a form of advertis ing. Advertising has three broad roles: per suasive, informative, and complementary <ref type="bibr">(Bagwell, 2007)</ref>:</p><p>• In its "persuasive" role, advertising creates product differentiation and brand loyalty by altering customers' tastes, mainly through repeated expo sures to advertisements (e.g., <ref type="bibr">Boulding, Lee, and Staelin, 1994;</ref><ref type="bibr">Comanor and Wilson, 1967)</ref>.</p><p>• In its "informative" role, advertising provides customers with information vital to their purchase decision <ref type="bibr" target="#b29">(Eckard, 1991;</ref><ref type="bibr">Nelson, 1970</ref><ref type="bibr">Nelson, , 1974))</ref>, whether directly (e.g., price) or indirectly (e.g., quality signaled by the level of firm spending on advertising).</p><p>• In its "complementary" role, advertising targets some innate and stable prefer ences of customers (be., social prestige), through which it increases customers' use or satisfaction. This effect helps rec oncile the persuasive influence of adver tising (Galbraith, 1967) with consumer utility maximization (i.e., maximizing benefits given resource constraints).</p><p>Some scholars have suggested examining complementary advertising from the per spective of whether it is "good" or "bad" for the consumer <ref type="bibr">(Becker and Murphy, 1993)</ref>. "Good"-positive, in this sensemeans the advertising enhances consumer benefits; "bad"-negative-lessens con sumer benefits.</p><p>The authors considered that product placements have positive relationships w ith program ing perform ance only because the advertising enhances the overall consumption experience, holding all other characteristics (star power, etc.) constant. When consumers like a prod uct better, they will spread more posi tive WOM, all else equal. In the context of films, WOM has been shown to be an im portant determ inant of movie per formance (e.g., <ref type="bibr" target="#b11">Bruce et al., 2012;</ref><ref type="bibr">Craig et al., 2015;</ref><ref type="bibr">Duan et a]., 2008;</ref><ref type="bibr">Moon et al., 2009)</ref>. In the authors' view, however, if the advertising diminishes the overall con sumption experience, consumers provide less positive WOM. The current authors do not claim that product placements are a principal driver of consumer WOM but instead are a factor among a host of fac tors that affect WOM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Product P la c em e n ts as a Positive</head><p>To be considered positive, product placem ents m ust enhance the con sumption experience consumers obtain from media programing. If used appro priately, product placements increase the realism of the programing (DeLorme and <ref type="bibr" target="#b24">Reid, 1999;</ref><ref type="bibr">Sung, De Gregorio, and Jung, 2009;</ref><ref type="bibr">Van der Waldt et al., 2007)</ref>. Consumers may find a movie more realistic, for example, if product placements help them:</p><p>• place a story in the past (DeLorme and <ref type="bibr" target="#b24">Reid, 1999)</ref>, such as with the placement of Miller Beer in the 1955 Hill Valley, California, setting in "Back to the Future"; • imagine a narrative in the future, such as with the placement of Nike lace-free high-tops in the 2015 Hill Valley setting of "Back to the Future II."1 But moviegoers may feel "irritated and insulted by generic product props" (DeLorme and <ref type="bibr">Reid, 1999, p. 78)</ref>. As LeeAnne Stables, Paramount's executive vice president of worldwide marketing partnerships, has said with respect to the aforementioned "Up in the Air": "I think depicting fake brands would take people more out of the movie. This is a movie depicting the lives of real people, who are involved with brands every day of their life" <ref type="bibr">(Hampp, 2009)</ref>. This effect likely explains why consumers have "generally favorable attitudes toward product place ments" <ref type="bibr">(Gupta and Gould, 1997, p. 37)</ref>, with some exceptions for ethically charged items such as alcohol, cigarettes, and guns <ref type="bibr">(Gupta and Gould, 1997;</ref><ref type="bibr">Nebenzahl and Secunda, 1993)</ref>.</p><p>By enhancing the realism of moviesthe authors considered, drawing from earlier research-product placements may help "transport" moviegoers in a film. Transportation is a "distinct mental pro cess and integrative melding of attention, imagery, and feelings" (Green and <ref type="bibr">Brock, 2000, p. 701)</ref>, and this engagement with a ' The current authors' use of movie examples is illustrative; testing whether each specific example actually enhanced or detracted from the audience's consumption experience was beyond the scope of this study.</p><p>Septem ber 2 0 1 5 JO URnfiL OF HDUERTISIflG RESEARCH 325 narrative world may increase enjoyment <ref type="bibr">(Green, Brock, and Kaufman, 2004)</ref>.</p><p>Realism is an influential determinant of audience enjoyment <ref type="bibr">(Ang, 1985)</ref> and may increase positive attitudes toward a movie <ref type="bibr">(Koordeman, Anschutz, and Engels, 2014)</ref>. Because personal experiences have the strongest influences on WOM <ref type="bibr">(Allsop, Bassett, and Hoskins, 2007)</ref>, greater realism should encourage more positive WOM in accordance with the audience's positive attitudes. WOM, in turn, exerts a strong effect on the success of entertain ment goods in general <ref type="bibr">(Chevalier and Mayzlin, 2006)</ref> and movies in particular <ref type="bibr">(Chintagunta et al, 2010;</ref><ref type="bibr">Craig et al., 2015;</ref><ref type="bibr" target="#b54">Liu, 2006)</ref>.</p><p>Thus, if product placements relate positively to movie realism, whichthe authors presum ed-can increase enjoyment by transporting audiences, then product placements also should have a positive relationship with movie performance because of increased posi tive WOM.</p><p>Additional arguments further suggest product placements are positive when • movie-going frequency relates posi tively to attitudes toward product placement (de Gregorio and <ref type="bibr" target="#b22">Sung, 2010)</ref>. According to exposure theory, as a person watches more movies, his or her exposure to product placements increases, and the person becomes more familiar with the practice; this familiar ity results in more positive attitudes (de Gregorio and Sung, 2010). Thus, the authors asserted, people who most likely will consume movies also are the people who mostly likely will enjoy product placements.</p><p>• consumers who communicate with peers about brands tend to have posi tive attitudes toward product place ments (de Gregorio <ref type="table"></ref>and<ref type="table" target="#tab_2">Sung, 2010)</ref>. In the context of movies, which often is a social activity, product placements provide more opportunity for these consumers to discuss brands among their peers, which may enhance the consumer's benefit from watching the movie (de Gregorio and <ref type="bibr" target="#b22">Sung, 2010)</ref>. This reasoning also suggests a positive relationship between the consumer's familiarity with the placed products and the performance of the media pro graming, as indicated by extant litera ture on product placements (DeLorme and <ref type="bibr" target="#b24">Reid, 1999)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>By e n h a n c in g t h e re a lis m o f m o v ie s -t h e a u th</head><p>Overall, the consequences of positive product placements that may enhance the movie-going experience include</p><p>• increased realism;</p><p>• a positive relationship between movie going frequency and attitudes toward product placements; • a positive relationship between brand familiarity and attitudes toward product placements.</p><p>Therefore, the authors proposed, a posi tive relationship should arise between product placement and programing per formance, as well as between the propor tion of placements that feature familiar brands and programing performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Product P la c e m e n t as a N egative</head><p>When product placements interrupt the viewing experience and prompt consum ers to consider the commercial intent of the placement, they decrease the utility (i.e., enjoyment, interest) that consumers experience from consuming media pro graming and detract from their consump tion experience (Cowley and <ref type="bibr" target="#b19">Barron, 2008)</ref>.</p><p>If the audience believes the producer has been obligated to insert placements in the content to earn auxiliary sources of income, their consumption experience likely suffers <ref type="bibr">(Cowley, 2012)</ref>. Moreover, incongruent product placements that do not fit the plot adversely affect brand atti tudes <ref type="bibr" target="#b72">(Russell, 2002)</ref>.</p><p>The use of 30-year-old Converse All-Stars by Will Smith's character in "I, Robot," and the extended consumption of Pepsi One in a single scene by actor Rene Russo's character in "The Thomas Crown Affair," were cited widely as inappropriate product placements (e.g., <ref type="bibr" target="#b12">Carlson, 2008)</ref>.</p><p>These placements were not seamless, and their incongruence distracted viewers from the overall consumption experience <ref type="bibr">(McCarty, 2004)</ref>.</p><p>Because such product placements may decrease the benefit consumers obtain from their media consum ption, they also might have negative effects on atti tudes toward the media programing. In this case, product placements may nega tively affect the movie-going experience, leading to less positive WOM about the movie, holding all other performancerelated factors (star power, etc.) constant.</p><p>The resulting relationship between prod uct placements and programing perfor mance likely is negative.</p><p>The authors do not claim that product placements need to be discussed to have an effect on WOM. Rather, product place ments can</p><p>• enhance the consum er experience through, for example, greater realism (DeLorme and <ref type="bibr" target="#b24">Reid, 1999)</ref>, or • detract from the consumer experience through, for example, interrupted view ing (Cowley and <ref type="bibr" target="#b19">Barron, 2008)</ref>, leading to more positive or less positive WOM, all else equal. Detailing actual WOM on the movies used in the current analysis is beyond the scope of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P o s it iv e a n d N e g a t iv e P r o d u c t P l a c e m e n t</head><p>Excessive product placem ents make it difficult to combine advertisements seamlessly with media programing and increase the possibility of hindering the consumer's viewing experience. In partic ular, consumers of various types of media dislike excessive product placements (DeLorme and <ref type="bibr" target="#b24">Reid, 1999)</ref> and express irritation in response.</p><p>Viewers who exhibit a high need to evaluate the positive and negative quali ties of an object are significantly more irritated by high-compared with lowcommercial density when watching a television program <ref type="bibr">(Fennis and Bakker, 2001)</ref>. Research on advertising clutter, which examines the level of advertising in a medium, also can provide guidance (Cowley and <ref type="bibr" target="#b19">Barron, 2008;</ref><ref type="bibr" target="#b49">Karniouchina et al, 2011)</ref>.</p><p>Similar to most research on product placements, most research on advertis ing clutter examines how clutter affects advertising effectiveness <ref type="bibr">(Rosengren and Dahlen, 2013)</ref>. This stream of research shows that more clutter-similar to exces sive product placements-results in • more negative attitudes toward the advertising <ref type="bibr">(Elliot and Speck, 1998;</ref><ref type="bibr">Ha, 1996)</ref>,</p><p>• decreased effectiveness of advertising (Hammer, Riebe, and <ref type="bibr" target="#b41">Kennedy, 2009)</ref>, and, ultimately,</p><p>• advertising avoidance <ref type="bibr">(Cho and Cheon, 2004;</ref><ref type="bibr">Elliot and Speck, 1998)</ref>.</p><p>Although marketers understand the nega tive aspects of advertising clutter, it widely is viewed as a necessary trade-off for lower cost reach <ref type="bibr">(Nelson-Field, Riebe, and Sharp, 2013)</ref>. In one of the few studies to examine the effect of clutter on the medium, greater advertising clutter decreased circula tion rates in a magazine context (Ha and <ref type="bibr" target="#b40">Litman, 1997)</ref>.</p><p>Drawing from the earlier literature, the authors predicted there could be posi tive consequences of product placements, such as what they see as the potential for enhancing the movie-going experi ence-up to a certain threshold. After this saturation point, however, excessive placements should backfire, detracting from the movie-going experience and lead to less positive WOM. As a result, the authors predicted that the relationship between product placements and media programing performance should exhibit an inverted U shape.</p><p>The above discussion informed the cur rent authors' research questions:</p><p>RQ1: Considering the strong potential that product placements could be both positive and negative for consumers of media programing, what is the relationship between product-placement advertising with media-programing perfor mance, specifically in the context of cinema?</p><p>RQ2: If a significant relationship betw een product-placem ent a d v e rtisin g and m ediaprograming performance exists, does a significant relationship also exist between productplacement advertising and word of mouth?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M E T H O D O L O G Y T h e D a t a</head><p>Movies serve as the empirical context for this study of the relationship between product placements and media program ing performance. Cinema has served as the context for a variety of research in market ing, such as WOM <ref type="bibr">(Craig et al, 2015;</ref><ref type="bibr" target="#b54">Liu, 2006)</ref> and advertising <ref type="bibr">(Joshi and Hanssens, 2009)</ref> as well as in product-placement research <ref type="bibr" target="#b49">(Karniouchina et al, 2011;</ref><ref type="bibr">Wiles and Danielova, 2009)</ref>.</p><p>The authors obtained p roductplacement data from the Brand Hype Movie Mapper2 (http://www .brandhype. org), which detailed product placements in 205 movies released between 1968 and 2007 and served as a source for previous product-placement research <ref type="bibr" target="#b49">(Karniouchina et al, 2011)</ref>. To ensure sufficient advertis ing data availability, the authors included movies listed on Brand Hype between 2000 and 2007. Additional data collection relied on Boxofficemojo (www.boxofficemojo. com, hereafter "Mojo"), Internet Movie Database (www.imdb.com, hereafter "IMDb"), Kantar Media, and Interbrand (See Table <ref type="table" target="#tab_0">1</ref>).</p><p>After excluding data that had exces sive missing information (e.g., advertising spending, production budget), the sample consisted of 122 movies and 1,497 product placement occasions.</p><p>For each movie, the variables included</p><p>• the total number of product placements (obtained from Brand Hype); • the proportion of product placements by major brands (Brand Hype), such that a brand is major if it appeared among "The Top 100 Brands" for that year (Interbrand);</p><p>• the total length of all product place ments (Brand Hype);    (1)</p><p>They specified e = cm + vml, where c was unobserved, movie-specific fixed effects, and v was the error term.</p><p>For each movie m:</p><p>• REV was the box office revenue for week t (using its natural logarithm , because of its skewed distribution);</p><p>• PLACE w as the num ber of product placements; and</p><p>• PLACESQ was the squared num ber of placements. Furthermore, Xj was a vector of timeinvariant, movie-specific variables:</p><p>• the proportion of placements by major brands (MAJOR), as a proxy for brand familiarity; • the proportion of placements used by main characters (MAIN);</p><p>• total screen time for all product place ments in a movie (LENGTH), as a control for product placement intensity; • word of mouth valence (WOM); • word of mouth volume (WOMVOL);</p><p>• star power (STAR); • production budget (BUDGET); • a dummy variable that indicates whether the movie is a sequel (SEQUEL); and • dummy variables for the MPAA ratings (MPAA), 17 genres (GENRE), and inde pendent films (INDIE).</p><p>The X2 vector of time-varying, moviespecific variables included the number of screens (SCRN) and advertising expen ditures (WKLYAD; first-week advertising also included prelaunch expenditures).</p><p>Given the host of factors that have been shown to affect movie box-office perfor mance, the X1 and X2 vectors were included so the derived relationship between prod uct placements and movie box-office per formance held the aforementioned factors (star power, etc.) constant.</p><p>Finally, X3 was the time trend (TREND, in weeks).</p><p>WOM and WOMVOL were included to test whether WOM was a driver of movie performance. The positive effect of WOM on box-office revenues, if it existed, would help support the link between product placements and movie performance.</p><p>The MAJOR and MAIN measures used proportions, because the dependent vari able (weekly box-office revenue) was movie specific, but not brand or placement specific. Independent movies typically are produced by independent studios with lower budgets and characterized by differ ent content and style than major films; they also tend to feature fewer product place ments than mainstream movies.3</p><p>The data showed that mainstream mov ies include significantly more product placements than independent movies (M ma.n = 17.54, Mindep = 10.25; t = 2.09; p &lt; 0.05). The dummy variable for inde pendent movies controlled for differences between the types of movies.</p><p>Although product placements may increase m oviegoers' benefit (experi ence), it is possible that excessive place ments in a movie have a negative effect on consumer benefit. In other words, an inverted U-shaped relationship may exist between the number of placements and performance of the media in which prod ucts are placed.</p><p>3 The authors thank an anonymous reviewer for suggesting this point.</p><p>Including both the number of place ments and the squared value allowed the analysis of the potential U-shaped effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A c c o u n tin g fo r E n d o g e n e ity</head><p>The number of product placements may have been endogenous because of unob served heterogeneity (cj. For example, both producing firms (studios) and place ment firms (advertisers) may have wanted to place more products if they thought the movie was of high quality. In this case, placements would have been correlated with the combined error term (c + v ). Similarly, studios may have increased the number of screens for a high-quality movie, therefore the number of screens would have been correlated with the error term.</p><p>A first differencing operation could account for endogeneity by elim inat ing fixed effects (cm), but the model also included tim e-invariant independent variables, such as PLACE and PLAC-ESQ, that would have been eliminated by first differencing.</p><p>Instead, this study used a system "gen eralized method of moments" (GMM) esti mator <ref type="bibr">(Arellano and Bond, 1991;</ref><ref type="bibr">Arellano and Bover, 1995;</ref><ref type="bibr" target="#b8">Blundell and Bond, 1998;</ref><ref type="bibr">Holtz-Eakin, Newey, and Rosen, 1998)</ref>. The system GMM estimator is appropriate for a small number of time periods and a large number of panels and when the independ ent variables are not strictly exogenous. The data consisted of 122 movies (panels), but some movies were shown as little as four weeks (time periods) in theaters. Sys tem GMM can estimate the coefficients of both time-varying (e.g., weekly screens and advertising) and time-invariant (e.g., MPAA rating, number of product place ments) variables while also accounting for fixed individual effects, heteroscedasticity, and autocorrelation within panels. Thus, the system GMM was advanta geous to the current researchers, in that it could control for unobserved heterogene ity without removing time-invariant inde pendent variables, by using equations in levels and in differences. That is, the sys tem GMM first estimated equations in levels and in differences. The estimator then was obtained by a weighted aver age of the coefficients from a structure of two equations:</p><formula xml:id="formula_0">B = (X'Z (W)-1 Z'X)-1 (X'Z (W)-1 Z'Y) (2) X = V _XL , Y = 1 ----------1 i _____ l Zrf 0 ' Wd 0 Z,_ , W = 0</formula><p>where • B was the system GMM estimator matrix,</p><p>• X( was a matrix of transformed inde pendent variables (i.e., first differences), • X, was the matrix of original regressors (i.e., levels),</p><p>• Y( indicated the transformed dependent variable, • Y, was the original dependent variable, • Wrf offered a weighting matrix of the transformed equation, • W, was a weighting matrix of the orig inal equation, • Zd referred to the set of instruments in the transformed equation, and</p><p>• Z, was the set of instruments in the orig inal equation.</p><p>Econometrics literature (e.g., <ref type="bibr">Arellano and Bover, 1995;</ref><ref type="bibr" target="#b8">Blundell and Bond, 1998</ref>) has demonstrated that system GMM estima tions could increase efficiency because they use not only levels but also differ ences of lagged variables as instruments.</p><p>Lagged variables in differences and in levels are orthogonal to error terms; there fore, both variables are relevant instru ments (e.g., <ref type="bibr">Arellano and Bover, 1995;</ref><ref type="bibr" target="#b8">Blundell and Bond, 1998;</ref><ref type="bibr" target="#b70">Roodman, 2009)</ref>.</p><p>The assumption is that lagged explana tory variables do not correlate with cur rent error terms-that is, E(x , ■ e ,) = E(xm (_s ■ = 0 for s &gt; 2)-so the lagged independent variables are orthogonal to error terms in first differences (Equa tion 4).</p><p>Because the previous regressors and cur rent error terms were not correlated-that is, E(x . • e ,) = E(x , , • e ,) = 0 for s &gt; 2)-lagged regressors in differences and current errors in levels were orthogonal (Equation <ref type="formula">5</ref>). ■Ac ,) = 0 for s &gt; 2 mr (4)</p><p>• e ,) = 0 for s &gt; 2 where w was a time-invariant variable.</p><p>m</p><p>The system GMM estimation described above allowed the current researchers to</p><p>• obtain consistent and efficient estima tors of the effects of both the number of placements and its square to understand the relationship between product place ments and movie performance;</p><p>• control for endogeneity because of unob served heterogeneity from both studios and placing firms; and</p><p>• control for a variety of movie-specific factors and an overall time trend.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Product P la c em e n ts and S atu ratio n</head><p>Pertinent to results from the system GMM estimation (See Table <ref type="table" target="#tab_3">3</ref>) are the following:</p><p>• The coefficient of the number of product placements was positive and significant, so the number of placements had a posi tive relationship with revenues-what the authors believe to be a novel finding.</p><p>The empirical results affirmed that prod uct placement as advertising is positive for consumers.</p><p>• The coefficient of the square of the num ber of product placements was negative and significant, confirming the inverted U-shaped relationship between the number of placements and box office performance.</p><p>• Thus, when holding all other fac tors (star power, etc.) that could affect movie box office performance con stant, product placements showed a positive relationship with movie per formance, up to a certain point; how ever, excessive placements related negatively to performance after a sat uration point and became a negative for consumers.</p><p>• These effects were significant even after controlling for the total length of prod uct placements and the production budget of the movie.</p><p>After establishing a significant inverted U-shaped relationship with media per formance, the authors next turned to the saturation point for product placements. The estimated inflection point, using the coefficients of NPLACE and NPLACESQ, was approximately 44. That is, the initially positive relationship between product placements and revenues became negative after 44 placements (See Figure <ref type="figure" target="#fig_6">1</ref>).</p><p>Considering that the number of prod uct placements averaged about 16, studios generally appeared to keep the num ber of placements within a reasonable range. However, some movies featured a high numbers of placements, even exceeding 100 in some cases, such that the relationship between product place ments and revenue likely was negative in those cases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Variables</head><p>The positive and significant coefficients for WOM valence and volume confirmed previous findings that WOM was a driver of movie performance. This finding is important because if WOM did not affect movie performance, then the link by which product placements affected performance would not have existed.</p><p>The coefficient of major brands was posi tive and significant, indicating that the pro portion of product placements by major brands related positively to performance. In contrast, the coefficient for main characters was not significant. Together, these findings suggest that consumers placed more import ance on product placements featuring • easily-recognized brands (versus generic or fake brands) than on</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Number of Product Placements</head><p>Note: Based on Equation <ref type="formula">1</ref>, with Xx, X2, and X3 evaluated at mean values. Figure <ref type="figure">2</ref> Frequency Distribution</p><p>• product placements featuring a main character (versus secondary characters).</p><p>Perhaps product placements appeared more seam lessly incorporated into movie storylines if they involved easilyrecognized brands; this result also is consistent with the notion that product placements increase realism.</p><p>As expected, the other control variables that had significant positive relationships with movie performance, were</p><p>• advertising • the number of screens • independent movies.</p><p>The coefficient of the length of product placements was negative and significant, so total screen time for all placements had a negative relationship with performance.</p><p>Star power and production budget were not statistically significant.</p><p>The coefficient of sequel movies was negative and significant.</p><p>The trend coefficient was negative and significant, meaning performance decreased over time, as expected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outlier Analysis</head><p>To check the robustness of the current find ings, the researchers conducted an outlier analysis. The skewness (kurtosis) of the number of placements and total length of placements were 3.051 (12.038) and 3.133 (13.101), respectively; that is, the vari ables skewed to the right (See Figure <ref type="figure">2</ref>). To determine whether or not the results were affected by outliers, the researchers also ran the model after Winsorizing the num ber of placements or the total placement length. Winsorizing is a method to reduce the effect of potentially spurious outliers to ensure that extreme observations do not drive the results (e.g., <ref type="bibr">Rego, Morgan, and Fornell, 2013;</ref><ref type="bibr" target="#b78">Tuli, Bharadwaj, and Kohli, 2010)</ref>. For the current research, the authors Winsorized at the 99th percentile, mean ing that any number of placements or total placement length above the 99th percentile were set to be equal to the 99th percentile.</p><p>As to the results from the system GMM estimation with these data; they remained similar and were robust to outliers (See Table <ref type="table" target="#tab_4">4</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does Low Budget or Low Quality</head><p>Drive the Results?</p><p>An alternative explanation for the inverted U-shaped relationship might be that mov ies with more product placements tend to be low budget or low quality, and studios actively seek financial resources from paid placements. Such low-budget, low-quality movies generally perform poorly at the box office-this study revealed a positive (though not significant) coefficient of pro duction budget and a positive, significant coefficient for WOM valence as proxy for quality (See Table <ref type="table" target="#tab_3">3</ref>)-so these movies could be driving the negative quadratic coefficient (See Equation <ref type="formula">1</ref>, p. 7). Empirical evidence, however, does not support the above explanation:</p><p>• In the correlation pattern among prod uct placements, production budget, and WOM valence as a proxy for quality (See Table <ref type="table" target="#tab_5">5</ref> and Figure <ref type="figure" target="#fig_7">3</ref>), the correla tions between the number of placements and either production budget or WOM valence would be negative if low budget or low quality induced the inverted U-shaped relationship. Instead, these correlations were both positive (though not statisti cally significant), offering no evi dence that low-budget or low-quality movies included more product place m ents than their high-budget or high-quality counterparts.</p><p>• Production budget and WOM valence (i.e., quality) were included in the regression, so the significant inverted U-shaped relationship between product placements and performance persisted after controlling for these factors (See Table <ref type="table" target="#tab_3">3</ref>).</p><p>• The instrumental variable approach (sys tem GMM estimator) accounted for unob served movie-specific heterogeneity, such as movie quality (See Equations 2 and 3, p. 9). The estimation results came after addressing the endogeneity of product placements because of potential correla tions among production budgets, movie quality, and other unobserved factors.</p><p>Together, the above three findings indi cate that low budgets or quality of The authors have argued that the signifi cant relationship between product place ments and programing performance likely reflected WOM, holding all other factors (star power, etc.) that could affect movieperformance constant. In other words, if product placements enhance realism and increase consumers' overall enjoyment of the film as the literature shows, then consumers should express more positive WOM. If this is true, then a significant relationship between the number of prod uct placements and WOM, as measured by online consumer ratings, should exist.</p><p>To verify this relationship, the authors ran the following regression model on the 122 movies used in the previous analysis:</p><formula xml:id="formula_1">In WOM =P" + |31PLACE + P 2X 4,", + t1u,<label>(7)</label></formula><p>For each movie m:</p><p>• WOM was word of mouth valence as measured by the consumer rating (using its natural logarithm, because of its skewed distribution); and • PLACE was the number of placements.</p><p>Furthermore, X4 was a vector of moviespecific variables:</p><p>• the proportion of placements by major brands (MAJOR), as a proxy for brand familiarity; • the proportion of placements used by main characters (MAIN); • total screen time for all product place ments in a movie (LENGTH), as a control for product placement intensity; • total advertising spending (AD); • star power (STAR); • production budget (BUDGET);</p><p>• a dummy variable that indicates whether the movie is a sequel (SEQUEL); and • dummy variables for the MPAA ratings (MPAA), 17 genres (GENRE), and inde pendent films (INDIE).</p><p>All sources are the same as in previous analyses.</p><p>As with the previous analysis, given the host of factors (star power, etc.) that can affect WOM (and hence movie per formance), the X4 vector was included so the derived relationship between product placements and WOM held the aforemen tioned factors constant.</p><p>Again, the number of product placements may be endogenous because of unobserved movie-specific heterogeneity. Because the dependent variable was time-invariant, the current authors used an instrumental variable approach using studio dummies as instruments to deal with this potential endogeneity. Each studio's specific finan cial situation affects product-placement decisions. However, when deciding which movie to watch or when evaluating movies, consumers rarely consider studios <ref type="bibr" target="#b55">(Luan and Sudhir, 2010)</ref>. Therefore, studio dum mies would be uncorrelated with WOM but correlated with product placements, mak ing them relevant instrumental variables. The model was estimated by generalized method of moments (GMM) with robust standard errors (SEs).</p><p>The coefficient of product placements was positive and significant (See Table <ref type="table" target="#tab_6">6</ref>). That is, product placements had a signifi cant positive relationship with WOM when holding the other factors constant. Among the control variables, MAJOR, MAIN, LENGTH, and STAR were not significant, nor was the INDIE dummy variable. AD and SEQUEL had positive, significant rela tionships, whereas BUDGET had a nega tive, significant relationship.</p><p>Together with the positive and signifi cant relationship found between WOM  media-performance outcome, up to a cer tain point. That is, when holding all other factors (star power, etc.) constant, prod uct placements increase consumer benefit (experience) when they are not excessive, resulting in a positive relationship with movie performance. This finding eluci dates the heretofore unknown relation ship between product placements and programing performance.</p><p>Additionally, the results revealed a posi tive relationship between the proportion of placements by major, familiar brands and movie performance, suggesting some important managerial implications:</p><p>• Firms that produce media programing and those that place advertising in such media can enjoy a win-win situation from product placements, especially if those placements involve major brands that are familiar to consumers.</p><p>• However, too much of this positive can become negative. As the num ber of placements passes a saturation point (44, as the current study demon strated), the relationship with movie performance turns negative. In particu lar, programing firms that give in to the temptation to allow too many place ments may suffer weaker programing performance when holding all other factors constant. The average number of placements in the current sample was 16, suggesting that movie studios might understand both the positive and the potential negative effects of product placements.</p><p>• Studios should continue to limit the number of product placements to a rea sonable boundary and avoid excessive placements (e.g., more than 50), which generally appear associated with poorer box office performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LIMITATIONS AND FUTURE RESEARCH</head><p>This investigation of the relationship between product placements and media programing used the number of place ments as a focal variable. A lack of data prevented the incorporation of the congru ence or fit of placed advertisements with the movie. In addition to the number or length of product placements, the seam lessness of the product placement with the flow of the movie may be an important fac tor. Secondary data about the fit between advertising and media programing are difficult to obtain, but assessments of fit would represent valuable additions to this research stream.</p><p>Moreover, the models in this study included advertising, but only that con ducted by the studio, because no data about cross-promotional advertising by the placed brands were available. Fur ther research might find a way to include this relationship. (Qj) Copyright of Journal of Advertising Research is the property of Warc LTD and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>measured as total box office revenues of the movies in which the actor was a starring cast member five years before the release of the movie (films (Mojo); word of m outh valence (consumer rat ing; IMDb); word of m outh volume (IMDb). A dditionally, the character th at uses the prod uct is an im portant driver of consum er attitu d es tow ard a product placem ent. For exam ple, m oviegoers prefer p roducts used by m ain charac ters, because the use of a familiar prod uct helped them relate to the character (DeLorme and Reid, 1999). Similarly, m oviegoers had m ore positive asso ciations w ith brands used by star actors (DeLorme and Reid, 1999). Thus, the cur rent study also included the proportion of product placements used by main charac ters (Brand Hype). To measure WOM, the current authors used the valence and volume of online con sumer ratings (IMDb). The use of valence and volume of online consumer ratings as a measure of WOM is widely accepted in a num ber of experience goods contexts, m ovies averaged 15.87 product placements-33 percent of them in support of major brands and another 81 percent used by main characters (See</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>where x is an endogenous variable, and e , is an error term for movie m in week t. mt Accordingly, the model used both lagged levels and lagged differences as instrumental variables. Because the first differences equation eliminated the fixed effects, cm, neither PLACE nor PLACESQ correlated with the error term (See Equa tion 6). Thus, lagged differences of SCRN and lagged levels of SCRN, PLACE, and PLACESQ provided instruments in the first differences equation for the endog enous variable SCRN: E(wm ( • Avmt) = 0 for all m and t (6)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Inverted U-Shaped Relationship Between Product Placement and Revenue</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 3</head><label>3</label><figDesc>Figure 3 A v e ra g e N u m b e r o f P r o d u c t P la c e m e n ts by P r o d u c tio n B u d g e t</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>F</head><label></label><figDesc>ong is assistant professor of marketing at California State University, Long Beach. His research interests include business analytics, social media, customer-relationship management (CRM), international marketing, advertising, and financial marketing. His work has been published in th e Journal o f Retailing and Journal o f Interactive Marketing. This research was conducted while he was at Kansas State University in Manhattan, KS, where he served as assistant professor of marketing.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head></head><label></label><figDesc>Jeffrey M eyer is assistant professor o f marketing at Bowling Green State University in Bowling Green, OH. His research interests include services marketing, advertising, and technology. His work can be found in the Journal o f Interactive Marketing and the Journal o f Service Research. Before academia, he worked several years in the areas of marketing and marketing research fo r Principal Financial Group. K youngnam Ha is assistant professor of marketing at University of New Haven in West Haven, CT. Her research focuses on the marketing-finance interface and CRM. In the form er area, she has examined the role of market-based assets and strategic activities in brand and firm value creation. In CRM, Ha has introduced a data-m ining approach to improve the predictability o f custom er responses to marketing. Her research has appeared in the Journal o f Interactive Marketing and the Entrue Journal o f Information Technology.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1</head><label>1</label><figDesc>Variables, Measures, and Data Sources</figDesc><table><row><cell>Variables</cell><cell>Descriptions (Measures)</cell><cell>Source</cell></row><row><cell>PLACE</cell><cell>Number of product placements</cell><cell>Brand Hype</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 )</head><label>2</label><figDesc></figDesc><table /><note><p>. The average WOM valence (con sum er rating) and volum e from IMDb were 69.61 and 175,833, respectively. For revenue, advertising spending, production budget, and star power, the figures were adjusted for inflation.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2</head><label>2</label><figDesc></figDesc><table><row><cell cols="2">Descriptive Statistics</cell><cell></cell><cell></cell><cell></cell></row><row><cell>V a ria b le</cell><cell>M</cell><cell>SD</cell><cell>M in</cell><cell>M a x</cell></row><row><cell>PLACE</cell><cell>15.87</cell><cell>16.49</cell><cell>1.00</cell><cell>102.00</cell></row><row><cell>MAJOR</cell><cell>0.33</cell><cell>0.23</cell><cell>0.00</cell><cell>1.00</cell></row><row><cell>MAIN</cell><cell>0.81</cell><cell>0.22</cell><cell>0.00</cell><cell>1.00</cell></row><row><cell>LENGTH</cell><cell>1.28</cell><cell>1.66</cell><cell>0.03</cell><cell>12.07</cell></row><row><cell>REV</cell><cell>85.4</cell><cell>81.4</cell><cell>1.15</cell><cell>404.00</cell></row><row><cell>AD</cell><cell>26.2</cell><cell>11.5</cell><cell>0.54</cell><cell>57.20</cell></row><row><cell>PREAD</cell><cell>12.4</cell><cell>5.77</cell><cell>0.01</cell><cell>25.30</cell></row><row><cell>BUDGET</cell><cell>55.6</cell><cell>48.4</cell><cell>0.40</cell><cell>258.00</cell></row><row><cell>WOM</cell><cell>69.61</cell><cell>9.60</cell><cell>27.00</cell><cell>85.00</cell></row><row><cell>WOMVOL</cell><cell>175.83</cell><cell>137.63</cell><cell>6.25</cell><cell>710.64</cell></row><row><cell>SCRN</cell><cell>988.30</cell><cell>469.99</cell><cell>23.06</cell><cell>2,005.92</cell></row><row><cell>STAR</cell><cell>1,200.00</cell><cell>1,090.00</cell><cell>0.00</cell><cell>6,650.00</cell></row><row><cell>SEQUEL</cell><cell>0.07</cell><cell>0.25</cell><cell>0.00</cell><cell>1.00</cell></row><row><cell>INDIE</cell><cell>0.23</cell><cell>0.42</cell><cell>0.00</cell><cell>1.00</cell></row></table><note><p>Note: N =122. RE V = total revenues; A D = total advertising spending. REV, AD , PREAD , BUDGET, and STAR are in millions o f dollars. W O M V O L is in thousands of ratings (W O M posts about the movie). Variables are adjusted for inflation where appropriate. SC RN = average weekly number o f screens.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 3</head><label>3</label><figDesc></figDesc><table><row><cell cols="3">Effect of Product Placement</cell></row><row><cell>on Revenue</cell><cell></cell><cell></cell></row><row><cell>Variable</cell><cell>Ln REVENUE</cell><cell></cell></row><row><cell>PLACE</cell><cell>0.0983*</cell><cell>(0.0098)</cell></row><row><cell>PLACESQ</cell><cell>-0.0011*</cell><cell>(0.0001)</cell></row><row><cell>MAJOR</cell><cell>0.2328*</cell><cell>(0.1168)</cell></row><row><cell>MAIN</cell><cell>0.4910</cell><cell>(0.2726)</cell></row><row><cell>LENGTH</cell><cell>-0.0631*</cell><cell>(0.0203)</cell></row><row><cell>SCRN</cell><cell>0.0012*</cell><cell>(0.0000)</cell></row><row><cell>WKLYAD</cell><cell>0.0318*</cell><cell>(0.0004)</cell></row><row><cell>BUDGET</cell><cell>0.0005</cell><cell>(0.0017)</cell></row><row><cell>STAR</cell><cell>0.0001</cell><cell>(0.0001)</cell></row><row><cell>SEQUEL</cell><cell>-0.3756*</cell><cell>(0.1217)</cell></row><row><cell>TREND</cell><cell>-0.1109*</cell><cell>(0.0021)</cell></row><row><cell>WOM</cell><cell>0.0223*</cell><cell>(0.0111)</cell></row><row><cell>WOMVOL</cell><cell>0.0014*</cell><cell>(0.0004)</cell></row><row><cell>INDIE</cell><cell>0.3386*</cell><cell>(0.1062)</cell></row><row><cell cols="3">Note: N = 1,908. Standard errors (SEs) are in parentheses.</cell></row><row><cell cols="3">Additional independent variables include 3 MPAA</cell></row><row><cell cols="3">and 17 genre dummies, not reported here. WKLYAD,</cell></row><row><cell cols="3">BUDGET, and STAR are in millions of dollars. WOMVOL</cell></row><row><cell>is in thousands.</cell><cell></cell><cell></cell></row></table><note><p>*Significant at 5%.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 4 E</head><label>4</label><figDesc>ffe c t o f P r o d u c t P la c e m e n t o n R e v e n u e (W in s o riz e d a t 1%)</figDesc><table><row><cell>Variable</cell><cell>Ln REVENUE</cell><cell></cell></row><row><cell>PLACE</cell><cell>0.0967*</cell><cell>(0.0097)</cell></row><row><cell>PLACESQ</cell><cell>-0.0011*</cell><cell>(0.0001)</cell></row><row><cell>MAJOR</cell><cell>0.2415*</cell><cell>(0.1146)</cell></row><row><cell>MAIN</cell><cell>0.4627</cell><cell>(0.2696)</cell></row><row><cell>LENGTH</cell><cell>-0.0660*</cell><cell>(0.0238)</cell></row><row><cell>SCRN</cell><cell>0.0012*</cell><cell>(0.0000)</cell></row><row><cell>WKLYAD</cell><cell>0.0318*</cell><cell>(0.0004)</cell></row><row><cell>BUDGET</cell><cell>0.0006</cell><cell>(0.0016)</cell></row><row><cell>STAR</cell><cell>0.0001</cell><cell>(0.0001)</cell></row><row><cell>SEQUEL</cell><cell>-0.3829*</cell><cell>(0.1221)</cell></row><row><cell>TREND</cell><cell>-0.1108*</cell><cell>(0.0021)</cell></row><row><cell>WOM</cell><cell>0.0223*</cell><cell>(0.0111)</cell></row><row><cell>WOMVOL</cell><cell>0.0014*</cell><cell>(0.0004)</cell></row><row><cell>INDIE</cell><cell>0.3389*</cell><cell>(0.1063)</cell></row><row><cell cols="3">Note: N = 1,908. Standard errors (SEs) are in parentheses.</cell></row><row><cell cols="3">Additional independent variables included 3 M PAA</cell></row><row><cell cols="3">and 17 genre dummies, not reported here. WKLYAD,</cell></row><row><cell cols="3">BUDGET, and STAR are in millions o f dollars. W O M V O L</cell></row><row><cell>is in thousands.</cell><cell></cell><cell></cell></row></table><note><p>*Significant at 5%.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 5</head><label>5</label><figDesc></figDesc><table><row><cell cols="2">C o r r e la tio n s</cell><cell></cell></row><row><cell></cell><cell>Place</cell><cell>Budget</cell></row><row><cell>Budget</cell><cell>0.0336</cell><cell></cell></row><row><cell>WOM</cell><cell>0.1340</cell><cell>-0.0930</cell></row></table><note><p>Note: p &gt; 0.05 fo r all correlations.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>TABLE 6 E f f e c t o f P r o d u c t P l a c e m e n t o n W o r d o f M o u t h</head><label>6</label><figDesc></figDesc><table><row><cell>V ariable</cell><cell>Ln W OM</cell><cell></cell></row><row><cell>PLACE</cell><cell>0 . 0034*</cell><cell>(0 . 0014)</cell></row><row><cell>MAJOR</cell><cell>0.0039</cell><cell>(0 . 0557)</cell></row><row><cell>MAIN</cell><cell>-0.0028</cell><cell>(0 . 0565)</cell></row><row><cell>LENGTH</cell><cell>-0.0075</cell><cell>(0 . 0055)</cell></row><row><cell>AD</cell><cell>0 . 0033*</cell><cell>(0 . 0015)</cell></row><row><cell>BUDGET</cell><cell>-0 . 0016*</cell><cell>(0 . 0004)</cell></row><row><cell>STAR</cell><cell>-0.00001</cell><cell>(0 . 0001)</cell></row><row><cell>SEQUEL</cell><cell>0.1720*</cell><cell>( 0 . 0396)</cell></row><row><cell>INDIE</cell><cell>0.0016</cell><cell>(0 . 0405)</cell></row><row><cell cols="3">and programing performance in the pre</cell></row><row><cell cols="3">vious analyses, as well as the established</cell></row><row><cell cols="3">positive relationship between the two in</cell></row><row><cell cols="3">the literature (e.g., Bruce et ah, 2012; Craig</cell></row><row><cell cols="3">et al, 2015; Duan et ah, 2008; Moon et al.,</cell></row><row><cell cols="3">2009), this finding is important. This find</cell></row><row><cell cols="3">ing provides a link by which product place</cell></row><row><cell cols="3">ments affect programing performance.</cell></row><row><cell cols="3">CONCLUSION AND IMPLICATIONS</cell></row><row><cell cols="3">Product placements are big business for</cell></row><row><cell cols="3">both the placed brands and the media</cell></row><row><cell cols="3">programing in which they appear. Extant</cell></row><row><cell cols="3">research mainly has addressed the effects</cell></row><row><cell cols="3">of product placements on consumers' atti</cell></row><row><cell cols="3">tudes (McCarty and Lowrey, 2012); this</cell></row><row><cell cols="3">study went a step further to examine how</cell></row><row><cell cols="3">product placements relate to the perfor</cell></row><row><cell cols="3">mance of the media context (i.e., movies)</cell></row><row><cell cols="3">through word of mouth about the mov</cell></row><row><cell cols="3">ies, by drawing on a complementary view</cell></row><row><cell>of advertising.</cell><cell></cell><cell></cell></row><row><cell cols="3">The current empirical analysis demon</cell></row><row><cell cols="3">strates that, on average, product place</cell></row><row><cell cols="3">ments are considered a positive for</cell></row></table><note><p>Note: N = 122. SEs are in parentheses. Additional independent variables include 3 M PAA and 17 genre dummies, not reported here. AD , BUDGET, and STAR are in million dollars. * Significant at 5%.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>DOI: 1 0.2501/JAR-2015-012</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>The Brand Hype M ovie Mapper was created (and contin ues to be maintained) by Professor M att Soar o f Concordia University, Montreal.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Word-of-Mouth Research: Principles and Applications</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="398" to="411" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>H o s k in s</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Watching Dallas: Soap Opera and the Melodramatic Imagination</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Methuen</publisher>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations</title>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>B O N D</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economic Studies</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="277" to="297" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Another Look at the Instrumental Variable Estimation of Error-Components Models</title>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="29" to="51" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Economic Analysis of Adver tising</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bagwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Industrial Organiza tion</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Armstrong</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Porter</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Beyond Advertising and Publicity: Hybrid Messages and Public Pol icy Issues</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Balasubramanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="29" to="46" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Audience Response to Product Placements: An Integrative Framework and Future Research Agenda</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Balasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Atwardhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="115" to="141" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A Sim ple Theory of Advertising as a Good or Bad</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Urphy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="941" to="964" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Initial Conditions and Moment Restrictions in Dynamic Panel Data Models</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blundell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="115" to="143" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mar keting the Mix: Do Advertising, Promotions and Sales Force Activities Lead to Differentia tion?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Boulding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Staelin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="159" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Product Well Placed: The Relative Impact of Placement and Audience Characteristics on Placement Recall</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bressoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lehu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="374" to="385" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dynamic Effectiveness of Advertising and Word of Mouth in Sequential Distribution of New Products</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Foutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Olsarici</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="469" to="486" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Prod uct Placement in Entertainment Media: Pro posing Business Process Models</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Salmon</surname></persName>
+		</author>
+		<ptr target="http://www.businessinsider.com/2008/10/10-embarrassing-product-placements" />
+	</analytic>
+	<monogr>
+		<title level="m">Business Insider website</title>
+		<imprint>
+			<date type="published" when="2008-10-10">2008, October 10. Sep tember 2, 2014. 2009</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="783" to="806" />
+		</imprint>
+	</monogr>
+	<note>10 Embar rassing Product Placements</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Effect of Word of Mouth on Sales: Online Book Reviews</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Ayzlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="345" to="354" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Effects of Online User Reviews on Movie Box Office Performance: Accounting for Sequential Rollout and Aggregation across Local Markets</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gopinath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkataraman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="944" to="957" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Why Do People Avoid Advertising on the Internet?</title>
+		<author>
+			<persName><forename type="first">C .-H</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Heon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="89" to="97" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">When Online Reviews Meet Hyperdifferentiation: A Study of the Craft Beer Industry</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Itt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management Information Systems</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="171" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Advertis ing, Market Structure and Performance</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Ilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="423" to="440" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A s a Backdrop, Part of the Plot, or a Goal in the Game: The Ubiquitous Product Placement</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Persuasion</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Shrum</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>nd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">When Product Placement Goes Wrong: The Effects of Program Liking and Placement Prominence</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="89" to="98" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">E-Word of Mouth: Early Predictor of Audience Engagement: How Pre-Release &quot;E-WOM&quot; Drives Box-Office Outcomes of Movies</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Ersaci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="62" to="72" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Study of Fac tors Affecting Consumer Evaluations and Mem ory of Product Placements in Movies</title>
+		<author>
+			<persName><forename type="first">D'a</forename><surname>Stous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Hartier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Current Issues and Research in Advertising</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="31" to="40" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Understanding Attitudes Toward and Behaviors in Response to Product Placement</title>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="83" to="96" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Exploring the Value of Online Product Reviews in Forecasting Sales: The Case of Motion Pic tures</title>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Han G</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interactive Marketing</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="23" to="45" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Moviego ers&apos; Experiences and Interpretation of Brands in Films Revisited</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Reid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="71" to="95" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">D o You Like What You Recognize?</title>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>D E P Elsmacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Urnawirawan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="35" to="54" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Uncertainty in the Movie Industry: Does Star Power Reduce the Terror of the Box Office?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Alls</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="285" to="318" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Does Chatter Mat ter? The Impact of User-Generated Content on Music Sales</title>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Hang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interactive Marketing</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="300" to="307" />
+			<date type="published" when="2009-11">November (2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Dynamics of Online Word-of-Mouth and Prod uct Sales-An Empirical Investigation the Movie Industry</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Hinston</surname></persName>
+		</author>
+		<ptr target="http://articles.chicagotribune.com/1998-05-31/news/9805310434_l_products-video-stores-hype-heavenDuan" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Retailing</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="233" to="242" />
+			<date type="published" when="1998-05-31">May 31. 1998. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Chicago Tribune</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Competition and the Ciga rette TV Advertising Ban</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Eckard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="119" to="133" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Consumer Per ceptions of Advertising Clutter and Its Impact Across Various Media</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Speck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="41" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of Media Advertising and Other Sources on Movie Selec tion</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Faber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>O 'g Uinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="317" to="377" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Stay Tuned. We Will Be Back Right After These Messages: Need to Evaluate Moderates the Transfer of Irri tation in Advertising</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Fennis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Barker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="15" to="25" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The New Industrial State</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>Houghton-Mifflin</publisher>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>50 Years of James Bond: AH the</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Shaken and Stirred</title>
+		<imprint>
+			<date type="published" when="2012-05-14">May 14, 2012</date>
+			<publisher>World</publisher>
+		</imprint>
+	</monogr>
+	<note>Variety</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Role of Transportation in the Persuasiveness of Pub lic Narratives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Brock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="701" to="721" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Understanding Media Enjoyment: The Role of Transportation into Narrative Worlds</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Kaufman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commu nication Theory</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="311" to="327" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Consumers&apos; Per ceptions of the Ethics and Acceptability of Prod uct Placements in Movies: Product Category and Individual Differences</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Ould</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Current Issues &amp; Research in Advertising</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="37" to="50" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Observations: Advertising Clutter in Consumer Magazines: Dimension and Effects</title>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Does Advertis ing Clutter Have Diminishing and Negative Returns?</title>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Litman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="31" to="42" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">H ow Clutter Affects Advertising Effectiveness</title>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Riebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jour nal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="159" to="163" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">How American Airlines Got a Free Ride in &apos;Up in the Air&apos;</title>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<ptr target="y/american-airlines-a-free-ride-air/141059" />
+	</analytic>
+	<monogr>
+		<title level="m">A dvertising Age website: h ttp</title>
+		<imprint>
+			<date type="published" when="2009-12-14">2009. December 14. October 9, 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Brand-Placement Effectiveness and Competitive Interference in Entertainment Media</title>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="192" to="199" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The Differing Roles of Success Drivers Across Sequential Channels: An Application to the Motion Picture Industry</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>H Ennig-T Hurau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Alsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Acad emy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="559" to="575" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">An Investigation Into the Success Factors Determining the Success of Service Innovations: The Case of Motion Pictures</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>H Ennig-T Hurau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">W</forename><surname>Ruck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Review</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2001">2001. 2001</date>
+		</imprint>
+	</monogr>
+	<note>Academy of Mar keting</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Estimating Vector Autoregressions With Panel Data</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>H Oltz-Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Rosen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1371" to="1395" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Product Placements: The Impact of Placement Type and Repetition on Attitude</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="21" to="31" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Movie Advertising and the Stock Market Valuation of Studios: A Case of Great Expectations?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Anssens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Market ing Science</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="239" to="250" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Do Marketing Media Have Life Cycles? The Case of Product Placement in Movies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Karniouchina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Erenburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="27" to="48" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Practitioners&apos; Evolving Views on Product Placement Effectiveness</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Karrh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Ardun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="138" to="149" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The Effect of Positive and Negative Movie Alcohol Portrayals on Transportation and Attitude Toward the Movie</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koordeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C M E</forename><surname>Engels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alcoholism: Clinical and Experimental Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="2073" to="2079" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">PH Have What She&apos;s Having&apos;: Gauging the Impact of Product Place ments on Viewers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Law</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Braun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology and Marketing</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1059" to="1075" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Predicting Success of Theatrical Movies: An Empirical Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Litman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Popular Culture</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="159" to="175" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Word of Mouth for Movies: Its Dynam ics and Impact on Box-Office Revenue</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="74" to="89" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Forecasting Marketing-Mix Responsiveness for New Prod ucts</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Luan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sudhir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="444M" to="4457" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">J0URI1 RL OF RDUERTISIRG RESEARCH</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="3" to="7" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Product Placement: The Nature of the Practice and Potential Avenues of Inquiry</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lynch</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/" />
+	</analytic>
+	<monogr>
+		<title level="m">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Persuasion</title>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2004">2008, November 10. 2004</date>
+		</imprint>
+	</monogr>
+	<note>J. A.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Product Integration: Current Practices and New Direc tions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mcc Arty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lowrey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Per suasion</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Shrum</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>nd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Dynamic Effects Among Movie Ratings, Movie Revenues, and Viewer Satisfaction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bergey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Iacobucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="108" to="121" />
+			<date type="published" when="2009-01">January (2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">T Saw It in the Movies&apos;: Exploring the Link Between Product Placement Beliefs and Reported Usage Behavior</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Riedman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Current Issues &amp; Research in Advertising</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="33" to="40" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Consum ers&apos; Attitudes Toward Product Placement in Movies</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Secunda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">A Bayesian Model to Forecast New Product Per formance in Domestic and International Mar kets</title>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hintagunta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="115" to="136" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Recall of Brand Placements in Computer/Video Games</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>N Elson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="80" to="92" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Information and Consumer Behav ior</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>N Elson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="311" to="329" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Advertising as Information</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>N Elson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="729" to="754" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">More Mutter About Clutter: Extending Empirical Gen eralizations to Facebook</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>N Elson-Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Riebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sharp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="186" to="191" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The Hidden History of Product Placement</title>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Salmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="575" to="594" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Double-Digit Surge in Product Placement Spend in 2014 Fuels Higher Global Branded Entertainment Growth As Media Integrations &amp; Consumer Events Combo for $73</title>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">J</forename><surname>Pq M Edia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Casavant</surname></persName>
+		</author>
+		<ptr target="http://www.prweb.com/releases/2015/02/prwebl24879U.htmPrag" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="217" to="235" />
+			<date type="published" when="1994">2015. March 13. May 13, 2015. 1994</date>
+		</imprint>
+	</monogr>
+	<note>An Empirical Study of the Determinants of Revenues and Market ing Expenditures in the Motion Picture Indus try</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Reexamining the Market Share-Customer Satisfaction Relationship</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fornell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">H ow to do xtabond2: An Intro duction to Difference and System GMM in Stata</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roodman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Stata Journal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="86" to="136" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Judging a Magazine by Its Advertising: Exploring the Effects of Advertising Content on Perceptions of a Media Vehicle</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosengren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Ahlsn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal cf Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="61" to="70" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Investigating the Effectiveness of Product Placements in Television Shows: The Role of Modality and Plot Connection Congru ence on Brand Memory and Attitude</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="306" to="318" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">A Managerial Investigation Into the Product Placement Indus try</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Belch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="73" to="92" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Consumers, Characters, and Products: A Balance Model of Sitcom Product Placement Effects</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="7" to="21" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Non-Student Consumer Attitudes Towards Product Placement: Implications for Public Policy and Advertisers</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Jung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="257" to="285" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">SilverScreener: A Modeling Approach to Movie Screens Management</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Swami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eliashberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Einberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="352" to="372" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Explicit, Non-Integrated Product Placement in British Television Programs</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tiwsakul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Szmigin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Jour nal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="95" to="111" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Ties That Bind: The Impact of Multiple Types of Ties With a Customer on Sales Growth and Sales Volatility</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Tuli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Bharadwaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kohli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="50" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Does Branded Product Place ment in Film Enhance Realism and Product Recognition by Consumers?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L R</forename><surname>Van D Er W Aldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>D U Toit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Redelinghuys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">African Journal of Business Management</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="19" to="25" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Brand Placement Promi nence: Good for Memory! Bad for Attitudes?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Reijmersdal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="151" to="153" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">The Worth of Product Placement in Successful Films: An Event Study Analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Anielova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="44" to="63" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

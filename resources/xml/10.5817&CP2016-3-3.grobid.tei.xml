@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Social anxiety moderates the links between excessive chatting and compulsive Internet use</title>
+				<funder ref="#_43gCsD2">
+					<orgName type="full">Swedish Research Council for Health, Working Life and Welfare</orgName>
+				</funder>
+				<funder ref="#_JSFSn5h">
+					<orgName type="full">Swedish Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Masaryk University Press</publisher>
+				<availability status="unknown"><p>Copyright Masaryk University Press</p>
+				</availability>
+				<date type="published" when="2016-10-01">2016-10-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nejra</forename><surname>Van Zalk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Örebro University</orgName>
+								<address>
+									<settlement>Örebro</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Social anxiety moderates the links between excessive chatting and compulsive Internet use</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+						<title level="j" type="abbrev">Cyberpsychology</title>
+						<idno type="eISSN">1802-7962</idno>
+						<imprint>
+							<publisher>Masaryk University Press</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<date type="published" when="2016-10-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">4BC4F1D6C03180017C1FDBCEBDF6448D</idno>
+					<idno type="DOI">10.5817/cp2016-3-3</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>social anxiety</term>
+					<term>excessive chatting</term>
+					<term>compulsive Internet use</term>
+					<term>synchronous communication</term>
+					<term>early adolescence</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Excessive online chatting can lead to unwanted consequences such as compulsive Internet use over time. Not all adolescents use chatting for the same purpose, however, and these links may not be as pronounced for socially anxious adolescents as they likely communicate with others online in order to compensate for offline social inadequacies. The current study investigated whether social anxiety moderated the links between excessive chatting and compulsive Internet use over time. Using a sample of 523 early adolescents (269 girls; M age = 14.00) from a 3-wave longitudinal study, the links between excessive chatting and compulsive Internet use were investigated via manifest autoregressive models, and moderating effects of social anxiety were tested via multiple-group comparison procedures. The results showed bidirectional links between excessive chatting and compulsive Internet use from Time 2-Time 3, as excessive chatting predicted more symptoms of compulsive Internet use, whereas compulsive Internet use predicted more excessive chatting -over and above the effects of gender. These links were present for adolescents low on social anxiety, but they were largely missing for highly socially anxious adolescents. Thus, social anxiety may have protective effects for early adolescents who spend too much time chatting online, as it may help reduce the risk of developing symptoms of compulsive Internet use.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The Internet has become a hugely important communication tool for early adolescents, and a growing literature indicates that young people spend much time online devoted to social interactions <ref type="bibr" target="#b31">(O'Keeffe &amp; Clarke-Pearson, 2011)</ref>. Online communication, defined as the frequency, intensity, and rate with which adolescents use the Internet for communicating with others, seems highly important in adolescents' everyday social lives, and they use it to form new as well as to maintain current relationships <ref type="bibr" target="#b42">(Subrahmanyam, Smahel, &amp; Greenfield, 2006;</ref><ref type="bibr">Valkenburg &amp; Peter, 2007;</ref><ref type="bibr" target="#b51">Wolak, Mitchell, &amp; Finkelhor, 2003)</ref>. Online communication is a multidimensional concept, however, and one way of understanding it is distinguishing between communication that may or may not require an immediate response, regardless of platform. Sending instant messages via for example WhatsApp, e-mailing, or texting via phone are forms of non-synchronous communication <ref type="bibr" target="#b41">(Subrahmanyam &amp; Greenfield, 2008)</ref>, which don't necessarily require instantaneous replies. Even though these are nonsynchronous means of communicating, however, not everyone follows such dominant patterns of use, and some people use e-mail to communicate directly. Nevertheless, adolescents usually use texting and instant messaging to communicate with their existing friends and family <ref type="bibr" target="#b41">(Subrahmanyam &amp; Greenfield, 2008)</ref>. Chatting using IRC messaging, chat rooms, or while playing Massively Multiplayer Online computer Games (MMOG), however, is a synchronous form of online communication that is usually assumed to generate instant replies by those one is chatting with <ref type="bibr" target="#b41">(Subrahmanyam &amp; Greenfield, 2008)</ref>. Often, this type of communication is done with friends one does not know in real life, referred to as strangers <ref type="bibr" target="#b41">(Subrahmanyam &amp; Greenfield, 2008)</ref>. This latter form of communication is the focus of the current paper.</p><p>Preferring online chatting rather than communicating with others face-to-face has been linked to symptoms of addictive behavior referred to as Internet addiction <ref type="bibr" target="#b36">(Shaw &amp; Black, 2008;</ref><ref type="bibr" target="#b53">Young, 1998)</ref>. As such, the term is similar to concepts such as Internet dependence <ref type="bibr" target="#b50">(Wang, 2001)</ref>, pathological Internet use <ref type="bibr" target="#b12">(Davis, 2001)</ref>, problematic Internet use <ref type="bibr" target="#b5">(Caplan, 2002;</ref><ref type="bibr" target="#b29">Morahan-Martin &amp; Schumacher, 2000)</ref>, and compulsive Internet use <ref type="bibr" target="#b27">(Meerkerk, Van Den Eijnden, Vermulst, &amp; Garretsen, 2009)</ref>. There are many different definitions of Internet addiction, with some debate as to whether the term involves pathological use of computers in general or merely the use of the Internet per se <ref type="bibr" target="#b36">(Shaw &amp; Black, 2008)</ref>. It has been proposed that Internet addiction should be classified similarly to pathological gambling <ref type="bibr" target="#b53">(Young, 1998)</ref>. Furthermore, recent evidence suggests that Internet addiction may be separated into generalized addiction, focused on behaviors and cognitions related to excessive Internet use in general, and specific addiction, focused on online gaming, shopping, social networks and pornography <ref type="bibr" target="#b28">(Montag et al., 2015)</ref>. Even though these are separate constructs, however, a strong link has been found between generalized Internet addiction and social network addiction <ref type="bibr" target="#b28">(Montag et al., 2015)</ref>. Nevertheless, the concept of Internet addiction has received criticism, as some scholars question whether it can be likened to symptoms and behaviors of a chemical addiction, such as physical withdrawal <ref type="bibr" target="#b2">(Beard &amp; Wolf, 2001)</ref>. Seeing as Internet addiction is not yet part of the DSM, scholars suggest using terms associated with problematic or maladaptive Internet use instead <ref type="bibr" target="#b2">(Beard &amp; Wolf, 2001)</ref>. In this paper, the term compulsive Internet use will be used throughout. Compulsive Internet use has been defined as experiences of discomfort when the Internet is unavailable, continued use of the Internet despite wanting to cut down or stop, using the Internet to avoid unpleasant feelings, allowing Internet use to dominate one's behaviors and cognitions, and resulting in conflicts with others or the self <ref type="bibr" target="#b27">(Meerkerk et al., 2009)</ref>. Compulsive Internet use has been linked to various poor psychosocial outcomes such as depressive symptoms and loneliness (e.g., <ref type="bibr" target="#b6">Caplan, 2003;</ref><ref type="bibr" target="#b8">Casale &amp; Fioravanti, 2011;</ref><ref type="bibr" target="#b47">van der Aa et al., 2009)</ref>. As such, it is a suitable framework when examining problematic use of the Internet without categorizing or diagnosing participants.</p><p>Excessive chatting is considered one important contributor to developing compulsive Internet use <ref type="bibr" target="#b6">(Caplan, 2003;</ref><ref type="bibr" target="#b10">Chou &amp; Hsiao, 2000)</ref>. Individuals who spend a lot of time chatting online may start to miss their online interactions when they are not online, which may lead to even more excessive chatting and development of symptoms such as discomfort and anxiety. Nevertheless, chatting -which is instantaneous but without the pressures of face-to-face contact -can be especially suitable for individuals who struggle with social interactions in their everyday lives. The very reasons why chatting is so appealing over face-to-face interactions to some adolescents -such as enhanced controllability of self-presentation and self-disclosure <ref type="bibr" target="#b34">(Schouten, Valkenburg, &amp; Peter, 2007;</ref><ref type="bibr" target="#b45">Valkenburg &amp; Peter, 2009)</ref> -is particularly important for adolescents who are socially anxious. Nonclinical social anxiety is categorized by social fears, excessive discomfort, negative rumination, and somatic symptoms such as trembling, blushing and sweating before, during, and after social interactions <ref type="bibr" target="#b19">(Heiser, Turner, Beidel, &amp; Roberson-Nay, 2009)</ref>. Adolescents who are socially anxious tend to be less accepted and victimized by peers <ref type="bibr" target="#b13">(Erath, Flanagan, Bierman, &amp; Tu, 2010;</ref><ref type="bibr" target="#b15">Flanagan, Erath, &amp; Bierman, 2008;</ref><ref type="bibr" target="#b22">La Greca &amp; Lopez, 1998;</ref><ref type="bibr" target="#b21">La Greca &amp; Harrison, 2005;</ref><ref type="bibr" target="#b37">Siegel, La Greca, &amp; Harrison, 2009;</ref><ref type="bibr" target="#b40">Storch, Brassard, &amp; Masia-Warner, 2003)</ref>, have poor relationships with parents <ref type="bibr">(Van Zalk &amp; Kerr, 2011)</ref> and romantic partners <ref type="bibr" target="#b18">(Hebert, Fales, Nangle, Papadakis, &amp; Grover, 2013)</ref>, and are often lonely <ref type="bibr" target="#b39">(Stoeckli, 2010)</ref>. For socially anxious adolescents, online chatting may be a viable alternative to an unsatisfactory or maybe even non-existing social life offline. Seeing as they likely have fewer offline social engagements, the effects of excessive chatting may therefore not be as negative for socially anxious adolescents compared to those with less social anxiety.</p><p>According to the social compensation hypothesis, socially anxious adolescents might use the Internet to communicate with others to their advantage because forming relationships with peers is more difficult in person compared to online <ref type="bibr" target="#b33">(Schneider &amp; Amichai-Hamburger, 2010)</ref>. Socially anxious adolescents are believed to be drawn to the Internet to compensate for their anxiety during offline social interactions <ref type="bibr" target="#b1">(Amichai-Hamburger, Wainapel, &amp; Fox, 2002)</ref>. Indeed, studies show that socially anxious individuals might chat to enhance their social lives, as they find it easier to acquire friends and build social networks that way <ref type="bibr" target="#b24">(Lee &amp; Stapinski, 2012;</ref><ref type="bibr" target="#b33">Schneider &amp; Amichai-Hamburger, 2010)</ref>. In contrast, scholars have suggested that preferring online to offline communication may be especially important for the development of problematic Internet use <ref type="bibr" target="#b6">(Caplan, 2003)</ref>.</p><p>Individuals who are depressed or lonely may develop strong online social interactions as a substitute to spending time with others offline, which may lead to spending too much time online and in turn create problems in everyday life <ref type="bibr" target="#b6">(Caplan, 2003)</ref>. Some support exists for this notion, as social anxiety was a confounding variable in the direct link between loneliness and preference for online social interaction <ref type="bibr" target="#b7">(Caplan, 2007)</ref>. Nevertheless, the focus was on a preference to spend time online, which is distinctive from individuals' actual behaviors -in this case excessive chatting. In addition, these results are based on cross-sectional data, thus precluding the tests of processes over time. Even though socially anxious adolescents may run the risk of chatting too much, the negative consequences may be counteracted by positive effects of connecting with peers and practicing social skills, which socially anxious adolescents are likely to miss out on in everyday life. Indeed, social anxiety is linked to poor social skills and failure during everyday social interactions (e.g., <ref type="bibr" target="#b11">Creed &amp; Funder, 1998;</ref><ref type="bibr" target="#b38">Stednitz &amp; Epkins, 2006)</ref>. Spending time with others enhances social skills, but as socially anxious individuals tend to avoid social interactions <ref type="bibr" target="#b11">(Creed &amp; Funder, 1998)</ref>, they may miss out on these opportunities offline. For socially anxious adolescents, then, mere exposure to social interactions may be sufficient to combat the potentially harmful outcomes of excessive chatting. So far, no studies have investigated whether social anxiety moderates the links between excessive chatting and compulsive Internet use. The majority of the studies in the current literature focus either on the direct links between social anxiety and chatting on the one hand, or social anxiety and compulsive Internet use on the other hand. For example, high levels of social anxiety have been associated with a tendency for compulsive Internet use <ref type="bibr" target="#b9">(Chak &amp; Leung, 2004;</ref><ref type="bibr" target="#b24">Lee &amp; Stapinski, 2012)</ref>. In addition, social anxiety has been found to predict excessive chatting <ref type="bibr" target="#b6">(Caplan, 2003;</ref><ref type="bibr" target="#b9">Chak &amp; Leung, 2004)</ref> as well as problematic Internet use such as viewing sexually explicit material or gambling online <ref type="bibr" target="#b7">(Caplan, 2007)</ref>. The majority of these studies are cross-sectional, however, making it difficult to disentangle direction of effects. In addition, studies focusing on whether chatting can compensate for socially anxious adolescents' lack of offline interactions show disparate results. To date, two studies in the current literature support the social compensation hypothesis for social anxiety <ref type="bibr" target="#b1">(Amichai-Hamburger et al., 2002;</ref><ref type="bibr">Valkenburg &amp; Peter, 2007)</ref>, whereas two studies have found no support for this hypothesis <ref type="bibr" target="#b0">(Amichai-Hamburger &amp; Ben-Artzi, 2003;</ref><ref type="bibr" target="#b32">Scealy, Phillips, &amp; Stevenson, 2002)</ref>. Whether social anxiety moderates the links between chatting and compulsive Internet use is therefore yet to be thoroughly tested.</p><p>This study aims to examine whether social anxiety moderates the links between excessive chatting and compulsive Internet use for Swedish early adolescents. Recent Swedish survey data indicates that 90% of early adolescents between 12 and 15 years use the Internet daily, with boys spending around 19.1 hours and girls 14.2 hours online every week <ref type="bibr" target="#b14">(Findahl, 2012)</ref>, making early adolescents a particular group of interest. Thus, the main research question for this study is: Does social anxiety moderate the links between excessive chatting and compulsive Internet use in early adolescence?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Sample</head><p>Participants were 7 th -9</p><p>th -graders (roughly aged 13 to 15) from a medium-sized town in Sweden (with a population of about 130,000). The data are from a three-wave longitudinal project focusing on the role of online and offline friendships in early adolescent emotional adjustment. Information about adolescents' online habits, emotional adjustment, and their online and offline social networks was collected. The first data collection took place in September 2010 (Time 1), followed by a second measurement in May 2011 (Time 2) and a final measurement in January 2012 (Time 3). Thus, the lags between adjacent measurement points were approximately 8 months.</p><p>The target participants were 124 7 th -graders (n = 42), 8 th -graders (n = 40), and 9 th -graders (n = 42) from one junior high school (61 girls and 63 boys, M age = 13.27), which was chosen based on its representativeness in terms of SES. Approximately 12.1% of all participants in the school were ethnic minorities at the onset of the study, which was slightly lower compared to 14.7% in the entire country, according to official reports <ref type="bibr">(Statistical Yearbook of Sweden, 2013)</ref>. The unemployment rate (6%) and the proportion of single-parent households in the community (5.1%) were similar to the rest of the country (Statistical Yearbook of Sweden, 2013). Mean incomes were about 5% lower compared to the rest of Sweden (Statistical Yearbook of Sweden, 2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>In order to minimize interfering with the adolescents' schoolwork, the measures were collected in two ways: using in-school using in-school Paper And Pencil Interviewing (PAPI; only at Time 1) and out-of-school Computer Assisted Web Interviewing (CAWI; collected at all timepoints). For the in-school data collection, trained research assistants visited the adolescents in their classrooms during school time. The adolescents were informed about the types of questions they would answer, and the time it would take to finish the questionnaires. They were also informed that their participation was voluntary, and that if they chose not to participate, they could do something else instead. They were guaranteed that if they did participate in the study, their answers would never be shown to anyone. The teachers were not present during the in-school data collection. During the PAPI, the adolescents provided their e-mail address. They were then sent a link to complete the online part of the survey, with a username and password provided. During the CAWI, the adolescents nominated close friends, and if these had not already participated in the study, they were sent an e-mail in which they were invited to take part. The procedure for the friends' data collection was identical to the data collection of the targets, with the exception that all questionnaires were filled out online. In general, 91% of the adolescents participated at all 3 timepoints. No participant was paid for taking part in the study, but all participants received 2 gift cards for cinema tickets.</p><p>Parents were informed about the study through a meeting at the school prior to the commencement of the data collection. They were sent a pre-paid post card along with additional information about the study to return if they did not want their child to participate (only 2% of the parents did so). The parents were informed that they could withdraw their child from the study at any time. The Regional Ethics Committee approved all the procedures and measures used in the study. The final sample comprised 523 adolescents (51% girls; M age = 14.00).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Social anxiety. Social anxiety was measured with questions about fears in different social situations <ref type="bibr" target="#b17">(Gren-Landell et al., 2009)</ref>. This instrument is a modified version of the Social Phobia Screening Questionnaire, which was originally created for adults <ref type="bibr" target="#b16">(Furmark et al., 1999)</ref> and adjusted for children and adolescents up to age 18 (the SPSQ-C, or the Social Phobia Screening Questionnaire for Children; <ref type="bibr" target="#b17">Gren-Landell et al., 2009)</ref>. The measure contains 8 questions about fears in social situations that tend to elicit social anxiety, such as "speaking in front of the class," "going to a party," and "being with classmates during breaks." The response items ranged from Strongly disagree (1), Uncharacteristic (2), Neutral (3), Characteristic (4), to Strongly agree (5). As the moderating effects of social anxiety were tested via a split group procedure, this measure was only used at Time 1 (Cronbach's alpha = .72). Adolescents with a mean score in the top 40% (N = 135) were categorized as highly socially anxious, with the remaining participants categorized as low socially anxious (N = 212). Similar cutoffs have been used in previous research on social fears (e.g., <ref type="bibr" target="#b20">Kerr, Tremblay, Pagani, &amp; Vitaro, 1997;</ref><ref type="bibr" target="#b49">Van Zalk, Kerr, &amp; Tilton-Weaver, 2011)</ref>.</p><p>Excessive chatting. Two items were used to measure how long and how often adolescents chatted with others online. These two items were combined into a composite measure, where high scores indicate excessive chatting. The adolescents received the following instructions: "These questions are about chatting. By chatting we mean being online and sending messages directly to other people who can answer you immediately (like MSN, for example). Chatting can be done via your computer or your mobile phone. Chatting is NOT leaving messages on forums, blogs, e-mailing, texting, or any other way of communication that does not involve instantaneous contact." The first question was "How often do you chat per week?" The response items ranged between None of the days (1), 1 day/week (2), 2 days/week (3), 3 days/week (4), 4 days/week (5), 5 days/week (6), 6 days/week (7), to All days of the week (8). Ninety-two percent, 90%, and 85% of the adolescents reported chatting at least 1 day a week, with 38%, 33%, and 29% of the adolescents chatting online every day at Times 1, 2, and 3, respectively. The second question was "If you chat, how long do you chat each time?" The response items ranged from Never (1), Up to one hour (2), 1-2 hours (3), 2-3 hours (4), 3-4 hours (5), 4-5 hours (6), 5-6 hours (7), to More than 6 hours (8). Only 0.2% of the adolescents reported never chatting (and only at Time 1), 21.1%-23.2% chatted up to 1 hour, 9.3%-14.6% chatted 1-2 hours, 5.7%-9.9% chatted 2-3 hours, 3.2%-7% chatted 3-4 hours, 1.5%-4.4% chatted 5-6 hours, and 1.7%-3.2% chatted for more than 6 hours at a time across the 3 timepoints. The correlations between the 2 items were .48 for Time 1, .54 for Time 2, and .50 for Time 3. The composite measure ranged from 1 to 8 (M T1 = 4.51; M T2 = 4.19, and M T3 =3.79). Combining measures in this manner has been used in previous research on excessive online chatting (e.g., <ref type="bibr" target="#b35">Selfhout, Branje, Delsing, ter Bogt, &amp; Meeus, 2009)</ref>.</p><p>Compulsive Internet use. Symptoms of compulsive use of the Internet were measured as a continuous variable with the revised version of the Compulsive Internet Use Scale (CIUS; van den Eijnden, Spijkerman, Vermulst, <ref type="bibr" target="#b46">van Rooij, &amp; Engels, 2010)</ref>. This scale contains items pertaining to key characteristics of adolescents' compulsive Internet use, and examples of items were "How often do you have difficulties to stop using the Internet when you are online," "How often do you rush through your homework in order to go online," and "How often do you think about the Internet, even when not online?" The response items ranged from Never (1), Seldom (2), Sometimes (3), Often (4) to Very often (5). The Cronbach's alpha reliabilities for this scale were .94 for Time 1, .93 for Time 2, and .94 for Time 3. The variable was normally distributed (skewness ranged from .59 to .86, and kurtosis ranged from -.14 to .40) across the 3 timepoints.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytical Strategy</head><p>The causal links between chatting and compulsive Internet use were investigated via manifest autoregressive models using MPlus 7.0 <ref type="bibr">(Muthén &amp; Muthén, 1998</ref><ref type="bibr" target="#b14">-2012)</ref> and the FIML (Full Information Maximum Likelihood) procedure for all analyses. The FIML procedure makes use of all available data to estimate information about missings in the dataset, thereby providing less biased results than both pairwise and listwise deletion <ref type="bibr" target="#b25">(Little, 2013)</ref>. Autoregressive models allow for the assessment of predictive changes (i.e., increases or decreases) from one time point to another, without prior relationships between the same constructs confounding the results <ref type="bibr" target="#b26">(MacCallum &amp; Austin, 2000)</ref>. As adolescent girls tend to report higher levels of social anxiety compared to boys (e.g., La <ref type="bibr" target="#b22">Greca &amp; Lopez, 1998)</ref>, gender was controlled for in all analyses. The moderating effects of social anxiety were tested by a series of group comparison procedures comparing low socially anxious adolescents to highly socially anxious adolescents.</p><p>For the main model, the following paths were included: (a) stability paths between chatting and compulsive Internet use over time, (b) within-time covariation paths between chatting and compulsive Internet use at each timepoint, (c) cross-lagged paths between chatting and compulsive Internet use from Time 1-Time 2, and Time 2-Time 3, and d) control paths from gender to all variables at all timepoints. To test for moderating effects of social anxiety, adolescents high and low on social anxiety were compared for differences on the main model by means of multiple-group comparison procedures. In the first instance, all of the parameters in the model were constrained to be equal between the 2 groups. After releasing every path in the model and allowing it to differ between the groups, chi-square difference tests were conducted. This guided the retention of the paths that were eventually used in the final model. Paths in the model that were significantly different between the groups were interpreted as moderating effects of social anxiety.</p><p>To evaluate the model fit, the Root Mean Square Error of Approximation or RMSEA <ref type="bibr" target="#b4">(Browne &amp; Cudeck, 1993)</ref> and the Comparative Fit Index or CFI <ref type="bibr" target="#b3">(Bentler, 1990)</ref> were used. RMSEA values of less than .08 represent an acceptable fit, whereas values less than .05 are considered a good fit <ref type="bibr" target="#b4">(Browne &amp; Cudeck, 1993)</ref>. CFI values above .95 are considered acceptable fit, whereas values greater than .97 are considered a good fit <ref type="bibr" target="#b3">(Bentler, 1990)</ref>. The covariance coverage matrix in MPlus calculates the proportion of missing values in the dataset, which yields an estimated percentage of all available observations for each variable used in the analyses <ref type="bibr">(Muthén &amp; Muthén, 1998</ref><ref type="bibr" target="#b14">-2012)</ref>. In the current sample, the participants had between 41-82% of data available across the 3 time points. .046</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptives</head><p>Table <ref type="table" target="#tab_0">1</ref> shows the means for all study variables. As the table indicates, there were no significant differences between adolescents with low versus high social anxiety, apart from excessive chatting at Time 1 and compulsive Internet use at Time 3. At Time 1, those wit low social anxiety had higher mean levels of excessive chatting, but this difference was not present over time. At Time 3, highly socially anxious adolescents had higher levels of compulsive Internet use. Table <ref type="table" target="#tab_1">2</ref> shows the correlations between all study variables across the 3 timepoints. As is shown in the table, Time-1 social anxiety was negatively correlated with Time-1 chatting, but the correlations were not significant for Times 2 and 3. This is in line with previous findings showing no direct links between adolescent social anxiety and chatting <ref type="bibr">(Valkenburg &amp; Peter, 2007)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Links between Excessive Chatting and Compulsive Internet Use</head><p>The main variables of interest -excessive chatting and compulsive Internet use -were tested in a manifest autoregressive path model in MPlus. This model had an acceptable fit (χ 2 = 13.36; df = 4; p &lt; .001; RMSEA = .07; CFI = .98) and is depicted in Figure <ref type="figure" target="#fig_0">1</ref>. Results for all of the standardized paths in the model are shown in Table <ref type="table" target="#tab_2">3</ref>.</p><p>As Figure <ref type="figure" target="#fig_0">1</ref> shows, there were bidirectional links between chatting and compulsive Internet use, but only from Time 2 to Time 3. Namely, excessive chatting predicted more compulsive Internet use, while compulsive Internet use predicted more excessive chatting across the eight months. There was only one significant link between gender and compulsive Internet use at Time 2, indicating that the link between gender and compulsive Internet use was stronger for girls. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does Social Anxiety Moderate the Links between Excessive Chatting and Compulsive Internet Use in Early</head><p>Adolescence?</p><p>To answer the main research question, the same model was used to compare low socially anxious with highly socially anxious adolescents via group comparisons in MPlus. As a first step, all of the parameters in the model were constrained to be equal across the 2 groups. This fully constrained initial model (χ 2 = 49.70; df = 25; p &lt; .001; RMSEA = .08; CFI = .94) was used as a reference point for further testing. Testing for differences between the two groups on the indirect paths was done in a number of steps using chi-square difference tests. Releasing paths one by one in the model and then testing for a significant change in the chi-square guided the retention of paths finally used in a best-fitting model. All paths in the model were tested for differences. If a path did not increase the model fit, this was interpreted as lack of moderating effects. This procedure led to a final model (χ 2 = 32.02; df = 21; p &lt; .05; RMSEA = .06; CFI = .97), which indicated some differences between low and highly socially anxious early adolescents. All of the paths for the 2 groups are shown in Table <ref type="table" target="#tab_2">3</ref>, and depicted in Figure <ref type="figure" target="#fig_2">2</ref>.</p><p>As the figure shows, the bidirectional effects between excessive chatting and compulsive Internet use from Time 2 to Time 3 were still present in the low socially anxious group, including an addition of a path between Time-1 compulsive Internet use predicting Time-2 excessive chatting. For low socially anxious adolescents, it seems, excessive chatting with others predicts compulsive Internet use across both timepoints. For highly socially anxious adolescents, however, the only link remaining was Time-2 compulsive Internet use predicting Time-3 excessive chatting. These results indicate that the links between excessive chatting and compulsive Internet use in early adolescence are largely absent for adolescents with high levels of social anxiety, and that compulsive Internet use is the driving force for excessive chatting and not vice versa.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>A growing body of research indicates that adolescents consider online communication to be a central part of their everyday social lives, and it is used both to acquire new as well as to retain current social relationships <ref type="bibr" target="#b42">(Subrahmanyam et al., 2006;</ref><ref type="bibr">Valkenburg &amp; Peter, 2007;</ref><ref type="bibr" target="#b51">Wolak et al., 2003)</ref>. The social compensation hypothesis states that some people communicate online because establishing relationships with others is more difficult face-to-face compared to online, due to for example greater anonymity or less perceived social risk <ref type="bibr" target="#b33">(Schneider &amp; Amichai-Hamburger, 2010)</ref>. According to this view, people who see themselves as socially incompetent seek out online interactions in order to compensate for a lack of offline social networks. Nonetheless, a body of literature has found links between excessive chatting and development of negative consequences such as symptoms of compulsive Internet use <ref type="bibr" target="#b23">(LaRose, Eastin, &amp; Gregg, 2001;</ref><ref type="bibr" target="#b43">Sun et al., 2005;</ref><ref type="bibr">van den Eijnden, Meerkerk, Vermulst, Spijkerman, &amp; Engels, 2008;</ref><ref type="bibr" target="#b52">Ybarra, Alexander, &amp; Mitchell, 2005)</ref>. The results from the current study, which focused on immediate (or synchronous) online communication, indicate that behavioral characteristics may also play a role, as social anxiety moderated the links between excessive chatting and compulsive Internet useregardless of gender. The current results are thus in line with other studies that support the social compensation hypothesis for social anxiety <ref type="bibr" target="#b1">(Amichai-Hamburger et al., 2002;</ref><ref type="bibr">Valkenburg &amp; Peter, 2007)</ref>. Because social anxiety is linked to failure during daily social interactions (e.g., <ref type="bibr" target="#b11">Creed &amp; Funder, 1998;</ref><ref type="bibr" target="#b38">Stednitz &amp; Epkins, 2006)</ref>, mere exposure to others online may be sufficient to combat the effects of excessive chatting by instead boosting highly socially anxious adolescents' social skills.</p><p>The current results may be interpreted in alternative ways. The path between compulsive Internet use and excessive chatting was not significant for the highly socially anxious group compared to adolescents low on social anxiety, which may imply no association rather than a negative association between the two constructs. Indeed, compulsive Internet use may be the driving force toward excessive chatting for highly socially anxious adolescents, but not vice versa -as bidirectional effects were found only for adolescents low on social anxiety. Seen in that light, social anxiety may not be a protective or dampening factor per se, but compulsive Internet use may rather be unrelated to excessive chatting in the highly socially anxious group. Nevertheless, this does not preclude the support of the social compensation hypothesis, as it still confirms the notion that too much chatting does not seem to have as negative consequences as it does for adolescents low on social anxiety, such as increasing in compulsive Internet use over time. Rather, these results may be an indication that socially anxious adolescents, once they do spend too much time on the Internet, may instead engage in more excessive chatting over time.</p><p>It is important to note that the current results may be specific to the time when the measures were taken (September 2010 and onward). The focus of the chatting measure in the current study was on synchronous communication. The instructions given to the adolescents were that they had to be online and send messages directly to others who would reply straight away, and that this could be done either via their computer or phone. This study has some limitations. One limitation is the sole use of self-reports, which could result in the problem of shared method variance. Nonetheless, as the co-variation paths used in the model remove co-variation between the variables during the modeling procedure, the current results cannot likely be attributed to common variance. Regarding self-reports of social anxiety, research indicates that individuals' themselves may be the best raters of their own social fears <ref type="bibr" target="#b54">(Zimbardo, 1977)</ref>. In addition, using a 60/40 group split to test for differences between high and low socially anxious individuals is not ideal, yet it is a technique that has been employed in several other studies on social fears (e.g., <ref type="bibr" target="#b20">Kerr et al., 1997;</ref><ref type="bibr">Van Zalk et al., 2011)</ref>. Another limitation was the measure of chatting length. A participant who reported chatting for 2 hours could have either gotten a score of 3 or 4 (1-2 hours versus 2-3 hours), and the same principle applies for participants reporting 3, 4, or 5 hours of chatting. Future studies should ask the participants their exact chatting time. In addition, the only available concept of problematic Internet use concerns compulsive Internet use. Although compulsive Internet use is related to other concepts such as Internet dependence <ref type="bibr" target="#b50">(Wang, 2001)</ref>, pathological Internet use <ref type="bibr" target="#b12">(Davis, 2001)</ref>, and problematic Internet use <ref type="bibr" target="#b5">(Caplan, 2002;</ref><ref type="bibr" target="#b29">Morahan-Martin &amp; Schumacher, 2000)</ref>, it may not be entirely reflective of how spending too much time online may function for highly socially anxious adolescents. Perhaps using a construct such as generalized Internet addiction, which has been strongly linked to social network addiction <ref type="bibr" target="#b28">(Montag et al., 2015)</ref>, may be more relevant for adolescents who lack social networks offline -such as adolescents with social anxiety. A different measure focusing on other levels of compulsivity may thus have been better at detecting group differences between those who were high and low on social anxiety.</p><p>Despite these limitations, however, the current study has several strengths. The study has relied on a 3-wave longitudinal sample of early adolescents followed over time. In addition, the analyses have been conducted using autoregressive models, which have allowed for investigating bidirectional processes among all study variables. Also, the sample used is representative of early adolescents living in a middle-sized community in Sweden. Finally, given its unique design using a mix of online and offline questionnaires, the high participation and low attrition rates are notable strengths of the study. As such, therefore, the current findings provide muchneeded information about some of the processes behind online chatting and its links to young people's wellbeing.</p><p>Considering the advent of smart phones with an array of applications allowing adolescents to communicate with one another freely, the endless twiddling with phones has become a cultural norm in many parts of the world. What effect this constant online connectivity may have for young people's development is a highly complex issue with no simple answers. One important consequence of excessive chatting seems to be compulsive Internet use, which in turn is associated with depressive symptoms and loneliness <ref type="bibr" target="#b6">(Caplan, 2003;</ref><ref type="bibr" target="#b8">Casale &amp; Fioravanti, 2011;</ref><ref type="bibr" target="#b47">van der Aa et al., 2009)</ref>. Thus, even though early adolescents may be constantly connected with others, it is not certain that they will be less lonely or feel better as a result. The findings from the current study indicate that adolescents' behavioral characteristics may have effects on potential consequences of excessive chatting, however. Social anxiety may dampen the effects of excessive chatting on compulsive Internet use; and despite its other negative effects, therefore, may shield adolescents from unfavorable consequences associated with too much chatting. Perhaps parents and other concerned adults who are worried about how socially anxious adolescents will turn out would be reassured by the notion that social anxiety may in fact reduce the effects of compulsive behaviors connected to an excessive use of the Internet as a communication tool -at least during early adolescence.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Links between excessive chatting and compulsive Internet use at the 3 timepoints, controlling for gender. For the sake of clarity, non-significant paths are dashed and non-significant betas are omitted from the figure. *p &lt; .05, **p &lt; .01. ***p &lt; .001.</figDesc><graphic coords="7,35.45,76.69,524.46,277.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>p &lt; .05. **p &lt; .01. ***p &lt; .001. a Indicates significant differences between groups. CIU = Compulsive Internet use. SA = Social anxiety.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Group comparisons between adolescents with low and high social anxiety, controlling for gender. For the sake of clarity, only significant paths are shown in the figure. *p &lt; .05, **p &lt; .01. ***p &lt; .001.</figDesc><graphic coords="8,35.45,511.50,524.47,223.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Means and Standard Deviations for Main Study Variables with Independent Sample t-Tests ComparingAdolescents with Low and High Social Anxiety.</figDesc><table><row><cell>Measure</cell><cell>M (SD)</cell><cell>M (SD)</cell><cell>t (df)</cell><cell>p</cell></row><row><cell></cell><cell>Low Social</cell><cell>High Social</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Anxiety</cell><cell>Anxiety</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(N = 212)</cell><cell>(N = 135)</cell><cell></cell><cell></cell></row><row><cell>Social Anxiety T1</cell><cell>1.18 (0.14)</cell><cell>1.69 (0.19)</cell><cell>-30.34 (393)</cell><cell>&lt;.001</cell></row><row><cell>Excessive Chatting T1</cell><cell>4.62 (1.87)</cell><cell>4.17 (1.97)</cell><cell>2.06 (308)</cell><cell>.040</cell></row><row><cell>Excessive Chatting T2</cell><cell>4.26 (1.95)</cell><cell>3.84 (1.99)</cell><cell>1.61 (233)</cell><cell>.109</cell></row><row><cell>Excessive Chatting T3</cell><cell>3.64 (1.94)</cell><cell>3.61 (2.06)</cell><cell>.10 (198)</cell><cell>.923</cell></row><row><cell>Compulsive Internet Use T1</cell><cell>1.96 (0.89)</cell><cell>2.13 (0.84)</cell><cell>-1.67 (307)</cell><cell>.096</cell></row><row><cell>Compulsive Internet Use T2</cell><cell>1.98 (0.91)</cell><cell>2.19 (0.77)</cell><cell>-1.83 (233)</cell><cell>.069</cell></row><row><cell>Compulsive Internet Use T3</cell><cell>2.08 (0.93)</cell><cell>2.34 (0.82)</cell><cell>-2.01 (196)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Correlations between All Study Variables.</figDesc><table><row><cell>Measure</cell><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell></row><row><cell>1. SA T1</cell><cell></cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">2. Ex. chatting T1</cell><cell>-.12 *</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">3. Ex. chatting T2</cell><cell>-.10</cell><cell>.54 ***</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">4. Ex. chatting T3</cell><cell>-.01</cell><cell>.37 ***</cell><cell>.48 ***</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>5. CIU T1</cell><cell></cell><cell>.14 *</cell><cell>.39 ***</cell><cell>.26 ***</cell><cell>.20 **</cell><cell>-</cell><cell></cell><cell></cell></row><row><cell>6. CIU T2</cell><cell></cell><cell>.14 *</cell><cell>.32 ***</cell><cell>.42 ***</cell><cell>.32 ***</cell><cell>.61 ***</cell><cell>-</cell><cell></cell></row><row><cell>7. CIU T3</cell><cell></cell><cell>.13</cell><cell>.24 ***</cell><cell>.38 ***</cell><cell>.37 ***</cell><cell>.45 ***</cell><cell>.56 ***</cell><cell>-</cell></row><row><cell>8. Gender</cell><cell>a</cell><cell>-.36 ***</cell><cell>.02</cell><cell>-.08</cell><cell>.01</cell><cell>-.16 **</cell><cell>-.22 ***</cell><cell>-.08</cell></row><row><cell cols="3">Note. *p &lt; .05. **p &lt; .01. ***p &lt; .001.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">Ex. chatting = Excessive chatting. SA = Social anxiety. CIU = Compulsive Internet use.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">a 1 = girls; 2 = boys.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Standardized Results for the Main Model and Comparisons between Social Anxiety Groups.</figDesc><table><row><cell>Measures</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>This type of instant communication was differentiated from leaving messages on forums or blogs, e-mailing, texting, or other types of non-synchronous communication. Today, applications such as Facebook Messenger allow for both synchronous as well as non-synchronous communication, and individuals likely use them differently with different people. Yet the distinction between communicating synchronously versus nonsynchronously remains the same. That is, immediate communication mirrors talking to a friend in real life, because the individuals are interacting instantly and speedily. For this reason, the processes at work in the current study are likely similar for synchronous online communication today. Future research should focus on what the effects of other types of synchronous online communication may be for socially anxious individuals in particular.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2007-2016 Cyberpsychology: Journal of Psychosocial Research on Cyberspace | ISSN: 1802-7962 Faculty of Social Studies, Masaryk University | Contact | Editor: David Smahel</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgement</head><p>Work on this manuscript was funded by a grant from the <rs type="funder">Swedish Research Council for Health, Working Life and Welfare</rs> to <rs type="person">Nejra Van Zalk</rs>. The "<rs type="programName">Young Online</rs>" study was funded by a grant to <rs type="person">Margaret Kerr</rs> and <rs type="person">Maarten Van Zalk</rs> from the <rs type="funder">Swedish Research Council</rs>. I gratefully acknowledge the support of pupils, teachers, parents, and principals who participated in the "<rs type="programName">Young Online</rs>" study. I am thankful to <rs type="person">Maarten Van Zalk</rs> for his comments on an earlier draft of this study.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_43gCsD2">
+					<orgName type="program" subtype="full">Young Online</orgName>
+				</org>
+				<org type="funding" xml:id="_JSFSn5h">
+					<orgName type="program" subtype="full">Young Online</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Loneliness and Internet use</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Amichai-Hamburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ben-Artzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0747-5632%2802%2900014-6</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0747-5632(02)00014-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="80" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">On the Internet no one knows I&apos;m an introvert&quot;: Extroversion, neuroticism, and Internet interaction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Amichai-Hamburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wainapel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fox</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/109493102753770507</idno>
+		<ptr target="http://dx.doi.org/10.1089/109493102753770507" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="125" to="129" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Modification in the proposed diagnostic criteria for Internet addiction</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Beard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Wolf</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/109493101300210286</idno>
+		<ptr target="http://dx.doi.org/10.1089/109493101300210286" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="377" to="383" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Comparative fit indexes in structural models</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.107.2.238</idno>
+		<ptr target="http://dx.doi.org/10.1037//0033-2909.107.2.238" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="238" to="246" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Alternative ways of assessing model fit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cudeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testing structural equation models</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Long</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="136" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Problematic Internet use and psychosocial well-being: Development of a theory-based cognitive-behavioral measurement instrument</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Caplan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0747-5632%2802%2900004-3</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0747-5632(02)00004-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="553" to="575" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Preference for online social interaction: A theory of problematic Internet use and psychosocial well-being</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Caplan</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650203257842</idno>
+		<ptr target="http://dx.doi.org/10.1177/0093650203257842" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="625" to="648" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Relations among loneliness, social anxiety, and problematic Internet use</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Caplan</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2006.9963</idno>
+		<ptr target="http://dx.doi.org/10.1089/cpb.2006.9963" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="234" to="242" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Psychosocial correlates of Internet use among Italian students</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Casale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fioravanti</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00207594.2010.541256</idno>
+		<ptr target="http://dx.doi.org/10.1080/00207594.2010.541256" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="288" to="298" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Shyness and locus of control as predictors of Internet addiction and Internet use</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2004.7.559</idno>
+		<ptr target="http://dx.doi.org/10.1089/cpb.2004.7.559" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="559" to="570" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Internet addiction, usage, gratification, and pleasure experience: The Taiwan college students&apos; case</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-C</forename><surname>Hsiao</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0360-1315%2800%2900019-1</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0360-1315(00)00019-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Education</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="65" to="80" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Social anxiety: From the inside and outside</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Creed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Funder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0191-8869%2898%2900037-3</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0191-8869(98)00037-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="19" to="33" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A cognitive-behavioral model of pathological Internet use</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0747-5632%2800%2900041-8</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0747-5632(00)00041-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="187" to="195" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Friendships moderate psychosocial maladjustment in socially anxious early adolescents</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Erath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Flanagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Bierman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="15" to="26" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Swedes and the Internet. The Internet Infrastructure Foundation</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Findahl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>World Internet Institute</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Unique associations between peer relations and social anxiety in early adolescence</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Flanagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Erath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Bierman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15374410802359700</idno>
+		<ptr target="http://dx.doi.org/10.1080/15374410802359700" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Child and Adolescent Psychology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="759" to="769" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Social phobia in the general population: Prevalence and sociodemographic profile</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Furmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tillfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Everz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Marteinsdottir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gefvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fredrikson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s001270050163</idno>
+		<ptr target="http://dx.doi.org/10.1007/s001270050163" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychiatry and Psychiatric Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="416" to="424" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Social phobia in Swedish adolescents</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gren-Landell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tillfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Furmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bohlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Svedin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00127-008-0400-7</idno>
+		<ptr target="http://dx.doi.org/10.1007/s00127-008-0400-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychiatry and Psychiatric Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Linking social anxiety and adolescent romantic relationship functioning: Indirect effects and the importance of peers</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Nangle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Papadakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Grover</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-012-9878-0</idno>
+		<ptr target="http://dx.doi.org/10.1007/s10964-012-9878-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1708" to="1720" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Differentiating social phobia from shyness</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Heiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Beidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Roberson-Nay</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.janxdis.2008.10.002</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.janxdis.2008.10.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Anxiety Disorders</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="469" to="476" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Boy&apos;s behavioral inhibition and the risk of later delinquency</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Tremblay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pagani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vitaro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of General Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="809" to="816" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Adolescent peer relations, friendships, and romantic relationships: Do they predict social anxiety and depression</title>
+		<author>
+			<persName><forename type="first">La</forename><surname>Greca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename></persName>
+		</author>
+		<ptr target="http://dx.doi.org/0.1207/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Child and Adolescent Psychology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="15374424" to="15373401" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Social anxiety among adolescents: Linkages with peer relations and friendships</title>
+		<author>
+			<persName><forename type="first">La</forename><surname>Greca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1022684520514</idno>
+		<ptr target="http://dx.doi.org/10.1023/A:1022684520514" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="83" to="94" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Reformulating the Internet paradox: Social cognitive explanations of Internet use and depression</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Eastin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Online Behavior</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Seeking safety on the Internet: Relationship between social anxiety and problematic Internet use</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Stapinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.janxdis.2011.11.001</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.janxdis.2011.11.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Anxiety Disorders</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="197" to="205" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Longitudinal structural equation modeling: Methodology in the social sciences</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Little</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>The Guilford Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Applications of structural equation modeling in psychological research</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Maccallum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Austin</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.psych.51.1.201</idno>
+		<ptr target="http://dx.doi.org/10.1146/annurev.psych.51.1.201" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="201" to="226" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Compulsive Internet Use Scale (CIUS): Some psychometric properties</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Meerkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Van Den Eijnden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Vermulst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Garretsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2008.0181</idno>
+		<ptr target="http://dx.doi.org/10.1089/cpb.2008.0181" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology and Behavior</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Is it meaningful to distinguish between generalized and specific Internet addiction? Evidence from a cross-cultural study from Germany, Sweden, Taiwan and China</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Reuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/appy.12122</idno>
+		<ptr target="http://dx.doi.org/10.1111/appy.12122" />
+	</analytic>
+	<monogr>
+		<title level="j">Asia-Pacific Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="20" to="26" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Incidence and correlates of pathological Internet use among college students</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Morahan-Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schumacher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0747-5632%2899%2900049-7</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0747-5632(99)00049-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="13" to="29" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthén</surname></persName>
+		</author>
+		<title level="m">Mplus user&apos;s guide</title>
+		<meeting><address><addrLine>Los Angeles, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Muthén &amp; Muthén</publisher>
+			<date type="published" when="1998">1998-2012</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The impact of social media on children, adolescents, and families</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>O'keeffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke-Pearson</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2011-0054</idno>
+		<ptr target="http://dx.doi.org/10.1542/peds.2011-0054" />
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="800" to="804" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Shyness and anxiety as predictors of patterns of Internet usage</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scealy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stevenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/109493102321018141</idno>
+		<ptr target="http://dx.doi.org/10.1089/109493102321018141" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="507" to="515" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Electronic communication: Escape mechanism or relationshipbuilding tool for shy, withdrawn children and adolescents</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Amichai-Hamburger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The development of shyness and social withdrawal</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Rubin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Coplan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Guilford Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="223" to="248" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Precursors and underlying processes of adolescents&apos; online self-disclosure: Developing and testing an &quot;Internet-Attribute-Perception&quot; model</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Schouten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213260701375686</idno>
+		<ptr target="http://dx.doi.org/10.1080/15213260701375686" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="292" to="315" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Different types of Internet use, depression, and social anxiety: The role of perceived friendship quality</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Selfhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Branje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Delsing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Ter Bogt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Meeus</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2008.10.011</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.adolescence.2008.10.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="819" to="833" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Internet addiction: Definition, assessment, epidemiology and clinical management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Black</surname></persName>
+		</author>
+		<ptr target="http://dx.doi.org/1172-7047/08/0005-0353/$48.00/0" />
+	</analytic>
+	<monogr>
+		<title level="j">CNS Drugs</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="353" to="365" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Peer victimization and social anxiety in adolescents: Prospective and reciprocal relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>La Greca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1096" to="1109" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Girls&apos; and mothers&apos; social anxiety, social skills, and loneliness: Associations after accounting for depressive symptoms</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Stednitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Epkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15374424jccp3501_13</idno>
+		<ptr target="http://dx.doi.org/10.1207/s15374424jccp3501_13" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Child and Adolescent Psychology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="148" to="154" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The role of individual and social factors in classroom loneliness</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoeckli</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220670903231169</idno>
+		<ptr target="http://dx.doi.org/10.1080/00220670903231169" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Educational Research</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="28" to="39" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The relationship of peer victimization to social anxiety and loneliness in adolescence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Storch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Brassard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Masia-Warner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Study Journal</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Online communication and adolescent relationships</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Greenfield</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/foc.0.0006</idno>
+		<ptr target="http://dx.doi.org/10.1353/foc.0.0006" />
+	</analytic>
+	<monogr>
+		<title level="j">The Future of Children</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="119" to="146" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Connecting developmental constructions to the internet: Identity presentation and sexual exploration in online teen chat rooms</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smahel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Greenfield</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0012-1649.42.3.395</idno>
+		<ptr target="http://dx.doi.org/10.1037/0012-1649.42.3.395" />
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="395" to="406" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Internet accessibility and usage among urban adolescents in Southern California: Implications for web-based health research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gallaher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-P</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baezconde-Garbanati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2005.8.441</idno>
+		<ptr target="http://www.scb.se/statistik/_publikationer/OV0904_2013A01_BR_00_A01BR1301.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="441" to="453" />
+			<date type="published" when="2005">2005. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Statistical Yearbook of Sweden</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Preadolescents&apos; and adolescents&apos; online communication and their closeness to friends</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0012-1649.43.2.267</idno>
+		<ptr target="http://dx.doi.org/10.1037/0012-1649.43.2.267" />
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="267" to="277" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Online communication, compulsive Internet use, and psychosocial well-being among adolescents: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Meerkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G.-J</forename><surname>Vermulst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Spijkerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Engels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1037/0012-1649.44.3.655</idno>
+		<ptr target="http://dx.doi.org/10.1037/0012-1649.44.3.655" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="655" to="665" />
+			<date type="published" when="2008">2009. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Developmental Psychology</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Compulsive Internet use among adolescents: Bidirectional parent-child relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Van Den Eijnden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Spijkerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Vermulst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Van Rooij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Engels</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10802-009-9347-8</idno>
+		<ptr target="http://dx.doi.org/10.1007/s10802-009-9347-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="77" to="89" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Daily and compulsive Internet use and well-being in adolescence: A diathesis-stress model based on Big Five personality traits</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Der Aa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Overbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Engels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Scholte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Meerkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Van Den Eijnden</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-008-9298-3</idno>
+		<ptr target="http://dx.doi.org/10.1007/s10964-008-9298-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="765" to="776" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Shy adolescents&apos; perceptions of parents&apos; psychological control and emotional warmth: Examining bidirectional links</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Zalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kerr</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/mpq.2011.0021</idno>
+		<ptr target="http://dx.doi.org/10.1353/mpq.2011.0021" />
+	</analytic>
+	<monogr>
+		<title level="j">Merrill-Palmer Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="375" to="401" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Shyness as a moderator of the link between advanced maturity and early adolescent risk behavior</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Zalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Tilton-Weaver</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9450.2011.00877.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1467-9450.2011.00877.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="341" to="353" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Internet dependency and psychosocial maturity among college students</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E I</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/ijhc.2001.0510</idno>
+		<ptr target="http://dx.doi.org/10.1006/ijhc.2001.0510" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Human-Computer Studies</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="919" to="938" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Escaping or connecting? Characteristics of youth who form close online relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Finkelhor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="105" to="119" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Depressive symptomatology, youth Internet use, and online interactions: A national survey</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2003.10.012</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.jadohealth.2003.10.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="9" to="18" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Internet addiction: The emergence of a new clinical disorder</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.1998.1.237</idno>
+		<ptr target="http://dx.doi.org/10.1089/cpb.1998.1.237" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="237" to="244" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Shyness: What it is, what to do about it</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Zimbardo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>Addison-Wesley</publisher>
+			<pubPlace>Reading, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Correspondence to: Nejra Van Zalk JPS: Psychology Örebro University 701 82 Örebro Sweden Email: nejra.van-zalk. at)oru.se About author</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">is an Associated Researcher at Örebro University in Sweden, and Lecturer in psychology at University of Greenwich, London. Her main research area includes shyness or social anxiety in early adolescence and the effects it has on adolescent social relationships with peers and parents. Other research interests involve the links between adolescents&apos; online and offline problem behaviors</title>
+		<author>
+			<persName><forename type="first">Nejra</forename><surname>Van Zalk ; Phd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">)</forename><surname>Cpsychol</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

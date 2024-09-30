@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Changes in relationship conflict as a mediator of the longitudinal relationship between changes in role ambiguity and turnover intentions</title>
+				<funder>
+					<orgName type="full">Social Sciences and Humanities Research Council</orgName>
+					<orgName type="abbreviated">SSHRC</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Emerald</publisher>
+				<availability status="unknown"><p>Copyright Emerald</p>
+				</availability>
+				<date type="published" when="2015-03-03">03 March 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kevin</forename><surname>Hill</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Resources Management</orgName>
+								<orgName type="institution">HEC Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Denis</forename><surname>Chênevert</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Resources Management</orgName>
+								<orgName type="institution">HEC Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jean</forename><surname>Poitras</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Resources Management</orgName>
+								<orgName type="institution">HEC Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Changes in relationship conflict as a mediator of the longitudinal relationship between changes in role ambiguity and turnover intentions</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Conflict Management</title>
+						<idno type="ISSN">1044-4068</idno>
+						<imprint>
+							<publisher>Emerald</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="44" to="67"/>
+							<date type="published" when="2015-03-03">03 March 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BC62B32E059AB609120388DDD39F869F</idno>
+					<idno type="DOI">10.1108/ijcma-11-2013-0091</idno>
+					<note type="submission">Received 4 November 2013 Revised 11 February 2014 10 April 2014 Accepted 14 April 2014</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Relationship conflict</term>
+					<term>Longitudinal study</term>
+					<term>Turnover intentions</term>
+					<term>Role ambiguity Paper type Research paper</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Purpose -This study aims to clarify the relationship between changes in role ambiguity and turnover intentions. The authors propose that increases in role ambiguity over time can bias employees' interpretations such that they come to view more relationship conflict at work. Because of the importance of social relationships at work, the authors propose that these increases in perceptions of relationship conflict mediate the positive effect of increases in role ambiguity on turnover intentions. Design/methodology/approach -This study is a two-wave longitudinal analysis of survey responses obtained from 146 employees working in the health-care sector over a three-year period. Structural equation modeling of cross-lagged correlations was used to test the hypothesized model. Findings -The positive relationship between increases in role ambiguity and turnover intentions over time is mediated by increases in relationship conflict. Results provide an integrative explanation of the phenomenon, uniting role theory, conflict theory and turnover theory. Research limitations/implications -Measures were all self-reported, and the non-experimental nature of the research design precludes causal interpretations. Future research should incorporate sources of measurement other than the focal employee and include additional variables presumed to operate in explaining these effects. Practical implications -Results highlight the need to monitor changes in employees' role ambiguity beliefs over time. They also point to conflict management interventions as a potential means of reducing turnover intentions among employees who experience role ambiguity increases. Originality/value -The longitudinal examination of changes in these variables yields new insight into the nature of the relationships between role ambiguity, conflict and turnover intentions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>It has long been known that role ambiguity is prevalent in complex organizations with less formally prescribed role descriptions <ref type="bibr" target="#b28">(Jackson and Schuler, 1985;</ref><ref type="bibr" target="#b64">Rizzo et al., 1970;</ref><ref type="bibr" target="#b65">Rogers and Molnar, 1976)</ref>, and numerous studies suggest that its effects are primarily negative (cf. <ref type="bibr" target="#b61">Podsakoff et al., 2007)</ref>. Specifically, meta-analyses have found that role ambiguity correlates negatively with performance <ref type="bibr" target="#b14">(Gilboa et al., 2008;</ref><ref type="bibr" target="#b57">Örtqvist and Wincent, 2006;</ref><ref type="bibr" target="#b80">Tubre and Collins, 2000)</ref>, organizational citizenship behavior <ref type="bibr" target="#b10">(Eatough et al., 2011)</ref>, satisfaction and commitment <ref type="bibr" target="#b28">(Jackson and Schuler, 1985)</ref>. It also correlates positively with tension, absenteeism and turnover intentions <ref type="bibr" target="#b28">(Jackson and Schuler, 1985)</ref>.</p><p>The present study is focused on better understanding the effects of experiencing changes in role ambiguity over time, particularly for the development of turnover intentions. Research that is able to clarify the manner in which turnover intentions develop is of significant interest, as these beliefs are the most effective predictors of the actual decisions to quit <ref type="bibr" target="#b19">(Griffeth et al., 2000)</ref>. For organizations, the costs of turnover are considerable, estimated at between 93 and 200 per cent of a departed employee's annual salary, depending on the specifics of the job in question <ref type="bibr" target="#b0">(Cascio, 2000;</ref><ref type="bibr" target="#b36">Johnson, 1995)</ref>. Aside from this financial effect, the decision to leave a job is also frequently fraught with stress for those involved (cf. <ref type="bibr" target="#b48">Maertz and Kmitta, 2012)</ref>.</p><p>Reviews of the related literature have noted how few longitudinal examinations have been conducted on the effects of role stressors and how the overwhelming dominance of cross-sectional studies in this area have yielded results that are ambiguous as to the nature and direction of effects <ref type="bibr" target="#b28">(Jackson and Schuler, 1985;</ref><ref type="bibr" target="#b66">Rosen et al., 2010;</ref><ref type="bibr" target="#b87">Zapf et al., 1996)</ref>. Moreover, there are few examples of studies specifically examining the effects of changes in role ambiguity over time <ref type="bibr" target="#b83">(Vandenberghe et al., 2011)</ref>, a fact that seems at odds with trends, suggesting that increased role breadth and less formalization are now inherent features of many of today's jobs <ref type="bibr" target="#b16">(Grant and Ashford, 2008;</ref><ref type="bibr" target="#b58">Parker, 2000</ref><ref type="bibr" target="#b59">Parker, , 2007))</ref>.</p><p>More specifically, over the past several decades, in organizations with fewer hierarchical distinctions, more decentralized decision-making, and in those relying on the interdependent efforts of highly skilled professional and technical employees, task boundaries have become more fluid and authority is delegated to lower job levels, with the result being that many employees now assume a greater amount of responsibility for a broader set of tasks <ref type="bibr">(National Research Council, 1999)</ref>. Faced with such trends, organizational researchers must ensure that theoretical models remain relevant and useful in the context of current practices <ref type="bibr" target="#b17">(Grant et al., 2010)</ref>.</p><p>Research on turnover has begun to recognize this new organizational reality, as studies increasingly focus on the impact of job stress, reactions to change and the quality of interpersonal relationships in the workplace <ref type="bibr" target="#b24">(Holtom et al., 2008;</ref><ref type="bibr" target="#b54">Mossholder et al., 2005)</ref>. Holtom et al. also noted that advancements have been made in the tracking of changes in employees' experiences over time as antecedents of turnover. However, despite the importance of these new directions in thinking about the turnover process, the impact of changes in employees' role ambiguity beliefs has not figured prominently within these developments. While elevated levels of job stress have begun to appear in the reasons people provide for having to quit their jobs <ref type="bibr" target="#b48">(Maertz and Kmitta, 2012)</ref>, the specific examination of changes in role ambiguity remains relatively absent from theoretical models of turnover and empirical tests. For all of these reasons, it seems time to extend prior approaches to the study of the effects of role ambiguity to better account for how changes in role ambiguity affect employees' thoughts of quitting over time.</p><p>Aside from studying the variables longitudinally, another way to clarify the relationship between changes in role ambiguity and turnover intentions is through the specification of mediating variables, a clearer understanding of which can also help to guide practical efforts to prevent turnover. As we will argue in this article, associated</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>45</head><p>Changes in relationship conflict changes in the relationship conflict may provide one explanation for why increases in role ambiguity may lead employees to develop thoughts of quitting, as today's employment context is now increasingly reliant on interdependence, horizontal coordination and team-based structures <ref type="bibr">(National Research Council, 1999)</ref>, which makes the ability to work well with others critical to performing effectively. To develop a theoretically grounded rationale for this proposition, we draw from fundamental tenets of conflict theory pertaining to the role of uncertainty as an antecedent of conflict, as well as from established theoretical frameworks of turnover, which highlight the influence of the quality of social relations at work on turnover decisions <ref type="bibr" target="#b47">(Maertz and Griffeth, 2004)</ref>.</p><p>To be clear, in this study, we do not propose a comprehensive model of the turnover process. Rather, using existing theoretical models as a guide, we examine the possibility that changes in the experience of role ambiguity over time may be associated with the development of turnover intentions, and we explore changes in relationship conflict as an explanatory mechanism for this effect to draw attention to a relatively neglected, yet increasingly relevant, variable in today's work context.</p><p>This approach is theoretically consistent with advances in stress research <ref type="bibr" target="#b20">(Griffin and Clarke, 2011)</ref>, conflict research <ref type="bibr" target="#b33">(Jehn and Mannix, 2001)</ref> and, in particular, concerning the development of turnover intentions <ref type="bibr" target="#b24">(Holtom et al., 2008)</ref>. In these respective research areas, it is assumed that people's role beliefs, conflict perceptions and turnover intentions are the result of interpretive processes and, thus, are subject to develop and change over time. Moreover, using a longitudinal research design permits increased confidence in interpreting the direction of effects and provides an opportunity to extend what is known about the relationships between these variables, as findings from prior cross-sectional examinations do not always extend to longitudinal processes <ref type="bibr" target="#b68">(Sanchez and Viswesvaran, 2002)</ref>.</p><p>An industry well suited to studying these relationships is the health-care industry, as prior research suggests, employees in health-care occupations tend to report higher-than-average levels of role stress <ref type="bibr" target="#b2">(Cherniss, 1995;</ref><ref type="bibr" target="#b73">Sparks and Cooper, 1999)</ref> and work conflict <ref type="bibr" target="#b9">(Duddle and Boughton, 2007;</ref><ref type="bibr" target="#b41">Lewis, 2006;</ref><ref type="bibr" target="#b62">Poole and Garner, 2006)</ref>, and exhibit high turnover rates <ref type="bibr" target="#b5">(Currie and Carr Hill, 2012;</ref><ref type="bibr">Health Canada, 2007;</ref><ref type="bibr" target="#b84">Waldman et al., 2010)</ref>. For this reason, we chose to conduct the empirical test of this model in a health-care setting.</p><p>The complete model is represented in Figure <ref type="figure">1</ref>. In the following sections of this article, we begin by elaborating upon our conceptualization of what is represented by changes in role ambiguity over time, before developing arguments to support each of the two major components of the model (H1 and H2), which together reflect the indirect effect of increases in role ambiguity on increases in turnover intentions through increases in relationship conflict. H3 (represented by the dotted line in Figure <ref type="figure">1</ref>) represents our expectation that the effect of increases in role ambiguity on increases in turnover intentions is mediated by increases in relationship conflict.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Modeling the effects of changes in role ambiguity</head><p>Perhaps the paucity of research on the effects of changes in role ambiguity over time is due to an assumption that role beliefs are only briefly unclear during the initial stages of formal job transitions (e.g. organizational entry, promotion, transfer, etc.). For instance, theoretical models of role transitions (cf. <ref type="bibr" target="#b39">Kramer, 1993;</ref><ref type="bibr" target="#b52">Miller and Jablin, 1991)</ref>, which are primarily based on the experiences of organizational newcomers <ref type="bibr">(Bauer et al., 2007)</ref>, IJCMA 26,1 tend to emphasize the ways in which heightened levels of uncertainty will decrease as employees' inaccurate role beliefs converge upon the "real" nature of the job through particular hiring practices (e.g. realistic job previews; <ref type="bibr" target="#b86">Wanous, 1977)</ref> or socialization practices (e.g. institutionalized socialiatization; <ref type="bibr">Ashforth et al., 2007;</ref><ref type="bibr" target="#b82">Van Maanen and Schein, 1979)</ref>. Therefore, a tacit assumption in much of the existing research in this area is that role ambiguity ultimately declines and reaches a stable level after an initial period of adjustment.</p><p>There is reason to believe, however, that employees' perceptions of role ambiguity are subject to change throughout the tenure of their employment. Moreover, rather than merely decreasing over time with the accumulation of experience, role ambiguity is also likely to increase at times, particularly when the nature of employees' work-related experiences prompts them to reassess their understandings of their roles.</p><p>Employees may experience discrete events that engender increased role ambiguity. For instance, current role understandings may be challenged as a result of organization-initiated changes to the work itself. <ref type="bibr">Barley (1986)</ref>, for instance, documented the impact that newly introduced technology had on the existing role beliefs of hospital radiologists and technicians. Barley proposed that the uncertainty introduced by the technological change challenged parties' prior role beliefs, spurring a period of flux during which these beliefs were redeveloped. In the particular context of the present study, a new organizational structure was introduced at the research site (a general hospital) during the period between the two measurement waves. This restructuring was the result of a merger of three different health-care establishments. An increase in ambiguity as to employees' responsibilities and tasks may develop in the wake of considerable organizational changes such as these. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in relationship conflict</head><p>More commonplace occasions may also lead to increased role ambiguity over time. Employees who experience errors in carrying out their job tasks and/or who receive negative feedback on their performance can begin to doubt their understandings of what is truly expected of them at work <ref type="bibr" target="#b44">(Louis, 1980;</ref><ref type="bibr" target="#b87">Weick, 1995)</ref>. These situations may suggest to the employees that the requirements of their roles are different from what they previously believed, resulting in heightened experiences of role ambiguity as they struggle to make sense of the discrepancy.</p><p>As such, an assumption guiding this study is that role ambiguity may either decrease or increase over time and that the direction of this change is representative of the nature of an employee's adaptation to the job role. In other words, while a decreasing level of role ambiguity over time can be treated as an indicator of developing familiarity and comfort in a given job role, increasing role ambiguity over time can be treated as an indicator of increasing difficulty in coping with the expectations of that role. In this way, the study of changes in role ambiguity can reveal something unique about employees' personal experiences of their jobs as compared with baseline role ambiguity differences, which may be partly explained by the more general differences in the nature of occupations (cf. <ref type="bibr" target="#b80">Tubre and Collins, 2000)</ref>. In the section that follows, although hypothesized effects are framed in terms of increases in these variables, it should be understood that we expect effects opposite to those stated in the hypotheses for decreases in role ambiguity and relationship conflict.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Increases in role ambiguity as a predictor of increases in relationship conflict</head><p>There are two main reasons to believe that increases in role ambiguity will positively predict increases in relationship conflict at work. First, and most basically, stress researchers classify role ambiguity as a hindrance stressor <ref type="bibr" target="#b61">(Podsakoff et al., 2007)</ref> because it tends to be positively associated with reports of undesirable work strain (e.g. tension and anxiety). These feelings are likely to influence how employees approach their interpersonal interactions, with the possibility that the negative feelings associated with uncertainty are projected directly onto others at work.</p><p>Early research on role theory <ref type="bibr" target="#b37">(Kahn et al., 1964)</ref>, in fact, found that the level of role ambiguity reported by employees was positively related to their experience of tension and negatively related to their degree of positive affect for other role-set members. More specific research on the relationships between emotional and behavioral reactions found a direct link between the experience of stressful states, such as anxiety, and behavioral tendencies toward self-protection and avoidance <ref type="bibr" target="#b13">(Frijda et al., 1989)</ref>. People experiencing psychological stress also tend to be less flexible in their approaches to resolving complex problems <ref type="bibr" target="#b75">(Staw et al., 1981)</ref>, and role stress is positively associated with the more dysfunctional approaches to resolving conflict at work <ref type="bibr" target="#b12">(Friedman et al., 2000)</ref>.</p><p>Studies have also found that reports of role ambiguity correlate positively with those of particular manifestations of relationship conflict at work (e.g. sabotage, aggression and hostility; <ref type="bibr" target="#b1">Chen and Spector, 1992)</ref>. <ref type="bibr" target="#b3">Chiaburu and Harrison (2008)</ref> reported an average correlation across studies between antagonistic coworker behaviors (e.g. incivility, undermining, conflict, etc.) and a role ambiguity of 0.39. More recently, studies across a variety of industries and cultures find that role ambiguity is positively correlated with perceptions of organizational politics <ref type="bibr" target="#b40">(Leslie and Gelfand, 2012)</ref>, and IJCMA 26,1 have revealed that workplace bullying tends to thrive in work settings characterized by role ambiguity <ref type="bibr" target="#b56">(Notelaers et al., 2010)</ref>.</p><p>The results of these prior studies, which are frequently based on correlations computed at a single point in time, do not permit conclusions as to the impact of changes in role ambiguity on changes in conflict. Nevertheless, these prior results are suggestive of this possibility. Moreover, in a rare example of a longitudinal study linking these two variables, researchers found that role ambiguity measured at one time predicted the onset of conflict at work reported one year later <ref type="bibr" target="#b7">(De Raev et al., 2008)</ref>. For all of these reasons, one would expect that the stress and discomfort invoked when employees experience increases in role ambiguity over time will spillover to influence their evaluations of and behavior toward others with whom they work in ways that may give rise to the development of conflict.</p><p>A second reason to expect a positive relationship between increases in role ambiguity and relationship conflict pertains to the perceptual origins of conflict itself. In other words, conflict theory assigns considerable importance to the role of perceptual processes, with most definitions treating conflict as a process that emerges, initially, from perceptions of interference <ref type="bibr">(cf. De Dreu and Gelfand, 2008;</ref><ref type="bibr" target="#b85">Wall and Callister, 1995)</ref>. In this way, conflict has the potential to emerge not only in situations where parties' actions are truly incompatible but also in situations where parties may interpret the nature of social interactions (sometimes incorrectly) as representatives of conflict <ref type="bibr" target="#b8">(Deutsch, 1969;</ref><ref type="bibr" target="#b78">Thomas, 1976)</ref>. Where there is uncertainty as to what has motivated the interfering actions of others, people are prone to making hostile attributions about others' intentions <ref type="bibr" target="#b71">(Sitkin and Bies, 1993;</ref><ref type="bibr" target="#b79">Thomas and Pondy, 1977)</ref>. It is this perceptual dimension of conflict that is the most likely to be influenced by role ambiguity, as it is particularly when combined with uncertainty that people's actions are subject to misinterpretation. <ref type="bibr" target="#b35">Johns (1999)</ref>, for instance, argued that work environments characterized by uncertain performance requirements are not only more likely to promote self-serving behavior, such as direct engagement in organizational politics, but also permit organizational actors to engage in more self-serving interpretations of the environment in ways that allow them to maintain favorable views of their own capabilities. The fact that meta-analyses consistently show that role ambiguity is negatively associated with performance <ref type="bibr" target="#b14">(Gilboa et al., 2008)</ref> suggests that those experiencing role ambiguity are confronted with the need to manage interpretations of their inferior work performance in ways that minimize its potentially negative effects on their self-image. Specific psychological research on self-serving biases has found that, when faced with negative feedback on their abilities, people are susceptible to engage in ego-protecting interpretations, such as shifting responsibility for the difficulties they face away from themselves toward situational explanations, including blaming others for their failures <ref type="bibr" target="#b69">(Sedikides and Strube, 1997)</ref>. As such, it can be argued that the uncertainty created by increases in role ambiguity can exacerbate this tendency for people to blame others, leading to more antagonistic interpretations of social interactions at work.</p><p>In short, these arguments suggest that increases in role ambiguity are likely to lead to increases in relationship conflict because of the fact that such experiences are stressful, potentially leading to a series of dysfunctional reactions, and because increased uncertainty can bias parties' interpretations of the work environment in ways that increase the likelihood of experiencing and perceiving conflict with others at work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>49</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in relationship conflict</head><p>H1. Increases in role ambiguity are positively related to increases in relationship conflict over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Increases in relationship conflict as a predictor of increases in turnover intentions</head><p>Scholars have proposed a number of mechanisms to explain how job experiences lead to the development of turnover intentions, and, more recently, the quality of interpersonal relationships has received increased attention <ref type="bibr" target="#b47">(Maertz and Griffeth, 2004;</ref><ref type="bibr" target="#b54">Mossholder et al., 2005)</ref>. <ref type="bibr" target="#b47">Maertz and Griffeth (2004)</ref>, for instance, outlined eight motivational forces explaining why employees develop attachments to their jobs and, when these forces are negligible, explaining why employees think of leaving them. Of these, we argue that relationship conflict is most liable to lower (or serve as an indicator of lower) constituent attachment, which is an attachment to one's job driven by the desire to maintain relationships with others at work (see also the role of formal and informal links to others, as part of the job embeddedness construct; <ref type="bibr" target="#b53">Mitchell et al., 2001)</ref>. While the existence of positive relationships with others at work may reduce turnover intentions (provided those with whom one is socially connected are not thinking of quitting themselves; <ref type="bibr" target="#b47">Maertz and Griffeth, 2004)</ref>, an increase in negative interpersonal relationships at work may serve to erode constituent attachment forces.</p><p>Relationship conflict is likely to be particularly difficult to bear in organizational settings in which employees' work activities are interdependent. That is, beyond the threat that relationship conflict represents for employees' general sense of belongingness, it is additionally challenging in highly interdependent work contexts, in which employees also have more instrumental needs for assistance in the day-to-day performance of their jobs (cf. <ref type="bibr" target="#b3">Chiaburu and Harrison, 2008;</ref><ref type="bibr" target="#b55">Mulki et al., 2008)</ref>. For this reason, experiencing increases in relationship conflict in these settings may also impact employees' assessments of the degree of future opportunity for attaining important outcomes (e.g. performance, recognition and career advancement) in the organization. <ref type="bibr" target="#b47">Maertz and Griffeth (2004)</ref> refer to employees' certainty that they will be in a position to obtain such valued work outcomes in the future as part of calculative attachment, which, when low, reduces attachment to the organization.</p><p>Finally, relationship conflict is housed in interpersonal hostility, characterized by frustration and typically associated with negative emotions <ref type="bibr" target="#b30">(Janssen et al., 1999;</ref><ref type="bibr" target="#b32">Jehn, 1995)</ref>. Therefore, to the extent that people tend to avoid social settings that evoke such discomfort, one could argue that increases in relationship conflict may also erode employees' affective motivational responses to their jobs, increasing the likelihood they will develop thoughts of leaving <ref type="bibr" target="#b47">(Maertz and Griffeth, 2004)</ref>.</p><p>Therefore, increases in relationship conflict over time may trigger thoughts of quitting by eroding employees' desire to affiliate with others at work (constituent attachment), by reducing their confidence in the likelihood of succeeding in an environment increasingly dependent on the ability to work well with others (calculative attachment) and/or by providing a generally aversive experience, which negatively affects their degree of affective attachment. While these distinct mechanisms will not be examined empirically in the current study, they underlie our prediction concerning the effects of increases in relationship conflict on turnover intentions over time.</p><p>Consistent with this theoretical perspective, prior studies have found that relationship conflict at work is positively associated with turnover intentions <ref type="bibr" target="#b34">(Jehn et al., 1999;</ref><ref type="bibr" target="#b50">Medina et al., 2005)</ref>. Moreover, in a meta-analytic review in 2008, Chiaburu and IJCMA 26,1 <ref type="bibr" target="#b3">Harrison (2008)</ref> reported an average positive correlation of 0.26 between reports of antagonistic coworker behavior (subsuming interpersonal conflict) and turnover intentions, and studies conducted since then have continued to corroborate this evidence, with correlations between measures of conflict and turnover intentions ranging between 0.19 and 0.46 (Table <ref type="table" target="#tab_0">I</ref>).</p><p>Although the empirical association between relationship conflict and turnover intentions is already well-established in the literature, as reflected in the studies cited above, this evidence is based almost exclusively on studies comparing the levels of conflict and turnover intentions assessed at one point in time. As such, there remains a need for empirical examinations of the relationship between changes in these variables. We propose that employees who experience increases in relationship conflict at work will be more likely to develop increased thoughts of leaving their jobs over time.</p><p>H2. Increases in relationship conflict are positively related to increases in turnover intentions over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The mediating role of increases in relationship conflict</head><p>Theories often conceptualize conflict as a process linking environmental antecedents to individual reactions <ref type="bibr" target="#b85">(Wall and Callister, 1995)</ref>. <ref type="bibr" target="#b60">Pelled (1996)</ref>, for instance, proposed that affective conflict was more theoretically compelling as a mediator of the effect of work group diversity on turnover (from the group) than other potential explanations, such as social integration, given that the frustration caused by elevated levels of conflict is more likely to lead to withdrawal than the relative indifference that may be caused by low levels of social integration. As such, conflict is a natural candidate as a mediating mechanism for the effects of stressors on withdrawal behavior. However, the mediating role of relationship conflict as an explanation for role ambiguity's effects appears to be a relatively neglected topic among the existing reviews of the conflict literature <ref type="bibr">(cf. De Dreu and Gelfand, 2008;</ref><ref type="bibr" target="#b85">Wall and Callister, 1995)</ref>. Nevertheless, recent empirical studies have provided evidence largely consistent with such a proposition. For instance, <ref type="bibr" target="#b31">Jaramillo et al. (2011)</ref> demonstrated that role stress (a combination of role ambiguity and role conflict) related to turnover intentions through a </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>51</head><p>Changes in relationship conflict complex mediation process that involves interpersonal conflict, work overload, job attitudes and emotional exhaustion. These authors found that the impact of role stress on interpersonal conflict was fully mediated by work overload and that the effect of work overload on interpersonal conflict was moderated by "working smart".</p><p>Although their study was cross-sectional and did not examine the impact of changes in these variables over time, it is one of the few studies to suggest that role stress and the experience of conflict should be considered as part of a larger causal sequence influencing turnover intentions, rather than as independently derived experiences. In the current study, we build upon this important contribution by studying how changes in employees' experiences of relationship conflict potentially mediate the effect of changes in role ambiguity on employees' thought of quitting over time.</p><p>H3. Increases in relationship conflict serve as a mediator of the positive effect of increases in role ambiguity on increases in turnover intentions over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample and procedure</head><p>Employees of a Canadian general hospital were invited to participate in the present study, consisting of two questionnaires, each containing measures of the model's main variables (i.e. role ambiguity, relationship conflict and turnover intentions).</p><p>Questionnaires were mailed directly to respondents' home addresses; the first wave of mailings was completed in January 2008. As mentioned previously, the hospital subsequently underwent a period of restructuring because of a merger of three separate health-care institutions. As a result, the second questionnaire was sent in January 2011. This three-year time lag was considered necessary to fully account for any potential increases in role ambiguity associated with this structural change.</p><p>Each questionnaire was accompanied by a cover letter explaining the study's purpose and ensuring that participation was voluntary and that respondent's identities would be kept strictly confidential. Because employees were either French-or English-speaking, French and English versions of the questionnaire were prepared using a translation -back-translation procedure <ref type="bibr">(Brislin, 1980)</ref>, and pilot tested on a sample of 20 employees.</p><p>Of the 1,884 employees who were invited to participate at Time 1, 545 returned completed questionnaires, by mail, to the researchers' office. Of the 2,015 employees contacted at Time 2, 545 returned completed questionnaires. In total, 146 respondents who completed questionnaires at both Time 1 and Time 2, representing 7.49 per cent of the overall population of employees, were retained for the present analyses. The average age of respondents was 49.90 years and average tenure was 15.39 years, and majority were women at 92 per cent. The majority of respondents consisted of nursing or paramedical staff (70 per cent) and worked full time (71.9 per cent). Eighty-seven per cent of the respondents held a post-secondary degree: 28 per cent college, 10 per cent certificate, 36 per cent bachelor's and 13 per cent master's.</p><p>No differences in terms of demographics were found between the final sample of respondents (N ϭ 146) and the hospital's general population of employees (N ϭ 2015). To further examine whether subject attrition from Time 1 to Time 2 led to non-random sampling, we tested whether the probability of remaining in the final sample (N ϭ 146), among Time 1 respondents (N ϭ 545), could be predicted by demographics and substantive variables measured at Time 1 <ref type="bibr" target="#b15">(Goodman and Blum, 1996)</ref>. The logistic IJCMA 26,1 regression predicting the probability of remaining in the final sample, using age, sex, organizational tenure, role ambiguity and relationship conflict as predictors was non-significant, and none of the predictors exerted a significant effect (results are available upon request), indicating that respondent attrition was essentially random.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>A 7-point Likert-type scale (1 ϭ strongly disagree; 7 ϭ strongly agree) was used for all items. Because of constraints imposed by the organization on survey length, we used shortened versions of original scales, and chose those items that displayed the highest loadings on their intended factors, as reported in previous studies.</p><p>Role ambiguity. We used five high-loading items from the role ambiguity scale developed by <ref type="bibr" target="#b25">House et al. (1983)</ref>. A sample item is "My responsibilities at work are clearly defined" (reverse coded). The reliability of this scale was satisfactory in this study (T1: ␣ ϭ 0.73; T2: ␣ ϭ 0.78).</p><p>Relationship conflict. We used four items based on the conflict scale content of <ref type="bibr" target="#b4">Cox (1997)</ref>, an instrument which was developed to reflect the way conflict is manifested between employees in health-care settings, and which reflects the active hostility component of relationship conflict <ref type="bibr" target="#b12">(Friedman et al., 2000)</ref>. Respondents rated items in relation to how they perceived the interactions existed among members of the organization. A sample item is "Interactions between individuals are hostile". The reliability of this scale was excellent in this study (T1: ␣ ϭ 0.91; T2: ␣ ϭ 0.90).</p><p>Turnover intentions. We used a four-item measure based on the measurement scale developed by <ref type="bibr" target="#b51">Meyer et al. (1993)</ref>. A sample item is "I often consider leaving my organization". The reliability of this scale was good in this study (T1: ␣ ϭ 0.88; T2: ␣ ϭ 0.87).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confirmatory factor analyses</head><p>We examined the distinctiveness of our study variables using confirmatory factor analysis (CFA) via AMOS 18.0, with a covariance matrix as input and the maximum likelihood method of estimation. The hypothesized model included six factors: role ambiguity T1, role ambiguity T2, relationship conflict T1, relationship conflict T2, turnover intentions T1 and turnover intentions T2. The following fit indices, commonly used in the literature, were used: the chi-square test; the normed fit index (NFI; <ref type="bibr">Bentler and Bonett, 1980)</ref>; the comparative fit index (CFI; <ref type="bibr">Bentler, 1990)</ref>; the incremental fit index (IFI; <ref type="bibr">Bollen, 1990)</ref>; and the root mean square error of approximation (RMSEA; <ref type="bibr" target="#b76">Steiger, 1990)</ref>. Our hypothesized CFA model, including six factors, yielded an excellent fit to the data ( 2 (39) ϭ 50.034, p Ͻ 0.111, NFI ϭ 0.95, CFI ϭ 0.99, IFI ϭ 0.99, RMSEA ϭ 0.044). All loadings in the hypothesized model were significant and sizeable (Ͼ 0.69). Please see Table AI for complete information on the items and item loadings from this test of the measurement model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptive statistics and intercorrelations</head><p>Descriptive statistics, internal consistency reliabilities and intercorrelations for the study variables are presented in Table <ref type="table" target="#tab_0">II</ref>. As can be seen, all variables displayed good internal consistency (␣'s Ͼ 0.73). Of interest, role ambiguity at Time 2 correlated positively with relationship conflict at Time 2 (r ϭ 0.24, p Ͻ 0.01) and turnover</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>53</head><p>Changes in relationship conflict Hypothesis testing H1-H3 were examined using structural equation modeling (SEM) via AMOS 18.0. To examine the effects of changes in these variables over time, the effects of all variables at Time 1 were controlled, consistent with the recommendations of <ref type="bibr" target="#b11">Finkel (1995)</ref>. The hypothesized SEM model specifying full mediation of the relationship between increases in role ambiguity and increases in turnover intentions through increases in relationship conflict displayed a good fit to the data ( 2 (40) ϭ 51.108, p Ͻ 0.112, NFI ϭ 0.95, CFI ϭ 0.99, IFI ϭ 0.99, RMSEA ϭ 0.044). To examine whether mediation was complete, we examined a model in which the path from role ambiguity at Time 2 to turnover intentions at Time 2 was added. This model did not improve significantly over the fully mediated model, ⌬ 2 (1) ϭ 1.074, ns. Moreover, the path from role ambiguity at Time 2 to turnover intentions at Time 2 was not significant in this model (␤ ϭ Ϫ0.10, ns). This suggests that the fully mediated model is more parsimonious than, and should be preferred over, the partially mediated model <ref type="bibr" target="#b29">(James et al., 2006)</ref>. The completely standardized path coefficients associated with the fully mediated model are reported in Figure <ref type="figure">2</ref>[1]. For clarity of presentation, only the statistically significant paths of the model are presented. H1 proposed that increases in role ambiguity are positively related to increases in relationship conflict over time. As can be seen in Figure <ref type="figure">2</ref>, controlling for role ambiguity and relationship conflict at Time 1, the relationship between role ambiguity at Time 2 and relationship conflict at Time 2 was indeed significantly positive (␤ ϭ 0.30, p Ͻ 0.001), which permits us to interpret this as the effect of increases in role ambiguity on increases in relationship conflict over time. H1 is thus supported. H2 further predicted that increases in relationship conflict are positively related to increases in turnover intentions over time. As shown in Figure <ref type="figure">2</ref>, relationship conflict at T2 is  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>55</head><p>Changes in relationship conflict positively related to turnover intentions at Time 2 (␤ ϭ 0.20, p Ͻ 0.05), after controlling for the effects of these variables at Time 1, which permits us to interpret this as the effect of increases in relationship conflict on increases in turnover intentions over time. Therefore, H2 is supported. H3 stated that increases in relationship conflict would mediate the positive relationship between increases in role ambiguity and turnover intentions over time. As recommended by <ref type="bibr" target="#b63">Preacher and Hayes (2008)</ref>, we estimated the significance of the indirect effect using a bootstrap approach, which overcomes shortcomings of the <ref type="bibr" target="#b72">Sobel (1982)</ref> test (i.e. high Type I error rates due to violation of the normal distribution assumptions; <ref type="bibr" target="#b70">Shrout and Bolger, 2002)</ref>. We bootstrapped 5,000 samples to obtain the 95 per cent bias-corrected confidence interval (CI; <ref type="bibr" target="#b46">MacKinnon et al., 2004)</ref> for the indirect effect. If the CI does not include "zero", the indirect effect is considered to be significantly different from zero. Using bootstrap analysis via AMOS 18.0, we found this positive indirect effect (0.06, 95 per cent CI ϭ 0.01, 0.18) to be significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Organizational research has long been concerned with how employees' work experiences are related to behavior and attitudes. As noted in the conceptual development of this article, a considerable amount of prior research has examined role ambiguity, relationship conflict and turnover intentions. To date, however, few attempts have been made to examine relationships between changes in these variables over time as a way of increasing what is known about the process by which turnover intentions develop.</p><p>In this article, we have outlined that role ambiguity, while is expected to decrease over time for employees who are effectively managing their job demands, also has the potential to increase over time for those experiencing stress, uncertainty and doubts regarding their competency in their job roles. As such, we have argued that increases in role ambiguity may lead to relationship conflict development through a general spillover of negative emotions and cognitions, as well as a greater tendency to engage in ego-defensive behaviors and self-serving interpretations of the environment. Given the importance of social relationships at work, we argued that these increases in relationship conflict would increase thoughts of quitting, primarily by eroding the degree of constituent attachment, which otherwise serves to connect employees to their jobs. The empirical results of our investigation are consistent with these propositions and, as such, provide an integration and extension of existing theory, as well as the basis for practical applications aimed at managing conflict and turnover.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical implications</head><p>In conducting this study, our aim has been to contribute new insights to the existing research literature. We believe our results make several contributions. First, as the conceptual development of this study was guided by several existing theories and theoretical perspectives, the support we have found for our hypotheses further reinforces the underlying tenets of these theories and, importantly, identifies more specific variables which behave in accordance with them. More specifically, conflict theories assign an important role to uncertainty as a cause of conflict, given that it can motivate self-serving behavior and/or self-serving perceptions, either or both of which may exacerbate the development of relationship conflict. Our study adds precision to IJCMA 26,1 this tenet by identifying increases in role ambiguity as one specific way by which uncertainty may lead to relationship conflict development at work, which helps render this important principle from conflict theory more tractable for scholars and practitioners who are interested in using it as part of their efforts to understand and manage workplace experiences.</p><p>Likewise, with respect to the mediating role of changes in relationship conflict in this model, we used <ref type="bibr" target="#b47">Maertz and Griffeth's (2004)</ref> theoretical framework as a basis for our predictions. Of the eight forces they identified, we were guided specifically by their suggestion that the degree of constituent attachment can motivate decisions to stay with, or think of leaving, an organization. Indeed, we feel that relationship conflict represents a particularly influential variable with respect to the constituent attachment force, perhaps more impactful than other variables which have been used previously to test this theoretical proposition. For instance, also guided by <ref type="bibr" target="#b47">Maertz and Griffeth's (2004)</ref> constituent attachment principle, <ref type="bibr" target="#b54">Mossholder et al. (2005)</ref> failed to find that coworker support negatively predicted turnover over time.</p><p>Perhaps the relative absence of positive relational experiences (e.g. a low degree of support) is not as impactful on decisions to quit (or thoughts of quitting) as is the heightened presence of negative relational experiences (e.g. a high degree of relationship conflict). In this respect, it is notable that <ref type="bibr" target="#b3">Chiaburu and Harrison (2008)</ref> found that negatively valenced forms of interpersonal influence (e.g. conflict) received far less attention than positively valenced forms (e.g. support) in research focused on employees' reactions to their jobs. We feel our study helps contribute toward a better understanding of the impact of such negative forms of interpersonal influence on turnover intentions and hope it will inspire further studies of the role played by changes in relationship conflict as part of the employee withdrawal process.</p><p>Moreover, we have also suggested that, in addition to its impact on constituent attachment, it may also be that relationship conflict lowers calculative attachments, particularly in highly interdependent workplaces (such as a hospitals) where employees who feel they are unable to rely of the assistance of others because of the presence of relationship conflict may also hold lower expectations, or be more uncertain as to the likelihood of their achieving valued outcomes in the future. Alternatively, increased role ambiguity and associated increases in relationship conflict may primarily undermine affective attachment or, if the organization is viewed as being responsible for these experiences, other forces such as contractual attachment <ref type="bibr" target="#b47">(Maertz Griffeth, 2004)</ref>. Further research is needed to determine which of these various forces (see Maertz &amp; Griffeth's framework) is most likely to be at the root of the association we have uncovered between increases in relationship conflict and turnover intentions over time.</p><p>The results of our investigation highlight the importance of taking a process-oriented approach to studying the effects of role ambiguity, finding that increases in role ambiguity represent a unique factor contributing to the relationship conflict development over time. Although the original formulation of role theory proposed that role ambiguity could negatively affect the quality of interpersonal relations at work, our longitudinal test of changes in these variables provided more rigorous evidence as to the nature of this relationship, not only supporting this proposition but also incorporating it into a larger mediation model, which includes changes in turnover intentions as an indirect outcome of changes in role ambiguity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>57</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in relationship conflict</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Practical implications</head><p>The results of this research provide several new avenues for thinking about how to manage employees who face complex work demands in interdependent settings. First, given the significant costs of conflict and turnover, organizational decision-makers should consider enacting policies that are aimed at the early identification of role ambiguity increases to reduce the incidence of workplace conflict. In other words, efforts to monitor and reduce role ambiguity should form a more general approach to human resource management, and not one that is limited to the initial stages of workplace or job orientation programs. Such an approach may be facilitated through the periodic use of employment experience surveys designed to assess role ambiguity among other job experiences. Examining the changes in these reported levels of ambiguity over time could serve as a barometer of how well employees are coping with the pressures of their jobs, and permit organizations to identify those most at risk of experiencing relationship conflict at work before it happens. Naturally, care must be taken to ensure that employees feel comfortable providing honest responses to these questions. Specifically, it must be clearly stated that this information will not be used as a means of appraising employee performance.</p><p>Practical interventions aimed at reducing role ambiguity should continue to be guided by extant research, which assigns an important role to managerial intervention (e.g. path-goal clarifying behaviors, <ref type="bibr" target="#b26">House, 1996;</ref><ref type="bibr">managerial coaching behavior, Kim et al., 2013)</ref>. Moreover, the degree of role ambiguity that cannot be eliminated because it forms an inherent part of the complexity of the work that could be "reframed" by management as a means of attenuating stressful reactions. For instance, in a recent field study, <ref type="bibr" target="#b49">Martin et al. (2013)</ref> found that the more empowering leaders were better able to foster proactive behavior among their employees across a variety of industries. Such behavior has been promoted as an effective way to address the new degree of uncertainty that is inherent in today's job contexts <ref type="bibr" target="#b58">(Parker, 2000)</ref>.</p><p>In conjunction with these efforts, our finding that increases in relationship conflict mediated the effect of increases in role ambiguity on the development of turnover intentions should also compel managers to recognize the importance of conflict management (early intervention, conflict coaching, etc.) as a means of reducing turnover, particularly in workplaces where employees are susceptible to role ambiguity development. Research has shown that developing functional strategies for resolving conflict during early stages of team development can facilitate not only higher-than-average performance but also higher-than-average social harmony within the team <ref type="bibr">(Behfar et al., 2008)</ref>. Additionally, <ref type="bibr" target="#b18">Greer et al. (2008)</ref> found that teams that were able to resolve early instances of process conflict, a form of conflict which the study's authors characterized as being high in ambiguity, were less likely to see the subsequent development of relationship conflict over time.</p><p>Because of the difficulty of completely removing role ambiguity from many of today's work settings, we suggest that the negative effects of increases in role ambiguity can still be minimized, provided there is adequate monitoring and management of the development of role ambiguity and conflict over time. In this way, the results of our study highlight conflict management's crucial role within the human resources systems of organizations in which employees must contend with complex and/or changing performance demands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IJCMA 26,1</head><p>Limitations and future directions Our study is without limitations. The longitudinal aspect of our design permitted a more compelling test of our propositions, and helps to lend credence to the hypothesized direction of these effects. Yet, because this research is non-experimental, we cannot claim that these results are causal in nature. In addition, our use of only two measurement periods makes it impossible to test whether the relationships we have proposed are, in fact, non-linear by nature. Having three or more waves of data collection would permit the examination of this possibility through growth curve modeling.</p><p>Variables were measured exclusively through self-reported questionnaires. Although this is congruent with the important role we assigned to individual perceptions of the work environment in this model, our results may have been more compelling had we used a combination of measures and sources. For instance, the measurement of conflict could have been obtained by coworkers or supervisors <ref type="bibr">(Bruk-Lee and Spector, 2006)</ref>. In addition, an examination of how these relationships ultimately affect turnover decisions, using objective measures of turnover obtained through archival sources, would be very informative for both researchers and practitioners.</p><p>A further limitation is that, given that the model does not account for the effects of other constructs that are likely to influence employees' workplace experiences and turnover intentions (e.g. quality of supervision, job satisfaction, external job alternatives, etc.), it is difficult to estimate the true magnitude of the effects of this study's primary antecedent variables on outcomes. Given that we have built a case for the importance of directing attention to the effects of changes in role ambiguity and relationship conflict in today's workplace, we have accepted (in the present study) the risk that this model is underspecified to propose a novel set of hypotheses, which can move the field in new directions. The intertemporal nature of the model required repeated measurement of constructs and was subject to respondent attrition. Therefore, it was tested using a smaller set of variables in lieu of attempting to control for a variety of potentially related constructs, which would have otherwise eroded statistical power. The robustness of these effects should be tested in future research that examines them alongside the effects of other established predictors of relationship conflict and turnover intentions.</p><p>Results should also be interpreted bearing in mind the possible impact of unmeasured variables that may, themselves, jointly influence changes in role ambiguity and/or relationship conflict and/or turnover intentions. For example, research has shown that turnover intentions are highly influenced by employees' views regarding the quality of organizational management, particularly their relationships with their supervisors <ref type="bibr" target="#b77">(Stinglhamber and Vandenberghe, 2003)</ref>. A change for the worse over time in leadership and/or in the quality of one's supervisor might lead employees to simultaneously report increases in role ambiguity, relationship conflict and turnover intentions.</p><p>In addition, as part of our theoretical rationale concerning the impact of increases in role ambiguity on increases in relationship conflict, we have assumed the operation of certain variables which, themselves, were not directly examined in this study. The given prior research suggests that organizational politicking may be a product of experiencing role ambiguity; thus, future research should examine the extent to which direct involvement in organizational politics affects changes in relationship conflict for those</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>59</head><p>Changes in relationship conflict experiencing increases in role ambiguity over time. Given that we have assumed that increased uncertainty permits employees to blame their inferior performance on others at work, future research should test our proposed relationships while accounting for variations in performance. Specifically, the extent to which perceptions of relationship conflict may be representative of attribution errors and self-serving biases could be explicitly addressed in future tests through methods that incorporate and compare the conflict perceptions provided from various sources (coworkers, supervisors, etc.). Moreover, we have argued that increases in role ambiguity elicit stress because people are generally averse to this stressor, which can lead to increases in conflict through a general projection of anxiety and tension onto others. In addition to examining this intervening mechanism more closely, future research may consider moderators of this effect. It may be that individual differences in locus of control <ref type="bibr" target="#b67">(Rotter, 1966)</ref> or tolerance for ambiguity <ref type="bibr">(Ashford and Cummings, 1985)</ref> moderate the impact of role ambiguity increases on employees' emotional and behavioral reactions.</p><p>As described previously, the setting of this study underwent a large-scale organizational restructuring in the period between the two waves of data collection. While this afforded us the opportunity to draw conclusions as to the impact of changes in employees' role ambiguity occurring over this period, the dataset is limited to perceptual indicators, and we are unable to trace whether the direction of differences in self-reported levels of role ambiguity corresponded to specific types (or degrees) of changes in the nature of job tasks, responsibilities or performance expectations. Therefore, although one might infer on the basis of these results that increases in role ambiguity in the wake of large-scale organizational restructuring reflect the reactions of those employees who are more objectively disadvantaged by such restructuring, additional research, in which the specific nature of changes to employees' job requirements is tracked, will be required to confirm such an interpretation.</p><p>In this article, we have suggested that complex work settings that require extensive coordination among interdependent employees are well suited to the investigation of effects of changes in role ambiguity. We conducted a formal test of our model in a hospital setting, the characteristics of which are reflective of this type of work. For those interested in better understanding the experiences of health-care workers, this particular aspect of our study represents one of its main contributions. Yet, while hospitals are noted as job contexts marked by role stress, conflict and turnover intentions, these variables may not be equally prevalent in other settings.</p><p>Future research should examine this boundary condition of our model more explicitly. In general, we would expect contextual features of occupations and organizational settings to moderate the relationships between these variables. For instance, future tests of this model in settings where employees are less interdependent might reveal that increases in role ambiguity are not as strongly predictive of social outcomes like relationship conflict. Moreover, relationships are not only likely to vary by industry or type of organization but also with respect to specific differences in the nature of jobs found within a given organization. Therefore, distinct categorical comparisons between job types or direct assessments of the degree of interdependence associated with employees' jobs <ref type="bibr" target="#b81">(Van De Ven et al., 1976</ref>) could be investigated as potential moderators of these effects in future studies.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Figure 1. A longitudinal model of the relationships between changes in role ambiguity, relationship conflict and turnover intentions</figDesc><graphic coords="4,64.60,85.67,312.00,231.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Notes: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.001</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Figure 2. Estimated path coefficients associated with the hypothesized structural</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table I .</head><label>I</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="2">Correlation</cell><cell></cell></row><row><cell>Study</cell><cell>Conflict measure</cell><cell>r</cell><cell>p-value</cell><cell></cell></row><row><cell>Guidroz et al. (2012)</cell><cell>Study 1: interpersonal conflict at work scale</cell><cell>0.19</cell><cell>0.01</cell><cell></cell></row><row><cell></cell><cell>(Spector and Jex, 1998)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Study 2: nursing incivility scale (Guidroz et al.,</cell><cell>Between 0.26</cell><cell>0.01</cell><cell></cell></row><row><cell></cell><cell>2010)</cell><cell>and 0.46</cell><cell></cell><cell></cell></row><row><cell>Ismail et al. (2012)</cell><cell>Intragroup conflict scale (Jehn, 1995)</cell><cell>0.41</cell><cell>0.01</cell><cell></cell></row><row><cell>Jaramillo et al. (2011)</cell><cell>Interpersonal conflict at work scale (Spector and</cell><cell>0.23</cell><cell>0.05</cell><cell></cell></row><row><cell></cell><cell>Jex, 1998)</cell><cell></cell><cell></cell><cell>Select studies</cell></row><row><cell>Liu et al. (2008)</cell><cell>Interpersonal conflict at work scale (Spector and</cell><cell>0.34</cell><cell>0.01</cell><cell>examining conflict</cell></row><row><cell></cell><cell>Jex, 1998)</cell><cell></cell><cell></cell><cell>and turnover</cell></row><row><cell>Li et al. (2011)</cell><cell>Items based on Cox (1997) measure of</cell><cell>0.28</cell><cell>0.01</cell><cell>intentions published</cell></row><row><cell></cell><cell>intragroup conflict (cf. Friedman et al., 2000)</cell><cell></cell><cell></cell><cell>since Chiaburu and</cell></row><row><cell>Mulki et al. (2008)</cell><cell>Interpersonal conflict at work scale (Spector and</cell><cell>0.27</cell><cell>0.01</cell><cell>Harrison's (2008)</cell></row><row><cell></cell><cell>Jex, 1998)</cell><cell></cell><cell></cell><cell>meta-analysis</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>at Time 2 (r ϭ 0.23, p Ͻ 0.01). Furthermore, relationship conflict at Time 2 correlated positively with turnover intentions at Time 2 (r ϭ 0.33, p Ͻ 0.01).</figDesc><table><row><cell>IJCMA 26,1</cell><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(0.87)</cell><cell></cell></row><row><cell></cell><cell>8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(0.88)</cell><cell>0.57**</cell><cell>Ͻ 0.01</cell></row><row><cell>Table II. Descriptive statistics and correlations of study variables</cell><cell>Variable M SD 1 2 3 4 5 6 7</cell><cell>1. Age 49.91 9.28 -</cell><cell>2. Sex 1.92 0.26 0.10 -</cell><cell>3. Organizational tenure 15.39 8.35 0.43** 0.02 -</cell><cell>4. Role ambiguity (Time 1) 2.78 0.95 Ϫ0.11 Ϫ0.04 0.01 (0.73)</cell><cell>5. Role ambiguity (Time 2) 2.73 0.94 Ϫ0.16 Ϫ0.00 Ϫ0.07 0.48** (0.78)</cell><cell>6. Relationship conflict (Time 1) 3.26 1.53 Ϫ0.01 0.09 0.08 0.07 0.12 (0.91)</cell><cell>7. Relationship conflict (Time 2) 2.91 1.34 Ϫ0.04 0.07 0.01 0.00 0.24** 0.52** (0.90)</cell><cell>8. Turnover intentions (Time 1) 3.09 1.43 Ϫ0.29** 0.09 Ϫ0.06 0.30** 0.17* 0.31** 0.24**</cell><cell>9. Turnover intentions (Time 2) 3.16 1.44 Ϫ0.24** 0.16 Ϫ0.13 0.24** 0.23** 0.24** 0.33**</cell><cell>Notes: N ϭ 146; for sex, 1 ϭ male, 2 ϭ female; alpha coefficients are reported in parentheses along the diagonal; * p Ͻ 0.05; ** p</cell></row></table><note><p>intentions</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded by MAHIDOL UNIVERSITY At 07:30 03 March 2015 (PT)</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>The authors wish to acknowledge the financial support for this study provided by the <rs type="funder">Social Sciences and Humanities Research Council (SSHRC) of Canada</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The major contribution of this study is that it identifies changes in relationship conflict as a mediator of the longitudinal relationship between changes in role ambiguity and changes in turnover intentions among health-care workers over a three-year period. We have argued that these effects are of particular concern, as workplaces rely more and more on highly interdependent forms of coordination. In complex interdependent work settings, increases in relationship conflict are not only likely to result from increases in role ambiguity; these changes in the quality of social relations represent a social disintegration which is untenable over the long term, and which is likely to motivate turnover decisions as a result. Because a certain degree of role ambiguity is likely to remain an inherent part of employees' interpretations of complex work roles, making it difficult to eliminate entirely, our findings should serve to guide those who study or manage organizations in their ongoing efforts to better understand and prevent the dysfunctional effects of role ambiguity and relationship conflict on turnover intentions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Note</head><p>1. We also ran the same SEM model including age, sex and tenure as controls. As results did not significantly differ from those reported in Figure <ref type="figure">2</ref>, we dropped the controls. Results of this analysis are available upon request. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>References</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>61</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in relationship conflict</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Corresponding author</head><p>Kevin Hill can be contacted at: kevin.hill@hec.ca</p><p>For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm Or contact us for further details: permissions@emeraldinsight.com</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Costing Human Resources: The Financial Impact of Behavior in Organizations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Cascio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Southwestern, Cincinnati, OH</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Relationships of work stressors with aggression, withdrawal, theft and substance use: an exploratory study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Spector</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational and Organizational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="177" to="184" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cherniss</surname></persName>
+		</author>
+		<title level="m">Beyond Burnout: Helping Teachers, Nurses, Therapists, and Lawyers Recover from Stress and Disillusionment</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Do peers make the place? Conceptual synthesis and meta-analysis of coworker effects on perceptions, attitudes, ocbs, and performance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Chiaburu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1082" to="1103" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Antecedents and Effects of Intragroup Conflict in the Nursing Unit, PhD. 9824636</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Cox</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Richmond, Virginia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Virginia Commonwealth University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">What are the reasons for high turnover in nursing? A discussion of presumed causal factors and remedies</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carr Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Nursing Studies</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1180" to="1189" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Conflict in the workplace: sources, functions, and dynamics across multiple levels of analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K W</forename><surname>De Dreu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Psychlogy of Conflict and Conflict Management in Organizations</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">K W</forename><surname>De Dreu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Taylor &amp; Francis Group/Lawrence Erlbaum Associates</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="3" to="54" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Risk factors for interpersonal conflicts at work</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Raev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W H</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Den</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Vasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Work Environment &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="96" to="106" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Conflicts: productive and destructive</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deutsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="42" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Intraprofessional relations in nursing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duddle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boughton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advanced Nursing</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="37" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Relationships of role stressors with organizational citizenship behavior: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Eatough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Miloslavic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="619" to="632" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Finkel</surname></persName>
+		</author>
+		<title level="m">Causal Analysis with Panel Data</title>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">What goes around comes around: the impact of personal conflict style on work conflict and stress</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Tidd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Currall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Tsai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Conflict Management</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="32" to="55" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Relations among emotion, appraisal, and emotional action readiness</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Frijda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kuipers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ter Schure</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="212" to="228" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A meta-analysis of work demand stressors and job performance: examining main and moderating effects</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gilboa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shirom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personnel Psychology</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="227" to="271" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Assessing the non-random sampling effects of subject attrition in longitudinal research</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Blum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="627" to="652" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The dynamics of proactivity at work</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Ashford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3" to="34" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Putting job design in context: introduction to the special issue</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2/3</biblScope>
+			<biblScope unit="page" from="145" to="157" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Conflict transformation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Greer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jehn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Mannix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small Group Research</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="278" to="302" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>IJCMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A meta-analysis of antecedents and correlates of employee turnover: update, moderator tests, and research implications for the next millennium</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Griffeth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Hom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gaertner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="463" to="488" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Stress and well-being at work&quot;, Apa Handbook of Industrial and Organizational Psychology, Maintaining, Expanding, and Contracting the Organization</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>American Psychological Association</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="359" to="397" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The nursing incivility scale: development and validation of an occupation-specific measure</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Guidroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Burnfield-Geimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Schwetschenau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Jex</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nursing Measurement</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="176" to="200" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Developing a model of source-specific interpersonal conflict in health care</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Guidroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Perez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stress and Health</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="79" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The working conditions of nurses: confronting the challenges</title>
+		<ptr target="www.hc-sc.gc.ca/sr-sr/pubs/hpr-rpms/bull/2007-nurses-infirmieres/index-eng.php" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy Research Bulletin</title>
+		<imprint>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2007-10">2007. October 2013</date>
+		</imprint>
+	</monogr>
+	<note>Health Canada</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Turnover and retention research: a glance at the past, a closer review of the present, and a venture into the future</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Holtom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Eberly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Academy of Management Annals</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="231" to="274" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Role conflict and ambiguity scales: reality or artifacts?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Levanoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="334" to="337" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Path-goal theory of leadership: lessons, legacy, and a reformulated theory</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>House</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="352" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Relationship conflict in supervisorsubordinate dyads: a subordinate perspective</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Ismail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Conflict Management</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="192" to="218" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A meta-analysis and conceptual critique of research on role ambiguity and role conflict in work settings</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Schuler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Behavior and Human Decision Processes</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="78" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A tale of two methods</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mulaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="233" to="244" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">How task and person conflict shape the role of positive interdependence in management teams</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van De Vliert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Veenstra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="141" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Workplace stressors, job attitude, and job behaviors: is interpersonal conflict the missing link?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mulki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personal Selling and Sales Management</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="356" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A multimethod examination of the benefits and detriments of intragroup conflict</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jehn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="256" to="282" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The dynamic nature of conflict: a longitudinal study of intragroup conflict and group performance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jehn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Mannix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="238" to="251" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Why differences make a difference: a field study of diversity, conflict, and performance in workgroups</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jehn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Northcraft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Neale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="741" to="763" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A multi-level theory of self-serving behavior in and by organizations</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Johns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="38" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The business case for work-family programs</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Accountancy</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="53" to="58" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Snoek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<title level="m">Organizational Stress: Studies in Role Conflict and Ambiguity</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The impact of managerial coaching behavior on employee work-related reactions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Egan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Psychology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="315" to="330" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Communications and uncertainty reduction during job transfers -leaving and joining processes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="178" to="198" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The cultural psychology of social influence: implications for organizational politics</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Politics in Organizations: Theory and Research Considerations</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Ferris</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Treadway</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="411" to="447" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Nurse bullying: organizational considerations in the maintenance and perpetration of health care bullying cultures</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nursing Management</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="52" to="58" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Expecting the worst: moderating effects of social cynicism on the relationships between relationship conflict and negative affective reactions</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Leung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="345" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Use of both qualitative and quantitative approaches to study job stress in different gender and occupational groups</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Spector</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="357" to="370" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Surprise and sense making: what newcomers experience in entering unfamiliar organizational settings</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="226" to="251" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Suppressor variables in path models: definitions and interpretations</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Maassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Bakker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methods &amp; Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="270" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Confidence limits for the indirect effect: distribution of the product and resampling methods</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Multivariate Behavioral Research</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">99</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Eight motivational forces and voluntary turnover: a theoretical synthesis with implications for research</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Maertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Griffeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="667" to="683" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Integrating turnover reasons and shocks with turnover decision processes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Maertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Kmitta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Vocational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="38" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Directive versus empowering leadership: a field experiment comparing impacts on task proficiency and proactivity</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U I</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1372" to="1395" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Types of intragroup conflict and affective reactions</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Medina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Munduate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Dorado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Guerra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Managerial Psychology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="219" to="230" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Commitment to organizations and occupations: extension and test of a three-component conceptualization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="538" to="551" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Information seeking during organizational entry: influences, tactics, and a model of the process</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Jablin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="92" to="120" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Why people stay: using job embeddedness to predict voluntary turnover</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Holtom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Sablynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Erez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1102" to="1121" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>IJCMA</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">A relational perspective on turnover: examining structural, attitudinal, and behavioral predictors</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Mossholder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Settoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Henagan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="607" to="618" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Effect of ethical climate on turnover intention: linking attitudinal-and stress theory</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mulki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Locander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Changing Nature of Work: Implications for Occupational Analysis</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The National Academies Press</publisher>
+			<date type="published" when="1999">2008. 1999</date>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="559" to="574" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">A job characteristics approach to explain workplace bullying</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Notelaers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>De Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Einarsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Work and Organizational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">487</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Prominent consequences of role stress: a meta-analytic review</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Örtqvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wincent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Stress Management</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="399" to="422" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">From passive to proactive motivation: the importance of flexible role orientations and role breadth self-efficacy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Parker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="447" to="469" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">That is my job</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Parker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="403" to="434" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Demographic diversity, conflict, and work group outcomes: an intervening process theory</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Pelled</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="615" to="631" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Differential challenge stressor-hindrance stressor relationships with job attitudes, turnover intentions, turnover, and withdrawal behavior: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Podsakoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Lepine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lepine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="438" to="454" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Perspectives on workgroup conflict and communication</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Poole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Garner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Sage Handbook of Conflict Communication: Integrating Theory, Research, and Practice</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oetzel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Ting-Toomey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="267" to="292" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Preacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="879" to="891" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Role conflict and ambiguity in complex organizations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Rizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Lirtzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="150" to="163" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Organizational antecedents of role conflict and ambiguity in top-level administrators</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Molnar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="598" to="610" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Occupational stressors and job performance: an updated review and recommendations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Djurdjevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eatough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New Developments in Ttheoretical and Conceptual Approaches to Job Stress</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">L P D C</forename><surname>Ganster</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="60" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Generalized expectancies for internal versus external control of reinforcement</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rotter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Monographs: General and Applied</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">The effects of temporal separation on the relations between self-reported work stressors and strains</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Viswesvaran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="183" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Self-evaluation: to thine own self be good, to thine own self be sure, to thine own self be true, and to thine own self be better</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sedikides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Strube</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Experimental Social Psychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Zanna</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Diego, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier Academic Press Inc</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="209" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Mediation in experimental and nonexperimental studies: new procedures and recommendations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Shrout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bolger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="422" to="445" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Social accounts in conflict situations: using explanations to manage conflict</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Sitkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Bies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="349" to="370" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Asymptotic confidence intervals for indirect effects in structural equation models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Sobel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sociological Methodology, 1</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Leinhardt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Francisco, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jossey-Bass</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="290" to="312" />
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Occupational differences in the work-strain relationship: towards the use of situation-specific models</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational and Organizational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="219" to="229" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Development of four self-report measures of job stressors and strain: interpersonal conflict at work scale, organizational constraints scale, quantitative workload inventory, and physical symptoms inventory</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Spector</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Jex</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="356" to="367" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Threat rigidity effects in organizational behavior: a multilevel analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Staw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Sandelands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Dutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="501" to="524" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Structural model evaluation and modification -an interval estimation approach</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Steiger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Multivariate Behavioral Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="180" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Organizations and supervisors as sources of support and targets of commitment: a longitudinal study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stinglhamber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vandenberghe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="251" to="270" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Handbook of Industrial and Organizational Psychology</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thomas</surname></persName>
+		</author>
+		<editor>Dunnette, M.D.</editor>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="889" to="935" />
+			<pubPlace>Rand McNally, Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Conflict and conflict management</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Toward an &apos;intent&apos; model of conflict management among principal parties</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Pondy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1089" to="1102" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Jackson and schuler (1985) revisited: a meta-analysis of the relationships between role ambiguity, role conflict, and job performance</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Tubre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Collins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="169" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Determinants of coordination modes within organizations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Van De Ven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Delbecq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koenig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="322" to="338" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Toward a theory of organizational socialization</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Maanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Schein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="209" to="264" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Assessing longitudinal change of and dynamic relationships among role stressors, job attitudes, turnover intention, and well-being in neophyte newcomers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vandenberghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Panaccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bentein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mignonac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Roussel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="652" to="671" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">The shocking cost of turnover in health care</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Waldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Care Management Review</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="206" to="211" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Conflict and its management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Callister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="515" to="558" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Organizational entry: newcomers moving from outside to inside</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Wanous</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="601" to="618" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Longitudinal studies in organizational stress research: a review of the literature with reference to methodological issues</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Weick</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zapf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dormann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of occupational health psychology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="169" />
+			<date type="published" when="1995">1995. 1996</date>
+			<publisher>Sage Publications</publisher>
+			<pubPlace>Thousand Oaks,</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Sensemaking in Organizations</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">IJCMA</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

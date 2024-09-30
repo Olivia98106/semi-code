@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Article: What We Teach and What They Use: Teaching and Learning in Scientific and Technical Communication Programs and Beyond</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2007-01">2007-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ann</forename><surname>Brady</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Michigan Technological University</orgName>
+								<address>
+									<settlement>Houghton</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Article: What We Teach and What They Use: Teaching and Learning in Scientific and Technical Communication Programs and Beyond</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Business and Technical Communication</title>
+						<title level="j" type="abbrev">Journal of Business and Technical Communication</title>
+						<idno type="ISSN">1050-6519</idno>
+						<idno type="eISSN">1552-4574</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">21</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="37" to="61"/>
+							<date type="published" when="2007-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">782FC2447A58E93AF060696462A0A320</idno>
+					<idno type="DOI">10.1177/1050651906293529</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>scientific and technical communication pedagogy</term>
+					<term>academy to workplace transition</term>
+					<term>rhetoric</term>
+					<term>composing</term>
+					<term>invention</term>
+					<term>problem solving</term>
+					<term>longitudinal multiple case study</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Over the past two decades, studies have examined how social contexts influence the composition and production of workplace documents. But much remains to be known about what happens when writers move from one social context to another-from the academy to the workplace, for instance. This article demonstrates that students in scientific and technical communication classrooms learn what they are taught about composing. They take this knowledge with them to the workplace, where they apply it, practically and theoretically, and improve their understanding of it with repeated use.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I ncreasingly over the past two decades, studies have examined how social contexts influence the composition and production of workplace documents <ref type="bibr" target="#b8">(Doheny-Farina, 1986;</ref><ref type="bibr" target="#b26">McIsaac &amp; Aschauer, 1990;</ref><ref type="bibr" target="#b28">Paradis, Dobrin, &amp; Miller, 1985;</ref><ref type="bibr" target="#b32">Spilka, 1990</ref><ref type="bibr" target="#b32">Spilka, /2003))</ref>. But much remains to be known about what happens when writers move from one social context to another, from the academy to the workplace, for instance. As <ref type="bibr" target="#b17">Hutchins (1995)</ref> pointed out, although people engage in cognitive activities every day, we do not have many studies that look at cognition in social or cultural settings, what Hutchins called "cognitive ethnographies" (p. 371). Such work in professional communication might ask the following questions: When students move from the academy to the workplace, do they use the composing models we teach them? How does what we teach correspond with what they use? Do these uses change over time and from context to context? What possibilities and limitations do these uses suggest for those who teach scientific and technical communication?</p><p>This article demonstrates that students in our scientific and technical communication classrooms learn what we teach them about composing. They take this knowledge with them to the workplace, where they apply it, practically and theoretically, and improve their understanding of it with repeated use. Offering proof for this claim, I turn to one part of the composing process: invention. A modest random sampling of recently published textbooks suggests that we teach invention, or the production of content, quite consistently in scientific and technical communication classrooms. Texts by <ref type="bibr" target="#b6">Burnett (2005)</ref>, <ref type="bibr" target="#b20">Johnson-Sheehan (2005)</ref>, <ref type="bibr" target="#b21">Kolin (2006)</ref>, <ref type="bibr" target="#b22">Lannon (2006)</ref>, <ref type="bibr" target="#b29">Reep (2006)</ref>, and <ref type="bibr" target="#b34">Woolever (2005)</ref> treat the composing process in detail. Furthermore, we often teach it as part of an iterative process, informed by cognitive <ref type="bibr" target="#b12">(Flower &amp; Hayes, 1980</ref><ref type="bibr" target="#b13">, 1981)</ref> and social <ref type="bibr" target="#b8">(Doheny-Farina, 1986)</ref> models. As such, we often represent invention as the first stage of this process, although one that the writer returns to throughout the other two stages, drafting and revising <ref type="bibr">(Reep)</ref>. To prepare to produce content, we suggest, writers should analyze the audience, purpose, and context for their writing <ref type="bibr" target="#b20">(Johnson-Sheehan, 2005;</ref><ref type="bibr" target="#b30">Searles, 2006)</ref>. Although we consider audience analysis to be the most important of the three <ref type="bibr">(Woolever)</ref>, advice about how that analysis should be carried out varies. Although many of us suggest demographic assessment as a starting point <ref type="bibr">(Lannon)</ref>, we often go beyond questions about education, race, culture, and age to ask why readers need the information in this document and what knowledge, biases, or prejudgments they bring to it <ref type="bibr">(Burnett)</ref>. Strategies for actually producing content are wide ranging. Some of them appear to be what <ref type="bibr" target="#b10">Enos (2002)</ref> called "techniques for recording discourse" (p. 177), for example, clustering and outlining. Others might be better characterized as heuristics that encourage "the creation or discovery of knowledge" (p. 176), for example, synectics and certain empirical methods (e.g., observations and interviews).</p><p>In the following sections, I first review what we know about novice writers' transitions from school to work and experienced writers' invention processes. Then I describe my 6-year longitudinal study that addresses how students use invention and inventional strategies over time and in changing social contexts. Finally, after explaining the academic program and the writing course that all the participants shared, I discuss the findings of the current study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What We Know</head><p>Because the current study focuses on students' transitions from school to work and how such transitions affect their use of invention, I offer a brief literature review to suggest what we know about novice professional writers as they make these moves and how seasoned writers produce, or invent, content in the workplace.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Novice Writers Moving From School to Work</head><p>During the past 16 years, empirical researchers have helped us understand how the writing processes of novice professional communicators change as they move from school to work. For instance, after studying six college seniors who, in professional internships, were adapting their composing habits to the new organizational contexts in which they were writing, <ref type="bibr" target="#b1">Anson and Forsberg (2003)</ref> proposed a three-stage model that marks the transition from school to work: "expectation, disorientation, and resolution" (p. 393). <ref type="bibr" target="#b24">Lutz (1989)</ref>, focusing on the individual experiences of 10 graduate students as each completed a 14-week internship in the workplace, reported that the students assimilated the writing practices of their respective organizations by observing company practices and documents, imitating models of successful writing in these organizations, and collaborating with peers, mentors, and writing leads. And <ref type="bibr" target="#b25">MacKinnon (1993)</ref>, in observing and interviewing 10 newly hired economists and financial analysts at the Bank of Canada whose duties included writing analytic reports, found significant changes in the writing processes of the new employees, ranging from a more sophisticated appreciation for audience complexity to a greater awareness of how writing functions not only to analyze and inform but also to explore and learn.</p><p>Socialization research such as this theorizes composing as a complex process that is deeply influenced by the social context in which it occurs. Thanks to this work, we have a keener appreciation for how novice professional communicators must often adjust their composing practices to the new contexts in which they find themselves. What is not as clear, however, is whether these writers use what they have been taught in writing classrooms as they make that adjustment. For instance, do they draw on their exposure to inventional models? If they use audience analysis, do they do so to record demographic information or as an inventional tool to facilitate creative and complex thinking? Or both? Do they modify what they have been taught, build on it, or replace it altogether with what their employers expect or prefer?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experienced Writers Inventing at Work</head><p>Empirical researchers have also helped us understand how experienced professionals produce content when they are established in the workplace. For instance, <ref type="bibr" target="#b31">Selzer (2004)</ref> observed that the engineer he studied wrote alone, devoted a significant amount of time to "inventing and arranging" (p. 319), and depended on a wide range of audience analysis and research techniques to produce content. Although using these techniques "in no particular order" (p. 320), this writer's composing process in general, Selzer reported, could be described as "more linear than recursive" (p. 323). Selzer's study is valuable because it sheds light on how one writer "invents content in detail and through various schemata of invention" (p. 322). Equally valuable, however, are the questions it raises. We know that although the engineer in Selzer's study had taken only one composition course in college, that course "had an enormous impact on his writing." Furthermore, we know that as a graduate student, the engineer had been encouraged "to take special pride in his writing" (p. 324). Although the purpose of Selzer's study requires no further elaboration, we are left to wonder how such school experiences influenced this individual's invention techniques. Did he learn invention strategies in a composition class and then apply them directly to his master's thesis? As he wrote reports and proposals in the workplace, did he embellish what he had learned as an undergraduate or come to a different understanding of how to produce content for a document that he took pride in?</p><p>Although <ref type="bibr" target="#b31">Selzer (2004)</ref> focused on one individual who did most of his writing alone, subsequent researchers of writers at work have examined the collaborative and iterative nature of these writers' inventional processes. <ref type="bibr" target="#b32">Spilka (1990</ref><ref type="bibr" target="#b32">Spilka ( /2003</ref>) demonstrated how "writers benefit from interacting with others during invention" (p. 147). The earlier and more consistently that corporate writers elicit information from project participants about the purposes, contents, and contexts of the documents they are producing and the more consistently they update and revise this information, Spilka reported, the more "rhetorically successful" are the documents they produce (p. 163). Doheny-Farina (1986) corroborated Spilka's findings in his study of technical communicators who mediated between the worlds of technology and those of end users. The technology transfers that these technical communicators carried out, by taking laboratory research results through the production and marketing process and then adapting them for users, were not decontextualized transfers of facts. Instead, they were webs of complex rhetorical negotiations between designers, developers, writers, and users that supported the construction of new knowledge and information.</p><p>Such research expands our understanding of organizations as the social and rhetorical contexts in which invention occurs. This understanding, <ref type="bibr" target="#b15">Harrison (2004)</ref> noted, is "important for technical writers who must regularly traverse the boundaries of organizational cultures, academic disciplines, and the culture at large" (p. 264). At the same time, this research introduces concepts that are crucial in preparing technical communication students to go beyond conventional notions of invention as documenting what others have created. Both <ref type="bibr" target="#b32">Spilka (1990</ref><ref type="bibr" target="#b32">Spilka ( /2003) )</ref> and <ref type="bibr" target="#b8">Doheny-Farina (1986)</ref> argued that preparing students to communicate with future colleagues and coworkers who have been educated in different disciplines means exposing students to theories of rhetorical invention, enculturation, and discursive practice. Only with such education will upcoming technical communicators learn how to work as mediators within groups and across complex and often-conflicting organizational alliances.</p><p>But what if students are exposed to inventional models in the classrooms of the academy? How do they use them there, and does that use change when they move to the offices of the workplace? In the next section, I describe the 6-year longitudinal study I designed to address these questions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal Study</head><p>To examine how students use invention and inventional strategies over time and in changing social contexts, I designed a longitudinal multiple case study. Over 6 years, I studied the composing habits of eight writers, working in two distinctly different contexts. The first was that of the university, where as graduate students, they were enrolled in the same required classes taught by the same core group of faculty. Here, in the first semester of their course work, they were formally introduced to invention, based on a problem-solving model, and encouraged to use it in their assignments. The second was that of the workplace, where they acquired new positions or resumed earlier ones upon earning their master's degrees. Here, as professional writers, they used their own discretion to determine whether they applied these problem-solving techniques to their work projects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>I began the study by observing two 1-year graduate classes in successive years, accumulating more than 250 pages of notes during that time. Following my university's policy for human-subjects research, I distributed consent forms and worked only with students who had signed them. I sat in on classes that they took toward their master's degree, observed them in formal peer-editing sessions, and talked with them about their use of problem solving in a variety of informal settings. At the end of the 2 years, I asked for volunteers to meet more regularly and talk more extensively about their experiences with problem solving as they graduated and started work. Eight students agreed, and during the next 6 years, I accumulated more than 700 pages of tape transcripts, writing samples, and research journal notes. I observed the participants at work, examined the documents they were producing, and interviewed them about their uses of problem solving in their composing practices, noting not only how they used problem solving but also how they changed their use of it with time, experience, and context (see Table <ref type="table" target="#tab_0">1</ref> for a chronological account of my research in the academy and the workplace).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In the Academy</head><p>In the first stage of the current study, when the eight participants were students, I observed them more than I interacted with them. During classes, I took notes and taped presentations and discussions. Outside of classes, I kept a research journal in which I recorded notes about what I had observed or heard, speculated about these exchanges, generated new questions, and reflected on earlier interpretations. Descriptive notes helped to remind me of the physical settings of my research-the classrooms, computer labs, professors' offices, and campus conference rooms where participants learned about, discussed, and began to use problem solving. Out of these observations and field notes emerged survey questions that I distributed on class listservs. For instance, after a discussion about corporate document production cycles, of which the first step often is to identify the problem that the project will address, I asked students to explain what the term problem meant to them. Participants' answers to questions like these, as well as introductory lectures and discussions about problem solving, helped me generate additional open-ended questions that I asked them in subsequent interviews. Their answers, in turn, shaped the way I prepared materials and began observing these participants in the workplace, the second part of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In the Workplace</head><p>As the eight participants finished their course work toward their master's degrees and took positions in the workplace, I interacted with them more directly. I initiated a series of five interviews intended to determine how they used problem solving to compose documents at a variety of stages of their assimilation into the workplace. I conducted the first interview as the eight students were finishing their course work and moving to the internship stage of the program. These exit interviews were exploratory and encouraged the participants to reflect on their academic experiences with problem solving. I asked, for instance, if they would modify the ways that they had first described problem solving 9 months to a year ago. Could they imagine using problem solving in their work? If so, how?</p><p>Brady / Teaching and Learning 43 I spaced the remaining interviews over the next 14 months and scheduled them at the writers' work sites. The second round of interviews focused on the participants as writers in organizations and their experiences with problem solving in the workplace. I asked about their writing responsibilities and if and how problem solving had played into them. When did they use it? Did they use it strictly for document planning, or was it useful in other writing stages? I also gave them written transcripts of the interviews I had done with them as students. Based on these earlier materials, I asked questions that were intended to identify consistent themes and changes in their thinking about problem solving. Did they find themselves falling back on the problem-solving model they had learned as students? Had they modified it? The third round of interviews focused on documents that the participants had written in their work and asked questions about their use of problem solving in producing them. These interviews encouraged the writers to reflect on their use of problem solving over time: Had they changed their use of problem solving to accommodate organizational constraints? Had they changed it to address their own needs as professional writers? I combined the fourth round of interviews with observations, "shadowing" <ref type="bibr">(Winsor, 1998, p. 346)</ref> the eight participants as they worked and interviewing their coworkers to get different perspectives on their uses of problem solving in their writing. For the final interview, I videotaped a meeting with all eight writers. Organized as a focus group, this meeting allowed the participants to discuss the similarities and differences in their experiences with problem solving. How did those working for large organizations in cross-disciplinary teams, for instance, use problem solving? What about those writing in two-or three-member teams, or those writing alone?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In the Interpretive Process</head><p>Throughout the study, I interpreted information as I recovered it. Keeping a written record of this recursive process served two purposes. First, on a practical level, this record indicated how I could adjust my methods to bring them more in line with my interpretive efforts. Based on the record, for instance, I concluded that the audiotaped one-on-one interviews I had conducted during the 4 years of the project had not given the writers an opportunity to discuss with each other how their experiences with rhetorical problem solving converged or differed. As a result, I decided to videotape the final group interview. Second, this record drove the interpretive process itself, a combination of constant comparison <ref type="bibr" target="#b14">(Glaser, 1965)</ref> and breakdown <ref type="bibr" target="#b0">(Agar, 1986)</ref>. I used constant comparison by starting with questions that related to the broader questions of whether the writers were using problem solving to compose in social contexts and, if so, whether they were using it as they had been taught. As the project progressed and I analyzed newly recovered information, I generated new questions such as these: Were the writers fully invested in using problem solving to compose? Did their use of problem solving mutate over time? If problem solving was working for them, how did it work? These questions served as my basis for reflecting on, analyzing, and reconsidering the original questions and earlier recovered information. I used Agar's term breakdown (p. 25) to describe moments when I recognized a difference between my expectations about what I thought I would observe and what I actually observed. Such ethnographic breakdowns suggested additional lines of inquiry and reflection.</p><p>For instance, at the outset of my project, I divided the eight writers into two groups based on when they entered the academic program: The first group entered in the first year of my observations, and the second group entered in the second year. But as I examined my research notes at the beginning of the project's second year, I recognized a breakdown in that all members of the first group had come directly from undergraduate programs to graduate school whereas all members of the second had worked before returning to school. I then classified the groups into school-to-school and work-to-school categories, a decision that emerged directly from my ongoing examination of the data I was collecting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>In the following subsections, I describe the educational and professional backgrounds of the eight participants. The descriptions suggest the range and variety of these writers' lives, before they started graduate school and after they earned their master's degrees.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>School-to-School: Four Writers</head><p>The first set of writers-I call them Casey, Claudia, Susan, and Jean-had come directly from undergraduate to graduate school. Their undergraduate majors were math, biology, chemistry, and philosophy. As graduate students, Casey and Claudia concentrated in computer documentation, Susan concentrated in medical writing, and Jean concentrated in environmental writing. Their master's degrees in hand, Casey and Claudia went to work at a local writing consulting company. With 23 employees, the company served the ongoing writing needs of three major companies and those of others on a single-project basis. In all, the company was responsible for 130 projects and several million dollars of business annually. Susan moved out of the area to take a position as a contractor in the research and development division of a large manufacturing company with a steeply hierarchical organization. Removed from the daily operations of the larger company, Susan's division of 150 people developed, tested, and analyzed new products to guarantee that they met established production guidelines. Jean started work at a small environmental consulting company. She was the first writer to be hired, and during her time there, she was the only writer working with 15 engineers who managed their individual projects independently of each other.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Work-to-School: Four Writers</head><p>The second set of four writers-I call them Elizabeth, Billie, Frances, and Virginia-had worked in industry before returning to school. As undergraduates, they had earned degrees in communication, biology, accounting, and math; as professionals, they had worked at a range of jobs. Elizabeth was on leave from her position as a technical publications editor at a large government agency with a long history of making technical information useful for the general public. Working at the agency's headquarters in a large midwestern city, Elizabeth and her coeditor provided editorial services for smaller agency offices throughout the northeastern United States. Billie had worked as an accountant at a large midwestern firm, and Frances had worked as a technical writer at a scientific laboratory. After earning their master's degrees, Billie and Frances went to work at the writing consulting company where Claudia and Casey had taken employment. Although they started a year after Claudia and Casey had, Billie and Frances faced virtually the same operating procedure; that is, they worked for a flourishing enterprise that allowed them a great deal of autonomy. When Virginia entered the graduate program, she was employed as a technical writer at a large corporation in a midsized midwestern city. Throughout her studies, Virginia continued to work at this site as a contractor and in so doing observed many significant organizational and cultural changes that affected the working lives of her colleagues as well as hers as a professional writer. The company had long dominated its marketplace, but that marketplace had recently become competitive.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Academic Program and Writing Course</head><p>To indicate the way that the problem-solving model for composing was introduced to the eight participants, the materials that were used, and how this concept contextualized the program in which they were enrolled, I describe in this section the Masters of Scientific and Technical Communication (STC) program they all attended at a large midwestern university and the required writing course they all took the first semester of the program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Program</head><p>When the STC program first began, one problem-solving model was associated with it and served as a strong unifying factor, encouraging students who were studying scientific and technical communication from a variety of disciplinary perspectives to integrate these perspectives in a purposeful way. (Students chose concentrations in specific areas, such as medical or environmental writing.) The five steps in this model appear to take into account all stages of the composing process: defining a problem, designing the solution, testing the solution, implementing the solution, and evaluating the solution (see Table <ref type="table" target="#tab_1">2</ref>). The declarative instructions for the model suggest that the early stages of composing be devoted to recording information about purpose, context, and audience-information pertinent to the problem being addressed. In this way, the model is reminiscent of what <ref type="bibr" target="#b10">Enos (2002)</ref> called the "first dimension" of invention: "recording discourse" (p. 177).</p><p>But the five faculty members who taught in the program spoke to their students about the model as "an inventional tool that induce[s] creativity and Brady / Teaching and Learning 47 Another instructor pointed out that a problem-solving model for writing could act as a prompt. "Problem solving is a general cognitive strategy that can be useful in thinking about how to write functional documents; however," she added, "it is only useful in contextualized situations in which the strategy changes to meet the needs of each new audience with their complex and shifting goals."</p><p>As the program grew, those who taught in it began to offer different models taken from industry and the academy, and new faculty brought additional perspectives on using problem solving to compose documents. One, for instance, described problem solving as a way "to play" with alternative answers to questions of purpose, another described it as a way to develop flexible strategies for communicating complex information to a variety of audiences. Faculty assigned reading and writing projects that encouraged students to use problem solving early in the composing process to work through the contextual complexities that multiple stakeholders, with their contested interests, often produce.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Course</head><p>Although I observed students in many different courses in the program, one course, in particular, was important in the current study: the first writing course most students took, a cornerstone of the program that introduced them to the issues, skills, and methods of their work as technical and scientific communicators. The syllabus described one of the four course objectives as helping students "internalize a problem-solving strategy that will enable [them] to take a methodical, yet creative, approach to all problems [they] address professionally, including those involving the design (and eventually the management) of communications and departments." To support these objectives, the instructor introduced students to a variety of models from industry and the academy; devoted class meetings early in the semester to critical discussions about these models, returning to them throughout the semester to reiterate their practical significance; and introduced students to critiques of problem solving that questioned its cognitive emphasis (i.e., its decontextualization) and that called for more research exploring social theories of problem solving applied to composing. Throughout the semester, the instructor encouraged students to discuss the limitations and benefits of applying problem solving to the composing process, using their own projects as a basis for their analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Findings</head><p>In this section, I present the findings of the current study, beginning with general observations about the similarities and differences between the two groups of writers. I continue with a more finely grained report of their agreement that composing as problem solving is a socially situated activity and that problem solving itself is a heuristic. I conclude by discussing the differences between the two groups. School-to-school writers first used problem solving methodically, as a way to focus and organize their ideas; with time, they used it more inventively, to learn about their clients, users, and projects. Work-to-school writers used problem solving in both ways from the beginning of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Observations</head><p>Throughout the 6 years of the project, all eight writers agreed that problem solving is a heuristic. But early in the project, while the writers were in school, I noticed a marked difference between the way those who had come to graduate school directly from undergraduate school and those who had come to graduate school from the workplace used problem solving.</p><p>The school-to-school group used problem solving methodically with few creative applications and little thought to the contexts in which they were writing. They saw it "as a framework for structuring pre-existing ideas" <ref type="bibr">(Enos &amp; Lauer, 1992, p. 80)</ref>. One writer's description captures the sentiment that others expressed: "Problem solving's done a lot for my writing. . . . I go logically through the order from point A to point B."</p><p>The work-to-school group used problem solving differently, both methodically and creatively, depending on the context. One writer reported that if she thought about composing as a problem-solving process, she was better able to manage her work projects; however, by thinking of writing in this way, she was also able to include clients in the process of planning project particulars, such as goals, scope, and schedule. Another writer said that thinking of composing as problem solving reminded her to talk through differences of opinion and perspective. "People think differently," she said. "They resolve things differently, and we need a way to talk about the differences." In addition to viewing problem solving as a decontextualized checklist, then, the second group also viewed problem solving as a way for the "rhetor and audience to co-create meaning" <ref type="bibr">(Enos &amp; Lauer, 1992, p. 80)</ref>.</p><p>As the eight writers finished their courses and went to work, these differences dissolved. In their work projects, all used problem solving methodically and creatively, both to frame already existing information and to create meaning with their audiences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Writers' Agreement</head><p>Despite interviewing all eight writers at approximately the same time in their academic programs, I, nevertheless, found only one similarity-although an important one-in their responses. Composing as problem solving, they agreed, is a socially situated activity, and problem solving itself is a guide to inquiry, a heuristic or inventional device. Furthermore, they agreed that the complexity and creativity of problem solving as a heuristic was not captured by the program's visual representation of it. In fact, they suggested that the model could encourage writers to apply it too narrowly or out of context and thus compromise its inventional nature. Whether their opinions were a result of their instructors' emphasis on the contextual nature of rhetorical problems or their recent experiences with the recursive process of audience analysis in establishing project objectives or a combination of both, the writers unanimously agreed that the problem-solving model could not be narrowly applied. For instance, one member of the school-to-school group reported that her "main complaint about the graphics of the program's model is that they are so linear, and problem-solving is so unlinear. . . . The messy nature of problem solving is one of its most important aspects, and that should be emphasized." Another member reported that she did not use the program's model at all because "problem solving should be a human activity, not boxes and grids." Work-to-school group members agreed with their less professionally experienced counterparts. Even though Elizabeth's training in the sciences predisposed her to use "some kind of method or model," she believed that "problem solving can be applied too rigidly so that-and this is really ironic-it can limit the results and potentially cause confusion." A second member agreed: I believe it's good to have a basic problem-solving idea in mind when you approach a writing problem, but composing is a dynamic activity. The definition of your writing problem can change as you begin to get to know your audience, and this may have an impact on the way you look at your problem and the methodology you use.</p><p>The common denominator among all the writers' responses, then, is that problem solving must be adaptable, flexible, and responsive to the needs of the writers who use it to guide their composing as they investigate their audiences, the contexts in which their audiences exist, and their intended purposes. Thus problem solving is not a mechanistic process that omits "the necessity of socially situated knowledge," a concern voiced by <ref type="bibr">Bizzell (1980, p. 231)</ref>. Rather, it serves as a guide that supports writers as they investigate knowledge that changes from one social context to another, one community to another, one practice to another.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>School-to-School Writers: From Learning to Knowing</head><p>From the time they started their course work until the time they were leaving the program to start their first jobs, the group of writers who had come directly from undergraduate school demonstrated a significant change in the way they used problem solving as they composed. Early in their course work, they used it to know where they stood at the beginning of a project. As they were finishing their classes and working professionally, as interns or paid employees, they used it to guide their inquiries into the rhetorical components of their project.</p><p>Casey, Claudia, Susan, and Jean initially described problem solving as a heuristic but used it as a checklist; that is, although they described problem solving as a flexible guide to understanding rhetorical exigencies, they reported using it in their course work as a checklist to record and account for the discrete stages of their composing processes. Casey, for instance, used the problem-solving model as a way to help her begin a writing project. "On the first project, I pulled it out and started going through it to help me get something on paper." Claudia described her problem solving as a step-by step procedure: "Take one step at a time and figure out how to close the gap." Susan mentioned using only the first step of the model, defining the problem, to keep herself focused on audience analysis and goal setting. Jean reported that the model had made it possible for her to identify a goalsetting stage in the composing process and then work through subsequent steps systematically to accomplish that goal. Such testimonials call to mind earlier claims that teaching composing as problem solving would encourage students "to separate learning from knowing" <ref type="bibr">(Berthoff, 1971, p. 240</ref> because these writers had learned one dimension of the model well enough to apply it without knowing, or fully understanding, its second dimension, its heuristic power.</p><p>But learning and knowing, applying and understanding, seemed to come together for the writers by the end of their course work, when all four were moving from school to jobs. At this point, they began to report their use of problem solving as a social process. They discussed problems as being social in nature, situated within living organizations, and subject to negotiation with others, such as the teachers whose classes they were still enrolled in or the clients with whom they found themselves working more and more frequently.</p><p>Casey mentioned, for instance, that until she had actually used problem solving to compose, she had thought little about how a computer user might have problems understanding online help documentation: "I never really wondered if it helped them out." After she moved from school to work, Casey showed me online documentation that she had been writing and commented that she now found herself taking users' problems with technical material into consideration. I'm "putting audience into how I define the problem," she remarked. And because her employer encouraged active communication between writers and their clients, Casey also found herself using a problem-solving approach to negotiate projects, schedules, and deliverables, with her manager providing oversight and support.</p><p>As Claudia was finishing the program and working as an intern at a local company, I asked her if her views on composing and problem solving had changed since our first interview when she had described a problem as a gap, the disparity between point A and point B, and its solution as a linear progression across the gap, moving from point A to point B. During this later interview, Claudia modified her earlier description in a particularly interesting way. Describing her work with software engineers and their industry customers, Claudia reported that she felt like a "bridge between the two. I have to figure out what the two groups want to get accomplished with this product, how those goals differ, and how my writing can span the gap." Claudia's metaphor is interesting for two reasons. First, she used it to suggest that problem solving is recursive, that the movement across the gap is back and forth, not a single one-way trip. And second, her use of it confirms <ref type="bibr" target="#b16">Harrison and Debs's (1998)</ref> claim that the importance of technical and scientific communicators as boundary spanners "goes considerably beyond their ability to act as conduits for information flow. . . . [B]oundary spanners make sense out of information as it gets disseminated" (p. 11).</p><p>Claudia pointed out that the program's model did not encourage writers to return to earlier stages in the learning and composing process when they had moved on to others (see Table <ref type="table" target="#tab_1">2</ref>). The model's grid-like appearance instead encouraged writers to think of the stages as discrete activity systems; when they had completed one of the systems, they were compelled to move on to the next without reflecting on the relationship between the two (e.g., between defining the problem and designing the solution). The model thus encouraged writers to learn about individual parts of composing problems without taking into consideration how those intersecting and overlapping parts constituted a complex whole. To lack an appreciation for such rhetorical complexity, Claudia claimed, would put her at a disadvantage in attempting to address users' needs: I've had a client come to me and say, "My boss wants me to begin training my people more thoroughly, so make me a training kit." Because the client says, "I want this," I could check audience analysis and move on to the next thing and never really think about whether a training kit is the best solution. Maybe it's not best for the employees. What if they learn better with books? Or by watching other people? I wouldn't have considered all factors and probably wouldn't have come up with the best solution.</p><p>Claudia brought her own visual model of a problem to the same interview: three overlapping circles, labeled social, economic, and political, with the writer in the space the three shared. Describing the graphic of these three overlapping circles, she pointed out how communication problems are made up of social, economic, and political factors: "The writer's problem solving skills are central in my model. . . . The technical communicator is right there in the middle where all three circles intersect; that's the sphere of communication." Claudia's problem-solving model represents workplace experience as comprising people motivated by vested interests and conflicting goals, constrained by time and money, and shaped by tension between user needs, document cycles, and production deadlines. The very nature of problem solving, as Claudia depicts it, locates writers at the organizational intersection of political, economic, and social interests. At this intersection, she explained, problems are far more complex than she had originally imagined them as a student. We thus see in Claudia's conception a sophisticated adaptation of the program's model, one that moves from a cognitive to a more social understanding of composing.</p><p>Just before Susan, the third writer in this group, started her internship, she reported that she had begun to view a problem as more socially situated than she had as an undergraduate:</p><p>When I was working on a paper as an undergrad, I'd go in to my professor saying, "Am I doing this right? Am I going to be okay?" I wanted to understand what was going on but didn't know how to ask. Now, when I go in it's not so much about "How do you think my paper's going?" as it is "I'm trying to figure out my audience so that I can make this argument more persuasive."</p><p>Susan was still concerned about her performance in the classroom because that was the main context in which she wrote; however, her description marks a growing awareness of the need for reciprocity between her and her audience-be that the professor she was literally addressing or the user she invoked or involved <ref type="bibr" target="#b9">(Ede &amp; Lunsford, 1984;</ref><ref type="bibr" target="#b18">Johnson, 1997)</ref>. In short, she realized that by understanding others' needs or problems, she would, paradoxically, be able to address her own more successfully. Susan's appreciation for understanding others' needs grew stronger yet when she became a contractor in the research and development division of a large manufacturing company. Working as the only science writer in product evaluation, she reported using problem solving as she composed to cross department boundaries and collaborate with other writers.</p><p>The fourth writer in this group, Jean, found her earlier conception of the word problem to be inaccurate for many of the same reasons as the other participants had described. On entering the program, she had thought of a class assignment as a problem, a task that she had to complete to earn high marks. Over time, however, she had come to the conclusion that "a problem is very reader centered . . . instead of 'Here's my assignment, my problem to write about,' it's now more outwardly directed than focused on me." Jean's comment suggests her appreciation that problems are socially situated and that their resolution depends on communication between the writer and the user.</p><p>The more experience Jean accrued as a professional writer, the more she insisted on the social nature of problems. When she first went to work, her employer, an environmental consulting company, was experimenting with teaming, and so she was assigned to the computer-aided design group whose purpose was to support field engineers. Despite management's attempt to educate engineers about the importance of writing, Jean received a mixed reception-not because she lacked expertise but because engineers were accustomed to writing alone, and they had little incentive for doing otherwise. Jean thus used problem solving in this context to increase engineers' awareness of the importance of writing to and for an audience and to establish herself as a knowledgeable writing professional.</p><p>Reflecting on her work in environmental writing, Jean reported that, more and more, the public is demanding that information be made available to them about issues that might affect the quality of their daily lives. Professional communicators, she insisted, must be responsive to these demands: They're asking questions and wanting to know why. We have to be ready to explain, and that can be hard because there are so many types of audiences out there, different educational levels, different interests, and they're asking hard questions about tough issues.</p><p>Just as <ref type="bibr" target="#b35">Young (1990)</ref> insisted on the importance of acknowledging the "inevitable and desirable" (p. 47) differences between social groups, so too did Jean: "Sometimes the client and I are not singing from the same hymnbook. It's up to me to get us together on the same page."</p><p>To sum up, the school-to-school group of writers started out using the problem-solving model as a checklist to record information. But the more these writers worked in social contexts, with live audiences of professors, clients, and users, the more they became aware of the model's use as an interpretive guide that works particularly well in communities, such as college classrooms or workplace offices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Work-to-School Writers: Knowing and Learning</head><p>The remaining four writers all came to graduate school with prior work experience. Elizabeth, Billie, Frances, and Virginia consistently described and used problem solving as a checklist, a way to organize their thoughts throughout writing projects, and a heuristic or inventional strategy, a way to include clients in discussions about writing projects that encouraged mutual investigations about problems the projects would address. One of the writers put it this way:</p><p>Problem solving can help me organize pieces of information in ways that make sense, so I do use it as a model to follow, but that doesn't mean I use it that way all the time. It differs from audience to audience. People sometimes don't see beyond that, perhaps because they lack the experience that shows you that there are many ways to do things. I think they still look at 2 + 2 = 4 while it could be 1 + 1 + 5 -3 = 4.</p><p>More specifically, their answers to document-based interview questions about how they used problem solving to compose documents clustered in three ways: to organize their thoughts, to jump-start inquiry, and to establish working relationships with their clients.</p><p>First, these four writers all viewed problem solving as a way to organize their ideas. When Elizabeth grappled with topics so unwieldy that she needed help organizing them, she would pull out the program's problemsolving model and use it "from top to bottom." She reported that because of her training in the sciences, she liked to have a model to follow: "I like to know that if there's something that I've tried before that works and I try it again, I probably can depend on it." As she showed me drafts of a paper that she was writing for a course in her chosen area of concentration, she explained how the model had helped her to pinpoint her topic: I was having a very difficult time trying to figure out how to narrow my idea when I finally sat down and said, "Don't flounder anymore. Go from top to bottom of the model to think about what you're going to do."</p><p>Closely related to Elizabeth's report that she uses the problem-solving model from "top to bottom" as a means of organization was Virginia's comment that she uses it "as a checklist to help identify all the tasks in a writing project, which then helps me to develop a composing time line." And Frances described a similar way of using problem solving to help her focus her thoughts, as we examined the work she was doing for clients in a toxicology group. Although Frances had not been familiar with the problemsolving method when she first entered the program, she came to the following realization: Second, these four writers all viewed problem solving as a way to jumpstart inquiry. Virginia characterized professional writers as "investigators": Beyond helping the writers to investigate problems, problem solving also offered them a pathway to a variety of solutions. For instance, Elizabeth reported that when she first started the program, she had thought problem solving functioned either scientifically or mathematically-to make a discovery or to solve an equation. "That's not how it has to be," she claimed. "In fact, that's not how it usually is. I think your solution can be never ending. You can always reevaluate it and come up with something different or better." Frances commented on the reliability and flexibility of problem solving: I think that those who see problem solving as limiting are thinking of it as a template. You have to think of it as a baseline that you build on. It's a reliable methodology to follow, but not to the letter. You take what's there, and then your context establishes your template, your step-by-step.</p><p>Third, these four writers all described problem solving as a way to establish reciprocal working relationships with their clients. As we examined a client contract, Virginia reported that problem solving ensured that she and her clients were "on the same wavelength." Frances explained that it was a way to hammer out consensus with her clients:</p><p>The model keeps me organized in a way that I can document for my clients. I find it most useful in dealing with them because I think that they should be involved in the process, not just receive the product. So, it serves as a tentative outline and also a means of consensus between us.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Billie summed it up best:</head><p>You can't force your proposal for a project on your client. You can't say, "This is just the way it's going to be." You have to explain why it's the best way, and they have to accept that before you go ahead. Problem solving can be a negotiating tool if you use it to explain your different milestones and how long it's going to take you at each.</p><p>In short, from the beginning of the current study, as they composed, these four writers used problem solving to record information and to guide their inquiries, depending on the context in which they were working and their purpose.</p><p>The use of the model by all eight writers demonstrates that what constitutes a rhetorical problem and how that problem might be solved are strongly influenced by exchanges between the audience and the writer and that through these exchanges, social meaning is shared. In addition, their use of problem solving as they wrote appears to exemplify <ref type="bibr" target="#b23">Lauer's (1979)</ref> three criteria for heuristic procedures that present "useful guidance during the process of composing" (p. 269). First, Lauer explained, a useful heuristic can be applied repeatedly and to a range of subjects because it is not bound to one in particular. Second, although built on sequential steps or stages, such a heuristic does not bind writers to sequence but encourages them to return or move to whatever stage is best suited for inquiry at a particular moment. And third, a useful heuristic encourages writers to think divergently, that is, to consider a subject from a range of perspectives to encourage fresh insights about it. A change in the way Elizabeth managed her composing process as she returned to the workplace is a good example of how the problem-solving heuristic caused her to view document production differently. At the government agency where she worked, the documentproduction cycle had traditionally been linear, with Elizabeth and her coeditor coming in at the end of the process to work on details of grammar and format. They referred content questions to content specialists. Largely because of Elizabeth's classroom introduction to composing as problem solving, when she returned to her position, she and her coeditor insisted on becoming more involved in document production, entering into the production cycle earlier and iteratively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding Remarks</head><p>This study demonstrates that what we teach matters. It gives us additional information about how what we teach, in this case invention as problem solving, operates "in the wild" <ref type="bibr" target="#b17">(Hutchins, 1995)</ref>. What we can infer from this study is, of course, conditional because its qualitative nature precludes generalization. The experiences of the eight writers represented here cannot be said to represent all writers' experiences, and because these experiences are not replicable, any discussion about them is open to reinterpretation. The experiences do, however, serve as departure points for discussions about what STC teachers teach and what students do with what they learn in our classrooms.</p><p>The current study also indicates that teachers should "synthesize genre knowledge with social knowledge to create situated pedagogy" <ref type="bibr">(Johnson, 1998, p. 164)</ref> in their classrooms. More specifically, <ref type="bibr" target="#b11">Enos and Lauer (1992)</ref> proposed two types of heuristics: one that "recycles" and one that "generates." They described the former as proofs that "have already been invented by successful rhetors" (p. 81) and the latter as "entirely new proofs generated by the rhetor" (p. 82). The first saves "rhetors from reinventing the wheel of investigatory alternatives" in order to solve communication problems quickly in the contexts of the workplace and the classroom. Operating as a kind of metistic knowledge <ref type="bibr" target="#b2">(Atwill, 1998;</ref><ref type="bibr" target="#b7">Detienne &amp; Vernant, 1974;</ref><ref type="bibr" target="#b19">Johnson, 1998)</ref>-or strategic intuition-the recycled inventional tools make writers potentially even more effective in their everyday communication problem-solving tasks. The second, the "generative" heuristic <ref type="bibr">(Enos &amp; Lauer,</ref><ref type="bibr">p. 85)</ref>, allows students and practicing professionals to use invention differently from one context to another and thus come to understand that they have many ways to create meaning through language. Situated pedagogy makes both types of heuristics, or sets of tools, available to studentsand ultimately can inform their practice as they negotiate the fluid rhetorical contexts of the workplace.</p><p>Finally, in examining how these eight writers used invention to produce knowledge for social ends, the current study allows us to observe scientific and technical communication as a form of rhetoric. We can also observe "a theory of rhetoric as concerned with substance as well as with form, with wisdom as well as with eloquence, with the relationships between minds as well as between words" <ref type="bibr">(Miller, 1985, p. 117)</ref>. Through studies such as this one, we can show students how rhetorical theory plays out in social settings: in classrooms where writing assignment prompts sometimes offer little direction for the goals of a paper or in company offices where professional writers and clients hammer out agreements about how to make a set of computer documentation instructions practical. In other words, students can gain a clearer sense of how theory is not a museum artifact to be admired and emulated but a productive type of knowledge to be used in the rough and tumble of public spaces.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>I</head><label></label><figDesc>use it in a number of ways at work, mostly at the beginning of writing projects when I'm trying to figure out why there's a lack of congruence between what is and what I think should be. It helps me define the entire project, align my thoughts, and establish my goals and objectives.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 A Chronological Account of Research in the Academy and the Workplace</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Recovery</cell><cell>Recovered</cell><cell>Interpretive</cell></row><row><cell>Sites</cell><cell>Time</cell><cell>Methods</cell><cell>Information</cell><cell>Methods</cell></row><row><cell>Research Cycle 1:</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>The Academy</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Writing classes</cell><cell>First</cell><cell>Observations,</cell><cell>Descriptions,</cell><cell>Constant</cell></row><row><cell></cell><cell>semester</cell><cell>archival review,</cell><cell>interpretations,</cell><cell>comparison,</cell></row><row><cell></cell><cell></cell><cell>surveys, field</cell><cell>reflections,</cell><cell>ethnographic</cell></row><row><cell></cell><cell></cell><cell>notes, interviews</cell><cell>critiques</cell><cell>breakdown,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>reflection</cell></row><row><cell>Computer lab</cell><cell>Third</cell><cell>Interviews</cell><cell>Reflection,</cell><cell>Constant</cell></row><row><cell></cell><cell>semester</cell><cell></cell><cell>interpretation,</cell><cell>comparison,</cell></row><row><cell></cell><cell></cell><cell></cell><cell>critique</cell><cell>ethnographic</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>breakdown,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>reflection</cell></row><row><cell>Research Cycle 2:</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>The Workplace</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Workplaces</cell><cell>20-36</cell><cell>Observations,</cell><cell>Descriptions,</cell><cell>Constant</cell></row><row><cell></cell><cell>months</cell><cell>archival review,</cell><cell>interpretations,</cell><cell>comparison,</cell></row><row><cell></cell><cell></cell><cell>field notes,</cell><cell>reflections,</cell><cell>ethnographic</cell></row><row><cell></cell><cell></cell><cell>interviews</cell><cell>critiques</cell><cell>breakdown,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>reflection</cell></row><row><cell>Dinner meeting</cell><cell>36 months</cell><cell>Focus group,</cell><cell>Descriptions,</cell><cell>Constant</cell></row><row><cell></cell><cell></cell><cell>videotape</cell><cell>interpretations,</cell><cell>comparison,</cell></row><row><cell></cell><cell></cell><cell></cell><cell>reflections,</cell><cell>ethnographic</cell></row><row><cell></cell><cell></cell><cell></cell><cell>critiques</cell><cell>breakdown,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>reflection</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 The Program's Problem-Solving Model</head><label>2</label><figDesc><ref type="bibr" target="#b10">Enos's (2002)</ref> "second dimension" of invention (p. 177). One instructor, for instance, characterized problem solving as a tool kit for building a repertoire of understandings about problematic situations . . . a rule of thumb, knowledge you acquire through experience, but then take with you to other situations and use it there, based on your needs and your new context.</figDesc><table><row><cell>Activity</cell><cell>Responsibility</cell></row><row><cell>Define the problem</cell><cell>Specify purpose</cell></row><row><cell></cell><cell>Analyze context and audience</cell></row><row><cell>Design the solution</cell><cell>Gather information</cell></row><row><cell></cell><cell>Draft solution</cell></row><row><cell></cell><cell>Design solution</cell></row><row><cell>Test the solution</cell><cell>Present review copy</cell></row><row><cell></cell><cell>Gather responses</cell></row><row><cell></cell><cell>Analyze responses</cell></row><row><cell>Implement the solution</cell><cell>Revise solution</cell></row><row><cell></cell><cell>Produce solution</cell></row><row><cell></cell><cell>Deliver solution</cell></row><row><cell>Evaluate the solution</cell><cell>Design and use evaluation method</cell></row><row><cell></cell><cell>Make changes</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>I think, "This is what the clients told me the problem is. This is what they think. Now, I have to figure out if that is accurate." Sometimes it's not. Sometimes they don't know. You have to backtrack. You can't start where you think a problem begins. You have to go to the user. Sometimes my client, a supervisor, doesn't know that the person doing the accounting spreadsheet is doing it all by hand because she doesn't understand how to use the latest software. You have to have a healthy curiosity and ask a lot of questions to find out what the problem really is.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Brady / Teaching and Learning 41</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Brady / Teaching and Learning 45</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="48" xml:id="foot_2"><p>Journal of Business and Technical Communication</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Brady / Teaching and Learning 49</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="50" xml:id="foot_4"><p>Journal of Business and Technical Communication</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p>Brady / Teaching and Learning 51</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="52" xml:id="foot_6"><p>Journal of Business and Technical Communication</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_7"><p>Brady / Teaching and Learning 53</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_8"><p>Brady / Teaching and Learning 55</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="56" xml:id="foot_9"><p>Journal of Business and Technical Communication</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_10"><p>Brady / Teaching and Learning 57</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="58" xml:id="foot_11"><p>Journal of Business and Technical Communication</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Speaking of ethnography</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Agar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Sage University Paper Series on Qualitative Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="11" to="73" />
+			<date type="published" when="1986">1986</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Beverly Hills, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Moving beyond the academic community: Transitional stages in professional writing</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Anson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Forsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Professional writing and rhetoric: Readings from the field</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Peeples</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="388" to="410" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Rhetoric reclaimed</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Atwill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bizzell</surname></persName>
+		</author>
+		<title level="m">Cognition, convention, and certainty: What we need to know about writing. PRE/TEXT</title>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="213" to="243" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Brady / Teaching and Learning</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The problem of problem solving. College Composition and Communication</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Berthoff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="237" to="242" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Burnett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Wadsworth</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Cunning intelligence in Greek culture and society</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Detienne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vernant</surname></persName>
+		</author>
+		<editor>J. Lloyd, Trans.</editor>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Writing in an emerging organization: An ethnographic study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Doheny-Farina</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Written Communication</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="158" to="185" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Audience addressed/audience invoked: The role of audience in composition theory and pedagogy. College Composition and Communication</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lunsford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="155" to="170" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Literacy in Athens during the Archaic period</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Enos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perspectives on rhetorical invention</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Atwill</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lauer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Knoxville</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Tennessee Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="176" to="191" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The meaning of heuristic in Aristotle&apos;s Rhetoric and its implications for contemporary rhetorical theory</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Enos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A rhetoric of doing: Essays on written discourse in honor of James L. Kinneavy</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Nakadate</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">R</forename><surname>Cherry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Carbondale</addrLine></address></meeting>
+		<imprint>
+			<publisher>Southern Illinois University Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="79" to="87" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cognition of discovery: Defining a rhetorical problem</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Flower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">College Composition and Communication</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="21" to="32" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">A cognitive theory process of writing. College Composition and Communication</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Flower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hayes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="365" to="387" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The constant comparative method of qualitative analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Problems</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="436" to="445" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Frameworks for the study of writing in organizational contexts</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Central works in technical communication</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Johnson-Eilola</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">S A</forename><surname>Selber</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="255" to="267" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Conceptualizing the organizational role of technical communicators: A systems approach</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Debs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Technical Communication</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="5" to="21" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Cognition in the wild</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hutchins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Audience involved: Towards a participatory theory of writing</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers and Composition</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="361" to="376" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">User-centered technology: A rhetorical theory for computers and other mundane artifacts</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>State University of New York Press</publisher>
+			<pubPlace>Albany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Johnson-Sheehan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Pearson Longman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Technical communication today</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Successful writing at work</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Kolin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Houghton Mifflin</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lannon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Pearson Longman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Toward a metatheory of heuristic procedures. College Composition and Communication</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lauer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="268" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Writers in organizations and how they learn the image: Theory, research, and implications</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Lutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Worlds of writing: Teaching and learning in discourse communities of work</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Matalene</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Random House</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page" from="113" to="135" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Developing writing ability in a mature, writing-intensive organization</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mackinnon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Writing in the workplace: New research perspectives</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Spilka</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Carbondale</addrLine></address></meeting>
+		<imprint>
+			<publisher>Southern Illinois University Press</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="41" to="55" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Proposal writing at Atherton Jordan, Inc.: An ethnographic study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcisaac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Aschauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Management Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="527" to="560" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Invention in technical and scientific discourse: A prospective study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Miller</surname></persName>
+		</author>
+		<editor>M. G. Moran &amp; D. Journet</editor>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Greenwood</publisher>
+			<biblScope unit="page" from="117" to="156" />
+			<pubPlace>Amityville, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Research in technical communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Writing at Exxon, ITD: Notes on the writing environment of an R&amp;D organization</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paradis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dobrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Writing in nonacademic settings</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Odell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Goswami</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="281" to="307" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Reep</surname></persName>
+		</author>
+		<title level="m">Technical writing: Principles, strategies, and readings</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pearson Longman</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Workplace communications: The basics</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Searles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Pearson Longman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The composing process of an engineer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Selzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Central works in technical communication</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Johnson-Eilola</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">S</forename><surname>Selber</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="317" to="324" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Orality and literacy in the workplace: Process-and text-based strategies for multiple-audience adaptation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Spilka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Professional writing and rhetoric: Readings from the field</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Peeples</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman</publisher>
+			<date type="published" when="1990">2003. 1990</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="44" to="67" />
+		</imprint>
+	</monogr>
+	<note>Reprinted from</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Rhetorical practices in technical work</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Winsor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Technical Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="343" to="370" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Writing for the technical professions</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Woolever</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Pearson Longman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Justice and the politics of difference</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Young</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Ann Brady directs the Scientific and Technical Communication Program at Michigan Technological University and teaches a variety of courses, including technology studies; report, proposal, and grant writing; and science writing</title>
+		<imprint>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+	<note>Her research interests include the intersections of scientific and technical communication and classical rhetoric, the pedagogy of scientific and technical communication, and the philosophy of technology</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

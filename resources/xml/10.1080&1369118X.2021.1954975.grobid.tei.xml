@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Is Facebooking really depressing? Revisiting the relationships among social media use, envy, and depression</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2021-07-20">2021-07-20</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Edson</forename><forename type="middle">C</forename><surname>Tandoc</surname><genName>Jr</genName></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Zhang</forename><forename type="middle">Hao</forename><surname>Goh</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Wee Kim Wee School of Communication and Information</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Wee Kim Wee School of Communication and Information</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<addrLine>31 Nanyang Link</addrLine>
+									<postCode>02-39, 637718</postCode>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Is Facebooking really depressing? Revisiting the relationships among social media use, envy, and depression</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Information, Communication &amp; Society</title>
+						<title level="j" type="abbrev">Information, Communication &amp; Society</title>
+						<idno type="ISSN">1369-118X</idno>
+						<idno type="eISSN">1468-4462</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="551" to="567"/>
+							<date type="published" when="2021-07-20" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0A9609E238C0B0FA5CB7264D63ADDAB8</idno>
+					<idno type="DOI">10.1080/1369118x.2021.1954975</idno>
+					<note type="submission">Received 29 November 2020 Accepted 30 June 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cross-lagged panel</term>
+					<term>depression</term>
+					<term>envy</term>
+					<term>Facebook</term>
+					<term>social media</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An extensive body of work has explored the causal links between social media use, envy, and depression. However, the findings regarding the directional influence among these variables have been equivocal. This current study draws upon a three-wave longitudinal panel (N = 355) and focuses on the link between Facebook use and depression. Results from the cross-lagged panel analyses showed that increased Facebook use (t 1 ) leads to increased depression (t 2 ) which further leads to greater Facebook use (t 3 ). This relationship is further enhanced when the role of envy is accounted for. Specifically, more Facebook use (t 1 ) leads to greater users' envy (t 2 ) which leads to more depression (t 3 ). Implications of the results are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social media undoubtedly offer a range of rewarding experiences, such as providing entertainment as well as social, emotional and informational support, especially during difficult times <ref type="bibr">(Chamberlain, 2020)</ref>. However, extensive research has demonstrated that the increased use of social media can negatively impact users' mental well-being (e.g., <ref type="bibr">Zhong et al., 2020)</ref>, and may lead to outcomes such as depression <ref type="bibr" target="#b23">(Karim et al., 2020)</ref>. Other studies also found that users experiencing depression tend to engage in more social media use, which can further aggravate their negative experience. These studies collectively provide evidence of the link between social media use and depression. In a period when social media platforms have become deeply embedded in social life, and as their usage around the world continues to soar, it is important to continue investigating such a link. Facebook, the most popular social media platform, has 2.7 billion monthly active users <ref type="bibr">(Statista, 2020a)</ref>.</p><p>Studies have started to tease out the relationship between social media use and depression. An important mechanism that bridges social media use and depression is the feeling of envy <ref type="bibr" target="#b2">(Appel et al., 2016)</ref>. Since social media platforms expose users to 'competition for power or attractiveness, among other things,' using them might induce feelings of envy, perceiving oneself as inferior to others, which may leave users susceptible to feelings of depression <ref type="bibr">(Tandoc Jr et al., 2015, p. 140)</ref>. Building on earlier studies that relied on cross-sectional data, recent studies have incorporated longitudinal cross-lagged panel analyses to investigate directional influences in this causal model (e.g., <ref type="bibr" target="#b7">Coyne et al., 2020)</ref>. A cross-lagged panel approach is deemed appropriate and reliable for studying causal relationships in longitudinal data <ref type="bibr" target="#b28">(Kuiper &amp; Ryan, 2018)</ref>. This is because it allows researchers examining cross-lagged effects to also control for the stability of these constructs over time by including their autoregressive effects. For example <ref type="bibr" target="#b46">, Tandoc Jr et al. (2015)</ref> found, using a cross-sectional survey, that surveillance use of Facebook increased feelings of envy that then increased symptoms of depression, but <ref type="bibr" target="#b41">Scherr et al. (2019)</ref> found, using a two-wave online survey, that depression at an earlier time predicted the feeling of envy and the use of Facebook for surveillance at a later time (one year after).</p><p>However, a potential limitation of two-wave cross-lagged panel designs is that they are unable to fully explicate causal relationships beyond a single time interval (i.e., Time 1 to Time 2). For example, while a two-wave panel can examine whether depression leads to increased Facebook use, does the increased Facebook use subsequently worsen depressive symptoms? Investigating the mechanism that links these two, such as the feeling of envy, will also benefit from an examination across multiple time intervals. Indeed, cross-lagged studies have been conducted in three or more waves (e.g., <ref type="bibr" target="#b7">Coyne et al., 2020;</ref><ref type="bibr" target="#b49">Valkenburg et al., 2017)</ref>, but these studies have not fully addressed the full causal links between social media use, envy, and depression. Thus, to expand research in this area and contribute to a more nuanced understanding of how these variables are linked, this current study draws from a three-wave cross-lagged panel analysis to examine a causal model of social media use, envy, and depression in the context of Singapore, a small city-state in Southeast Asia known for high social media penetration rates and reliable internet speed <ref type="bibr">(Statista, 2020b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Literature review</head><p>Scholars have long explored the impact of social media use, from the rise of Friendster and Myspace <ref type="bibr" target="#b3">(Boyd, 2006)</ref>, to the coming of Facebook and Instagram <ref type="bibr" target="#b52">(Wagner &amp; Molla, 2018)</ref>, to the recent addition of Snapchat and Tiktok <ref type="bibr" target="#b18">(Herrman, 2019)</ref>. While social media platforms provide a range of important uses, such as entertainment <ref type="bibr" target="#b56">(Whiting &amp; Williams, 2013)</ref>, information <ref type="bibr" target="#b25">(Kim et al., 2014)</ref>, and social connection <ref type="bibr" target="#b10">(Ellison et al., 2011)</ref>, scholars have also understandably focused on their negative effects, such as providing channels for cyberbullying and other forms of problematic social media use. An important stream of research examines the link between social media use and well-being. For example, numerous studies have examined the link between social media use and depression across a variety of media contexts, including the United States <ref type="bibr" target="#b11">(Escobar-Viera et al., 2018)</ref>, Germany <ref type="bibr" target="#b35">(Ozimek, 2020)</ref>, Estonia <ref type="bibr" target="#b38">(Raudsepp &amp;</ref><ref type="bibr">Kais, 2019), Belgium, Netherlands, Australia, Taiwan, Romania and</ref><ref type="bibr">Spain (McCrae et al., 2017)</ref>.</p><p>Scholars in this area have also conducted meta-analyses to examine patterns across the growing number of studies about social media and depression (e.g., <ref type="bibr" target="#b57">Yoon et al., 2019)</ref>. For example, <ref type="bibr" target="#b32">Marino et al. (2018)</ref> found through an analysis of 23 datasets from studies conducted across several countries a positive correlation between problematic Facebook use and psychological stress. <ref type="bibr" target="#b19">Huang (2017)</ref> found through an examination of samples from 61 studies a weak negative correlation between time spent on social media use and psychological well-being. These meta-analyses noted a wide range of findings across various studies-some found a link between social media use and depression (e.g., <ref type="bibr" target="#b17">Hawes et al., 2020)</ref>, while others found no relationship (e.g., <ref type="bibr" target="#b20">Jelenchick et al., 2013)</ref>. Such varied findings can be attributed to how studies that examined the link between social media use and depression varied across various factors, from the measures they used (e.g., hours spent using social media vs passive social media use), the sampling strategy (e.g., student sample vs national sample), as well as the nature of the data (e.g., cross-sectional vs panel data), among other factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social media and depression across time</head><p>Since cross-sectional designs are limited in terms of establishing causal relationships, other studies conducted experiments to assess the link between social media use and well-being. For example, <ref type="bibr" target="#b48">Tromholt (2016)</ref> found in an experiment involving 1,095 participants in Denmark that those who were asked to take a one-week break from Facebook reported higher levels of life satisfaction and more positive emotions than those who kept on using Facebook throughout the experiment. <ref type="bibr" target="#b50">Verduyn et al. (2015)</ref> also found through two experiments in the United States that Facebook use decreases affective well-being by increasing feelings of envy. However, <ref type="bibr" target="#b8">Deters and Mehl (2013)</ref> found in an experiment involving college students in the United States that those who were asked to post updates on Facebook more often than they usually do reported reduced levels of loneliness.</p><p>Other studies expanded cross-sectional survey designs by using cross-lagged panel data to investigate the link between social media use and depression. Findings from these studies, however, remain equivocal. Some panel studies found support to the assumption that social media use at an earlier time leads to depression at a later time. For example, <ref type="bibr" target="#b54">Wang et al. (2019)</ref> demonstrated in a study conducted in China among college students that passive social media use measured at an earlier survey leads to depression as measured in a subsequent survey, and that this relationship was mediated by users' feelings of envy. Such findings replicate an earlier study's results based on a cross-sectional survey involving college students in the United States <ref type="bibr" target="#b46">(Tandoc Jr et al., 2015)</ref>. However, a two-wave panel study involving a non-probability national sample in Germany found a different result: <ref type="bibr" target="#b41">Scherr et al. (2019)</ref> found that depression (t 1 ) induces more envy (t 2 ), while envy (t 1 ) predicts passive Facebook use at (t 2 ). Some studies also found a bidirectional influence between social media use and depression. For example, <ref type="bibr" target="#b14">Frison and Eggermont (2017)</ref> found in a panel study involving adolescents in Belgium that, on the one hand, Instagram use at an earlier time was associated with the increase in adolescents' depression at a later time. On the other hand, adolescents' depression reported in the first survey was associated with increased Instagram use as reported in the second survey conducted eight months later.</p><p>Two-wave panel studies can account for temporal order, which allows them to establish more substantial claims of causality than cross-sectional surveys. However, two-wave panel studies exploring the link between social media use and depression are also constrained to 'examining only one developmental period' of an otherwise complicated relationship, especially when a model involves more than two variables <ref type="bibr">(Coyne et al., 2020, p. 2)</ref>. Given this limitation, researchers are unable to ascertain whether a particular directionality of a causal link belongs to a specific time interval (e.g., t 1 to t 2 vs t 2 to t 3 ). Thus, a few studies exploring the effects of social media use have relied on multi-wave panels. For example, through a three-wave cross-lagged panel study involving adolescents in the Netherlands, <ref type="bibr" target="#b49">Valkenburg et al. (2017)</ref> demonstrated that social selfesteem increases social media use from both t 1 to t 2 and t 2 to t 3 . Using an eight-wave cross-lagged panel study, <ref type="bibr" target="#b7">Coyne et al. (2020)</ref> investigated the relationship between social media use, depressive symptoms, and levels of anxiety among adolescents in the United States. The study found that when comparing across participants, those who reported higher time spent on social media reported higher levels of depressive symptoms, although within each participant, an increase in time spent on social media did not increase depressive symptoms <ref type="bibr" target="#b7">(Coyne et al., 2020)</ref>.</p><p>The rich literature exploring the link between social media and depression are mostly in Western media contexts. Building on the current literature, the present study revisits this relationship by focusing on a Southeast Asian context. This study also focuses on Facebook, the most popular social media platform in Singapore <ref type="bibr">(Reuters Institute, 2020)</ref>. While some studies that sought to examine the link between social media use and depression focused on passive Facebook use <ref type="bibr" target="#b41">(Scherr et al., 2019;</ref><ref type="bibr" target="#b46">Tandoc Jr et al., 2015;</ref><ref type="bibr" target="#b54">Wang et al., 2019)</ref>, this current study takes its cue from more recent studies that specifically examined time spent on social media (e.g., <ref type="bibr" target="#b7">Coyne et al., 2020)</ref>, consistent with the assumption that Facebook use has become routine for most people, particularly in Singapore, who consider it as a holistic experience (as opposed to using other forms of media).</p><p>While many studies have documented the link between Facebook use and depression, with some arguing that the relationship is bidirectional (e.g., <ref type="bibr" target="#b14">Frison &amp; Eggermont, 2017</ref>) and others suggesting a potential reinforcement effect (e.g., <ref type="bibr" target="#b41">Scherr et al., 2019;</ref><ref type="bibr" target="#b46">Tandoc Jr et al., 2015)</ref>, there remains some inconsistency on where such potential bidirectional relationship starts. While some found that Facebook use leads to depression, which might subsequently further increase Facebook use (e.g., <ref type="bibr" target="#b46">Tandoc Jr et al., 2015;</ref><ref type="bibr" target="#b54">Wang et al., 2019)</ref>, others suggested that depression leads to Facebook use, which may further reinforce depression (e.g., <ref type="bibr" target="#b41">Scherr et al., 2019)</ref>. Therefore, this current study revisits these competing hypotheses using a three-wave cross-lagged study:</p><p>H1a. Higher Facebook use (t 1 ) leads to more depressive symptoms (t 2 ), which subsequently increases Facebook use (t 3 ).</p><p>H1b. Depressive symptoms (t 1 ) increases Facebook use (t 2 ), which subsequently leads to more depressive symptoms (t 3 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The role of envy</head><p>An important mechanism that might help explain the link between Facebook use and depression is the feeling of envy (e.g., <ref type="bibr" target="#b46">Tandoc Jr et al., 2015;</ref><ref type="bibr" target="#b54">Wang et al., 2019)</ref>. This is consistent with the assumptions of social rank theory (SRT; <ref type="bibr" target="#b15">Gilbert, 1992)</ref>, a framework used by studies examining antecedents to depression (e.g., <ref type="bibr" target="#b1">Appel et al., 2015;</ref><ref type="bibr" target="#b53">Wang et al., 2020)</ref>. The SRT proposes that when humans are subjected to defeating competitive situations (e.g., competing for scarce resources with dominant others), they tend to experience symptoms relating to inferiority, withdrawal, and submissiveness that can lead to a depressive state <ref type="bibr" target="#b16">(Gilbert, 2001)</ref>. These symptoms are most experienced when the condition of being subordinated is inadvertent <ref type="bibr" target="#b55">(Wetherall et al., 2019)</ref>. Therefore, those who perceive themselves to be unsuccessful in the competitive situation leave themselves susceptible to depression <ref type="bibr" target="#b43">(Sloman et al., 2003)</ref>. Subordinacy arises when people evaluate their situation or identity by comparing themselves with others based upon available information they receive about them <ref type="bibr" target="#b13">(Festinger, 1954)</ref>.</p><p>Social comparison is now increasingly facilitated by social media platforms <ref type="bibr" target="#b51">(Vogel et al., 2015)</ref>. Compared with offline settings, social comparison information becomes even more salient in the social media environment <ref type="bibr" target="#b2">(Appel et al., 2016)</ref>. The technological affordances of social media platforms enable users to obtain informational updates quickly (e.g., through push notifications or searches in friends' connection). These informational updates may include users' selective posts and carefully crafted preferred identities, portraying a desirable snapshot of their life for others to see. Moreover, social media platform functions, such as the number of comments, likes, or shares on Facebook, afford highly visual information that quickly facilitate one's evaluation of others' popularity, making comparisons almost inevitable <ref type="bibr" target="#b21">(Jiang &amp; Ngien, 2020)</ref>.</p><p>This study posits that envy plays a mediating role in the long-term use of social media and its effect on users' depression, consistent with earlier findings in both longitudinal (e.g., <ref type="bibr" target="#b54">Wang et al., 2019)</ref> and cross-sectional (e.g., <ref type="bibr" target="#b46">Tandoc Jr et al., 2015)</ref> studies. In other words, building on the hypothesized direct effects of social media use on depression (see H1), this relationship can also be indirectly explained by one's feelings of envy. Social comparison is a common occurrence in social media platforms <ref type="bibr" target="#b30">(Li, 2019)</ref>. The assumptions of SRT are also consistent with those of social comparison theory <ref type="bibr" target="#b13">(Festinger, 1954)</ref>, which argues that envy is triggered when one evaluates herself against someone better off, possessing certain superior qualities, achievements, or resources than her. This may result in feelings of subordinacy, which may further lead to the experience of depressive symptoms <ref type="bibr" target="#b12">(Feinstein et al., 2013;</ref><ref type="bibr" target="#b43">Sloman et al., 2003)</ref>. Thus, consistent with previous findings, this study also proposes that:</p><p>H2a. Facebook use (t 1 ) increases feelings of envy (t 2 ), which increases depressive symptoms (t 3 ).</p><p>H2b. Feelings of envy (t 2 ) mediate the relationship between Facebook use (t 1 ) and depressive symptoms (t 3 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study synthesis</head><p>Guided by the framework of SRT <ref type="bibr" target="#b15">(Gilbert, 1992)</ref> and by the rich literature in this area (e.g., <ref type="bibr" target="#b53">Wang et al., 2020)</ref>, the present study revisits the relationships among Facebook use, envy, and depression with a three-wave cross-lagged panel analysis. With a threewave panel study, this study not only tests the proposed hypotheses through cross-lagged analyses but also does so by accounting for autoregressive effects, which helps examine the stability of the involved variables across time <ref type="bibr" target="#b24">(Kearney, 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>This study is based on a three-wave panel survey conducted in Singapore annually from 2016 to 2018. The one-year interval between each wave was consistent with previous longitudinal panel studies investigating the long-term effects of social media on individuals' well-being (e.g., <ref type="bibr" target="#b41">Scherr et al., 2019;</ref><ref type="bibr" target="#b49">Valkenburg et al., 2017)</ref>. The questionnaire was hosted on Qualtrics, and the researchers worked with a polling company based in Singapore that maintains a nationwide online panel to distribute the online survey across three years to a non-probability national sample of Singapore residents. The participants received incentives from the polling company in the form of vouchers in exchange for their participation in the company's polls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Using G*Power 3.1 (F-tests, linear multiple regression) we conducted a priori power analysis to determine the sample size needed to detect our hypothesized effect. Results of this analysis suggested a sample size of about 160-260 to detect a small-to-medium effect size (f 2 N=160 = .10, f 2 N=260 = .06). In view of sample attrition that comes with longitudinal studies, the polling company initially recruited some 1,500 participants for the first survey conducted in December 2016. Only those with a Facebook account and were 18 years and above were allowed to take part in the study. Of those who were invited to participate, at least 1,240 eligible participants completed the first survey. The sample for the first wave is close to the population distribution in terms of gender (54% female) and race (84% Chinese) while the average age is slightly younger (M = 39.2, SD = 11.7) than the median age of 41.7 based on the country's 2018 census (see Table <ref type="table" target="#tab_0">1</ref> for a comparison).</p><p>Of the first wave participants, 602 participants participated in the second wave (51% attrition), of which 367 participants participated in the third wave (39% attrition). There were no significant differences between those who dropped out and those who participated from Wave 1 to Wave 2 when it comes to level of depressive symptoms, t (1,194) = .29, p &gt; .05, but those who dropped out had slightly higher levels of Facebook use (M = 2.72, SD = 2.91 vs. M = 2.08, SD = 1.91; t (1,218) = -4.49, p &lt; .01) and lower feelings of envy (M = 2.94, SD = .81 vs. M = 3.09, SD = .74; t (1,211) = 3.37, p &lt; .01). Indeed, studies have found that panel survey attriters tend to have different personality types from survey stayers <ref type="bibr" target="#b31">(Lugtig, 2014)</ref>. Therefore, the findings of this current study must be contextualized within this limitation-that is, the findings only apply to stayers and may not apply to attriters. However, there were no significant differences between those who dropped out and those who stayed from Wave 2 to Wave 3 across the three variables: depression (t (552) = -.02, p &gt; .05), envy (t (555) = .68, p &gt; .05), and Facebook use (t (553) = -.07, p &gt; .05). There were also no significant differences between those who dropped out and those who stayed based on age across the three waves.</p><p>Of the cases that completed all three waves, a few were excluded for incomplete responses, leaving the analysis with 355 participants. Table <ref type="table" target="#tab_1">2</ref> shows the descriptive statistics for the key variables used in this study, across all waves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure and measurements</head><p>The participants were first asked for their informed consent, consistent with the guidelines of the study's Institutional Review Board (IRB) approval in the large Singapore university where the researchers are affiliated. Then, the participants were asked to provide their demographic information (e.g., age, gender, educational level) before answering the questions on the key measurements for this study.</p><p>Facebook Use. Following <ref type="bibr" target="#b7">Coyne et al. (2020)</ref>, this current study focused on time spent on Facebook. The participants were asked to estimate the number of hours they spend on Facebook on a typical day (t 1 : M = 2.09, SD = 1.97; t 2 : M = 2.09, SD = 1.86; t 3 : M = 2.12, SD = 2.52).</p><p>Envy. This study adapted three items from previous studies to measure feelings of envy <ref type="bibr" target="#b27">(Krasnova et al., 2013;</ref><ref type="bibr" target="#b44">Smith &amp; Kim, 2007)</ref>. The participants were asked to rate their level of agreement with each of the following three statements on a 5-point scale (1 = strongly disagree to 5 = strongly agree): 'I generally feel inferior to others; many of my friends have a better life than me; many of my friends are happier than me.' The scale is reliable across the three waves (t 1 : M = 3.11, SD = .75, α = .79; t 2 : M = 3.11, SD = .74, α = .79; t 3 : M = 3.14, SD = .76, α = .77).</p><p>Depression. The Center for Epidemiologic Studies Depression (CES-D) Scale is one of the commonly used measures of depression. It has been found reliable and valid <ref type="bibr" target="#b37">(Radloff, 1991)</ref> and has been employed by numerous studies that examined depression (e.g., <ref type="bibr" target="#b4">Chen et al., 2020;</ref><ref type="bibr">Yu et al., 2020)</ref>. This current study uses this scale, which consists of 20 items asking questions about symptoms associated with depression, four of which are positively worded items (i.e., higher score means less depression). The results from a confirmatory factor analysis revealed that these four items, across all waves, loaded poorly on the depression construct (i.e., less than .40). For consistency of measurement, these positively worded items were excluded in the final analysis. The scale is used as an additive index with scores ranging from 0 = 'Rarely or none of the time' to 3 = 'Most or all of the time' based on a formula <ref type="bibr" target="#b37">Radloff (1991)</ref> discussed. The scale shows sufficient reliability across the three waves (t 1 : M = 13.4, SD = 10.0, α = .94; t 2 : M = 12.7, SD = 9.95, α = .94; t 3 : M = 14.0, SD = 10.1, α = .94). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Testing the proposed hypotheses requires two models. Model 1 explores the directional influence (baseline relationships) between Facebook use and depression across three waves. Specifically, it aims to address the current ambiguous directional influence between social media use and depression by testing all possible cross-lagged paths between social media use and depression (i.e., originating from Facebook use to depression and vice versa). Then, Model 2 includes the mechanism of envy and examines the role of envy in the cross-lagged relationships defined in Model 1. Before the main analyses, we performed a discriminant validity check on envy across the three waves, comparing with other observed variables. Results of this check revealed that the correlational coefficients for envy are no higher than the square root of their average variance extracted (AVEs), suggesting adequate discriminant validity between other observed variables and demonstrating how the items used to measure envy only measure this construct (see Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A cross-panel analysis procedure with maximum likelihood estimator was conducted using the lavaan package in R (version 3.6). Model 1 offers our baseline model and focuses on two key variables: Facebook use and depression (see Figure <ref type="figure" target="#fig_0">1</ref>). Structural equation modelling technique was adopted to allow the two key variables to simultaneously predict one another across three waves (t 1 , t 2 , and t 3 ). The two key variables were also allowed to correlate with one another within each wave to account for reinforcement effect <ref type="bibr" target="#b42">(Slater, 2007)</ref>. Age, gender, and level of education were added as control variables in the first wave (t 1 ), of which only age and education level were significant covariates. Both age and education level were negatively related to depression as well as Facebook use. However, the effect of education level on Facebook use was marginal.</p><p>Model 1 shows the results of the cross-lagged panel analysis for Facebook use and depression. The autoregressive effects of depression and Facebook use were significant, indicative of a stable relationship within each construct (Facebook use from t 1 to t 2 : β = .53, p &lt; .001; Facebook use from t 2 to t 3 : β = .39, p &lt; .001; depression from t 1 to t 2 : β = .59, p &lt; .001; depression from t 2 to t 3 : β = .61, p &lt; .001).</p><p>H1 proposed two competing hypotheses: a) that Facebook use will lead to depression that will then increase Facebook use; and b) that depression will lead to Facebook use that will then lead to more depression. Model l showed that Facebook use (t 1 ) leads to depression (t 2 ); β = .12, p = .008, which then has a positive impact on subsequent Facebook use (t 3 ); β = .19, p &lt; .001. Therefore, H1a is supported. However, we did not find significant effect of depression (t 1 ) on Facebook use (t 2 ); β = -.08, p = .12, nor of Facebook use (t 2 ) on depression (t 3 ); β = -.003, p = .946. Therefore, H1b is not supported. Overall, the fit indices suggested that Model 1 has an acceptable fit; CFI = .94, TLI = .88, RMSEA = .076.</p><p>Leveraging upon empirical evidence from existing studies, we hypothesized that envy could play an important role in the relationship between social media use and depression. Hence, Model 2 was developed to test how envy may contribute to this relationship by testing all cross-lagged as well as autoregressive paths between the three key variables across all waves (see Figure <ref type="figure" target="#fig_1">2</ref>). The same SEM technique was performed for Model 2 by introducing the same control variables and allowing all key variables to correlate with one another within each of the three waves. The effects of age and education level on depression and Facebook use was replicated in Model 2, and in addition, both control variables were negatively related to envy.</p><p>Overall, Model 2 achieved a better fit; CFI = .93, TLI = .90, RMSEA = .068. A chisquare difference test was conducted to compare the model fit between Model 1 and 2. The chi-square difference test comparing the two models was significant; Δχ 2 (88) = 211.3, p &lt; .001. In other words, the introduction of envy into the model significantly improves the model fit. Considerable autoregressive effects were found between the three variables across all three waves, demonstrating the stability of these measures across time (Facebook use from t 1 to t 2 : β = .53, p &lt; .001; Facebook use from t 2 to t 3 : β = .39, p &lt; .001; depression from t 1 to t 2 : β = .42, p &lt; .001; depression from t 2 to t 3 : β = .44, p &lt; .001; envy from t 1 to t 2 : β = .88, p &lt; .001; envy from t 2 to t 3 : β = .91, p &lt; .001). Results in Model 2 replicated the findings in Model 1. Specifically, Model 2 showed that Facebook use (t 1 ) has a positive influence on depression (t 2 ), β = .13, p = .002. Depression (t 2 ) has a subsequent positive effect on Facebook use (t 3 ), β = .17, p = .012. In other words, as Facebook users spend more time using Facebook (t 1 ), it may cause them to experience more depressive symptoms (t 2 ). Subsequently, this effect may lead to their increased subsequent usage of Facebook (t 3 ). In contrast, there was no significant relationship between depression (t 1 ), and Facebook use (t 2 ), nor between Facebook use (t 2 ) and depression (t 3 ). These findings affirmed Model 1 results, even after accounting for envy in Model 2. Envy (t 1 ) also had a positive effect on depression (t 2 ); β = .28, p &lt; .001. This effect was also consistent at a later time point, from t 2 to t 3 ; β = .27, p &lt; .001.</p><p>H2a predicted that Facebook use would lead to envy, which will then lead to depression. The results show that Facebook use (t 1 ) has a positive relationship with envy (t 2 ), β = .11, p = .021, which then has a subsequent positive relationship with depression (t 3 ), β = .27, p &lt; .001. Therefore, H2a is supported.</p><p>Building on H2a, H2b predicted that envy (t 2 ) mediates the relationship between Facebook use (t 1 ) and depression (t 3 ). Our mediation analysis showed that the total effect (i.e., the sum of indirect and direct effects) of Facebook use (t 1 ) on depression (t 3 ) is insignificant; β = .049, SE = .26, 95% CI [-.27 to .76]. While the analysis found no direct effects, β = .020, SE = .26, 95% CI [-0.41 to .61], it also showed that the indirect effect of Facebook use (t 1 ) on depression (t 3 ) is significant; β = .029, SE = .073, 95% CI [.005 to .291]. In other words, envy (t 2 ) fully mediates the relationship between Facebook use (t 1 ) and depression (t 3 ). Therefore, H2b is supported. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion and conclusion</head><p>This study sought to contribute to the growing literature examining the link between social media use and depression, currently marked by equivocal evidence on causal directions. Guided by the social rank theory of depression <ref type="bibr" target="#b16">(Gilbert, 2001)</ref>, this study also revisited the relationships among Facebook use, envy, and depression through a threewave cross-lagged panel study conducted in Singapore.</p><p>Consistent with earlier studies <ref type="bibr" target="#b46">(Tandoc Jr et al., 2015;</ref><ref type="bibr" target="#b54">Wang et al., 2019)</ref>, the crosslagged analysis found that Facebook use (t 1 ) predicted depression symptoms (t 2 ) that predicted Facebook use (t 3 ). These relationships were found in a cross-lagged model that also controlled for the auto-regressive links of both variables. Unlike other studies which examined the impact of surveillance or passive use of Facebook or using Facebook to keep track of what other users are posting, the current study focused on time spent on Facebook <ref type="bibr" target="#b7">(Coyne et al., 2020)</ref>. And yet, the findings in Model 1 (t 1 to t 2 ) showed that Facebook use could lead to depressive symptoms, aligning it with that of previous studies that focused on passive use of Facebook <ref type="bibr" target="#b47">(Tosun &amp; Kaşdarma, 2019)</ref>. Model 1 (t 2 to t 3 ) also supports the results of previous studies showing that depression may lead users to increase their use of Facebook (e.g., <ref type="bibr" target="#b39">Ryan &amp; Xenos, 2011;</ref><ref type="bibr" target="#b40">Scherr &amp; Brunet, 2017)</ref>. This finding is consistent with the assumption of mood management theory that individuals may utilize media as tools to mitigate their negative moods <ref type="bibr" target="#b9">(Dillman Carpentier et al., 2008)</ref>. Scholars have also demonstrated that social media is one potential platform that depressed individuals go to and make themselves feel better through social comparisons <ref type="bibr" target="#b22">(Johnson &amp; Knobloch-Westerwick, 2014)</ref>. In revisiting the relationship between social media use and depression using a three-wave panel, the current study was able to bring together what might have been considered as separate or contradictory findings from earlier studies: Facebook use may lead to depression, which may further intensify Facebook use.</p><p>Guided by the SRT, this study also examined the role of envy. The cross-lagged analysis also found that Facebook use (t 1 ) predicted feelings of envy (t 2 ), which predicted depressive symptoms (t 3 ) while accounting for the auto-regressive links of all three variables, which also demonstrated the stability of the measures over time. A mediation analysis further revealed that envy (t 2 ) plays a significant mediating role in explaining the long-term relationship between Facebook use (t 1 ) and depressive symptoms (t 3 ). This result is consistent with those found by earlier studies about the role of envy in the link between social media use and depression using cross-sectional and cross-lagged studies <ref type="bibr" target="#b36">(Pera, 2018;</ref><ref type="bibr" target="#b47">Tosun &amp; Kaşdarma, 2019;</ref><ref type="bibr" target="#b54">Wang et al., 2019)</ref> as well as experiments <ref type="bibr" target="#b50">(Verduyn et al., 2015)</ref>. The model also showed that envy consistently predicted depression, both from t 1 to t 2 and from t 2 to t 3 . Using a two-wave panel, <ref type="bibr" target="#b41">Scherr et al. (2019)</ref> had found that depression (t 1 ) influenced envy (t 2 ), while envy (t 1 ) predicted Facebook use (t 2 ). Extending Scherr et al.'s findings, the three-wave panel allowed the current study to demonstrate that Facebook use (t 1 ) as well as depression (t 1 ) predicted feelings of envy (t 2 ), which in turn leads to more depression (t 3 ). It is important to note that <ref type="bibr" target="#b41">Scherr et al. (2019)</ref> examined passive Facebook use while the current study focused on time spent on Facebook. The context of the studies also differs: <ref type="bibr" target="#b41">Scherr et al. (2019)</ref> conducted a national survey in Germany, while this current study conducted a national survey in Singapore. This study's findings must be seen through a set of limitations. First, in seeking to replicate earlier studies and consistent with the SRT, this study focused on examining the links among Facebook use, envy, and depression. However, other important mechanisms may be at play, and the experience of depression is influenced, or mitigated, by other factors. For example, some studies have examined the moderating role of selfesteem on how social media use affects psychological outcomes (e.g., <ref type="bibr" target="#b0">Alfasi, 2019;</ref><ref type="bibr" target="#b26">Kircaburun, 2016)</ref>. Thus, future studies should build on the current findings to propose a more comprehensive model to examine the complex link between social media use and depression. Second, while this study used a three-wave panel survey to establish temporal order, which is a crucial factor to establish causality, the survey method is also at the mercy of how willing and accurate participants are in reporting their feelings, thoughts, and habits. Furthermore, online panel surveys are also limited by high attrition rates, and while this was anticipated, which is why this study overrecruited for its initial sample, the current findings may only apply to stayers and not to attriters, which studies have found may differ from stayers in terms of personality types as well as thresholds for survey fatigue <ref type="bibr" target="#b31">(Lugtig, 2014)</ref>. Thus, future research in this area should also consider using other methods, such as qualitative approaches to offer comprehensive perspectives as well as field experiments that can incorporate the observation and measurement of actual behaviours, such as monitoring actual hours spent on social media and tracking behavioural manifestations of depression.</p><p>Third, to revisit findings by previous studies that used cross-lagged designs, we also implemented one-year intervals between each time point in our three-wave study, allowing us to examine accumulated and long-term effects. However, some of these mechanisms may be more (or less) salient in the short-term. Thus, future studies should also revisit our findings and test them using shorter time lags. Fourth, due to the time in which the data was collected and to standardize measurement items across all waves, this study was unable to utilize latest and more precise measurement items for envy currently available in the literature. For example, <ref type="bibr" target="#b29">Lange et al. (2018)</ref> suggests multiple constructs: namely, pain, benign, and malicious envy in contrast to this study's use of a single construct for envy. Moving forward, future studies investigating the effects of social media on depression may incorporate more updated measurement items relating to envy.</p><p>Fifth, this study examined time spent on Facebook, consistent with other studies <ref type="bibr" target="#b5">(Chow &amp; Wan, 2017;</ref><ref type="bibr" target="#b6">Chowdhry, 2016)</ref>, but also in contrast to other studies in this area that examined a specific type of social media use (e.g., <ref type="bibr" target="#b34">Muzaffar et al., 2018)</ref>. Facebook is a widely popular social media platform in Singapore <ref type="bibr">(Statista, 2020b)</ref> and is now deeply embedded in many users' day-to-day lives. This is because Facebook allows for different types of uses, and many users now perceive it as a holistic experience as opposed to other kinds of media experiences (e.g., using traditional media such as watching television). In general, various social media platforms may offer different types of experience for their users. Therefore, future studies should also account for such differences. Finally, this study was conducted in the specific context of Singapore, a small city-state in Southeast Asia with a unique media context. The findings, therefore, may or may not hold in other contexts. Still, despite this limitation, we hope that by revisiting the relationships among Facebook use, envy, and depression by conducting a study in this Southeast Asian nation, we can contribute to the growing body of work in this important area by offering findings from a non-Western context, making our understanding of this complex but crucial topic more inclusive and diverse.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Edson C. Tandoc Jr. is an Associate Professor at the Wee Kim Wee School of Communication and Information and Director of the Centre for Information Integrity and the Internet (IN-cube) at Nanyang Technological University Singapore. His studies have focused on the impact of journalistic roles, new technologies, and audience feedback on the news gatekeeping process. He has also looked at how readers make sense of critical incidents in journalism and take part in reconsidering journalistic norms; and how changing news consumption patterns facilitate the spread of fake news.</p><p>Zhang Hao Goh is a Postdoctoral Fellow in the Centre for Information Integrity and the Internet (IN-cube) in Nanyang Technological University. His research focuses on IT users' cognitive and protective behavioral responses toward information technology-related risks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Edson C. Tandoc http://orcid.org/0000-0002-8740-9313</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Cross-lagged Path Model showing Long-term Facebook Use and its Effect on Depression Controlling for Age, Gender, and Education level at t 1 Note: Standardized coefficients are used. For simplicity, correlation coefficients between error terms as well as beta coefficients for insignificant paths are omitted. Insignificant paths denoted by the arrows in lighter shade. *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc><graphic coords="9,85.49,53.29,317.78,121.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Cross-lagged Path Model showing the Role of Envy in Impacting the Long-term Relationships between Facebook Use and Depression Controlling for Age, Gender, and Education Level at t 1. Note. Standardized coefficients are used. For simplicity, correlation coefficients between error terms as well as the coefficients for insignificant paths are not shown in this figure. Insignificant paths denoted by the arrows in lighter shade. *p &lt; .05, **p &lt; .01, ***p &lt; .001.</figDesc><graphic coords="10,88.33,53.29,316.80,225.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>This work was supported by Ministry of Education Singapore: [Grant Number Tier 1 grant / RG151/15].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Sample demographics.</figDesc><table><row><cell>Breakdown of participants' demographics</cell><cell>Wave 1 Sample a</cell><cell>Population b</cell></row><row><cell>Age</cell><cell>39.2 (11.7)</cell><cell>41.7 (median)</cell></row><row><cell>Gender</cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>46%</cell><cell>49.6%</cell></row><row><cell>Female</cell><cell>54%</cell><cell>50.4%</cell></row><row><cell>Race</cell><cell></cell><cell></cell></row><row><cell>Chinese</cell><cell>79.4%</cell><cell>76.1%</cell></row><row><cell>Malay</cell><cell>6.5%</cell><cell>15.0%</cell></row><row><cell>Indian</cell><cell>6.1%</cell><cell>7.5%</cell></row><row><cell>Others</cell><cell>2.1%</cell><cell>1.5%</cell></row><row><cell>Note.</cell><cell></cell><cell></cell></row></table><note><p><p>a </p>The study is based on an online survey (n = 1,240); b this is based on the 2018 census involving 3.47 million citizens (Singapore, 2018).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Descriptive Statistics of Key Variables used.</figDesc><table><row><cell></cell><cell></cell><cell>Mean (SD)</cell><cell></cell></row><row><cell></cell><cell>Wave 1 (t 1 )</cell><cell>Wave 2 (t 2 )</cell><cell>Wave 3 (t 3 )</cell></row><row><cell>Key variables</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Facebook use (Hours spent)</cell><cell>2.09 (1.97)</cell><cell>2.08 (1.86)</cell><cell>2.12 (2.51)</cell></row><row><cell>Depression</cell><cell>13.4 (10.0)</cell><cell>12.7 (9.94)</cell><cell>14.0 (10.1)</cell></row><row><cell>Envy</cell><cell>3.11 (.75)</cell><cell>3.11 (.74)</cell><cell>3.14 (.76)</cell></row></table><note><p>Note. Mean values for Facebook use and envy. Additive values for depression. Standard deviations (SD) in parentheses.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Correlation Matrix showing Correlations Coefficients and Square Root of AVEs for Envy, Depression, and Facebook Use. Note. Dep = Depression, FBU = Facebook Use. The square root of AVEs for Envy is in the diagonal. For discriminant val-</figDesc><table><row><cell></cell><cell>Envy (t 1 )</cell><cell>Envy (t 2 )</cell><cell>Envy (t 3 )</cell><cell>Dep (t 1 )</cell><cell>Dep (t 2 )</cell><cell>Dep (t 3 )</cell><cell>FBU (t 1 )</cell><cell>FBU (t 2 )</cell><cell>FBU (t 3 )</cell></row><row><cell>Envy (t 1 )</cell><cell>.74</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Envy (t 2 )</cell><cell>.66***</cell><cell>.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Envy (t 3 )</cell><cell>.61***</cell><cell>.62***</cell><cell>.73</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dep (t 1 )</cell><cell>.52***</cell><cell>.42***</cell><cell>.42***</cell><cell>(NA)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dep (t 2 )</cell><cell>.47***</cell><cell>.47***</cell><cell>.40***</cell><cell>.59***</cell><cell>(NA)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dep (t 3 )</cell><cell>.42***</cell><cell>.40***</cell><cell>.43***</cell><cell>.52***</cell><cell>.60***</cell><cell>(NA)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>FBU (t 1 )</cell><cell>.07</cell><cell>.11*</cell><cell>.16**</cell><cell>.20***</cell><cell>.25***</cell><cell>.17***</cell><cell>(NA)</cell><cell></cell><cell></cell></row><row><cell>FBU (t 2 )</cell><cell>.00</cell><cell>.00</cell><cell>.03</cell><cell>.06</cell><cell>.12*</cell><cell>.05</cell><cell>.49***</cell><cell>(NA)</cell><cell></cell></row><row><cell>FBU (t 3 )</cell><cell>.05</cell><cell>.12</cell><cell>.10</cell><cell>.15**</cell><cell>.23***</cell><cell>.20***</cell><cell>.42***</cell><cell>.42***</cell><cell>(NA)</cell></row></table><note><p>idity, the values in the diagonal should be greater than those in the off-diagonal values. NA referred to AVE being not applicable to single-item construct (FBU) and observed variable (Dep). *p &lt; .05, **p &lt; .01, ***p &lt; .001.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>E. C. TANDOC AND Z. H. GOH</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Yu, S. C., Sheldon, K. M., Lan, W. P., <ref type="bibr">&amp; Chen, J. H. (2020)</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The grass is always greener on my friends&apos; profiles: The effect of Facebook social comparison on state self-esteem and depression</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Alfasi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2019.04.032</idno>
+		<ptr target="https://doi.org/10.1016/j.paid.2019.04.032" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="111" to="117" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Social comparison, envy, and depression on facebook: A study looking at the effects of high comparison standards on depressed individuals</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Appel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crusius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Gerlach</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2015.34.4.277</idno>
+		<ptr target="https://doi.org/10.1521/jscp.2015.34.4.277" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="277" to="289" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The interplay between Facebook use, social comparison, envy, and depression. Current Opinion in Psychology</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Appel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Gerlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crusius</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.copsyc.2015.10.006</idno>
+		<ptr target="https://doi.org/10.1016/j.copsyc.2015.10.006" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="44" to="49" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Coronavirus has revealed the power of social networks in a crisis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+		<ptr target="https://theconversation.com/coronavirus-has-revealed-the-power-of-social-networks-in-a-crisis-136431" />
+	</analytic>
+	<monogr>
+		<title level="m">Friends, friendsters, and myspace top 8: Writing community into being on social network sites. First Monday</title>
+		<imprint>
+			<date type="published" when="2006">2006. 2020</date>
+			<biblScope unit="page" from="11" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Inspecting vulnerability to depression from social media affect</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gong</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyt.2020.00054</idno>
+		<ptr target="https://doi.org/10.3389/fpsyt.2020.00054" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Is there any &apos;Facebook depression&apos;? Exploring the moderating roles of neuroticism, Facebook social comparison and envy</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Wan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2017.07.032</idno>
+		<ptr target="https://doi.org/10.1016/j.paid.2017.07.032" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="277" to="282" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Research links heavy Facebook and social media usage to depression</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chowdhry</surname></persName>
+		</author>
+		<ptr target="https://www.forbes.com/sites/amitchowdhry/2016/04/30/study-links-heavy-facebook-and-social-media-usage" />
+	</analytic>
+	<monogr>
+		<title level="j">Forbes</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>sh=2930885b4b53</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Does time spent using social media impact mental health?: An eight year longitudinal study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Coyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Zurcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stockdale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Booth</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2019.106160</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2019.106160" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Does posting Facebook status updates increase or decrease loneliness? An online social networking experiment</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Deters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mehl</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1948550612469233</idno>
+		<ptr target="https://doi.org/10.1177/1948550612469233" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychological and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="579" to="586" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sad kids, sad media? Applying mood management theory to depressed adolescents&apos; use of media</title>
+		<author>
+			<persName><forename type="first">Dillman</forename><surname>Carpentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Bertocci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Silk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Forbes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/15213260701834484</idno>
+		<ptr target="https://doi.org/10.1080/15213260701834484" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="143" to="166" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Connection strategies: Social capital implications of facebook-enabled communication practices</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444810385389</idno>
+		<ptr target="https://doi.org/10.1177/1461444810385389" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="873" to="892" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Passive and active social media use and depressive symptoms among United States adults</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Escobar-Viera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Bowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2017.0668</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2017.0668" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="437" to="443" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Negative social comparison on Facebook and depressive symptoms: Rumination as a mechanism</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Feinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hershenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Latack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Meuwly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Davila</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0033111</idno>
+		<ptr target="https://doi.org/10.1037/a0033111" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="161" to="170" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A theory of social comparison processes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Festinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/001872675400700202</idno>
+		<ptr target="https://doi.org/10.1177/001872675400700202" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="140" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Browsing, posting, and liking on Instagram: The reciprocal relationships between different types of Instagram use and adolescents&apos; depressed mood</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2017.0156</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2017.0156" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="603" to="609" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Depression: The evolution of powerlessness</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Guilford Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Depression and stress: A biopsychosocial exploration of evolved functions and mechanisms</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10253890109115726</idno>
+		<ptr target="https://doi.org/10.3109/10253890109115726" />
+	</analytic>
+	<monogr>
+		<title level="j">Stress</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="121" to="135" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Unique associations of social media use and online appearance preoccupation with depression, anxiety, and appearance rejection sensitivity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hawes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Zimmer-Gembeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bodyim.2020.02.010</idno>
+		<ptr target="https://doi.org/10.1016/j.bodyim.2020.02.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Body Image</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="66" to="76" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">How TikTok is rewriting the world</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herrman</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Time spent on social network sites and psychological well-being: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0758</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2016.0758" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="346" to="354" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Facebook depression?&quot; social networking site use and depression in older adolescents</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jelenchick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Eickhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2012.05.008</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2012.05.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="128" to="130" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The effects of Instagram use, social comparison, and self-esteem on social anxiety: A survey study in Singapore</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ngien</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305120912488</idno>
+		<ptr target="https://doi.org/10.1177/2056305120912488" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Glancing up or down: Mood management and selective social comparisons on social networking sites</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Knobloch-Westerwick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.09.009</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2014.09.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Social media use and its connection to mental health: A systematic review</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Karim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Oyewande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Abdalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Ehsanullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khan</surname></persName>
+		</author>
+		<idno type="DOI">10.7759/cureus.8627</idno>
+		<ptr target="https://doi.org/10.7759/cureus.8627" />
+	</analytic>
+	<monogr>
+		<title level="j">Cureus</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Cross-Lagged panel analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Kearney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The SAGE encyclopedia of Communication research methods</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Allen</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>SAGE Publications</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="313" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Individual differences in social media use for information seeking</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C J</forename><surname>Sin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Tsai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.acalib.2014.03.001</idno>
+		<ptr target="https://doi.org/10.1016/j.acalib.2014.03.001" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Academic Librarianship</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="171" to="178" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Self-esteem, daily internet use and social media addiction as predictors of depression among turkish adolescents</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kircaburun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Education and Practice</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="64" to="72" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Widjaja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buxmann</surname></persName>
+		</author>
+		<title level="m">Envy on Facebook: a hidden threat to users&apos; life satisfaction? 11th International Conference on Wirtschaftsinformatik (WI)</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Drawing conclusions from cross-lagged relationships: Re-considering the role of the time-interval</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kuiper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ryan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10705511.2018.1431046</idno>
+		<ptr target="https://doi.org/10.1080/10705511.2018.1431046" />
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="809" to="823" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The painful duality of envy: Evidence for an integrative theory and a meta-analysis on the relation of envy and schadenfreude</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Weidman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crusius</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/pspi0000118</idno>
+		<ptr target="https://doi.org/10.1037/pspi0000118" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="572" to="598" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Upward social comparison and depression in social network settings</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/IntR-09-2017-0358</idno>
+		<ptr target="https://doi.org/10.1108/IntR-09-2017-0358" />
+	</analytic>
+	<monogr>
+		<title level="j">Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="59" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Panel attrition: Separating stayers, fast attriters, gradual attriters, and lurkers</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lugtig</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0049124113520305</idno>
+		<ptr target="https://doi.org/10.1177/0049124113520305" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methods &amp; Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="699" to="723" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The associations between problematic Facebook use, psychological distress and well-being among adolescents and young adults: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vieno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Spada</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2017.10.007</idno>
+		<ptr target="https://doi.org/10.1016/j.jad.2017.10.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<imprint>
+			<biblScope unit="volume">226</biblScope>
+			<biblScope unit="page" from="274" to="281" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Social media and depressive symptoms in childhood and adolescence: A systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mccrae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gettings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Purssell</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40894-017-0053-4</idno>
+		<ptr target="https://doi.org/10.1007/s40894-017-0053-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Adolescent Research Review</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="315" to="330" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The association of adolescent facebook behaviours with symptoms of social anxiety, generalized anxiety, and depression</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Muzaffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Brito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Canadian Academy of Child and Adolescent Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="252" to="260" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">All my online-friends are better than me -three studies about ability-based comparative social media use, self-esteem, and depressive tendencies</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ozimek</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0144929X.2019.1642385</idno>
+		<ptr target="https://doi.org/10.1080/0144929X.2019.1642385" />
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour &amp; Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1110" to="1123" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Psychopathological processes involved in social comparison, depression, and envy on facebook</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pera</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2018.00022</idno>
+		<ptr target="https://doi.org/10.3389/fpsyg.2018.00022" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The use of the Center for Epidemiologic Studies Depression scale in adolescents and young adults</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Radloff</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF01537606</idno>
+		<ptr target="https://doi.org/10.1007/BF01537606" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth and Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Longitudinal associations between problematic social media use and depressive symptoms in adolescent girls</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Raudsepp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kais</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pmedr.2019.100925</idno>
+		<ptr target="https://www.statista.com/topics/5815/social-media-in-singapore/https://doi.org/10.1016/j.pmedr.2019.100925" />
+	</analytic>
+	<monogr>
+		<title level="j">Preventive Medicine Reports</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Who uses Facebook? An investigation into the relationship between the Big five, shyness, narcissism, loneliness, and Facebook usage</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xenos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2011.02.004</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2011.02.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1658" to="1664" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Differential influences of depression and personality traits on the use of facebook</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Scherr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brunet</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305117698495</idno>
+		<ptr target="https://doi.org/10.1177/2056305117698495" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Media+ Society</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Depression as a predictor of Facebook surveillance and envy: Longitudinal evidence from a cross-lagged panel study in Germany</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Scherr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Toma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schuster</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-1105/a000247</idno>
+		<ptr target="https://doi.org/10.1027/1864-1105/a000247" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Psychology: Theories, Methods, and Applications</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="196" to="202" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Reinforcing spirals: The mutual influence of media selectivity and media effects and their impact on individual behavior and social identity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Slater</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2007.00296.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.2007.00296.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="281" to="303" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Evolved mechanisms in depression: The role and interaction of attachment and social rank in depression</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sloman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hasey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0165-0327(02)00116-7</idno>
+		<ptr target="https://doi.org/10.1016/S0165-0327(02)00116-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="107" to="121" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Comprehending envy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.133.1.46</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.133.1.46" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="64" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><surname>Statista</surname></persName>
+		</author>
+		<ptr target="https://www.statista.com/topics/5815/social-media-in-singapore/" />
+		<title level="m">#:~:text=With over 2.7 billion monthly,the biggest social network worldwide Statista. (2020b). Social media in Singapore</title>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+	<note>Number of monthly active Facebook users worldwide as of 2nd quarter</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Facebook use, envy, and depression among college students: Is facebooking depressing?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tandoc</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ferrucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duffy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.10.053</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2014.10.053" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="139" to="146" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Passive Facebook use and depression: A study of the roles of upward comparisons, emotions, and friendship type</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Tosun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaşdarma</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-1105/a000269</idno>
+		<ptr target="https://doi.org/10.1027/1864-1105/a000269" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The Facebook experiment: Quitting Facebook leads to higher levels of wellbeing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tromholt</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0259</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2016.0259" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="661" to="666" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The concurrent and longitudinal relationships between adolescents&apos; use of social network sites and their social self-esteem</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koutamanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vossen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2017.07.008</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2017.07.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="35" to="41" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines Affective well-being: Experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shablack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orvell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jonides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000057</idno>
+		<ptr target="https://doi.org/10.1037/xge0000057" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology. General</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Who compares and despairs? The effect of social comparison orientation on social media use and its outcomes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Okdie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eckles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Franz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2015.06.026</idno>
+		<ptr target="https://doi.org/10.1016/j.paid.2015.06.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="249" to="256" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Facebook will soon rely on Instagram for the majority of its ad revenue growth</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Molla</surname></persName>
+		</author>
+		<ptr target="https://www.vox.com/2018/10/9/17938356/facebook-instagram-future-revenue-growth-kevin-systrom" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Upward social comparison on mobile social media and depression: The mediating role of envy and the moderating role of marital quality</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jiang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2020.03.173</idno>
+		<ptr target="https://doi.org/10.1016/j.jad.2020.03.173" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="143" to="149" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The longitudinal association between passive social networking site usage and depressive symptoms: The mediating role of envy and moderating role of life satisfaction</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gaskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2019.38.3.181</idno>
+		<ptr target="https://doi.org/10.1521/jscp.2019.38.3.181" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="181" to="199" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Social rank theory of depression: A systematic review of self-perceptions of social rank and their relationship with depressive symptoms and suicide risk</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wetherall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Robb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>O'connor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2018.12.045</idno>
+		<ptr target="https://doi.org/10.1016/j.jad.2018.12.045" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorder</title>
+		<imprint>
+			<biblScope unit="volume">246</biblScope>
+			<biblScope unit="page" from="300" to="319" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Why people use social media: A uses and gratifications approach</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Whiting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/QMR-06-2013-0041</idno>
+		<ptr target="https://doi.org/10.1108/QMR-06-2013-0041" />
+	</analytic>
+	<monogr>
+		<title level="j">Qualitative Market Research: An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="362" to="369" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Is social network site usage related to depression? A meta-analysis of facebook-depression relations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brannick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2019.01.026</idno>
+		<ptr target="https://doi.org/10.1016/j.jad.2019.01.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<imprint>
+			<biblScope unit="volume">248</biblScope>
+			<biblScope unit="page" from="65" to="72" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

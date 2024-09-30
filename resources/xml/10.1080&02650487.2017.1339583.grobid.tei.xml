@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Family-based treatment for obesity in tweens: a three-year longitudinal follow-up study</title>
+				<funder ref="#_35PGqPy">
+					<orgName type="full">Korea government (MEST)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Hongsik</forename><forename type="middle">J</forename><surname>Cheon</surname></persName>
+							<email>hcheon@ssu.ac.kr</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Marketing</orgName>
+								<orgName type="department" key="dep2">College of Business</orgName>
+								<orgName type="institution">Soongsil University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jay</forename><forename type="middle">R</forename><surname>Fraser</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Marketing</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Business</orgName>
+								<orgName type="institution">Soongsil University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Trang</forename><forename type="middle">Kieu</forename><surname>Nguyen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Marketing</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Business</orgName>
+								<orgName type="institution">Soongsil University</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Family-based treatment for obesity in tweens: a three-year longitudinal follow-up study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AEDB7580B0BFC623972F60F5197E705A</idno>
+					<idno type="DOI">10.1080/02650487.2017.1339583</idno>
+					<note type="submission">Received 18 December 2014 Accepted 19 April 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Tweens</term>
+					<term>obesity</term>
+					<term>media</term>
+					<term>advertising</term>
+					<term>brand</term>
+					<term>family communication</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Children's increasing obesity worldwide is creating negative health and socioeconomic drawbacks. To find the determinants of obesity, this research looked at the influence of (1) media usage; (2) advertising messages/brand recognition; and (3) communication or lack of communication between parents and their children on obesity and food-related Purchase Influence Attempts (PIAs) of tweens. A 3year longitudinal follow-up study was conducted with 68 families whose children were either obese or at risk of becoming obese. The subjects were divided into the following four groups: (1) media amount was controlled; (2) brand recognition was controlled; (3) communication channel of family members was controlled; and (4) all three conditions were controlled. Our results showed significant weight-loss and reduction in PIAs in all groups except in group 2 (brand recognition controlled). This work shows the importance of changing habits using behavioural treatment and the importance of communication among family members on obesity prevention.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Childhood obesity is a rapidly increasing problem, especially in North America, <ref type="bibr">Europe, and Asia (World Health Organization 2014)</ref>. More than 17% of children under the age of 12 in North America in 2008 and 24% of school-aged children in Europe in 2010 (World Health Organization 2014) were obese. In Korea, the percentage of overweight and obese children has almost doubled from 12.3% in 1997 to 20.9% in 2005 <ref type="bibr" target="#b42">(Oh et al. 2008)</ref>. In addition, 15.6% of Korean adolescents were obese in 2012 <ref type="bibr" target="#b25">(Ha and Kim 2016)</ref>. Unhealthy diet from early childhood is the biggest cause of chronic adult diseases. More than 60% of obese adolescents already suffer from high blood pressure, hyperlipidaemia, diabetes, and other serious diseases <ref type="bibr" target="#b16">(Dietz 1998)</ref>. The social cost of obesity in Korea is estimated at $ 473-702 million. When indirect costs are included, the social cost of obesity in Korea is about 1200-1817 billion won <ref type="bibr" target="#b0">(Ahn and Joung 2005)</ref>. Therefore, it is urgent to discover the factors that can lead to reduction in childhood obesity so that citizens are healthy and the socio-economic costs of obesity can be reduced in the future.</p><p>Several external factors can affect children's behaviours, including parental factors <ref type="bibr" target="#b2">(Anzman, Rollins, and Birch 2010;</ref><ref type="bibr" target="#b36">Kral and Rauh 2010)</ref> and socio-cultural factors <ref type="bibr" target="#b51">(Rozin 1996)</ref>, and advertising plays a predominant role <ref type="bibr" target="#b46">(Powell, Szczypka, and Chaloupka 2007)</ref>. Children's media exposure to food-related advertising is high <ref type="bibr" target="#b35">(Kelly et al. 2010)</ref>. The aim of this study was to examine whether parent-child communication, media consumption, and advertising and brands were determinants of obesity. We focused on the living environment of tweens (ages 6-11) who were obese or at the risk of becoming obese. The causes, prevention, and management of childhood obesity in family environment were focused on as a preliminary step to discuss public health policies for government, society, and schools. In addition, an observation was made on children's various socio-behavioural factors and indices (i.e. Purchase-Influence Attempts (PIA) and higher percentile Body Mass Index (BMI)) that could appear as results of the aforementioned factors. This research is a leading longitudinal follow-up study on prevention and management of obesity in tweens who are vulnerable to advertisements and marketing exposure. We aim to highlight the role of parents within a family unit. Thus, this research reviewed practical alternatives, implications, and limitations of the role of family in preventing and managing tween obesity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Literature review and conceptual framework</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Purchase-influence attempts</head><p>Based on USA Weekend/Roper Report <ref type="bibr">(1989)</ref>, for children aged 19 and under, 78% of them can influence parents' decision in the purchase of fast food, 51% can affect the diet of the entire family, and 31% can affect the decision in selecting and purchasing certain brands. Influence attempts are defined as goal-directed actions intended to affect a decision outcome <ref type="bibr" target="#b19">(Flurry and Burns 2005)</ref>.</p><p>The negotiation strategies adopted by children to affect the PIA of their parents include the following: (1) opinionating and expressing opinion (OEO) such as like or dislike a purchase; (2) persistence asking repetitively (PAR) without irritation; (3) nagging asking repetitively (NAR) in a manner that irritates parents; (4) pleading or begging (POB) <ref type="bibr" target="#b43">(Palan and Wilkes 1997)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Body mass index</head><p>The Center for Disease Control and Prevention (CDC) has announced the following categories of BMIs <ref type="bibr">(CDC 2015)</ref>: (1) underweight, youths with BMI-for-age of less than the 5th percentile; (2) healthy weight, youths with BMI-for-age from the 5th percentile to less than the 85th percentile; (3) overweight, youths with BMI-for-age from the 85th percentile to less than the 95th percentile; (4) obese, youths with BMI-for-age equal to or greater than the 95th percentile. However, body types and attributes of children and adolescents of the Asia-Pacific region are different from those of their counterparts in North America or Europe. Thus, Korea has differentiated its conditions for obesity from the existing BMI standards. Based on the Korean children-adolescent cohort study data status of 2007, the Korean Pediatric Society defines obesity by using the 50th percentile of weight for height as the average weight to assess the level of obesity (i.e. the level of obesity (%) = [(actual weight ¡ average weight for height)/average weight for height] £ 100). Based on that definition, the following categories have been proposed: (1) average, 50th percentile of weight for height between ¡10 and 10; (2) overweight, 50th percentile of weight for height between 10 and 20; (3) obese, 50th percentile of weight for height of more than 20 <ref type="bibr" target="#b44">(Park 2011)</ref>. This paper adopted the method described above to define overweight and obese groups considering the specific attributes of Korean children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Media consumption</head><p>Media consumption can impact obesity in two essential ways: reduce energy expenditure due to the lack of physical activity and increase the energy intake <ref type="bibr" target="#b49">(Robinson 1999)</ref>. First, excessive use of electronic media and the internet to communicate with families and friends will lessen the chance of outdoor and extracurricular activities necessary for active lifestyles <ref type="bibr" target="#b29">(Huston et al. 1992)</ref>. <ref type="bibr">Anderson and others (1998)</ref> have studied the relationship between TV-viewing and exercise and found a clear negative relation. The BMIs of children who watch TV for more than four hours have been reported to be the highest whereas the BMIs of children who watch TV for less than one hour are the lowest <ref type="bibr">(Anderson et al. 1998;</ref><ref type="bibr" target="#b53">Scully et al. 2014)</ref>. They have suggested that BMI is correlated with media consumption.</p><p>Media consumption can also impact obesity through exposing children to advertisements during their viewing time, especially food advertisement tailored towards them. Social-cognitive theory suggests that the messages presented in television food advertisements may act as real-world primes. They can lead viewers to have corresponding eating behaviours <ref type="bibr" target="#b4">(Bargh and Morsella 2008)</ref>. For example, consumers exposed to fear-based health message are more likely to make a positive food choice <ref type="bibr" target="#b11">(Charry and Demoulin 2012;</ref><ref type="bibr" target="#b37">Krishen and Bui 2015)</ref>. Some researchers have argued that there is a relationship between television food advertising and children's food-related behaviours, including their food purchase requests <ref type="bibr" target="#b26">(Hastings et al. 2003;</ref><ref type="bibr" target="#b18">Escalante De Cruz 2004)</ref>. <ref type="bibr">Taras and others (1989)</ref> and <ref type="bibr" target="#b3">Atkin (1975)</ref> have assessed purchase-influence behaviour and reported that PIAs are impacted by TV food promotion. Food advertising also has an association with children's food consumption behaviour (Jeffrey and French 1998), which can directly lead to obesity. Product placement, another kind of food promotion, has been found to be able to significantly increase vegetable-eating behaviour <ref type="bibr" target="#b10">(Charry 2014)</ref>.</p><p>It has been reported that a high proportion of all television food advertising is for food items high in fat, salt, and/or sugar <ref type="bibr" target="#b9">(Chapman et al. 2006;</ref><ref type="bibr" target="#b35">Kelly et al. 2010)</ref>. According to Marketing News, 41% of advertisements that target children during Saturday mornings are food products with high fat contents (DeNitto 1994). Specifically in Korea, food and beverage-related advertisements accounted for more than 17% of all advertisements on network TV in November 2013 <ref type="bibr">(KOBACO 2013)</ref>. Using the 50th percentile of weight for height in relation to age as the standard weight, the first hypothesis of this study was: H1: If the amount of media consumption is controlled, PIA and BMI of children in the overweight group and the obese group with more than four hours of media consumption (e.g. TV, internet, game, etc.) will decrease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Food advertising message and brand recognition</head><p>Food advertisements that target children can increase food purchase intentions of children, eventually leading them to become obese <ref type="bibr" target="#b5">(Beauchamp and Moran 1984;</ref><ref type="bibr" target="#b38">Liem and De Graaf 2004)</ref>. <ref type="bibr">Hastings and others (2003)</ref> found that transformational advertising, liking of characteristics, and misconception of ad claims are the three most effective forms of advertisements targeting children. The purpose of transformational advertising is to transfer the experience of using products to consumers so that they can associate the usage of the product with certain feelings, images, or meanings <ref type="bibr" target="#b6">(Belch and Belch 2003)</ref>. In other words, transformational advertising encourages consumers to feel empathy with the brand <ref type="bibr" target="#b13">(Clynes 1980;</ref><ref type="bibr" target="#b50">Rogers 1983;</ref><ref type="bibr" target="#b47">Puto and Wells 1984)</ref>. It creates positive emotions <ref type="bibr" target="#b45">(Petty, Cacioppo and Goldman 1981)</ref> with affective reactions so that consumers can partake in hedonic consumption <ref type="bibr" target="#b28">(Hirschman and Holbrook 1982)</ref>. According to social adaptation theory <ref type="bibr" target="#b20">(Forkan 1980;</ref><ref type="bibr" target="#b27">Hawkins, Best, and Coney 1983)</ref>, likeable images of celebrity endorsers such as 'Tony the Tiger' whose appearance is a healthy tiger and the message of the product and brand (e.g. Kellogg Cereal provides a balanced breakfast) can simultaneously enhance the effectiveness of an advertisement in changing the attitude of consumers and stimulating their purchase intention <ref type="bibr" target="#b33">(Kahle 1984;</ref><ref type="bibr" target="#b34">Kahle and Homer 1985;</ref><ref type="bibr" target="#b54">Spielvogel and Terlutter 2013)</ref>. Based on activation theory, the following two factors can enhance the validity of an advertisement:</p><p>(1) positive bias (e.g. this hamburger has 30% less fat and carbohydrates. Therefore, it is better than any other hamburgers), when consumers judge the product more positively due to health-promotion messages of the product advertisement and brand; (2) the halo effect of the benefit that can result in cognitive bias <ref type="bibr" target="#b12">(Choi et al. 2013;</ref><ref type="bibr" target="#b48">Quillian 1967)</ref>.</p><p>Transformational advertising, liking of characteristics, and misconception of ad claims are all extensions of marketing strategy. They aim to enhance the level of recognition of advertising messages and brands, thus increasing the PIA and BMI of children. Therefore, using the 50th percentile of weight for height in relation to age as the standard weight, we had the second hypothesis as shown below:</p><p>H2: If advertising message and brand are blocked, the PIA and BMI of children will decrease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parent-child communication</head><p>Bronfenbrenner and Morris (1998) have used the bio-ecological perspective to explain the role of surrounding environment in health risks for children, including dietary habits that lead to obesity. They have focused on parent-child communication as interactions to express warmth, attachment, concern, and interest between and among parents and children. In a family, when parents and children communicate more often and more effectively, cohesion and intimacy will appear. Cohesion and intimacy can enhance internal connectedness and encourage family members to participate in family activities, thus reducing media consumption while increasing opportunities for parents to observe, supervise, and control their children's behaviours <ref type="bibr" target="#b17">(Dorr and Rabin 1995;</ref><ref type="bibr" target="#b21">Gentile and Walsh 2002;</ref><ref type="bibr" target="#b57">Willits and Willits 1986)</ref>. Effective communication techniques, flexibility, and development of two-way communication among family members can change children's weight by developing their cognitive and health skills (e.g. making children abide by meal times, controlling the eating pace, portion size, and appropriate eating habits) <ref type="bibr" target="#b22">(Golan and Weizman 2001;</ref><ref type="bibr" target="#b41">Newman and Oates 2014)</ref>. These efforts can ultimately lead to children's weight loss. Using the 50th percentile of weight for height in relation to age as the standard weight, this study has the following hypotheses:</p><p>H3: If effective communication between subjects in the overweight group and the obese group and their parents is increased, the PIA and BMI of these children will decrease.</p><p>In addition, this research investigated on weight loss when all three variables were combined. Therefore, the fourth hypothesis is as follows:</p><p>H4: If the amount of media consumption is controlled, advertising message and brand are blocked, and effective communication with parents is increased, the PIA and BMI of children will decrease.</p><p>Our hypothesized model is shown in Figure <ref type="figure" target="#fig_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample and procedure</head><p>Data were collected over the course of 36 months from September 2010 to September 2013 for tweens aged between 6 and 11 years. Subjects and their parents who participated in the 36-month long longitudinal follow-up study were recruited by dividing elementary schools in Seoul into 3-4 analytical units with the following steps: (1) the head researcher of this study visited Seoul Metropolitan Education Office to explain the validity and effectiveness of this research and obtained consent;</p><p>(2) the head researcher of this study visited each elementary school to conduct consultations with principals and health teachers to explain the objective and meaning of this research and obtain their consents;</p><p>(3) potential subjects (e.g. tweens who were above the 50 th percentile of weight for height in relation to age) were selected; (4) consultation sessions were held with parents of subjects and consents were obtained; (5) subjects were only selected if both parents and potential subjects themselves gave consent; (6) final subjects were selected for the study and divided into four groups that fit our conditions; and (7) parents of the final selected subjects were contacted again to explain the process for future experiment. They were asked for the final consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Longitudinal follow-up study</head><p>With one-way repeated-measures analysis of variance (ANOVA), each subject in the study was manipulated by four levels of metric variables (i.e. Media Consumption Controlled (MCC), Advertising Message/Brand Blocked (AM/BB), Effective Communication Increased (ECI), and MCC + AM/BB + ECI) and two measured variables (i.e. PIA and BMI) during each manipulation. Based on these steps, 145 subjects who were over the 50 th percentile of weight to height (BMI) were recruited and categorized by age, gender, weight, and height. The within-subjects factor was time. It was measured by 12 surveys conducted over the course of 36 months. That is, a series of longitudinal follow-up studies were conducted for the four separate groups.</p><p>Each group was statistically independent. Their lifestyles contributed to their high BMIs. All groups were instructed to keep their current lifestyle consistent with the exception of manipulating variables under two conditions: (1) parents enforced the same rules on the whole family; and (2) parents were instructed to stay as consistent as possible over the period of the study. Differential experimental designs among groups were as follows: (1) for the first group (MCC) whose current daily media consumption was more than four hours, their media consumption was controlled to be less than 30 minutes a day. Even in the event of special occasions, parents' rule on TV-viewing was not relaxed. In addition, parents enforced the same rule on all family members (Gentle and Walsh 2002); (2) for the second group (AM/BB), parents controlled all commercial pictures and advertising messages on products that children received. For example, cereals were provided in a different container other than the original box with its brand to prevent brand exposure. Drinks were poured into cups instead of letting the children consume them from the original containers <ref type="bibr" target="#b39">(MacKlin 1996;</ref><ref type="bibr">Wang et al. 2015)</ref>; (3) for the third group (ECI), parents enforced rules and communicated with their children regarding their eating habits (e.g. making them abide by meal times, eating pace, portion control, and increasing their self-efficacy by developing appropriate eating habits). Parents also tried to create a healthier environment for eating (e.g. adjusting the time between meals and snacks, portion control for all family members, alternative leisure and outdoor activities, and controlling factors that may cause over-eating, etc.) <ref type="bibr" target="#b22">(Golan and Weizman 2001)</ref>; and (4) for the final group (MCC + AM/BB + ECI), all the above conditions were controlled.</p><p>Subjects were given detailed information about height and weight along with methods to control the amount of media consumption, ad/brand exposure, and communication once every three months through mail and emails. Consultations were held after the 4th, 8th, and 12th survey to teach parents and children about appropriate diet, communication methods, and exercises. Additionally, accumulated changes and average PIA and BMI were calculated and provided to parents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measure and instruments</head><p>The measurement tool was a survey devised after conducting a preliminary survey with 15 subjects and their parents. Based on the literature, this research utilized pre-existing scale items shown below: (1) family media usage question proposed by <ref type="bibr" target="#b21">Gentile and Walsh (2002)</ref> was modified to measure media consumption; (2) with respect to measuring blockage of advertisements and brands, <ref type="bibr" target="#b39">MacKlin's (1996)</ref> research was used as a basis to control all commercial pictures, colours, and advertisement messages before providing them to the children. For example, foods were provided in unmarked containers to prevent brand exposure; (3) in terms of family communication, nine items related to cognitive and health skills and eight items related to parenting skills described by <ref type="bibr" target="#b22">Golan and Weizman (2001)</ref> were re-structured and applied to this research. Families for whom (1) media usage was modified, (2) advertisements and brands blocked, (3) family communication increased, or (4) all three methods were used for changes in BMI and PIA with a tool developed by <ref type="bibr" target="#b43">Palan and Wilkes (1997)</ref>. Using a 7point scale (1 = completely disagree; 7 = strongly agree), four items of OEO, three items of PAR, three items of NAR, and three items of POB developed by <ref type="bibr" target="#b43">Palan and Wilkes (1997)</ref> were deployed to regularly monitor the response of the subjects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants profile</head><p>Demographic characteristics of the final 68 subjects who completed the full 36 months of this research are summarized in Table <ref type="table" target="#tab_0">1</ref>. As of 2010, the average height and weight of each group regarding their grades (ages) and treatment conditions are shown in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants selection</head><p>Subjects in the overweight and obese groups based on the 50th percentile standard weight were divided into four groups (MCC, AM/BB, ECI, and MCC + AM/BB + ECI). They were treated for 36 months to observe changes in PIA and BMI. Each question regarding independent variable received a high reliability coefficient alpha (0.85 -0.94) in each of the four groups. A high score (e.g. 7 out of a 7-point scale) indicated that parents were able to perfectly control their children in regards to these variables. Only subject families whose average scores were higher than the median of the four groups were included in the treatment group. A total of 18 families in the MCC group showed a higher median score (5.43 vs. 3.34, t = 4.43, p &lt; 0.01) in terms of controlling media consumption. The median score of the AM/BB group after blocking advertisements and brands was 4.94 (vs. 3.88, t = 2.25, p &lt; 0.01). A total of 17 families in the ECI group whose communication among family members was effectively increased showed a higher average score (5.47 vs.</p><p>3.17, t = 4.73, p &lt; 0.01). Finally, the average score of the 17 families in the MCC + AM/BB + ECI group who were controlled in all three areas was higher (5.43 vs. 3.23, t = 4.52, p &lt; 0.01). There were significant differences between the selected participants and the unselected participants in each group. In order to measure changes in PIA and BMI in the four groups, four items of OEO, three items of PAR, three items of NAR, and three items of POB developed by <ref type="bibr" target="#b43">Palan and Wilkes (1997)</ref> were used. The internal consistency reliability for these items ranged between 0.80 and 0.92, indicating that each question had a high reliability to measure the dependent variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Findings of hypotheses</head><p>The MCC group was composed of subjects who were overweight or at the risk of becoming overweight with daily media consumption of more than four hours. The control group had subjects with media consumption reduced to be less than 30 minutes. Over the period of 36 months, 12 surveys were given. The average PIA was calculated every 12 months (PIA_0, PIA_1, PIA_2, PIA_3). To obtain pairwise comparisons and polynomial contrasts of PIA and BMI between pre-test and post-test, a one-way repeated-measure ANOVA was conducted.</p><p>In terms of PIA changes, the standard univariate ANOVA showed F (3, 51) = 8.47, p &lt; 0.01 at four levels within-subjects, indicating that the subjects' PIAs were changed over time when the media consumption amount was controlled. Additionally, a significant result was shown in multivariate test through one-way ANOVA (Wilks's L = 0.51, F (3, 15) = 4.90, p &lt; 0.05, Table <ref type="table" target="#tab_1">2</ref>).</p><p>For four cases, PIA changes in six pairwise comparisons were found to be significant (p &lt; 0.05, Table <ref type="table" target="#tab_2">3</ref>), demonstrating a relationship between the amount of media consumption and the subject's PIA. Results of ANOVA and pairwise comparison showed a negative correlation between the amount of media consumption and the subject's PIA. In terms of BMI changes, the standard univariate ANOVA (labelled Sphericity Assumed) showed F (3, 51) = 6.98 (p &lt; 0.01) throughout the four phases of within-subjects (Table <ref type="table" target="#tab_3">4</ref>), indicating that the subject's weight was changed with the progress of time. Additionally, a significant result (Wilks's L = 0.20, F (3, 15) = 19.50, p &lt; 0.01) was achieved in the multivariate test through one-way ANOVA (Table <ref type="table" target="#tab_3">4</ref>). This implicated that, when the media consumption was reduced from more than four hours daily to less than 30 minutes daily, the weight of the subject was also reduced.</p><p>After obtaining statistically significant ANOVA results, pairwise comparisons were conducted to identify changes in the BMI. Four cases of six pairwise comparisons were found to have significant (p &lt; 0.05) changes in the BMI. The smallest p-value (p &lt; 0.001) was found between BMI_1 and BMI_3 (Table <ref type="table" target="#tab_4">5</ref>). This indicated that limiting media consumption for three years resulted in the subject's weight loss.</p><p>In the group of AM/BB, both advertising message and brand were blocked for the subjects. Pairwise comparisons and polynomial contrasts of PIA and BMI revealed the following: (1) no statistically significant difference in PIA was found based on standard univariate ANOVA and multivariate tests (Table <ref type="table" target="#tab_5">6</ref>); (2) no statistically significant change in    BMI was obtained in standard univariate ANOVA (F (3, 45) = 0.99) or multivariate tests (Wilks's L = 0.74, F (3, 13) = 1.56, Table <ref type="table" target="#tab_6">7</ref>). Therefore, the pairwise comparisons revealed no significant change in the PIA or BMI for this group.</p><p>For a total of 17 families in the ECI group whose communication among family members was effectively increased, the PIA changes of the subjects in the ECI group were significant in both ANOVA (F (3, 48) = 3.34, p &lt; 0.05) and multivariate tests (Wilks's L = 0.48, F (3, 14) = 5.08, p &lt; 0.05, Table <ref type="table" target="#tab_7">8</ref>). Therefore, increasing effective communication within a family can affect children's PIA.</p><p>For the six pairwise comparisons in the ECI group, the p-value between PIA_0 and PIA_3 was 0.001, which was less than a = 0.008. However, between PIA_0 and PIA_2, only a marginally significant (t = 1.83, p &lt; 0.1) result was found (Table <ref type="table" target="#tab_8">9</ref>). These results indicated that increasing effective communication among family members had a greater effect on the subjects' PIA as time progressed.</p><p>To track the BMI changes every 12 months, pairwise comparisons and polynomial contrasts were conducted. A statistically significant difference was found in the standard univariate ANOVA (F(3, 48) = 5.88, p &lt; 0.01). A marginally significant difference (Wilks's L = 0.61, F(3, 14) = 3.00, p &lt; 0.1) was achieved in the multivariate test. This indicated that effective communication could bring changes to children's weight (Table <ref type="table" target="#tab_9">10</ref>).    Of six pairwise comparisons, four were found to be statistically significant (p &lt; 0.05). The smallest p-value (0.003) was obtained for the comparison between BMI_1 and BMI_3, which was less than a = 0.008. Therefore, the difference between the means of the two was significant. Additionally, at the a = 0.1 level, the p-values between BMI_0 and BMI_3 (p-value = 0.019 vs. a = 0.020), BMI_0 and BMI_2 (p-value = 0.021 vs. a = 0.025), and BMI_1 and BMI_2 (p-value = 0.025 vs. a = 0.033) were all less than a (0.1), indicating marginal significance (Table <ref type="table" target="#tab_10">11</ref>). This result demonstrated that an increase in effective communication within a family could help the subjects reduce their BMI.</p><p>For the group with MCC + AM/BB + ECI, the PIA changes showed statistically significant differences in ANOVA (F (3, 48) = 7.60, p &lt; 0.01) and multivariate tests (Wilks's L = 0.48, F (3, 14) = 5.11, p &lt; 0.05, Table <ref type="table" target="#tab_11">12</ref>). This indicated that weights of the subjects could be reduced when all three variables were controlled.</p><p>In the six comparisons, two cases were statistically significant at the a = 0.05 level. The p-values for the comparison between PIA_0 and PIA_3 and between PIA_1 and PIA_3 were 0.001 (a = 0.008) and 0.01, respectively (Table <ref type="table" target="#tab_12">13</ref>). This demonstrated that the subjects' PIAs were decreased in the MCC + AM/BB + ECI group.</p><p>The BMI changes of the subjects in the MCC + AM/BB + ECI group were statistically significant both in the standard univariate ANOVA (F (3, 48) = 9.04, p &lt; 0.01) and multivariate tests (Wilks's L = 0.45, F (3, 14) = 5.72, p &lt; 0.01, Table <ref type="table" target="#tab_13">14</ref>).   Additionally, three of the six pairwise comparisons were statistically significant at the a level of 0.05. From high to low, the statistically significance order was: (BMI_0-BMI_3) &gt; (BMI_0-BMI_2) &gt; (BMI_1-BMI_3) (Table <ref type="table" target="#tab_14">15</ref>). The final model (Figure <ref type="figure" target="#fig_2">2</ref>) shows the significant effects of the three variables on both PIA and BMI of subjects over 36 months. Therefore, the BMI was reduced in all years except for the first year.    </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Results of this study can be summarized as follows. In hypothesis 1, we were able to observe a clear decrease in BMI when we reduced the amount of media exposure of children from four hours or more to less than 30 minutes a day. However, statistically significant difference was only found in the third year (36 months). No significant reduction in BMI was observed in the first year or the second year. The PIAs of subjects were clearly decreased over the span of three years. However, the level of changes varied when it was observed on a yearly basis. The largest decrease was observed in the first year. The decrease slowed down in the second year and the third year. This could be due to unpredictable extraneous variables. For example, parents' control over children's media consumption might be strict in the beginning but waned over time. The results of hypothesis 1 were in agreement with many other previous studies demonstrating the relationship between obesity and TV-viewing. For example, <ref type="bibr">Boyland and others (2012)</ref> have claimed that the cause of obesity is not a decrease in activities due to high exposure to TV. Rather, it is the diverse food-related information that has strengthened children's attempts to influence the selection and purchase of food when they are exposed to TV for a considerable amount of time. In other words, the cause of obesity is the increase of information from media which has increased children's PIAs, ultimately leading to purchase and a higher BMI.</p><p>In hypothesis 2, we expected a decrease in BMI and a change in purchase intentions of tweens when advertising message and brand were blocked. However, no significant difference was observed. This indicated that children's recognition of advertising message and brand was more influenced by outside factors than by their families. In fact, consumer education begins with parents who are the closest to children when they are young. However, when children get older, they are more influenced by peer groups and external environments such as schools which promote children's consumer socialization <ref type="bibr" target="#b32">(John 1999)</ref>. <ref type="bibr" target="#b24">Greenberg, Fazal, and Wober (1986)</ref> have reported that children discuss advertisements and brands with their peers more frequently than with their family members. Children have a strong desire to interact with their peers through shared customs, values, and behavioural standards. Korean children usually attend many kinds of private after-school programs instead of doing physical activities. This means that they spend a lot of time without parental control.</p><p>In hypothesis 3, this research endeavoured to observe how effective communication in families might change children's BMI and PIA. The BMI was actually increased in the first year. However, the BMI decrease was statistically significant in the second and third years. The most significant BMI reduction was between the end of the first year and the third year. The increase in communication among family members is likely to take some time since it is not a one-way communication in a top-down format. Instead, it is a two-way communication which takes time to initiate. <ref type="bibr" target="#b23">Golan et al. (1998)</ref> have compared the efficacies between a treatment group (of which parents are the agents of change based on family-oriented communication) and a control group (of which only children are treated). Their results revealed that the treatment group demonstrated a significantly higher weight reduction than the control group. This demonstrates the important role of parents in creating a positive environment for children to develop healthy eating habits. In the same manner, parental influence on offspring consumer's learning through communication among family members has more significance than general consumer decision-making. Parents have influence in areas such as developing offspring's selective preferences (e.g. brand preference, store preference, consumption motivation, skills of assessing external information, and so on, <ref type="bibr" target="#b40">Mochis 1983)</ref>. Family communication patterns can influence the preferences or positive attitudes towards products, which in turn can affect purchases and PIA as reported in many literatures.</p><p>Hypothesis 4 was established to observe the PIA and BMI changes in the subjects when all the three factors were controlled. The purpose of a within-subject design was to observe the subjects' behaviours before treatment, during treatment, and after treatment, unlike a between-subject design which could only observe differences in dependent variables between the subject groups. This study controlled independent variables for the same subjects or the same subject group to measure the changes in PIA and BMI. Therefore, the objective of hypothesis 4 was to observe the differences in PIA and BMI of the subjects when each of the three factors were controlled separately and when all the three factors were controlled simultaneously. The purpose of controlling all the three factors at the same time was to try to create synergy so that more dramatic changes in PIA and BMI could be obtained.</p><p>The F-value of labelled Sphericity was calculated with ANOVA. BMI values for MCC, AM/ BB, ECI, and MCC + AM/BB + ECI groups were determined. For the four groups, the F-values were: AM/BB_F-value (3, 45) = 0.99, ECI_F-value (3, 48) = 5.88, MCC_F-value (3, 51) = 6.98, and MCC + AM/BB + ECI_F-value (3.48) = 9.04, demonstrating that the group with all the three factors controlled simultaneously had greater changes in BMI. From pairwise comparison perspective, the average value of BMI was decreased after the treatment compared to its value at pre-treatment. For example, the MCC + AM/BB + ECI (t = 4.40) group showed a greater reduction in BMI than the ECI (t = 2.61) or the MCC (t = 3.51) group. The F-values of the four groups regarding PIA changes were: AM/BB_F-value (3, 45) = 0.65, ECI_F-value (3, 48) = 3.34, MCC + AM/BB + ECI_F-value (3.48) = 7.60, and MCC_F-value (3, 51) = 8.47. This result indicated that the group with only MCC had the largest change in PIA, followed by the group with all the three factors controlled. As shown in Table <ref type="table" target="#tab_2">3</ref>, the relationship between media consumption control and PIA was the most visible between pre-treatment and after one year of treatment. The PIA was increased after one and two years of treatment. However, the PIA was decreased between years 2 and 3. The reason for such a fluctuating relationship between media control and PIA instead of a consistent relationship might be due to the fact that electronic media can be controlled to a certain degree at home by parents or other members of the family. However, when children step outside, they are exposed to electronic media without parental control. For example, there are computer labs at school. In addition, many Korean arcade and video game rooms exist near schools. Thus, media control outside the parameter of the home is almost impossible. Decreases in PIA from pre-treatment to post-treatment were observed in the MCC group (t = 3.51), the ECI group (t = 3.83), and the MCC + AM/BB + ECI group (t = 3.93). Although the differences between these groups were not large, the group with all the three factors controlled had the largest decrease in PIA after three years of treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and future research</head><p>This research has some limitations. First, a secondary objective of this research was to identify any genetic obesity factors in parents and observe their income and education level to report demographic and genetic correlations. However, the subjects' parents did not answer many demographic-related questions such as their height or weight. Therefore, we were unable to obtain accurate information. This research had to manipulate and control within the context of family as well as parents-children relationship. However, the role of parents is the most important one. Therefore, in future studies, we aim to identify the relationship between parents' social status and children's obesity as well as genetic relationship (e.g. Galton's regression) between parents and children by obtaining information on parents' physical attributes and socio-economic status.</p><p>Second, we recruited subjects by dividing Seoul City into several units with the help of the education office of Seoul. Initially, we were able to recruit more than 300 families with obese children between 6 and 11 years old (first to fifth grade in elementary school). However, only 145 families (less than 50%) finished the study. Additionally, only 68 families fit the conditions necessary for the four groups. Due to such limitations in recruiting, the sample size of all the four groups was less than 26, which was the minimally necessary number for subjects in each group at the significance level of 0.05, test power of 0.80, and effect size of 0.20 based on Cohen rule <ref type="bibr" target="#b14">(Cohen 1988</ref>). Thus, in future researches, the recruiting area needs to be expanded to all regions of Korea and other Asian countries to study childhood obesity based on the difference in national cultures and eating habits.</p><p>Third, we contacted subject families who participated in this research every three months using mails or emails to receive their responses on accurate diagnosis and survey questions. We also calculated accumulated changes of PIA and BMI as well as their averages to consult with parents about the subjects and made observations on manipulation and controlling the series of experiments. However, most data were self-administered measurements, in which the subjects or subject families answered the survey questions without monitoring. Therefore, we did not have any information on how much information was shared between parents and children regarding the experiment and how it influenced the overall performance of manipulation and controlling. In addition, parents answered the survey questions based on their arbitrary judgement of their children's behaviours and the effectiveness of their control. Another limitation is that children's behaviour cannot be controlled outside the parameter of the family. Most Korean children spend large amounts of time outside their home. Therefore, they can behave freely without any control during those times. The presence of many convenience stores, arcades, and video game rooms close to schools might expose children to uncontrolled advertising and marketing. They also enable children to buy food anytime they want. Therefore, the Korean government, society, and schools need to discuss a means to regulate advertising and marketing that target children in all forms of media (e.g. regulating food-related advertisement at different times of the day). In addition, the environment near schools needs to be improved. Moreover, public health policies need to be established to help control childhood obesity.</p><p>The BMI decrease was statistically significant in all groups except in hypothesis 2. However, based on the obesity level in a Korean children-adolescent study by <ref type="bibr" target="#b52">Ryu et al. (2007)</ref>, less than 5% of their subjects' weights were decreased to be within the average weight range. This might be due to the fact that the current research excluded biological and medical causes such as genetic factors, energy intake, imbalanced consumption, lack of exercise, abnormal hormones, and metabolism. We only focused on the types of media, advertisements, brands, and parent-children communication. Thus, although this current research was able to demonstrate that family-oriented prevention and management of childhood obesity could be effective, more effective prevention methods could be obtained to reduce obesity in children if various genetic and medical causes are included in future studies.</p><p>Finally, our results showed that H1, H3, and H4 were supported whereas H2 was not supported. Our results suggest that controlling obesity through blocking advertising messages and brands solely is not effective. However, if it is combined with the other two factors (media consumption control and effective communication increase), good results could be obtained to control obesity. The strength of this study is hypothesis 4 because no prior research has attempted such a method. To control for possible confounding effects, all analyses were repeated with covariates such as age, gender, weight, height, family income, and parents' education. These covariates showed no significant impact on the reported group effects or interactions. However, there were limitations in controlling other extraneous variables as described in the 'Discussion'. For example, the subjects were controlled by parents only inside their home. They might have been influenced by the external environment. Their parents stated that the rules were enforced from the beginning to the end of the study. However, it is impossible to completely control things such as media usage, brand advertising, or commercial messages. In order to cope with the limitation of parents' administrative data collection technique which depends on parents' responses, anthropological methods are needed to conduct observational research studies in the future.</p><p>In conclusion, a longitudinal follow-up study was performed to determine the relationships among the BMI, PIAs, media usage, family communication, and marketing communications. This study emphasized the insight that preventing childhood obesity and establishing proper purchase attempts are possible through joint efforts of parents and children to change children's habits and behaviour. This study has the following possible contributions. First, unlike previous studies on obesity which revolved around medical and biological approaches such as genetic factors and energy intake, the focus of this research was based on the fact that obesity could be influenced by family communication and the surrounding environment. Specifically, this study included managerial implications and emphasized the importance of changes in behaviour and habits through the role and communication of family. Second, this research was not based on a cross-sectional design that could use one sample to study the relationship between childhood obesity and media consumption, food advertising, marketing, and family communication channels. Rather, this study had a longitudinal design to observe and study the changes with the progress of time. This is especially notable in consideration of the fact that changes in obesity cannot be observed from a single point. Third, previous obesity studies were limited to adults or adolescents over the age of 13. However, this study concentrated on tweens between 6 and 11 years old, the developmental phase of early obesity, to provide solutions to develop proper purchase decisions and prevent obesity. Fourth, this study demonstrated the importance of proper communication between tweens who are starting to abstractly understand parents' opinions and motivations as well as their parents. This highlights the issue that children's purchase habits and obesity have to be handled through parents' participation. Finally, previous studies on obesity were limited to North Americans and Europeans whose diet is heavily focused on meat consumption. An increase in consumption of meat and instant food has led to increased risk of childhood obesity in Asian countries whose diet used to be mainly vegetables. Therefore, this study provides a valuable opportunity for Asian countries to identify ways to control childhood obesity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the authors.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Hypothesized model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>0.1, **p &lt; 0.05, &amp; ***p &lt; 0.01. Note: PIA -Purchase Influence Attempts BMI -Body Mass Index MCC -Media Communication Controlled AM/BB -Advertising Message / Brand Blocked ECI -Effective Communication Increased</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Final results model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Subject characteristics.</figDesc><table><row><cell></cell><cell></cell><cell>Frequency/</cell><cell>Average height</cell></row><row><cell>Characteristics</cell><cell>Categories</cell><cell>percentage</cell><cell>(cm)/weight (kg)</cell></row><row><cell>Grade (age)</cell><cell>First (6-7 years)</cell><cell>15/22.06</cell><cell>125/31.10</cell></row><row><cell></cell><cell>Second (7-8 years)</cell><cell>9/13.24</cell><cell>132.90/35.30</cell></row><row><cell></cell><cell>Third (8-9 years)</cell><cell>8/11.76</cell><cell>137.00/41.20</cell></row><row><cell></cell><cell>Fourth (9-10 years)</cell><cell>15/22.06</cell><cell>146.80/49.40</cell></row><row><cell></cell><cell>Fifth (10-11years)</cell><cell>21/30.88</cell><cell>146.40/52.90</cell></row><row><cell>Sex</cell><cell>Female</cell><cell>26/38.24</cell><cell>139.40/43.00</cell></row><row><cell></cell><cell>Male</cell><cell>42/61.76</cell><cell>138.70/42.70</cell></row><row><cell>Group</cell><cell>MCC</cell><cell>18/26</cell><cell>139.40/43.50</cell></row><row><cell></cell><cell>AM/BB</cell><cell>16/24</cell><cell>139.80/44.10</cell></row><row><cell></cell><cell>ECI</cell><cell>17/26</cell><cell>129.60/38.30</cell></row><row><cell></cell><cell>MCC + AM/BB +</cell><cell>17/25</cell><cell>139.50/43.20</cell></row><row><cell></cell><cell>ECI</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Mean differences and multivariate tests between PIAs for MCC.</figDesc><table><row><cell>PIAs for MCC</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 51) (3, 15)</cell><cell>8.47 ÃÃ 4.89 ÃÃ</cell><cell>0.33 0.50</cell></row></table><note><p>Ã p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Pairwise comparisons between PIAs for MCC. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>PIAs for MCC</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>PIA_0-PIA_1 PIA_0-PIA_2 PIA_0-PIA_3</cell><cell>1.13 0.82 1.57</cell><cell>17 17 17</cell><cell>4.00 ÃÃÃ 2.45 ÃÃ 3.51 ÃÃÃ</cell><cell>0.001 &lt; 0.008 0.023 &lt; 0.025 0.003 &lt; 0.010</cell></row><row><cell>PIA_1-PIA_2</cell><cell>¡0.31</cell><cell>17</cell><cell>¡1.29</cell><cell>0.22</cell></row><row><cell>PIA_1-PIA_3 PIA_2-PIA_3</cell><cell>0.44 0.75</cell><cell>17 17</cell><cell>1.68 2.33 ÃÃ</cell><cell>0.11 0.032 &gt; 0.030</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Mean differences and multivariate tests between BMIs for MCC. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>BMIs for MCC</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 51) (3, 15)</cell><cell>6.98 ÃÃ 19.50 ÃÃ</cell><cell>0.29 0.80</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Pairwise comparisons between BMIs for MCC. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>BMIs for MCC</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>BMI_0-BMI_1</cell><cell>¡0.38</cell><cell>17</cell><cell>¡0.83</cell><cell>0.42</cell></row><row><cell>BMI_0-BMI_2 BMI_0-BMI_3 BMI_1-BMI_2 BMI_1-BMI_3 BMI_2-BMI_3</cell><cell>0.26 1.15 0.64 1.53 0.89</cell><cell>17 17 17 17 17</cell><cell>0.57 4.27 ÃÃ 3.06 ÃÃÃ 4.97 ÃÃÃ 2.77 ÃÃ</cell><cell>0.57 0.001 &lt; 0.05/5 = 0.010 0.007 &lt; 0.05/4 = 0.013 0.000 &lt; 0.05/6 = 0.008 0.013 &lt; 0.1/3 = 0.030</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc>Mean differences and multivariate tests between PIAs for AM/BB.</figDesc><table><row><cell>PIAs for AM/BB</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed</cell><cell>(3, 45)</cell><cell>0.65</cell><cell>0.04</cell></row><row><cell>Wilks's L</cell><cell>(3, 13)</cell><cell>0.75</cell><cell>0.15</cell></row></table><note><p>Ã p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 .</head><label>7</label><figDesc>Mean differences and multivariate tests between BMIs for AM/BB. p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>BMIs for AM/BB</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed</cell><cell>(3, 45)</cell><cell>0.99</cell><cell>0.06</cell></row><row><cell>Wilks's L</cell><cell>(3, 13)</cell><cell>1.56</cell><cell>0.27</cell></row></table><note><p>Ã </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 .</head><label>8</label><figDesc>Mean differences and multivariate tests between PIAs for ECI. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>PIAs for ECI</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 48) (3, 14)</cell><cell>3.34 ÃÃ 5.08 ÃÃ</cell><cell>0.17 0.52</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 9 .</head><label>9</label><figDesc>Pairwise comparisons between PIAs for ECI. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>PIAs for ECI</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>PIA_0-PIA_1 PIA_0-PIA_2 PIA_0-PIA_3</cell><cell>0.43 0.63 0.96</cell><cell>16 16 16</cell><cell>1.06 1.83 Ã 3.83 ÃÃÃ</cell><cell>0.30 0.08 &gt; 0.02 0.001 &lt; 0.008</cell></row><row><cell>PIA_1-PIA_2</cell><cell>0.21</cell><cell>16</cell><cell>0.75</cell><cell>0.46</cell></row><row><cell>PIA_1-PIA_3</cell><cell>0.53</cell><cell>16</cell><cell>1.64</cell><cell>0.12</cell></row><row><cell>PIA_2-PIA_3</cell><cell>0.32</cell><cell>16</cell><cell>1.37</cell><cell>0.19</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 10 .</head><label>10</label><figDesc>Mean differences and multivariate tests between BMIs for ECI.</figDesc><table><row><cell>BMIs for ECI</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 48) (3, 14)</cell><cell>5.88 ÃÃÃ 3.00 Ã</cell><cell>0.27 0.40</cell></row></table><note><p>Ã p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 11 .</head><label>11</label><figDesc>Pairwise comparisons between BMIs for ECI. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>BMIs for ECI</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>BMI_0-BMI_1 BMI_0-BMI_2 BMI_0-BMI_3 BMI_1-BMI_2 BMI_1-BMI_3</cell><cell>¡0.03 0.65 1.06 0.69 1.08</cell><cell>16 16 16 16 16</cell><cell>¡0.14 2.56 ÃÃ 2.61 ÃÃ 2.48 ÃÃ 3.02 ÃÃÃ</cell><cell>0.894 0.021 &lt; 0.025 0.019 &lt; 0.020 0.025 &lt; 0.033 0.008 &lt; 0.0083</cell></row><row><cell>BMI_2-BMI_3</cell><cell>0.39</cell><cell>16</cell><cell>1.51</cell><cell>0.15</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 12 .</head><label>12</label><figDesc>Mean differences and multivariate tests between PIAs for MCC + AM/BB + ECI. ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>PIAs for MCC + AM/BB + ECI</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 48) (3, 14)</cell><cell>7.60 ÃÃ 5.11 ÃÃ</cell><cell>0.32 0.52</cell></row><row><cell>Ã p &lt; 0.1,</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 13 .</head><label>13</label><figDesc>Pairwise comparisons between PIAs for MCC + AM/BB + ECI.</figDesc><table><row><cell>PIAs for MCC + AM/BB + ECI</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>PIA_0-PIA_1</cell><cell>0.35</cell><cell>16</cell><cell>2.30 ÃÃ</cell><cell>0.035</cell></row><row><cell>PIA_0-PIA_2 PIA_0-PIA_3</cell><cell>0.63 1.34</cell><cell>16 16</cell><cell>1.74 3.93 ÃÃÃ</cell><cell>0.101 0.001&lt; 0.01</cell></row><row><cell>PIA_1-PIA_2 PIA_1-PIA_3 PIA_2-PIA_3</cell><cell>0.28 0.99 0.71</cell><cell>16 16 16</cell><cell>0.98 4.17 ÃÃÃ 2.24 ÃÃ</cell><cell>0.344 0.001&lt; 0.008 0.039</cell></row></table><note><p>Ã p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 14 .</head><label>14</label><figDesc>Mean differences and multivariate tests between BMIs for MCC+ AM/BB + ECI. p &lt; 0.1, ÃÃ p &lt; 0.05, and ÃÃÃ p &lt; 0.01.</figDesc><table><row><cell>BMIs for MCC+ AM/BB + ECI</cell><cell>df</cell><cell>F-value</cell><cell>Partial eta squared</cell></row><row><cell>Sphericity assumed Wilks's L</cell><cell>(3, 48) (3, 14)</cell><cell>9.04 ÃÃÃ 5.72 ÃÃÃ</cell><cell>0.36 0.55</cell></row></table><note><p>Ã </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>Table 15 .</head><label>15</label><figDesc>Pairwise comparisons between BMIs for MCC + AM/BB + ECI.</figDesc><table><row><cell>BMIs for for MCC + AM/BB + ECI</cell><cell>MD</cell><cell>df</cell><cell>t-value</cell><cell>p-value vs. a</cell></row><row><cell>BMI_0-BMI_1 BMI_0-BMI_2 BMI_0-BMI_3</cell><cell>0.45 0.94 1.64</cell><cell>16 16 16</cell><cell>1.78 3.03 ÃÃÃ 4.40 ÃÃÃ</cell><cell>1.0 0.008 &lt; 0.01 0.000 &lt; 0.008</cell></row><row><cell>BMI_1-BMI_2</cell><cell>0.48</cell><cell>16</cell><cell>1.46</cell><cell>1.65</cell></row><row><cell>BMI_1-BMI_3</cell><cell>1.18</cell><cell>16</cell><cell>3.08</cell><cell>0.007 &lt; 0.012</cell></row><row><cell>BMI_2-BMI_3</cell><cell>0.70</cell><cell>16</cell><cell>2.33</cell><cell>0.033</cell></row><row><cell></cell><cell>MCC</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>AM/BB</cell><cell></cell><cell></cell><cell></cell></row><row><cell>PIA</cell><cell></cell><cell></cell><cell></cell><cell>BMI</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>Funded by a <rs type="funder">National Research Foundation of Korea (NRF)</rs> grant by the <rs type="funder">Korea government (MEST)</rs> [grant number <rs type="grantNumber">2010-332-B00121</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_35PGqPy">
+					<idno type="grant-number">2010-332-B00121</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Hongsik J. Cheon, Ph.D. (University of Florida), professor of Marketing, Soongsil University, Seoul, Korea. He teaches undergraduate courses on principles of marketing and consumer behaviour and a graduate course on the information processing at Soongsil University <ref type="bibr">(2008-present)</ref>. He has published over 30 articles, books and chapters, primarily in the area of consumer attitudes and response to advertising. His current research addresses consumer behaviour and message framing. He was previously on the faculty of the Frostburg State University, MD, USA for four years <ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref>.</p><p>Jay R. Fraser, Ph.D. candidate, he received his undergraduate degree in Business Administration in Canada in 1993. After working for several years in Canada he moved to Korea in 1997 to teach English. He received his master's degree in English Literature from Chosun University in 2009, but after teaching a marketing class, decided to get his Ph.D. in Marketing. He is interested in the marketing of social causes, particularly anti-smoking messages for adolescents.</p><p>Trang Kieu Nguyen received her Master degree in Business Administration from KyungHee University, Korea in 2011. She has been studying as a doctoral student in the Department of Marketing, College of Business, Soongsil University (2013 ~Present). Her research interests include consumer behaviour, advertising and marketing effectiveness.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Socioeconomic cost of obesity in Korea</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Joung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean Journal of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="786" to="792" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Relationship of physical activity and television watching with body weight and level of fatness among children: Results from the third national health and nutrition examination survey</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Cheskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pratt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="938" to="942" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Parental influence on children&apos;s early eating environments and obesity risk: Implications for prevention</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Anzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Rollins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Birch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Obesity</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1116" to="1124" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Survey of children&apos;s and mother&apos;s responses to television commercials. The effects of television advertising on children</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Atkin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Michigan State University</publisher>
+			<pubPlace>East Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The unconscious mind</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bargh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morsella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="79" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Acceptance of sweet and salty tastes in 2-year-old children</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Beauchamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appetite</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="291" to="305" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Advertising and promotion: An integrated communications perspective</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Belch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>McGraw-Hill</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Persuasive techniques used in television advertisements to market foods to UK children</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Harrold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Kirkham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Halford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appetite</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="658" to="664" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The ecology of developmental processes</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Bronfenbrenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Morris</surname></persName>
+		</author>
+		<ptr target="https://www.cdc.gov/healthyweight/assessing/bmi/childrens_bmi/about_childrens_bmi.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Theoretical models of human development</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Damon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lerner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY; USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley and Sons, Inc. CDC: Centers for Disease Control and Prevention</publisher>
+			<date type="published" when="1998">1998. 2015</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="993" to="1023" />
+		</imprint>
+	</monogr>
+	<note>Handbook of child psychology. th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The extent and nature of food promotion directed to children in Australian supermarkets</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicholas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Banovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Supramaniam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Promotion International</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="331" to="339" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Product placement and the promotion of healthy food to pre-adolescents: When popular TV series make carrots look cool</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Charry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="599" to="616" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Behavioral evidence for the effectiveness of threat appeals in the promotion of healthy food to children</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Charry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Demoulin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="773" to="794" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Presence and effects of health and nutrition-related (HNR) claims with benefit-seeking and risk-avoidance appeals in female-orientated magazine food advertisements</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hyun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Macias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="587" to="616" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The communication of emotion: Theory of sentics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clynes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emotion Theory Research and Experience</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="271" to="301" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Statistical power analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fast-food ads come under fire</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Denitto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advertising Age</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Health consequences of obesity in youth: Childhood predictors of adult disease</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Dietz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="518" to="525" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Parents, children, and television</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dorr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Rabin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Handbook of Parenting</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="323" to="351" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The junk food generation. A multi-country survey of the influence of television advertisements on children</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Escalante De Cruz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Kuala Lumpur: Consumers International</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Children&apos;s influence in purchase decisions: A social power theory approach</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Flurry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Burns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Research</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="593" to="601" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Product matchup key to effective star presentations</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forkan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advertising Age</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">42</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A normative study of family media habits</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="178" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Familial approach to the treatment of childhood obesity: Conceptual model</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weizman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nutrition Education</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="102" to="107" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Parents as the exclusive agents of change in the treatment of childhood obesity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weizman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Apter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fainaru</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Clinical Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1130" to="1135" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Children&apos;s views on advertising</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fazal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wober</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Research Department, Independent Broadcasting Authority</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Epidemiology of childhood obesity in Korea</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocrinology and Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="510" to="518" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Review of the research on the effects of food promotion to children</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hastings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alasdair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mackintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rayner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caraher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Angus</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Food Standards Agency</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Coney</surname></persName>
+		</author>
+		<title level="m">Consumer behaviour: Implications for marketing strategy</title>
+		<meeting><address><addrLine>Plano, TX</addrLine></address></meeting>
+		<imprint>
+			<publisher>Business Publications</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hedonic consumption: Emerging concepts, methods and propositions</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Hirschman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Holbrook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="92" to="101" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Huston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Donnerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fairchild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Feshbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Wilcox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Zuckerman</surname></persName>
+		</author>
+		<title level="m">Big world, small screen: The role of television in American society</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Lincoln</surname></persName>
+		</author>
+		<imprint>
+			<publisher>University of Nebraska Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Epidemic obesity in the United States: Are fast foods and television viewing contributing?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Jeffery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>French</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="277" to="280" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Consumer socialization of children: A retrospective look at twenty-five years of research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="183" to="213" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Attitudes and social adaptation: A person-situation interaction approach</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Kahle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Pergamon Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Physical attractiveness of the celebrity endorser: A social adaptation perspective</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Kahle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Homer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="954" to="961" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Television food advertising to children. A global perspective</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C G</forename><surname>Halford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Boyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bautista-Castano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Berg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korea advertising expenditure quarterly</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="1730" to="1736" />
+			<date type="published" when="2010">2010. 2013</date>
+			<publisher>Korean Broadcast Advertising Corporation</publisher>
+			<pubPlace>Seoul</pubPlace>
+		</imprint>
+	</monogr>
+	<note>American Journal of Public Health</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Eating behaviors of children in the context of their family environment</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Kral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rauh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="567" to="573" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Fear advertisements: Influencing consumers to make better health decisions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Krishen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="533" to="548" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Sweet and sour preferences in young children and adults: Role of repeated exposure</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Liem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">De</forename><surname>Graaf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="421" to="429" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Preschoolers&apos; learning of brand names from visual cues</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Macklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="251" to="261" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The role of family communication in consumer socialisation of children and adolescent</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mochis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="868" to="913" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Parental mediation of food marketing communications aimed at children</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Oates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="579" to="598" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Prevalence and trends in obesity among Korean children and adolescents in 1997 and 2005</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean Journal of Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="950" to="955" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">AdolescentÀparent interaction in family decision making</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Palan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wilkes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="169" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Prevalence of overweight and obesity in Korean children: The results of Korean children-adolescent cohort study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Weekly Report</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="857" to="862" />
+			<date type="published" when="2005">2011. 2005-2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Personal involvement as a determinant of argumentbased persuasion</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Petty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Cacioppo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="847" to="855" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Adolescent exposure to food advertising on television</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Szczypka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Chaloupka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Preventive Medicine</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="251" to="256" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Informational and transformational advertising: The differential effects of time</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Puto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="638" to="643" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Word concepts: A theory and simulation of some basic semantic capabilities</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Quillian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Science</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="410" to="430" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Reducing children&apos;s television viewing to prevent obesity: A randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">282</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1561" to="1567" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Emotion, imagery, and verbal codes: A closer look at an increasingly complex interaction. Imagery memory and cognition: Essays in honor of Allan Paivio</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Rogers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="285" to="305" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The socio-cultural context of eating and food choice</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rozin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Food choice, acceptance and consumption</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Herbert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Halliday</forename><surname>Meiselman</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Macfie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman &amp; Hall</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="83" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Obesity and the metabolic syndrome in Korean adolescents</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kweon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rhee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Korean Medical Science</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="513" to="517" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Food and beverage cues in UK and Irish children -Television programming</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Scully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Macken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Healy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Gorman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Disease in Childhood</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="979" to="984" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Development of TV advertising literacy in children: Do physical appearance and eating habits matter?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Spielvogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Terlutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="343" to="368" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A USA weekend/roper report on consumer decision-making in American families</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Taras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Sallis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Nader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Developmental &amp; Behavioral Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="176" to="180" />
+			<date type="published" when="1989">1989. 1989</date>
+			<publisher>USA Weekend</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Television&apos;s influence on children&apos;s diet and physical activity</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Brand popularity as an advertising cue affecting consumer evaluation on sustainable brands: A comparison study of Korea</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Whang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mattila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">China, and Russia. International Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="789" to="811" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Adolescent participation in leisure activities</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Willits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Willits</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leisure Sciences</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="206" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>The less, the more&quot; or &quot;the more, the more</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Facts and figures on childhood obesity</title>
+		<ptr target="http://www.who.int/end-childhood-obesity/facts/en/" />
+		<imprint>
+			<date type="published" when="2014-10-29">2014. October 29</date>
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

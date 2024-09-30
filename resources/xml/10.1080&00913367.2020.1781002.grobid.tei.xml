@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Navigating Relationship Norms: An Exploration of How Content Strategies Improve Brand Valuation over Time</title>
+				<funder ref="#_vacE2nm">
+					<orgName type="full">Jean E. Rolles Research Endowment</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>PhD,</roleName><forename type="first">Qimei</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">California State University</orgName>
+								<address>
+									<settlement>Hayward</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD,</roleName><forename type="first">Yi</forename><surname>He</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD,</roleName><forename type="first">Miao</forename><surname>Hu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MS,</roleName><forename type="first">Jay</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Shidler College of Business</orgName>
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<addrLine>2404 Maile Way</addrLine>
+									<postCode>C303, 96822</postCode>
+									<settlement>Honolulu</settlement>
+									<region>HI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">University of Minnesota at Twin Cities) is Jean E. Rolles</orgName>
+								<orgName type="institution" key="instit2">Shidler College of Business</orgName>
+								<orgName type="institution" key="instit3">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">College of Business and Economics</orgName>
+								<orgName type="institution" key="instit1">University of Hawaii) is Professor of Marketing</orgName>
+								<orgName type="institution" key="instit2">California State University</orgName>
+								<address>
+									<settlement>East Bay, Hayward</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Kellogg School of Management</orgName>
+								<orgName type="institution" key="instit2">Northwestern University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Shidler College of Business</orgName>
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Sungkyunkwan University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Shidler College of Business</orgName>
+								<orgName type="institution">University of Hawaii at Manoa</orgName>
+								<address>
+									<settlement>Honolulu</settlement>
+									<region>Hawaii</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Navigating Relationship Norms: An Exploration of How Content Strategies Improve Brand Valuation over Time</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A93B066EB06B78663B8870A4AFA1C081</idno>
+					<idno type="DOI">10.1080/00913367.2020.1781002</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Advertising both builds upon and benefits from the relationship between consumers and brands. In three longitudinal studies this research explores the cultivation and effects of this relationship and demonstrates that, when consumers are in an exchange relationship with a brand, ownership duration leads to higher self-brand connection, which subsequently translates into heightened brand valuation. In contrast, this effect is not observed for consumers in a communal brand relationship (Study 1). Further, results show that brand singularization, operationalized as content strategies that engage consumers to provide product reviews (Study 2) or to create consumer-generated advertisements (Study 3), enhances the effect of brand relationship norms, especially when the norm is exchange in nature. Our findings provide important insights to help advertisers design advertising campaigns that use brand relationship norms and singularization to engage consumers and subsequently increase brand valuation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There is little disagreement that brands play a very important role in consumers' lives. There is even less doubt that marketing communications in general and advertising in particular are instrumental in shaping relationships between consumers and brands <ref type="bibr" target="#b47">(Kumar and Gupta 2016)</ref>. During this relationship-building process, the role of ad content remains crucial, as it is identified by prior research as one of the most important moderators when examining advertising effectiveness (see <ref type="bibr" target="#b33">Gavilanes, Flatten, and Brettel 2018;</ref><ref type="bibr" target="#b51">Lothia, Donthu, and Hershberger 2003)</ref>. Most established brands regularly update their content strategies in an attempt to maintain or reshape their relationship with customers. Consider Pepsi's recent campaign, "That's What I Like," debuting on January 2, 2020, which marks a drastic departure from the brand's previous taglines, such as "Taste of a New Generation." This content strategy denotes the brand's efforts to build a stronger relationship with its customers by encouraging them to do what they enjoy unapologetically, despite potential judgments. As stated by Todd Kaplan, vice president of marketing at Pepsi, "We created this campaign to pay homage to this unapologetic mindset embraced by our most loyal fans" <ref type="bibr" target="#b21">(Deabler 2020)</ref>.</p><p>In recent years, consumer-brand relationship formulation and development has become a focus of modern advertising and branding theory (e.g., <ref type="bibr" target="#b30">Fournier 1998;</ref><ref type="bibr" target="#b7">Bagozzi 1995;</ref><ref type="bibr" target="#b68">Peterson 1995;</ref><ref type="bibr" target="#b12">Breivik and Thorbjørnsen 2008)</ref>, and this focus is further fueled by relationship marketing, which prompts advertisers to pursue creative ways to foster mutually beneficial relationships with consumers <ref type="bibr" target="#b57">(Mitchell and Orwig 2002)</ref>. Prior research has summarized two types of norms that companies follow when establishing brand-consumer relationships: communal versus exchange relationship norms <ref type="bibr" target="#b1">(Aggarwal 2004</ref>). Both types of norms are frequently utilized in ad designs or campaigns. For instance, consider the British Airways "To Fly. To Serve" ad, versus the Malaysia Airlines "Feel right at home on our A380" commercial. While the first ad promotes an exchange norm, the second emphasizes a communal relationship. Advertisers' efforts in communicating these two distinct norms can also be found in everyday consumer products, such as McCafe's "Power Up Your Day" ad (exchange norm), versus Tchibo Espresso's "Your Wake Up Kiss" commercial (communal norm).</p><p>On the surface, communal relationship norms may triumph over exchange norms, given that connecting with consumers as friends and/or family aligns more with the popular brand relationship concepts (e.g., <ref type="bibr" target="#b9">Batra, Ahuvia, and Bagozzi 2012;</ref><ref type="bibr" target="#b30">Fournier 1998;</ref><ref type="bibr" target="#b54">Mazodier and Merunka 2012)</ref>. However, recent research tempers this enthusiasm by pointing out that loyal consumers might not always lead to profitability <ref type="bibr" target="#b28">(Evanschitzky et al. 2012;</ref><ref type="bibr" target="#b69">Reinartz and Kumar 2002)</ref>, especially when consumer loyalty is merely driven by expectations of great deals <ref type="bibr" target="#b39">(Keiningham et al. 2009</ref>) and based on an exchange norm. This observation, coupled with the recent suggestion that consumers are becoming less likely to form long-lasting relationships with brands (e.g., <ref type="bibr" target="#b8">Bardhi and Eckhardt 2017)</ref>, has led many companies to question whether their advertising investment has received an adequate return when spent on building brand relationships. In the current research, we attempt to address these brand relationship controversies by examining how the nature of the consumer-brand relationship can impact consumer valuation for the brand. Despite the important implications to advertising theory and practice, scant quantitative research to date has focused on the dynamics of consumer-brand interactions following product purchase. Prior studies on this topic are either qualitative (e.g., <ref type="bibr" target="#b25">Epp and Price 2010)</ref> or predominantly focused on postpurchase brand attitudes (e.g., <ref type="bibr" target="#b34">Haugtvedt et al. 1994;</ref><ref type="bibr" target="#b36">He, Chen,</ref> and Alden 2016; <ref type="bibr" target="#b46">Krishnan and Smith 1998)</ref>. Addressing these theoretical and empirical gaps, this research longitudinally and quantitatively explores the effectiveness of brand relationship norms in contributing to a brand's ability to demand a price premium (i.e., brand valuation).</p><p>In addition, as limited research has examined the boundary conditions of postpurchase brand valuation, we identify brand singularization as the most germane intervention that advertisers can employ to help strengthen self-brand connection and elevate brand valuation over time. Brand singularization refers to ways that consumers personalize and integrate brands into their lives <ref type="bibr" target="#b25">(Epp and Price 2010)</ref>. This construct has been qualitatively examined by a large body of research as the processes consumers use to employ market resources in constructing narratives of identity <ref type="bibr" target="#b18">(Coupland 2005;</ref><ref type="bibr" target="#b23">Diamond et al. 2009;</ref><ref type="bibr" target="#b25">Epp and Price 2010;</ref><ref type="bibr" target="#b63">Muniz and Schau 2005)</ref>. In this research, brand singularization is operationalized as content strategies which encourage consumers to actively participate in ad content generation and which are intended to promote meaningful consumption episodes. When asked to predict the future of advertising, <ref type="bibr" target="#b72">Schultz (2016)</ref> points out that a growing emphasis will be on the use of shared value in the business relationship model. As such, it is imperative to examine brand singularization, given the changing role of the advertising audience when it becomes "the driving force in marketing communication going forward" <ref type="bibr">(Schultz 2016, p. 280)</ref>.</p><p>We pursue our research inquiries through three longitudinal studies examining brand valuation change, following consumers' actual brand purchases in their daily lives. The theoretical framework guiding the current research is presented in Figure <ref type="figure" target="#fig_0">1</ref>. The conceptual and operational definitions of the main constructs in this research are described in Table <ref type="table" target="#tab_0">1</ref>. In the following section, we discuss the relevant theories that help inform our conceptualization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory and Hypotheses</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Valuation</head><p>Brand valuation refers to the overarching way of describing the value estimation of a given brand. Prior studies have described a variety of definitions and operationalizations of brand valuation (i.e., <ref type="bibr" target="#b20">Damodaran 2006;</ref><ref type="bibr" target="#b29">Fern andez 2015;</ref><ref type="bibr" target="#b71">Salinas and Ambler 2009)</ref>, which can be categorized into three principal areas: market based, cost based, and income based <ref type="bibr" target="#b83">(ISO 2010;</ref><ref type="bibr" target="#b71">Salinas and Ambler 2009)</ref>. <ref type="bibr" target="#b19">Crimmins (2000)</ref> argues that, for a consumer-based conceptualization of brand value, price premium should be used to define brand valuation (see also <ref type="bibr" target="#b53">Macias and Rodriguez 2018)</ref>. Others point out that brand valuation should be assessed by the price premium it generates, compared to a similar but unbranded product or service. While there are many ways to conceptualize price premium, given the longitudinal nature of this research, we use the price premium that consumers are willing to pay in comparison to a generic brand <ref type="bibr" target="#b77">(Steenkamp et al. 2010</ref>; see also <ref type="bibr">Steenkamp, Batra, and Alden 2003 on brand value)</ref>.</p><p>The brand valuation literature demonstrates that, contrary to standard economic theory, which assumes that ownership does not affect valuation, consumers tend to become attached to an object almost instantly <ref type="bibr" target="#b38">(Kahneman, Knetsch, and Thaler 1990)</ref>. This effect is the result of a type of self-referent cognitive bias, due to mere ownership of an object (e.g., <ref type="bibr" target="#b15">Chatterjee, Irmak, and Rose 2013;</ref><ref type="bibr" target="#b24">Dommer and Swaminathan 2013;</ref><ref type="bibr" target="#b61">Morewedge et al. 2009)</ref>. In other words, simply owning an object can activate an automatic association between the possession and the self. Because of this intrinsic tendency to enhance the self, the selfpossession connection subsequently boosts the object's perceived value. Supporting this, <ref type="bibr" target="#b61">Morewedge et al. (2009)</ref> argue that brand valuation increases with ownership, "because people are motivated to justify their choices, and in part because owning an item creates an association between the item and the self" (p. 948).</p><p>Similarly, <ref type="bibr" target="#b78">Strahilevitz and Loewenstein's (1998)</ref> studies have found that an individual's perceived value of a current possession increases with the duration of ownership. Further, self-brand connection is defined as the extent to which individuals have incorporated brands into their self-concept and is considered as one of the four independent dimensions of brand relationship strength <ref type="bibr" target="#b0">(Aaker, Fournier, and Adam Brasel 2004;</ref><ref type="bibr" target="#b27">Escalas and Bettman 2003)</ref>. Thus, we argue that owning a brand can also connect consumers to the brand <ref type="bibr" target="#b41">(Kirmani, Sood, and Bridges 1999)</ref>, and this self-brand connection will subsequently bump up brand valuation with the increased duration of brand ownership. However, with the countereffects from adaptation (i.e., brand habituation; see Coupland 2005; He, Chen, and Alden 2016) and habitual consumption <ref type="bibr" target="#b48">(Lafley and Martin 2017)</ref>, the effect of brand ownership on brand valuation has largely remained inconclusive. Given the increasing importance of using brand efforts to help increase brand value (e.g., <ref type="bibr" target="#b76">Steenkamp, Batra, and Alden 2003)</ref>, the current research aims to contribute to this literature by empirically documenting the effects of ownership duration on brand valuation by tracking consumers' actual purchases longitudinally and investigating boundary conditions that could help enhance brand </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Construct Definition Operationalization</head><p>Brand relationship norms <ref type="bibr" target="#b1">(Aggarwal 2004)</ref> When consumers form a particular relationship with a brand, the brand is assessed in much the same manner as are other members of the society, according to the norms of social behavior. As a result, when consumers engage in transactional or nontransactional activities with brands, their actions more or less conform to the norms of the brand relationship, either exchange or communal.</p><p>To manipulate the brand relationship norm, participants are told to recall a recent brand purchase that they do not anticipate repeating within a month, and that the recalled brand should fit the brief description of either an exchange or communal relationship norm.</p><p>Brand signalization <ref type="bibr" target="#b25">(Epp and Price 2010;</ref><ref type="bibr" target="#b36">He, Chen, and Alden 2016)</ref> Brand singularization is conceptualized based on the cultural biography concept and the processes of objective movement and network transformation. It refers to the consumption episodes and processes through which consumers form meaningful bonds with brands, i.e., the ways that consumers personalize and integrate goods and services into their lives.</p><p>Brand singularization is operationalized as content strategies that engage consumers to provide product reviews (Study 2) or to create consumergenerated advertisements (Study 3).</p><p>Brand valuation <ref type="bibr" target="#b77">(Steenkamp et al. 2010;</ref><ref type="bibr" target="#b76">Steenkamp, Batra, and Alden 2003)</ref> Brand valuation refers to the overarching way of describing the value estimation of a given brand.</p><p>Brand valuation is measured by the percentage price premium that consumers are willing to pay in comparison to a generic brand. Self-brand connection <ref type="bibr" target="#b0">(Aaker, Fournier, and Adam Brasel 2004;</ref><ref type="bibr" target="#b27">Escalas and Bettman 2003)</ref> The self-brand connection is defined as the extent to which individuals have incorporated brands into their self-concept. Self-brand connection is one of the four independent dimensions of brand relationship strength. valuation over time. We propose brand relationship norm and singularization as two independent yet interactive constructs that help shape advertising audiences' relationship building with a brand, even after the purchase. These two constructs are particularly important, as the former is a dispositional state regarding the nature of the relationship between a consumer and a brand, whereas the latter is a process that advertisers can utilize to influence postpurchase brand valuation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exchange versus Communal Relationship Norm</head><p>When consumers form a particular relationship with a brand, the brand is assessed in much the same manner as are other members of the society-according to the norms of social behavior <ref type="bibr" target="#b1">(Aggarwal 2004</ref>). As a result, when consumers engage in transactional or nontransactional activities with brands, their actions more or less conform to the norms of the brand relationship. That is, they use relationship norms as a lens to process brand information, evaluate brands, and guide their brandrelated behaviors and reactions <ref type="bibr" target="#b1">(Aggarwal 2004;</ref><ref type="bibr" target="#b2">Aggarwal and Law 2005;</ref><ref type="bibr" target="#b3">Aggarwal and Zhang 2006;</ref><ref type="bibr" target="#b85">Wan, Hui, and Wyer 2011)</ref>. Hence, the nature of the relationship-in other words, the norms governing these consumer-brand relationships-is found to critically determine how consumers respond to companies' branding efforts (e.g., <ref type="bibr" target="#b1">Aggarwal 2004;</ref><ref type="bibr" target="#b2">Aggarwal and Law 2005;</ref><ref type="bibr" target="#b3">Aggarwal and Zhang 2006)</ref>, especially when communicated through advertising.</p><p>Given the importance of relationship norms in influencing consumer-brand interactions, our conceptualization regarding its role as the boundary conditions of the ownership duration effect on brand valuation is guided by the distinction between exchange versus communal consumer-brand relationship norms <ref type="bibr" target="#b1">(Aggarwal 2004;</ref><ref type="bibr" target="#b17">Clark and Mills 1993)</ref>. Exchange relationships are usually impersonal and characterized by consumers tracking the balance of perceived value relative to what they pay, or quid pro quo. They are similar to relationships with strangers and individuals who interact for business purposes <ref type="bibr" target="#b1">(Aggarwal 2004)</ref>. That is, benefits are given "with the expectation of receiving a comparable benefit in return or as repayment for a benefit received previously" <ref type="bibr">(Clark and Mills 1993, 684)</ref>. In contrast, communal relationships are those in which people do not look for immediate gains or quid pro quo in brand relationships and are more likely to have genuine feelings for the brand. In such brand relationships (e.g., similar to relationships with friends and family members), consumers take a perspective that transcends an emphasis on self-interest alone <ref type="bibr" target="#b1">(Aggarwal 2004;</ref><ref type="bibr" target="#b2">Aggarwal and Law 2005)</ref>. "In [these] relationships, the receipt of a benefit does not change the recipient's obligation to respond to the other's needs" <ref type="bibr">(Clark and Mills 1993, 684)</ref>. Although people involved in a communal relationship may reciprocate the benefits that they receive, their reciprocation is normally motivated by feelings of appreciation rather than by feelings of obligation.</p><p>We then examine whether consumers' behavioral tendency manifested in the ownership duration effect varies, depending on brand relationship norms. As noted earlier, brand valuation may or may not accrue with ownership duration due to competing mechanisms from both self-brand connection (which promotes brand valuation over time) and brand habituation (which dampens brand valuation over time). We argue that because brand valuation primarily signifies the exchange value of a brand, which is transactional in nature and therefore more consistent with exchange rather than communal relationship norms, brand valuation should increase for consumers in an exchange (versus communal) relationship. To illustrate, exchange consumers feel obligated to reward the brand with higher brand valuation when receiving benefits manifested in daily use of the brand that they own, as they are more concerned with keeping track of the benefits received from a partner and giving comparable benefits in return <ref type="bibr" target="#b1">(Aggarwal 2004</ref>). In contrast, communal consumers do not feel obligated to reward a brand immediately with monetary benefit upon receiving a benefit, as the quid pro quo mindset violates communal norms. Supporting this conjecture, <ref type="bibr" target="#b1">Aggarwal (2004)</ref> has found that consumers perceive the receipt of monetary payment for their help rendered to a brand to be in conformity with exchange norms (quid pro quo) but in violation of communal norms (since help is given out of concern for the relationship partner, not for expectation of repayment). Conversely, when the brand does not charge any fee for the service provided to its consumers, it is perceived to be in conformity with communal norms and in violation of exchange norms. We, therefore, argue that when consumers are in an exchange relationship with a brand, self-brand connections accrued with duration of brand ownership will naturally boost brand valuation in the form of the perceived monetary value of the brand. However, the same increase in self-brand connection may not directly translate into higher brand valuation for consumers in a communal relationship. Formally, we hypothesize: H1: Postpurchase brand valuation increases (declines) over the duration of ownership for consumers in an exchange (communal) brand relationship.</p><p>H2: Postpurchase brand valuation change over the duration of ownership is mediated (not mediated) by the self-brand connection increase for consumers in an exchange (communal) relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Singularization Via Content Strategy</head><p>To date, paralleling the upsurge of brand relationship management is the rise of technology and media usage in advertising <ref type="bibr" target="#b64">(Muniz and Schau 2007)</ref>. Advertising is experiencing exciting transformations, given that modern audiences have become increasingly more active, willing, and capable contributors to brand promotion content <ref type="bibr" target="#b13">(Cappo 2003;</ref><ref type="bibr" target="#b32">Garfield 2005)</ref>. This trend presents unique challenges, as well as opportunities, to today's businesses <ref type="bibr" target="#b64">(Muniz and Schau 2007)</ref>, especially to those that still practice "firm-initiated, passive engagement" content strategies <ref type="bibr" target="#b37">(Hoffman and Fodor 2010)</ref>. Embracing this trend, many companies today have started to seek consumer involvement in the generation of advertising messages <ref type="bibr" target="#b81">(Thompson and Malaviya 2013)</ref> through co-creation activities that facilitate a brand singularization episode into consumers' daily lives. As mentioned, brand singularization is conceptualized based on the cultural biography concept <ref type="bibr" target="#b44">(Kopytoff 1986</ref>) and the processes of objective movement and network transformation <ref type="bibr" target="#b25">(Epp and Price 2010)</ref>. It refers to the consumption episodes and processes through which consumers form meaningful bonds with brands, in other words, the ways that consumers personalize and integrate goods and services into their lives <ref type="bibr" target="#b25">(Epp and Price 2010;</ref><ref type="bibr" target="#b58">Miller 1987)</ref>. That is, brand singularization is the process and strategies that consumers utilize to integrate brand identity into their self-identity <ref type="bibr" target="#b5">(Arnould and Thompson 2005)</ref>. This is because, from a social identity perspective <ref type="bibr" target="#b26">(Escalas 2004</ref>), a consumer tends to create powerful relationships with brands that help express and enhance personal identity, which plays a crucial role in a consumer's life <ref type="bibr" target="#b55">(McEwen 2005)</ref>.</p><p>In this process, consumers appropriate brand meanings in ways that make a brand meaningful to themselves, which is manifested in brand decommoditization rituals <ref type="bibr" target="#b18">(Coupland 2005)</ref> and consumer identity projects <ref type="bibr" target="#b5">(Arnould and Thompson 2005)</ref>. Consumer culture theorists posit that consumers, as identity seekers and makers, employ rich marketplace resources, for example, commodities and brands, in constructing their self-narratives <ref type="bibr" target="#b5">(Arnould and Thompson 2005)</ref>. In doing so, consumers often internalize brand narratives <ref type="bibr" target="#b63">(Muniz and Schau 2005)</ref> and communicate their self-concepts to others through their brand choices <ref type="bibr" target="#b27">(Escalas and Bettman 2003;</ref><ref type="bibr" target="#b30">Fournier 1998)</ref>. Through this means, consumers form profound associations between brands and their self-concepts <ref type="bibr" target="#b27">(Escalas and Bettman 2003)</ref>. When consumers singularize brands into their self-identities, brand ownership and use tend to escalate into meaningful consumer-brand encounters that help consumers to reinforce their emotional, psychological, or physical investment with a brand <ref type="bibr" target="#b14">(Chaffey 2007;</ref><ref type="bibr" target="#b86">Yoon et al. 2018</ref>). As such, brand valuation will likely increase with duration of ownership when consumers engage in brand singularization. Formally, we hypothesize:</p><p>H3: Brand valuation increases over duration of ownership when consumers engage in brand singularization.</p><p>Further, in this research, brand singularization is operationalized as content strategies intended to promote meaningful consumption episodes. This operationalization maintains the process and episodic focus of brand singularization, while allowing advertisers to strategically contribute to its development. To this end, prior research on content strategies suggests that different content elements could induce different consumer reactions and consequently determine which advertising effort will succeed (e.g., <ref type="bibr" target="#b49">Lamberton and Stephen 2016)</ref>. The present research defines content strategies in the form of brand singularization processes as either autonomous or affiliative <ref type="bibr" target="#b43">(Kleine, Kleine, and Allen 1995;</ref><ref type="bibr" target="#b79">Swaminathan, Page, and G€ urhan-Canli 2007)</ref>. While autonomous singularization addresses ways that people define themselves as unique individuals, affiliative singularization reflects ways that people connect to others <ref type="bibr" target="#b43">(Kleine, Kleine, and Allen 1995)</ref>. In other words, autonomous identity establishes the self as unique and different from others, whereas affiliative identity is important for situating the self within the social world and for communicating shared identity with targeted social groups. A large body of consumer culture theory literature has provided ample evidence supporting the proposition that consumers use brands and their narratives to construct both autonomous and affiliative identities. For example, consumers communicate their autonomous self-identities through individualized messages on custom-engraved rivets in the Harley-Davidson Museum <ref type="bibr" target="#b31">(Fournier and Lee 2009)</ref>. As a contrasting example, Dove's "Real Beauty" campaign brought women together worldwide in a collective mission to fight industry-imposed beauty ideals. This mission helps create global camaraderie and affiliative bonds among these consumers <ref type="bibr" target="#b31">(Fournier and Lee 2009)</ref>.</p><p>Brand singularization provides abundant opportunities for advertisers to facilitate meaningful consumption episodes through content strategies that encourage consumers to interact with the brand. This is especially important because, as mentioned, with the rise of social media, companies find it is increasingly challenging to manage the newly empowered advertising audience. Indeed, with the recognition of the changing role of ad audiences from content receivers to content creators, many businesses have started to rely heavily on social media advertising in managing branded content (e.g., <ref type="bibr" target="#b67">Park, Rodgers, and Stemmle 2011)</ref>. Recent research has identified seven content categories from prior studies on social media advertising <ref type="bibr" target="#b33">(Gavilanes, Flatten, and Brettel 2018)</ref>. Among them, customer feedback stands out as the one that will most likely create the desired synergic effect between consumers' new role as content creators and the brand singularization process to benefit the advertiser. Customer feedback is defined as asking "customers to provide input such as rating, ranking, feedback on product or issues, user-generated content etc." <ref type="bibr">(Gavilanes, Flatten, and Brettel 2018, p. 7;</ref><ref type="bibr" target="#b56">Men and Sunny Tsai 2012;</ref><ref type="bibr" target="#b75">Smith, Fischer, and Yongjian 2012)</ref>.</p><p>Following the noted theoretical and operational definition of brand singularization, we focus on two forms of content strategies in this research that aim to promote meaningful consumption episodes by altering the nature of customer feedback, or consumer-generated content tasks. First, we utilize a product feedback task in Study 2 to simulate consumers' use of social media to share or comment on products, which is one of the fastest-growing categories of product endorsements today <ref type="bibr" target="#b16">(Chen, Fay, and Wang 2011)</ref>. We then implement a consumer-generated ad task in Study 3, as including consumers in the ad creation and development process will help businesses uncover valuable insights while enhancing consumers' engagement with the brand <ref type="bibr" target="#b81">(Thompson and Malaviya 2013)</ref>.</p><p>It is important to note that these content strategies can emphasize either autonomous or affiliative brand singularization and that these two types of brand singularization further moderate the effect of brand relationship norms on brand valuation change over time. However, because autonomous singularization is more aligned with the exchange relationship norm and affiliative singularization with the communal relationship norm, we predict that the brand valuation change will be more positive when consumers engage in autonomous brand singularization. Here, we further predict that this effect is particularly pronounced for consumers in exchange relationship norms. In contrast, engaging in affiliative brand singularization will not change consumers' brand valuation, regardless of the relationship norms. Based on the preceding, we formally hypothesize: H4: The type of brand singularization moderates the effect of brand relationship norms on brand valuation change in that (a) the effect is strengthened for consumers who are in exchange relationship norms and engage in autonomous brand singularization and (b) regardless of the brand relationship norms they are in, there will be no effect for consumers who engage in affiliative brand singularization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 1</head><p>In Study 1, we tested our hypotheses that the brand relationship norm moderates the effect of ownership duration on brand valuation (Hypothesis 1) and that self-brand connection mediates the brand valuation increase when consumers are in an exchange relationship (Hypothesis 2). In this research, we documented the brand ownership duration effect by measuring consumers' brand valuation over time, following actual brand purchases in their daily lives. This longitudinal technique, common among studies that examine how individuals' responses to life events change over time (e.g., He, Chen, and Alden 2016; Lucas 2007), greatly enhanced the validity and generalizability of our research inquiries. In Study 1, 80 undergraduate students were invited to participate in this research, in exchange for extra credit. In total 54 students (52% female; 90% between the ages of 20 and 25) completed the initial and follow-up surveys, yielding an attrition rate of 32.5%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design and Procedure</head><p>Study 1 featured a 2 (exchange versus communal brand relationship norm) Â 2 (postpurchase Time 1 versus Time 2) mixed factorial design. Brand relationship norm is a between-subjects factor, while time after purchase is a within-subjects factor. At Time 1, participants were asked to recall a recent brand purchase that they did not anticipate repeating within a month. To manipulate the brand relationship norm, consumers were told that the recalled brand should fit the brief description of either an exchange or communal relationship norm <ref type="bibr" target="#b1">(Aggarwal 2004</ref>).</p><p>The exchange relationship description read as follows:</p><p>You have purchased from this brand extensively and have been very happy with the quality of its products. This brand also periodically makes some offers to you that appear to be of great value. You have communicated with their customer service representatives before, and the representatives seem to be quite well trained and smart. Overall your experience with this brand has been excellent. When you think of your relationship with this brand, it reminds you of your relationship with a business partner.</p><p>The communal relationship description read as follows:</p><p>You have purchased from this brand extensively and have been very happy with the quality of its products. You still remember how thrilled you were when you made your first purchase from this brand. You have communicated with their customer service representatives before, and you have had very pleasant and warm interactions with the representatives. Overall your experience with this brand has been memorable. When you think of your relationship with this brand, it reminds you of your relationship with a close friend/family member.</p><p>A variety of major product categories were recalled, including apparel and jewelry, electronics, grocery, health and beauty, and sports and fitness (see Table <ref type="table" target="#tab_2">2</ref>). Participants then completed brand valuation measures by indicating the percentage price premium that they were willing to pay over other brands for the brand that they had recalled. The rationale underlying this percentage measure is that consumers consider percentage price differences, rather than absolute differences <ref type="bibr" target="#b59">(Monroe 1973;</ref><ref type="bibr" target="#b77">Steenkamp et al. 2010</ref>). This measure is also found to be comparable across consumers, product categories, and countries and is easy for respondents to interpret (e.g., <ref type="bibr" target="#b77">Steenkamp et al. 2010;</ref><ref type="bibr" target="#b82">Thomson, MacInnis, and Whan Park 2005)</ref>. Participants then answered the seven-item self-brand connection scale, developed by <ref type="bibr" target="#b27">Escalas and Bettman (2003)</ref>, which includes items such as "X reflects who I am" and "I think X could help me become the type of person I want to be" (1 ¼ Strongly disagree, 7 ¼ Strongly agree; a ¼ .90).</p><p>One month later (Time 2) participants received another e-mail, inviting them to complete a follow-up survey. In this survey, brand valuation and self-brand connection (a ¼ .91) were again measured. To ensure that the relationship manipulations actually persisted, participants were asked to imagine the brand coming alive and becoming a person. They then rated the extent to which the brand was like a close friend, a family member, a businessperson or a merchant. High (low) ratings on the brand as a friend or a family member and low (high) ratings of the brand as a businessperson or a merchant would be consistent with communal (exchange) norms. To ensure that the relationship manipulations did not result in recall of brands that were different in quality perceptions, participants also responded to measures on perceived product and service quality. Given that our study uses a longitudinal design and that the manipulation check was performed one month later, and given also that the manipulation check is directional in nature, onetailed tests are employed for all manipulation checks (e.g., Amos and Spears 2010).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tests for Random Condition Assignment</head><p>The random assignment method in experimental design "helps to distribute the idiosyncratic characteristics of participants over the treatment levels so that they do not selectively bias the outcome of the experiment" <ref type="bibr">(Kirk 2012, p. 24)</ref>. To assure random assignment, subjects in each experimental group should not differ significantly in terms of demographic characteristics or other random factors <ref type="bibr" target="#b6">(Atkinson and Rosenthal 2014)</ref>. We conducted chisquare tests for both conditions to evaluate differences among groups on product category, age, and gender. Results showed that the groups did not differ significantly with respect to product category, age, or gender (p &gt; .31).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manipulation Check</head><p>Confirming the efficacy of the relationship norm manipulation, communal (versus exchange) participants were more likely to see the brand as a friend or family member (M comm ¼ 4.48 and M exch ¼ 3.52; t (52) ¼ À2.37, p ¼ .01, one tailed, Cohen's d ¼ .66) and less likely to see it as a businessperson or a merchant (M comm ¼ 4.04 and M exch ¼ 4.94; t (52) ¼ 1.92, p ¼ .03, one tailed, Cohen's d ¼ .53). In addition, there were no differences across the two relationship conditions on perceived service/product quality (p ¼ .41). Further planned contrasts revealed that, for consumers in an exchange brand relationship, the percentage price premiums that they were willing to pay in Time 2 significantly increased from those in Time 1 (M time1 ¼ 17%; M time2 ¼ 23%, t (30) ¼ À2.11, p ¼ .04, Cohen's d ¼ .35; see Table <ref type="table" target="#tab_3">3</ref> and<ref type="table">Figure</ref>  <ref type="figure" target="#fig_1">2</ref>); for consumers in a communal brand relationship, the brand valuation change was nonsignificant (M time1 ¼ 20%; M time2 ¼ 17%, t (22) ¼ 1.20, p &gt; .24, Cohen's d ¼ .21). Thus, Hypothesis 1 was supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mediation Analysis</head><p>Following Hypothesis 2, we examined the prediction that brand valuation change from Time 1 to Time 2 was driven by self-brand connection change for consumers in an exchange brand relationship. Employing the mediation analysis MEMORE procedure for within-subjects design recommended by <ref type="bibr" target="#b60">Montoya and Hayes (2017)</ref>, the bootstrap method revealed significant indirect effects (B ¼ .03; 95% CI ¼ .002, .057). In addition, the direct effect of ownership duration on brand valuation change was nonsignificant (B ¼ .031, p &gt; .27), suggesting an "indirect-only mediation" <ref type="bibr" target="#b87">(Zhao, Lynch, and Chen 2010)</ref>, which indicates that our hypothesized framework is theoretically sound.</p><p>In addition, a more in-depth analysis revealed that, for consumers in an exchange brand relationship, their self-brand connection significantly increased over the duration of ownership (M time1 ¼ 3.39; M time2 ¼ 3.94; t (52) ¼ 2.24, p ¼ .03, Cohen's d ¼ .36); whereas, for those in a communal brand relationship, their self-brand connection remained the same over time (M time1 ¼ 4.09; M time2 ¼ 3.87; p &gt; .44, Cohen's d ¼ .14). As such, Hypothesis 2 was supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>These results support our prediction that the brand relationship norm moderates the effect of ownership duration on brand valuation change. In particular, brand valuation increases with the duration of ownership for consumers in an exchange brand relationship but not for those in a communal relationship. In addition, the results show that self-brand connection is the mechanism that explains the brand ownership duration effect in exchange brand relationships. These results provide strong support to the premise that the nature of brand relationships (exchange versus communal) has a profound impact on how consumers valuate a brand over time.</p><p>It is reasonable, however, to speculate that plateauing of brand valuation for consumers in the communal brand relationship is probably due to the fact that consumers in such a relationship have already started with a high brand valuation level that might display a ceiling effect, if no other interventions from the advertisers are implemented to break through the ceiling. This interesting observation sheds light on our understanding of the challenges in managing brand relationships, in general, and in translating the brand relationship into brand valuation, so as to inform companies' financial performance, in particular. Now we turn to the question of what kind of intervention advertisers can use to help raise brand valuation for consumers in communal as well as in exchange relationships so that the brand's financial viability can ultimately be enhanced over time. As proposed, brand singularization, operationalized as content strategies that aim to promote meaningful consumption episodes, might be such a promising intervention. Studies 2 and 3 are designed to introduce two such content strategies: Brand singularization is operationalized through a consumer product feedback task in Study 2 and a consumer-generated advertisement task in Study 3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 2</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>In Study 2, a longitudinal experiment was conducted using a 2 (exchange versus communal brand relationship norm) Â 2 (autonomous versus affiliative brand singularization) Â 3 (postpurchase Time 1, Time 2, versus Time 3) mixed factorial design. Brand singularization and relationship norm were between-subjects factors, while time after purchase was a within-subjects factor. In this study, 160 undergraduate students from a large American university received the invitation to participate in a longitudinal field experiment in exchange for extra credit. In total, 101 students completed all questionnaires, administered at three different times (response rate ¼ 63%; 52% female; 80% within the age range of 20 to 25).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures and Measures</head><p>At Time 1, as in Study 1, participants were asked to recall a brand purchase that would fit into a description of either an exchange or communal relationship norm <ref type="bibr" target="#b1">(Aggarwal 2004</ref>; see Table <ref type="table" target="#tab_4">4</ref>). Brand valuation was measured using the same scale as in Study 1. At Time 2 (two weeks after Time 1), participants were invited by e-mail to complete a follow-up survey.</p><p>Similar to the brand singularization manipulations used in He, Chen, and Alden ( <ref type="formula">2016</ref>), participants randomly received the following instructions to engage in autonomous (affiliative) brand singularization to provide product feedback. Please note that "X" is the brand the participant identified at Time 1:</p><p>The company that manufactures X would like to invite its customers to provide feedback on the brand, X. The company would like your feedback on how X helps its customers express themselves (feel in touch with others). In other words, how X makes them feel unique, not like everyone else (in touch with others). With this purpose in mind, please use the following text box to provide your detailed feedback. You may use personal experience to illustrate your point if needed. Keep in mind that the company would like to know how X helps its customers express themselves and make them feel different from everyone else (feel in touch with others).</p><p>At Time 3 (one month after Time 1), as in Study 1, brand valuation, produce/service quality measures, and relationship and singularization manipulation checks were administered. The participants were then thanked and debriefed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tests for Random Condition Assignment</head><p>As with Study 1, we conducted chi-square tests for all four conditions to evaluate differences among groups on product category, age, and gender. Results showed that the groups did not differ significantly with respect to product category, age, or gender (p &gt; .25). As such, Study 2 also passed the tests for random condition assignment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manipulation Check</head><p>Supporting the effectiveness of the relationship norm manipulation, compared with exchange participants, communal participants were more likely to view the brand as a friend or family member (M comm ¼ 5.31; M exch ¼ 3.74; t (98) ¼ À5.12, p &lt; .001, one tailed, Cohen's d ¼ 1.03) and less likely to consider it as a businessperson or a merchant (M comm ¼ 4.58; M exch ¼ 5.26; t (98) ¼ 2.00, p &lt; .05, one tailed, Cohen's d ¼ .41). There were no differences across the two relationship conditions on perceived service/ product quality (p &gt; .20). As desired, in the autonomous condition, consumers reported that the experience of providing customer feedback made them feel more unique, not like everyone else, than those in the affiliative condition (M autonomous ¼ 5.65; M affiliative ¼ 3.22; t (98) ¼ À13.57, p &lt; .001, one tailed, Cohen's d ¼ 2.70). On the other hand, consumers in the affiliative condition indicated that the same experience made them feel more in touch with others than those in the autonomous condition (M autonomous ¼ 3.67; M affiliative ¼ 5.62; t (98) ¼ 7.50, p &lt; .001, one tailed, Cohen's d ¼ 1.49).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relationship Norm</head><p>Replicating our findings from Study 1, the results showed that the moderating effect of the relationship norm on brand valuation change remained robust when consumers engaged in singularization activities. To illustrate, the percentage price premium that consumers were willing to pay increased from Time 1 to Time 3 for the exchange relationship condition (M time1 ¼ 15%; M time3 ¼ 22%, t (52) ¼ À3.50, p ¼ .001, Cohen's d ¼ .39; see Table <ref type="table" target="#tab_5">5</ref> and<ref type="table">Figure</ref>  <ref type="figure" target="#fig_2">3</ref>) but not for the communal relationship condition (M time1 ¼ 25%; M time3 ¼ 23%, p &gt; .48, Cohen's d ¼ .11).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Valuation</head><p>A 2 relationship norm Â 2 brand singularization Â 2 postpurchase time mixed-design ANOVA was performed on brand valuation. The analysis revealed a main effect of postpurchase time on brand valuation (Wilks's k: F (1, 97) ¼ 4.01, p ¼ .05); however, this main effect was qualified by a significant two-way interaction effect involving relationship norm and postpurchase time (Wilks's k: F (1, 97) ¼ 6.80, p ¼ .01), as well as an interaction effect involving brand singularization and postpurchase time (Wilks's k: F (1, 97) ¼ 4.39, p ¼ .04). No other effect was significant (p &gt; .10). We then examined these significant effects to test our hypotheses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Singularization</head><p>Hypothesis 3 predicts that brand valuation will be boosted with the duration of ownership when consumers engage in brand singularization. Although our results showed a slight increase in the percentage price premium that consumers were willing to pay in Time 3 versus Time 1, this increase was not significant and, as such, Hypothesis 3 is not supported (M time1 ¼ 20%; M time3 ¼ 22%; t (100) ¼ 1.70, p ¼ .10, Cohen's d ¼ .11). Further analysis showed that the type of brand singularization might moderate such brand valuation change, in that the effect will be enhanced for consumers who engage in autonomous (versus affiliative) brand singularization. Confirming this prediction, the increase in the percentage price premium from Time 1 to Time 3 was significantly more notable for consumers who participated in the autonomous brand singularization exercise than for those who participated in the affiliative exercise (DM autonomous ¼ 6%; DM affiliative ¼ 3%; t (99</p><formula xml:id="formula_0">) ¼ 1.97, p ¼ .05, Cohen's d ¼ .38).</formula><p>A more in-depth analysis revealed that, for consumers in an exchange brand relationship, brand valuation significantly increased over the duration of ownership for those who engaged in autonomous brand singularization (M time1 ¼ 13%; M time3 ¼ 22%; t (19) ¼ 5.31, p &lt; .001, Cohen's d ¼ .75) but not for those who engaged in affiliative brand singularization (M time1 ¼ 17%; M time3 ¼ 22%; t (32) ¼ 1.83, p ¼ .08, Cohen's d ¼ .24). By comparison, for consumers in a communal brand relationship, brand valuation remained flat over the duration of ownership for both those engaged in autonomous brand singularization (M time1 ¼ 24%; M time3 ¼ 27%; t (19) ¼.94, p &gt;.36, Cohen's d ¼ .13) and those engaged in affiliative brand singularization (M time1 ¼ 25%; M time3 ¼ 20%; t (27) ¼ À1.24, p ¼ .08, Cohen's d ¼ .29). Hence, Hypothesis 4 was supported. These findings revealed that brand singularization, especially that which was autonomous in nature, in the form of product feedback, was a promising intervention in enhancing brand valuation, especially for those consumers in an exchange brand relationship. However, because all participants in Study 2 engaged in brand singularization, it was difficult to tease out the singularization effect from the ownership duration effect. We therefore retested Hypothesis 3 and 4 using a large-scale longitudinal field experiment in Study 3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 3</head><p>The purpose of Study 3 is five-fold. First, with the addition of a control condition, it serves as a comprehensive examination of our conceptual model, especially with a direct empirical test of the brand singularization effect on brand valuation change. Second, we aim to replicate our investigation using a larger sample that also resembles the general population and, in so doing, ensure the generalizability and rigor of our findings. Third, it tests the viability of singularization over a different time lapse (compared to Studies 1 and 2) to show that brand singularization can happen at any stage of brand ownership duration. Fourth, this study focuses our investigation on a single and personally relevant product category to eliminate potential confounds in our earlier studies from the variability of product categories, as such variability might have led to a higher initial level valuation for brands recalled in a communal relationship. Fifth, we operationalize brand singularization through another content strategy-a consumer-generated ad task-to better inform advertising practitioners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>In Study 3, similar to previous studies, a longitudinal experiment was conducted using a 2 (exchange versus communal brand relationship norm) Â 2 (autonomous versus affiliative brand singularization) Â 2 (postpurchase Time 1 versus Time 2) mixed factorial design. Brand singularization and relationship norm were between-subject factors, while time after purchase was a within-subjects factor. In addition, to further tease out the main effect of brand singularization  on brand valuation over time, we employed a control condition without brand singularization, which was also measured at both Time 1 and Time 2. For this study, 500 American participants recruited online received the invitation to participate in a longitudinal field experiment in exchange for monetary compensation. A total of 311 individuals completed all questionnaires, administered at two different times (response rate ¼ 62%; 48% female; 80% within the age range of 24 to 56). Thus, the current study aims to validate (the) results in Study 2 with a larger sample, with higher statistical power, and from a different sample source-a more general population, instead of a student-based population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures and Measures</head><p>At Time 1, as in Studies 1 and 2, participants were asked to recall a brand purchase that would fit into a description of either an exchange or communal relationship norm <ref type="bibr" target="#b1">(Aggarwal 2004</ref>) (see Table <ref type="table" target="#tab_6">6</ref>). However, to ensure that the brand purchases that participants recalled were meaningful purchases that they connected with and used often, we modified the recall task to center around a "branded personal electronics product" that they had purchased in the recent past. Also, to make sure that the variation of the prior ownership length did not confound our hypothesis testing, we added a measure to ask participants about their purchase date (i.e., "How many weeks ago did you purchase this product?"). Brand valuation was measured using the same scale as in Studies 1 and 2. Participants were then randomly administered the following instructions to engage in autonomous (affiliative) brand singularizationin other words, a consumer-generated ad task. Please note that "X" is the brand the participant identified at Time 1:</p><p>The company that manufactures X would like you to create an advertisement slogan with a focus on how X helps its customers express themselves (feel in touch with others). In other words, how X makes them feel unique, not like everyone else (in touch with others). With this purpose in mind, please use your creativity and your experience with the brand to provide your original advertising slogan in the box below. Keep in mind that the company would like to know how X helps its customers express themselves and make them feel different from everyone else (feel in touch with others). Your advertising slogan may be viewed by the brand or later used as an inspiration for actual slogans or advertising material.</p><p>For the control condition, participants were also asked to freely recall a branded personal electronics product and to answer subsequent measures identical to the treatment conditions. However, they did not participate in the brand singularization task. Instead, they received a filler task to generate a topical message that was unrelated to the branded product. After completing measures on brand valuation, we added an additional dependent variable on participants' willingness to participate in future consumer-generated advertisement tasks (i.e., "How likely will you participate if asked by the brand to take part in an advertising co-creation campaign?"; 1¼ Not at all likely, 7 ¼ Very likely). We hypothesize that, as brand valuation increases over time, participants' willingness to participate in advertising co-creation campaigns will also increase due to their increased engagement with the brand.</p><p>At Time 2 (five days after Time 1), participants were invited by e-mail to complete a follow-up survey. Brand valuation, advertising co-creation participation likelihood, produce/service quality measures, and manipulation checks were administered. The participants were then thanked and debriefed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tests for Random Condition Assignment</head><p>As with Studies 1 and 2, we conducted chi-square tests for all four conditions to evaluate differences among groups on age, gender, and prior ownership length. Results showed that our experimental groups did not differ significantly with respect to age, gender, or prior ownership length (p &gt; .27). As such, Study 3 passed the tests for random condition assignment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manipulation Check</head><p>Because Study 3 featured a modified relationship norm manipulation and also used a more general population, a manipulation check was again performed, and the results partly confirmed the efficacy of our manipulation in that, compared with exchange participants, communal participants were more likely to view the brand as a friend or family member (p &lt; .01); however, this difference was not observed in exchange participants (p &gt; .05). The discrepancy was probably due to the fact that, during our field experiment, the decay of our manipulation potency over time made participants more likely to see brands as representing/belonging to a business by default. There were no differences across the two relationship conditions on perceived service/product quality (p &gt; .39).</p><p>To ensure the effectiveness of our manipulations of relationship norms, we conducted a separate test with participants in the same population as those in Study 3 (N ¼ 183). This method is frequently used in marketing and advertising research (e.g., <ref type="bibr" target="#b70">Rucker, Hu, and Galinsky 2014;</ref><ref type="bibr" target="#b74">Shen and Chen 2007)</ref>, and having multiple ways of performing manipulation checks is often encouraged <ref type="bibr" target="#b35">(Hauser, Ellsworth, and Gonzalez 2018)</ref>. Validating our modified brand relationship norm manipulation, in the separate data collection, compared with exchange participants, communal participants were more likely to view the brand as a friend or family member (M comm ¼ 5.21; M exch ¼ 4.73; t (181) ¼ À2.06, p ¼ .04, Cohen's d ¼ .30) and, in contrast, significantly less likely to consider it as a businessperson or a merchant (M comm ¼ 4.57; M exch ¼ 5.33; t (181) ¼ 3.11,p ¼ .002, Cohen's d ¼ .46).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relationship Norm</head><p>Replicating our findings from Studies 1 and 2, the results showed that the moderating effect of the relationship norm on brand valuation change remained robust. To illustrate, the percentage price premium that consumers were willing to pay increased from Time 1 to Time 2 for the exchange relationship condition (M time1 ¼ 31%; M time2 ¼ 36%, t (126) ¼ 2.61, p ¼ .001, Cohen's d ¼ .15; see Figure <ref type="figure" target="#fig_3">4</ref> and<ref type="figure">Table 7</ref>) but not for the communal relationship condition (M time1 ¼ 33%; M time2 ¼ 34%, t (126) ¼ .793, p ¼ .43, Cohen's d ¼ .03), rendering additional support to the central proposition of this research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Singularization</head><p>Hypothesis 3 predicts that brand valuation will be enhanced with the duration of ownership when consumers engage in brand singularization. Supporting this hypothesis, the percentage price premium that consumers were willing to pay increased from Time 1 to Time 2 in brand singularization conditions (M time1 ¼ 32%; M time2 ¼ 35%; t (253) ¼ 2.59, p ¼ .01, Cohen's d ¼ .09) but remained unchanged in the control condition (M time1 ¼ 35%; M time2 ¼ 34%; t (56) ¼ .54, p ¼ .594, Cohen's d ¼ .07). As such, Hypothesis 3 was supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brand Valuation</head><p>A 2 relationship norm Â 2 brand singularization Â 2 postpurchase time mixed-design ANOVA was performed on brand valuation. The analysis revealed a main effect of postpurchase time on brand valuation (Wilks's k: F (1, 250) ¼ 6.67, p ¼ .01). No other effect was significant (p &gt; .20). When prior ownership length was entered into the model as a covariate, its effect was not significant (p &gt; .38), while other hypothesis-relevant effects showed similar results, compared with the model without the addition of this covariate, suggesting that prior ownership length of the product did not change our predicted results. We then further performed specific comparisons to test our hypotheses.</p><p>A more in-depth analysis revealed that, for consumers in an exchange brand relationship, brand valuation significantly increased over the duration of ownership for those who engaged in autonomous brand singularization (M time1 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General Discussion</head><p>Findings from our three longitudinal studies provide interesting implications for advertising theory and practice. To start, this research makes important theoretical contributions by bridging two important streams of research: brand valuation and brand relationship norms. Our research extends research inquiries on brand relationship norms (e.g., <ref type="bibr" target="#b1">Aggarwal 2004</ref>) and suggests that it is not always in the best interests of advertisers for consumers to view their owned brands as a friend, as such a nontransactional mindset may serve as an impediment when it comes to postpurchase brand valuation. Consequently, although companies may think that they have become "friends" with loyal customers, in actuality, as Lafley and Martin (2017) report, their "loyal consumption" may be a mere act of habitual buying, at best. Today, many brands Strive to redefine their image in the form of a friend or a companion, departing from the traditional transactional role. Take, for example, United Airlines' effort to bring back its most iconic ad campaign with the "Fly the Friendly Skies" tagline <ref type="bibr" target="#b50">(Lazare 2014)</ref>, which highlights the communal relationship that United wishes to build with its passengers (contrasting American Airlines' exchange-focused "The World's Greatest Flyers Fly American" slogan). Contrary to their intent, communal norms can potentially set up businesses for failure, when consumers believe that the businesses have deviated from and violated such norms. Findings from this research therefore caution businesses to carefully consider the specific type of relationship norms they should employ in an era where companies shift their definition of brand from the first three waves as object, idea, and experience to the fourth wave, relationship <ref type="bibr" target="#b11">(Bonchek and France 2016)</ref>. Understanding the subtle differences between brand relationship norms (i.e., communal versus exchange) and their distinctive associations with brand valuation can therefore help advertisers develop more effective communication messages to maximize the returns on their advertising campaigns.</p><p>In addition, our findings also contribute to future advertising practice by systematically demonstrating the effectiveness of operationalizing brand singularization as content strategies to encourage meaningful consumption episodes. Echoing the prediction of future advertising made by <ref type="bibr" target="#b22">Deuze (2016)</ref>, which calls for seizing the opportunity when consumers invite brands to participate in their daily lives, this research has proposed and tested two content strategies that future advertising practitioners can employ to facilitate brand singularization, in other words, through product review and through consumer-generated advertisements. Although not formally hypothesized, we performed additional analyses to examine the effect of brand singularization on the willingness to participate in future advertising co-creation. Our Findings from our research should be appreciated in light of several limitations. First, to monitor postpurchase brand valuation change in a realistic setting, participants were asked to recall their brand purchases. While this approach is appropriate, given the theoretical of the studies, further research that examines the brand valuation change under a relatively more controlled laboratory environment is necessary before broader generalizations can be made. Future research could also adopt survey research methods to measure (as opposed to manipulate) constructs such as brand relationship norms and singularization to further establish the discriminant validity of these constructs to inform the measurement practices <ref type="bibr" target="#b10">(Bergkvist and Langner 2017;</ref><ref type="bibr" target="#b84">Voorhees et al. 2016)</ref>. In addition to the experimental control used in this research, researchers using a survey method might also want to measure and control for the brand relationship duration in their analysis, as brand relationship may start before brand ownership. Future advertising research may also seek to examine the interactions between brand valuation and other branding strategies (e.g., brand extension and portfolio management; <ref type="bibr" target="#b41">Kirmani, Sood, and Bridges 1999;</ref><ref type="bibr" target="#b62">Morgan and Rego 2009)</ref>. In sum, despite the large body of research on brand valuation, there is still much to learn about this construct, and continuous work in this area is warranted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>As <ref type="bibr" target="#b47">Kumar and Gupta (2016)</ref> contend in envisioning the evolution and future of advertising, "Advertising has an ability to move markets and minds, products and perceptions. It interests, intrigues, entices, entertains, and creates lifestyles. It builds a relationship between customers and brands" (p. 302). In recent years, a rising concern that challenges the validity of modern advertising is the phenomenon that consumers increasingly view marketing communications with suspicion and distrust (O'Hern and Rindfleisch 2010). Such distrust could range from more passive ad skepticism <ref type="bibr">(Obermiller and Spangenberg 1998, p. 160)</ref> to active resistance, such as anti-corporate blogging and culture jamming <ref type="bibr" target="#b42">(Klein, Smith, and John 2004;</ref><ref type="bibr" target="#b45">Kozinets and Handelman 2004;</ref><ref type="bibr" target="#b80">Thompson, Rindfleisch, and Arsel 2006)</ref>. One proposed solution is for companies to take steps to actively involve customers in their strategic planning and execution <ref type="bibr" target="#b73">(Seybold 2006)</ref>. The findings from our research lend support to the viability of one such step: engaging consumers in companies' content strategies as a form of brand singularization. Indeed, consumer-generated content has become ubiquitous, as companies adjust their communication strategies to be "more interactive with their consumers and to provide them an experience that goes beyond product services" <ref type="bibr">(Kumar and Gupta 2016, p. 306)</ref>. When engaging in co-creation with consumers, companies are found to become more transparent and authentic, and they are able to identify more creative ways of converting consumers into brand ambassadors. Our research findings on brand singularization, operationalized as content strategies that aim to promote meaningful consumption episodes, in conjunction with those on brand relationship norms, could help guide advertising practitioners in recalibrating their content strategies and interacting and building fruitful relationship with consumers, as they become a driving force of future marketing communication <ref type="bibr" target="#b72">(Schultz 2016)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Conceptual framework.</figDesc><graphic coords="2,43.03,53.01,235.67,150.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Brand valuation change across two conditions (Study 1). For individuals in an exchange relationship, the difference is significant (p .05); for individuals in a communal relationship, the difference is nonsignificant (p &gt; .24).</figDesc><graphic coords="9,60.83,53.01,235.16,211.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Brand valuation change across four conditions (Study 2).</figDesc><graphic coords="11,95.36,184.99,421.41,256.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Brand valuation change across all conditions (Study 3).</figDesc><graphic coords="13,95.36,53.01,421.41,275.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Definitions and operationalizations of branding constructs.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Products/brands summary (Study 1).</figDesc><table><row><cell>Product Category</cell><cell>Sample Products</cell><cell>Sample Brands</cell><cell>Communal</cell><cell>Exchange</cell><cell>n</cell></row><row><cell>Apparel and jewelry</cell><cell>Watch, shirt, jacket, dress, bracelet, bra,</cell><cell>Swatch, Forever 21, Adidas, Express,</cell><cell>8</cell><cell>6</cell><cell>1 4</cell></row><row><cell></cell><cell>board shorts, shoes</cell><cell>Pandora, Victoria's Secret, Hurley, Nike</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Electronics</cell><cell>Camera, cell phone, laptop, mouse, gaming</cell><cell>GoPro, Nokia, Apple, Razer, Sony, Innovate</cell><cell>10</cell><cell>6</cell><cell>16</cell></row><row><cell></cell><cell>console, digital O 2 sensor controller</cell><cell>Motorsports</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grocery</cell><cell>Milk, tea, shampoo, rotisserie chicken, coffee,</cell><cell>Taste Tea, Head &amp; Shoulders, Kirkland,</cell><cell>5</cell><cell>6</cell><cell>1 1</cell></row><row><cell></cell><cell>marshmallows</cell><cell>Starbucks, Kraft</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Health and beauty</cell><cell>Body cream, coconut oil, shaving razor,</cell><cell>Victoria's Secret, Bareans, Gillette, Acuvue,</cell><cell>7</cell><cell>4</cell><cell>1 1</cell></row><row><cell></cell><cell>contact lenses, facial mask,</cell><cell>Lush, Philips</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>electric toothbrush</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sports and fitness</cell><cell>Spike ball, foam roller</cell><cell>KTCC, TriggerPoint</cell><cell>1</cell><cell>1</cell><cell>2</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell>31</cell><cell>23</cell><cell>54</cell></row></table><note><p>ship norms and postpurchase time (Wilks's k: F (1, 52) ¼ 5.24, p ¼ .02), lending support to the moderating effect of relationship norms on brand valuation change. No other effect was significant (p &gt; .48).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Descriptive statistics of dependent variables and mediator (Study 1).</figDesc><table><row><cell></cell><cell cols="2">Exchange (n ¼ 31)</cell><cell cols="2">Communal (n ¼ 23)</cell></row><row><cell>Measures</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell></row><row><cell>Brand valuation (Percentage price premium)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time 1</cell><cell>17%</cell><cell>14%</cell><cell>20%</cell><cell>16%</cell></row><row><cell>Time 2</cell><cell>23%</cell><cell>20%</cell><cell>17%</cell><cell>12%</cell></row><row><cell>Self-brand connection</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time 1</cell><cell>3.39</cell><cell>1.61</cell><cell>4.09</cell><cell>1.62</cell></row><row><cell>Time 2</cell><cell>3.94</cell><cell>1.46</cell><cell>3.87</cell><cell>1.46</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 .</head><label>4</label><figDesc>Products/brand summary (Study 2).</figDesc><table><row><cell>Product Category</cell><cell>Sample Products</cell><cell>Sample Brands</cell><cell>Communal</cell><cell>Exchange</cell><cell>n</cell></row><row><cell>Apparel and jewelry</cell><cell>Watch, skirt, sunglasses, shoes, handbag,</cell><cell>Emporio Armani, Banana Republic,</cell><cell>17</cell><cell>19</cell><cell>36</cell></row><row><cell></cell><cell>ring, jeans</cell><cell>VonZipper, Vans, Samantha Thavasa,</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Cartier, American Eagle</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Electronics</cell><cell>Laptop, cell phone, earphone, flash drive,</cell><cell>Toshiba, Apple, Bose, SanDisk,</cell><cell>19</cell><cell>10</cell><cell>29</cell></row><row><cell></cell><cell>cell phone charger</cell><cell>Verizon Wireless</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grocery</cell><cell>Toilet paper, toothpaste, coffee</cell><cell>Charmin, Sensodyne, Starbucks</cell><cell>5</cell><cell>4</cell><cell>9</cell></row><row><cell>Health and beauty</cell><cell>Lipstick, cleanser, moisturizer, eyeliner, nail</cell><cell>MAC, Kiehl's, Shiseido, Stila, Sally Hansen,</cell><cell>8</cell><cell>7</cell><cell>1 5</cell></row><row><cell></cell><cell>polish, hand sanitizer</cell><cell>Bath &amp; Body Works</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sports and fitness</cell><cell>Activity tracker, protein powder, water bottle</cell><cell>Jawbone, JYM, Hydro Flask</cell><cell>3</cell><cell>2</cell><cell>5</cell></row><row><cell>Travel and leisure</cell><cell>Tsum Tsum, flute, Nekroz of Valkyrus,</cell><cell>Disney, Burkart, Yu-Gi-Oh!, Xseed</cell><cell>1</cell><cell>6</cell><cell>7</cell></row><row><cell></cell><cell>video game</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell>53</cell><cell>48</cell><cell>101</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5 .</head><label>5</label><figDesc>Descriptive statistics of dependent variables and mediator (Study 2).</figDesc><table><row><cell></cell><cell></cell><cell>Exchange</cell><cell></cell><cell></cell><cell></cell><cell>Communal</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Autonomous</cell><cell>Affiliative</cell><cell></cell><cell cols="2">Autonomous</cell><cell>Affiliative</cell><cell></cell></row><row><cell></cell><cell>(n ¼ 20)</cell><cell></cell><cell>(n ¼ 33)</cell><cell></cell><cell>(n ¼ 20)</cell><cell></cell><cell>(n ¼ 28)</cell><cell></cell></row><row><cell>Measures</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell><cell>M</cell><cell>S D</cell></row><row><cell>Brand valuation (percentage price premium)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time 1</cell><cell>13%</cell><cell>11%</cell><cell>17%</cell><cell>20%</cell><cell>24%</cell><cell>23%</cell><cell>25%</cell><cell>19%</cell></row><row><cell>Time 3</cell><cell>22%</cell><cell>13%</cell><cell>22%</cell><cell>22%</cell><cell>27%</cell><cell>22%</cell><cell>20%</cell><cell>15%</cell></row><row><cell>Brand valuation increase</cell><cell>9%</cell><cell>7%</cell><cell>5%</cell><cell>16%</cell><cell>3%</cell><cell>17%</cell><cell>À5%</cell><cell>15%</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6 .</head><label>6</label><figDesc>Products/brand summary (Study 3).</figDesc><table><row><cell>Product Category</cell><cell>Sample Products</cell><cell>Sample Brands</cell><cell>n</cell></row><row><cell>Personal electronics</cell><cell>Laptop, cell phone, tablet, game</cell><cell>Apple, Samsung, Lenovo, Amazon,</cell><cell>434</cell></row><row><cell></cell><cell>console, e-reader, fitness tracker,</cell><cell>Sony, Dell, Google, Nintendo,</cell><cell></cell></row><row><cell></cell><cell>headphones, TV, smart</cell><cell>Microsoft, LG</cell><cell></cell></row><row><cell></cell><cell>home device</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head></head><label></label><figDesc>¼ 31%; M time2 ¼ 38%; t (64) ¼ 2.99, p ¼ .004, Cohen's d ¼ .21) but not for those who engaged in affiliative brand singularization (M time1 ¼ 31%; M time2 ¼ 34%; t (61) ¼.887, p ¼ .38, Cohen's d ¼ .08). By comparison, for consumers in a communal brand relationship, as with Study 2, brand valuation again remained flat over the duration of ownership for both those who engaged in autonomous brand singularization (M time1 ¼ 28%; M time3 ¼ 29%; t (66) ¼.240, p ¼ .81, Cohen's d ¼ .02) and those who engaged in affiliative brand singularization (M time1 ¼ 39%; M time3 ¼ 40%; t (59) ¼ 1.165, p ¼ .25, Cohen's d ¼ .05). These results rendered support to Hypothesis 4.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 7 .</head><label>7</label><figDesc>Descriptive statistics of dependent variables (Study 3). results showed that, for participants who engaged in brand singularization, regardless of the type, the increase in their willingness to participate in future advertising co-creation over time was greater (M time1 ¼ 4.67; M time2 ¼ 5.40; t (253) ¼ 6.77, p &lt; .001, Cohen's d ¼ .44), compared to those who did not engage in any form of brand singularization (M time1 ¼ 4.58; M time2 ¼ 5.07; t (56) ¼ 3.25, p ¼ .002, Cohen's d ¼ .26). These findings intimate that advertising practitioners can extrapolate the principle of brand singularization to their future design of content strategies if the goal of the marketing communication is to maintain brand valuation or engage consumers in other brand content co-creation.</figDesc><table><row><cell></cell><cell></cell><cell>Exchange</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Communal Control</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Autonomous</cell><cell cols="2">Affiliative</cell><cell cols="2">Autonomous</cell><cell cols="2">Affiliative</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(n ¼ 65)</cell><cell cols="2">(n ¼ 62)</cell><cell>(n ¼ 67)</cell><cell></cell><cell cols="2">(n ¼ 60)</cell><cell cols="2">(n ¼ 57)</cell></row><row><cell>Measures</cell><cell>M</cell><cell>SD</cell><cell>M</cell><cell>SD</cell><cell>M</cell><cell>SD</cell><cell>M</cell><cell>SD</cell><cell>M</cell><cell>SD</cell></row><row><cell>Brand valuation (percentage price premium)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Time 1</cell><cell>31%</cell><cell>27%</cell><cell>31%</cell><cell>29%</cell><cell>28%</cell><cell>23%</cell><cell>39%</cell><cell>31%</cell><cell>35%</cell><cell>29%</cell></row><row><cell>Time 2</cell><cell>38%</cell><cell>31%</cell><cell>34%</cell><cell>31%</cell><cell>29%</cell><cell>24%</cell><cell>40%</cell><cell>32%</cell><cell>34%</cell><cell>31%</cell></row><row><cell>Brand valuation increase</cell><cell>7%</cell><cell>4%</cell><cell>3%</cell><cell>2%</cell><cell>1%</cell><cell>1%</cell><cell>1%</cell><cell>1%</cell><cell>À1%</cell><cell>2%</cell></row></table><note><p>preliminary</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_0"><p>Q. CHEN ET AL.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This study was funded by a <rs type="grantName">Shidler College Fellowship Research Endowment</rs> and the <rs type="funder">Jean E. Rolles Research Endowment</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_vacE2nm">
+					<orgName type="grant-name">Shidler College Fellowship Research Endowment</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">When good brands do bad</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fournier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Adam</forename><surname>Brasel</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/383419</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The effects of brand relationship norms on consumer attitudes and behavior</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/383426</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="101" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Role of relationship norms in processing brand information</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Law</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/497557</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="453" to="464" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The moderating effect of relationship norm salience on consumers&apos; loss aversion</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aggarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/508524</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="413" to="419" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Generating a visceral response</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Amos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Spears</surname></persName>
+		</author>
+		<idno type="DOI">10.2753/JOA0091-3367390302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="25" to="38" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Consumer culture theory (CCT): Twenty years of research</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Arnould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/426626</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="868" to="882" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Signaling the green sell: The influence of eco-label source, argument specificity, and product involvement on consumer trust</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2013.834803</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="45" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Reflections on relationship marketing in consumer markets</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Bagozzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009207039502300406</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="272" to="277" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Liquid consumption</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bardhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jcr/ucx050</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="582" to="597" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahuvia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Bagozzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jm.09.0339</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Construct measurement in advertising research</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bergkvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Langner</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2017.1281778</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="140" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Build your brand as a relationship</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonchek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>France</surname></persName>
+		</author>
+		<ptr target="https://hbr.org/2016/05/build-your-brand-as-a-relationship" />
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Consumer brand relationships: An investigation of two alternative models</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Breivik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thorbjørnsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11747-008-0115-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="443" to="472" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cappo</surname></persName>
+		</author>
+		<title level="m">The future of advertising: New media, new clients, new customers in the post-television age</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Customer engagement interview with Richard Sedley of cScape</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chaffey</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Smart Insights</orgName>
+			</affiliation>
+		</author>
+		<ptr target="http://www.smartinsights.com/customer-engagement/customer-engagement-strategy/customer-engagementinterview-with-richard-sedley-of-cscape/" />
+		<imprint>
+			<date type="published" when="2007-04-29">2007. April 29</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The endowment effect as self-enhancement in response to threat</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Irmak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Rose</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/671344</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="460" to="476" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The role of marketing in social media: How online consumer reviews evolve</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.intmar.2011.01.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interactive Marketing</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="94" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The difference between communal and exchange relationships: What it is and is not</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mills</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0146167293196003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="684" to="691" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Invisible brands: An ethnography of households and the brands in their kitchen pantries</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Coupland</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/429604</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="106" to="118" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Better measurement and management of brand value</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crimmins</surname></persName>
+		</author>
+		<idno type="DOI">10.2501/JAR-40-6-136-144</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="136" to="144" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Dealing with intangibles: Valuing brand names, flexibility and patents. Working Paper at Stern School of Business</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Damodaran</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>New York University</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Pepsi debuts &apos;unapologetic&apos; new tagline</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deabler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020-01-05">2020. January 5, 2020</date>
+		</imprint>
+	</monogr>
+	<note>www.foxnews.com</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Living in media and the future of advertising</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deuze</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2016.1185983</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="326" to="333" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">American girl and the brand gestalt: Closing the loop on sociocultural branding research</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Sherry</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muniz</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Kozinets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Borghini</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jmkg.73.3.118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="118" to="134" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Explaining the endowment effect through ownership: The role of identity, gender, and self-threat</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Dommer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Swaminathan</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/666737</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1034" to="1050" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The storied life of singularized objects: Forces of agency and network transformation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Epp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Price</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/603547</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="820" to="837" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Narrative processing: Building consumer connections to brands</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Escalas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="168" to="180" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">You are what they eat: The influence of reference groups on consumers&apos; connections to brands</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Escalas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bettman</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15327663JCP1303_14</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="348" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Consequences of customer loyalty to the loyalty program and to the company</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Evanschitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ramaseshan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Woisetschl€ Ager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Richelsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Backhaus</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11747-011-0272-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="625" to="638" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Valuation of brands and intellectual capital</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fern Andez</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>IESE Business School, University of Navarra</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper at</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Consumers and their brands: Developing relationship theory in consumer research</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fournier</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209515</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="343" to="373" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Getting brand communities right</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fournier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="105" to="111" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Garfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Listenomics. Advertising Age</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">41</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Content strategies for digital consumer engagement in social networks: Why advertising is an antecedent of engagement</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gavilanes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Flatten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brettel</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2017.1405751</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="23" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Advertising repetition and variation strategies: Implications for understanding attitude strength</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Haugtvedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Schneier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209391</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="176" to="189" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Are manipulation checks necessary?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Ellsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2018.00998</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">998</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Time will tell: Managing post-purchase changes in brand attitude</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Alden</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11747-015-0444-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="791" to="805" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Can you measure the ROI of your social media marketing?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fodor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MIT Sloan Management Review</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="49" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Experimental tests of the endowment effect and the coase theorem</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahneman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Knetsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Thaler</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261737</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1325" to="1348" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Why a loyal customer isn&apos;t always a profitable one</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Keiningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Aksoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buoye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Williams</surname></persName>
+		</author>
+		<ptr target="www.wsj.com/articles/SB10001424052970203353904574149041326829628" />
+	</analytic>
+	<monogr>
+		<title level="j">The Wall Street Journal</title>
+		<imprint>
+			<date type="published" when="2009-06-22">2009. June 22, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Experimental design</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kirk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of psychology</title>
+		<editor>
+			<persName><forename type="first">I</forename><forename type="middle">B )</forename><surname>Weiner (series Ed</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schinka</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Velicer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The ownership effect in consumer responses to brand line stretches</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirmani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bridges</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1252003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="101" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Why we boycott: Consumer motivation for boycott participation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>John</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jmkg.68.3.92.34770</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="92" to="109" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">How is a possession &quot;me&quot; or &quot;not me&quot;? Characterizing types and an antecedent of material possession attachment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kleine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kleine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209454</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="327" to="343" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The cultural biography of things: Commoditization as process</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kopytoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Social Life of Things: Commodities in Cultural Perspective</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="70" to="73" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Adversaries of consumption: Consumer movements, activism, and ideology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Kozinets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Handelman</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/425104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="691" to="704" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The relative endurance of attitudes, confidence, and attitude-behavior consistency: The role of information source and delay</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="273" to="298" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Conceptualizing the evolution and future of advertising</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2016.1199335</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="302" to="317" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Customer loyalty is overrated</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lafley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<biblScope unit="page" from="46" to="53" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A thematic exploration of digital, social media, and mobile marketing: Research evolution from 2000 to 2015 and an agenda for future inquiry</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lamberton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Stephen</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jm.15.0415</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="146" to="172" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Exclusive: United airlines tries a new angle in latest TV ad campaign</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lazare</surname></persName>
+		</author>
+		<ptr target="www.bizjournals.com/chicago/news/2014/09/25/united-airlines-tries-a-new-angle.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Chicago Business Journal</title>
+		<imprint>
+			<date type="published" when="2014-09-25">2014. September 25, 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The impact of content and design elements on banner advertising click-through rates</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lothia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Donthu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Hershberger</surname></persName>
+		</author>
+		<idno type="DOI">10.2501/JAR-43-4-410-418</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="410" to="418" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Long-term disability is associated with lasting changes in subjective well-being: evidence from two nationally representative longitudinal studies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Lucas</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.92.4.717</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="717" to="730" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Brand valuation by price premium: Theoretical explanation and practical application using conjoint analysis</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Macias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<idno type="DOI">10.18848/2327-7998/CGP/v17i03/13-27</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Knowledge Management: An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Achieving brand loyalty through sponsorship: The role of fit and self-congruity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mazodier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Merunka</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11747-011-0285-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="807" to="820" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Married to the brand: Why consumers bond with some brands for life</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Mcewen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Simon and Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">How companies cultivate relationships with publics on social network sites: Evidence from China and the United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Men</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-H. Sunny</forename><surname>Tsai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pubrev.2011.10.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Relations Review</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="723" to="730" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Consumer experience tourism and brand bonding</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Orwig</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/10610420210419531</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Product &amp; Brand Management</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="30" to="41" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Material culture and mass consumption</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Blackwell</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Buyers&apos; subjective perceptions of price</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Monroe</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3149411</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="70" to="80" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Two-condition within-participant statistical mediation analysis: A pathanalytic framework</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Montoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/met0000086</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="6" to="27" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Bad riddance or good rubbish? Ownership and not loss aversion causes the endowment effect</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Morewedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Shu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2009.05.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="947" to="951" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Brand portfolio strategy and firm performance</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Rego</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jmkg.73.1.59</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="74" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Religiosity in the abandoned apple Newton brand community</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schau</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/426607</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="737" to="747" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Vigilante marketing and consumer-created communications</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="35" to="50" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Development of a scale to measure consumer skepticism toward advertising</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Obermiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Spangenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327663jcp0702_03</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="186" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Customer co-creation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>O'hern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rindfleisch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Review of marketing research</title>
+		<meeting><address><addrLine>Bingley, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="84" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Health organizations&apos; use of Facebook for health advertising and promotion</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stemmle</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15252019.2011.10722191</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interactive Advertising</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="62" to="77" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Relationship marketing and the consumer</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Peterson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009207039502300407</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="278" to="281" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The mismanagement of customer loyalty</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Reinartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="86" to="95" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The experience versus the expectations of power: A recipe for altering the effects of power on behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Rucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Galinsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/676598</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="381" to="396" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">A taxonomy of brand valuation practice: Methodologies and purposes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Salinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ambler</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/bm.2009.14</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Brand Management</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="61" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">The future of advertising or whatever we&apos;re going to call it</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schultz</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2016.1185061</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="276" to="285" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">How your customers will co-design your company&apos;s future</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Seybold</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Collins</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Contextual priming and applicability: Implications for ad attitude and brand evaluations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.2753/JOA0091-3367360105</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="80" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">How does brand-related user-generated content differ across YouTube, Facebook, and Twitter</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yongjian</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.intmar.2012.01.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interactive Marketing</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="102" to="113" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">How perceived brand globalness creates brand value</title>
+		<author>
+			<persName><forename type="first">J.-B E</forename><surname>Steenkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Alden</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/palgrave.jibs.8400002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Business Studies</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="53" to="65" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">What makes consumers willing to pay a price premium for National brands over private labels</title>
+		<author>
+			<persName><forename type="first">J.-B</forename><forename type="middle">E</forename><surname>Steenkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Alden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Van Heerde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Geyskens</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jmkr.47.6.1011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1011" to="1024" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">The effect of ownership history on the valuation of objects</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Strahilevitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Loewenstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209539</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="276" to="289" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">My&quot; brand or &quot;Our&quot; brand: The effects of brand relationship dimensions and self-construal on brand evaluations</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Swaminathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>G€ Urhan-Canli</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/518539</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="248" to="259" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Emotional branding and the strategic value of the D€ oppelganger brand image</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rindfleisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Arsel</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jmkg.2006.70.1.50</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="64" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Consumer-generated ads: Does awareness of advertising co-creation help or hurt persuasion</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malaviya</surname></persName>
+		</author>
+		<idno type="DOI">10.1509/jm.11.0403</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="33" to="47" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">The ties that bind: measuring the strength of consumers&apos; emotional attachments to brands</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Macinnis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Whan</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327663jcp1501_10</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="91" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">Requirements for monetary brand valuation</title>
+		<author>
+			<persName><surname>Iso</surname></persName>
+		</author>
+		<idno>ISO 10668</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">International Standard</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Discriminant validity testing in marketing: an analysis, causes for concern, and proposed remedies</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Voorhees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Calantone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ramirez</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11747-015-0455-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Academy of Marketing Science</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="119" to="134" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The role of relationship norms in responses to service failures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Wyer</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1086/659039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="260" to="277" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Attracting comments: Digital engagement metrics on Facebook and financial performance</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>North</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00913367.2017.1405753</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="37" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Reconsidering Baron and Kenny: Myths and truths about mediation analysis</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">J G</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jr</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/651257</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="197" to="206" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

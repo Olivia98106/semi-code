@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Implications of Social Capital for the Digital Divides in America</title>
+				<funder ref="#_wHCwryb">
+					<orgName type="full">Academia Sinica, Taiwan</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2013-01">2013-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Wenhong</forename><surname>Chen</surname></persName>
+							<email>wenhong.chen@austin.utexas.edu</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radio-Television-Film</orgName>
+								<orgName type="institution">University of Texas</orgName>
+								<address>
+									<settlement>Austin</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Research Center for Humanities and Social Sciences</orgName>
+								<orgName type="department" key="dep2">Institute of Sociology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Radio-TV-Film</orgName>
+								<orgName type="department" key="dep2">College of Communication</orgName>
+								<orgName type="institution">University of Texas at Austin</orgName>
+								<address>
+									<addrLine>2504 Whitis Ave. Stop A0800</addrLine>
+									<postCode>78712</postCode>
+									<settlement>Austin</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Implications of Social Capital for the Digital Divides in America</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">The Information Society</title>
+						<title level="j" type="abbrev">The Information Society</title>
+						<idno type="ISSN">0197-2243</idno>
+						<idno type="eISSN">1087-6537</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">29</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="13" to="25"/>
+							<date type="published" when="2013-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">794A06C65405801641EC200CE9C5D8BA</idno>
+					<idno type="DOI">10.1080/01972243.2012.739265</idno>
+					<note type="submission">Received 23 August 2011; accepted 8 October 2012.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>digital divides</term>
+					<term>embedded resources</term>
+					<term>social capital</term>
+					<term>strong ties</term>
+					<term>weak ties</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The existing literature is oriented toward examining how Internet access and use may affect social capital. The role of social capital in narrowing the digital divides has been frequently mentioned but few studies have empirically examined how various types of social capital may affect people's access and use of the Internet. Drawing on a two-wave national panel data set, this article aims to fill this gap. Results demonstrate that social capital facilitates Internet access and use. In particular resource-rich bonding social capital helps overcome the digital divides in access, general use, and online communication. Before the Internet can revitalize social capital, there must be the right social capital in place to close the digital divides. Highlighting the relationship between social connectivity and digital connectivity, the findings have important implications for policymakers and practitioners.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The share of Internet users in America has increased from around 3 percent in 1995 to almost 80 percent in 2010 <ref type="bibr" target="#b16">(DiMaggio et al. 2001;</ref><ref type="bibr" target="#b57">Smith 2010)</ref>. The last 20 percent of Americans who still have no Internet access are sometimes called the "information want-nots": people who lack the motivation to adopt the <ref type="bibr">Internet (van Dijk 2006)</ref>. In fact, many of these so-called "information want-nots" are disconnected from the Internet both technically and so-cially. <ref type="bibr" target="#b57">Smith (2010)</ref> reports that more than 80 percent of nonusers have no family members who use the Internet. The National Telecommunication and Information <ref type="bibr">Administration (2010)</ref> reports that among American households without broadband Internet access, two-thirds of these households have no members who have ever used the Internet in any place.</p><p>The relation between the Internet and social capital has generated a heated debate <ref type="bibr" target="#b31">(Kraut et al. 1998;</ref><ref type="bibr" target="#b48">Nie and Erbring 2000;</ref><ref type="bibr" target="#b64">Wellman et al. 2001;</ref><ref type="bibr" target="#b8">Chen and Wellman 2004;</ref><ref type="bibr" target="#b66">Zhao 2006;</ref><ref type="bibr" target="#b63">Vergeer and Pelzer 2009;</ref><ref type="bibr" target="#b26">Hampton, Sessions, and Her 2011)</ref>. However, the attention has been overwhelmingly centered on what the Internet can do to social capital. Also, most studies have relied on crosssectional data (see exceptions in <ref type="bibr" target="#b31">Kraut et al. 1998;</ref><ref type="bibr" target="#b44">Miyata and Kobayashi 2008;</ref><ref type="bibr" target="#b61">Valkenburg and Peter 2009)</ref>. The other direction of the relation-how social capital may affect digital divides-has received limited attention, especially in empirical research, although some scholars have highlighted the role of social capital in structuring the diffusion of new technologies <ref type="bibr" target="#b54">(Rogers 1995;</ref><ref type="bibr" target="#b15">DiMaggio and Cohen 2003)</ref>.</p><p>This study not only examines how social capital is related to Internet adoption and use but does so with a refinement by exploring the implications of different types of social capital for digital divides. Drawing on the Social Capital in the U.S. Survey in 2004 and 2007, a two-wave national panel data set, it addresses the following questions: How is social capital related to Internet access, general Internet use, and online communication? How does the relationship vary by different types of social capital in terms of tie strength and embedded resources?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>UNDERSTANDING HOW SOCIAL CAPITAL MAY AFFECT DIGITAL DIVIDES</head><p>Digital divides are multidimensional and multilayeredwhether and the extent to which individuals have Internet access, how they use it, what they use it for, and the W. CHEN returns they gain from use. Existing research, which has gone through two major waves with the earlier studies focusing on pattern of access and later ones on the pattern of usage <ref type="bibr" target="#b55">(Selwyn 2004;</ref><ref type="bibr" target="#b8">Chen and Wellman 2004</ref>), shows that early adopters are disproportionately young, better educated, affluent, urban, and white <ref type="bibr" target="#b10">(Chen, Boase, and Wellman 2002;</ref><ref type="bibr" target="#b0">Boase 2010)</ref>, and the digital divides do not just disappear when access is available, as socioeconomic status affects Web skills and the kind of Internet activities people conduct online <ref type="bibr">(Zillien and Hargittai 2010)</ref>. Furthermore, demographic and status disparities at the individual level are only one part of the story. Racial segregation and concentrated poverty in inner-city neighborhoods hamper Internet access among racial and ethnic minorities <ref type="bibr" target="#b22">(Fong and Cao 2008)</ref>. In the case of rural populations, low population density, slow investment in infrastructure, and high Internet service cost are barriers that hinder access to and use of the <ref type="bibr">Internet (LaRose et al. 2008)</ref>. In general, income, education, race, and geographic location remain important predictors of broadband Internet access in America <ref type="bibr">(NTIA 2010)</ref>.</p><p>Social capital is also a complex concept. In fact, it is one of the most contested concepts in social sciences. Although different schools argue about its definition, causes, consequences, and the appropriate level of analysis, most scholars agree that what makes social capital unique is its relational nature <ref type="bibr" target="#b2">(Bourdieu 1985;</ref><ref type="bibr" target="#b12">Coleman 1988;</ref><ref type="bibr" target="#b34">Lin 2001;</ref><ref type="bibr" target="#b52">Putnam 1995</ref><ref type="bibr" target="#b53">Putnam , 2000))</ref>. Social capital is individuals' investment in social relations for instrumental or expressive return <ref type="bibr">(Lin 2011)</ref>. It depends on the social connections between and among people.</p><p>Although quite a few scholars have highlighted the role of social capital in structuring access and use of new communication technologies <ref type="bibr" target="#b54">(Rogers 1995;</ref><ref type="bibr" target="#b15">DiMaggio and Cohen 2003)</ref>, existing studies have paid limited attention to how social capital may affect digital divides, and empirical research in particular is lacking.</p><p>Social capital may affect the extent to which people get exposure to new technologies and the extent to which they receive assistance from family and friends to solve technical problems. Peer influence affects a range of behaviors from substance use to technology adoption via modeling, encouraging, and facilitating. People observe and mimic their peers, especially those who are highly visible or influential <ref type="bibr" target="#b7">(Chen 2007)</ref>. Peer influence is associated with Internet use among various population segments ranging from high school students <ref type="bibr" target="#b65">(Zhao et al. 2011)</ref> to corporate employees <ref type="bibr" target="#b45">(Monge and Contractor 2003)</ref>. Correspondingly, socially isolated adolescents are less likely to use digital communication <ref type="bibr" target="#b3">(Bryant, Sanders-Jackson, and Smallwood 2006)</ref>. By contrast, the more people in one's network use a new technology to communicate, the greater are the benefits and pressure one would perceive in jumping on the bandwagon <ref type="bibr" target="#b15">(DiMaggio and Cohen 2003)</ref>.</p><p>Furthermore, even though it is widely understood that there are different types of social capital, there has been a striking lack of research exploring the implications of these different types of social capital for digital divides. According to <ref type="bibr" target="#b53">Putnam (2000)</ref>, the value generated through social networks among homogeneous people, that is, people who share similar ascribed or achieved traits, is bonding social capital and that from heterogeneous people is bridging social capital. Putnam's notion of bonding and bridging social capital builds on <ref type="bibr" target="#b25">Granovetter's (1973)</ref> notion of strong and weak ties. People's social networks often contain a relatively small number of strong ties in the core and a larger number of weak ties on the periphery. Strong ties tend to be homogeneous and involve emotional bonds, closeness, trust, and reciprocity. People feel close to their strong ties and maintain frequent communication with them. Weak ties are more likely to be heterogeneous, and people do not feel close to their weak ties and only communicate occasionally with them. Weak ties are more likely than strong ties to increase the diversity of network contacts and thus help people to access novel information. While <ref type="bibr" target="#b4">Burt (1992)</ref> and others, following Granovetter, have focused on tie strength, <ref type="bibr" target="#b34">Lin (2001)</ref> directs attention to the resources embedded in people's networks: The overall quantity and quality of resources that people can access and mobilize through their network contacts affect the outcome of their social action.</p><p>Social capital can also generate cost and liabilities such as the exclusion of outsiders, excessive claims from group members, restriction on individual freedoms, and unproductive group norms <ref type="bibr" target="#b50">(Portes and Sensenbrenner 1993;</ref><ref type="bibr" target="#b27">Hsung and Breiger 2009)</ref>. Densely knit social groups preserve resources for insiders only and impose unproductive obligations and tight social control that may restrict individual autonomy <ref type="bibr" target="#b12">(Coleman 1988)</ref>. The pressure of conformity, especially in poor communities, can lead to a downward leveling of norms and expectations <ref type="bibr" target="#b49">(Portes 1998)</ref>.</p><p>In sum, the existing research suggests that social capital may both facilitate and constrain Internet access and use in complex ways. Therefore, the examination of social capital in the aggregate may gloss over these complexities. The current study then makes a move toward a more refined understanding of the role of social capital by examining how its implications for digital divides may vary by its two structural aspects: tie strength and embedded resources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BONDING AND BRIDGING SOCIAL CAPITAL</head><p>While, as noted earlier, few studies have examined the impact of bonding or bridging social capital on Internet access and use, the rich literature on strong and weak ties provides some hints. Weak ties are strong in connecting individuals from otherwise separated networks.</p><p>Downloaded by [University of Tasmania] at 04:31 14 October 2014 They thereby bring people fresh and diverse information, which enables them to access pools of resources beyond the ones they typically do <ref type="bibr" target="#b25">(Granovetter 1973;</ref><ref type="bibr" target="#b4">Burt 1992)</ref>. In general, exposure to diverse contacts helps people to develop cognitive flexibility and enhance their cultural capital, which assists technology diffusion within a community <ref type="bibr" target="#b19">(Erickson 1996;</ref><ref type="bibr" target="#b39">Markus 1987)</ref>. In effect, weak ties can accelerate technical or cultural diffusion from one group to the other.</p><p>Furthermore, according to the diffusion theory, the last 16 percent of the population that adopts an innovation is the "laggards" <ref type="bibr" target="#b54">(Rogers 1995)</ref>. Rogers describes laggards as "the most localite in their outlook of all adopter categories; many are near isolates in the social networks of their system" <ref type="bibr">(1995,</ref><ref type="bibr">265)</ref>. In other words, laggards have few weak ties. Their limited contact with innovators and opinion leaders reduces their exposure to innovations and thereby their awareness of the benefits of adopting new technologies and practices. By contrast, people with more weak ties receive exposure to innovations earlier. In the diffusion theory's terminology, cosmopolites-individuals with boundary-expanding ties-are more likely to introduce innovations into a population <ref type="bibr" target="#b54">(Rogers 1995)</ref>. Although few studies have empirically examined how bridging social capital may affect online communication, existing studies argue for a positive relation between online communication and the number of weak ties due to the perceived accordance between the technological affordances offered by the Internet and the low-maintenance nature of weak ties <ref type="bibr" target="#b17">(Donath and Boyd 2004)</ref>. Accordingly, Internet users who have more weak ties are likely to use the Internet for communication. Thus: H1: Bridging social capital is positively related to Internet access, general Internet use, and online communication.</p><p>Existing studies also offer hints that bonding social capital based on strong ties may facilitate Internet access and use. Strong ties such as family and peers facilitate people's socialization into the technoculture <ref type="bibr" target="#b55">(Selwyn 2004)</ref>. How people perceive and use a new communication technology is affected by how their strong ties perceive and use it <ref type="bibr" target="#b6">(Campbell and Russo 2003)</ref>. Strong ties facilitate the transfer of fine-grained information and tacit knowledge and encourage collaboration. In general, strong ties are more reliable and willing in providing social support <ref type="bibr" target="#b60">(Uzzi 1996)</ref>. Thus, strong ties can serve as informal mentors, passing on hands-on expertise and solving technical problems for people who have no or limited Internet experience. For instance, compared to weak ties on Facebook, strong ties on Facebook are more likely to respond to request for modest help <ref type="bibr">(Stefannone, Kwon, and Lackaff 2011)</ref>. By contrast, without strong social support, it is difficult for people to gain advice on purchasing, troubleshooting, and upgrading hardware and software <ref type="bibr" target="#b62">(van Dijk 2006)</ref>. Existing studies also suggest that bonding social capital based on strong ties can encourage online communication. A longitudinal study in Japan shows that the size of supportive networks increases with e-mail use <ref type="bibr" target="#b44">(Miyata and Kobayashi 2008)</ref>. In a similar vein, other studies show that workers started to use e-mail when colleagues with whom they shared a strong tie did so <ref type="bibr" target="#b45">(Monge and Contractor 2003)</ref>, and adolescents who have strong social relationships are more likely to communicate online <ref type="bibr" target="#b33">(Lee 2009)</ref>. Thus: H2: Bonding social capital is positively related to Internet access, general Internet use, and online communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACCESS TO RESOURCES VIA BONDING AND BRIDGING SOCIAL CAPITAL</head><p>One good measure of the social capital lodged in a person's social network is the occupations of its members, as occupations tend to be arrayed in a structural hierarchy with regards to wealth, status, and power <ref type="bibr" target="#b36">(Lin and Dumin 1986)</ref>. People with low socioeconomic status are disadvantaged not because they have no social ties but because they do not have social ties that provide access to job information and other means of advancement. Some of their social contacts in fact even add financial or emotional stress <ref type="bibr" target="#b51">(Portes and Landolt 1996)</ref>. Conversely, individuals from advantaged backgrounds benefit from their association with well-endowed people. At the same time, we need to be mindful that while ties with people with lowprestige occupations may constrain instrumental action such as labor-market performance, they can facilitate expressive action such as obtaining emotional support <ref type="bibr" target="#b35">(Lin and Erickson 2008)</ref>.</p><p>Individuals who have access to more resources via their social networks are more likely to access the Internet and use it more in general for the following two reasons. First, their resource-rich network contacts are more likely to use the Internet themselves and communicate online. Second, they are more likely to gain Internet awareness and receive informal training, technical support, and peer pressure from their resource-rich contacts. For instance, research shows that Internet access is positively associated with the number of ties in high-prestige occupations and negatively associated with that in low-prestige occupations <ref type="bibr" target="#b0">(Boase 2010)</ref>. Importantly, tie strength and embedded resources may mutually reinforce each other's impact on social action <ref type="bibr" target="#b34">(Lin 2001)</ref>.</p><p>Building on the limited empirical research, it is likely that access to resources via bonding social capital enhances Internet access and use. Obligations, reciprocity, and trust embedded in strong ties increase the likelihood of receiving technical and other help if needed. Conversely, people whose bonding social capital allows access to only limited resources will be less motivated to access and use Downloaded by [University of Tasmania] at 04:31 14 October 2014 W. CHEN the Internet and also will have less social support. For instance, urban poor chose not to have home telephones due to the concern that their resource-deprived strong ties such as family, neighbors, and friends might abuse it <ref type="bibr">(Mueller and Schement 2006)</ref>. In a similar vein, the fear that home Internet can be abused by resource-deprived strong ties may hinder nonusers' decision to adopt and use it. The concern may be further magnified with a greater number of strong ties with limited resources. Thus: H3: Access to more embedded resources via bonding social capital is positively related to Internet access, general Internet use, and the intensity of online communication.</p><p>People with more resource-rich bridging social capital are more likely to have more exposure to a larger number of potential Internet users. Conversely, bridging social capital would be a bridge to nowhere if there are no resources that can be accessed. If these ties are limited both in number and the quantum of resources, they are unlikely to enhance nonusers' awareness of the payoff of Internet access and use. They are also unlikely to generate social support or peer pressure to adopt and use the Internet. Thus: H4: Access to more embedded resources via bridging social capital is positively related to Internet access, general Internet use, and the intensity of online communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AND ANALYSIS</head><p>This research draws data from the Social Capital in the U.S. Survey in 2004 and 2007 (hereafter the SC-USA survey). Random digit dialing (RDD) was used in both waves. The survey targeted adult respondents currently or previously employed and aged between 22 and 65 years during Wave 1, which was conducted from November 2004 to <ref type="bibr">March 2005 (McDonald, Lin, and</ref><ref type="bibr" target="#b42">Ao 2009)</ref>. In total, 6,915 of selected households were reached in Wave 1. Among these, 3,000 eligible persons whose birth dates were closest to July 1 responded to the interview requests, producing a response rate of 43.4 percent for Wave 1. Wave 2 was conducted in early 2007 and obtained data from 941 of the 3,000 respondents of Wave 1, which yielded a response rate of 31 percent. The response rate and the attrition rate are comparable with other national RDD surveys <ref type="bibr">(Groves et al. 2004;</ref><ref type="bibr" target="#b21">Fitzgerald, Gottschalk, and Moffitt 1998;</ref><ref type="bibr" target="#b56">Sharot 1991)</ref>.</p><p>The comparison of Wave 2 data with the Current Population Survey in March 2007 demonstrates that the respondents in Wave 2 were more likely than the general population to be women, white, older, better educated, and married or living in a partnership. One reason is that the SC-USA survey focused on respondents with current or previous work experience. Another reason is that panel attrition tends to be highest with respondents with lower socioeconomic status <ref type="bibr" target="#b21">(Fitzgerald, Gottschalk, and Moffitt 1998)</ref>. Therefore, sample weights are constructed using the rake procedure in Stata to match the gender, race, age, education, and marital status of SC-USA survey respondents to the Current Population Survey in March 2007 (limited to respondents aged between 25 and 68 years). In total, 14 cases among the 941 respondents who participated in Wave 2 do not have valid weights due to missing values on race (3), marital status (4), and education (9) and are excluded from the analyses. The weighting procedure adjusts the demographic distribution of the sample as close to the general population as possible so that the weighted data can yield more generalizable results <ref type="bibr" target="#b14">(Deville et al. 1993)</ref>. Table <ref type="table" target="#tab_0">1</ref> reports the summary of sample characteristics. The analysis sample includes 926 respondents after the list-wise deletion of cases with missing values on the variables of interest. The analysis uses Wave 1 data on social capital and socioeconomic characteristics and Wave 2 data on Internet access, use, and online communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent Variables</head><p>Internet use and online communication measured in Wave 2 serve as dependent variables. Respondents were asked how much time in a typical week they spent on the Internet and how much time in a typical week they spent on the Internet communicating with people they had daily contact. Both questions asked the respondents to provide the number of hours. Four variables on Internet access and use are constructed based on the two questions. Internet access is dichotomous. Respondents who spent any time on the Internet in a typical week are coded as 1 and those who did not as 0. The intensity of general Internet use is a continuous variable and measured by the number of hours a respondent spent on the Internet in a typical week. The likelihood of online communication with daily contact is dichotomous. Respondents who spent any time on the Internet communicating with people they had daily contact in a typical week are coded as 1 and those who did not as 0. The intensity of online communication with daily contact is a continuous variable and is measured by the number of hours a respondent spent in a typical week on the Internet communicating with his or her daily contact. As the distributions of the time respondents spent on the Internet are skewed, the squared root terms of the two intensity variables are used in the analysis. Table <ref type="table" target="#tab_0">1</ref> reports the descriptive statistics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Independent Variables</head><p>The survey uses the position generator, which has yielded reliable and valid empirical evidence on the instrumental or expressive return of social capital <ref type="bibr" target="#b34">(Lin 2001)</ref>. It maps the respondent's network via a list of high-and lowstatus occupations, which indicates access to resources Downloaded by [University of Tasmania] at 04:31 14 October 2014 embedded in the respondent's network <ref type="bibr" target="#b36">(Lin and Dumin 1986)</ref>. The occupations are sampled as follows: All occupations in the U.S. Census are ranked according to their occupational prestige scores and then they are grouped at equal intervals, which is followed by the selection of occupations with the most occupants in each group <ref type="bibr" target="#b37">(Lin, Fu, and Hsung 2001)</ref>. The position generator offers a broad picture of people's networks with ties of different strength <ref type="bibr" target="#b11">(Chen and Tan 2009)</ref>.</p><p>The survey gave the respondents a list of 22 occupations and asked whether they knew someone in each of the occupations. The occupations included nurse, writer, Downloaded by [University of Tasmania] at 04:31 14 October 2014 W. CHEN farmer, lawyer, high school teacher, babysitter (housemaid), janitor, personnel manager, administrative assistant, hairdresser, accountant, guard, production manager, factory operator, computer programmer, receptionist, congressman/woman, taxi driver, professor, hotel bell boy, police officer, and chief executive officer (CEO) in a big company. These 22 occupations have been tested in nationally representative surveys in North America, Europe, and Asia <ref type="bibr" target="#b37">(Lin, Fu, and Hsung 2001;</ref><ref type="bibr" target="#b35">Lin and Erickson 2008)</ref>. The question was formulated as followed:</p><p>I am going to ask some general questions about jobs some people you know may now have. These people include your relatives, friends and acquaintances (acquaintances are people who know each other by face and name). If there are several people you know who have that kind of job, please tell me the one that occurs to you first. Is there anyone you know who is a ?</p><p>If the answer was yes, the respondent was asked network interpretation questions about the sociodemographic characteristics of each network contact and the characteristics of the tie between each network contact and the respondent. The independent variables are the different types of social capital by tie strength and average embedded resources.</p><p>Bonding social capital is indicated by the number of occupations in which the respondent knew someone via strong tie. Bridging social capital is indicated by the number of occupations in which the respondent knew someone via weak tie. Following the literature, closeness or emotional intensity of a relationship is a better indicator of tie strength, compared to relational type, duration, or the frequency of contact <ref type="bibr" target="#b41">(Marsden and Campbell 1984;</ref><ref type="bibr" target="#b40">Marsden 1990;</ref><ref type="bibr" target="#b43">McPherson et al. 2001)</ref>. Accordingly, tie strength is measured by the respondent's evaluation of the closeness of his or her relation with each contact, using a 1-5 scale where 1 is very close, 2 close, 3 so-so, 4 not close, and 5 not close at all. If the answer is "very close" or "close" the tie is coded as strong, and otherwise as weak.</p><p>Average resources via bonding social capital are measured by the mean of occupational prestige score of all accessed occupations via strong ties. Average resources via bridging social capital are measured by the mean of occupational prestige score of all accessed occupations via weak ties. The occupational prestige score of the 22 occupations are based on the Standard International Occupational Prestige Scale (SIOPS) developed by <ref type="bibr" target="#b23">Ganzeboom and Treiman (1996)</ref>. Existing research has demonstrated that the average resources take into consideration the overall and the average quality of social capital generated by the respondent's social networks <ref type="bibr" target="#b5">(Campbell, Marsden, and Hurlbert 1986;</ref><ref type="bibr" target="#b58">Song 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Variables</head><p>Privileged individuals are better connected socially and technically. To make sure that the relationship between social capital and the digital divides is not spurious and can be explained away by individual socioeconomic and demographic factors, I further take into consideration the known correlates of the digital divides highlighted in the literature: income, education, race/ethnicity, generation, gender, and geographic location. Other sociodemographic variables are also controlled, including foreign-born, marital status, and unemployment. Gender is dichotomous, coded as 1 if the respondent was female and 0 if male. Foreign-born is a dichotomous variable coded as 1 if the respondent was born outside of the United States and 0 if not. Generations are constructed based on the year of the birth: people born in 1945 or earlier, the older boomer generation <ref type="bibr">(born in 1946-1954)</ref>, the younger boomer generation <ref type="bibr">(born in 1955</ref><ref type="bibr">(born in -1964</ref><ref type="bibr">(born in ), Generation X (born 1965</ref><ref type="bibr">(born in -1976))</ref>, and Generation Y (born in 1977 or later). Partnered is a dichotomous variable coded as 1 if the respondent was married or living with a partner and 0 if not. Education is classified in three categories: high school or less, college, and postgraduate. Family income is classified in five categories: less than $15,000, $15,000-$29,999, $30,000-$49,999, $50,000-$74,999, and $75,000 or more. Unemployment is dichotomous, coded as 1 if the respondent was unemployed and 0 if otherwise. Respondents were asked about the place they lived, and the variable geographic location includes urban (a big city), suburban (the suburbs or outskirts of a big city), town (a small city or town), and rural (a country village or a farm or home in the country).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Table <ref type="table">2</ref> reports the results of multiple logistic regressions on the likelihood of Internet access, Table <ref type="table" target="#tab_2">3</ref> the results of multiple regressions on the intensity of general Internet use, and Table <ref type="table" target="#tab_3">4</ref> reports the results of multiple regressions on the intensity of online communication with daily contacts. As online communication requires Internet use, nonusers are excluded from models in Table <ref type="table" target="#tab_3">4</ref>. In all three tables, Model 1 is the baseline model that takes into account only socioeconomic, demographic, and geographic variations, while Model 2 adds bonding and bridging social capital and Model 3 average resources accessible via bonding and bridging social capital. bonding social capital can be translated into a 2 percent increase in the odds of having Internet access. The change in chi-squared from Model 1 to Model 3 is statistically significant, indicating that the model with average resources fits the data better than the baseline model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Internet Access and General Internet Use</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model 1 in</head><p>Model 1 in Table <ref type="table" target="#tab_2">3</ref> demonstrates that the generational, racial, socioeconomic, and locational gaps in Internet access remain significant to the intensity of general Internet use. Young, better educated, and more affluent people spend more time online in a typical week than older, less educated, and less affluent people. Black Americans spend less time online than white Americans, while the unemployed less time online than the employed. The number of hours spending online in a typical week decreases steadily from urban, to suburb, to town, and to rural area. Model 2 shows that neither bonding nor bridging social capital at Wave 1 increases the intensity of general Internet use at Wave 2. Model 3 shows that embedded resources accessible via both bonding and bridging social capital are significantly related to the intensity of general Internet use (b = 0.01, p ≤ .01). Both Model 1 and Model 2 explain 19 percent of the variations in the intensity of Internet use, indicating that adding bonding and bridging social capital to the baseline model does not offer a better model. Yet, Model 3 explains 20 percent of the variations in the intensity of general Internet use, and the change in R 2 from Model 1 to Model 3 is statistically significant, indicating that adding the average resources to the baseline model provides a better model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Communication With Daily Contacts</head><p>Model 1 in Table <ref type="table" target="#tab_3">4</ref> shows that on top of education and geographic location, there are a few sociodemographic variables significantly related to the intensity of online communication with daily contacts. First, women and singles spend significantly more time communicating online with their daily contacts than men and people who are married or living in a partnership. In general, younger generations spend more time on online communication with their daily contacts than older generations. Model 2 shows that bonding social capital at Wave 1 is significantly associated with the intensity of online communication with daily contacts at Wave 2 (b = .07, p ≤ .05). However, bridging social capital at Wave 1 is significantly but negatively associated with the intensity of online communication with daily contacts at Wave 2. The relation is only marginally significant (b = -.03, p ≤ .1). Model 3 shows that average resources via bonding social capital at Wave 1 is significantly related to the intensity of online communication with daily contacts at Wave 2 (b = .01, p ≤ .01). By contrast, the average resources via bridging social capital at Wave 1 is not significantly related to the intensity of online communication with daily contacts at Wave 2 (b = .00, p &gt; .1). The baseline model explains 9 percent and Model 2 explain 11 percent of the variations in the intensity online communication. The change in R 2 from Model 1 to Model 2 is statistically significant, indicating that adding bonding and bridging social capital leads to a better model. Model 3 explains 10 percent of the variations, and the change in R 2 from Model 1 to Model 3 is also statistically significant, indicating that adding embedded resources via bonding and bridging social capital leads to a better model.</p><p>Overall, bonding social capital per se is not significantly related to Internet access and general Internet use. Yet it is significantly associated with online communication with daily contacts. Thus, Hypothesis 1 is only partially supported. Bridging social capital per se is significantly and positively related to Internet access but not general Internet use. It is negatively related to online communication with daily contacts, although the relationship is only marginally significant. Thus, Hypothesis 2 is only partially supported. Hypothesis 3 is accepted as average resources via bonding social capital are significantly and positively related to Internet access, general Internet use, and online communication. Hypothesis 4 is only partially supported as average resources via bridging social capital are significantly related to general Internet use but do not significantly related with online communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION AND CONCLUSION</head><p>The digital divide in terms of physical access to technology has narrowed in many aspects in the United States and around the world, sometimes giving rise to complacency <ref type="bibr" target="#b18">(Epstein, Nisbet, and Gillespie 2011)</ref>. Nonetheless, about one-fifth of Americans still have no Internet access and the nation's standing in terms of broadband connection is mediocre among Organization for Economic Cooperation and Development (OECD) countries (OECD 2011). Eight years after NTIA's cheerful A Nation Online report, it published a report in 2010 with a more cautious title, Exploring the Digital Nation, with findings revealing a stubborn presence of digital divides by socioeconomic status, race/ethnicity, and urbanity. Aiming to provide 100 million U.S. homes with download speeds at least 100 megabits per second by 2015, the National Broadband Plan in 2010 sparked a new round of debate on the role of government policies and market competition in providing universal access (Federal Commission of Communication 2010).</p><p>Both digital divides and social capital are multifaceted concepts that can be operationalized at multiple levels. The existing literature is oriented toward examining how Internet access and use may affect social capital. Few studies have empirically examined how various types of social capital may affect the digital divides. The role of Downloaded by [University of Tasmania] at 04:31 14 October 2014 Findings suggests that even after more than one decade of Internet diffusion in mainstream America, education, generation, geographic location, and social capital still shape the contours of digital divides in access and use. First, younger, white, better educated, more affluent, employed, urban and suburban Americans remain more likely to access the Internet and use it more intensively than older, black, less educated, less affluent, unemployed, and rural Americans. In particular, three aspects of digital divides-education, geographic location, and generation-are consistently evident in access, general use, and online communication. More importantly, rural residents access and use the Internet the least in general and for online communication specifically, compared to urbanites and suburbanites. This visible, persistent urban-rural divide underscores that community Downloaded by [University of Tasmania] at 04:31 14 October 2014 resources are required to overcome the digital divides. These baseline findings corroborate existing studies showing that people on the wrong side of the digital divides are often on the wrong side of social inequalities <ref type="bibr" target="#b16">(DiMaggio et al. 2001;</ref><ref type="bibr" target="#b62">van Dijk 2006;</ref><ref type="bibr" target="#b57">Smith 2010;</ref><ref type="bibr">NTIA 2010)</ref>. Second, while having Internet access does not reduce all types of inequalities in Internet use, the results provide support to the notion that Internet access may reduce some types of social inequalities. The ways in which social inequalities affect the pattern of access are not exactly the same in which they affect the pattern of online communication. For instance, Internet users, regardless of immigration status, race, employment status, and by and large income, have no significant differences in online communication with their daily contacts. The gender digital divide is tilted in favor of women, with men trailing behind women in terms of Internet access and the intensity of online communication. These results resonate with recent studies on the gendered digital divides <ref type="bibr" target="#b30">(Kennedy, Wellman, and Klement 2003;</ref><ref type="bibr" target="#b29">Jones et al. 2009)</ref>.</p><p>Downloaded by [University of Tasmania] at 04:31 14 October 2014</p><p>The major contribution of this article lies in a fine-tuned analysis of social capital, especially the differential implications of social capital by tie strength and embedded resources. <ref type="bibr">Putnam (2005)</ref> highlights that the "characteristics of bonding social capital and bridging social capital are not 'either-or' categories into which social networks can be neatly divided, but 'more or less' dimensions along which we can compare different forms of social capital" (23). In a similar vein, resources embedded in one's social networks are not categorical either. Along with the class, generation, and geographic differences in Internet access and use, this study identifies significant digital divides by the quality and quantity of social capital. First, bridging social capital is positively associated with Internet access, has no significant relationship with general Internet use, and is negatively associated with online communication with daily contacts. The average resources accessible via bridging social capital are not significantly related to Internet access and online communication. However, they are positively related to general Internet use. Second, while bonding social capital is not significantly associated with Internet access and general Internet use, it is significantly related to online communication with daily contacts. The average resources accessible via bonding social capital are the most versatile: positively related to Internet access, general use, and online communication.</p><p>A few factors may help to explain the differential implications of social capital for the digital divides. First, innovations are adopted at a faster rate in an information and communication technologies (ICT)-mediated environment as users receive influence via digital cues <ref type="bibr" target="#b13">(Danowski, Gluesing, and Riopelle 2009)</ref>. Once people overcome informational, motivational, and technical barriers and gain Internet access, bridging social capital is less crucial in affecting online communication as people can learn new skills online <ref type="bibr" target="#b28">(Jenkins et al. 2006)</ref>. Second, strong-tie-based bonding social capital can exert more peer pressure than weak-tie-based bridging social capital, which is important for users to engage in online communication <ref type="bibr" target="#b45">(Monge and Contractor 2003;</ref><ref type="bibr" target="#b33">Lee 2009;</ref><ref type="bibr" target="#b65">Zhao, Lu, Wang, and Huang 2011)</ref>. Third, the results lend support to existing studies showing that most social interaction, on-and offline, remains local and within people's intimate bonding networks, even though technologies have dramatically reduced the transaction cost and enhanced users' capability of building and maintaining social relations at great geographic or social distance <ref type="bibr" target="#b9">(Chen and Wellman 2009)</ref>.</p><p>This study has several limitations that call for future research. The data do not specify whether general Internet use and online communication are motivated by instrumental or expressive needs. As the Internet is a bundle of versatile technologies, it is important to examine how social capital is related to Internet use motivated by instru-mental action aimed at accessing economic, political, and social resources and by expressive action for maintaining or protecting existing resources such as health, life satisfaction, or social support <ref type="bibr">(Lin 2011)</ref>. Second, the data do not allow an examination of the mechanisms that may link social capital with digital divides-that is, whether the relationship between the two is due to more exposure, better support, or stronger peer pressure. Future research needs to examine these mechanisms. Third, the measurement of online communication is limited to communication with daily contacts. Although the frequency of contact is not a good indicator of tie strength <ref type="bibr" target="#b41">(Marsden and Campbell 1984;</ref><ref type="bibr" target="#b40">Marsden 1990)</ref>, people tend to communicate more frequently with their strong ties than their weak ties <ref type="bibr" target="#b25">(Granovetter 1973)</ref>. Thus, the focus on daily contacts may overestimate the effect of bonding social capital on online communication. Nonetheless, existing studies have shown that people primarily use technologies to communicate with a small number of close ties <ref type="bibr" target="#b61">(Valkenburg and Peter 2009)</ref>.</p><p>Despite these caveats, the article sheds light on the link between social connectivity and digital connectivity. A large part of the digital divides literature tends to be descriptive, focusing on sociodemographics that shape Internet access and use, and has not provided much theoretical input <ref type="bibr" target="#b16">(DiMaggio et al 2001;</ref><ref type="bibr" target="#b62">van Dijk 2006)</ref>. This study provides a refined analysis of the relation between social capital and digital divides, highlighting that people who are often labeled as the "information want-nots" tend to be social capital have-nots. The results demonstrate that closing the digital divides calls for a three-pronged approach that enriches individual, community, and network resources. Accordingly, before technologies can boost social capital, there must be the right social capital in place that supports Internet access and use.</p><p>New communication technologies, coupled with social capital, have been exclaimed over as the panacea that would cure many social problems <ref type="bibr" target="#b38">(Mariscal 2005)</ref>. Such romanticization of social capital tends to overlook the absent or limited resources accessible via social capital, especially among members of disadvantaged social groups. Having bonding or bridging social capital on its own is not enough. Bonding with people with resources-in this context, people who know how to use the Internet-would help to close the digital divides.</p><p>The findings have implications for policymakers and practitioners. On the one hand, they underscore the importance of community-based initiatives that address local needs, as opposed to relying on a one-size-fits-all solution. If the goal is to promote Internet access, bridging social capital can be helpful. However, if the goal is to promote Internet use and online communication after Internet access is available, it would be most effective to work through resource-rich bonding social capital. On the Downloaded by [University of Tasmania] at 04:31 14 October 2014 W. CHEN other hand, the versatility of resource-rich bonding social capital illustrates the challenges of bridging the last onefifth of the digital divides. Resource-rich bonding social capital is unevenly distributed and takes time to develop. Strong ties are often based on blood, marriage, or shared foci such as school, workplace, or civic organizations. In particular, members of disadvantaged social groups such as racial and ethnic minorities and people with low socioeconomic status have accumulated disadvantage. They are more reliant on informal channels due to their lack of formal resources. Yet their informal social contacts often have limited resources for them to tap into. Thus community initiatives moving beyond supply-driven approach are especially helpful in breaking the vicious cycle of social-technical exclusion and empower the disadvantaged through informal mentoring and training <ref type="bibr" target="#b39">(Markus 1987;</ref><ref type="bibr" target="#b1">Boase et al. 2003;</ref><ref type="bibr" target="#b24">Godfrey and Johnson 2009)</ref>. To narrow the access and use gaps, what members of disadvantaged groups need is social access that cultivates social capital, especially resource-rich bonding social capital.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1</head><label>1</label><figDesc>Descriptive statistics of dependent and independent variables</figDesc><table><row><cell></cell><cell>Mean</cell><cell>SD</cell><cell>Minimum</cell><cell>Maximum</cell><cell>n</cell></row><row><cell>Internet use</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Likelihood</cell><cell>0.76</cell><cell>0.43</cell><cell>0</cell><cell>1</cell></row><row><cell>Intensity</cell><cell>2.26</cell><cell>2.02</cell><cell>0</cell><cell>11.96</cell></row><row><cell>Online communication</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Likelihood</cell><cell>.54</cell><cell>0.50</cell><cell>0</cell><cell>1</cell></row><row><cell>Intensity</cell><cell>1.13</cell><cell>1.41</cell><cell>0</cell><cell>7.07</cell></row><row><cell>Bonding social capital</cell><cell>3.76</cell><cell>2.54</cell><cell>0</cell><cell>17</cell></row><row><cell>Bridging social capital</cell><cell>3.84</cell><cell>2.93</cell><cell>0</cell><cell>15</cell></row><row><cell>Accessible resources</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Via bonding social capital</cell><cell>44.61</cell><cell>15.73</cell><cell>0</cell><cell>78</cell></row><row><cell>Via bridging social capital</cell><cell>43.90</cell><cell>17.34</cell><cell>0</cell><cell>78</cell></row><row><cell>Women</cell><cell>0.52</cell><cell>0.50</cell><cell>0</cell><cell>1</cell></row><row><cell>Foreign-born</cell><cell>0.11</cell><cell>0.32</cell><cell>0</cell><cell>1</cell></row><row><cell>Generation</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1945 or earlier</cell><cell>0.11</cell><cell>0.31</cell><cell>0</cell><cell>1</cell></row><row><cell>1946-1954 (Old Boomer)</cell><cell>0.23</cell><cell>0.42</cell><cell>0</cell><cell>1</cell></row><row><cell>1955-1964 (Young Boomer)</cell><cell>0.32</cell><cell>0.47</cell><cell>0</cell><cell>1</cell></row><row><cell>1965-1976 (Generation X)</cell><cell>0.28</cell><cell>0.45</cell><cell>0</cell><cell>1</cell></row><row><cell>1977 or later (Generation Y)</cell><cell>0.06</cell><cell>0.23</cell><cell>0</cell><cell>1</cell></row><row><cell>Partnered</cell><cell>0.65</cell><cell>0.48</cell><cell>0</cell><cell>1</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>0.66</cell><cell>0.47</cell><cell>0</cell><cell>1</cell></row><row><cell>Black</cell><cell>0.12</cell><cell>0.33</cell><cell>0</cell><cell>1</cell></row><row><cell>Latino</cell><cell>0.15</cell><cell>0.36</cell><cell>0</cell><cell>1</cell></row><row><cell>Other</cell><cell>0.07</cell><cell>0.25</cell><cell>0</cell><cell>1</cell></row><row><cell>Education</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>High school</cell><cell>0.42</cell><cell>0.49</cell><cell>0</cell><cell>1</cell></row><row><cell>College</cell><cell>0.45</cell><cell>0.50</cell><cell>0</cell><cell>1</cell></row><row><cell>Graduate</cell><cell>0.13</cell><cell>0.33</cell><cell>0</cell><cell>1</cell></row><row><cell>Family income</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than $14,999</cell><cell>0.20</cell><cell>0.40</cell><cell>0</cell><cell>1</cell></row><row><cell>$15,000-$29,999</cell><cell>0.10</cell><cell>0.30</cell><cell>0</cell><cell>1</cell></row><row><cell>$30,000-$49,999</cell><cell>0.19</cell><cell>0.40</cell><cell>0</cell><cell>1</cell></row><row><cell>$50,000-$74,999</cell><cell>0.23</cell><cell>0.42</cell><cell>0</cell><cell>1</cell></row><row><cell>$75,000 or more</cell><cell>0.28</cell><cell>0.45</cell><cell>0</cell><cell>1</cell></row><row><cell>Unemployed</cell><cell>0.08</cell><cell>0.28</cell><cell>0</cell><cell>1</cell></row><row><cell>Geographic location</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urban</cell><cell>0.28</cell><cell>0.45</cell><cell>0</cell><cell>1</cell></row><row><cell>Suburban</cell><cell>0.22</cell><cell>0.41</cell><cell>0</cell><cell>1</cell></row><row><cell>Town</cell><cell>0.37</cell><cell>0.48</cell><cell>0</cell><cell>1</cell></row><row><cell>Rural</cell><cell>0.14</cell><cell>0.34</cell><cell>0</cell><cell>1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Table 2 reveals significant access divides by generation, race, socioeconomic status, and geographic location. Young, better educated, employed, more</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">TABLE 2</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="5">Multiple logistic regression on Internet access</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Model 1</cell><cell></cell><cell cols="2">Model 2</cell><cell cols="2">Model 3</cell></row><row><cell></cell><cell></cell><cell>Odds ratio</cell><cell>SE</cell><cell></cell><cell>Odds ratio</cell><cell>SE</cell><cell>Odds ratio</cell><cell>SE</cell></row><row><cell></cell><cell>Women</cell><cell>1.51</cell><cell>0.36 †</cell><cell></cell><cell>1.47</cell><cell>0.35</cell><cell>1.58</cell><cell>0.37 †</cell></row><row><cell></cell><cell>Foreign-born</cell><cell>0.44</cell><cell>0.22</cell><cell></cell><cell>0.43</cell><cell>0.22 †</cell><cell>0.42</cell><cell>0.21 †</cell></row><row><cell></cell><cell>Generation (1945 or earlier)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1946-1954</cell><cell>2.30</cell><cell>0.91  *</cell><cell></cell><cell>2.34</cell><cell>0.91  *</cell><cell>2.47</cell><cell>0.99  *</cell></row><row><cell></cell><cell>1955-1964</cell><cell>5.94</cell><cell cols="2">2.32  *  *  *</cell><cell>6.22</cell><cell>2.39  *  *  *</cell><cell>6.53</cell><cell>2.52  *  *  *</cell></row><row><cell></cell><cell>1965-1976</cell><cell>7.95</cell><cell cols="2">3.22  *  *  *</cell><cell>8.32</cell><cell>3.32  *  *  *</cell><cell>8.29</cell><cell>3.30  *  *  *</cell></row><row><cell></cell><cell>1977 or later</cell><cell>15.89</cell><cell cols="2">10.19  *  *  *</cell><cell>17.47</cell><cell>11.07  *  *  *</cell><cell>18.48</cell><cell>11.83  *  *  *</cell></row><row><cell></cell><cell>Partnered</cell><cell>0.97</cell><cell>0.25</cell><cell></cell><cell>0.99</cell><cell>0.25</cell><cell>0.94</cell><cell>0.24</cell></row><row><cell></cell><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Downloaded by [University of Tasmania] at 04:31 14 October 2014</cell><cell>Black Latino Other Education College Graduate Family income (less than $14,999) $15,000-$29,999 $30,000-$49,999 $50,000-$74,999 $75,000 or more Unemployed Geographic location Urban Suburban Town Social capital Bonding Bridging Accessible resources Via bonding Via bridging cons Log likelihood</cell><cell>0.39 0.73 0.61 2.96 7.38 0.64 1.51 1.68 5.84 0.26 1.90 2.97 1.50 0.20 -386.25</cell><cell cols="2">0.14  *  *  0.33 0.43 0.72  *  *  *  3.32  *  *  *  0.25 0.50 0.60 2.49  *  *  *  0.10  *  *  *  0.69 † 1.20  *  *  0.48 0.11  *  *</cell><cell>0.42 0.71 0.56 2.85 7.20 0.66 1.49 1.69 5.89 0.27 1.96 3.10 1.51 0.98 1.09 0.15 -383.11</cell><cell>0.15  *  0.31 0.39 0.70  *  *  *  3.31  *  *  *  0.27 0.50 0.61 2.52  *  *  *  0.10  *  *  *  0.74 † 1.25  *  *  0.49 0.04 0.05  *  0.09  *  *  *</cell><cell>0.39 0.77 0.61 2.91 6.94 0.68 1.55 1.65 5.48 0.26 1.99 3.02 1.45 1.02 1.01 0.07 -381.08</cell><cell>0.14  *  *  0.35 0.45 0.71  *  *  *  3.19  *  *  *  0.27 0.51 0.59 2.35  *  *  *  0.09  *  *  *  0.74 † 1.20  *  *  0.46 0.01  *  *  0.01 0.05  *  *  *</cell></row><row><cell></cell><cell cols="8">Change in chi-squared (vs. Model 1) 7.39  affluent, native-born, and white Americans are more likely 3.94 lated to the likelihood of Internet access at Wave 2. One</cell></row><row><cell></cell><cell cols="3">to have Internet access. On top of the digital divides by in-</cell><cell cols="5">unit increase in bridging social capital is associated with</cell></row><row><cell></cell><cell cols="3">dividual socioeconomic and demographic characteristics,</cell><cell cols="5">a 9 percent increase in the odds of having Internet access</cell></row><row><cell></cell><cell cols="3">there is a clear access gap by geographic location: Rural</cell><cell cols="5">at Wave 2. The change in chi-squared from Model 1 to</cell></row><row><cell></cell><cell cols="3">residents are significantly less likely to access the Inter-</cell><cell cols="5">Model 2 is, however, statistically insignificant, indicating</cell></row><row><cell></cell><cell cols="3">net than urban and suburban residents. The gender gap</cell><cell cols="5">that Model 2 does not fit the data better than the baseline</cell></row><row><cell></cell><cell cols="3">in Internet access is reversed, as women are more likely</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="3">than men to access the Internet, although the relation is</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="3">often marginally significant. Model 2 shows that bridging</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="3">but not bonding social capital at Wave 1 is positively re-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p><p>*</p>Note. n = 926; significance indicated by * * * p &lt; .001; * * p &lt; .01; * p&lt; .05; † p &lt; .1. model. Model 3 suggests that it is the average embedded resources via bonding rather than bridging social capital that is significantly related to the likelihood of having Internet access. One unit increase in embedded resources via Downloaded by [University of Tasmania] at 04:31 14 October 2014</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3</head><label>3</label><figDesc>Multiple regression on the intensity of general Internet useNote. n = 926; significance indicated by * * * p &lt; .001; * * p &lt; .01; * p &lt; .05; † p &lt; .1.</figDesc><table><row><cell></cell><cell>Model 1</cell><cell></cell><cell>Model 2</cell><cell></cell><cell>Model 3</cell><cell></cell></row><row><cell></cell><cell>b</cell><cell>SE</cell><cell>b</cell><cell>SE</cell><cell>b</cell><cell>SE</cell></row><row><cell>Women</cell><cell>0.11</cell><cell>0.14</cell><cell>0.10</cell><cell>0.14</cell><cell>0.13</cell><cell>0.14</cell></row><row><cell>Foreign-born</cell><cell>-0.40</cell><cell>0.31</cell><cell>-0.38</cell><cell>0.31</cell><cell>-0.44</cell><cell>0.30</cell></row><row><cell>Generation (1945 or earlier)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1946-1954</cell><cell>0.59</cell><cell>0.23  *  *</cell><cell>0.60</cell><cell>0.23  *  *</cell><cell>0.62</cell><cell>0.22  *  *</cell></row><row><cell>1955-1964</cell><cell>1.40</cell><cell>0.22  *  *  *</cell><cell>1.41</cell><cell>0.22  *  *  *</cell><cell>1.42</cell><cell>0.21  *  *  *</cell></row><row><cell>1965-1976</cell><cell>1.36</cell><cell>0.22  *  *  *</cell><cell>1.36</cell><cell>0.22  *  *  *</cell><cell>1.38</cell><cell>0.21  *  *  *</cell></row><row><cell>1977 or later</cell><cell>1.57</cell><cell>0.31  *  *  *</cell><cell>1.61</cell><cell>0.31  *  *  *</cell><cell>1.58</cell><cell>0.30  *  *  *</cell></row><row><cell>Partnered</cell><cell>-0.22</cell><cell>0.16</cell><cell>-0.21</cell><cell>0.16</cell><cell>-0.23</cell><cell>0.15</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Black</cell><cell>-0.63</cell><cell>0.24  *  *</cell><cell>-0.67</cell><cell>0.24  *  *</cell><cell>-0.58</cell><cell>0.24  *</cell></row><row><cell>Latino</cell><cell>-0.51</cell><cell>0.32</cell><cell>-0.54</cell><cell>0.32 †</cell><cell>-0.46</cell><cell>0.31</cell></row><row><cell>Other</cell><cell>0.09</cell><cell>0.42</cell><cell>0.09</cell><cell>0.42</cell><cell>0.16</cell><cell>0.41</cell></row><row><cell>Education</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>College</cell><cell>0.48</cell><cell>0.16  *  *</cell><cell>0.48</cell><cell>0.16  *  *</cell><cell>0.44</cell><cell>0.15  *  *</cell></row><row><cell>Graduate</cell><cell>0.97</cell><cell>0.22  *  *  *</cell><cell>0.96</cell><cell>0.21  *  *  *</cell><cell>0.88</cell><cell>0.21  *  *  *</cell></row><row><cell>Family income (less than $14,999)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>$15,000-$29,999</cell><cell>-0.35</cell><cell>0.30</cell><cell>-0.32</cell><cell>0.30</cell><cell>-0.25</cell><cell>0.30</cell></row><row><cell>$30,000-$49,999</cell><cell>0.04</cell><cell>0.24</cell><cell>0.05</cell><cell>0.24</cell><cell>0.09</cell><cell>0.24</cell></row><row><cell>$50,000-$74,999</cell><cell>-0.18</cell><cell>0.23</cell><cell>-0.18</cell><cell>0.23</cell><cell>-0.18</cell><cell>0.22</cell></row><row><cell>$75,000 or more</cell><cell>0.61</cell><cell>0.23  *  *</cell><cell>0.59</cell><cell>0.24  *</cell><cell>0.58</cell><cell>0.23  *</cell></row><row><cell>Unemployed</cell><cell>-0.73</cell><cell>0.29  *</cell><cell>-0.70</cell><cell>0.29  *</cell><cell>-0.71</cell><cell>0.28  *</cell></row><row><cell>Geographic location</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urban</cell><cell>0.88</cell><cell>0.23  *  *  *</cell><cell>0.93</cell><cell>0.23  *  *  *</cell><cell>0.87</cell><cell>0.22  *  *  *</cell></row><row><cell>Suburban</cell><cell>0.74</cell><cell>0.22  *  *  *</cell><cell>0.79</cell><cell>0.22  *  *  *</cell><cell>0.68</cell><cell>0.21  *  *  *</cell></row><row><cell>Town</cell><cell>0.56</cell><cell>0.21  *  *</cell><cell>0.58</cell><cell>0.21  *  *</cell><cell>0.49</cell><cell>0.20  *</cell></row><row><cell>Social capital</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Bonding</cell><cell></cell><cell></cell><cell>0.04</cell><cell>0.03</cell><cell></cell><cell></cell></row><row><cell>Bridging</cell><cell></cell><cell></cell><cell>0.01</cell><cell>0.03</cell><cell></cell><cell></cell></row><row><cell>Accessible resources</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Via bonding</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.01</cell><cell>0.00  *  *</cell></row><row><cell>Via bridging</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.01</cell><cell>0.00  *  *</cell></row><row><cell>cons</cell><cell>0.48</cell><cell>0.30</cell><cell>0.26</cell><cell>0.34</cell><cell>-0.45</cell><cell>0.39</cell></row><row><cell>Adjusted R 2</cell><cell>0.19  *  *  *</cell><cell></cell><cell>0.19  *  *  *</cell><cell></cell><cell>0.20  *  *  *</cell><cell></cell></row><row><cell>Change in R 2</cell><cell></cell><cell></cell><cell>0.00</cell><cell></cell><cell>0.01  *  *  *</cell><cell></cell></row><row><cell cols="3">social capital in narrowing or closing digital divides has</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">been frequently mentioned but not empirically examined.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Drawing on panel data from the SC-USA survey in 2004</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">and 2007, this article fills an important gap.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 4</head><label>4</label><figDesc>Multiple regression on the intensity of online communicationNote. n = 762; significance indicated by * * * p &lt; .001; * * p &lt; .01; * p &lt; .05; † p &lt; .1.</figDesc><table><row><cell></cell><cell>Model 1</cell><cell></cell><cell>Model 2</cell><cell></cell><cell>Model 3</cell><cell></cell></row><row><cell></cell><cell>b</cell><cell>SE</cell><cell>b</cell><cell>SE</cell><cell>b</cell><cell>SE</cell></row><row><cell>Women</cell><cell>0.30</cell><cell>0.11  *  *</cell><cell>0.28</cell><cell>0.11  *</cell><cell>0.31</cell><cell>0.11  *  *</cell></row><row><cell>Foreign-born</cell><cell>-0.10</cell><cell>0.27</cell><cell>-0.10</cell><cell>0.26</cell><cell>-0.16</cell><cell>0.27</cell></row><row><cell>Generation (1945 or earlier)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1946-1954</cell><cell>0.23</cell><cell>0.21</cell><cell>0.24</cell><cell>0.21</cell><cell>0.27</cell><cell>0.20</cell></row><row><cell>1955-1964</cell><cell>0.44</cell><cell>0.20  *</cell><cell>0.42</cell><cell>0.20  *</cell><cell>0.47</cell><cell>0.20  *</cell></row><row><cell>1965-1976</cell><cell>0.21</cell><cell>0.21</cell><cell>0.20</cell><cell>0.20</cell><cell>0.26</cell><cell>0.20</cell></row><row><cell>1977 or later</cell><cell>0.60</cell><cell>0.30  *</cell><cell>0.61</cell><cell>0.29  *</cell><cell>0.64</cell><cell>0.29  *</cell></row><row><cell>Partnered</cell><cell>-0.29</cell><cell>0.13  *</cell><cell>-0.30</cell><cell>0.13  *</cell><cell>-0.30</cell><cell>0.13  *</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Black</cell><cell>-0.10</cell><cell>0.20</cell><cell>-0.17</cell><cell>0.19</cell><cell>-0.08</cell><cell>0.20</cell></row><row><cell>Latino</cell><cell>0.00</cell><cell>0.28</cell><cell>-0.04</cell><cell>0.28</cell><cell>0.04</cell><cell>0.28</cell></row><row><cell>Other</cell><cell>0.04</cell><cell>0.39</cell><cell>0.15</cell><cell>0.37</cell><cell>0.09</cell><cell>0.38</cell></row><row><cell>Education</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>College</cell><cell>0.34</cell><cell>0.13  *</cell><cell>0.37</cell><cell>0.13  *  *</cell><cell>0.33</cell><cell>0.13  *</cell></row><row><cell>Graduate</cell><cell>0.73</cell><cell>0.19  *  *  *</cell><cell>0.78</cell><cell>0.18  *  *  *</cell><cell>0.68</cell><cell>0.19  *  *  *</cell></row><row><cell>Family income (less than $14,999)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>$15,000-$29,999</cell><cell>-0.28</cell><cell>0.29</cell><cell>-0.23</cell><cell>0.28</cell><cell>-0.22</cell><cell>0.30</cell></row><row><cell>$30,000-$49,999</cell><cell>-0.33</cell><cell>0.20 †</cell><cell>-0.31</cell><cell>0.19</cell><cell>-0.30</cell><cell>0.19</cell></row><row><cell>$50,000-$74,999</cell><cell>-0.21</cell><cell>0.20</cell><cell>-0.20</cell><cell>0.20</cell><cell>-0.18</cell><cell>0.20</cell></row><row><cell>$75,000 or more</cell><cell>0.18</cell><cell>0.19</cell><cell>0.15</cell><cell>0.18</cell><cell>0.17</cell><cell>0.18</cell></row><row><cell>Unemployed</cell><cell>-0.08</cell><cell>0.26</cell><cell>-0.05</cell><cell>0.26</cell><cell>-0.11</cell><cell>0.26</cell></row><row><cell>Geographic location</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Urban</cell><cell>0.53</cell><cell>0.20  *  *</cell><cell>0.55</cell><cell>0.19  *  *</cell><cell>0.49</cell><cell>0.19  *  *</cell></row><row><cell>Suburban</cell><cell>0.51</cell><cell>0.20  *  *</cell><cell>0.52</cell><cell>0.19  *  *</cell><cell>0.46</cell><cell>0.19  *</cell></row><row><cell>Town</cell><cell>0.43</cell><cell>0.19  *</cell><cell>0.44</cell><cell>0.18  *</cell><cell>0.37</cell><cell>0.18  *</cell></row><row><cell>Social capital</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Bonding</cell><cell></cell><cell></cell><cell>0.07</cell><cell>0.03  *</cell><cell></cell><cell></cell></row><row><cell>Bridging</cell><cell></cell><cell></cell><cell>-0.03</cell><cell>0.02 †</cell><cell></cell><cell></cell></row><row><cell>Accessible resources</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Via bonding</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.01</cell><cell>0.00  *</cell></row><row><cell>Via bridging</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.00</cell><cell>0.00</cell></row><row><cell>cons</cell><cell>0.24</cell><cell>0.28</cell><cell>0.11</cell><cell>0.30</cell><cell>-0.35</cell><cell>0.36</cell></row><row><cell>Adjusted R 2</cell><cell>0.09  *  *  *</cell><cell></cell><cell>0.11  *  *  *</cell><cell></cell><cell>0.10  *  *  *</cell><cell></cell></row><row><cell>Change in R 2</cell><cell></cell><cell></cell><cell>0.02  *</cell><cell></cell><cell>0.01  *</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_0"><p>Downloaded by [University of Tasmania] at 04:31</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_1"><p>October 2014   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Downloaded by [University of Tasmania] at 04:31 14 October 2014</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>I thank colleagues from the <rs type="affiliation">Social Capital Group at Duke University</rs> for advice and assistance. Data are drawn from the thematic research project "<rs type="projectName">Social Capital: Its Origins and Consequences</rs>." The principal investigators of the project are <rs type="person">Nan Lin</rs>, <rs type="person">Yang-chih Fu</rs>, and Chih-jou <rs type="person">Jay Chen</rs>. The project is funded by <rs type="funder">Academia Sinica, Taiwan</rs>, through its</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_wHCwryb">
+					<orgName type="project" subtype="full">Social Capital: Its Origins and Consequences</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The consequences of personal networks for Internet use in rural areas</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1257" to="1267" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Is there a place in cyberspace? The uses and users of the Internet in public and private places</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prijatelj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Culture et Geographie</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="5" to="20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The forms of capital</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdieu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of theory and research for the sociology of education</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Greenwood</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="241" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">IMing, text messaging, and adolescent social networks</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanders-Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smallwood</surname></persName>
+		</author>
+		<ptr target="http://jcmc.indiana.edu/vol11/issue2/bryant.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2006">2006. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</author>
+		<title level="m">Structural holes</title>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Social resources and socioeconomic status</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hurlbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="97" to="117" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The social construction of mobile telephony: An application of the social influence model to perceptions and uses of mobile phones within personal communication networks</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Russo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="317" to="334" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Does the color of the cat matter? The red hat strategy in China&apos;s private enterprises</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Management and Organization Review</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="80" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Charting the multiple digital divide</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transforming enterprise</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Dutton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Kahin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>O'callaghan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Wyckoff</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="467" to="497" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Net and jet. The Internet use, travel and social networks of Chinese Canadian entrepreneurs</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="525" to="547" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The global villagers: Comparing Internet users and uses around the world</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Internet in everyday life</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="74" to="113" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Understanding transnational entrepreneurship through a network lens</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entrepreneurship Theory &amp; Practice</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1079" to="1091" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Social capital in the creation of human capital</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Coleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="95" to="120" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">ICT&apos;s effects on diffusion curves, e-mail networks, and semantic networks in an organization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Danowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Gluesing</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Riopelle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-05">2009. May</date>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the annual meeting of the International Communication Association</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Generalized raking procedures in survey sampling</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Deville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sarndal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sautory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="1013" to="1020" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Information inequality and network externalities: A comparative study of the diffusion of television and the Internet (Working Paper 31)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dimaggio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Center for Arts and Cultural Policy Studies, Princeton University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Social implications of the Internet</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dimaggio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hargittai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Neuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="307" to="336" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Public displays of connection</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Donath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BT Technology Journal</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="71" to="82" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Who&apos;s responsible for the digital divide? Public perceptions and policy implications</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Nisbet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gillespie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="92" to="104" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Culture, class, and connections</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Erickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="217" to="251" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Connecting America: The national broadband plan</title>
+		<ptr target="http://www.broadband.gov/plan" />
+	</analytic>
+	<monogr>
+		<title level="m">Federal Commissions Communication</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010-09-22">2010. September 22, 2012</date>
+		</imprint>
+	</monogr>
+	<note>Federal Communications Commission</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The impact of attrition in the Panel Study of Income Dynamics on Intergenerational Analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gottschalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moffitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="300" to="344" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Bridges across the racial digital divide: Residential ecology of Internet use</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Studies in Population</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="243" to="268" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Internationally comparable measures of occupational status for the 1988 international standard classification of occupations</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B G</forename><surname>Ganzeboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Treiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="201" to="239" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Digital circles of support: Meeting the information needs of older people</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="633" to="642" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Granovetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="1360" to="1380" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Hampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Sessions</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Her</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Core networks, social isolation, and new media</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="130" to="155" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Position generators, affiliations, and the institutional logics of social capital: A study of Taiwan firms and individuals</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hsung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Breiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">R</forename><surname>Hsung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Breiger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Contexts of social capital: Social networks in markets, communities, and families</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="3" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Confronting the challenges of participatory culture: Media education for the 21st century</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Purushotma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Robison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Weigel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>The MacArthur Foundation</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">U.S. college students&apos; Internet use: Race, gender and digital divides</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson-Yale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Millermaier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Pérez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="244" to="264" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Klement</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gendering the digital divide. IT and Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="72" to="96" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Internet paradox: A social technology that reduces social involvement and psychological well-being?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lundmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiesler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mukopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scherlis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1017" to="1031" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Strover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Straubhaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Inagaki</surname></persName>
+		</author>
+		<title level="m">Closing the rural broadband gap (Final technical report U.S. Department of Agriculture CREES Program, grant number</title>
+		<imprint>
+			<date type="published" when="2004">2008. 2004-35401-14985</date>
+		</imprint>
+		<respStmt>
+			<orgName>East Lansing: Department of Telecommunication, Information Studies, and Media, Michigan State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Online communication and adolescent social ties: Who benefits more from Internet use</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="509" to="531" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Social capital: A theory of social structure and action</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Social capital: An international research program</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erickson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Access to occupation through social ties</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dumin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="365" to="385" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The position generator: Measurement techniques for investigations of social capital</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R.-M</forename><surname>Hsung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social capital: Theory and research</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Aldine De Gruyter</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="57" to="84" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Digital divide in a developing country</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mariscal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Telecommunications Policy</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="409" to="428" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Toward a critical mass theory of interactive media: Universal access, interdependence and diffusion</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Markus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="491" to="511" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Network data and measurement</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Marsden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="435" to="463" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Measuring tie strength</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Forces</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="482" to="501" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networks of opportunity: Gender, race, and job leads</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="385" to="402" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Birds of a feather: Homophily in social networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcpherson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smith-Lovin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="415" to="444" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Causal relationship between Internet use and social capital in Japan</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miyata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kobayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="42" to="52" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Theories of communication networks</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Monge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Contractor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Universal service from the bottom up: A study of telephone penetration in Camden</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Schement</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Jersey. The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="273" to="292" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Exploring the digital nation</title>
+		<ptr target="http://www.ntia.doc.gov/files/ntia/publications/" />
+	</analytic>
+	<monogr>
+		<title level="m">esa ntia us broadband adoption report 11082010 1.pdf</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Telecommunications and Information Administration</publisher>
+			<date type="published" when="2010-09-22">2010. September 22, 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Stanford Institute for the Quantitative Study of Society. Organization for Economic Cooperation and Development</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Erbring</surname></persName>
+		</author>
+		<idno>2649 33703 38690102 1</idno>
+		<ptr target="http://www.oecd.org/document/54/0" />
+	</analytic>
+	<monogr>
+		<title level="m">Internet and society: A preliminary report</title>
+		<meeting><address><addrLine>Stanford, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000. 2011. September 22, 2012</date>
+			<biblScope unit="volume">3746</biblScope>
+		</imprint>
+	</monogr>
+	<note>1 1 1,00.html#services and speeds</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Social capital: Its origins and applications in modern sociology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Embeddedness and immigration: notes on the social determinants of economic action</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sensenbrenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1320" to="1350" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Landolt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The downside of social capital</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="18" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Bowling alone: America&apos;s declining social capital</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Putnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Democracy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="65" to="78" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Bowling alone: The collapse and revival of American community</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Putnam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Simon and Schuster</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Diffusion of innovations, 4th ed</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Free Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Reconsidering political and popular understandings of the digital divide</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Selwyn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="341" to="362" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Attrition and rotation in panel surveys</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sharot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society. Series D (The Statistician)</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="325" to="331" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Home broadband</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.pewInternet.org" />
+	</analytic>
+	<monogr>
+		<title level="m">Pew Internet and American Life Project</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010-09-22">2010. 2010. September 22, 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Social capital and psychological distress</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="478" to="492" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The value of online friends: Networked resources via social network sites</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stefanone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lackaff</surname></persName>
+		</author>
+		<ptr target="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3314/2763" />
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011-09-22">2011. September 22, 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">The sources and consequences of embeddedness for the economic performance of organizations: The network effect</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uzzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="674" to="698" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">The effects of instant messaging on the quality of adolescents&apos; existing friendships: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="79" to="97" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Digital divide research, achievements and shortcomings</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="221" to="235" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Consequences of media and Internet use for offline and online network capital and well-being. A causal model approach</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vergeer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pelzer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2009.01499.x/abstract</idno>
+		<ptr target="http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2009.01499.x/abstract" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="189" to="210" />
+			<date type="published" when="2009-09-22">2009. September 22, 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Does the Internet increase, decrease, or supplement social capital? Social networks, participation, and community commitment</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quan-Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hampton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="437" to="456" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">What makes them happy and curious online? An empirical study on high school students&apos; Internet use from a self-determination theory perspective</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer Education</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="346" to="356" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Do Internet users have more social ties? A call for differentiated analyses of Internet use</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhao</surname></persName>
+		</author>
+		<ptr target="http://jcmc.indiana.edu/vol11/issue3/zhao.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="844" to="862" />
+			<date type="published" when="2006-09-22">2006. September 22, 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Digital distinction: Statusspecific types of Internet usage</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zillien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hargittai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="274" to="291" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

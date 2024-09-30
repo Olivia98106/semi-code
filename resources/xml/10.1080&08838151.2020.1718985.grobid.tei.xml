@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Binge-Watching as a Predictor of Narrative Transportation Using HLM</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2020-02-13">2020-02-13</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Stephen</forename><surname>Warren</surname></persName>
+							<email>smwarren@umass.edu</email>
+							<idno type="ORCID">0000-0002-2137-4461</idno>
+						</author>
+						<title level="a" type="main">Binge-Watching as a Predictor of Narrative Transportation Using HLM</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Broadcasting &amp; Electronic Media</title>
+						<title level="j" type="abbrev">Journal of Broadcasting &amp; Electronic Media</title>
+						<idno type="ISSN">0883-8151</idno>
+						<idno type="eISSN">1550-6878</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">64</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="89" to="110"/>
+							<date type="published" when="2020-02-13" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0CBCBB2608C9D1F80856702932DE5145</idno>
+					<idno type="DOI">10.1080/08838151.2020.1718985</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study explores the changing state of television by measuring binge-watching and its association with narrative transportation, using longitudinal data. The analysis based on a Hierarchical Linear Modeling found that the amount of binge-watching had a positive logarithmic association with transportation-the effect power lessens as binge-watching rate increases. Further, one's typical binge frequency weakened the relationship between viewing session length and transportation. Overall, more frequent binge-watching reduces its effect power on transportation. Implications for theory and industry are also discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It is difficult to talk about television in 2019 without using the term "bingewatching." Although the idea of television marathons has been around for decades, as anyone who has sat through hours of Law &amp; Order would know, binge-watching-generally defined as watching multiple sequential episodes of one show continuously-has become one of the society's most popular leisure activities. The present study explores the effects of this activity on audience transportation into the television program being binged. Herein, television refers to traditional audio-visual broadcasting or streaming subscription platforms. It is difficult to talk about television in 2019 without using the term "binge-watching."</p><p>While the idea of television marathons has been around for decades, as anyone who has sat through hours of Law &amp; Order would know, bingewatching-generally defined as watching multiple sequential episodes of one show continuously-has become one of the society's most popular leisure activities. This paper explores the effects of such activity on audience transportation into the television program being binged. Herein, television refers to traditional audio-visual broadcasting or streaming subscription platforms.</p><p>By 2014, 44% of the U.S. households at some point had watched three or more episodes of a television show in oneday <ref type="bibr" target="#b26">(MarketingCharts Staff, 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Literature Review</head><p>As mentioned previously, binge-watching is gaining popularity and is consistently seen as mostly positive by viewers (e.g. <ref type="bibr" target="#b28">Matrix, 2014;</ref><ref type="bibr" target="#b49">Spangler, 2013)</ref>. Of those polled, 79% believe television shows are more enjoyable when bingewatched <ref type="bibr" target="#b59">(West, 2014)</ref>. Further, one quarter of those who had finished a full season within a month did so within 2 days <ref type="bibr" target="#b49">(Spangler, 2013)</ref>. One reason could be that this condensed viewing may be somewhat closer to the act of reading than traditional television viewing <ref type="bibr" target="#b14">(Giuffre, 2013)</ref>. An aspect of this evolution may be due to the expansion of consumer viewing options.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Increase in Viewer Option</head><p>Binge-watching or marathon viewing is not necessarily a new phenomena. Most broadly, readers of fiction have lost sleep just to finish novels since before TV was invented <ref type="bibr" target="#b37">(Perks, 2015)</ref>. And, networks have been airing TV marathons since before the cable age <ref type="bibr" target="#b21">(Jenner, 2015)</ref>. The difference is that binge-watchers choose what to watch on their own schedules, not the network executives'. As such, this increase in choice could be one explanation for the phenomenon. Whether customers are "cutting the cord" <ref type="bibr" target="#b60">(Westcott et al., 2017)</ref>, streaming content or simply partaking in less appointment viewing <ref type="bibr" target="#b26">(MarketingCharts Staff, 2014)</ref>, there are increasingly more alternatives to traditional television <ref type="bibr" target="#b22">(Johnson, 2014)</ref>. For binge-watching, this means more than simply deciding what to watch.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viewing Aspects</head><p>Binge-watching research needs to look at not just who is watching what, but how, when, and at what rate these individuals are watching. Besides choosing what to watch, the act of binge-watching includes choosing when and how many episodes to watch <ref type="bibr" target="#b19">(Hallinan &amp; Striphas, 2014)</ref>. People are more likely to binge-watch when they have free time and access to a show <ref type="bibr" target="#b8">(Devasagayam, 2014)</ref>. Some suggest that this could lead to consumption excess, habituation, or replacing other activities completely (e.g., <ref type="bibr" target="#b7">Davison, 2013;</ref><ref type="bibr" target="#b28">Matrix, 2014)</ref>. Either way, binge-watching is seen as a way to distract and remove oneself from the outside world <ref type="bibr" target="#b59">(West, 2014)</ref>.</p><p>Another characteristic of the binge-watching process is that viewers also choose when to stop watching. Unlike a television network schedule, only one's own schedule or ability causes restrictions to the activity. Over-the-Top (OTT) services, like Netflix, know this. Hence, their post-play features that skip the closing credits and subsequent opening credits-something binge-watchers prefer anyway <ref type="bibr" target="#b7">(Davison, 2013)</ref>. Just as consecutively reading multiple chapters of a novel is ideal for getting the most out of the book, viewers can be more conscious of the season as a singular narrative piece <ref type="bibr" target="#b34">(Newman, 2009;</ref><ref type="bibr" target="#b53">Thompson, 2007)</ref>. In fact, the concurrent increase in serialized, hybrid-genre television programs with overarching storylines spanning an entire season, much akin to stories told in literature-often called "quality TV" <ref type="bibr" target="#b1">(Bilandzic, Hastall, &amp; Sukalla, 2017;</ref><ref type="bibr" target="#b29">McCabe &amp; Akass, 2007)</ref>-speaks to this.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Binge-Watching Research</head><p>Because the phenomenon's popularity is recent, research regarding bingewatching is fairly limited. Consumers have been found to skip openings, especially when they watched episodes "back-to-back in a compressed timeframe" <ref type="bibr" target="#b7">(Davison, 2013)</ref>. They also report addictive tendencies, like losing track of time and feeling empty when a series ends <ref type="bibr" target="#b8">(Devasagayam, 2014;</ref><ref type="bibr" target="#b11">Flayelle, Maurage, &amp; Billieux, 2017;</ref><ref type="bibr" target="#b44">Riddle et al., 2017)</ref>. However, these results are correlational or from self-reported focus groups, not causal. Others have claimed that bingewatching causes depression or loneliness, but these studies do not have the research design necessary to confirm causal direction <ref type="bibr">(Sung et al., 2015a)</ref>.</p><p>Binge-watchers achieved some level of escapism during viewing and did so for relaxation, engagement, and hedonism <ref type="bibr" target="#b36">(Peña, 2015)</ref>. Further, those planning to binge considered quality of and the chance to have "water cooler" talks about the show <ref type="bibr" target="#b39">(Pittman &amp; Sheehan, 2015)</ref>. Further, selfreported binge-watching increases took away from "other goal pursuits" <ref type="bibr" target="#b57">(Walton-Pattison, Dombrowski, &amp; Presseau, 2018)</ref>. In-depth interviews have added the escapism aspect: a "walk through the wardrobe"the feeling of being within the narrative world <ref type="bibr" target="#b37">(Perks, 2015)</ref>. This notion of being fully immersed in the content provides an excellent foundation on which to build research concerning the effects of binge-watching.</p><p>As mentioned, current studies often do not operationalize binge-watching beyond the number of episodes viewed (e.g., <ref type="bibr" target="#b8">Devasagayam, 2014;</ref><ref type="bibr" target="#b28">Matrix, 2014;</ref><ref type="bibr" target="#b36">Peña, 2015)</ref>, despite the call for enhanced measurement of the construct <ref type="bibr" target="#b11">(Flayelle et al., 2017;</ref><ref type="bibr" target="#b57">Walton-Pattison et al., 2018)</ref>. While episode number is important, viewing time can also vary considerably: two episodes of Robot Chicken totals 30 minutes, while Black Mirror can run at over 2 hours. Other studies are specific on timeframe, but lack the number of consecutive episodes watched <ref type="bibr" target="#b37">(Perks, 2015)</ref>. This measure is closer to the essence of binge-watching: people can choose to do the viewing whenever they want. <ref type="bibr" target="#b37">Perks (2015)</ref> equates binge-watching to staying up late to finish a large jigsaw puzzle. It was an obsession. Further, people feel a void after a show ends <ref type="bibr" target="#b8">(Devasagayam, 2014;</ref><ref type="bibr" target="#b44">Riddle et al., 2017)</ref>. In other words, viewers feel longing for the narrative world that they experienced in the TV show. John Gardner said that a good fiction writer can "create a vivid and continuous dream" in the reader's head <ref type="bibr">(Gardner, 1983, p. 6)</ref>. Researchers refer to this concept of experiential imagery as transportation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation Theory</head><p>The most basic explanation of transportation is that it is the state of being absorbed or enthralled in a narrative world. A person travels to the narrative world and returns somewhat changed by the journey <ref type="bibr" target="#b13">(Gerrig, 1993)</ref>. Essentially, individuals become so engrossed in a text-through a blending of narrative attention, mental imagery and emotional connection-that they are more attentive to the fictional world than the real world, potentially affecting story-consistent belief change and protagonist favorability <ref type="bibr" target="#b18">(Green &amp; Brock, 2000)</ref>. Applied to television and film, the mental imagery is replaced with mental rumination, or extensive thinking about the narrative, even after exposure <ref type="bibr" target="#b43">(Riddle, 2013)</ref>.</p><p>Most transportation literature examines two relationships: antecedents and transportation's effect on individuals' narrative-related beliefs. The latter relationship has been quite consistent, finding that transportation and contentspecific belief change are positively related <ref type="bibr" target="#b0">(Bilandzic &amp; Busselle, 2008;</ref><ref type="bibr" target="#b17">Green, 2004;</ref><ref type="bibr" target="#b18">Green &amp; Brock, 2000;</ref><ref type="bibr" target="#b33">Murphy et al., 2011;</ref><ref type="bibr">etc.)</ref>. Conversely, possible factors that influence the level of transportation include genre <ref type="bibr" target="#b31">(McKinley, 2013)</ref>, quality of the work <ref type="bibr" target="#b6">(Dal Cin et al., 2004)</ref>, narrative-related experience <ref type="bibr" target="#b17">(Green, 2004)</ref> and viewing time <ref type="bibr" target="#b31">(McKinley, 2013)</ref>. What is common is the notion that individuals escape to the fictional world and have limited contact or attention to the real world, a concept similar to the escapism that viewers can experience during binge-watching <ref type="bibr" target="#b37">(Perks, 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis/Research Questions</head><p>Viewers' engagement with visual media, including narrative understanding, focus and emotional connection, are correlated with transportation levels <ref type="bibr" target="#b3">(Busselle &amp; Bilandzic, 2009)</ref>. Relatedly, binge-watching allows for viewers to identify more subtle aspects of the narrative <ref type="bibr" target="#b16">(Graves, 2015;</ref><ref type="bibr" target="#b53">Thompson, 2007)</ref> and perceive whole seasons as singular narrative pieces <ref type="bibr" target="#b34">(Newman, 2009)</ref>. Therefore, binge-watching may also be contributing to viewer engagement, affecting transportation. In addition, prior narrative familiarity <ref type="bibr" target="#b17">(Green, 2004)</ref> and premonition of forthcoming storylines <ref type="bibr" target="#b52">(Tal-Or &amp; Cohen, 2010)</ref> affect transportation. This would suggest that watching sequential episodes of one show would lead to higher transportation, because the viewer understands that the narrative and characters will continue where the just-watched episode ended. Likewise, two other variables positively related to transportation-extended viewing time <ref type="bibr" target="#b31">(McKinley, 2013)</ref> and perceived advertisement intrusiveness <ref type="bibr" target="#b58">(Wang &amp; Calder, 2006)</ref>-are associated with binge-watching (typically with ads being limited during the activity) <ref type="bibr" target="#b37">(Perks, 2015;</ref><ref type="bibr">Sung et al., 2015a)</ref>. Based on these observations, the first hypothesis is as follows: H1: As time spent binge-watching a series increases, the level of viewers' transportation with said series will increase. Some have previously suggested that transportation could be reciprocating, in which certain narratives lead to transportation, which in turn lead to the desire for similar narratives, with mixed results <ref type="bibr" target="#b0">(Bilandzic &amp; Busselle, 2008)</ref>. Relatedly, binge-watching changes how the narrative is consumed, so one's regularity of the activity could affect transportation levels. Does one's predisposition to frequent binge-watching facilitate transportation, similarly to the concept of transportability <ref type="bibr" target="#b6">(Dal Cin et al., 2004)</ref>? Conversely, infrequency could make each bout of binge-watching more impactful, leading to greater transportation. As such, two research questions were posed to explore how viewers' prior viewing habits and knowledge affected transportation:</p><p>RQ1: To what extent does a viewer's familiarity with various series impact his or her transportation with a related similarly "quality TV" series?</p><p>RQ2: To what extent does a viewer's general binge-watching frequency impact his or her transportation with a binge-watched series?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>In order to measure how transportation was affected by binge-watching rate, a 4-wave panel study was employed. Participants were instructed to watch one television show of their choice from the list and fill out weekly subsequent surveys regarding their viewing time for 3 weeks. Transportation studies typically utilize experimental design (i.e. <ref type="bibr" target="#b3">Busselle &amp; Bilandzic, 2009;</ref><ref type="bibr" target="#b18">Green &amp; Brock, 2000;</ref><ref type="bibr" target="#b43">Riddle, 2013)</ref>. However, one goal of this study was to increase external validity through a more natural consumption experience. A panel survey design helps achieve this <ref type="bibr" target="#b55">(Vogt &amp; Johnson, 2011)</ref>. Previously, this method has been utilized in other binge-watching research focusing on causation <ref type="bibr" target="#b36">(Peña, 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Respondents were recruited through both MTurk and classes from a northeastern university. Quality precautions were taken to filter out "bots" and/or bad responses in MTurk, including checking location data and open-ended responses <ref type="bibr" target="#b27">(Mason &amp; Suri, 2012)</ref>. Those not meeting the exclusion criteria were not invited to further participate. All participants were incentivized by two $200 gift card drawings in which only those that completed all necessary questionnaires were entered into the drawing. After MTurk filtering (n = 467), a total of 376 individuals completed the Week 1 questionnaire, and 262 completed diary entries (Week 2: n = 262; Week 3: n = 227; Week 4: n = 200). Only those who completed at least one diary and the pre-questionnaire were included. Of the 216 who met these criteria, 73.76% were white (8.1% Asian; 5.0% African-American; 7.2% Hispanic/Latino), 40.09% were male, and the average age was 27.61 (SD = 9.77; 18-60).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instrumentation</head><p>A Week 1/baseline questionnaire, consistent with the approach adopted by other media exposure studies, was employed to find viewer program familiarity and overall binge frequency (e.g., <ref type="bibr" target="#b0">Bilandzic &amp; Busselle, 2008;</ref><ref type="bibr" target="#b33">Murphy et al., 2011)</ref>. Participants were asked how frequently they typically binge-watched, ranging from "0" ("Never") to "6" ("Once a Day") (M= 3.82, SD= 1.96) <ref type="bibr">(Sung et al., 2015a)</ref>. However, binge-watching was not defined as "two to three episodes in a row." Instead, participants reported binge-watching frequency with regard to their personal definition of the concept. While this potentially limits reliability, peoples' perceptions of how often they binge-watch is reliant upon their average TV consumption <ref type="bibr" target="#b56">(Wagner, 2016)</ref>. The purpose of this measurement design was to improve the naturalism and account for the differences associated with various lifestyles and viewing patterns.</p><p>Professionally produced texts have been found to be more transporting than researcher-created content <ref type="bibr" target="#b18">(Green &amp; Brock, 2000)</ref>. As such, participants chose between ten shows available on Netflix, the most popular streaming site, to view for the duration of the study. The shows came from an aggregation of seven Internet lists of top shows to binge-watch (see Appendix). These shows are approximately one hour long and serialized, i.e., the episodes must be viewed sequentially for full understanding of the storylines. The one-hour limit on fictional programs was an attempt to limit internal validity concerns and variance in transportation levels due to differing programs or viewing time. Before selecting a show, participants were asked how familiar they were with each show listed <ref type="bibr" target="#b36">(Peña, 2015)</ref>, from "0" ("Never Heard of It") to "6" ("Seen Every Episode") (M= 2.98, SD= 0.63). These shows blend genres, deal with moral issues, and have cinematic esthetics; they all include characteristics of programs that are broadly considered as "quality TV" <ref type="bibr" target="#b29">(McCabe &amp; Akass, 2007)</ref>. As such, this program familiarity variable was used to measure if respondents' familiarity with this set of "quality TV" series impacted transportation (RQ1). Both binge frequency and program familiarity were meancentered, so "0" represents a person with typical familiarity with the shows and average binge-watching frequency.</p><p>Participants then selected 1 of the 10 shows to which they were less familiar, to watch for all 3 weeks. Previous researchers have edited or created content to control media exposure <ref type="bibr" target="#b31">(McKinley, 2013;</ref><ref type="bibr" target="#b33">Murphy et al., 2011;</ref><ref type="bibr" target="#b43">Riddle, 2013;</ref><ref type="bibr">etc.)</ref>.</p><p>However, transportation may be negatively affected, if individuals are not given their choice in consumption <ref type="bibr" target="#b18">(Green &amp; Brock, 2000;</ref><ref type="bibr" target="#b32">Moyer-Gusé &amp; Nabi, 2010)</ref>. Allowing the participants more choice in what to watch-reflecting a unique aspect of binge-watching-helps naturalize the study and increase external validity.</p><p>Participants were asked to access the show through Netflix on their own and watched episodes at their own pace to increase ecological validity. They were informed that their viewing was being tracked for the study and asked to take a mental note of how much they watched. Every Sunday night, participants received a link to the questionnaire regarding the episodes viewed during that prior week.</p><p>Weekly Binge-Watching After each week, participants were asked to reflect on the past 7 days-and record their daily viewing activity in a survey diary-broken down by day and hour. This process was repeated for 3 weeks. The two independent variables associated with this binge-watching rate were two time-varying covariates. The first binge variable was the total number of viewing sessions an individual reported. A session was any instance in which a person reported at least one hour of viewing time (i.e., the person watched at least one episode during one sitting). Sessions were not dependent upon length of time (one session could refer to one hour or 12, for example). The second binge variable was the average number of hours watched per session to further account for the length of time spent viewing. Both variables were measured weekly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation</head><p>To measure the dependent variable, a modified nine-item version of <ref type="bibr" target="#b18">Green and Brock's (2000)</ref> general transportation scale was administered weekly. <ref type="bibr" target="#b43">Riddle's (2013)</ref> modifications-originally used to determine the impact of vividness of media content on subcomponents of transportation-guided the adaptation of the original scale to this study's focus on visual media <ref type="bibr" target="#b43">(Riddle, 2013)</ref>. For example, items tapping mental imagery as a result of reading were modified to be more appropriate for television content. Further, the item "I wanted to learn how the narrative ended" <ref type="bibr" target="#b18">(Green &amp; Brock, 2000)</ref> was reworded to measure one's intent to watch more episodes in the coming week. The measurement items for the transportation variable were assessed on a five-point Likert scale, ranging from "1" ("strongly disagree") to "5" ("strongly agree"). Examples include "I found my mind wandering while watching the show" (reversecoded) and "The TV show affected me emotionally" <ref type="bibr" target="#b43">(Riddle, 2013)</ref>. The measurement items were reliable, with an overall Cronbach's alpha of .78 (Week 1, α = .70; Week 2, α = .81; Week 3, α = .83).</p><p>If a participant finished the show prior to the completion of the threeweek timeframe, he or she was asked to select another show from the list to watch for the remainder of the study and complete the remaining weekly questionnaires to complement the measurement associated with the newly selected show (n = 10).</p><p>Both questionnaires were pre-tested with approximately 10% of the intended sample size, and any comments or issues were addressed and revised for survey implementation before recruitment of the final study sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hierarchical Linear Modeling</head><p>To analyze the longitudinal data, a two-level hierarchical linear model was developed using HLM 7.0 <ref type="bibr" target="#b42">(Raudenbush, Bryk, Cheong, &amp; Congdon, 2004)</ref>. HLM allows for Level-1 to represent the observed measures of each respondent at each time, nested within Level-2 (the individual level) and look at individuals' variance in the Level-1 variables, even if some individuals' data are missing at particular timepoints <ref type="bibr" target="#b5">(Chapman, Hesketh, &amp; Kistler, 2002)</ref>. In this study, Level-1 contains the weekly binge-watching and transportation measures, and Level-2 houses each individual's binge frequency and show familiarity, resulting in the final model, as outlined in the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Lost, Breaking Bad and American Horror Story (n = 14) were chosen the least. Mad Men (n = 37) was the most selected show. Weekly transportation averages ranged from 1.62 (The Walking Dead; SD = .45) to 1.86 (Buffy the Vampire Slayer; SD = .52), with an overall mean of 1.74 (SD = .47). Both viewing variables-total sessions (M = 2.86, SD= 3.61) and hours per session (M= 1.37, SD= 1.27)-were non-normally distributed (skewness = 2.42, kurtosis = 8.62; and skewness = 1.38, kurtosis = 2.78, respectively). Thus, both were logtransformed to help normalize the distributions for analysis.</p><p>A Pearson's correlation test was conducted between the predictor and outcome variables at Level-1. Transportation was weakly correlated with both viewing sessions (r = .24, p ≤ .001) and hours per session (r = .12, p ≤ .001). Likewise, total episodes and hours per viewing session had a moderate correlation (r = .39, p ≤ .001). ANOVAS for each week showed no significant differences for total sessions, hours per session or transportation due to program viewed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hierarchical Linear Modeling</head><p>Three models were estimated using HLM 7.0. An unconditional growth model with only Week 2 at Level-1 was first tested to help identify if there was change in transportation over time (repeated measures). Week was centered around week 1, because this was the first Week of DV/IV data collection, as well as the week with most data points (n = 262). Further, this data point represents a "baseline" measured when respondents had the least interaction with their show.</p><p>The results of Model 1 (linear growth) are shown in Table <ref type="table" target="#tab_0">1</ref>. Respondents had an average transportation level in week 2 of 1.77 (β 00 = 1.77, SE = .03, p ≤ .001). The confidence interval was CI = (1.71, 1.83). There was no significant weekly change in transportation (β 10 = -0.04, SE = .02, p = .052). The variances for both the intercept (σ 0 2 = .13, p ≤ .001) and the slope (σ 1 2 = .02, p ≤ .001) were statistically significant. Therefore, individuals varied significantly in their baseline transportation level, as well as the change in transportation level weekly, implying no trend related to time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 1</head><p>Hypothesis 1 predicted that as binge-watching increased, a viewer's transportation level would increase. To test H1, Model 2 included the two bingewatching variables at Level-1: sessions and hours per session. This inclusion produced a significant reduction in model deviance (x 2 (4) = 41.77, p ≤ .001), indicating improved model fit (see Table <ref type="table" target="#tab_0">1</ref>).</p><p>In Model 2, respondents with no viewing sessions or hours had an average transportation level in Week 1 of 1.46 (β 00 = 1.46, SE = .07, p ≤ .001, CI = (1.33, 1.59)). Time was still non-significant. In this model, increased total sessions was associated with greater transportation (β 20 = 0.14, SE = .03, p ≤ .001), controlling for time. The log-function of average hours per session was approaching significance in this regard (β 30 = 0.10, SE = .05, p = .062).</p><p>Total error variance of the sample was σ 2 = 0.08, and the intercept-slope covariance was -0.01. The variances for both the intercept (σ 0 2 = .12, p ≤ .001) and the slope (σ 1 2 = .01, p ≤ .001) were statistically significant. Therefore, individuals still varied significantly in their baseline transportation level, as well as the change in transportation level when accounting for their binge-watching rate, implying no trend related to time.</p><p>Figure <ref type="figure" target="#fig_1">1</ref> shows a linear curve of transportation based on total sessions and length per session (transformed back from natural logs). An increase in total viewing sessions predicts an increase in transportation, but that effect size weakens as one partakes in more viewing sessions. An increase in the average length per session increases transportation further. Overall, Hypothesis 1 was supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Questions</head><p>Research Questions 1 and 2 explored the effect of a viewer's program familiarity and general binge-watching frequency on his or her transportation level,  respectively. To test these, show familiarity and binge frequency variables were added at Level-2. To determine the fixed and random effects of the final model, model comparison tests were employed using various combinations. The best fit (lowest deviance with significant model comparison test) was used, as outlined below as Model 3. The final conditional model increased model fit significantly (x 2 (6) = 18.30, p ≤ .01). See Table <ref type="table" target="#tab_0">1</ref> for complete modeling results. The resulting model was:</p><formula xml:id="formula_0">TRANSPORT ¼ π 0 þ π 1 WEEK1 ð Þþπ 2 SESSIONS ð Þ þ π 3 SESSION MEAN ð Þþe; π 0 ¼ β 00 þ β 01 FAMILIARITY ð Þþβ 02 FREQUENCY ð Þ þ r; π 1 ¼ β 10 þ β 11 FAMILIARITY ð Þ þ β 12 FREQUENCY ð Þ þ r; π 2 ¼ β 20 π 3 ¼ β 30 þ β 31 FAMILIARITY ð Þ þ β 32 FREQUENCY ð Þ</formula><p>In Model 3, respondents had a base transportation level in Week 1 of 1.46 (β 00 = 1.47, SE = .07, p ≤ .001, CI = [1.33, 1.61]). At Level 2, both program familiarity (β 01 = 0.18, SE = .09, p ≤ .05) and binge frequency (β 02 = 0.09, SE = .03, p ≤ .01) had significant effects for intercept in the model. This means that holding all else constant, an increase in familiarity with the shows (RQ1) predicted an increase of 0.18 in baseline transportation. Likewise, an increase in overall binge frequency (RQ2) predicted an increase of 0.09 in baseline transportation. In sum, as show familiarity and general binge frequency increase, initial transportation levels increased. Time remained non-significant (β 10 = -0.02, SE = .02, p = .286). Neither program familiarity (β 11 = -0.01, SE = .03, p = .713) nor binge frequency (β 12 = -0.01, SE = .01, p = .946) were significant at Level-2, indicating the variables had no impact on growth due to time.</p><p>Consistent with Model 2, the log-function of total sessions was significant (β 20 = 0.14, SE = .03, p ≤ .001), and the log-function of average hours per session approached significance (β 30 = 0.103, SE = .05, p = .062). At Level-2, show familiarity was not significant on average session length slope (β 31 = -.12, SE = .07, p = .108). This suggests that familiarity with the shows did not change how session length affected transportation. On the other hand, binge frequency was marginally significant (β 32 = -0.046, SE = .03, p = .08) and had a negative coefficient. This indicates that, when holding all else constant, a one unit increase in typical binge-watching behavior predicted a .046 decrease in the effect size of session length on transportation. This relationship is displayed visually in Figure <ref type="figure" target="#fig_2">2</ref>. Among those who generally binge-watch more frequently (RQ2), average viewing session length impacts transportation less than it does for those who binge-watch less frequently. So, someone who binge-watches once monthly will feel more fully transported the longer he or she watches each session, while a weekly binge-watcher's transportation will begin to plateau.</p><p>Total error variance was σ 2 = 0.081. Variances for intercept (σ 0 2 = .11, p ≤ .001) and slope (σ 1 2 = .01, p ≤ .001) were statistically significant. Individuals still varied significantly in their baseline and change in transportation level from binge-watching. So, other factors were still at play.</p><p>Because respondents were able to watch different programs, a series of fourth models were fit to see whether program viewed affected the results. Dummy variables were created for each value of the program variable. So, if Person A watched Breaking Bad, Person A would have a value of 1 for the Breaking Bad dummy variable and a "0" for all other dummy variables. Then, 10 models, each with a different reference category, were tested to compare the reference program against all each other program, similar to the process for testing dummy variables in multiple regression. First, for instance, nine dummy variables were included in a model, with the American Horror Story variable excluded to be the reference category, to test the viewing of American Horror Story against each of the other programs. The basic Level-1 regression equation for that model would be:</p><formula xml:id="formula_1">TRANSPORT ¼ π 0 þ π 1 WEEK1 ð Þþπ 2 ðSESSIONSÞ þ π 3 SESSION MEAN ð Þ þ π 4 BB ð Þ þ π 5 BUFF ð Þ þ π 6 DEX ð Þþ π 7 HOC ð Þþ π 8 LOST ð Þþ π 9 MAD ð Þ þ π 10 ORANGE ð Þþπ 11 SUP ð Þþπ 12 WALK ð Þþe</formula><p>If any p-values for the resulting π coefficients for any dummy variables in the model are significant, that indicates a significant difference between the viewing program in the reference group and another program in the list. Next, Breaking Bad was used as a reference (i.e., excluded with all other program dummies included) to test against each of the other nine programs. This process was repeated until the potential role of each possible program was compared against each of the other programs. These tests were first performed with the program variables at Level-2, between persons. The resulting models were not significantly better fits than the current models 3 or 2 and found no differences in the p-values of the significant beta coefficients nor changes to the size of the coefficients beyond three one-thousandths of a unit. Only one significant difference between all program variable comparisons in the 10 models was found: those who watched Supernatural had significantly lower baseline starting transportation than those watching Mad Men. However, as mentioned, this was in a model that had worse fit and minimal differences from Model 3. Lastly, to account for the fact that some respondents (n = 10) switched programs before the close of the study, 10 additional models were fit with the program dummy variables at Level-1 (within persons), repeating the same program reference category process as stated above. In this case, the dummy variables measured each respondent's program choice for each week. Thus, if Person A switched to Mad Men for Weeks 2 and 3, Person A's Breaking Bad dummy variable values would sequentially be 1, 0, 0, and Mad Men would be 0, 1, 1. As with the other program dummy models, these models were not significantly better fits, yielded minimal differences from Model 3, and resulted in the same sole significant difference between shows as at Level-2. As a result of these analyses, Model 3 above was deemed the best model for analysis and interpretation. On balance, the patterns found for transportation were not significantly different based on the program selected by participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study sought to find the effects of binge-watching on viewers' transportation levels using a more detailed measurement than has previously been used.</p><p>One contribution of this study was the successful application of a diary-based self-report measurement of viewing time. Diaries can help with accuracy of exposure measures, while maintaining some level of naturalization <ref type="bibr" target="#b10">(Fikkers, Piotrowski, &amp; Valkenburg, 2017)</ref>, something paramount to the binge-watching process. The diary system was also available on mobile devices, which can allow users' typical routines to remain despite participating in a study <ref type="bibr" target="#b24">(Link et al., 2014;</ref><ref type="bibr" target="#b35">Ohme, Albaek, &amp; de Vreese, 2016)</ref>. Being able to increase the naturalization of consumption, while maintaining some internal validity, shows that diaries can be a feasible measurement for transportation research and usual belief change and persuasion variables therein.</p><p>Hypothesis 1 was supported. The more times a person watched, as well as the longer each viewing session was, the greater the level of transportation. Just as narrative and genre-related experience increases transportation <ref type="bibr" target="#b17">(Green, 2004)</ref>, watching a serialized show in chronological order provides greater knowledge about characters' backgrounds and tendencies, as well as the fictional world. So, when a character is killed off on The Walking Dead, a frequent viewer will know the full impact it will have versus someone with more limited knowledge of the overarching storylines. For persuasion, this means that a viewer may be more susceptible to beliefs within the narrative world the more he or she consumes said media, especially if the specific narrative is continuous and serialized. Given the persistent relationship between transportation and story-consistent beliefs <ref type="bibr" target="#b54">(van Laer, de Ruyter, Visconti, &amp; Wetzels, 2014)</ref>, future research should consider how increased, sequential viewing affects belief change and how serialized stories influence this.</p><p>However, this binge-watching/transportation relationship weakens as an individual partakes in more viewing sessions. This suggests that while people are immersed deeper into a story the more they watch, some desensitization may occur, similar to violent media exposure <ref type="bibr" target="#b4">(Carnagey, Anderson, &amp; Bushman, 2007)</ref>. The question remains if this weakening occurs due to increased exposure to the particular show or from increased viewing itself. Considering transportability-one's likelihood of being transported <ref type="bibr" target="#b0">(Bilandzic &amp; Busselle, 2008)</ref>-if overall viewing is the reason, each subsequent viewing session could eventually result in a plateau effect. If there is indeed some limit to transportation from more sessions, this habituation could also affect one's susceptibility to persuasion or belief change. Further, how do screen size or location affect these processes? These are questions for future studies.</p><p>For the research questions, the more familiar with the shows (RQ1) and the frequency with which one binge-watches (RQ2) increased baseline transportation after the first week of viewing. Show familiarity did not impact the relationship between session length and transportation, however. This could speak to varying themes and tones, despite the shows exhibiting serialized, complex storylines and genre-blending content. Though program watched did not improve model fit significantly, dismissing program impact entirely would be unwise. Future research should account for and include specific genres and varied themes and complexity to determine their impact on transportation. Researchers should also consider nonfiction series that are often among the top series binged, like the highly popular Making a Murderer <ref type="bibr" target="#b9">(Donegan, 2018)</ref>. It is a limitation herein that all these shows were considered "quality TV" <ref type="bibr" target="#b29">(McCabe &amp; Akass, 2007)</ref>, which in and of themselves could have contributed to transportation. Thus, researchers should implement content analyses of both high-versus low-transporting texts and frequently versus infrequently binged programs to understand how/if viewing behaviors and content relate.</p><p>The more often a person typically binge-watches (RQ2), the weaker the relationship between transportation and session length. Those more accustomed to binge-watching were less affected by longer binge sessions, suggesting a desensitization effect. Additionally, the ability of a binge session to help achieve the "escape" gratification <ref type="bibr" target="#b39">(Pittman &amp; Sheehan, 2015)</ref> could become minimal if used too frequently. Plus, it is possible that this plateaued strength of effect could transfer to persuasion or enjoyment. Another consideration is unrelated to effects-it is possible that the shows uniformly decreased in quality. To test this, a content analysis with some criteria of quality would be needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications and Limitations</head><p>This paper shows that binge-watching can be measured as an independent variable, with outcome variables measured as a result of binge-watching. Admittedly, one concern could be the claim of causality herein. Typically, transportation studies use an experimental design <ref type="bibr" target="#b54">(van Laer et al., 2014)</ref>, helping explain time-order while limiting participant exposure to the stimuli. However, examining how different rates of viewing affect the transportation and belief change process facilitates understanding these effects in the real world. Because of the time-order of this panel design, as well as the lack of growth of transportation over time in the analysis, one could infer some level of causality. Using diaries and panels in this way could be replicated for testing other viewing effects, as well as transportation more naturally.</p><p>Another area deserving attention is the proposed distinction between intentional versus unintentional binges (looking at TV addiction) <ref type="bibr" target="#b44">(Riddle et al., 2017)</ref>. The assumption in this study is that all viewing was intentional, with participants actively measuring their exposure. "Passive learning" still results in information retention <ref type="bibr">(Elenbaas, Boomgaarden, Schuck, &amp; De Vreese, 2013)</ref>. It would be interesting to see how susceptibility to persuasion through transportation is affected by whether or not one intentionally binge-watches. Transportation stayed relatively even between shows. Was show a nonfactor, because people chose something to watch that they expected to enjoy? Or, did the shows not affect transportation simply because people were allowed to choose, regardless of if they like it or not? In other words, does freedom of choice factor into potential transportation? Looking at intentional and unintentional use would address this.</p><p>Transportation research could also look at the difference between content with and without ads (i.e., traditional TV versus OTT/streaming). Transportation has been found to affect the perception of ad intrusiveness <ref type="bibr" target="#b58">(Wang &amp; Calder, 2006)</ref>. Consider attentional inertia <ref type="bibr" target="#b20">(Hawkins et al., 2002)</ref> and the possibility that a viewing session would be fully interrupted by ads. Following the results of this study, a new viewing session then begins when the program continues, thus weakening the effect power between viewing and transportation.</p><p>As with any survey method, self-reporting can be a limitation, due to respondent recall inaccuracy and/or bias issues. Much time was spent addressing the balance between construct validity and the naturalistic viewing experience of binge-watching. The panel method used helps with self-report reliability <ref type="bibr" target="#b46">(Scharkow &amp; Bachl, 2017)</ref>. Further, the number of episodes watched was nearly identical to the total hours from the diary entries, suggesting consistent self-reporting and sufficient convergent validity. Of note, participants were required to have access to Netflix to participate, potentially limiting generalizability to certain populations. Future studies could employ this same naturalized operationalization with subscribers and non-subscribers to examine if viewing benefits or detriments vary between those groups. Likewise, this method could also be used in experimental design, utilizing a control group in the panel, as a way to increase ecological validity. This would inform subsequent transportation studies observing belief change and persuasion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>"Television" is a very different word than it used to be. Granted, the spirit of watching a program on a screen still exists. But while some still think of television as the object in the living room they gather around each night, newer technology has made television a potentially agnostic medium sometimes requiring only a cell phone and often occurring at a condensed rate. People even prefer this over other viewing behaviors <ref type="bibr">(Nguyen, 2017)</ref>. How these changes affect audiences is an important question in today's media environment, relating to entertainment and persuasion alike.</p><p>This study helps show how scholars can produce sound, valid studies about binge-watching, as they continue to explore how the changing definition of television impacts viewing behaviors. Likewise, this study offers a naturalistic exposure measurement for studying transportation and persuasion. Consumers will continue to watch episodes of shows consecutively. Content creators will continue to develop programming with consecutive viewing in mind. Researchers need to continue to measure and analyze the effects of bingewatching and its related viewing patterns, because it appears the activity will not be canceled anytime soon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Stephen Warren (M.A. Syracuse University) is a Ph.D. student of Communication at the University of Massachusetts Amherst. His research interests include media psychology and entertainment theories while focusing on sports, politics, television, and other media technologies.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Observations n = 546, Respondents n = 216 (3x). Familiarity and binge frequency are reported in natural log form. ✝ p ≤ .10; *p ≤ .05; **p ≤ .01; *** p ≤ .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Transportation Based on Total Sessions and Length of Session (Upper/lower Qs)</figDesc><graphic coords="12,60.09,52.78,311.76,127.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Average Session Length Effect on Transportation Separated by How Frequently Viewers Typically Binge-Watch (Quartiles; Average Weekly Session (2.86))</figDesc><graphic coords="13,60.09,405.36,311.76,171.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Effects of Binge-Watching and Viewing Habits on Transportation</figDesc><table><row><cell>t Ratio</cell><cell></cell></row><row><cell>SE</cell><cell></cell></row><row><cell>Model 3</cell><cell></cell></row><row><cell>Coefficient</cell><cell></cell></row><row><cell>t Ratio</cell><cell></cell></row><row><cell>SE</cell><cell></cell></row><row><cell>Model 2</cell><cell></cell></row><row><cell>Coefficient</cell><cell></cell></row><row><cell>t Ratio</cell><cell></cell></row><row><cell>SE</cell><cell></cell></row><row><cell>Model 1</cell><cell></cell></row><row><cell>Coefficient</cell><cell></cell></row><row><cell>Fixed effect</cell><cell>Initial transportation,</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Broadcasting &amp; Electronic Media</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Warren/BINGE-WATCHING AS A PREDICTOR OF NARRATIVE TRANSPORTATION</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head> Bricker, 2015; Lawler, 2015; Pritchard, 2015; Ranker, 2015; Rotten Tomatoes Staff,  2015; Skells, 2015; Smith, 2015.  b <p>Score summed from selected binge-watching lists.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Transportation and transportability in the cultivation of genre-consistent attitudes and estimates</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bilandzic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Busselle</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2008.00397.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="508" to="529" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The morality of television genres</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bilandzic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Hastall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sukalla</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23736992.2017.1294488</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Ethics: Exploring Questions of Media Morality</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="117" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">23 shows you need to binge-watch right now</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bricker</surname></persName>
+		</author>
+		<ptr target="http://www.eonline.com/photos/12775/23-shows-you-need-to-binge-watch-right-now/472374" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Measuring narrative engagement</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Busselle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bilandzic</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213260903287259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="321" to="347" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The effect of video game violence on physiological desensitization to real-life violence</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Carnagey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bushman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2006.05.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="489" to="496" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Predicting longitudinal change in language production and comprehension in individuals with down syndrome</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Hesketh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kistler</surname></persName>
+		</author>
+		<idno type="DOI">10.1044/1092-4388(2002/073)</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Speech Language and Hearing Research</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="902" to="915" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Narrative persuasion and overcoming resistance</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dal Cin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Zanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Fong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Resistance and Persuasion</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Knowles</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Linn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum Associates, Inc</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="175" to="191" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The show starts here: Viewers&apos; interactions with recent television serials&apos; main title sequences</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Davison</surname></persName>
+		</author>
+		<ptr target="http://www.soundeffects.dk/article/view/15633/13507" />
+	</analytic>
+	<monogr>
+		<title level="j">Sound Effects</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="6" to="22" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Media bingeing: A qualitative study of psychological influences</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Devasagayam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marketing Management Association Spring Proceedings</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Delong</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Edmiston</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Hightower</surname><genName>Jr</genName></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago, Il</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="40" to="44" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The impact of media coverage and motivation on performance-relevant information</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Donegan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boomgaarden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Schuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Vreese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/10584609.2012.737411</idno>
+		<ptr target="https://media.netflix.com/en/press-releases/2018-on-netflix-" />
+	</analytic>
+	<monogr>
+		<title level="m">to-all-the-shows-and-movies-weve-loved-before Elenbaas</title>
+		<imprint>
+			<date type="published" when="2013">2018. 2013</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+	<note>2018 on Netflix</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Assessing the reliability and validity of television and game violence exposure measures</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Fikkers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Piotrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650215573863</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="117" to="143" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Toward a qualitative understanding of binge-watching behaviors: A focus group approach</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flayelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.6.2017.060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">On becoming a novelist</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Harper &amp; Row Publishers</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Experiencing narrative worlds: On the psychological activities of reading</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gerrig</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The development of binge watching</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I Z</forename><surname>Giuffre</surname></persName>
+		</author>
+		<ptr target="http://libezproxy.syr.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=cms&amp;AN=91940213&amp;site=ehost-live" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="101" to="102" />
+			<pubPlace>Metro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Audience activity and reality television: Identification, online activity, and satisfaction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Godlewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Perse</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463371003773358</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="148" to="169" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Chalk one up for the internet: It has killed arrested development</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Graves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A state of arrested development: Critical essays on the innovative television comedy</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Barton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Jefferson, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>McFarland &amp; Company, Inc</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="224" to="236" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Transportation into narrative worlds: The role of prior knowledge and perceived realism</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Green</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15326950dp3802_5</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Discourse Processes</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The role of transportation in the persuasiveness of public narratives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Brock</surname></persName>
+		</author>
+		<idno type="DOI">10.1037//0022-3514.79.5.701</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="701" to="721" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Recommended for you: The Netflix Prize and the production of algorithmic culture</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hallinan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Striphas</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444814538646</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">What holds attention to television? Strategic inertia of looks at content boundaries</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pingree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hitchon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kahlor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gorham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Serlin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650202029001001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="30" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Binge-watching: Video-on-demand, quality TV and mainstreaming fandom</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jenner</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1367877915606485</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Cultural Studies</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Cutting the cord: Leveling the playing field for virtual cable companies (Law School Student Scholarship</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<ptr target="https://scholarship.shu.edu/student_scholarship/497" />
+	</analytic>
+	<monogr>
+		<title level="m">Seton Hall University</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Paper 497</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">5 shows to binge-watch this Labor Day</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lawler</surname></persName>
+		</author>
+		<ptr target="http://entertainthis.usatoday.com/2015/09/07/5-shows-to-binge-watch-this-labor-day/" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Mobile technologies for conducting, augmenting and potentially replacing surveys</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schober</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buskirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hunter Childs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Langer Tesfaye</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfu054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="779" to="787" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Television audience satisfaction: Antecedents and consequences</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-P</forename><surname>Lo</surname></persName>
+		</author>
+		<idno type="DOI">10.2501/S0021849907070365</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advertising Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="354" to="363" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Primary binge-viewing sources, among US households</title>
+		<author>
+			<persName><forename type="first">Marketingcharts</forename><surname>Staff</surname></persName>
+		</author>
+		<ptr target="http://www.marketingcharts.com/television/primary-binge-viewing-sources-among-us-households-44385/" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Conducting behavioral research on Amazon&apos;s Mechanical Turk</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suri</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13428-011-0124-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matrix</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/jeu.2014.0002</idno>
+		<title level="m">The Netflix effect: Teens, binge watching, and on-demand digital media trends. Jeunesse: Young People, Texts, Cultures</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="119" to="138" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Quality TV: Contemporary American television and beyond</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Akass</surname></persName>
+		</author>
+		<editor>I. B. Tauris</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Audience involvement in the epideictic discourse of television talk shows</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463370009385590</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="190" to="203" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reexamining the link between cultivation factors and viewer involvement: Investigating viewing amount as a catalyst for the transportation process</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Mckinley</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10510974.2012.731466</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="66" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Explaining the effects of narrative in an entertainment television program</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moyer-Gusé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nabi</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2009.01367.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="26" to="52" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Involved, transported, or emotional? Exploring the determinants of change in knowledge, attitudes, and behavior in entertainment-education</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patnoe-Woodley</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2011.01554.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="407" to="431" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">68% of millennials prefer full-season TV show releases</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Newman</surname></persName>
+		</author>
+		<ptr target="https://www.statista.com/chart/11423/preferred-way-of-consuming-tv-shows/" />
+	</analytic>
+	<monogr>
+		<title level="m">TV binge. FlowTV.org</title>
+		<imprint>
+			<date type="published" when="2009">2009. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Exposure research going mobile: A smartphone-based measurement of media exposure to political information in a convergent media environment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ohme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Albaek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>De Vreese</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19312458.2016.1150972</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="135" to="148" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Breaking binge: Exploring the effects of binge watching on television viewer reception. S.I. Newhouse School of public communications</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peña</surname></persName>
+		</author>
+		<ptr target="https://surface.syr.edu/etd/283/" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Syracuse University</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Perks</surname></persName>
+		</author>
+		<title level="m">Media marathoning: Immersions in morality</title>
+		<meeting><address><addrLine>Lanham, Maryland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lexington Books</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">To binge or not to binge: A qualitative analysis of college students&apos; binge watching habits</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Petersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Florida Communication Journal</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="88" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Uses and gratifications of binge-watching television through Netflix</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sheehan</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v20i10.6138</idno>
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">33 of the best TV shows to binge-watch</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pritchard</surname></persName>
+		</author>
+		<ptr target="http://www.buzzfeed.com/tahliapritchard/brb-watching-tv-forever#.kuqRGP30o" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">The best shows to binge watch</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Ranker</surname></persName>
+		</author>
+		<ptr target="http://www.ranker.com/list/best-tv-shows-to-binge-watch/ranker-tv" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Hierarchical linear and nonlinear modeling</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Raudenbush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bryk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cheong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Congdon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Scientific Software International, Inc</publisher>
+			<pubPlace>Lincolnwood, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Transportation into vivid media violence: A focus on attention, emotions, and mental rumination</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Riddle</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463373.2013.799512</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="446" to="462" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The addictive potential of television binge watching: Comparing intentional and unintentional binges</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Riddle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peebles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schroeder</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/ppm0000167</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">10 TV shows you should binge-watch</title>
+		<author>
+			<persName><forename type="first">Rotten</forename><surname>Tomatoes</surname></persName>
+		</author>
+		<ptr target="http://editorial.rottentomatoes.com/article/10-tv-shows-you-should-binge-watch-this-september/" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">How measurement error in content analysis and self-reported media use leads to minimal media effect findings in linkage analyses</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bachl</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10584609.2016.1235640</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="343" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">10 addicting TV shows that you have to binge-watch</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Skells</surname></persName>
+		</author>
+		<ptr target="http://screenrant.com/addicting-shows-binge-watch/?view=all" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">15 shows to binge watch</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.cleveland.com/entertainment/index.ssf/2015/02/15_best_tv_shows_to_binge-watc.html#0" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Netflix survey: Binge-watching is not weird or unusual</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spangler</surname></persName>
+		</author>
+		<ptr target="http://variety.com/2013/digital/news/netflix-survey-binge-watching-is-not-weird-or-unusual-1200952292/" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A bad habit for your health? An exploration of psychological factors for binge watching behavior</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-N</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ICA Annual Conference</title>
+		<meeting><address><addrLine>San Juan, PR</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">My name is … and I&apos;m a binge viewer&quot;: An exploratory study of motivations for binge watching behavior</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-N</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08838151.2018.1451851</idno>
+	</analytic>
+	<monogr>
+		<title level="m">American academy of advertising</title>
+		<meeting><address><addrLine>Chicago, Il</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Understanding audience involvement: Conceptualizing and manipulating identification and transportation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tal-Or</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.poetic.2010.05.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="402" to="418" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Preface</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Quality TV: Contemporary American television and beyond</title>
+		<editor>
+			<persName><forename type="first">I</forename><forename type="middle">B</forename><surname>Tauris</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">XVII -XX</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The extended transportation-imagery model</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Laer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>De Ruyter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Visconti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wetzels</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/673383</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="797" to="817" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Dictionary of statistics and methodology</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Vogt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<editor>L. Habib</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>SAGE Publications, Inc</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Glued to the sofa: Exploring guilt and television bingewatching behaviors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Wagner</surname></persName>
+		</author>
+		<ptr target="http://digitalcommons.trinity.edu/comm_honors/11" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Just one more episode&apos;: Frequency and theoretical correlates of television binge watching</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Walton-Pattison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dombrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Presseau</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1359105316643379</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="24" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Media transportation and advertising</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/506296</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="162" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Unsurprising: Netflix survey indicates people like to binge-watch TV. Cinema Blend, Television</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>West</surname></persName>
+		</author>
+		<ptr target="http://www.cinemablend.com/television/Unsurprising-Netflix-Survey-Indicates-People-Like-Binge-Watch-TV-61045.html" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Digital democracysurvey: A multigenerational view of consumer technology, media,and telecom trends. Deloitte consulting LLP</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Westcott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lippstreu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cutbill</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ejoc.201200111</idno>
+		<ptr target="https://doi.org/10.1002/ejoc.201200111" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">The relationships between television viewing behaviors attachment, loneliness, depression, and psychological well-being</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katherine</surname></persName>
+		</author>
+		<ptr target="https://digitalcommons.georgiasouthern.edu/honorstheses/98" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Georgia Southern University</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

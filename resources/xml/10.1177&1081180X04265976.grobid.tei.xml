@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Political Talk Radio, Perceived Fairness, and the Establishment of President George W. Bush’s Political Legitimacy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2004-07">2004-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">Lance</forename><surname>Holbert</surname></persName>
+						</author>
+						<title level="a" type="main">Political Talk Radio, Perceived Fairness, and the Establishment of President George W. Bush’s Political Legitimacy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Harvard International Journal of Press/Politics</title>
+						<title level="j" type="abbrev">Harvard International Journal of Press/Politics</title>
+						<idno type="ISSN">1081-180X</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="12" to="27"/>
+							<date type="published" when="2004-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BC1DCFBFE321575FE5FC69AF817C711E</idno>
+					<idno type="DOI">10.1177/1081180x04265976</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>political talk radio</term>
+					<term>perceived fairness</term>
+					<term>2000 presidential election</term>
+					<term>political legitimacy</term>
+					<term>structural equation modeling</term>
+					<term>mediation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study analyzes the effects of political talk radio use on the perceived fairness of the 2000 U.S.presidential election.In particular, a process of influence is hypothesized leading from talk radio use to feelings toward the two major-party candidates (Bush and Gore).Citizens' affective associations with the candidates are then argued to have competing effects on the perceived fairness of the 2000 election.The influence of perceived fairness on subsequent feelings toward Bush is also assessed. This process of political talk radio influence is analyzed in a single structural equation model using 2000-02 American National Election Study (ANES) panel data.Political talk radio use leads to negative perceptions of Gore, which negatively influences perceptions of the perceived fairness of the 2000 election. Conversely, talk radio use generates more positive feelings toward Bush, which positively affects perceptions of fairness. Thus, feelings toward both candidates serve as important mediators that allow the use of this public affairs information source to make citizens feel better about how the fiercely contested 2000 presidential election was decided. Perceived fairness is also found to be a significant positive predictor of post-2002 election cycle attitudes toward Bush, even after accounting for prior feelings toward both Bush and Gore. Implications for these finding are outlined and future lines of research are detailed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Political communication scholarship has devoted much time and attention to studying who tunes in to political talk radio (e.g., <ref type="bibr" target="#b13">Hofstetter et al. 1994</ref>) and what are the potential effects of using this public affairs information source on a range of variables from political attitudes (e.g., <ref type="bibr" target="#b44">Yanovitzky and Cappella 2001)</ref>, to political mobilization (e.g., <ref type="bibr" target="#b19">Hollander 1997)</ref>, to governmental trust (e.g., <ref type="bibr">Pfau, Moy,Holbert,et al.1998)</ref>. <ref type="bibr">Hall and Cappella (2002: 348)</ref> recently focused their efforts on analyzing the use of particular types of political talk radio and individual-level perceptions of the outcome of the 1996 U.S. presidential election, finding listeners of conservative talk radio "tended to disregard substantive reasons for the election's outcome." This study focuses on the role of political talk radio use on citizens' perceived fairness of the hotly contested 2000 U.S. presidential contest between George W. Bush and Albert Gore Jr. and how perceptions of this event affect subsequent feelings toward a sitting President Bush after the 2002 election cycle.</p><p>A series of direct and indirect talk radio effects are analyzed. First, it is hypothesized that the use of this largely conservative public affairs outlet will lead citizens to think less of the Democratic Gore and more positively of the conservative Republican Bush. It is also argued that reactions concerning the general fairness of the 2000 presidential election will be based largely on citizens' affective associations with these two candidates rather than a cognitive assessment of the strengths or weaknesses of opposing arguments made before the Supreme Court of Florida or the U.S. Supreme Court <ref type="bibr" target="#b34">(Nicholson and Howard 2003)</ref>. Thus, feelings toward the two major-party candidates will influence perceptions of the fairness of the electoral outcome <ref type="bibr" target="#b11">(Hall and Cappella 2002)</ref>. This combination of results points to potential indirect effects of political talk radio use on perceptions of the fairness of the 2000 election through its influence on the mediators of feelings toward Bush and Gore, respectively. Finally, this study analyzes the influence of the perceived fairness of the 2000 election on subsequent feelings toward Bush after the 2002 election cycle, allowing for judgments to be made on how perceptions of an election can affect latter assessments of the winner of a political contest.</p><p>Literature pertaining to political talk radio, citizens' assessments of candidates, and perceptions of electoral outcomes is detailed below, leading to the positing of seven hypotheses that serve as a foundation for this study.A process of political talk radio influence is analyzed using full-information maximum likelihood (FIML) structural equation modeling (SEM) on 2000-02 American National Election Study (ANES) panel data. This study's findings are detailed and their potential to aid future research is outlined. There is also a discussion of the inherent weaknesses of this secondary analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political Talk Radio</head><p>Extant research finds that the use of conservative political talk radio can serve to strengthen preexisting attitudes toward government and various political actors <ref type="bibr" target="#b35">(Owen 1997;</ref><ref type="bibr" target="#b44">Yanovitzky and Cappella 2001)</ref>. However, there does not appear to be much evidence that any movement in attitudes generated from the use of this information outlet can be attributed to knowledge gain <ref type="bibr">(Bennett 2002a;</ref><ref type="bibr" target="#b26">Lee and Cappella 2001)</ref>. Indeed, <ref type="bibr" target="#b14">Hofstetter et al. (1999)</ref> find that use of the more ideologically extreme forms of talk radio leads to higher levels of information and misinformation. Those who use conservative talk radio are generally distrusting of traditional public affairs information outlets <ref type="bibr" target="#b18">(Hollander 1994)</ref>, and subsequently, use of political talk radio is not highly correlated with reading newspapers for public affairs content or viewing television news <ref type="bibr">(Bennett 2002b)</ref>.</p><p>Several works have focused on this mass communication outlet's influence on public confidence in democratic institutions (e.g., <ref type="bibr" target="#b33">Moy et al. 1999;</ref><ref type="bibr" target="#b32">Moy and Pfau 2000;</ref><ref type="bibr" target="#b38">Pfau, Moy, Radler, et al. 1998)</ref>. These studies find that the content of political talk radio is often harsh toward most publicly funded institutions and that use of this outlet is associated with more negative feelings toward the various branches of government (e.g., <ref type="bibr" target="#b37">Pfau, Moy, Holbert, et al. 1998)</ref>. Although use of this media source is associated with negative feelings toward government (see <ref type="bibr" target="#b36">Page and Tannenbaum 1996)</ref>, the talk radio audience is generally more active in community affairs (e.g., <ref type="bibr" target="#b7">Bolce et al. 1996)</ref>. <ref type="bibr" target="#b23">Jones (2002)</ref> argues that the rise of conservative talk radio coincides with an age of opinion polarization. This particular information source not only appeals to those who lean to the Right politically <ref type="bibr" target="#b22">(Jones 1998)</ref>, but use of this outlet is associated with potential individual-level shifts toward the more conservative end of the political spectrum on those issues brought up by hosts like Rush Limbaugh <ref type="bibr" target="#b2">(Barker and Knight 2000</ref>; see also <ref type="bibr" target="#b0">Barker 1999</ref> for discussion of vote preference). <ref type="bibr" target="#b1">Barker (2002)</ref> introduces heresthetic theory to describe the ability of conservative talk radio to have tangible effects on the electorate. This theoretical approach combines past work in framing and priming to argue that those who are more politically sophisticated are most susceptible to the type of influence wielded by political talk radio. The effects stemming from the use of political talk radio are best defined as conditional (e.g., <ref type="bibr" target="#b31">McLeod and Reeves 1980)</ref>. As <ref type="bibr" target="#b12">Hofstetter and Gianos (1997)</ref> note, "Given appropriate political contexts involving explosive situations, political talk radio might facilitate mobilization of sufficient numbers of activists to wreak havoc in various policy arenas" (p. 513). The 2000 presidential election can most certainly be defined as an explosive situation, involving a very close, highly politicized debate over who would be the ultimate winner of the electoral college once all the Florida votes were counted in a manner deemed fit by the courts <ref type="bibr" target="#b6">(Benoit et al. 2004</ref>). Thus, the following hypotheses are posited:</p><p>Hypothesis 1: Use of the predominantly conservative information outlet of political talk radio during the 2000 election positively affects listeners'subsequent feelings toward George W. Bush.</p><p>Hypothesis 2: Use of the predominantly conservative information outlet of political talk radio during the 2000 election negatively affects listeners' subsequent feelings toward Albert Gore Jr.</p><p>Affective Judgments Concerning 2000 Election <ref type="bibr" target="#b11">Hall and Cappella (2002)</ref> find very clear evidence of an association between citizens' affective connections with a given candidate and perceptions of the fairness of an election outcome. They conclude that those who support the winner of an election will perceive the conducting of the political race as fair,while those who are backers of the losing candidate will see the contest as "won by strategy, deception, or other means not directly related to the merit of the candidates" (p. 347). The relationship between citizens' affective associations with candidates and perceptions concerning election outcomes may be especially strong given the contentious nature of the 2000 U.S.presidential election <ref type="bibr" target="#b10">(Gibson et al. 2003)</ref>. <ref type="bibr" target="#b34">Nicholson and Howard (2003)</ref> note that the rise of emotions following the U.S. Supreme Court ruling in Bush v. Gore was palpable. They state that "Democrats accused the Court of engaging in partisan politics," while Republicans "spoke of the Court's courage in following the rule of law" (p. 676). Given the still debatable outcome of the 2000 election and the intensity within which a final decision was made as to who would be the forty-third President of the United States, the following hypotheses are offered: </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mediation</head><p>Combining the first four hypotheses creates two potential mediation-based indirect talk radio effects on perceived fairness. In particular, political talk radio can positively influence this outcome variable through citizens' assessments of Bush and Gore, respectively. <ref type="bibr" target="#b30">McLeod et al. (2002)</ref> highlight the importance of indirect effects in the study of political communication, and <ref type="bibr" target="#b16">Holbert and Stephenson (2003)</ref> have detailed more specifically the need for the study of mediation in this mass communication subfield. However, indirect effects are generally overlooked in communication research <ref type="bibr" target="#b15">(Holbert and Stephenson 2002)</ref>. This state of affairs is worrisome given that "if an indirect effect does not receive proper attention, the relationship between two variables of interest may not be fully considered" <ref type="bibr">(Raykov and Marcoulides 2000: 7)</ref>. <ref type="bibr" target="#b31">McLeod and Reeves (1980)</ref> explain that mediating variables exist at every stage of the media effects process, whether we are studying "who is affected, what is changing, [or] how the process takes place" (p. 18). They conclude that it is not just important for mass communication research to include mediating variables but that specific relationships between media, potential mediators, and various outcome variables be hypothesized and systematically tested to place the role of media in its proper context. Thus, the following hypotheses are posited:</p><p>Hypothesis 5: Feelings toward George W. Bush serve as a significant mediator in the relationship between political talk radio use and the perceived fairness of the 2000 U.S. presidential election. Hypothesis 6: Feelings toward Albert Gore Jr. serve as a significant mediator in the relationship between political talk radio use and the perceived fairness of the 2000 U.S. presidential election.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of Perceived Fairness</head><p>Finally, it is important to assess whether perceptions about the fairness of a given election influence subsequent feelings toward the victor. An analysis of this relationship will provide insight as to the effects of perceptions of electoral outcomes on latter attitudes concerning the legitimacy of a political actor <ref type="bibr" target="#b43">(Weatherford 1992</ref>; see <ref type="bibr" target="#b10">Gibson et al. 2003)</ref>. Although political legitimacy is an unwieldy concept, <ref type="bibr">Weatherford (1992: 161)</ref> finds that everyday citizens often act as "naïve moral philosophers" in making judgments about how politicians obtain their status as leaders. Given the strong association between feelings toward candidates and perceptions of electoral outcomes, it can be argued that the more a voter perceives a given election to be fair, the greater the likelihood of having subsequent positive feelings toward the victor of that election. Thus, the following is posited in relation to perceptions of the 2000 election and latter feelings toward Bush:</p><p>Hypothesis 7:Stronger perceived fairness of the 2000 U.S. presidential election positively affects subsequent feelings toward George W. Bush.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method Data</head><p>The national survey data used for this study were collected by the Center for Political Studies of the Institute for Social Research at the University of Michigan, Ann Arbor. The 2000 ANES employed a preelection interview/ postelection reinterview design. A total of 1,807 citizens were interviewed during the nine weeks prior to November 7, 2000, and a total of 1,555 of the preelection day respondents were reinterviewed after the election (2000 ANES initial preelection response rate = 57 percent; pre/post retention rate = 86 percent). The 2002 ANES study also used a preelection interview/postelection reinterview design. The preelection portion began September 18 and was completed on November 4, 2002. The postelection phase began November 6 and ceased on December 6, 2002. A total of 1,187 subjects from the 2000 study were reinterviewed in the preelection phase of the 2002 study, with 1,070 of these subjects being contacted for the final postelection survey (2002 ANES initial preelection response rate = 56 percent; pre/post retention rate = 90 percent). The survey designs for both years used a combination of face-to-face and phone interviewing techniques.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Six items from the 2000 ANES data were defined as exogenous variables and a total of five items were treated as endogenous to the model. The political talk radio use items were collected in the postelection phase of the 2000 ANES. The first Bush feeling thermometer rating and the lone Gore thermometer rating were obtained during the preelection phase of the 2002 ANES study, as was the perceived fairness of the 2000 election item. The final Bush feeling thermometer criterion variable was asked after the completion of the 2002 federal elections.</p><p>Four demographic characteristics were utilized as predictor variables: age, sex (female coded high), education, and race. Age is measured in years. Education is a single 7-point measure, with possible responses ranging from eight grades or less to post-BA advanced degree,including LLB. Race is dummy coded (other/Caucasian only mention), with Caucasian coded high. The additional exogenous items are political party identification and political interest. Party ID is a trichotomous item: Democrat, Independent, or Republican. Political interest is also a single trichotomous measure ranging from not much interested to very much interested.</p><p>Political talk radio use is a two-item additive index consisting of standardized exposure and attention measures.Respondents rated their level of exposure on a 5-point scale with possible responses being as follows: never listen, only occasionally,once or twice a week,most days,and every day. Attention was ranked on a 4-point scale from very little attention to very close attention. The two items form a reliable index (α = .91).</p><p>Respondents were asked to rate on a 0 to 100 scale their feelings toward both Bush and Gore during the preelection phase of the 2002 study (Bush, M = 65.54, SD = 26.37; Gore, M = 44.33, SD = 23.17).</p><p>Respondents were also asked the following question during the pre-2002 election phase of the panel study: "All things considered, would you say that the 2000 presidential election was decided in a way that was fair or unfair?" These same individuals were then asked how strongly they felt about their position, strongly or not strongly. These two responses were combined in the ANES data to create a single 4-point scale with possible responses being disapprove strongly,disapprove not strongly,approve not strongly,and approve strongly (M = 2.69,SD = 1.30).</p><p>Finally, respondents were asked to rate on a 0 to 100 scale their feelings toward Bush upon completion of the 2002 election cycle (Bush, M = 66.14, SD = 26.61).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>The covariance-based multivariate technique of FIML SEM was used to test the hypotheses that drive this study. <ref type="bibr" target="#b15">Holbert and Stephenson (2002)</ref> define the model type used for this study as an observable variable model. A recent Monte Carlo simulation found latent variable models to outperform observable variable models on several fronts <ref type="bibr" target="#b42">(Stephenson and Holbert 2003)</ref>. Most notably, the path estimates in observable variable models are severally attenuated relative to those in the latent composite models due to the former not properly accounting for measurement error. However, <ref type="bibr" target="#b15">Holbert and Stephenson (2002)</ref> note that observable variable models are appropriate when a study is employing a large number of single-item measures (see also <ref type="bibr" target="#b42">Stephenson and Holbert 2003)</ref>. This is clearly the case in this study given that all but one variable is a single-item measure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesized Model</head><p>The hypothesized recursive model consists of five stages. The six exogenous variables were entered in the first stage. The political talk radio use index was entered in the second block, followed by the initial Bush feeling thermometer rating and the lone Gore item. The forth block consisted of the perceived fairness measure,and the final block contained the criterion variable,the post-2002 election Bush feeling thermometer measure.</p><p>A set of exogenous-endogenous paths was created based on an assessment of the variance-covariance matrix, and then several paths were fixed or freed by the LaGrange multiplier (LM) method after initially testing the hypothesized model. <ref type="bibr" target="#b24">Jöreskog (1993)</ref> recommends the use of the LM procedure for model respecification, and this procedure is commonly employed in the communication sciences <ref type="bibr" target="#b15">(Holbert and Stephenson 2002)</ref>. All five hypothesized direct endogenous-to-endogenous paths (Hypotheses 1 through 4 and 7) were tested simultaneously in the model. In addition, the initial Bush and Gore feeling thermometer ratings were allowed to have a direct influence on the criterion variable. 1 This latter pair of paths creates a strict test for the relationship between perceived fairness and the final Bush rating scale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model Fit</head><p>The final model fits the data well as indicated by the recommended fit statistics: comparative fit index (CFI) = 1.00; standardized root mean square residual (SRMR) = .02; root mean square error of approximation (RMSEA) = .01 (90 percent confidence interval: .00-.02) <ref type="bibr" target="#b21">(Hu and Bentler 1999)</ref>. For purposes o f model comparison, χ 2 (20; 1,020) = 23.76, p = .25; and the expected cross-validation index (ECVI) = .11. 2 The model accounts for 48 percent of the variance in perceived fairness and 74 percent of the post-2002 election Bush feeling thermometer rating.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exogenous Variable Effects</head><p>Each of the exogenous predictor variables had an influence on one or more of the endogenous variables (see Table <ref type="table" target="#tab_0">1</ref>). Females are less likely to use political talk radio (γ = -.12). Those who are older perceived the 2000 election to be less fair (γ = -.06) but feel better about Bush after the 2002 elections (γ = .06). Those individuals who retain higher levels of education thought less of Bush in the pre-2002 election survey (γ = -.07). Caucasians tend to like Bush more after the 2000 election (γ = .07) and believe the conducting of the 2000 presidential election to have been fair (γ = .05).</p><p>As would be expected, party identification is the strongest exogenous predictor variable. This item had a significant direct effect on all five endogenous variables. Republicans were more likely to listen to talk radio (γ = .18), think less of Gore (γ = -.47), think more of Bush (pre-2002 election: γ = .47; post-2002 election: γ = .05), and perceive the 2000 election as being fair (γ = .17). By contrast, political interest was only a predictor of political talk radio use (γ = .22). Those citizens who have a stronger interest in politics tend to gravitate toward this information outlet.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political Talk Radio Effects</head><p>The first two hypotheses argue for political talk radio use having a positive effect on subsequent perceptions of Bush and a negative influence on feelings toward Gore (see Figure <ref type="figure" target="#fig_1">1</ref>). Both of these hypotheses are confirmed in the model (Bush, β = .06; Gore, β = -.11). Interestingly, the strongest influence of political talk radio use is on generating negative perceptions of Gore rather than positive feelings toward Bush.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective Judgments of Fairness</head><p>The model also reveals that individual-level perceptions of the fairness of the 2000 presidential election were constructed in large part by general feelings toward the major-party candidates. Respondents' feelings toward Bush led to a perception of the election being conducted fairly (β = .46), while more positive feelings about Gore led to a sense of the 2000 election not producing a legitimate outcome (β = -.23). Thus, Hypotheses 3 and 4 are confirmed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mediation</head><p>The confirmation of Hypotheses 1 through 4 speaks to two potential specific indirect effects of political talk radio use on the perceived fairness of the 2000 election. Assessment of these mediating relationships is particularly important given that the direct relationship between talk radio use and perceived fairness gravitates from statistical significance at the zero order (r = .14, p &lt; .001) to insignificance (β = -.00) if the direct effect were to be introduced into the model (see <ref type="bibr" target="#b25">Kenny et al. 1998</ref> for discussion of full mediation).</p><p>The fifth and sixth hypotheses state respective processes of mediation. <ref type="bibr" target="#b16">Holbert and Stephenson (2003)</ref> recommend the use of the MacKinnon et al. (1998) distribution of products test for directly assessing mediation in structural equation models.This test has been shown in a recent Monte Carlo simulation by <ref type="bibr" target="#b28">MacKinnon et al. (2002)</ref> to outperform traditional product of coefficient estimates of mediation in terms of both statistical power and Type I error rates. 3  The MacKinnon et al. (1998) mediation test involves the conversion of each parameter estimate that makes up a potential mediating relationship into a zscore by dividing each unstandardized parameter estimate by its respective standard error and then obtaining the product of the two z-scores that make up the specific indirect effect. Researchers can then look to a product of two random, normal variables table to establish statistical significance (see <ref type="bibr" target="#b9">Craig 1936)</ref>.  Endogenous Model of Talk Radio Use, Feelings toward Candidates, and Perceived Fairness Note: Standardized path estimates are reported. All paths are statistically significant, p &lt; .05.</p><p>The <ref type="bibr" target="#b27">MacKinnon et al. (1998)</ref> test was performed on the two hypothesized mediating relationships, and both of the candidate feeling thermometer items were found to be significant mediators (Bush, z-score product (P) = 39.63, p &lt; .001; Gore, P = 35.16, p &lt; .001). Thus, there is confirmation of Hypotheses 5 and 6. Using the conservative-dominated information outlet of political talk radio made citizens feel better about the fairness of 2000 election through its negative commentary of Gore (standardized specific indirect effect = .03) and its singing the praises of Bush (standardized specific indirect effect = .03). Once again, an accounting of the mediators results in the direct influence of political talk radio on perceived fairness to become statistically insignificant, signaling full mediation. 4</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of Perceived Fairness</head><p>Judgments concerning the perceived fairness of the 2000 election have a statistically significant influence on subsequent feelings toward the sitting President Bush (β = .13).This finding confirms Hypothesis 7.This direct effect is evident even after accounting for the influence of prior feelings toward both Bush (β = .72) and Gore (β = -.06) and supports the argument that perceptions of how a politician is elected influence subsequent attitudes toward that elected official when in office.</p><p>Finally, a quick point concerning the potential relationship between political talk radio use and the criterion variable: The final structural model reveals that initial feelings toward the two candidates and perceived fairness have direct effects on the criterion variable. The relative strength of these paths, coupled with the effects of talk radio on these intervening variables,allows the mass communication outlet of interest to this study to have a statistically significant total effect on post-2002 election cycle feelings toward Bush (standardized total effect = .06). Although this is not a large influence, it does reflect the potential long-term indirect effects of political talk radio use on subsequent feelings toward a given officeholder.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>A process of political talk radio influence on perceived fairness of the 2000 election and subsequent feelings toward Bush is hypothesized and found to exist in the data. Use of this largely conservative public affairs information outlet makes citizens feel better about Bush and worse about Gore. Notably, the negative influence on Gore is roughly twice that of the direct effect on feelings toward Bush. Political talk radio, although significantly related to perceived fairness at the zero order, is not found to have a direct influence on this outcome variable once feelings toward Bush and Gore are taken into account. Instead, political talk radio has two indirect influences on perceived fairness (through Bush and Gore feelings) that serve to bolster a sense of evenhandedness in the outcome of the 2000 election. Political talk radio use during the 2000 election is also found to have a long-term indirect influence on post-2002 election cycle feelings toward Bush through its effects on feelings toward the two major-party candidates and the perceived fairness of the election. This study's findings speak to the importance of analyzing indirect media effects in political communication research <ref type="bibr" target="#b16">(Holbert and Stephenson 2003)</ref>. To better understand the nature of media influence,researchers have to detail a process of influence that elaborates on how or why an effect takes place. These are exactly the types of questions that can be answered through the study of mediation <ref type="bibr" target="#b3">(Baron and Kenny 1986)</ref>. Political talk radio, although not having a direct effect on the perceived fairness of the 2000 election or subsequent feelings toward Bush, still plays an important role in determining not just how the electorate embraced the 2000 electoral outcome but also how these perceptions worked for Bush once in office.</p><p>There is no question that perceptions concerning the fairness of the 2000 election have an effect on subsequent attitudes toward Bush. This is true even after taking into account voters' previously identified feelings toward both major-party candidates. It is debatable as to whether political talk radio is serving a democratic function in making citizens feel better about George W. Bush. On one hand, there are advantages to having an electorate get behind its leader. However, there are still major questions concerning the role of the popular vote versus the electoral college in determining who will be the nation's chief executive <ref type="bibr" target="#b6">(Benoit et al. 2004</ref>). The author of this work does not wish to take a direct stand on this issue. Instead, all this study can conclude is that the largely conservative outlet of political talk radio serves to enhance the image of Bush and his political legitimacy through its dual influence of making people think not only better of him but worse of his Democratic functional alternative, Gore. These feelings have a direct influence on both the perceived fairness over how Bush was elected as well as citizens' attitudes toward him as president following the first midterm elections of his presidency.</p><p>Future research on the effects of political talk radio should focus not just on direct influences but indirect as well <ref type="bibr" target="#b29">(McGuire 1986)</ref>. The process of political talk radio influence analyzed in this work could be extended to include other potential intervening variables raised in past research (e.g., knowledge, political efficacy, political participation), as well as addressing a broader range of individual-difference variables that may serve to moderate the indirect effects outlined in this study. Also, researchers should not assume talk radio influence to be strictly short term in nature. Long-term effects are evident in this work. Albeit small relative to more pronounced direct effects on the criterion variable from nonmedia endogenous items,these are still important media effects that serve to explain how the use of this public affairs information source during the 2000 election bolsters the political legitimacy of George W. Bush after the 2002 midterm elections.</p><p>It is important to detail the limitations of this secondary analysis of ANES data. The greatest weakness for this study is its heavy reliance on single-item measures. The employing of these types of measures forced the use an observable-variable approach for conducting the SEM analysis. The estimated paths generated by observable variable models are attenuated relative to more advanced latent variable modeling procedures <ref type="bibr" target="#b42">(Stephenson and Holbert 2003)</ref>. Thus, all of the effects found in this study are most likely underrepresenting the true relationships between political talk radio use, feelings toward Bush and Gore, and the perceived fairness of the 2000 election. Various limitations associated with ANES measures have been detailed in past research (e.g., <ref type="bibr">Holbert et al. 2002)</ref>, and future work in this area would be well served to better explicate and operationalize the variables contained in this study <ref type="bibr">(e.g., Chaffee 1991)</ref>.</p><p>This study uses panel data to capitalize on the strengths of SEM <ref type="bibr" target="#b15">(Holbert and Stephenson 2002)</ref>. However, the 2000-02 ANES panel design was not created specifically for the testing of the exact relationships detailed in this study's model. A primary survey design centered on the testing of the exact same model may yield a stronger set of results given that a more appropriate set of time delays between data collection points could be established. The panel design used in this study spans more than two years. A study using the same number of data collection points within a shorter time frame may generate stronger effect sizes <ref type="bibr" target="#b40">(Schwarz et al. 1998)</ref>. The fact that political talk radio use is found to have an influence, albeit indirect, on feelings toward Bush roughly two years after being measured speaks to the potential long-term benefits of this public affairs outlet for conservative officeholders. In addition, <ref type="bibr" target="#b1">Barker (2002)</ref> has shown the effectiveness of experimental work in this area of research. Indeed, the use of strong experimental techniques will allow for specific types of talk radio effects to be better isolated and should also lead to the building of stronger political communication theory <ref type="bibr" target="#b41">(Simon and Iyengar 1996)</ref>. Notes 1. The initial Bush feeling thermometer rating and the lone Gore thermometer rating were obtained at the same point of data collection in the 2000-02 panel design. The two items are strongly correlated with one another at the zero order (r = -.32, p &lt; .001), so the relationship has to be addressed in the structural equation model. Thus, these two items are allowed to freely covary with one another, signaling a noncausal but significant relationship (identified with a curved line in Figure <ref type="figure" target="#fig_1">1</ref>). 2. The χ 2 -distributed test statistic is a poor measure of fit for structure equation models <ref type="bibr" target="#b8">(Bollen 1989</ref>),but <ref type="bibr" target="#b20">Hoyle and Panter (1995)</ref> suggest that it be reported to allow for a comparison of competing models. <ref type="bibr" target="#b15">Holbert and Stephenson (2002)</ref> also suggest the reporting of the expected crossvalidation index (ECVI). <ref type="bibr" target="#b27">MacKinnon et al. (1998)</ref> alternative was created because traditional product of coefficient tests produce product terms that are not normally distributed, resulting in significant reductions in statistical power. 4. The testing of alternative models finds that either mediator is sufficient to produce full mediation. The introduction of both mediators in a single model serves to only further reduce the direct effect of political talk radio use on perceived fairness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.The</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Hypothesis 3 :</head><label>3</label><figDesc>Stronger feelings toward George W. Bush positively affect perceptions of the fairness of the 2000 U.S. presidential election. Hypothesis 4:Stronger feelings toward Albert Gore Jr.negatively affect perceptions of the fairness of the 2000 U.S. presidential election.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc></figDesc><table><row><cell>Exogenous variable effects</cell><cell>Exogenous Variable Sex (Female) Age Education Party ID (Republican) Political Interest Race (Caucasian)</cell><cell>.18 .22 .-.-Talk radio Direct -.12 .-.-.-Indirect .-.-.-.-Gore feelings -.47 .--.02 -.03 Direct .-.-.-.-Indirect .01 .-.-.-Bush feelings .47 .-.01 .01 Direct .-.--.07 .07 Indirect -.01 .-.-.-Fairness .17 .-.33 .01 Direct .--.06 .-.05 Indirect -.01 .--.03 .03 Bush-post-2002 feelings .05 .-.44 .01 Direct .-.06 .-.-Indirect -.01 -.01 -.05 .06</cell><cell>&lt; .05 level. The mark -identifies a nonsignificant path Note: Standardized direct and indirect effects are reported. All path estimates are significant at the p estimate.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Press / Politics 9(3) Summer 2004</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Holbert / Talk Radio and Legitimacy</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biographical Note</head><p>R. Lance <ref type="bibr">Holbert (Ph.D., University of Wisconsin-Madison, 2000)</ref> is an assistant professor in the Department of Communication, University of Delaware. His research interests include the study of political communication, the role of entertainment television in politics, media as environment form effects, and structural equation modeling.</p><p>Address: Department of Communication, University of Delaware, 250 <ref type="bibr">Pearson Hall, Newark DE 19716;</ref><ref type="bibr">phone: (302) 831-1893;</ref><ref type="bibr">fax: (302)</ref> 831-1892; e-mail: holbert@udel.edu.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Rushed Decisions: Political Talk Radio and Vote Choice, 1994-1996</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Barker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="527" to="539" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Rushed to Judgment: Talk Radio, Persuasion, and American Political Behavior</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Barker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Political Talk Radio and Public Opinion</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Knight</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="149" to="170" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Moderator-Mediator Variable Distinction in Social Psychological Research: Conceptual, Strategic, and Statistical Considerations</title>
+		<author>
+			<persName><forename type="first">Reuben</forename><forename type="middle">M</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1173" to="1182" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Americans&apos; Exposure to Political Talk Radio and Their Knowledge of Public Affairs</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">E</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="72" to="86" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Predicting Americans&apos; Exposure to Political Talk Radio in 1996, 1998, and 2000</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">E</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard International Journal of Press/Politics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="9" to="22" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Presidential Campaigns and Democracy</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">L</forename><surname>Benoit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Glenn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Lance</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Holbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="177" to="190" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Dial-In Democracy: Talk Radio and the 1994 Election</title>
+		<author>
+			<persName><forename type="first">Louis</forename><surname>Bolce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerald</forename><surname>De Maio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Muzzio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="457" to="481" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Structural Equations with Latent Variables</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989. 1991</date>
+			<publisher>Sage</publisher>
+			<pubPlace>New York; Chaffee, Steven H; Newbury Park, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Communication Concepts 1: Explication</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">On the Frequency Function of xy</title>
+		<author>
+			<persName><forename type="first">Cecil</forename><forename type="middle">C</forename><surname>Craig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Mathematical Statistics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="1936">1936</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The 2000 Presidential Election</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">L</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lester</forename><surname>Caldeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Spence</forename><surname>Kenyatta</surname></persName>
+		</author>
+		<ptr target="&lt;http://artsci.wustl.edu/legit/&gt;" />
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>St. Louis, MO</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Washington University, Department of Political Science</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Impact of Political Talk Radio Exposure on Attributions about the Outcome of the 1996 U.S. Presidential Election</title>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="332" to="350" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Political Talk Radio: Actions Speak Louder Than Words</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hofstetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">L</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gianos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="501" to="515" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Political Talk Radio: A Stereotype Reconsidered</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hofstetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">C</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melville</forename><forename type="middle">R</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandra</forename><surname>Klauber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolyn</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Toshiyuki</forename><surname>Huie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yuasa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Research Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="467" to="479" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Information, Misinformation, and Political Talk Radio</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hofstetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">T</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gina</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">A</forename><surname>Zari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ingrassia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Research Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="353" to="369" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">T</forename><surname>Lance</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stephenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Structural Equation Modeling in the Communication Sciences</title>
+		<imprint>
+			<date type="published" when="1995">2002. 1995-2000</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="531" to="551" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Importance of Analyzing Indirect Effects in Media Effects Research: Testing for Mediation in Structural Equation Modeling</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">T</forename><surname>Lance</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stephenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="553" to="569" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Role of Communication in the Formation of an Issue-Based Citizenry</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">L</forename><surname>Lance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Glenn</forename><forename type="middle">J</forename><surname>Benoit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-C</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="296" to="310" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Patterns in the Exposure and Influence of the Old News and the New News</title>
+		<author>
+			<persName><forename type="first">Barry</forename><forename type="middle">A</forename><surname>Hollander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mass Comm Review</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="144" to="155" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Fuel to the Fire: Talk Radio and the Gamson Hypothesis</title>
+		<author>
+			<persName><forename type="first">Barry</forename><forename type="middle">A</forename><surname>Hollander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="355" to="369" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Writing about Structural Equation Models</title>
+		<author>
+			<persName><forename type="first">Rick</forename><forename type="middle">H</forename><surname>Hoyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abigail</forename><forename type="middle">T</forename><surname>Panter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Structural Equation Modeling: Comments, Issues, and Applications</title>
+		<editor>
+			<persName><forename type="first">Rick</forename><forename type="middle">H</forename><surname>Hoyle</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria versus New Alternatives</title>
+		<author>
+			<persName><forename type="first">Li-Tze</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Political Talk Radio: The Limbaugh Effect on Primary Voters</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="367" to="381" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Polarizing Effects of News Media Messages</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="158" to="174" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Testing Structural Equation Models</title>
+		<author>
+			<persName><forename type="first">Karl</forename><forename type="middle">G</forename><surname>Jöreskog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testing Structural Equation Models</title>
+		<editor>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">Scott</forename><surname>Long</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Newbury Park, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Data Analysis in Social Psychology</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deborah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Kashy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bolger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Social Psychology</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Daniel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Susan</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gardner</forename><surname>Fiske</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Lindzey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>4th Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Effects of Political Talk Radio on Political Attitude Formation: Exposure versus Knowledge</title>
+		<author>
+			<persName><forename type="first">Gangheong</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="369" to="394" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A New Method to Test for Mediation</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">P</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chondra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeanne</forename><forename type="middle">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hoffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Presented at the annual meeting of the Society for Prevention Research</title>
+		<meeting><address><addrLine>Park City, UT</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998-06">1998. June</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A Comparison of Methods to Test Mediation and Other Intervening Variable Effects</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">P</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chondra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeanne</forename><forename type="middle">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">G</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virgil</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sheets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="83" to="104" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Mcguire</surname></persName>
+		</author>
+		<title level="m">The Myth of Massive Media Impact: Savagings and Salvagings</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>Public Communication and Behavior</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Resurveying the Boundaries of Political Communication Effects</title>
+		<author>
+			<persName><forename type="first">Doug</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jack</forename><forename type="middle">M</forename><surname>Kosicki</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mcleod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Effects:Advances in Theory and Research</title>
+		<editor>
+			<persName><forename type="first">Jennings</forename><surname>Bryant</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dolf</forename><surname>Zillmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>2nd Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">On the Nature of Mass Media Effects</title>
+		<author>
+			<persName><forename type="first">Jack</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Byron</forename><surname>Reeves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Television and Social Behavior:Beyond Violence and Children</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><forename type="middle">B</forename><surname>Withey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ronald</forename><forename type="middle">P</forename><surname>Abeles</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum</publisher>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Moy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Pfau</surname></persName>
+		</author>
+		<title level="m">With Malice toward All? The Media and Public Confidence in Democratic Institutions</title>
+		<meeting><address><addrLine>Westport, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Media Use and Public Confidence in Democratic Institutions</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Moy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leeann</forename><surname>Kahlor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="137" to="158" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Framing Support for the Supreme Court in the Aftermath of Bush v. Gore</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">P</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="676" to="695" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Talk Radio and Evaluations of President Clinton</title>
+		<author>
+			<persName><forename type="first">Diana</forename><surname>Owen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="333" to="353" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Populistic Deliberation and Talk Radio</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">I</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Tannenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="33" to="54" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Influence of Political Talk Radio on Confidence in Democratic Institutions</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Moy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Lance</forename><surname>Holbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erin</forename><surname>Szabo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wai-Kuo</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weiwu</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="730" to="745" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The Influence of Individual Communication Media on Public Confidence in Democratic Institutions</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Moy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Radler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">K</forename><surname>Bridgeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Southern Communication Journal</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="91" to="112" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">A Method for Comparing Completely Standardized Solutions in Multiple Groups</title>
+		<author>
+			<persName><forename type="first">Tenko</forename><surname>Raykov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">A</forename><surname>Marcoulides</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="292" to="308" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Survey Methods</title>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Groves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Howard</forename><surname>Schuman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Social Psychology</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Daniel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Susan</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gardner</forename><surname>Fiske</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Lindzey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>4th Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Toward Theory-Based Research in Political Communication</title>
+		<author>
+			<persName><forename type="first">Adam</forename><forename type="middle">F</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shanto</forename><surname>Iyengar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Science &amp; Politics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="29" to="33" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>PS</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">A Monte Carlo Simulation of Observable versus Latent Variable Structural Equation Modeling Techniques</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">T</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Lance</forename><surname>Holbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="332" to="354" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Measuring Political Legitimacy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Weatherford</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stephen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Effect of Call-In Political Talk Radio Shows on Their Audiences: Evidence from a Multi-Wave Panel Analysis</title>
+		<author>
+			<persName><forename type="first">Itzhak</forename><surname>Yanovitzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="377" to="397" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

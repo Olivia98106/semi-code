@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">On the Communicative Underpinnings of Campaign Effects: Presidential Debates, Citizen Communication, and Polarization in Evaluations of Candidates</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2014-11-18">18 November 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jaeho</forename><surname>Cho</surname></persName>
+							<email>jaecho@ucdavis.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Yonsei University</orgName>
+								<address>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Davis</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yerheen</forename><surname>Ha</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Yonsei University</orgName>
+								<address>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">On the Communicative Underpinnings of Campaign Effects: Presidential Debates, Citizen Communication, and Polarization in Evaluations of Candidates</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Political Communication</title>
+						<title level="j" type="abbrev">Political Communication</title>
+						<idno type="ISSN">1058-4609</idno>
+						<idno type="eISSN">1091-7675</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">29</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="184" to="204"/>
+							<date type="published" when="2014-11-18">18 November 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6F0777BDCCA787FCEEC944685C951A76</idno>
+					<idno type="DOI">10.1080/10584609.2012.671233</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>presidential debates</term>
+					<term>debate effects</term>
+					<term>political conversation</term>
+					<term>campaign communication mediation</term>
+					<term>active audience</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previous research on presidential debates has largely focused on direct effects of debates on viewers. By expanding the context of debate effects to post-debate citizen communication, this study moves beyond the direct and immediate impact of debate viewing and investigates indirect effects of debate viewing mediated by debate-induced citizen communication.</head><p>Results from two-wave panel data collected before and after the 2004 presidential debates show that, as previous literature has suggested, debate viewing leads to partisan reinforcement and that these debate effects are in part mediated through post-debate political conversation. These findings provide a new layer of complexity to our understanding of the mechanisms underlying debate effects.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Political communication research suggests that, when exposed to campaign inputs, people tend to process information selectively and compare it with their own life experiences <ref type="bibr" target="#b16">(Dawson, 2001;</ref><ref type="bibr" target="#b21">Gamson, 1992;</ref><ref type="bibr" target="#b35">Luker, 1984;</ref><ref type="bibr" target="#b45">Pan &amp; Kosicki, 2005)</ref>. Such intrapersonal reflective processes suggest that rather than being passive consumers of campaign media, people are active in campaign communication processes. From this point of view, campaign effects are often considered an outcome of interactions between campaign inputs and voter psychology <ref type="bibr" target="#b27">(Just et al., 1996)</ref>. Of course, such active processing of campaign messages does not necessarily promise normative principles in rational reasoning (i.e., logical deliberation, thoughtfulness, or impartiality) <ref type="bibr" target="#b12">(Cho et al., 2009)</ref>. Rather, the audience's information-processing efforts are sometimes guided by emotionality and habitual reasoning, which may lead to biased processing. Nonetheless, the idea of active audience highlights the need for understanding the role the audience itself plays in campaign effects.</p><p>In the context of presidential debates, the interplay between campaign inputs and voters has also been considered a key mechanism underlying debate effects <ref type="bibr" target="#b33">(Lanoue, 1992;</ref><ref type="bibr" target="#b52">Sigelman &amp; Sigelman, 1984)</ref>. One conclusion shared by much research on presidential debates is that debate viewing tends to reinforce the partisan preferences viewers held prior to debate exposure. That is, viewers tend to watch and interpret the debates through their own partisan lens. Although the interaction between televised debates and viewers' political predispositions explains how mediated campaign events produce effects, this view is largely limited to the intrapersonal process and is often limited to the debate itself or to the time period immediately following the debate. It is also possible, however, that after watching the debates viewers would turn to other available communication channels to seek further information on the content of the debates and to share their initial reactions to the debates <ref type="bibr" target="#b8">(Carlin &amp; McKinney, 1994;</ref><ref type="bibr" target="#b14">Coleman, 2000;</ref><ref type="bibr" target="#b29">Kennamer, 1987;</ref><ref type="bibr" target="#b39">McLeod, Durall, Ziemke, &amp; Bybee, 1979;</ref><ref type="bibr" target="#b46">Patterson, 2000)</ref>. In this scenario, the debate-induced social communication processes provide viewers an opportunity to reflect on the debates they watched and to form (or update) their evaluation of the candidates. When viewed from this perspective, the meaning of active audience seems to be broader than previously conceptualized, involving not only a thorough processing of media messages but also an active engagement in information seeking and communication.</p><p>Within this context, the present study investigates the indirect effects of debate viewing mediated via post-debate citizen communication, a possibility that has remained unexamined in debate research. Given the interconnectedness in citizens' campaign communication repertoires (e.g., debate viewing, ad exposure, news consumption, political talk) <ref type="bibr" target="#b11">(Cho, 2008;</ref><ref type="bibr" target="#b30">Kenski &amp; Stroud, 2005;</ref><ref type="bibr" target="#b51">Shah et al., 2007)</ref>, the potential indirect effects of debate viewing channeled through post-debate communication represent an additional and more realistic explanation of debate effects. By examining the communicative underpinnings of debate effects, this study aims to expand the context of debate effects and contribute to the understanding of debate effect mechanisms. Drawing on two-wave panel data collected before and after the 2004 presidential debates, we present an empirical examination of how everyday citizen communication behaviors mediate debate effects on partisan reinforcement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Debate Viewing and Partisan Reinforcement</head><p>A number of studies on televised debates have demonstrated that debate viewing "largely reinforces existing predispositions rather than substantially changing previously held images of candidates, issue orientations, or voting intentions" <ref type="bibr">(Sigelman &amp; Sigelman, 1984, p. 624</ref>; see also <ref type="bibr" target="#b3">Benoit, Hansen, &amp; Verser, 2003;</ref><ref type="bibr" target="#b26">Jamieson &amp; Birdsell, 1988;</ref><ref type="bibr" target="#b28">Katz &amp; Feldman, 1962;</ref><ref type="bibr" target="#b33">Lanoue, 1992;</ref><ref type="bibr" target="#b50">Sears &amp; Chaffee, 1979;</ref><ref type="bibr" target="#b55">Zhu, Milavsky, &amp; Biswas, 1994)</ref>. Although it remains to be clarified whether partisan polarization occurs because presidential debates encourage viewers to form more favorable opinions of their preferred candidate, be more critical of the opposing candidate, or both, previous research consistently reveals that Democratic and Republican viewers move further away from each other after watching debates. Through partisan alignment, debate viewing is thought to lead to the polarization of viewers, especially those who have a partisan attachment.</p><p>The mechanisms underlying partisan reinforcement by presidential debates have been discussed primarily in terms of how viewers process highly partisan cues and messages presented in the debates. Drawing on insights from the social psychology of attitude change, <ref type="bibr" target="#b52">Sigelman and Sigelman (1984)</ref> argue that "people generally strive to maintain cognitive consistency and more readily assimilate new information consistent with, not discrepant from, prior stances" (p. 624). Such a tendency to readily accept messages consistent with prior attitudes and to discredit counterattitudinal messages offers an explanation of why partisans interpret the same debates differently. That is, as <ref type="bibr" target="#b33">Lanoue (1992)</ref>  This account based on the psychology of attitude change, although plausible, provides limited explanations of how debate viewing leads to partisan reinforcement. When viewed from a more holistic approach to campaign communication, it is likely that televised debates not only directly influence viewers' evaluations of candidates but also promote subsequent information seeking and political conversation through which viewers may reflect on the debates and revise their initial candidate evaluation. This study moves beyond the direct impact of debate viewing and investigates the communicative mechanisms through which debate viewing reinforces viewers' preexisting partisan ideas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Televised Debates as a Catalyst for Information Seeking and Conversation</head><p>Although understudied, it is likely that initial exposure to debates may become the basis for debate-and election-related communication activities <ref type="bibr" target="#b8">(Carlin &amp; McKinney, 1994;</ref><ref type="bibr" target="#b14">Coleman, 2000)</ref>. We seek explanations of this link between debate viewing and communication behaviors from how the debates are performed and delivered to the public. As <ref type="bibr" target="#b38">Martin (2004)</ref> points out, studies of campaign mobilization "suffer from a nearly universal problem of using 'interest' as a placeholder for mechanisms that are ill understood" (p. 549). Given the complexities in campaign practices and voter response, it appears quite simplistic to reduce all mechanisms underlying campaign effects to political interest stimulated by campaigns. Recognizing this, the remainder of this article discusses three explanations of debate effects on communication behaviors in relation to unique characteristics of televised debates.</p><p>First, televised debates as political contests display high levels of controversy and conflict between the candidates, a fact that makes debate viewing highly emotional <ref type="bibr" target="#b43">(Mutz &amp; Reeves, 2005</ref>; see also <ref type="bibr" target="#b47">Pfau &amp; Eveland, 1994)</ref>. More specifically, the candidates' mutual criticism presented in the debates likely elicits negative emotions such as anger, fear, and anxiety from the viewers. As functional theories of emotion <ref type="bibr" target="#b20">(Frijda, 1988)</ref> suggest, these negative emotions will then motivate voters to actively engage in subsequent actions to maintain their values and goals. Such actions might include not only actively processing external stimuli (i.e., the debates) but also seeking new information related to those stimuli from other available sources. Lending empirical support for this assertion, <ref type="bibr" target="#b37">Marcus, Neuman, and MacKuen (2000)</ref> found that negative feelings about candidates lead people to "experience a heightened motivation to learn, to gather contemporary information, to know more about the issues and where the candidates stand on the issues" (p. 61). In sum, it is likely that when people feel angry or become anxious in the face of debate contentiousness, they become more vigilant, paying more attention to their environment (i.e., the race and politics) and attempting to acquire relevant information beyond what they have learned from the debates.</p><p>A second rationale for debate effects on communication behavior comes from viewers' feelings of uncertainty. Literature in psychology suggests that interpersonal consensus is considered a standard for accuracy, while disagreement is considered a source of uncertainty <ref type="bibr" target="#b22">(Hastie &amp; Rasinsky, 1988;</ref><ref type="bibr" target="#b31">Kruglanski, 1989)</ref>. In televised debates, there is seldom consensus between candidates and contradiction is a common feature. It is, therefore, expected that the discrepant opinions on issues would provoke a sense of uncertainty. This feeling of uncertainty might be further heightened when candidates strategically avoid making clear points in the debates. As <ref type="bibr" target="#b34">Lengle and Lambert (1994)</ref> point out, "in debates, ambiguity is an asset; clarity, a liability. Taking specific positions on issues needlessly Downloaded by [York University Libraries] at 22:16 18 November 2014 alienates those with opposing views. Moreover, clear positions are hard to defend and, once announced, difficult to abandon <ref type="bibr">" (p. 195)</ref>. For these reasons, candidates often do not present themselves clearly and, accordingly, campaign debates have been criticized for their lack of substantive exchange. In sum, the contradictory nature of debates coupled with candidates' strategic ambiguity may lead viewers to feel a high level of uncertainty and, thus, prompt them to engage in uncertainty-reducing behaviors. That is, as the uncertainty reduction theory <ref type="bibr" target="#b5">(Berger &amp; Calabrese, 1975)</ref> suggests, uncertainty motivates people to resolve it by seeking information and clarifying the ambiguous situation. In the context of televised debates, uncertainty evoked by contradiction and ambiguity may lead viewers to downgrade the value or credibility of the candidates' points and instead seek out alternative evidence or information after the debates. Since most people turn to news media and their social networks when seeking information, a perception of uncertainty stimulated by watching debates is likely to translate into active news consumption and political conversation.</p><p>Lastly, the ritualistic nature of televised debates can also explain debate effects on everyday citizen communication. Since 1976, it has been customary in American politics for debates to be broadcast every election cycle. Major candidates have had a series of debates in front of the camera, and millions of viewers have watched them. Although they do not exactly qualify as "media events" that monopolize media channels and public attention and integrate people into rituals of national societies <ref type="bibr" target="#b17">(Dayan &amp; Katz, 1992)</ref>, "[a] televised debate is more than an event. It is an act of community. For an hour and a half, millions of Americans involve themselves actively in a collective political experience" <ref type="bibr">(Patterson, 2000, p. 5)</ref>. Indeed, televised debates provide a rare opportunity for citizens to experience the same political event at the same moment. It is then likely that this collective, ritualized political experience activates a motivation for integration and social interaction, which leads people to consult news media and their social networks to gain more insight into or share their impression of the event.</p><p>In sum, the reasoning outlined above suggests that the mediated events of elite debates encourage active citizen communication through at least three routes. First, the heightened mutual criticism in the debates triggers negative emotions, which lead viewers to engage in information seeking and conversation. Second, the disagreement between the candidates combined with the strategic ambiguity in the debates elicits feelings of uncertainty about campaign issues and the current race. To reduce this uncertainty, people tend to seek relevant and accurate information through news and their social network channels. Lastly, the collective experience built through watching debates may provide a basis for communication and, thus, promotes citizen communication activities. Consistent with these rationales, <ref type="bibr" target="#b30">Kenski and Stroud (2005)</ref> provide empirical evidence that debate viewing is positively related to news consumption and political conversation. Results from their bivariate analyses suggest that debate viewers exhibited higher levels of news consumption and political discussion than their non-debate-viewing counterparts. Based on the abovementioned reasoning and the previous research findings, we expect that debate viewing will be positively related to post-debate communication (i.e., national news use and political conversation) even after controlling for viewers' pre-debate communication behaviors, interest in politics, residence in a battleground state, and demographics. preexisting candidate preference. Early theories of voting behavior suggested that political information seeking and processing is highly partisan <ref type="bibr" target="#b4">(Berelson, Lazarsfeld, &amp; McPhee, 1954;</ref><ref type="bibr" target="#b6">Campbell, Converse, Miller, &amp; Stokes, 1960)</ref>. It was found that voters preferred information favorable to their partisan orientation. Echoing these early findings, later research has emphasized party identification as a factor guiding political information seeking, processing, and decision making <ref type="bibr" target="#b15">(Conover &amp; Feldman, 1989;</ref><ref type="bibr" target="#b25">Iyengar &amp; Hahn, 2009;</ref><ref type="bibr" target="#b48">Rahn, 1993)</ref>. That is, people pay selective attention to news stories depending on how consistent they perceive the information to be with their partisan view, and they further interpret the stories in a way that corroborates their prior attitude. This assertion is at least partially supported by the hostile media perception literature <ref type="bibr" target="#b53">(Vallone, Ross, &amp; Lepper, 1985)</ref>, which suggests that partisan attachment drives people to perceive media coverage as biased against their political views, even when it is not. Given such partisan bias in information selection and processing, news use is expected to strengthen individuals' previously held candidate preferences.</p><p>On the other hand, people often construct their everyday communication networks pursuant to their political predispositions by associating with people who have similar political views and preferences. This pattern of homophily in political conversation has been consistently found in a number of political communication studies. <ref type="bibr" target="#b24">Huckfeldt and Sprague (1995)</ref>, for example, observed that Reagan supporters were more likely to have discussions with other Reagan supporters in the 1984 presidential election than they were with non-Reagan voters. Similarly, <ref type="bibr" target="#b36">MacKuen (1990)</ref> found that the likelihood of engaging in a political discussion was related to how similar one's conversational environment is to one's own political position. Given the homogeneous nature of everyday political discussion, it is plausible to expect that individuals develop and reinforce their preexisting political views through political discussion. In the same vein, <ref type="bibr" target="#b7">Carey (1989)</ref> claims that interpersonal discussion serves to reinforce group identity by creating a situation "in which a particular view of the world is portrayed and confirmed" (p. 20). That is, political views and identities are often transmitted and ritualized through communication with similarminded people. Thus, as <ref type="bibr" target="#b2">Beck (1991)</ref> argues, political discussions function as "protective cocoons for an individual's political preferences" (p. 379).</p><p>Taken as a whole, given the partisan bias in information processing and the homogenous nature of political conversation, we predict that citizen communication will lead to partisan polarization in candidate evaluation. That is, effects of news consumption and political conversation on candidate favorability ratings will be moderated by partisanship. For Democrats, news consumption and political conversation will be positively related to the Democratic candidate's favorability rating and negatively related to the Republican candidate's favorability rating. For Republicans, on the other hand, communication behaviors will be positively related to the Republican candidate's favorability rating and negatively related to the Democratic candidate's favorability rating.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A Mediated Moderation Model of Debate Effects</head><p>The proposed relationships outlined in the previous sections introduce the possibility that debate-induced partisan polarization could be mediated via post-debate communication behaviors. As documented in much debate research, debate effects on candidate evaluation depend on viewers' partisan identification or prior attitudes toward candidates. That is, debate viewing reinforces political preferences viewers held beforehand. Such an interactive effect between debate viewing and viewers' political disposition is then likely to be mediated through communication behaviors spurred by debate viewing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Downloaded by [York University Libraries] at 22:16 18 November 2014</head><p>Two subprocesses constitute the proposed mediation. First, viewing debates is expected to encourage viewers to engage in news consumption and political conversation. Then political information seeking and communication is, in turn, hypothesized to influence viewers' candidate favorability judgments. We do not expect the first part of the mediation (debate viewing to citizen communication) to be conditioned by the moderator (partisanship). Democrats and Republicans alike are anticipated to engage in information seeking and conversation after watching debates. In the latter part of the mediation process (citizen communication to candidate evaluation), however, it is expected that there will be moderation by partisanship. Given selectivity in political information seeking and processing driven by partisan motivation, it is likely that there is an interaction between viewers' post-debate communication behavior and their partisanship when it comes to candidate evaluation. Post-debate citizen communication is thus theorized to be an intervening mechanism that is responsible for partisan reinforcement by debate viewing.</p><p>By integrating all of the above rationales, we propose a mediated moderation model that suggests that the overall effect of the treatment (i.e., debate viewing) on the outcome (i.e., candidate favorability rating) is moderated by the moderator (i.e., viewer partisanship) and that this interaction is due to the effect of the treatment on the mediator (i.e., citizen communication) and the moderation of the mediator effect on the outcome by the moderator <ref type="bibr">(Muller, Judd, &amp; Yzerbyt, 2005, p.</ref> 857; see also <ref type="bibr" target="#b0">Baron &amp; Kenny, 1986)</ref>. That is, the proposed mediated moderation suggests that partisan reinforcement by debate viewing is mediated via communication behaviors viewers engage in after watching debates. Although highlighting the mediating process via post-debate citizen communication, our model does not suggest that debate effects are fully mediated by news use and political conversation. It is still quite possible, as previous research on debate effects has suggested, that televised debates directly influence viewers' evaluation of candidates by providing information about their stance on issues and personal character. Thus, our hypothesized model proposes a partial mediation of debate effects on partisan reinforcement by post-debate citizen communication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data</head><p>To test the hypothesized model of debate effects, we used a two-wave national panel survey conducted before and after the 2004 presidential debates. This debate panel survey was part of the 2004 National Annenberg Election Survey conducted by the University of Pennsylvania. Data were collected through a national telephone survey using a rolling cross-sectional survey technique (see <ref type="bibr" target="#b49">Romer, Kenski, Winneg, Adasiewicz, &amp; Jamieson, 2006</ref>, for details on sampling and interview procedures). For this national panel survey, a total of 1,248 respondents were interviewed 10 days before the first general election presidential debate (September 20-29) and again during the 11 days after the last presidential debate (October 14-24). Modest reductions in sample size (ranging from 8.9% to 10.6%) were made in the analyses because data were missing for some variables included in the regression equations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement</head><p>Candidate Favorability. Respondents rated each of the two major party candidates on a scale of 0 ("very unfavorable") to 10 ("very favorable"). These variables were measured Downloaded by [York University Libraries] at 22:16 18 November 2014 in the pre-and post-debate panel surveys. The post-debate measures (M = 5.12, SD = 3.77, for Bush; M = 5.27, SD = 3.41, for Kerry) were employed as the criterion variables, and the lagged measures of candidate favorability (M = 5.02, SD = 3.92, for Bush; M = 4.92, SD = 3.44, for Kerry) were used as controls. Our analyses treated the favorability measures for the two candidates as two separate criterion variables rather than creating a relative measure by subtracting one from the other. This is because using the rating of the candidates separately allows us to examine whether debate viewing directly and/or indirectly increases the supporting candidate's favorability, decreases the opposing candidate's favorability, or both.</p><p>Debate Viewing. This key independent variable was measured using post-debate survey questions that asked respondents whether and, if yes, how much they watched each of the three presidential debates in the 2004 presidential race. The one vice presidential debate during the campaign period was not taken into consideration because our model only predicted the favorability of the presidential candidates. To tap the varying degrees of engagement in viewing each debate, a 4-point scale was used, with 1 being "did not watch," 2 being "some of it," 3 being "most of it," and 4 being "yes, all of it." These items for the three debates were rescaled running from 0 (did not watch) to 1 (yes, all of it) and then summed into an index of overall debate exposure (M = 1.70, SD = 1.09, ? = .85). Data indicate that a total of 27.1% of respondents watched all three debates, while 14.4% did not watch any of the debates.</p><p>Communication Behavior. First, national television news use was measured twice, once before and once after the debates, by asking respondents how many days in the past week they had watched national news programs. Their responses were recorded on an 8-point scale ranging from 0 ("never") to 7 ("every day") (M = 3.03, SD = 2.09, for post-debate measure; M = 3.27, SD = 2.10, for pre-debate measure). Although media use is better tapped by a combination of exposure and attention (see <ref type="bibr" target="#b18">Eveland, Hutchens, &amp; Shen, 2009</ref>, for a comprehensive review of this issue), we considered only exposure because of low reliability estimates between the exposure and attention measures (alphas being .44 and .42 for post-debate and pre-debate measures, respectively). We decided to use only the exposure items on the following two grounds: (a) the exposure measures were more parallel to how the other criterion variables were measured (i.e., engagement in political conversation in the past week) than the attention measures and (b) a large number of the data were missing in the attention measures.</p><p>Second, two forms of political conversation (i.e., talk with family or friends, talk with people at work) were measured twice, once before and once after the debates. Respondents were asked how many days in the past week they had discussed politics with their family or friends and people at work. These responses were recorded on an 8-point scale ranging from "never" (0) to "every day" (7). These two items of political talk were treated separately because the reliability estimates were not satisfactory (alphas being .52 and .47 for post-debate and pre-debate measures, respectively), which might be due to the different discussion environments in the two forms of political conversation. Research suggests that political talk with family and friends provides more homogenous communication contexts than other forms of political conversation <ref type="bibr" target="#b2">(Beck, 1991;</ref><ref type="bibr" target="#b24">Huckfeldt &amp; Sprague, 1995;</ref><ref type="bibr" target="#b19">Eveland &amp; Shah, 2003;</ref><ref type="bibr" target="#b42">Mutz &amp; Mondak, 2006)</ref>. Recognizing the different degrees of homophily in the two forms of political conversation, this study included the two forms of political conversation as separate variables in the model (M = 4.06, SD = 2.56, for post-debate talk with family/friends; M = 1.82, SD = 2.29, for post-debate talk at work; Downloaded by [York University Libraries] at 22:16 18 November 2014 M = 3.82, SD = 2.53, for pre-debate talk with family/friends; M = 1.67, SD = 2.18, for pre-debate talk at work).</p><p>Partisanship. The pre-debate survey measured respondents' self-reported party identification on a standard 7-point scale that ranged from strong Democrat (1) to strong Republican (7) (M = 3.95, SD = 2.21). The data suggest that about 92% of the respondents expressed a party attachment (Democrats = 47.3%, Republicans = 44.8%), although strength of partisanship varied.</p><p>Control Variables. Analyses controlled for demographic variables and residence in a battleground state. Five demographic variables were measured in the pre-debate survey: age, sex (a dummy variable with female coded 1), income, education, and race (a dummy variable with White coded 1). Age (M = 51.54, SD = 15.91) was measured in years. Sex (female = 58%) and race (White = 88.9%) are self-explanatory. Respondents' level of education was measured on a 9-point scale ranging from elementary to post-graduate school (M = 5.97, SD = 2.18). Household income was also measured on a 9-point scale, with 1 being "less than $10,000" and 9 being "more than $150,000" (M = 5.58, SD = 2.00). A dichotomous measure of battleground state residence was determined by whether the respondent reported living in one of the states classified as "battleground" states by both CNN.com and Time.com (residence in a battleground state = 38.2%).</p><p>In addition, campaign interest was controlled. Given the possibility that campaign interest spurred by debate viewing might influence both citizen communication (i.e., news use and political conversation) and partisan reinforcement of favorability ratings, the hypothesized relationship between citizen communication and candidate evaluations needs to be tested with the potential confounder, campaign interest, being taken into account. Campaign interest was measured in the post-debate survey by a single item that asked respondents how closely they followed the campaign for president. Their responses were first recorded on a 4-point scale with 1 being "very closely" and 4 being "not at all." These responses were then reverse coded to make higher values represent higher levels of interest in the campaign (M = 3.36, SD = 0.74).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>To assess the hypothesized mediated moderation model, we followed analytic strategies suggested by <ref type="bibr" target="#b41">Muller et al. (2005)</ref>. Three sets of regression models were fitted. The first regression model tested whether the overall effect of debate viewing was moderated by viewers' partisanship. The following regression model was estimated twice, once for each of the two candidates (Bush and Kerry). Lastly, in the third regression model, both partial effects of the mediator (i.e., citizen communication) on the criterion variable (i.e., favorability rating) and the residual effect of debate viewing on the criterion variable were allowed to be moderated by partisanship while mediators and other blocking variables were controlled. To assess favorability ratings for Bush and Kerry separately, the same regression model was estimated twice, once for Bush and once for Kerry. (3)</p><p>To establish mediated moderation, the estimated regression models must satisfy three conditions <ref type="bibr" target="#b41">(Muller et al., 2005)</ref>. First, the interactive effect between debate viewing and partisanship on the favorability rating in Model 1 (b 13 ) is significant. Second, either (or both) of the following two patterns needs to be observed in Models 2 and 3: (a) Both the moderation of debate effects on citizen communication by partisanship (b 23 ) and the effects of citizen communication on favorability ratings (b 34 ) are significant and/or (b) both the debate effect on citizen communication (b 21 ) and the moderation of communication effects on favorability ratings by partisanship (b 35 ) are significant. Since our theoretical model does not expect debate effects on citizen communication to be moderated by partisanship, our test for the proposed mediated moderation will focus on the latter of the two conditions. Third, the moderation of the residual effect of debate viewing on favorability ratings by partisanship (b 33 ) in Model 3 should be reduced in magnitude compared to the moderation of the overall debate effect on favorability ratings by partisanship (b 13 ) in Model 1. If all three of these conditions are satisfied, one can claim that overall partisan reinforcement (moderation of debate effects on candidate evaluation by party identification) is produced, at least in part, by citizens' post-debate communication behaviors.</p><p>It should also be noted that each of the regression models included a lagged value of the criterion variable as a predictor of the criterion variable, which allows us to predict panel respondents' current attitude/behavior with key independent variables of our interest, with their past attitudes and behaviors controlled. The longitudinal approach made possible by the panel design of the data provides a more rigorous test of the hypothesized model <ref type="bibr" target="#b1">(Bartels, 2006)</ref>. To increase interpretability of regression coefficients, all variables, excluding the dependent variable in each regression model, were centered around their sample means, and interaction terms were constructed as multiplicative products of the sample-mean-centered variables (see <ref type="bibr" target="#b23">Hayes, 2005</ref>, for a detailed discussion of centering in a regression with interaction terms). Downloaded by [York University Libraries] at 22:16 18 November 2014</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Debate Viewing and Partisan Reinforcement</head><p>The results from Model 1, especially the equation for Kerry's favorability rating, show evidence of the predicted partisan reinforcement by debate viewing (see Model 1 in Table <ref type="table" target="#tab_1">1</ref>). As hypothesized, debate viewing was associated with a decreasing rating of Kerry's favorability as party identification varied from strong Democrat to strong Republican (b 13_Kerry = -.062, SE = .020, p &lt; .01). Consistent with previous literature on debate effects, the overall effect of debate viewing on Kerry's favorability was moderated by viewers' party identification. Unlike the pattern found for Kerry's favorability, however, the debate effect on Bush's favorability rating did not vary as a function of viewer party identification (b 13_Bush = .013, SE = .019, ns).</p><p>Among main effect variables, debate viewing was positively associated with Kerry's favorability (b 11_Kerry = .187, SE = .054, p &lt; .001) and negatively with Bush's favorability (b 11_Bush = -.120, SE = .050, p &lt; .05) at the sample mean of partisanship, which was slightly skewed toward the Democratic side (3.95 out of a 7-point scale, with 7 being strong Republican). At the average level of debate viewing, partisanship measured as varying from strong Democrat to strong Republican was negatively associated with Kerry's favorability rating (b 12_Kerry = -.311, SE = .031, p &lt; .001) and positively with Bush's favorability rating (b 12_Bush = .241, SE = .029, p &lt; .001). Not surprisingly, when the level of debate exposure was at the sample average, Republicans gave lower ratings to Kerry and more favorable ratings to Bush than did their Democratic counterparts. All findings of the main and interaction effects were yielded with the control variables (i.e., lagged measures of candidate favorability rating, campaign interest, residence in a battleground state, and demographic variables) considered simultaneously.</p><p>To better understand the interaction between debate viewing and viewer party identification, we examined debate effects on candidate evaluation at three representative values of party identification: strong Democrat (1), Independent (4), and strong Republican (7). To test conditional debate effects for strong Democrats, we created a new variable of party identification by subtracting 1, the value assigned to strong Democrat, from the original measure of party identification. A new interaction term was created accordingly (Debate Viewing × New Party Identification); then Model 1 was reestimated. In the transformed regression, the coefficient for debate viewing (b 11 ) quantifies debate effects when party identification is 1 (strong Democrat). The same procedure was repeated for other values of party identification (Independent and strong Republican). The estimated conditional effects of debate viewing at the three values of party identification illustrate the nature of the interaction between debate viewing and party identification on favorability ratings.</p><p>As shown in Figure <ref type="figure" target="#fig_2">1</ref>, for strong Democrats, debate viewing was significantly associated with an increase in Kerry's favorability rating (b 11_Kerry = .369, SE = .081, p &lt; .001) and significantly associated with a decrease in Bush's favorability rating (b 11_Bush = -.157, SE = .075, p &lt; .05) with all control variables simultaneously considered. In contrast, for strong Republicans, debate viewing did not yield any significant change in the evaluation of either candidate. Further worth noting is that viewers who identified themselves as neither Republican nor Democrat showed the same pattern as Democratic viewers. That is to say that in this group, debate viewing led to a positive rating of Kerry (b 11_Kerry = .184, SE = .054, p &lt; .001) and a negative rating of Bush's favorability (b 11_Kerry = -.119, SE = .050, p &lt; .05). All in all, our data suggest that Kerry benefitted more than Bush from the presidential debates. Downloaded by [York University Libraries] at 22:16 18 November 2014 Notes:</p><p>1. An unstandardized coefficient was reported for each line.</p><p>2. A lagged Kerry favorability rating, campaign interest, battleground state residence, and demographics were controlled. 3. Interaction between debate viewing and party identification is significant (b = -.062, SE = .020, p &lt; .01).</p><p>Notes:</p><p>1. An unstandardized coefficient was reported for each line.</p><p>2. A lagged Bush favorability rating, campaign interest, battleground state residence, and demographics were controlled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Interaction between debate viewing and party identification</head><p>is not significant (b = .013, SE = .019, ns). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Debate Viewing to Communication Behaviors</head><p>The results of Model 2 in Table <ref type="table" target="#tab_1">1</ref> show that, at the average level of partisanship, debate viewing led to an increase in both national news consumption (b 21_News = .262, SE = .045, p &lt; .001) and political talk with family/friends (b 21_Talk Family = .274, SE = .064, p &lt; .001) but was not significantly associated with post-debate political talk at work (b 21_Talk Work = .091, SE = .056). On the other hand, partisanship was not a significant predictor of communication behavior. At the average level of debate viewing, party identification varying from strong Democrat to strong Republican was not associated with any form of communication behavior (news use or political conversation). Further, the interaction between debate viewing and partisanship on citizen communication was not significant, indicating that debate effects on communication behavior did not differ as viewers' party identification varied. These findings emerged with all of the control variables (i.e., lagged measures of communication behavior, campaign interest, battleground state residence, and demographic variables) considered simultaneously. Overall, these results show that after watching debates, Democrats and Republicans alike tended to engage in information seeking and political conversation with family and friends. This finding is consistent with previous research that suggests that debate exposure may promote subsequent communication behavior <ref type="bibr" target="#b8">(Carlin &amp; McKinney, 1994;</ref><ref type="bibr" target="#b14">Coleman, 2000;</ref><ref type="bibr" target="#b30">Kenski &amp; Stroud, 2005;</ref><ref type="bibr" target="#b39">McLeod et al., 1979;</ref><ref type="bibr" target="#b46">Patterson, 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Communication Behaviors to Candidate Favorability Evaluation</head><p>As hypothesized, individuals' everyday political communication activities, especially political talk with family/friends, led to partisan polarization in evaluations of candidate favorability (see Model 3 in Table <ref type="table" target="#tab_1">1</ref>). Political talk with family/friends was associated with lower favorability ratings for Kerry and with more favorable ratings of Bush as party identification varied from strong Democrat to strong Republican (b 35_Kerry = -.024, SE = .010, p &lt; .05, for Kerry; b 35_Bush = .019, SE = .009, p &lt; .05, for Downloaded by [York University Libraries] at 22:16 18 November 2014 Notes:</p><p>1. An unstandardized coefficient was reported for each line. 2. A lagged Kerry favorability rating, campaign interest, battleground state residence, and demographics were controlled. 3. Interaction between talk and party identification is significant (b = -.024, SE = .010, p &lt; .05).</p><p>Notes:</p><p>1. An unstandardized coefficient was reported for each line.  Bush). Results of additional analyses for conditional effects of political talk at the three values of party identification (strong Democrat, Independent, and strong Republican) further illustrate the interaction between political talk and party identification on candidate evaluation (see Figure <ref type="figure" target="#fig_4">2</ref>). For strong Democrats, political talk with family/friends was negatively related to Bush's favorability rating (b 34_Bush = -.060, SE = .036, p &lt; .10).</p><p>Similarly, strong Republicans rated Kerry's favorability lower as political conversation with family/friends increased (b 34_Kerry = -.100, SE = .037, p &lt; .01). For both groups (strong Democrats and strong Republicans), however, political talk was not significantly associated with an increase in their own candidate's favorability rating. For Independents, political talk with family/friends was associated with no change in either candidate's favorability rating. Again, these results were found after controlling for demographics, campaign interest, battleground state residence, and prior values of candidate favorability rating.</p><p>In sum, our findings suggest that the effect of political talk with family/friends on candidate evaluation varied as a function of respondents' party identification. For Democrats talk with family/friends was negatively related to the Republican candidate's favorability rating, while for Republicans such political conversation was negatively related to the Democratic candidate's favorability rating. Thus, partisan polarization by political talk with family/friends occurred in such a way that partisan voters became more critical of the opposing candidate, yet did not grow more supportive of their own candidate.</p><p>Such partisan polarization by citizen communication was not observed, however, for other forms of communication behavior. Neither news use nor political talk at work interacted with viewer party identification in explaining candidate evaluation. A further finding worth noting is that, at the sample mean of party identification, political talk at work was related to Bush's favorability rating, but only in a negative direction (b = -.056, SE = .022, p &lt; .05). That is, talk at work did not lead to partisan reinforcement. Instead, it led voters to be more critical of Bush. Taken together with the results for talk with family/friends, this finding might reflect differential effects of political conversation, depending on who people speak to about politics. Downloaded by [York University Libraries] at 22:16 18 November 2014</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Test of Mediated Moderation</head><p>Results from Models 1 through 3 lend support for our mediated moderation model of debate effects, especially when it comes to estimating Kerry's favorability. The three criteria for mediated moderation, discussed in the previous section, were all satisfied. First, overall moderation of debate effects on Kerry's favorability ratings by party identification (b 13 in Model 1) was significant. Second, both debate effects on talk with family/friends (b 21 in Model 2) and moderation of talk effects on Kerry's favorability rating by party identification (b 35 in Model 3) were significant. As a result, the moderation of the residual effects of debate viewing on Kerry's favorability (b 33 ) in Model 3 was reduced in magnitude compared to the overall moderation of debate effect (b 13 ) in Model 1. However, neither news use nor political talk at work acted as a factor mediating the moderation of debate effects by party identification in the Kerry equation.</p><p>On the other hand, although a pattern similar to that of Kerry's favorability was observed, results for Bush's favorability failed to establish mediated moderation because the overall moderation of debate effects by viewer party identification, which is the first criterion for mediated moderation, was not significant. In sum, the results from Models 1 through 3 show evidence of the proposed mediated moderation model estimating debate effects on Kerry's favorability rating. There was an overall moderation of debate effects, and political conversation, especially that with like-minded people (i.e., talk with family/friends), was the process through which the overall moderated debate effect on candidate evaluation was produced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Confirming the suggestions of previous literature on debate effects, the findings of this study demonstrate that the effect of debates on candidate evaluation varies as a function of viewer party identification. However, the moderation of debate effects was observed only when predicting Kerry's favorability rating. For all but the Republicans, debate viewing was associated with an increase in Kerry's favorability; the effect was most pronounced for Democratic voters and moderate for Independents. Bush's favorability, on the other hand, showed no overall debate effect moderation by viewer party identification. One pattern emerging from the two regression equations is that partisan reinforcement was robust only among Democratic voters. As expected, Democrats became more favorable to Kerry and less favorable to Bush as debate viewing increased. For Republican voters, however, debate viewing neither increased Bush's favorability rating nor decreased Kerry's.</p><p>This asymmetry between Kerry's and Bush's favorability ratings and between the Democratic and Republican voters might be reflective of the debate performance of the two candidates. Given that the post-debate polls suggested that Kerry did a better job than Bush <ref type="bibr" target="#b13">(CNN, 2004)</ref>, the debates were mediated messages that served to confirm and reinforce Democrats' preexisting partisan preferences. However, despite Bush's underperformance (and Kerry's outperformance) in the debates, partisan bias led Republican viewers to neither withdraw their support for their own candidate nor develop a favorable impression of the opposing candidate. As a result, Republicans' attitudes toward the two candidates remained virtually unchanged after watching the debates. The results for Independents are also consistent with the post-debate poll results. It is plausible that the debates in which Kerry outperformed Bush encouraged Independent viewers to perceive Kerry more favorably and Bush less favorably as debate viewing increased. In sum, our results suggest that Kerry benefitted more than Bush from the debates in terms of mobilizing his partisan base Downloaded by [York University Libraries] at 22:16 18 November 2014 and persuading voters who did not have strong partisan attachments. The findings also suggest that partisan reinforcement by debate viewing is neither automatic nor universal for all partisan voters. It is likely that debate effects depend on the dynamics of candidates' debate performance. It is also possible that partisan reinforcement is most likely to occur for both partisan groups when two candidates are tied.</p><p>This study also reveals that debate viewing encouraged viewers, regardless of partisanship, to engage in post-debate information seeking and political conversation, especially with family and friends. The presidential debates, functioning as both a political ritual and as a contest between two highly visible candidates, motivated viewers to gather further information and share their impression of the event by consulting news media and their social networks. Such communicative responses to the debates were observed as a general pattern and were not moderated by viewer party identification.</p><p>A further noteworthy finding is that debate viewing was not associated with workplace-based political conversation when campaign interest, a lagged measure of political talk at work, residence in a battleground state, and demographics were controlled. A possible explanation for this finding is that the uneven debate performance of the two candidates (and the media verdict on who won the debates) discouraged voters from having a conversation in an environment characterized by weak social ties and political heterogeneity <ref type="bibr" target="#b2">(Beck, 1991;</ref><ref type="bibr" target="#b24">Huckfeldt &amp; Sprague, 1995;</ref><ref type="bibr" target="#b42">Mutz &amp; Mondak, 2006)</ref>. However, further research is needed to investigate whether the null finding for talk at work is due to the nature of workplace political conversation, the idiosyncrasies of the 2004 presidential debates, or a combination of the two.</p><p>These debate-induced communication behaviors, especially political conversation with family and friends, then interacted with party identification to influence how viewers evaluated candidates. For Democrats political talk with family and friends was negatively associated with Bush's favorability, while for Republicans it was negatively associated with Kerry's favorability. Yet, for both partisan groups, Democrats and Republicans, such talk was not associated with an increase in the favorability ratings of their preferred candidate. Thus, political talk with like-minded people induced partisan polarization by making voters more critical of the candidates they opposed. It is possible that this is because talk with like-minded people concentrates more on criticism of the opposing candidate than on praise of one's supporting candidate.</p><p>Finally, the testing of mediated moderation suggests that the moderation of debate effects by party identification was produced via the chain of relationships, from debate viewing to talk with family/friends and then from talk with family/friends to the evaluation of the candidates. The mediated moderation was not established, however, when predicting Bush's favorability rating. This, as discussed above, stems from the lack of empirical support for the overall moderation of debate effects by party identification. This pattern of mediated moderation of debate effects speaks to the importance of post-debate social communication processes in the understanding of the mechanisms underlying debate effects. In previous research, the focus has been largely on psychological mechanisms directed toward explaining direct effects of debates on viewer learning and decision making. Our analysis, however, suggests that debate effects are explained not only by psychological interactions between debates and viewers but also by communication behaviors in which viewers engage after watching a debate. Given that debate viewing is interconnected with, not isolated from, individuals' everyday communication practices <ref type="bibr" target="#b39">(McLeod et al., 1979)</ref>, our analysis, which found support for indirect debate effects mediated by citizen communication, extends and enriches the literature by providing an additional and realistic explanation of debate effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Downloaded by [York University Libraries] at 22:16 18 November 2014</head><p>The results of our study are also in line with current political communication scholarship emphasizing communication-to-communication processes, especially during campaign periods <ref type="bibr" target="#b12">(Cho et al., 2009;</ref><ref type="bibr" target="#b51">Shah et al., 2007)</ref>. Recognizing the connectedness in various forms of campaign communication, the campaign communication mediation model by Shah and his colleagues suggests that citizen communication is a critical mediator between campaign stimuli (i.e., political advertising) and behavioral responses <ref type="bibr">(2007, p. 697)</ref>. Within this context, our findings extend the campaign communication mediation model to televised debates and contribute to the understanding of how elite campaign inputs interplay with everyday citizen communication activities in the production of campaign effects. Further, the findings of our study resonate with the broader literature that theorizes the mediating and contextualizing roles of interpersonal discussion in political communication processes <ref type="bibr" target="#b9">(Chaffee, 1982;</ref><ref type="bibr" target="#b10">Chaffee &amp; Mutz, 1988;</ref><ref type="bibr" target="#b24">Huckfeldt &amp; Sprague, 1995;</ref><ref type="bibr" target="#b40">Mondak, 1995)</ref>.</p><p>All in all, the observed relationships in this study point to the importance of postdebate citizen communication processes when theorizing and studying debate effects. As shown in the results, debate effects on candidate evaluation are at least partially mediated by debate-induced citizen communication, and such mediation further differs depending on the nature (or network characteristics) of interpersonal discussion in which viewers engage afterwards. This point echoes <ref type="bibr" target="#b32">Lang and Lang's (1978)</ref> claim about the importance of the "total communication environment" to understanding of debate effects (p. 322).</p><p>The results of the communicative mechanisms underlying debate effects also shed light on the nature of active audience. The concept of active audience has been discussed largely in terms of the psychological processes of information processing. When processing media images, the audience is thought to actively employ their psychological resources acquired through past experience. However, the findings of this study suggest that, rather than being limited to the psychological processing of media messages, active audience also includes information seeking and interpersonal conversation. That is, when processing and evaluating debates, viewers do not merely rely on psychological resources such as existing political dispositions but also utilize social communication resources such as social networks. It is through these communication processes that people may revisit their initial thoughts or impressions of the new messages and have another chance to reflect on them with additional information from other sources. Thus, everyday communication behaviors such as news use and interpersonal conversation are an important theoretical underpinning of the notion of active audience.</p><p>We conclude by acknowledging some caveats about our results. First, the data used in this study do not allow us to rule out alternative explanations for our results. Given that presidential debates take place at the height of campaign season (from late September through mid-October), debate viewers are likely also exposed to other campaign activities during the debate period. Those who watched the debates more than others might have experienced more non-debate campaign inputs than those who did not watch or who watched less. Thus, any net change in post-debate communication behavior or candidate evaluation can be not solely due to debate viewing but also due in part to influences from other sources of campaign information and mobilization. This concern becomes even more serious when considering the imprecise nature of the self-reported measure of campaign exposure <ref type="bibr" target="#b54">(Vavreck, 2007)</ref>. For example, if those who claimed to have more conversation in the post-debate survey were prone to report more debate watching, the biased recall would be responsible, at least in part, for the significant relationship between self-reported debate exposure and political conversation. If this is the case, it is also possible that people Downloaded by [York University Libraries] at 22:16 18 November 2014 engaged in political conversation in the post-debate period for reasons other than debate viewing (e.g., exposure to political advertising or the regional dynamics of campaign competition) and reported a higher level of debate viewing than others. This, in turn, might account for some of the results presented in this study.</p><p>To address or, minimally, to mitigate these concerns, our study employed panel survey data by which post-debate communication and candidate evaluations were analyzed as a function of corresponding pre-debate measures and intervening campaign debate exposure (see <ref type="bibr" target="#b1">Bartels, 2006)</ref>. Further, our analyses controlled for residence in a battleground state as a proxy, albeit rough, for overall local-level campaign intensity. Nonetheless, because, as with much survey-based campaign research, the possibility of the inference problem lies in the inability of the study design to directly isolate and pinpoint the effects of specific causal variables, caution should be taken before making strong inferences about the mediated moderation of debate effects. To gain more confidence in the results, future research should devise and implement an experimental design to isolate the causal factor. Further, the mechanisms offered as explanations for debate effects on communication behavior should be formally tested in experiments in which specific aspects (e.g., controversy, ambiguity) of debates are isolated and tested.</p><p>Second, the variable of debate exposure was constructed as a composite measure in which exposure to each of the three presidential debates was weighted equally. We acknowledge that this composite measure of debate exposure does not precisely capture the potentially different impact of each debate. After all, it is possible that the first Bush-Kerry debate, which drew the most viewers <ref type="bibr" target="#b44">(Nielsen Media Research, 2008)</ref>, was more influential than the other two debates. At the same time, it is likely that the impact of this first debate would have decayed more than those of the two later debates because it took place longer before the interview. To address this issue, future research should examine debate-effect dynamics by using multiwave panel data in which debate viewing, postdebate communication, and candidate evaluations are measured separately for each debate.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Favorability</head><label></label><figDesc>rating t = b 10 + b 11 Debate viewing + b 12 Party ID + b 13 Debate × Party ID + b 14 Favorability rating t-1 + b 15 Control + ε 1 . (1) Citizen communication t = b 20 + b 21 Debate viewing + b 22 Party ID + b 23 Debate × Party ID + b 24 Citizen communcation t-1 + b 25 Control + ε 2 (2)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Favorability</head><label></label><figDesc>rating t = b 30 + b 31 Debate viewing + b 32 Party ID + b 33 Debate × Party ID + b 34 Citizen communication t + b 35 Citizen communication t × Party ID + b 36 Favorability rating t-1 + b 37 Control + ε 3 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Moderation of debate effects by party identification.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>2. A lagged Bush favorability rating, campaign interest, battleground state residence, and demographics were controlled. 3. Interaction between talk and party identification is significant (b = .019, SE = .009, p &lt; .05).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Moderation of political talk effects by party identification.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>pointed out, debate viewers tend not only to judge claims made by their favored candidate as more convincing but also tend to filter out or to interpret with a critical eye what the Downloaded by [York University Libraries] at 22:16 18 November 2014 opposing candidate argues. The biased processing of debate messages then makes viewers' preexisting political preferences stronger, resulting in partisan reinforcement.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Mediated moderation model of debate effects Entries are unstandardized OLS coefficients with standard errors in parentheses. Values in bold were estimated to test the proposed mediated moderation.</figDesc><table><row><cell>Model 1 Model 2 Model 3</cell><cell>Post-debate Post-debate</cell><cell>Post-debate Kerry Post-debate Bush Post-debate national Post-debate talk Post-debate talk Kerry Bush</cell><cell>favorability favorability news use with family/friends at work favorability favorability</cell><cell>Debate viewing .187 (.054)  *  *  *  -.120 (.050)  *  .262 (.045)  *  *  *  .274 (.064)  *  *  *  .091 (.056) .188 (.055)  *  *  *  -.114 (.052)  *</cell><cell>Party ID -.311 (.031)  *  *  *  .241 (.029)  *  *  *  -.003 (.019) -.029 (.026) -.007 (.023) -.316 (.032)  *  *  *  .248 (.030)  *  *  *</cell><cell>(Republican =</cell><cell>high)</cell><cell>Debate Viewing -.062 (.020)  *  *  .013 (.019) .012 (.017) -.025 (.024) -.020 (.021) -.035 (.023) -.006 (.021)</cell><cell>× Party ID</cell><cell>Post-debate .011 (.026) .016 (.025)</cell><cell>national news</cell><cell>Post-debate talk -.028 (.023) .000 (.021)</cell><cell>with</cell><cell>family/friends</cell><cell>Post-debate talk .019 (.024) -.056 (.022)  *</cell><cell>at work</cell><cell>National News × -.019 (.012) -.001 (.011)</cell><cell>Party ID</cell><cell>Talk with -.024 (.010)  Talk at Work Family/Friends × Party ID × .003 (.010) .003 (.009)</cell><cell>Party ID</cell><cell>Age -.006 (.003)  *  .003 (.003) .016 (.003)  *  *  *  -.004 (.004) -.015 (.003)  *  *  *  -.008 (.003)  *  .001 (.003)</cell><cell>Education -.027 (.025) -.047 (.023)  *  -.024 (.021) .038 (.029) .070 (.026)  *  *  -.027 (.025) -.039 (.024) #</cell></row></table><note><p><p>*</p>.019 (.009) *</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>News, Conversation, and Partisan AlignmentOnce induced to engage in communication behavior after watching debates, people will likely seek information and converse with fellow citizens in ways that strengthen their Downloaded by [York University Libraries] at 22:16 18 November 2014</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>The second model assessed the effects of debate viewing on the mediators (i.e., news consumption and political conversation). This model allowed debate effects on the mediators to be moderated by viewers' partisanship. Downloaded by [York University Libraries] at 22:16 18 November 2014</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Downloaded by [York University Libraries] at 22:16 18 November 2014</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix A: Question/Item Wording Sex: The interviewer observed the respondent's sex from his or her voice.</p><p>Age: What is your age? (exact age in years)</p><p>Race: What is your race-White, Black or African American, Asian, Native American or American Indian, or some other race?</p><p>Education: What is the last grade or class you completed in school? (1 = Grade 8 or lower; 2 = high school, no diploma; 3 = high school diploma or equivalent; 4 = technical or vocational school after high school; 5 = college, no degree; 6 = associate's or 2-year college degree; 7 = 4-year college degree; 8 = graduate or professional school after college, no degree; 9 = graduate or professional degree) Income: Last year, what was the total income before taxes of all the people living in your house or apartment? (1 = less than $10,000, 2 = $10,000-$15,000, 3 = $15,000-$25,000, 4 = $25,000-$35,000, 5 = $35,000-$50,000, 6 = $50,000-$75,000, 7 = $75,000-$100,000, 8 = $100,000-$150,000, 9 = more than $150,000) Campaign Interest: How closely are you following the campaign for president? (1 = very closely, 2 = somewhat closely, 3 = not too closely, 4 = not closely at all) (reverse coded) Debate Viewing: Did you happen to watch the presidential debate on Thursday, September 30, between George W. Bush and John Kerry focusing on foreign policy? If yes, did you watch all, most, or just some of it? Did you happen to watch the presidential debate on Friday, October 8, between George W. Bush and John Kerry where voters got to ask questions of the candidates? Did you happen to watch the presidential debate on Wednesday, October 13, between George W. Bush and John Kerry focusing on domestic issues? Did you happen to watch the vice presidential debate on Tuesday, October 5, between Dick Cheney and John Edwards? (1 = yes, all; 2 = most; 3 = just some of it; 4 = did not watch) (reverse coded) Partisanship: Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Independent, or something else? (1 = Republican, 2 = Democrat, 3 = Independent, 4 = something else); If not Republican or Democrat, do you think of yourself as closer to the Republican or Democratic party? (1 = Republican, 2 = Democratic, 3 = neither Republican nor Democrat) National News Use: How many days in the past week did you watch the national network news on TV? By national network news, I mean Peter Jennings on ABC, Dan Rather on CBS, Tom Brokaw on NBC, and the Jim Lehrer NewsHour on PBS. How many days in the past week did you watch a 24-hour cable news channel, such as CNN, Fox News Channel, or MSNBC? (0 = never, 7 = every day) Political Talk: How many days in the past week did you discuss politics with your family or friends? How many days in the past week did you discuss politics with people at work? (0 = never, 7 = every day)</p><p>Candidate Favorability: On a scale of 0 to 10, how would you rate George W. Bush/John Kerry? Zero means very unfavorable, and 10 means very favorable. Five means you do not feel favorable or unfavorable. Of course you can use any number between 0 and 10. Downloaded by [York University Libraries] at 22:16 18 November 2014</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1173" to="1182" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Three virtues of panel data for the analysis of campaign effects</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Bartels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Capturing campaign effects</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Brady</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Johnston</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ann Arbor</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="134" to="163" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Voters&apos; intermediation environments in the 1988 presidential contest</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="371" to="394" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A meta-analysis of the effects of viewing U.S. presidential debates</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Benoit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Verser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="335" to="350" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Voting: A study of opinion formation in a presidential campaign</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Berelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Lazarsfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Mcphee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Some explorations in initial interaction and beyond: Toward a developmental theory of interpersonal communication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Calabrese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="99" to="112" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Converse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Stokes</surname></persName>
+		</author>
+		<title level="m">The American voter</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Carey</surname></persName>
+		</author>
+		<title level="m">Communication as culture: Essays on media and society</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hyman</publisher>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The 1992 presidential debates in focus</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Carlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mckinney</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1618-11">1994. 16 18 November 2014</date>
+			<publisher>Praeger</publisher>
+			<biblScope unit="volume">22</biblScope>
+			<pubPlace>Westport, CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note>York University Libraries</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mass media and interpersonal channels: Competitive, convergent, or complementary?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Inter / media: Interpersonal communication in a media world</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Gumpert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cathart</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="57" to="77" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparing mediated and interpersonal communication data</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advancing communication science: Merging mass and interpersonal processes</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hawkins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wiemann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">S</forename><surname>Pingree</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Newbury Park, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="19" to="43" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Political ads and citizen communication</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="423" to="451" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Campaigns, reflection, and deliberation: Advancing an O-S-R-O-R model of communication effects</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Scholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gotlieb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="66" to="88" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Polls: Kerry won debate</title>
+		<author>
+			<persName><surname>Cnn</surname></persName>
+		</author>
+		<ptr target="http://www.cnn.com/2004/ALLPOLITICS/10/03/election.poll/index.html" />
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Meaningful political debate in the age of the soundbite</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Televised election debates: International perspectives</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Coleman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>St. Martin&apos;s Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="1" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Candidate perceptions in an ambiguous world: Campaigns, cues, and inference processes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Conover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="917" to="940" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Black visions: The roots of contemporary African-American political ideologies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Dawson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</author>
+		<title level="m">Media events: The live broadcasting of history</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Exposure, attention, or &quot;use&quot; of news? Assessing aspects of the reliability and validity of a central concept in political communication research</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hutchens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="223" to="244" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The impact of individual and interpersonal factors on perceived news media bias</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="101" to="117" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The law of emotion</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Frijda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="349" to="358" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Talking politics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Gamson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The concept of accuracy in social judgment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Rasinsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The social psychology of knowledge</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Bar-Tal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Kruglanski</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="193" to="209" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Statistical methods for communication science</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Erlbaum</publisher>
+			<pubPlace>Mahwah, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Citizens, politics, and social communication: Information and influence in an election campaign</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huckfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sprague</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Red media, blue media: Evidence of ideological selectivity in media use</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Hahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="19" to="39" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Presidential debates: The challenge of creating an informed electorate</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Jamieson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Birdsell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Just</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Crigler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Alger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>West</surname></persName>
+		</author>
+		<title level="m">Crosstalk: Citizens, candidates, and the media in a presidential campaign</title>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The debates in light of research: A survey of surveys</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Feldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The great debates: Kennedy vs</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="1960">1962. 1960</date>
+			<biblScope unit="page" from="173" to="223" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Debate viewing and debate discussion as predictors of campaign cognition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kennamer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="114" to="118" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Who watches presidential debates? A comparative analysis of presidential debate viewing in 2000 and 2004</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kenski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Stroud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="213" to="228" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The psychology of being &quot;right&quot;: The problem of accuracy in social perception and cognition</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Kruglanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="395" to="409" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Immediate and delayed responses to a Carter-Ford debate: Assessing public opinion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="322" to="341" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">One that made a difference: Cognitive consistency, political knowledge and the 1980 presidential debate</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lanoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="168" to="184" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Presidential debates should not be required</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Lengle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Lambert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Controversial issues in presidential selection</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Rose</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="187" to="198" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Abortion and the politics of motherhood</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Luker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Speaking of politics: Individual conversational choice, public opinion, and the prospects for deliberative democracy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mackuen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Information and democratic processes</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ferejohn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kuklinski</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Urbana</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Illinois Press</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="59" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Artificial intelligence and political judgment</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Neuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mackuen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Inside the black box of negative campaign effects: Three reasons why negative campaigns mobilize</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="545" to="562" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Reactions of young and older voters: Expanding the context of debate effects</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Durall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Ziemke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Bybee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The great debates: Carter vs. Ford</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="1976">1979. 1976</date>
+			<biblScope unit="page" from="348" to="367" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Media exposure and political discussion in U.S. elections</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mondak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="62" to="85" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">When moderation is mediated and mediation is moderated</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Judd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Yzerbyt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="852" to="863" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The workplace as a context for cross-cutting political discourse</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mondak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="140" to="155" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The new video malaise: Effects of televised incivility on political trust</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reeves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Highest rated presidential debates: 1960 to present</title>
+		<author>
+			<persName><forename type="first">Media</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Research</surname></persName>
+		</author>
+		<ptr target="http://blog.nielsen.com/nielsenwire/media_entertainment/top-ten-presidential-debates-1960-to-present/" />
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Framing and the understanding of citizenship</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Kosicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The evolution of key mass communication concepts</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Dunwoody</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Becker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Kosicki</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hampton Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="165" to="204" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Election 2000: How citizens &quot;see&quot; a presidential debate</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Joan Shorenstein Center on the Press, Politics and Public Policy</publisher>
+			<pubPlace>Boston, MA; Harvard University</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Debates versus other communication sources: The pattern of information and influence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The 1992 presidential debates in focus</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Carlin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mckinney</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Westport, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="155" to="176" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The role of partisan stereotypes in information processing about political candidates</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Rahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="472" to="496" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Romer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kenski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Winneg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adasiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Jamieson</surname></persName>
+		</author>
+		<title level="m">Capturing campaign dynamics</title>
+		<imprint>
+			<date type="published" when="2000">2006. 2000. 2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>The National Annenberg Election Survey. Philadelphia: University of Pennsylvania</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Uses and effects of the 1976 debates: An overview of empirical studies</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sears</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chaffee</surname></persName>
+		</author>
+		<editor>S. Kraus</editor>
+		<imprint>
+			<date type="published" when="1976">1979. 1976</date>
+			<publisher>Indiana University Press</publisher>
+			<biblScope unit="page" from="223" to="261" />
+			<pubPlace>Ford; Bloomington</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The great debates: Carter vs</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Campaign ads, online messaging, and participation: Extending the communication mediation model</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gotlieb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Scholl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="676" to="703" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Judgments of the Carter-Reagan debate: The eyes of the beholders</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sigelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Sigelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="624" to="628" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The hostile media phenomenon: Biased perceptions and perceptions of media bias in coverage of the Beirut massacre</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Vallone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Lepper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="577" to="585" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The exaggerated effects of advertising on turnout: The dangers of self-reports</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vavreck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="325" to="343" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Do televised debates affect image perception more than issue knowledge? A study of the first 1992 presidential debate</title>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Milavsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Biswas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="302" to="333" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

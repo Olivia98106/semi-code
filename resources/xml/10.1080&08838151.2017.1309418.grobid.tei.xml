@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Second Screening Donald Trump: Conditional Indirect Effects on Political Participation</title>
+				<funder>
+					<orgName type="full">Digital Media Research Program</orgName>
+					<orgName type="abbreviated">DMRP</orgName>
+				</funder>
+				<funder ref="#_Njenedf">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2017-04-03">2017-04-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Shannon</forename><forename type="middle">C</forename><surname>Mcgregor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Florida</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Texas at Austin</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Rachel</forename><forename type="middle">R</forename><surname>Mourão</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Florida</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Texas at Austin</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Second Screening Donald Trump: Conditional Indirect Effects on Political Participation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Broadcasting &amp; Electronic Media</title>
+						<title level="j" type="abbrev">Journal of Broadcasting &amp; Electronic Media</title>
+						<idno type="ISSN">0883-8151</idno>
+						<idno type="eISSN">1550-6878</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">61</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="264" to="290"/>
+							<date type="published" when="2017-04-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">249E6D406399E136EB6F6F27263E8438</idno>
+					<idno type="DOI">10.1080/08838151.2017.1309418</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>As second screening becomes more widespread, this study addresses its mediating role on the impact of TV news in political participation online and offline, and how this impact varies across groups. We expand the existing line of research by assessing the moderating role of support for Donald Trump on the established mediated model. Through a cross-lagged autoregressive panel survey design applied to the communication mediation model, our results support the link between second screening and political participation-but the mediating role of second screening is contingent upon attitudes towards Trump. For those who do not view Trump favorably, second screening during news leads to a decrease in political participation, both online and offline. As such, this article adds to the communication mediation model by suggesting that discussion and elaboration may not always be positive antecedents to political participation. When individuals disagree with the message dominating TV news and social media, deliberation via second screening leads to political disengagement.</p><p>On August 13, 2015, more 24 million viewers turned to their televisions to watch the first GOP presidential debate featuring Donald Trump. The event was the highest-rated primary debate in television history, and the most watched show in the history of Fox News <ref type="bibr" target="#b52">(Stelter, 2015)</ref>. As Trump clashed with moderator Megyn Kelly about his past misogynistic comments, second screeners flooded social media chatter with debate posts.</p><p>In the following debates, Trump continued to dominate the conversation, drawing millions of viewers with his controversial remarks and confrontational style <ref type="bibr" target="#b26">(Goodin, 2016)</ref>.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In this article we assess the mediating impact of second screening for news on political participation, in particular as it may conduit those who watch TV news in an election season to participatory acts online and offline. Specifically, we ask-can online actions during media events influence one's offline political actions? Taking into consideration the hostile and unusual nature of the 2016 presidential U.S. election, particularly as it relates to social media, we assess the conditional effects of support for a candidate who dominated the political information system during the campaign period on the relationship between second screening for news and political participation. As scholars and practitioners attempt to make sense of the 2016 election, we explore the impact of support for Trump on established models of communication. Building on this, our goal is to unravel the ways in which second screening, as a space for political deliberation, leads to different participatory outcomes for groups belonging to opposite sides of the political spectrum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Second Screening and Political Participation</head><p>Second screening has been conceptualized in political communication literature as a purposive act. While watching a television program, individuals second screen by accessing an additional Web-connected device in order to get more information about or to discuss the program (Gil de Zuñiga, <ref type="bibr" target="#b20">Garcia-Perdomo, &amp; McGregor, 2015)</ref>. This concurrent and purposive act is one example of hybridity in media <ref type="bibr" target="#b11">(Chadwick, 2013;</ref><ref type="bibr" target="#b36">McGregor, Mourao, Neto, Straubhaar, &amp; Angeluci, 2017)</ref>.</p><p>While second screening is emblematic of the increasing connectedness of individuals, it is not simply another form of multi-tasking. Scholars who have studied second screening as a non-purposive act have raised concerns about cognitive abilities regarding multitasking, specifically finding that it may inhibit factual recall and news comprehension <ref type="bibr" target="#b27">(Gottfried, Hardy, Holbert, Winneg, &amp; Hall Jamieson, 2016;</ref><ref type="bibr" target="#b55">Van Cauwenberge, Schaap, &amp; van Roy, 2014)</ref>. However, researchers interested in the role of second screening in politics <ref type="bibr" target="#b4">(Anstead &amp; O'Loughlin, 2011;</ref><ref type="bibr">Gil de Zuñiga et al., 2015;</ref><ref type="bibr" target="#b54">Vaccari, Chadwick, &amp; O'Loughlin, 2015)</ref> have pushed back against this work on two fronts. First, they conceptualize second screening (or dual screening) as purposive, positioning the act as hybrid, rather than separate acts under which multitasking might fall. Secondly, studies evaluating the effects of second screening on pro-democratic outcomes like elaboration, expression, and political participation move the dependent variable beyond simple knowledge retention into real-world acts with real-world implications.</p><p>Second screening well fits Chadwick's concept of the hybrid media system, as an emergent act that embodies the tension between new and old media logics <ref type="bibr">(2013)</ref>. On the one hand, televised programs or events-produced and broadcast largely by legacy media organizations-make up one aspect of second screening. But to this rather top-down media system enters social media whose networked orientation avails a wider range of voices and acts in political conversations <ref type="bibr" target="#b16">(Freelon &amp; Karpf, 2015)</ref>, providing at least the potential to shift traditional flows of power. Second screening, as a virtual form of collocation, is an audience-driven aspect of a converged media atmosphere <ref type="bibr" target="#b36">(McGregor et al., 2017)</ref>-one that gives more agency to the viewers and is a key development in the emerging role of the audience in media studies.</p><p>When understood as a purposive act, second screening provides individuals with additional information, potentially orienting opinions, all in a space where discussion and elaboration are encouraged. Research demonstrates that the mobilizing potential of news media is largely mediated through these very acts-paths theorized as the communication mediation model <ref type="bibr" target="#b37">(McLeod, Scheufele, &amp; Moy, 1999;</ref><ref type="bibr" target="#b49">Shah et al., 2007)</ref> and the cognitive mediation model <ref type="bibr" target="#b14">(Eveland, 2001;</ref><ref type="bibr" target="#b15">Eveland, Shah, &amp; Kwak, 2003)</ref>. These relationships may be especially strong when information seeking and expressive acts are carried out on the Internet or social media (Gil de <ref type="bibr">Zuñiga, Molyneux, &amp; Zheng, 2014)</ref>. A previous study tested this hypothesis for second screening, finding that second screening during news events conduits the influence of television news to online political participation <ref type="bibr">(Gil de Zuñiga et al., 2015)</ref>. Likewise, <ref type="bibr" target="#b54">Vaccari et al. (2015)</ref> find increased political engagement driven by what they typify as "active" second screening behavior-such as commenting on the news event being broadcast.</p><p>In the media effects tradition, under which much TV research was conducted, the audience was usually treated as passive or reactive. While we do not suggest that the audience has always been "passive"-there is no doubt that individuals may now use social media as a tool by which to have a more active role in politics and communication. In fact, this more active role seems to temper the "negative" effects television may have on political attitudes and participatory behavior <ref type="bibr" target="#b6">(Avery, 2009;</ref><ref type="bibr" target="#b10">Cappella &amp; Jamieson, 1997;</ref><ref type="bibr" target="#b39">Mutz &amp; Reeves, 2005)</ref>.</p><p>TV news has been the focus of much research because of its dominance as a source of information, even with the rise of the Internet as a space for news <ref type="bibr">(American Press Institute, 2014;</ref><ref type="bibr" target="#b43">Pew, 2011)</ref>. For example, more than half of Americans surveyed by Pew found some form of television news the most helpful source for learning about the 2016 election, with most reporting cable news was most helpful (24%). Just behind cable news, 14 percent reported that social media was most helpful for learning about the election <ref type="bibr" target="#b43">(Pew, 2016)</ref>.</p><p>The role of second screening in political participation has been studied in the U.S. context, but the data were not collected during a politically compelling period in time, like a presidential election <ref type="bibr">(Gil de Zuñiga et al., 2015)</ref>. As Vaccari et al. point out, second screening (or dual screening) takes on increased relevance for politics during campaign periods where highly mediated events like debates draw strong second screen attention <ref type="bibr">(2015)</ref>. Gil de Zuñiga and colleagues (2015) suggest that second screening for news during elections may more strongly affect online participation. Based on this literature, this study uses a cross-lagged panel design to test the following hypotheses using data from two time points (T 1 and T 2 ): H 1a : Second screening for news (T 1 ) will mediate the path between TV news consumption (T 1 ) and online political participation (T 2 ).</p><p>Furthermore, previous research has not probed the possible effects of second screening on offline participation in the U.S. context. While many studies link social media use to online political acts, some have sought to explore its reach into offline political participation. Using social media to seek political information, one motivation for second screening <ref type="bibr">(Gil de Zuniga et al., 2015)</ref>, has been linked to offline participation in politics (Gil de Zuniga, <ref type="bibr" target="#b21">Jung, &amp; Valenzuela, 2012;</ref><ref type="bibr" target="#b42">Park, Kee, &amp; Valenzuela, 2009)</ref>. Others are motivated to second screen during news by a desire to discuss the program they are watching <ref type="bibr">(Gil de Zuniga et al., 2015)</ref>. Online expression vis-à-vis social media has also been positively related to offline participatory behaviors <ref type="bibr">(Gil de Zuniga, 2009;</ref><ref type="bibr">Gil de Zuniga, Bachmann, Hsu, &amp; Brundridge, 2013;</ref><ref type="bibr">Gil de Zuniga &amp; Valenzuela, 2011)</ref>. Based on this, we aim to extend our inquiry into the offline realm, hypothesizing that second screening provides a space for information seeking, discussion, and elaboration of TV news that may conduit offline political activities.</p><p>H 1b : Second screening for news (T 1 ) will mediate the path between TV news consumption (T 1 ) and offline political participation (T 2 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Second Screening During Elections, Political Disagreement and Donald Trump</head><p>While evidence from the literature suggests a positive impact of second screening to political participation, it would be simplistic to assume this effect is without contingencies. As <ref type="bibr" target="#b57">Valkenburg and Peter (2013)</ref> point out, theories of indirect effects, like the communication mediation model, rarely "conceptualize conditional and indirect media effects" (p. 225). This is not to dismiss the communication mediation model, but rather to identify the role of non-media variables that may moderate the relationship between media-use behaviors, like second screening for news, and political acts, in our case, both online and offline participation in politics. While there are a host of attitudes or beliefs that may moderate this relationship, in this study we choose to focus on a singular source of political fervor in U.S. politics: support for Republican candidate (and now president) Donald Trump. Building on literature about political discussions, a feature of second screening <ref type="bibr">(Gil de Zuniga et al. 2015;</ref><ref type="bibr" target="#b54">Vaccari et al., 2015)</ref>, and disagreement in them, we argue that support for Trump, the most divisive figure in recent political memory, may differentially impact the influence that second screening has on political participation.</p><p>A sub-field of political communication scholarship has examined the nature of political discussions on social media platforms. More and more, social networking sites like Facebook and Twitter function as news sources <ref type="bibr" target="#b43">(Pew, 2015)</ref>. During the 2016 presidential campaign, 44 percent of Americans used social media to learn about the campaign <ref type="bibr" target="#b43">(Pew, 2016)</ref>. There is some debate about the extent to which social media networks are politically heterogeneous (e.g., <ref type="bibr" target="#b29">Himelboim, McCreery, &amp; Smith, 2013;</ref><ref type="bibr" target="#b34">Lee, Choi, Kim, &amp; Kim, 2014)</ref>, but individuals disagree about politics with those in their online social networks to a greater degree than they believe <ref type="bibr" target="#b24">(Goel, Mason, &amp; Watts, 2010)</ref>. This political heterogeneity makes one likely to encounter political disagreement on social media <ref type="bibr" target="#b8">(Barnidge, 2015;</ref><ref type="bibr" target="#b12">Choi &amp; Lee, 2015;</ref><ref type="bibr" target="#b34">Lee et al, 2014)</ref>, but the literature is divided as to whether this disagreement leads to prodemocratic outcomes.</p><p>Some studies suggest that such disagreements relate negatively to political participation <ref type="bibr" target="#b38">(Mutz, 2006;</ref><ref type="bibr" target="#b56">Valenzuela, Kim, &amp; Gil de Zuniga, 2012)</ref>-conflicting views in posts may foment ambivalence <ref type="bibr" target="#b30">(Hutchens, Hmielowski, &amp; Beam 2015;</ref><ref type="bibr" target="#b38">Mutz, 2006)</ref>, increase a fear of isolation <ref type="bibr" target="#b17">(Gearhart &amp; Zhang, 2015;</ref><ref type="bibr">Noelle-Neuman, 1974)</ref>, stimulate anxiety <ref type="bibr" target="#b38">(Mutz, 2006)</ref>, or manifest perceived hostile opinion climates <ref type="bibr">(Scheufele &amp; Moy, 2000)</ref>. Those who often use social media for news and information, one motivation for second screening <ref type="bibr">(Gil de Zuñiga et al., 2015)</ref>, discuss politics less, which may curtail political participation <ref type="bibr" target="#b35">(Lu, Heatherly, &amp; Lee, 2016)</ref>. On the other hand, others suggest political disagreement drives participation <ref type="bibr" target="#b46">(Scheufele, Hardy, Brossard, Wasimel-Manor, &amp; Nisbet, 2006;</ref><ref type="bibr" target="#b51">Song &amp; Eveland, 2015)</ref>, in part by availing alternative perspectives <ref type="bibr" target="#b44">(Price, Cappella, &amp; Nir, 2002;</ref><ref type="bibr" target="#b46">Scheufele et al., 2006)</ref> and fostering reflection, learning, and knowledge gains <ref type="bibr">(Jung, Kim, &amp; Gil de Zuñiga, 2011)</ref>.</p><p>In the context of the 2016 U.S. presidential elections, there was perhaps no greater source of disagreement than the candidacy of Donald Trump. Trump supporters and protesters have come to physical blows at his campaign rallies <ref type="bibr">(Associated Press, 2016)</ref>. Critics claim Trump's inflammatory rhetoric begets this violence <ref type="bibr" target="#b7">(Barbaro, Parker, &amp; Gabriel, 2016)</ref>, and its riotous effects manifest on social media as well. Trump has a social media following that mirrored his electoral popularity. Trump supporters were more likely to criticize Democratic frontrunner Hillary Clinton's sanity, intelligence, and to sexually excoriate her appearance <ref type="bibr" target="#b41">(Nugent &amp; Pierson, 2016</ref>). Trump's campaign was also an unprecedented news media phenomenon, receiving the equivalent of $1.9 billion in TV coverage <ref type="bibr" target="#b13">(Confessore &amp; Yourish, 2016)</ref>.</p><p>In the first time period in which our survey was fielded, coverage of Trump largely focused on his anti-Muslim and anti-immigrant statements in the wake of the Paris and San Bernardino terrorist attacks. Later in the winter and spring, when we fielded our second survey wave, election coverage remained focused on Trump <ref type="bibr" target="#b50">(Silver, 2016)</ref>. Between November and February, the times our survey data were collected, Trump mocked The New York Times reporter Serge Kolakeski for his congenital disability, retweeted fabricated statistics about black crime, got into a dispute with Pope Francis, and proposed a total ban on accepting Muslim refugees <ref type="bibr" target="#b45">(Rupar &amp; Dewan, 2016)</ref>. By the end of February, Trump had won the primaries in New Hampshire, South Carolina, and Nevada. Add to this Pew's finding that, in February, Americans rated cable news as their "most helpful" source of election information, followed closely by social media (2016)-two platforms dominated by coverage of Trump and his messaging.</p><p>We theorize second screening as a communicative mediating process (Gil de <ref type="bibr">Zuniga et al., 2015)</ref>, but posit that this path may be contingent on other factors.</p><p>Political disagreement on social media has been shown to both encourage and discourage political participation, so effects driven by perceived disagreement or hostile environments may moderate the effects of second screening for news on participatory action. We take up a timely, politically relevant, and highly divisive attitude-support for Trump-and test its role as a moderator in this relationship.</p><p>H 2a : Support for Trump (T 1 ) will moderate the relationship between second screening for news (T 1 ) and online political participation (T 2 ).</p><p>H 2b : Support for Trump (T 1 ) will moderate the relationship between second screening for news (T 1 ) and offline political participation (T 2 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>This article adds to the communication mediation model of second screening proposed by Gil de Zuñiga et al. ( <ref type="formula">2015</ref>) by probing the contingent effect of Donald Trump attitudes on the increase in political participation between November 2015 and February 2016 (Figure <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample</head><p>This project uses data from a two-wave U.S. national panel study conducted by the Digital Media Research Program at the University of Texas-Austin. The first wave was administered between November 20 and December 18, 2015. The second Participants for the first wave were recruited from a standing panel managed by Survey Sampling International (SSI). To assure national representativeness, quotas were established matching the distribution of demographics (age, gender, and race) to the U.S. Census, following the recommendation from previous research <ref type="bibr">(Bode, Vraga, Borah, &amp; Shah, 2007;</ref><ref type="bibr">Kim &amp; Chen, 2015;</ref><ref type="bibr" target="#b49">Shah et al., 2007)</ref>. The first wave had a total of 848 completed responses. For the second wave, 426 of the participants completed the questionnaire, yielding a 50 percent retention rate. Appendix I contains the demographics of the sample of participants, compared with the U.S. Census.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>This study assesses the impact of three types of variables on online and offline political participation: 1) demographics, 2) sociopolitical variables, including attitudes towards Trump, and 3) news media use, including TV news use and second screening for news.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent Variables. Online Political Participation.</head><p>This variable refers to the level of political engagement via online-based activities. Participants were asked how often have they been involved in the past 12 months in the following online activities on a 10-point scale (1 = never to 10 = all the time): "Joined a political meeting in support or against a particular candidate, party or issue," "sent an email or message (Facebook comment, tweet) to a national, state or local government official about an issue," "contributed money online or via text message to a political candidate, party or issue," "created, shared or signed an online petition," "volunteered to help with a political cause or candidate's campaign online," and "sent a letter to the editor to a newspaper or magazine by email or text message." The items were combined into a single scale (α = .95, M = 3.19, SD = 2.61 for time 1, and α = .96, M = 3.21, SD = 2.70 for time 2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Offline Political Participation.</head><p>Levels were measured using six items asking how often participants engaged in the following activities in the last 12 months on a 10-point scale (1 = never to 10 = all the time): "Attended a political meeting in support or against a particular candidate, party or issue," "contacted a national, state or local government official by telephone, mail or in person about an issue," "contributed money by mailing a check or calling in a credit card number to a political candidate, party or issue," "created, shared or signed a petition," "volunteered to help with a political cause or candidate," and "sent a 'letter to the editor' by regular mail to a newspaper or magazine." The items were combined in a scale (α = .91, M = 3.38, SD = 2.57 for time 1; α = .92, M = 3.45, SD = 2.68 for time 2).</p><p>Independent Variables of Interest. 1  TV News.</p><p>Participant's use of television for news was assessed by combining four items measuring how often they got news from: cable news (e.g., CNN, Fox News, MSNBC), broadcast national news (e.g., ABC, CBS, NBC), local news (local affiliate stations), and comedic news programs (e.g., Daily Show). The mean for this variable was 5.84 (α = .72, range 1 = never to 10 = all the time, SD = 2.19).</p><p>Second Screening for News.</p><p>For this item, participants were asked how often they second screened in the last 12 months during the following: live political speeches or debates, live election coverage, and live news broadcast on a 10-point scale (1 = never to 10 = all the time). The three items were combined in a single scale (α = .93, M = 5.51 SD = 2.75).</p><p>Trump Attitudes.</p><p>Our analysis includes the moderating impact of attitudes towards Donald Trump. To measure this item, participants were asked to what extent do they agree with the statement: "Donald Trump is going to make America great again" on a 10-point scale where 1 = strongly disagree and 10 = Strong Agree (M = 4.35, SD = 3.20).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Independent Variables as Controls.</head><p>Demographics.</p><p>This study controls for the following demographic characteristics of the participants: age (M = 43.67, SD = 13.99), gender (female = 50.7%), education 2 (M = 3.57, SD = 1,31, range: 1 = less than high school to 6 = Postgraduate or professional degree, including master's, doctorate, medical or law degree), income (M = 4.40, SD = 1.53, range: 1 = Less than $10,000 to 8 = $200,000 or more) and race (white = 63.1%). Discussion Network Size.</p><p>This item was a combination of two questions: How many people have you talked to about politics or public affairs a) online, and b) offline (M = 5.90, SD = 9.62).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political Knowledge.</head><p>For this variable, participants were asked to respond the following open-ended questions, which were recoded into "right" or "wrong": "What job or office does Joe Biden hold?," "for how many years is a United States senator elected?," "what job or political office does John Roberts currently hold?," "which party has the most members in the U.S. House of Representatives?," "who has the final responsibility to determine if a law is constitutional or not?," "which organization's documents did Edward Snowden release?," "the U.S. recently announced that it would be re-establishing diplomatic relations with which country?," "to comply with the health care law, most Americans need to have health insurance coverage when they:," and "John Boehner recently retired from what job or office?" The average number of correct responses was M = 5.47(SD = 1.44).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strength of Partisanship.</head><p>This item was a folded scale of questions asking "Generally speaking, do you usually think of yourself as a Republican, a Democrat, or an Independent," "On social issues, where would you place yourself on a scale of 0-10, where 0 = Strong conservative and 10 = Strong liberal" and "On economic issues, where would you place yourself on a scale of 0-10, where 0 = Strong conservative and 10 = Strong liberal." The items were folded and averaged, with the final scale ranging from 1 = weak partisanship to 5 = strong partisanship (α = .87, M = 3.05, SD = 1.44) Efficacy.</p><p>Six items measured levels of efficacy on a scale from 1 to 10 where 1 = strongly disagree and 10 = strongly agree: "People like me can influence government," "I consider myself well qualified to participate in politics," "I have a good understanding of the important political issues facing our country," "No matter whom I vote for, it won't make a difference," "Parties are interested in people's votes rather than their opinions," and "People like me don't have any say in what the government does." (α = .70, M = 5.42, SD = 1.48). The last three items were reverse coded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Our hypotheses were tested using a two-wave panel data design consisting of three steps. First, mediation models were run using Hayes PROCESS macro model 4 for both online and offline political participation to test research H 1a and H 1b . Then, the full moderated mediation model (Figure <ref type="figure" target="#fig_0">1</ref>) was tested using Hayes's PROCESS macro Model 14 <ref type="bibr" target="#b28">(Hayes, 2013)</ref>, which allows for the assessment of indirect effects contingent upon the levels of a third variable (in this case, support for Trump). All moderated mediation models were auto-regressive; that is, we accounted for the levels of political participation in time 1 in predicting participation in time 2.</p><p>Finally, we zoom in on the moderation effect of Trump attitudes via a set of regressions assessing the relationship between second screening for news and online/offline political participation. The indirect effects by groups were then graphed using Hayes PROCESS macro model 1. All tables presented have the three relations proposed by <ref type="bibr" target="#b33">Kenny (2005)</ref> for a cross-lagged panel design: a) synchronous or cross-sectional, b) simple lagged, and c) autoregressive controlling for stability relations. The cross-sectional regression assesses the impact of second screening for news on time 1 to online/offline participation on time 1. The simple cross-lagged model analyzes the impact of second screening for news on time 1 to online/offline participation on time 2. Then, autoregressive cross-lagged models between second screening for news on time 1 and participation on time 2 were run with a term for political participation on time 1 entered as an independent variable. The goal is to control for stability relations between the outcome variable at T1 and T2. Autoregressive cross-lagged models, such as the ones presented here, allow for the assessment of the influence of the predictor on the outcome beyond the previous level of that same outcome, which can indicate causal patterns <ref type="bibr" target="#b33">(Kenny, 2005)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Before delving into the full models, bivariate correlations reveal that second screening for news is strongly associated with online (Time 1: r = .586, p &lt; .001; Time 2: r = .471, p &lt; .001) and offline political participation (Time 1: r = .546, p &lt; .001;Time 2: r = .460, p &lt; .001) in both times 1 and 2. Support for Trump, our moderating variable, is also positively associated with political participation online (Time 1: r = .396, p &lt; .001; Time 2: r = .378, p &lt; .001) and offline (Time 1: r = .384, p &lt; .001; Time 2: r = .355, p &lt; .001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online Political Participation</head><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the mediation model for the indirect impact of TV news on online political participation through second screening. The coefficient paths among independent (TV news), presumed mediator (second screening for news) and dependent variable (online political participation) are all significant, and the direct effect of TV news on online political participation is fully mediated (c' not significant). The 95% bootstrap confidence intervals for the indirect effects do not contain zero; therefore, mediating effects were evident [H 1a supported]. Figure <ref type="figure" target="#fig_2">3</ref> depicts the full model for the moderated mediation of TV News' impact on online political participation via second screening. The model reveals that the impact of the mediation is contingent upon levels of Trump attitudes. Figure <ref type="figure" target="#fig_2">3</ref> shows the coefficients and standard errors for each path.</p><p>Then, we zoom in on the relationship between second screening and online participation to understand how the interaction with support for Trump manifests. Table <ref type="table" target="#tab_0">1</ref> shows the linear regression models for online political participation using a cross-lagged autoregressive model. As indicated by the cross-sectional regression (Model 1), those who are male (β = -.097, p &lt; .05), younger (β = -.115, p &lt; .05), with larger discussion networks (β = .143, p &lt; .01), lower levels of political knowledge (β = -.216, p &lt; .001), and higher levels of support for Trump (β = .274, p &lt; .001) were more likely to participate online on T1. TV news and second screening for news were also positively associated with higher levels of political participation (β = .112, p &lt; .05; β = .296, p &lt; .001, respectively). The interaction term between second screening and Trump attitudes was not statistically significant at T1 (F-tests not   <ref type="table" target="#tab_0">1</ref> shows the simple lagged regression models with independent variables from T1 and outcome from T2. Those who are younger (β = -.208, p &lt; .001), with larger discussion networks (β = .133, p &lt; .01), lower levels of political knowledge (β = -.254, p &lt; .001), more strongly partisan (β = .123, p &lt; .05), and have more positive Trump attitudes (β = .268, p &lt; .001) were more likely to participate online. Second screening for news was still positively associated with online political participation in time 1, but this effect was contingent upon support for Trump (interaction term β = .459, p &lt; .01). This model explained 45.9 percent of the variance in online political participation.</p><p>Model 3 in Table <ref type="table" target="#tab_0">1</ref> shows the auto-regressive models for online political participation in time 2, controlling for time 1. As expected, the strongest predictor of participation in T2 was participation on T1 (β = .793, p &lt; .001). As a whole, second screening for news was negatively associated with online political participation (β = -.12, p &lt; .01), but this effect was contingent upon levels of support for Trump (β = .301, p &lt; .01). The full auto-regressive model explained 73 percent of the variance. For those who strongly disagree with Trump's statement, the impact of second screening on online political participation was negative (B = -.19, p &lt; .01). For those in the middle, second screening also led to less participation (B = -.09, p &lt; .05). For Trump supporters, second screening had a positive effect on online participation, although it was not statistically significant (B = .004, n.s.). Table <ref type="table" target="#tab_1">2</ref> shows the conditional indirect effects by group, and the graph in Figure <ref type="figure" target="#fig_3">4</ref> depicts the interaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Offline Political Participation</head><p>Research H 1b inquires about mediating effect of second screening for news in the relationship between TV news and offline political participation. Figure <ref type="figure">5</ref> shows that the paths among the mediating variable and outcome are not statistically significant when treating the sample as a uniform group (H 1b rejected). The second set of hypotheses (H 2b ) inquires about a moderated mediation model on the impact of  TV News on offline political participation via second screening, and how it is contingent upon support for Trump for the autoregressive models. Figure <ref type="figure" target="#fig_4">6</ref> depicts this interaction, revealing a significant interaction between second screening and support for Trump-H 2b is supported. Table <ref type="table">3</ref> isolates these relationships via three models: cross-sectional (Model 1), simple lagged (Model 2) and autoregressive (Model 3).</p><p>For the cross-sectional model, those who are younger (β = -.09, p &lt; .05), have a bigger discussion network (β = .12, p &lt; .05), and higher levels of efficacy (β = .112, p &lt; .05) are more likely to participate offline. Perhaps surprisingly, those with lower political knowledge participated more (β = -.287, p &lt; .001). A positive view of Trump is positively and strongly associated with offline political participation (β = .286, p &lt; .001). Those who second screen for news more are also participating offline more (β = .248, p &lt; .001). The interaction term was marginally significant, but the F-test for R-squared change was not, revealing a poor model fit for the last block in the cross-sectional data. Once again, at time 1, the impact of second screening on  participation is not contingent upon support for Trump. The full model explained 51.8 percent of the variance in offline political participation.</p><p>For the simple cross-lagged regression (Model 2), age (β = -.184, p &lt; .01), lower levels of political knowledge (β = -.213, p &lt; .01), positive Trump attitudes (β = .257, p &lt; .001), TV news use (β = .146, p &lt; .05), and second screening for news (β = .135, p &lt; .05) were associated with higher levels of offline political participation. The interaction term Trump attitudes*second screening was significant, suggesting that the importance of support for Trump in this relationship increased between November 2015 and February 2016 (β = .566, p &lt; .01). This simple cross-lagged model explained 43.1 percent of the variance in offline political participation.</p><p>Model 3 shows the results of auto-regressive lagged models for offline participation, which control for offline participation in T1. In this model, previous participation is the strongest predictor of participation in time 2 (β = .704, p &lt; .001), and those who were younger were also more likely to participate (β = -.127, p &lt; .01). The interaction term between Trump attitudes and second screening for news was also significant (β = .381, p &lt; .01). This model explained 66 percent of the variance observed.</p><p>The analysis by group show that for those who strongly disagree with Trump's message, second screening for news leads to less political participation offline (B = -.118, p &lt; .07)-see Table <ref type="table" target="#tab_3">4</ref> and<ref type="table">Figure 7</ref>. While these results are only marginally significant, the evidence is clear: in November, the impact of TV news for offline participation via second screening was not significant. Then, by February, this interaction became strong and significant. The assessment of the increase in participation between the two times (autoregressive models) indicates that the change happened only among those who strongly disagree with Trump's message, whom started participating less after watching TV news and second screening during it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>As second screening becomes a more widespread practice of news consumption, it's increasingly important to understand its role in hybrid media systems and its potential effects on politics. This study sought to expand this emerging line of research in several ways. First, we assess the potential for second screening to conduit offline political engagement. Second, we examine the mediating role of second screening for news on participation in a politically relevant time period, testing the assumption that second screening's effects may be stronger in such times. Finally, we further probe the relationship between second screening and political participation accounting for a source of political disagreement in the 2016 U.S. presidential election: support for Donald Trump.</p><p>Previous studies have documented second screening for news provides a space for discussion and deliberation, mediating the relationship between TV news and online political participation (e.g., Gil de <ref type="bibr">Zuñiga et al., 2015)</ref>. Our findings also support the communication mediation model <ref type="bibr" target="#b37">(McLeod et al., 1999;</ref><ref type="bibr" target="#b49">Shah et al., 2007)</ref> and cognitive mediation model <ref type="bibr" target="#b14">(Eveland, 2001;</ref><ref type="bibr" target="#b15">Eveland et al., 2003)</ref>, but suggest that discussion and elaboration may not always be positive antecedents to political participation. As previously posited, this effect was stronger in an election period, but unlike previous studies, we found this relationship to be negative for some groups. We also provide a foundation on which to further probe these models in communication research-answering the call to conceptualize effects that are both conditional and indirect <ref type="bibr" target="#b57">(Valkenburg &amp; Peter, 2013)</ref>.</p><p>Taking into consideration the extent of political disagreement fomented by the candidacy of Donald Trump, we find the link between second screening and political participation is contingent upon support for the candidate. That is, for those who do not support the candidate, second screening for news leads to a decrease in online political participation. In the cross-sectional and simple lagged models, second screening relates positively to participatory acts, but when we control for participation in time 1, the relationship becomes negative. We posit that the dominance of Trump coverage in the campaigning period between our two waves of data collection explains this dramatic shift. When those who do not view Trump favorably second screen during news, like political debates, this leads to a decrease in their political participation.</p><p>While participation is certainly a normative democratic ideal, we do not view this finding as entirely deterministic. Those who do not support Trump may indeed be affected by the levels of disagreement they encounter when they second screen, but our second wave of data was collected eight months before the national election. Individuals with anti-Trump attitudes may have simply opted out of politics briefly to avoid the divisive rhetoric, but our study cannot point to the duration of this decrease and whether it impacted voter turnout in the general election. 3  From a broader perspective, our findings do suggest that ensuing encounters with political disagreement have the potential to disrupt previously identified pathways by which hybrid media uses may lead to political participation. At the time of our surveys, polls suggested that the candidates were locked in a tight race, but both television coverage of the election and social media posts about it were dominated by Trump. Although social media and news coverage do not mirror polls <ref type="bibr">(Jungheer, 2015)</ref>, television remains a dominant source of information about politics, with social media serving as an important second source for many as well <ref type="bibr" target="#b43">(Pew, 2016)</ref>.</p><p>Our study hints at some of the implications for this dual reliance on television and social media, and future studies should continue this vein of research. Future research should also examine the content of these information streams in conjunction, especially as we show their dual consumption may depress political activity for those who don't support the dominantly covered candidate.</p><p>In regard to offline political participation, we do not find that second screening for news conduits TV news viewers to participate in politics as a whole. In our crosssectional and simple lagged analysis, second screening does relate positively to offline participation, but when controlling for previous levels of engagement, our auto-regressive conditional effects model suggests that this relationship is contingent on support for Trump-similar to our findings regarding online participation: second screening leads those who do not support Trump to participate less.</p><p>The social media discussion about the election consistently focused on Trump <ref type="bibr" target="#b48">(Schultheis, 2016)</ref>, and it was rife with political disagreement and uncivil rhetoric <ref type="bibr" target="#b41">(Nugent &amp; Pierson, 2016)</ref>. Overall, the more individuals second screened during news, like the six Republican debates that aired during our two-wave survey collection, the less they engaged in participatory acts, but this effect is conditional upon the extent to which one supports Trump. It may be that the near non-stop coverage of Trump, coupled with his dominance of social media, created an atmosphere of disagreement for those not in favor of his candidacy, leading to a negative relationship with political participation. An alternative explanation is that anti-Trump individuals are active participants in politics, so a decrease between our surveys may indicate they are regressing to more typical levels of participation. The fact that those who do not support Trump in our sample are more educated and report higher levels of political knowledge, timeworn predictors of political engagement, offers support for this argument. It should be noted that our sample might be slightly more educated than the general population, so caution should be taken in drawing strong conclusions regarding the role of education.</p><p>One of the limitations of this study is precisely the uniqueness of Trump's candidacy. At this point, it is impossible to know if these findings stem from his controversial persona and the divisiveness of his campaign and presidency, or if presidential campaigning and elections in the United States have changed altogether. Our results show that second screening during political debates has a positive impact on participation for those whose candidate leads coverage and conversation, but leads to disengagement for others.</p><p>Another limitation of this study is our use of agreement with Trump's slogan as a measure of support. At the time the survey administration (November 2015 for Wave 1 and December 2015 for Wave 2), more than ten candidates were still in the race for the Republican nomination. Because this study was part of a larger survey on social media and political participation, we had limited space to include more nuanced scale thermometer questions about the Republican race. Since our goal was to assess if the impact of second screening for political participation was contingent upon how much the respondent agreed with the message dominating television and social media coverage, we selected the Trump slogan for two reasons. First, Trump was the clear candidate dominating traditional and social media narratives during the primary debates at the time of our data collection <ref type="bibr" target="#b25">(Gold, 2015;</ref><ref type="bibr">Stepheson, 2015)</ref>. Second, Trump's slogan was the most clearly divisive message during the campaign, to which we could better infer disagreement with a certain degree of validity. We do, however, recognize that our measure does not capture the full complexity of support for Trump. We urge scholars interested in the topic to further probe how these relationships have evolved once the two major party candidates were selected and conversations on social media became more evenly split. Similarly, we also encourage future papers to use more sophisticated scales of support for a candidate.</p><p>Another limitation of this study comes from not necessarily knowing whether people who agree or disagree with Trump's message actually encountered opinions that they agree or disagree with on social media while second screening. This would require a more comprehensive and in-depth study with questions focusing on specific moments of second screening and the frequency at which users encountered disagreement on social media during those events. Yet, we believe this study provides a starting point to understanding how different groups are affected by second screening, the role of disagreement in these processes, as well as a glimpse of the impact of Donald Trump on political communication processes.</p><p>Methodologically, we employ a two-wave nationally representative panel survey to test our hypotheses, allowing us to generalize to the broader population and suggest some causal order. Our second wave of data collection came about three months after the first wave, ensuring a high retention rate (50%). Previous studies have found relationships between political discussion and participation in similar periods of time <ref type="bibr">(Gil de Zuniga et al., 2015;</ref><ref type="bibr" target="#b49">Shah et al., 2007)</ref>, but the short period between waves may for some raise doubts about our ability to draw clear causal conclusions. Along this same line of thinking, one of the limitations of this article refers to the two-wave cross-lagged design and our ability to trace clear cause and effects in a mediation model where data from three time periods or an experiment would be more conclusive. Yet, the findings presented here strongly suggest a moderating role of political attitudes and disagreement in the communication mediation process.</p><p>Future research should explore the relationship between second screening and political participation across additional attitudinal and political differences. Examining differences across groups may be central to moving the communication mediation model and the cognitive mediation model forward, providing more nuance to the role of discussion, particularly on social networking sites.</p><p>In sum, we conclude that online discussion and deliberation vis-à-vis second screening does impact political participation, but the effects are not consistent across the population. The unique and timely case of Trump provided an optimal variable for exploring discussion disagreement in politics. When individuals with anti-Trump attitudes second screen in a highly Trumpified space, they participate less in politics, while second screening has the opposite impact for those with whom Trump's message resonated. So far, for those who don't support Donald Trump, deliberation via second screening leads to political disengagement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Age:</head><p>18 </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Proposed Research Model Note. The indirect effect of TV News for increase in online/offline political participation through second screening between December 2015 and February 2016 is contingent upon levels of support for Trump.</figDesc><graphic coords="6,102.54,504.16,240.04,64.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Mediation Autoregressive Model of TV News Impact on Online Political Participation Note. Unstandardized regression coefficients are reported with standard errors in parentheses. The effects of demographics, sociopolitical variables, and online political participation on Time 1 were controlled. *p &lt; .05. **p &lt; .01. ***p &lt; .001.</figDesc><graphic coords="10,102.33,481.10,240.48,87.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Moderated Mediation Autoregressive Model of TV News Impact on Online Political Participation Through Second Screening Note. The indirect effect is contingent upon support for Trump. Unstandardized regression coefficients are reported with standard errors in parentheses. The effects of demographics, sociopolitical variables, and online political participation on Time 1 were controlled. *p &lt; .05. **p &lt; .01. ***p &lt; .001.</figDesc><graphic coords="11,89.46,375.76,240.00,192.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Interaction Effect of Attitudes Towards Trump on the Relationship Between SecondScreening News Use and Online Political Participation (Autoregressive Models)</figDesc><graphic coords="15,90.88,149.27,240.48,191.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6</head><label>6</label><figDesc>Figure 6 Moderated Mediation Autoregressive Model of TV News Impact on Offline Political Participation Through Second Screening Note.The indirect effect is contingent upon support for Trump. Unstandardized regression coefficients are reported with standard errors in parentheses. The effects of demographics, sociopolitical variables, and offline political participation on Time 1 were controlled. *p &lt; .05. **p &lt; .01. ***p &lt; .001.</figDesc><graphic coords="16,102.44,175.86,240.00,190.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 7</head><label>7</label><figDesc>Figure 7 Interaction Effect of Attitudes Towards Trump on the Relationship Between Second Screening News Use and Offline Political Participation (Autoregressive Models)</figDesc><graphic coords="20,101.25,128.07,240.00,204.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Cross-sectional (Model 1), Lagged (Model 2) and Autoregressive (Model 3) Linear Regression Models Testing the Moderating Effect of Attitudes Towards Trump on the Relationship Between Second Screening News Use and Online Political Participation</figDesc><table><row><cell>β</cell></row><row><cell>Model 3</cell></row><row><cell>β</cell></row><row><cell>β</cell></row><row><cell>Model 2</cell></row><row><cell>β</cell></row><row><cell>β</cell></row><row><cell>Model 1</cell></row><row><cell>β</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Conditional Effect of Second Screening on Online Political Participation at Values of the Moderator</figDesc><table><row><cell>Support for Trump</cell><cell>b</cell><cell>SE</cell><cell>p-value</cell><cell>Bootstrap 95% CI [LL, UL]</cell></row><row><cell>Low</cell><cell>-.189</cell><cell>.061</cell><cell>.00</cell><cell>[-.309, -.069]</cell></row><row><cell>Middle</cell><cell>-.092</cell><cell>.045</cell><cell>.05</cell><cell>[-.181, -.003]</cell></row><row><cell>High</cell><cell>.004</cell><cell>.054</cell><cell>.93</cell><cell>[-.102, .111]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Conditional Effect of Second Screening on Offline Political Participation at Values of the Moderator</figDesc><table><row><cell>Support for Trump</cell><cell>B</cell><cell>SE</cell><cell>p-value</cell><cell>Bootstrap 95% CI [LL, UL]</cell></row><row><cell>Low</cell><cell>-.118</cell><cell>.067</cell><cell>.07</cell><cell>[-.249, .013]</cell></row><row><cell>Middle</cell><cell>.007</cell><cell>.058</cell><cell>.90</cell><cell>[-.107, .1215]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>McGregor and Mourão/SECOND SCREENING DONALD TRUMP 287</figDesc><table><row><cell>-24</cell><cell>13.6</cell><cell>12.6</cell><cell>13</cell></row><row><cell>25-44</cell><cell>38.5</cell><cell>31.7</cell><cell>33</cell></row><row><cell>45-64</cell><cell>36.2</cell><cell>33.9</cell><cell>34</cell></row><row><cell>65 or more</cell><cell>11.8</cell><cell>19.3</cell><cell>18</cell></row><row><cell>Gender:</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>48.2</cell><cell>49.2</cell><cell>49</cell></row><row><cell>Female</cell><cell>51.8</cell><cell>50.8</cell><cell>51</cell></row><row><cell>Race/Ethnicity: 1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>63.8</cell><cell>63.8</cell><cell>65</cell></row><row><cell>Hispanic</cell><cell>15.7</cell><cell>16.9</cell><cell>15</cell></row><row><cell>African American</cell><cell>12.6</cell><cell>12.6</cell><cell>12</cell></row><row><cell>Asian</cell><cell>5.2</cell><cell>5.0</cell><cell>4.0</cell></row><row><cell>Education:</cell><cell></cell><cell></cell><cell></cell></row><row><cell>High school or less</cell><cell>21.9</cell><cell>41.6</cell><cell>40</cell></row><row><cell>Some college</cell><cell>32.6</cell><cell>29.1</cell><cell>32</cell></row><row><cell>Bachelor's degree</cell><cell>26.4</cell><cell>18.3</cell><cell>15</cell></row><row><cell>Graduate degree</cell><cell>18.6</cell><cell>11.0</cell><cell>13</cell></row><row><cell>Household Income:</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Less than $49,999</cell><cell>48.7</cell><cell>46.9</cell><cell>55</cell></row><row><cell>$50,000 to $99,999</cell><cell>32.8</cell><cell>30.0</cell><cell>27</cell></row><row><cell>$100,000 or more</cell><cell>18.5</cell><cell>23</cell><cell>19</cell></row></table><note><p>1 "Mixed race" or "Other" not included.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>McGregor and Mourão/SECOND SCREENING DONALD TRUMP 273</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="274" xml:id="foot_1"><p>Journal of Broadcasting &amp; Electronic Media/June 2017</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>McGregor and Mourão/SECOND SCREENING DONALD TRUMP 277</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="278" xml:id="foot_3"><p>Journal of Broadcasting &amp; Electronic Media/June 2017</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>McGregor and Mourão/SECOND SCREENING DONALD TRUMP 279</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">Tom Johnson</rs>, <rs type="person">Magdalena Saldana</rs>, the <rs type="programName">Digital Media Research Program</rs> and the <rs type="affiliation">Annette Strauss Institute for Civic Life at the University of Texas</rs> for supporting this project.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>Financial support was received from the <rs type="funder">Digital Media Research Program (DMRP)</rs> and the <rs type="institution">Annette Strauss Institute for Civic Life at the University of Texas</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Njenedf">
+					<orgName type="program" subtype="full">Digital Media Research Program</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">For the independent variables, the measures are from time 1</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The sample is slightly more educated than the general U.S. population</title>
+		<imprint/>
+	</monogr>
+	<note>See Appendix I</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Though post-election analysis suggests turnout was a problem among Democrats</title>
+		<ptr target="https://fivethirtyeight.com/features/voter-turnout-fell-especially-in-states-that-clinton-won/andhttps://www.nytimes.com/2016/11/20/opinion/sunday/the-democrats-real-turnout-problem" />
+	</analytic>
+	<monogr>
+		<title level="s">html Demographic Profile of the U.S. Survey and U.S. Census References</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">How Americans get their news</title>
+		<ptr target="https://www.americanpressinstitute.org/publications/reports/survey-research/how-americans-get-news/" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>American Press Institute</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The emerging viewertariat and BBC Question Time: Television debate and real-time commenting online</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Anstead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'loughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Press/ Politics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="440" to="462" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Teen pepper sprayed as Trump protestors, supporters clash. The Washington Post</title>
+		<ptr target="https://www.washingtonpost.com/national/teen-pepper-sprayed-as-trump-protesters-supporters-clash/2016/03/30/" />
+		<imprint>
+			<date type="published" when="2016-03-30">2016. March 30</date>
+			<publisher>Associated Press</publisher>
+		</imprint>
+	</monogr>
+	<note>7ed04194-f670-11e5-958d-d038dac6e718_story.html</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Videomalaise or virtuous circle? The influence of the news media on political trust</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Avery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Press/Politics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="410" to="433" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Trump&apos;s heated words were destined to stir violence, opponents say</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barbaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gabriel</surname></persName>
+		</author>
+		<ptr target="http://www.nytimes.com/2016/03/13/us/politics/donald-trumps-heated-words-were-destined-to-stir-violence-opponents-say.html?mtrref=query.nytimes.com&amp;_r=0" />
+	</analytic>
+	<monogr>
+		<title level="j">New York Times</title>
+		<imprint>
+			<date type="published" when="2016-03-12">2016. March 12</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The role of news in promoting political disagreement on social media</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barnidge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="211" to="218" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A new space for political behavior: Political social networking and its democratic consequences</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Vraga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Borah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="414" to="429" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Jamieson</surname></persName>
+		</author>
+		<title level="m">Spiral of cynicism: The press and the public good</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chadwick</surname></persName>
+		</author>
+		<title level="m">The hybrid media system: Politics and power</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Investigating the effects of news sharing and political interest on social media network heterogeneity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="258" to="266" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Measuring Donald Trump&apos;s mammoth advantage in free media</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Confessore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yourish</surname></persName>
+		</author>
+		<ptr target="http://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html" />
+	</analytic>
+	<monogr>
+		<title level="j">New York Times</title>
+		<imprint>
+			<date type="published" when="2016-03-15">2016. March 15</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The cognitive mediation model of learning from the news evidence from nonelection, off-year election, and presidential election contexts</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="571" to="601" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Assessing causality in the Cognitive Mediation Model: A panel study of motivations, information processing and learning during campaign 2000</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kwak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="359" to="386" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Of big birds and bayonets: Hybrid Twitter interactivity in the 2012 Presidential debates</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Freelon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karpf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information, Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Was it something I said?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gearhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">No, it was something you posted!&quot; A study of the spiral of silence theory in social media contexts</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="208" to="213" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Gil De Zúniga</surname></persName>
+		</author>
+		<title level="m">Blogs, journalism, and political participation. Journalism and citizenship: New Agendas in Communication</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">108</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Expressive versus consumptive blog use: Implications for interpersonal discussion and political participation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Gil De Zuniga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bachmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brundidge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">What is second screening? Exploring motivations of second screen use and its effect on online political participation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Garcia-Perdomo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mcgregor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="793" to="815" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Social media use for news and individuals&apos; social capital, civic engagement and political participation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="319" to="336" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Social media, political expression, and political participation: Panel analysis of lagged and concurrent relationships</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Molyneux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="612" to="634" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The mediating path to a stronger citizenship: Online and offline networks, weak ties, and civic engagement</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="397" to="421" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Real and perceived attitude agreement in social networks</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Watts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of personality and social psychology</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">611</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trump dominates social media during GOP debate</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gold</surname></persName>
+		</author>
+		<ptr target="http://www.politico.com/blogs/live-from-charleston/2016/01/gop-debate-trump-social-media-217826" />
+	</analytic>
+	<monogr>
+		<title level="j">Politico</title>
+		<imprint>
+			<date type="published" when="2015-01-15">2015. January 15</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Trump dominates Google, Twitter during debate. Real Clear Politics</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goodin</surname></persName>
+		</author>
+		<ptr target="http://www.realclearpolitics.com/articles/2016/01/29/trump_dominates_google_twitter_during_debate_129489.html" />
+		<imprint>
+			<date type="published" when="2016-01-29">2016. January 29</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The changing nature of political debate consumption: Social media, multitasking, and knowledge acquisition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gottfried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Hardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Holbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Winneg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall Jamieson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Introduction to mediation, moderation, and conditional process analysis: A regression-based approach</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Birds of a feather tweet together: Integrating network and content analyses to examine cross-ideology exposure on Twitter</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Himelboim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccreery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="40" to="60" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hutchens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hmielowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rush, Rachel and Rx: Modeling partisan media&apos;s influence on structural knowledge of healthcare policy</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="123" to="143" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The mediating role of knowledge and efficacy in the effects of communication on political participation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De Zúñiga</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Mass Communication &amp; Society</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="407" to="430" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Analyzing political communication with digital trace data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jungherr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Cham, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Discussion network heterogeneity matters: Examining a moderated mediation model of social media use and civic engagement</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<editor>
+			<persName><forename type="first">Wiley</forename><surname>Kim</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2005">2005. 2015</date>
+			<pubPlace>Hoboken, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Cross-lagged panel design</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Social media, network heterogeneity, and opinion polarization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="702" to="722" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Cross-cutting exposure on social networking sites: The effect of SNS discussion disagreement on political participation</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Heatherly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="74" to="81" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Second screening as convergence in Brazil and the US</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mourao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Straubhaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Angeluci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="163" to="181" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Understanding deliberation: The effects of discussion networks on participation in a public forum</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="743" to="774" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Hearing the other side: Deliberative versus participatory democracy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The new videomalaise: Effects of televised incivility on political trust</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Mutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reeves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Political Science Review</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The spiral of silence: A theory of public opinion</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Noelle-Nuemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="43" to="51" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Here&apos;s what people say when they Hillary Clinton on Twitter. MonkeyCage Blog</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nugent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pierson</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonpost.com/news/monkey-cage/wp/2016/02/09/heres-what-people-say-when-they-attack-hillary-clinton-on-twitter/" />
+		<imprint>
+			<date type="published" when="2009">2016, February 9</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Being immersed in social networking environment: Facebook groups, uses and gratifications, and social outcomes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="729" to="733" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Internet gains on television as public&apos;s main news source: More young people cite Internet than TV. Pew Research Center</title>
+		<author>
+			<persName><surname>Pew</surname></persName>
+		</author>
+		<ptr target="http://www.journalism.org/2016/02/04/the-2016-presidential-campaign-a-news-event-thats-hard-to-miss/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2015. 2016</date>
+		</imprint>
+	</monogr>
+	<note>The 2016 presidential campaign-a news media event that&apos;s hard to miss</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Does disagreement contribute to more deliberative opinion? Political Communication 19</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nir</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="95" to="112" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Timeline: How Trump took the low road to the top of the Republican Party. Think Progress</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rupar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dewan</surname></persName>
+		</author>
+		<ptr target="http://thinkprogress.org/politics/2016/03/01/3755255/donald-trump-super-tuesday-timeline/" />
+		<imprint>
+			<date type="published" when="2016-03-01">2016. March 1</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Democracy based on difference: Examining the links between structural heterogeneity, heterogeneity of discussion networks, and democratic citizenship</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brossard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Wasimel-Manor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nisbet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="728" to="753" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Twenty-five years of the spiral of silence: A conceptual review and empirical outlook</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3" to="28" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Republican debate: Donald Trump dominates social media conversation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schultheis</surname></persName>
+		</author>
+		<ptr target="http://www.cbsnews.com/news/republican-debate-donald-trump-dominates-social-media-conversation/" />
+	</analytic>
+	<monogr>
+		<title level="j">CBS News</title>
+		<imprint>
+			<date type="published" when="2016-03-04">2016. March 4</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Campaign ads, online messaging, and participation: Extending the communication mediation model</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gotlieb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="676" to="703" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">How Trump hacked the media: Trump&apos;s dominance on cable news isn&apos;t the whole story. FiveThirtyEight</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Silver</surname></persName>
+		</author>
+		<ptr target="http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/" />
+		<imprint>
+			<date type="published" when="2016-03-30">2016. March 30</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The structure of communication networks matters: How network diversity, centrality, and context influence political ambivalence, participation, and knowledge</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Eveland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Communication</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="83" to="108" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Fox&apos;s GOP debate had record 24 million viewers</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stelter</surname></persName>
+		</author>
+		<ptr target="http://money.cnn.com/2015/08/07/media/gop-debate-fox-news-ratings/" />
+	</analytic>
+	<monogr>
+		<title level="j">CNN</title>
+		<imprint>
+			<date type="published" when="2015-08-07">2015. August 7</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Trump dominates social media amid Republican presidential debate</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stephenson</surname></persName>
+		</author>
+		<ptr target="http://www.reuters.com/article/us-usa-election-republicans-socialmedia-idUSKCN0QC0ES20150807" />
+	</analytic>
+	<monogr>
+		<title level="j">Reuters</title>
+		<imprint>
+			<date type="published" when="2015-08-07">2015. August 7</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Dual Screening the political: Media events, social media, and citizen engagement</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vaccari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chadwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'loughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1041" to="1061" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">TV no longer commands our full attention: Effects of second-screen viewing and task relevance on cognitive load and learning from news</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Cauwenberge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schaap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="100" to="109" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Social networks that matter: Exploring the role of political discussion for online political participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gil De Zuniga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="163" to="184" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The differential susceptibility to media effects model</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="221" to="243" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

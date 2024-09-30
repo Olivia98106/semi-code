@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fatigued by Ongoing News Issues? How Repeated Exposure to the Same News Issue Affects the Audience</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2021-07-27">2021-07-27</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gwendolin</forename><surname>Gurr</surname></persName>
+							<email>gwendolin.gurr@unifr.ch</email>
+							<idno type="ORCID">0000-0002-0315-1707</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Julia</forename><surname>Metag</surname></persName>
+							<email>julia.metag@uni-muenster.de</email>
+							<idno type="ORCID">0000-0003-4328-6419</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Münster</orgName>
+								<address>
+									<settlement>Münster</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<addrLine>Boulevard De Pérolles 90</addrLine>
+									<postCode>CH-1700</postCode>
+									<settlement>Fribourg</settlement>
+									<country>Switzerland; Julia Metag</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Münster</orgName>
+								<address>
+									<addrLine>Bispinghof 9-14</addrLine>
+									<postCode>D-48143</postCode>
+									<settlement>Münster</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Gwendolin Gurr http://orcid</orgName>
+								<address>
+									<postCode>0000-0002-0315-1707</postCode>
+									<settlement>Julia Metag</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fatigued by Ongoing News Issues? How Repeated Exposure to the Same News Issue Affects the Audience</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Mass Communication and Society</title>
+						<title level="j" type="abbrev">Mass Communication and Society</title>
+						<idno type="ISSN">1520-5436</idno>
+						<idno type="eISSN">1532-7825</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">25</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="578" to="599"/>
+							<date type="published" when="2021-07-27" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">DF1C79765D43213B7599A9AD0A6C7793</idno>
+					<idno type="DOI">10.1080/15205436.2021.1956543</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>When a news issue is of ongoing topicality and covered by news media extensively for a prolonged period, news users can be exposed to this issue repeatedly for weeks, months, or years. There are indications from several countries that citizens become fatigued from ongoing political issues in the news and, consequently, try to avoid them. News users' fatigue from, and avoidance of, current political issues would be detrimental to a politically informed citizenry. This study examines the potential effects on news users from repeated exposure to a news issue by applying a qualitative, longitudinal, mixed-methods approach. The findings from the qualitative content analysis of data obtained from semi-structured diaries combined with semi-structured interviews with the same participants reveal that, along with repeated exposure, news users hold specific cognitions, such as redundancy, regarding the issue and its media coverage. They show emotions regarding the issue, such as annoyance, and behaviors, such as avoidance during news exposure. It becomes apparent that fatigue with an ongoing political issue can carry further implications for the user's knowledge of the issue, their evaluations of political actors, and their trust in news media.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Several studies have indicated that media attention to issues can be modeled in cycles, waves, or hypes <ref type="bibr" target="#b18">(Geiss, 2011;</ref><ref type="bibr" target="#b47">Waldherr, 2014;</ref><ref type="bibr" target="#b48">Wien &amp; Elmelund-Praestekaer, 2009)</ref>. Despite differences between issues, a typical pattern of media attention to issues has been identified. Accordingly, media attention increases during latency, breakthrough, and boom phases until a threshold point, after which it decreases <ref type="bibr" target="#b47">(Waldherr, 2014)</ref> due to declining input from actors and events, other competing issues, or a decline in public interest <ref type="bibr" target="#b4">(Brosius &amp; Kepplinger, 1990;</ref><ref type="bibr" target="#b12">Downs, 1972;</ref><ref type="bibr" target="#b18">Geiss, 2011;</ref><ref type="bibr" target="#b22">Hilgartner &amp; Bosk, 1988)</ref>. However, for some issues-such as the Syrian war, Brexit, or the refugee crisis-media coverage remains extensive for a prolonged period despite a potential decline in public interest. Thus, there can be a mismatch between news media's and the public's attribution of attention and relevance to these issues <ref type="bibr" target="#b33">(McCombs &amp; Shaw, 1972)</ref>. Within this context, the idea of public boredom and saturation effects regarding such issues has been mentioned <ref type="bibr" target="#b20">(Henry &amp; Gordon, 2001;</ref><ref type="bibr" target="#b36">Neuman, 1990)</ref>.</p><p>The investigation of negative effects on individuals from frequent exposure over a prolonged period has so far been focused on persuasive media messages or stimuli, such as advertisements or health campaigns, often in the context of the concept of overexposure <ref type="bibr" target="#b38">(Rethans et al., 1986;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>. These studies show that the evaluation of the stimulus in question shifts from positive to negative when individuals are exposed to it too frequently. This finding, as well as the idea of public boredom and saturation effects, suggests that prolonged exposure to an issue in news media is likely to affect users negatively.</p><p>A concept that is both connected to research on effects from extensive exposure and tries to grasp such a negative effect is the idea of issue fatigue among news users. When users are exposed to media coverage on an issue excessively over a prolonged period, they react negatively to the issue and its coverage at some point and tend to avoid the issue during subsequent news exposure and in interpersonal encounters <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016;</ref><ref type="bibr" target="#b40">Schumann, 2018)</ref>. In contrast to negative consequences from news exposure in general, such as news overload <ref type="bibr" target="#b49">(York, 2013)</ref> or news avoidance <ref type="bibr" target="#b41">(Skovsgaard &amp; Andersen, 2020)</ref>, issue fatigue and the resulting avoidance behavior are tied to frequent exposure to news media coverage of a single issue.</p><p>Against this backdrop, a thorough investigation of the potential effects of prolonged news media coverage of single public issues on news users remains lacking. Thus, this study strives to add to this line of research by analyzing what happens to news users when they are exposed frequently to news media coverage of the same issue over a prolonged period. We combine a semi-structured diary study with semi-structured interviews to investigate these mechanisms using reporting of the Brexit issue in Switzerland. Understanding these mechanisms is important because, particularly for issues that are relevant to society, negative reactions, such as avoiding current information, would be problematic since an informed and participatory citizenry is the foundation of a functioning democracy <ref type="bibr" target="#b10">(Delli Carpini, 2000)</ref>. Furthermore, potential negative effects indicate a disruption in the common attribution of relevance and attention to political issues by news media and the public, reducing news media's influence on the public regarding current issues.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects from repeated exposure</head><p>According to theoretical models of repetition effects, stimuli become more accessible and familiar to the individual through repetition, so the stimulus can be processed more easily in exposure situations <ref type="bibr" target="#b50">(Zajonc, 1968)</ref>. There is a positive habituation to the stimulus due to the reduction of uncertainty, the perception of the stimulus as novel, interesting, and stimulating, and the rewarding effect of learning. The individual processes messages more deeply and learns more about the stimulus. However, after a threshold point, the attitude toward the stimulus becomes more negative when the individual is exposed to the stimulus more often. Tedium is evoked by perceptions of monotony, saturation, and reactance; information is processed less deeply and learning decreases. Thus, the evaluation shifts from positive to negative <ref type="bibr" target="#b1">(Berlyne, 1970;</ref><ref type="bibr" target="#b6">Cacioppo &amp; Petty, 1979;</ref><ref type="bibr" target="#b44">Stang, 1975)</ref>.</p><p>Previous research related to communication has investigated repetition effects, predominantly concerning persuasive stimuli focusing on attitudes and credibility <ref type="bibr" target="#b26">(Koch &amp; Zerback, 2013)</ref>. First, such repetition effects have been studied for repeated exposure to advertisements. Advertising wearout refers to a decline in the effectiveness of a commercial because of repeated exposure <ref type="bibr" target="#b7">(Calder &amp; Sternthal, 1980;</ref><ref type="bibr" target="#b9">Craig et al., 1976</ref>). One explanation is that attention to the advert decreases along with repeated exposure because of decreased learning and increased reactance and tedium <ref type="bibr" target="#b25">(Kinnucan et al., 1993;</ref><ref type="bibr" target="#b38">Rethans et al., 1986</ref>). Another explanation is that, with increasing exposure, negative own thoughts, which are only indirectly associated with the advert, outnumber positive message-related thoughts, which were dominant at the beginning <ref type="bibr" target="#b7">(Calder &amp; Sternthal, 1980)</ref>. Studies on advertising wearout point to different outcomes of repeated exposure to an advert, namely negative affect such as tedium and annoyance, negative evaluations of the advert, decreased learning or recall, respectively, and changes in cognitions, more precisely increased negative thoughts and decreased elaboration and information processing <ref type="bibr" target="#b5">(Burke &amp; Edell, 1986;</ref><ref type="bibr" target="#b7">Calder &amp; Sternthal, 1980;</ref><ref type="bibr" target="#b38">Rethans et al., 1986)</ref>.</p><p>Second, overexposure has been investigated for health messages such as campaigns against tobacco use or obesity <ref type="bibr" target="#b0">(Baseman et al., 2013;</ref><ref type="bibr" target="#b23">Kim &amp; So, 2018;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>. The concept of message fatigue has been introduced as an "aversive motivational state of being exhausted and bored by overexposure to similar, redundant messages over an extended period of time" <ref type="bibr">(So et al., 2017, p. 10)</ref>. Relevant dimensions include the perception of overexposure and redundancy as part of the message environment, exhaustion or burnout, and tedium or boredom as the individual's response to the messages. Health message fatigue results in disengagement with the message through inattention and avoidance, as well as resistance to the persuasive intent <ref type="bibr" target="#b23">(Kim &amp; So, 2018;</ref><ref type="bibr" target="#b42">So &amp; Alam, 2019;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>.</p><p>With regard to non-persuasive stimuli and the news media environment, <ref type="bibr" target="#b24">Kinnick et al. (1996)</ref> elaborated on the idea that citizens become weary of or burned out over prominent social problems, particularly due to intensive exposure to these issues via news coverage. Desensitized or burned-out individuals are less interested in and emotionally aroused by the social problem in question. In addition, affected individuals were found to change their media use behavior in different ways, such as changing channels, being increasingly selective, or reducing overall media use. Furthermore, news overload can be the result of cumulative exposure to news. News users cannot process all news information available and feel psychological discomfort <ref type="bibr" target="#b30">(Lee et al., 2019;</ref><ref type="bibr" target="#b49">York, 2013)</ref>. However, compassion fatigue and news overload concern exposure to news in general rather than the same stimulus. Repetition and overexposure effects have not yet been investigated for political news issues that users are exposed to repeatedly over a prolonged period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overexposure to news issues: Remaining questions</head><p>Bringing together findings on repetition and overexposure effects from other domains allows for approaching the research gap concerning overexposure effects from political news issues. While this research suggests that repeated exposure affects cognitions, emotions, and behavior regarding the stimulus, what effects occur exactly when users are exposed frequently to news media coverage of the same issue over a prolonged period is still unknown.</p><p>A recent concept that tries to consider these preconditions is the concept of issue fatigue. It suggests that users react negatively to current political issues that news media cover frequently and extensively over a prolonged period. Researchers found that issue fatigue can be conceptualized as a negative cognitive and affective state toward a public political issue. Issue fatigue develops over a period of repeated exposure to information about an issue, and it can lead to information avoidance <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016;</ref><ref type="bibr" target="#b40">Schumann, 2018)</ref>. However, several facets of the phenomenon of becoming issue-fatigued remain unclear. A detailed and deep analysis is necessary to understand how audience fatigue emerges, what kind of cognitions and emotions it entails specifically, and what kind of behavioral consequences occur over time. A profound analysis is also necessary to observe whether and how these aspects develop over a period.</p><p>Overexposure affects cognitions, such as thoughts about the stimulus in terms of supportive and counterarguments and positive versus negative evaluations <ref type="bibr" target="#b7">(Calder &amp; Sternthal, 1980;</ref><ref type="bibr" target="#b31">Malaviya, 2007)</ref>. In the context of issue fatigue, <ref type="bibr" target="#b40">Schumann (2018)</ref> discusses the cognition of no longer wanting to hear or see anything about the issue, but beyond that, which cognitions occur along repeated exposure to the same news issue remains unclear.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ1. How does frequent exposure to an issue during a prolonged period affect users' cognitions regarding the issue?</head><p>Effects on affect from excessive exposure have been found through research on compassion fatigue <ref type="bibr" target="#b24">(Kinnick et al., 1996)</ref> and repetition effects in advertising, particularly the perception of boredom, tedium, and reactance <ref type="bibr" target="#b38">(Rethans et al., 1986)</ref>. Also, previous approaches to issue fatigue have provided indications that repeated exposure to news media coverage on the same issue elicits annoyance, anger, and further negative emotions <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016;</ref><ref type="bibr" target="#b40">Schumann, 2018)</ref>. When repeatedly exposed to an issue or its respective media coverage, it is reasonable to assume that media reports on the issue act as triggers, thereby leading to specific emotions <ref type="bibr" target="#b27">(Konijn, 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ2. How does frequent exposure to an issue during a prolonged period affect users emotionally?</head><p>Findings on health message fatigue suggest that overlapping and repetitive information is perceived as redundant <ref type="bibr" target="#b43">(So et al., 2017)</ref>, and for persuasive media messages, a perceived lack of credibility concerning the message has been found <ref type="bibr" target="#b26">(Koch &amp; Zerback, 2013)</ref>. As for the concept of issue fatigue, a lack of credibility and diversity in media coverage and an excess of information have been observed empirically <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016)</ref>. Thus, overexposure can also affect cognitions regarding media coverage of the issue. RQ3. How does frequent exposure to an issue during a prolonged period affect the perception of the issue-specific news media coverage? Thus, concerning cognitions, overexposure possibly can affect two different, albeit related, stimuli-the issue itself and media coverage of the issue. While advertising wearout results from repeated exposure to the exact same message <ref type="bibr" target="#b9">(Craig et al., 1976)</ref> and health message fatigue from overexposure to similar messages <ref type="bibr" target="#b43">(So et al., 2017)</ref>, media messages on a news issue from various media channels over a longer period differ considerably from each other concerning events, viewpoints, and the actors covered. In contrast to advertising and health messages, we can expect a certain degree of novelty in the media messages on the issue, considering that events still require a certain degree of novelty to be reported in news media <ref type="bibr" target="#b21">(Herbert, 2000)</ref>. Nevertheless, the issue is the common core of all the various messages. This suggests that overexposure effects should occur primarily with the issue. However, the question is to what extent users differentiate between the issue and messages about the issue. On the other hand, previous research has so far pointed to overexposure effects solely with media messages. Users might perceive the media messages as redundant and lacking novelty despite objective novelty and different aspects covered. The question is, therefore, to what extent do effects from overexposure occur with either the issue or media coverage of the issue? RQ4. How do users' stances toward the issue and its media coverage interact during frequent exposure to an issue during a prolonged period?</p><p>Previous research on health message fatigue <ref type="bibr" target="#b43">(So et al., 2017)</ref> and on the reception of news in general has found that when too much information or news is perceived, a state of information overload can arise. So far, information and news overload have been conceptualized as being primarily cognitive, but as also involving negative emotions, such as distress <ref type="bibr" target="#b15">(Eppler &amp; Mengis, 2004;</ref><ref type="bibr" target="#b30">Lee et al., 2019;</ref><ref type="bibr" target="#b49">York, 2013)</ref>. However, the role of the amount of information received on a public issue for overload perceptions has so far not been investigated longitudinally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ5. To what extent and in what way do users perceive information overload during a prolonged period of frequent exposure to an issue?</head><p>In addition, overexposure research in health communication and compassion fatigue points to effects on behavior from repeated exposure, such as approaching or avoiding the stimulus <ref type="bibr" target="#b24">(Kinnick et al., 1996;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>. It has also been found that avoiding an issue is related to being exposed to it frequently during a prolonged period <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016)</ref>. However, it is not clear what forms of avoidance appear when users are confronted repeatedly with the issue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ6. How does frequent exposure to an issue during a prolonged period affect selection and avoidance of information on the issue?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Answering these questions requires repeated observations of users' stances toward the issue over a period of exposure situations. Due to this study's exploratory character, a qualitative research design was applied. While we deduced the broad categories of cognitions, emotions, and behavior from previous research, we investigated inductively what kinds of cognitions, emotions, and behavioral consequences can be detected when users are exposed frequently to a political issue over a prolonged period of media coverage. To observe potential changes in users' stance toward the issue over repeated exposure situations, we conducted a longitudinal semi-structured diary study complemented by semi-structured interviews. This mixed-methods approach <ref type="bibr" target="#b13">(Edmonds &amp; Kennedy, 2017)</ref> enabled us to investigate the daily reception of the issue in question over a longer period, both shortly after exposure and in a profound and comprehensive manner. The research project was pre-examined by the responsible ethics commission, who decided that ethical approval is not required. For this study, the withdrawal of the United Kingdom (UK) from the European Union (EU; Brexit) was chosen as an ongoing political issue. Brexit is a non-national issue for Switzerland, which can, nevertheless, have an impact on the Swiss economy and its relationship with the UK. Thus, the issue allows for some degree of involvement with the issue but, at the same time, does not concern the Swiss population as strongly as a national issue. It is, therefore, a suitable issue for observing potential overexposure effects.</p><p>Brexit has been covered by news media since the referendum in 2016. However, the period of spring 2019 was considered a suitable investigation period because it covered several postponements of Brexit due to a lack of agreement on the exit conditions and the corresponding negotiations between UK and the EU under the pressure of time. Thus, this period is one of extensive exposure and with a particular thematic focus. News media in Switzerland have covered Brexit extensively prior to and during the investigation period. In total, 1,091 reports were found on front pages and political news sections of the 45 most widely used Swiss daily and weekly print newspapers, online news sites, and TV news series from April 6 to June 16, 2019 (see Figure <ref type="figure" target="#fig_0">1</ref>).<ref type="foot" target="#foot_0">1</ref> However, the Brexit issue was not a completely new issue at the beginning of the data collection period, and participants' previous experiences with the issue and potentially resulting predispositions were not captured, which poses a limitation to our analysis. We made the decision to gather data on the Brexit issue on April 5, when the Brexit postponement to June 2019 was highly probable, and started data collection after the participants' recruitment, on April 24. Data collection ended on June 7, when Theresa May resigned as prime minister and less news coverage was expected until the new Brexit date in October 2019.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were recruited from the first wave of a representative panel survey (n = 1,338) in Switzerland on the Brexit issue conducted by a professional market and social research institute as part of a larger research project. Altogether, 60 of the 102 participants who participated in the survey within the first two days <ref type="bibr">(April 11 and 12, 2019)</ref> and agreed to participate in a further study were selected. We excluded individuals who were probably not frequently exposed to the Brexit issue during the study period based on several criteria. Altogether, 35 people finally agreed to participate in the diary study. The average age was 50, and 17 participants were female. 62.9% of the participants have a tertiary education. 2 18 participants were chosen for the interviews.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diary study and interview procedure</head><p>The participants filled out a short semi-structured online diary on three evenings per week between April 24 and June 7, 2019. The online diary survey comprised both open and standardized measures of through which sources participants were exposed to the issue on that day, changes in the evaluation of the issue and media coverage, cognitive and emotional associations with the issue, perceptions and evaluations of news media coverage, information load, and avoidance behavior. 2 Further information on the sampling procedure and the sample can be found in the supplemental material file.</p><p>Studying the data after each day of data entries allowed for the selection of participants to do a 20-minute semi-structured interview. <ref type="foot" target="#foot_1">3</ref> The researchers and assistants tracked the quantitative measures and selected participants if their evaluation of the issue and the media coverage became more negative, information overload was increasingly perceived, avoidance of the issue increased over two to three subsequent days of data entries, or when increasingly negative answers to these variables were observed repeatedly over longer intervals. In addition, we considered selecting participants if they did not care whether they were informed about the issue or did not want to receive any information on the issue repeatedly, as opposed to wanting to be continually informed about it. Second, participants were selected based on their answers to open-ended questions, specifically, when they reported negative thoughts, feelings, and/or behavior regarding the issue, which indicate fatigue dimensions, at least twice.</p><p>Altogether, 18 participants were interviewed by phone or Skype between May 15 and June 16, 2019. The interview questions addressed the questions from the diary in an in-depth manner <ref type="bibr" target="#b14">(Edwards &amp; Holland, 2013)</ref>. The interviews complement the diary study in that some of the interview questions referred back to answers from the diary of each individual participant. This way, we could ask for further elaborations on the answers given in the diary. Some details of the interview guidelines were, thus, adapted individually for each participant prior to the interview. Participants were asked about their emotional and cognitive stance toward issue, and their perception of the information load. In the second part of the interview, they answered questions about their perception of the media coverage on the issue. Subsequently, participants were asked about the role the issue and media coverage of it play in their perceptions. Finally, participants spoke about their behavior when confronted with the issue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Answers to standardized questions from the diary study were translated into text <ref type="bibr" target="#b13">(Edmonds &amp; Kennedy, 2017)</ref>. Subsequently, one researcher and one assistant analyzed the answers from the diary study and the interviews using MAXQDA software. Following <ref type="bibr" target="#b32">Mayring (2015)</ref>, the common deductive category system based on the diary survey and interview guidelines was supplemented with further inductive sub-categories, such as particular cognitions and emotions, during the coding procedure.</p><p>After coding, data from the diary study and the interview transcripts were linked on a case-by-case basis, resulting in a table for each case, including the coded diary entries over time and the coded interview passages structured by the deductive categories and both deductive and inductive sub-categories. During further analysis, the categories were analyzed for each research question, first, for each case separately, and second, at the aggregate level for all cases <ref type="bibr" target="#b17">(Flick, 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Before the users' reactions to the issue and its media coverage over the period of frequent exposure are described below through each research question, we report how the evaluation of the issue and the media coverage developed over the investigation period. Most participants indicated several times in their diaries that they evaluated the issue more negatively than the last few days (i.e., for some participants, the evaluation became increasingly negative as they were exposed to the issue cumulatively). Other participants provided a more negative evaluation only on certain days. Consequently, their evaluation became more negative at some points and remained at this level until it became even more negative or, in a few cases, more positive. However, we did not observe a linear increase in the negative evaluation at the aggregate level. Another group of participants did not show any changes during the investigation period. Most participants evaluated media coverage on the issue in question either continually positively or negatively during the period of frequent exposure. However, for approximately one quarter of participants, the evaluation shifted from positive to negative over the period of frequent exposure. After several days during the investigation period, their evaluation worsened compared with previous days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ1: Cognitions</head><p>When frequently exposed to the Brexit issue, participants perceived the issue as drawn out and its enduring topicality as unnecessary (see Table <ref type="table" target="#tab_0">1</ref>). To them, the issue was "worn out" (ID = 7, male, age = 35, education = 3, issue interest = 4, political interest = 4; diary: 05/06), <ref type="foot" target="#foot_2">4</ref> an "endless loop" (ID = 13, age = 43, male, education = 3, issue interest = 4, political interest = 4; diary: 05/06), and a "never ending story" (ID = 14, age = 48, female, education = 3, issue interest = 4, political interest = 4; interview: 06/16).</p><p>They were negative about the issue's lengthiness and did not see an end to it. In addition, participants argued that nothing new was happening and that the same political actions were repeated. It seems that the participants do not, or only barely, recognize new developments regarding the issue. Instead, they perceived the happenings as repetitive and redundant when frequently exposed to the issue for a prolonged period. Some participants attributed redundancy primarily to the political situation, rather than to the issue itself. Participants criticized a lack of progress and changes in the political situation. It was noted that the issue was unnecessarily protracted, with no progress made. Some participants related their negative thoughts concerning the political stalemate more directly to the political actors than to the issue itself. In their view, politicians brought up the same arguments and questions but did not find a solution. They were discontented with politicians and criticized directly how they handled the issue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ2: Affect</head><p>It was noted that some participants were not involved emotionally with the issue over the period of frequent exposure. Some stated explicitly that the issue left them indifferent due to a lack of personal relevance and efficacy concerning the issue (see Table <ref type="table" target="#tab_1">2</ref>). However, participants who felt emotionally affected after exposure to the issue perceived negative emotions regarding the issue either at some points in time or as overarching impressions over the period of frequent exposure. Annoyance co-occured from perceived lengthiness, a lack of progress, and the politicians' handling of the issue. In addition, participants perceived the constant presence of the issue and frequent exposure to news media coverage of it as annoying. Superficial and scandalous portraying evoked annoyance. Participants felt angry and upset when exposed to information on the issue. This feeling related to the political situation, where a lack of progress was perceived. The feeling that political actors who do not find a solution but argue with each other and have done so for a long enough time provoked anger in the participants. Similarly, participants perceived boredom in the context of a lack of progress with the political situation.</p><p>Within the diary study, participants often displayed boredom without elaborating further on this perception. They simply mentioned their boredom by one or a few words, such as "once again" (ID = 27, age = 24, female, education = 3, issue interest = 3, political interest = 3; diary: 05/02) or "boredom" (ID = 6, age = 40, male, education = 2, issue interest = 3, political interest = 4; diary: 05/06).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ3: Evaluation of media coverage</head><p>Most prominently, participants perceived a lack of novelty in the reporting and that the information provided was repetitive and redundant, similar to redundancy perceived regarding the issue (see Table <ref type="table" target="#tab_2">3</ref>). In their view, they did not read or see anything new but always the same and, thus, did not learn anything new from the information provided. This fostered their disengagement with the issue; they cared less if they miss novelty. In particular, those who consistently evaluated the reporting as negative were dissatisfied with how news media depicted the Brexit issue. Participants perceived the reporting as sensationalist and scandalous, with some aspects exaggerated. This particularly concerned the coverage of the political actors. This perception of sensationalism evoked annoyance. Furthermore, participants evaluated the media coverage as personalized; they mentioned that the reporting focused too much on the main actors involved. They stated that they would have wished for more detailed information on the political situation and arguments rather than focusing on the dominant political actors and their repeated statements. Similarly, the participants stated that they wanted more in-depth information in the reporting and missed a lack of depth. They deemed the information provided as superficial and wished for a more detailed reporting of arguments. Participants wanted to know more details than what reporters provided. However, some participants were negative about the complexity of reporting on the issue. They did not feel that they were able to follow the reporting and did not understand exactly what it was about due to its complexity. This could lead to less engagement with the issue and its media coverage. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ4: Relationship between issue and media coverage evaluation</head><p>Three types of relationships between the evaluation of media coverage of the issue and the issue itself over a period of frequent exposure have been found inductively (see Table <ref type="table" target="#tab_3">4</ref>). One group of participants described their stance toward the issue and media coverage independently from one another and perceived negatively either only the issue or the media coverage. These perceptions have been described under RQ1 and 3. Over the period of frequent exposure, the second group of participants were negative about both the issue and news media coverage and did not differentiate in their evaluation. They evaluated certain aspects negatively regarding the issue, such as lengthiness and lack of novelty and progress, which they expressed in the form of a general statement without reflecting on the source of their discontent. They did not differentiate between whether they perceived so because there was actually nothing new happening regarding the issue or because news media did not report anything new.</p><p>The third group of participants were generally negative about similar aspects concerning both the issue and media coverage but differentiated between politics and news media's roles (a). Some of these deemed the political situation responsible for their negative perceptions and were aware that it is news media's task to report political news, despite a lack of progress. However, other participants, who evaluated the issue and its media coverage similarly negatively, blamed the news media despite their awareness of the news media's role. They argued that it was not necessary to report on the issue constantly when nothing new happened (b).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ5: Information load</head><p>The analysis of the quantitative and qualitative data revealed that one group of participants was satisfied with the amount of information received during the period of frequent exposure. They explained that they managed the amount of information to which they exposed themselves and were aware of the possibilities of selecting media content on the issue based on their informational needs. In particular, participants who were engaged highly with the issue stated that they did not receive enough information on the issue at certain times. However, other participants perceived having more information than they needed at times (see Table <ref type="table" target="#tab_4">5</ref>). These participants noted that when they used media for information purposes, they were faced with too much information and argued that news media paid too much attention to the issue. In this case, the quantity of received information exceeded the participants' needs. Some participants mentioned that it was primarily the frequency with which they were exposed to information on the issue that bothered them. Participants saw themselves as being exposed too frequently to information on the issue unwillingly, such as hourly, which was associated with annoyance and the perception that no one cares about the information provided. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RQ6: Selection and avoidance</head><p>Participants indicated that they avoided information on the issue in exposure situations (see Table <ref type="table" target="#tab_5">6</ref>). They tuned out from media content internally and only skimmed through articles, paying less attention to TV or radio news on the issue when they realized the information was redundant to them. These behaviors can be viewed as cognitive avoidance strategies <ref type="bibr" target="#b39">(Schramm &amp; Wirth, 2008)</ref>. In addition, participants applied behavioral strategies. Some distracted themselves from media content on the issue by doing something else, stopped reading an article, or turned off the sound on a news program. This seemed to be triggered by certain aspects of the information received, such as a perceived lack of novelty, the presence of certain political actors, or the simple presence of the issue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The findings indicate that news users appear to be affected diversely in their cognitions regarding the issue. While some perceive the issue's drawn-out existence and lack of progress, others who are rather highly involved with the issue focus primarily on the political handling of the issue and display discontent with the political actors. Almost all participants-though to a varying degree-perceived repetitiveness, monotony, and redundancy in coverage of the issue. The perception of redundancy and a lack of novelty is in line with overexposure to health messages <ref type="bibr" target="#b43">(So et al., 2017)</ref> and the theoretical models of repetition effects <ref type="bibr" target="#b1">(Berlyne, 1970;</ref><ref type="bibr" target="#b44">Stang, 1975)</ref>. These  negative cognitions are often paired with negative emotions <ref type="bibr" target="#b45">(Storbeck &amp; Clore, 2007)</ref>. Those who show themselves to be emotionally involved with the issue after repeated exposure mostly perceive annoyance, anger, and boredom related to cognitions regarding the issue and the media coverage. These emotional responses are in line with previous research on the phenomenon of issue fatigue <ref type="bibr" target="#b28">(Kuhlmann et al., 2014)</ref>.</p><p>In particular, users perceive a lack of novelty in media coverage. The prevalent perception of redundancy in news coverage resembles a finding by <ref type="bibr" target="#b28">Kuhlmann et al. (2014)</ref> that users miss diversity in the reporting of ongoing issues. It supports the finding that novelty influences the evaluation of the stimulus <ref type="bibr" target="#b1">(Berlyne, 1970;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>. Unlike findings on persuasive messages <ref type="bibr" target="#b16">(Ernst et al., 2017;</ref><ref type="bibr" target="#b26">Koch &amp; Zerback, 2013)</ref>, a lack of credibility seems less relevant in the context of repeated exposure to news issues. While some users hold a negative overarching position on both the issue and its media coverage, particularly due to a lack of novelty, other users hold two different stances or a similarly negative stance toward both, but still reflect news media's role. Negative effects can occur concerning either both the issue and its media coverage or one of these exclusively. Therefore, further research should consider these two stimuli, similar to the conceptualization of health-message fatigue having dimensions related to the message environment and the audience response <ref type="bibr" target="#b43">(So et al., 2017)</ref>.</p><p>In addition, participants felt they were faced too frequently with the issue or with too much information on it. Avoidance occurs more often on the level of cognitive and behavioral strategies during exposure than on the initial level of selection or avoidance, respectively <ref type="bibr" target="#b39">(Schramm &amp; Wirth, 2008;</ref><ref type="bibr" target="#b41">Skovsgaard &amp; Andersen, 2020)</ref>.</p><p>The findings suggest that some cognitions, such as redundancy and a lack of novelty regarding both the issue and its media coverage, and emotions such as boredom, are similar to overexposure effects from persuasive messages <ref type="bibr" target="#b38">(Rethans et al., 1986;</ref><ref type="bibr" target="#b43">So et al., 2017)</ref>. However, lengthiness, a perceived lack of progress, political discontent, and anger concerning the issue are effects that occur particularly in relation to ongoing news issues. The difference from effects of persuasive messages can be either due to the non-persuasive nature of news issues or the higher degree of objective novelty and variety of received news on an issue compared to the same campaign message or advert. However, users do not necessarily recognize novelty and variety in the issue and its news coverage.</p><p>The findings carry implications on several levels. They indicate that some users are particularly negative about the lack of progress and long, drawnout coverage of the issue, which is in part traceable to the political actors involved. Priming effects can occur because negative associations with the current issue are activated in users and influence how they evaluate the performance of political actors handling the issue <ref type="bibr" target="#b11">(Domke et al., 1998)</ref>. Thus, users' experience with the current issue can affect their attitude toward politics in terms of trust or support <ref type="bibr" target="#b37">(Norris, 2017)</ref>. Furthermore, attitudes toward news media, including trust, are based on users' experiences with single journalistic pieces <ref type="bibr" target="#b19">(Grosser, 2016)</ref>, such as exposure to media reports on a current political issue. Thus, their negative evaluation of media coverage on the issue can shape their general attitude toward news media in the long term. This is problematic against the backdrop of citizens increasingly tuning out news media <ref type="bibr" target="#b2">(Blekesaune et al., 2012)</ref>. Therefore, journalists should consider the effects of frequent exposure to their coverage of a political issue in their reporting styles.</p><p>Concerning generalizability, a heterogeneous sample has been chosen with regards to predispositions toward the Brexit issue and information behavior regarding this issue to reveal a broad range of effects, some of which have been observed for only a few participants and, thus, lack internal generalizability. In addition, the sample consisted of participants who are on average highly interested in politics, which is a further constraint to generalizability to the population. Moreover, this study's findings are linked to the Brexit issue and its reception in Switzerland. It is possible that findings would vary with other issues that are international/national and specific to the country of investigation, as well as differ in complexity and obtrusiveness from the Brexit issue <ref type="bibr" target="#b1">(Berlyne, 1970;</ref><ref type="bibr" target="#b3">Bornstein, 1989)</ref>. However, the key effects from frequent exposure identified within this study, such as a perceived lack of novelty and annoyance, can occur equally with other political issues.</p><p>The Brexit issue had been on the news media's agenda for a long time before this study began, before the Brexit referendum in the UK in June 2016. In addition, the news media covered the issue extensively during the weeks before the start of the study. Thus, it is possible that users' orientations changed before this study, and that we missed these effects for methodological reasons. However, news media coverage around the investigation period was particularly extensive and focused on a particular sub-issue, specifically negotiations between the UK and the EU concerning exit conditions. In addition, we ensured that none of the participants had already tuned out from the issue completely at the beginning of the study, which, at the same time, caused a bias in the sample regarding issue predispositions.</p><p>In addition, our results on changes in the users' orientations and behavior regarding the issue are limited. While we could draw some conclusions on the development of issue and media coverage evaluations over time based on our quantitative measures, we could not identify temporal changes in the qualitative measures. First, participants often shifted their focus to different aspects when answering an open-ended question several times.</p><p>When they focused on the same dimension, for example, the emotion of boredom, several times, it was often still not clear enough to declare a clear increase or decrease in this perception, especially if they gave answers to the question at irregular intervals. Questions that are narrower or ask directly about perceived changes could be a solution.</p><p>Furthermore, the diary study could not validly capture participants' responses and their changes at every single measurement point due to a lack of media coverage of the issue on certain days. Some of the participants' responses suggest that social desirability played a role in these studies (i.e., some preferred to present themselves positively toward the issue due to its political relevance and topicality). Furthermore, we can assume that participation in this study over several weeks affected the participants' behavior concerning the issue and, thus, response behavior. Such panel and conditioning effects are difficult to avoid entirely and need to be considered when applying longitudinal research designs <ref type="bibr" target="#b46">(Trivellato, 1999)</ref>.</p><p>Finally, our results are based on a small sample, which enables us to identify what effects of repeated exposure to an ongoing news issue occur within a heterogeneous group of individuals with different levels of interest in the issue and attention paid to news coverage on the issue. However, we cannot draw conclusions either on frequencies and variations of the effects or on their generalizability. Related to this, we conducted this exploratory study on only one ongoing issue.</p><p>Future research should investigate, first, in an exploratory way, overexposure effects for other political issues, such as more obtrusive ones or national issues with a higher degree of expected involvement. In addition, issues that have been constantly on the public agenda for years, such as climate change <ref type="bibr" target="#b8">(Capstick &amp; Pidgeon, 2014)</ref>, should be considered. These issues remain on the agenda due to their global and enduring relevance, which makes overexposure effects even more problematic.</p><p>Building on exploratory qualitative studies, quantitative research based on a larger sample will inform better about frequencies and variations of the identified dimensions and help to generalize the findings. The focus should be longitudinal to account for the dynamics inherent in the processes and to test reciprocal causal relations between the relevant dimensions. In addition, a longer time period covering the whole presence of an issue on the public agenda would enhance the validity of observing overexposure effects and allow for a comprehensive analysis of temporal developments in orientations and behavior regarding the issue. Beyond repeated exposure to ongoing news issues and their effects on issue orientations and behavior, further studies should take into account users' political and issue predispositions as well as traits and other characteristics, such as general news exposure, explicitly as potential moderators.</p><p>When the interest is the effects of objective media coverage intensity and characteristics as opposed to their perceptions by users-as with this studyit would be promising to content-analyze media coverage on the issue in question and to link these data to survey data from participants at the individual level. This could inform about potential interactions of frequency of exposure and media content characteristics, such as novelty, in affecting cognitions, emotions, and behavior regarding the issue and its news coverage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>This study transfers the idea of overexposure to the news media environment and addresses the issue of how news media report on some issues frequently and extensively over a longer period, even though the public might no longer agree with the relevance level given to the issue and instead perceive issue fatigue <ref type="bibr" target="#b28">(Kuhlmann et al., 2014;</ref><ref type="bibr" target="#b34">Metag &amp; Arlt, 2016;</ref><ref type="bibr" target="#b40">Schumann, 2018)</ref>. The findings from this exploratory, mixed-methods study suggest that repeated exposure to the same political issue over a prolonged period particularly impacts users' affective and cognitive stance toward the issue and their evaluation of media coverage, leading some news users to turn away from the issue. Thus, the theoretical idea of public boredom and saturation effects regarding public issues, occurring when media attention to these issues is enduringly high <ref type="bibr" target="#b20">(Henry &amp; Gordon, 2001;</ref><ref type="bibr" target="#b36">Neuman, 1990)</ref>, is supported. Users' issue fatigue can carry further detrimental implications for the individual users, political processes, and news media, or journalists, respectively, thereby qualifying as a relevant subject for further research. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gwendolin</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Media reports on Brexit per day (2019).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Gurr is a research assistant and Ph.D. student in the Department of Communication and Media Research (DCM), Université de Fribourg/Universität Freiburg, Switzerland. Her research interests include political communication, news media use use and effects and attitudes toward news media and politics. Julia Metag is a professor in the Department of Communication at the University of Muenster, Germany. Her research interests include science communication, political communication, online communication and media effects.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Cognitions.</figDesc><table><row><cell>Dimensions</cell><cell>Example</cell></row><row><cell>Lengthiness</cell><cell>It takes so long; that's negative. And simply because it's being dragged out-</cell></row><row><cell></cell><cell>unnecessarily in my opinion. (ID = 12, age = 54, male, education = 2, issue</cell></row><row><cell></cell><cell>interest = 5, political interest = 4; interview: 06/12)</cell></row><row><cell>Redundancy/lack of</cell><cell>Not much news. You almost feel as if a rotating record has been put on. The</cell></row><row><cell>novelty</cell><cell>topic hasn't lost any of its laboriousness. (ID = 15, age = 76, male,</cell></row><row><cell></cell><cell>education = 3, issue interest = 5, political interest = 4; diary: 05/15)</cell></row><row><cell>Lack of progress</cell><cell>It disturbed me that it somehow was the same points again. Something</cell></row><row><cell></cell><cell>happens, but nevertheless, there is no solution. That the same questions are</cell></row><row><cell></cell><cell>being asked over and over again; it's some kind of circle. Somehow the whole</cell></row></table><note><p>thing turns around and around. The same arguments are being brought up constantly. (ID = 19, age = 33, female, education = 3, issue interest = 3, political interest = 3; interview: 05/15) Political discontent Well, the issue itself didn't actually, and also the media coverage didn't actually annoy me, just somehow how those people dealt with it. (ID = 11, age = 55, female, education = 2, issue interest = 2, political interest = 3; interview: 06/16)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Affect.</figDesc><table /><note><p>Dimensions Example Annoyance Actually, what has been written, it went on endlessly, and that's annoying. (ID = 7, age = 35, male, education = 3, issue interest = 4, political interest = 4; interview: 05/ 30) Anger The first news in a long time, and they keep dithering. Anger, disappointment. (ID = 7, age = 35, male, education = 3, issue interest = 4, political interest = 4; diary: 05/22) Boredom Boring, annoying, they ought to move forward. (ID = 12, 54, age = male, education = 2, issue interest = 5, political interest = 4; diary: 05/17)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Evaluation of media coverage.</figDesc><table><row><cell>Dimensions</cell><cell>Example</cell></row><row><cell>Lack of novelty/information</cell><cell>That Theresa May is resigning today was actually known days ago. So</cell></row><row><cell>redundancy</cell><cell>nothing new there. Boris Johnson and Michael Grove being possible</cell></row><row><cell></cell><cell>successors of T.M.-isn't new either. It seems the media coverage is</cell></row><row><cell></cell><cell>a little stuck at the moment. Or have I read the wrong newspaper?</cell></row><row><cell></cell><cell>(ID = 16, age = 72, female, education = 2, issue interest = 4,</cell></row><row><cell></cell><cell>political interest = 4; diary: 06/07)</cell></row><row><cell>Sensationalism</cell><cell>I realize that on the weekend, there is the discussion of Boris Johnson.</cell></row><row><cell></cell><cell>Then I realized it starts being annoying again, the scandalous about it.</cell></row><row><cell></cell><cell>(ID = 1, age = 51, female, education = 3, issue interest = 5, political</cell></row><row><cell></cell><cell>interest = 4; interview: 06/16)</cell></row><row><cell>Personalization</cell><cell>You felt like this woman [Theresa May] was being used as cannon</cell></row><row><cell></cell><cell>fodder, but the background-how and what exactly-that would've</cell></row><row><cell></cell><cell>been more interesting for me. (ID = 1, age = 51, female,</cell></row><row><cell></cell><cell>education = 3, issue interest = 5, political interest = 4; interview:</cell></row><row><cell></cell><cell>06/16)</cell></row><row><cell>Lack of depth</cell><cell>Yes, you've only constantly heard the closing words of Theresa May, but</cell></row><row><cell></cell><cell>not much more. [. . .] What I missed exactly was the debate, the pros</cell></row><row><cell></cell><cell>and cons. [. . .] Those superficial statements, then I don't like to hear</cell></row><row><cell></cell><cell>about it anymore.</cell></row></table><note><p>(ID = 1, age = 51, female, education = 3, issue interest = 5, political interest = 4; interview: 06/16) Complexity The information came across as too complex. [. . .] When you are not really following it, then it's usually just too complex and so, so it just isn't interesting anymore to follow, when you don't get it from the start. (ID = 21, age = 27, female, education = 2, issue interest = 2, political interest = 4; interview: 06/12)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Relationship between issue and media coverage evaluation. See Tables1 and Tables 3. Undifferentiated evaluation It goes around in circles, and it was exactly the same with the media coverage. There was never anything new. It was always the same in the media coverage. (ID = 6, age = 40, male, education = 2, issue</figDesc><table><row><cell>Dimensions</cell><cell>Example</cell></row><row><cell>Independent evaluation</cell><cell></cell></row><row><cell></cell><cell>interest = 3, political interest = 4; interview: 05/23)</cell></row><row><cell>Similar but differentiated</cell><cell>So, the problem isn't the media coverage, but what's happening</cell></row><row><cell>evaluation (a)</cell><cell>politically. That's somehow mirrored in the media coverage, and that's</cell></row><row><cell></cell><cell>actually the endless thing, always so endlessly, endlessly, endlessly.</cell></row><row><cell></cell><cell>(ID = 7, age = 35, male, education = 3, issue interest = 4, political</cell></row><row><cell></cell><cell>interest = 4; interview: 05/30)</cell></row><row><cell>Similar but differentiated</cell><cell>They look at the issue from many different perspectives, and at some</cell></row><row><cell>evaluation (b)</cell><cell>point, it's just "through," but they have to squeeze everything out of it.</cell></row><row><cell></cell><cell>So, I felt sometimes like they could also let it be, but nevertheless, they</cell></row><row><cell></cell><cell>kept bringing it up. (ID = 17, age = 60, male, education = 3, issue</cell></row><row><cell></cell><cell>interest = 3, political interest = 4; interview: 06/12)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Information load.</figDesc><table><row><cell>Dimensions</cell><cell>Example</cell></row><row><cell>Overload regarding</cell><cell>It's a very big amount of information. It occurred that I sometimes read</cell></row><row><cell>information quantity</cell><cell>almost too much about the issue or that in some places, there was</cell></row><row><cell></cell><cell>almost too much written. (ID = 5, age = 20, female, education = 2,</cell></row><row><cell></cell><cell>issue interest = 3, political interest = 4; interview: 05/23)</cell></row><row><cell>Overload regarding</cell><cell>By reporting every day in every newspaper about the topic Brexit-</cell></row><row><cell>frequency</cell><cell>every day, in every medium, from radio to Tagesschau to 10vor10-</cell></row><row><cell></cell><cell>there was always something about Brexit. And I feel like no one in</cell></row><row><cell></cell><cell>Switzerland cares anymore. (ID = 6, age = 40, male, education = 2,</cell></row><row><cell></cell><cell>issue interest = 3, political interest = 4; interview: 05/23)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc>Behavior.</figDesc><table><row><cell>Dimensions</cell><cell>Example</cell></row><row><cell>Cognitive</cell><cell>Sometimes I did do something else when I knew, oh well, they're discussing the</cell></row><row><cell>avoidance</cell><cell>things I already know or that have been discussed three times already, then</cell></row><row><cell></cell><cell>I certainly didn't listen or watch as carefully as usual. (ID = 17, age = 60, male,</cell></row><row><cell></cell><cell>education = 3, issue interest = 3, political interest = 4; interview: 06/12)</cell></row><row><cell>Behavioral</cell><cell>I did something else during this time. So, for example, when the Tagesschau is</cell></row><row><cell>avoidance</cell><cell>running, and they discuss Brexit, I take out my mobile phone and look up</cell></row><row><cell></cell><cell>something. I distract myself. (ID = 6, age = 40, male, education = 2, issue</cell></row><row><cell></cell><cell>interest = 3, political interest = 4; interview: 05/23)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>A media content analysis on the Brexit issue was conducted as part of a larger research project.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>The diary questionnaire and the interview guideline can be found in the supplemental material file.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>Education levels (1 = low; 2 = medium; 3 = high); interest in the issue (from 1 = not interested at all to</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p>= very interested); political interest (from 1 = not interested at all to 5 = very interested); the last information refers to the date of the diary entry or interview.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Public health communications and alert fatigue</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Baseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Revere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Painter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toyoji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thiede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duchin</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1472-6963-13-295</idno>
+		<ptr target="https://doi.org/10.1186/1472-6963-13-295" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Health Services Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="295" to="303" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Novelty, complexity, and hedonic value</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Berlyne</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/BF03212593</idno>
+		<ptr target="https://doi.org/10.3758/BF03212593" />
+	</analytic>
+	<monogr>
+		<title level="j">Perceptions &amp; Psychophysics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="279" to="286" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Tuning out the world of news and current affairs. An empirical study of Europe&apos;s disconnected citizens</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blekesaune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Elvestad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aalberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/esr/jcq051</idno>
+		<ptr target="https://doi.org/10.1093/esr/jcq051" />
+	</analytic>
+	<monogr>
+		<title level="j">European Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="110" to="126" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Exposure and affect: Overview and meta-analysis of research, 1968-1987</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Bornstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.106.2.265</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.106.2.265" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="265" to="289" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The agenda-setting function of television news: Static and dynamic views</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">- B</forename><surname>Brosius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kepplinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009365090017002003</idno>
+		<ptr target="https://doi.org/10.1177/009365090017002003" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="183" to="211" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ad reactions over time: Capturing changes in the real world</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Edell</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209051</idno>
+		<ptr target="https://doi.org/10.1086/209051" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="114" to="118" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of message repetition and position on cognitive response, recall, and persuasion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Cacioppo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Petty</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.37.1.97</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.37.1.97" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="109" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Television commercial wearout: An information processing view</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Calder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sternthal</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002224378001700202</idno>
+		<ptr target="https://doi.org/10.1177/002224378001700202" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="186" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">What is climate change scepticism? Examination of the concept using a mixed methods study of the UK public</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Capstick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Pidgeon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2013.08.012</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2013.08.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="389" to="401" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Advertising wearout: An experimental analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sternthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leavitt</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002224377601300406</idno>
+		<ptr target="https://doi.org/10.1177/002224377601300406" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="365" to="372" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">In search of the informed citizen: What Americans know about politics and why it matters</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">X</forename><surname>Delli Carpini</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10714420009359466</idno>
+		<ptr target="https://doi.org/10.1080/10714420009359466" />
+	</analytic>
+	<monogr>
+		<title level="j">The Communication Review</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="164" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Media priming effects: Accessibility, association, and activation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Domke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Wackman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ijpor/10.1.51</idno>
+		<ptr target="https://doi.org/10.1093/ijpor/10.1.51" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="74" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Up and down with ecology: The &quot;issue-attention cycle</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Downs</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordhb/9780199646135.013.34</idno>
+		<ptr target="https://doi.org/10.1093/oxfordhb/9780199646135.013.34" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Abstracts</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="38" to="50" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Kennedy</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781071802779</idno>
+		<ptr target="https://doi.org/10.4135/9781071802779" />
+		<title level="m">An applied guide to research designs: Quantitative, qualitative, and mixed methods</title>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">What is qualitative interviewing</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Bloomsbury Academic</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The concept of information overload: A review of literature from organization science, accounting, marketing, MIS, and related disciplines</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Eppler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mengis</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01972240490507974</idno>
+		<ptr target="https://doi.org/10.1080/01972240490507974" />
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="325" to="344" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effects of message repetition and negativity on credibility judgments and political attitudes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ernst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kühne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wirth</surname></persName>
+		</author>
+		<idno type="DOI">10.5167/uzh-139745</idno>
+		<ptr target="https://doi.org/10.5167/uzh-139745" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="3265" to="3285" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Mapping the field</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Flick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The SAGE handbook of qualitative data analysis</title>
+		<editor>
+			<persName><forename type="first">U</forename><surname>Flick</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Patterns of relationships between issues: An analysis of German prestige newspapers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Geiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ijpor/edq050</idno>
+		<ptr target="https://doi.org/10.1093/ijpor/edq050" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="286" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Trust in online journalism</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Grosser</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21670811.2015.1127174</idno>
+		<ptr target="https://doi.org/10.1080/21670811.2015.1127174" />
+	</analytic>
+	<monogr>
+		<title level="j">Digital Journalism</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1036" to="1057" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Tracking issue attention: Specifying the dynamics of the public agenda</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Gordon</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/322198</idno>
+		<ptr target="https://doi.org/10.1086/322198" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="177" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herbert</surname></persName>
+		</author>
+		<title level="m">Journalism in the digital age: Theory and practice for broadcast, print and online media</title>
+		<imprint>
+			<publisher>Focal Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The rise and fall of social problems: A public arenas model</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hilgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bosk</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/228951</idno>
+		<ptr target="https://doi.org/10.1086/228951" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="53" to="78" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">How message fatigue toward health messages leads to ineffective persuasive outcomes: Examining the mediating roles of reactance and inattention</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>So</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10810730.2017.1414900</idno>
+		<ptr target="https://doi.org/10.1080/10810730.2017.1414900" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="116" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Compassion fatigue: Communication and burnout toward social problems</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Kinnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Krugman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Cameron</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/107769909607300314</idno>
+		<ptr target="https://doi.org/10.1177/107769909607300314" />
+	</analytic>
+	<monogr>
+		<title level="j">Journalism &amp; Mass Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="687" to="707" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Generic advertising wearout</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kinnucan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">- S</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Venkateswaran</surname></persName>
+		</author>
+		<idno type="DOI">10.22004/ag.econ.9620</idno>
+		<ptr target="https://doi.org/10.22004/ag.econ.9620" />
+	</analytic>
+	<monogr>
+		<title level="j">Review of Marketing and Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="401" to="415" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Helpful or harmful? How frequent repetition affects perceived statement credibility</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zerback</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12063</idno>
+		<ptr target="https://doi.org/10.1111/jcom.12063" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="993" to="1010" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Affects and media exposure</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Konijn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The concise encyclopedia of communication</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Donsbach</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>John Wiley &amp; Sons Inc</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="19" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Ich will davon nichts mehr sehen und hören!&quot; Exploration des Phänomens Themenverdrossenheit [I don&apos;t want to see and hear anything of this any longer</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kuhlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>An exploration of the phenomenon of issue fatigue</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kommunikationswissenschaft</forename><surname>Medien</surname></persName>
+		</author>
+		<idno type="DOI">10.5771/1615-634x-2014-1-5</idno>
+		<ptr target="https://doi.org/10.5771/1615-634x-2014-1-5" />
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="5" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Unpacking overload: Examining the impact of content characteristics and news topics on news overload</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Holton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1386/ajms_00002_1</idno>
+		<ptr target="https://doi.org/10.1386/ajms_00002_1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Journalism &amp; Media Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="273" to="290" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The moderating influence of advertising context on ad repetition effects: The role of amount and type of elaboration</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malaviya</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/513044</idno>
+		<ptr target="https://doi.org/10.1086/513044" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Research</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="32" to="40" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Qualitative inhaltsanalyse: Grundlagen und techniken [Qualitative content analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mayring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Beltz Pädagogik</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Basics and techniques. th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The agenda-setting function of mass media</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Mccombs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/267990</idno>
+		<ptr target="https://doi.org/10.1086/267990" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="176" to="187" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Das Konstrukt Themenverdrossenheit und seine Messung. Theoretische Konzeptualisierung und Skalenentwicklung [The construct of issue fatigue and its measurement</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Metag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arlt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Theoretical conceptualization and scale development</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kommunikationswissenschaft</forename><surname>Medien</surname></persName>
+		</author>
+		<idno type="DOI">10.5771/1615-634X-2016-4-542</idno>
+		<ptr target="https://doi:10.5771/1615-634X-2016-4-542" />
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="542" to="563" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The threshold of public attention</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Neuman</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/269194</idno>
+		<ptr target="https://doi.org/10.1086/269194" />
+	</analytic>
+	<monogr>
+		<title level="j">The Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="176" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The conceptual framework of political support</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook on political trust</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Zmerli</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">W G</forename><surname>Van Der Meer</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="19" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Effects of television commercial repetition, receiver knowledge, and commercial length: A test of the two-factor model</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Rethans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Swasy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Marks</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002224378602300106</idno>
+		<ptr target="https://doi.org/10.1177/002224378602300106" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">50</biblScope>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">A case for an integrative view on affect regulation through media usage</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schramm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wirth</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/COMMUN.2008.002</idno>
+		<ptr target="https://doi.org/10.1515/COMMUN.2008.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Communications</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="46" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Is topic fatigue an international problem? Four theses</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schumann</surname></persName>
+		</author>
+		<idno type="DOI">10.22032/dbt.37780</idno>
+		<ptr target="https://doi.org/10.22032/dbt.37780" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Media Journal</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Conceptualizing news avoidance: Towards a shared understanding of different causes and potential solutions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skovsgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Andersen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1461670X.2019.1686410</idno>
+		<ptr target="https://doi.org/10.1080/1461670X.2019.1686410" />
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="459" to="476" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Predictors and effects of anti-obesity message fatigue: A thought-listing analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>So</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alam</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2018.1434736</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2018.1434736" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="755" to="763" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Message fatigue: Conceptual definition, operationalization, and correlates</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>So</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2016.1250429</idno>
+		<ptr target="https://doi.org/10.1080/03637751.2016.1250429" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="29" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Effects of &quot;mere exposure&quot; on learning and affect</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Stang</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0076165</idno>
+		<ptr target="https://doi.org/10.1037/h0076165" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">On the interdependence of cognition and emotion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Storbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Clore</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02699930701438020</idno>
+		<ptr target="https://doi.org/10.1080/02699930701438020" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognition &amp; Emotion</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1212" to="1237" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Issues in the design and analysis of panel studies: A cursory review</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Trivellato</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1004657006031</idno>
+		<ptr target="https://doi.org/10.1023/A:1004657006031" />
+	</analytic>
+	<monogr>
+		<title level="j">Quality and Quantity</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="351" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Emergence of news waves: A social simulation approach</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Waldherr</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.12117</idno>
+		<ptr target="https://doi.org/10.1111/jcom.12117" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="852" to="873" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">An anatomy of media hypes: Developing a model for the dynamics and structure of intense media coverage of single issues</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Elmelund-Praestekaer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0267323108101831</idno>
+		<ptr target="https://doi.org/10.1177/0267323108101831" />
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="183" to="201" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Overloaded by the news: Effects of news exposure and enjoyment on reporting information overload</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>York</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08824096.2013.836628</idno>
+		<ptr target="https://doi.org/10.1080/08824096.2013.836628" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research Reports</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="282" to="292" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Attitudinal effects of mere exposure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Zajonc</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0025848</idno>
+		<ptr target="https://doi.org/10.1037/h0025848" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

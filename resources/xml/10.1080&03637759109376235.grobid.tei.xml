@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">TESTING A CYCLICAL MODEL OF COMMUNICATIVE OPENNESS IN RELATIONSHIP DEVELOPMENT: TWO LONGITUDINAL STUDIES</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015-01-11">11 January 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">C</forename><forename type="middle">Arthur</forename><surname>Vanlear</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">The University of Connecticut</orgName>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">The University of Connecticut</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">TESTING A CYCLICAL MODEL OF COMMUNICATIVE OPENNESS IN RELATIONSHIP DEVELOPMENT: TWO LONGITUDINAL STUDIES</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2015-01-11">11 January 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0547B9AD2115984D45EE25569D8B675E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper reports the results of two longitudinal studies of openness-closedness cycling in relationship development based upon a model by <ref type="bibr" target="#b3">Altman, Vinsel, and Brown (1981)</ref>. Study 1 consists of behavioral observations of interactions among acquainting dyads over four weeks. Study 2 consists of self-reported measures of subjects' openness, openness of other, communication satisfaction, and relationship satisfaction in intact relationships over ten weeks. Fourier Analyses of the time series were conducted and meta-analyses were conducted to test the hypotheses. Both studies strongly support a cyclical model. There appear to be short cycles recurring within conversations superimposed over larger cycles across conversations. The results also suggest that people match and time the amplitude and frequency of their own cycling behavior to coincide with that of their partner. Study 2 found that the cycles of perceived openness coincide with fluctuations in communication satisfaction and that deteriorating relationships and older relationships evidence greater amplitudes in their cyclical fluctuations.</p><p>F or thirty years the assumption that communication is a process has been central to our discipline <ref type="bibr" target="#b11">(Berlo, 1960</ref><ref type="bibr" target="#b12">(Berlo, , 1977))</ref>. During the seventies this dynamic process view of communication merged with the developmental approach to interpersonal relationships <ref type="bibr" target="#b2">(Altman &amp; Taylor, 1973;</ref><ref type="bibr" target="#b9">Berger &amp; Calabrese, 1975;</ref><ref type="bibr" target="#b38">Miller, 1978)</ref>. This led Pearce (1976) to define interpersonal communication as "the sequencing of messages in conversations and the sequencing of conversations in relationships" (p. 17), thus implicating communication as constitutive of relationship development. Yet despite repeated calls for the longitudinal research implied by the developmental perspective (Bochner</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Throughout the 1970s one of the most popular theories of relationship development was <ref type="bibr" target="#b2">Altman and Taylor's (1973)</ref> social penetration theory. Relationships were pictured as progressing by the gradual, relatively linear, reciprocal increase in breadth and depth of information exchanged. Research supported the hypothesis that as relationships progress over time people gradually reveal more information about themselves and the intimacy level of that information gradually increases <ref type="bibr" target="#b2">(Altman &amp; Taylor, 1973;</ref><ref type="bibr" target="#b35">Knapp, 1984;</ref><ref type="bibr" target="#b36">Knapp, Ellis, &amp; Williams, 1980;</ref><ref type="bibr" target="#b49">Taylor, 1968)</ref>. Stability was the point at which growth leveled off and relationship disengagement or "depenetration" was pictured as the reverse of the formation process (i.e., less openness and more closedness). Research also suggested that this revelation occurs reciprocally <ref type="bibr" target="#b52">(VanLear, 1987)</ref>.</p><p>From the beginning it was apparent that a simple linear model did not capture all of the subtleties of the developmental process. <ref type="bibr" target="#b2">Altman and Taylor (1973)</ref> pointed out: "The process ebbs and flows, does not follow a linear course, cycles and recycles through levels of exchange" (pp. <ref type="bibr">[135]</ref><ref type="bibr">[136]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Cyclical Model</head><p>According to <ref type="bibr">Werner and Haggard (1985, pp. 62-63)</ref>, a cyclical pattern refers to "the cessation and recurrence of similar activities and feelings, or, in other cases, to a cycle in which behavior progresses repeatedly from a point of origin, through a pattern, and back to the same or very similar point of origin." Because many traditional epistemologies contain a linear assumption, cyclical models often arise from nontraditional epistemologies. This study will discuss two potentially complementary explanations for cyclical development: a systems explanation and a dialectic explanation.</p><p>Self-correcting systems. Systems are usually pictured as displaying cyclical patterns <ref type="bibr" target="#b26">(Fisher &amp; Drecksel, 1983;</ref><ref type="bibr" target="#b34">Jackson, 1965)</ref>. The arguments for a systems approach to relational communication are well known and so will not be reviewed here (see <ref type="bibr" target="#b25">Fisher, 1978;</ref><ref type="bibr" target="#b57">Watzlawick, Beavin, &amp; Jackson, 1967)</ref>. According to the systems perspective, relational systems are capable of two types of developmental processes: deviation amplification (positive feedback loops) leading to growth or change and deviation counteraction (negative feedback loops) leading to a stable steady state <ref type="bibr" target="#b25">(Fisher, 1978)</ref>. Continual unconstrained growth is untenable; there must be a threshold <ref type="bibr" target="#b34">(Jackson, 1965)</ref>. For example, if relationship development is characterized by greater and greater levels of verbal intimacy, then the relationship may soon reach a point where both parties are uncomfortable with further private/personal revelations. In such a case, the temporary return to a lower level of intimacy may not evidence a reversal of the relationship's progress. Likewise, excessive and prolonged restraint from disclosure or openness may create uncertainty and is likely to make establishment of a collaborative relationship difficult. Therefore, the alternation between intimacy and superficiality, revelation and restraint is not random fluctuation, but a self-correcting homeostatic process. 1  Of course it is possible that systems recalibrate as a result of changes in the threshold values. What constitutes prolonged or excessive intimacy probably changes with time and relational definition <ref type="bibr" target="#b2">(Altman &amp; Taylor, 1973;</ref><ref type="bibr" target="#b36">Knapp et al., 1980)</ref>. This could produce either changes in the baseline or the amplitude of deviations about the mean.</p><p>The dialectic model. "Dialectics" is a dynamic tension between opposites. <ref type="bibr" target="#b3">Altman, Vinsel, and Brown (1981)</ref> argue for a dialectic model which is explicitly designed to counter the linear appearance of social penetration theory. According to <ref type="bibr" target="#b3">Altman et al. (1981)</ref>, relationship formation can be viewed as the result of two dialectical processes: openness-closedness and stability-change. <ref type="bibr" target="#b3">Altman et al. (1981)</ref> use the research on privacy regulation to argue that relationships do not progress in a linear or unidirectional path toward ever increasing openness and integration. Most relationships are characterized by a degree of closedness or distance as well as openness. At times people want privacy and at times they need contact <ref type="bibr" target="#b1">(Altman, 1975)</ref>. There are times when people are open, candid, and confiding, and there are times when they are restrained, circumspect, and distant <ref type="bibr" target="#b3">(Altman et al., 1981;</ref><ref type="bibr">Burgoon, Parrott, LePoire, Kelley, Walther, &amp; Perry, 1989;</ref><ref type="bibr" target="#b44">Rawlins, 1983)</ref>. <ref type="bibr" target="#b1">Altman (1975)</ref> observed that "social interaction is the continuing interplay or dialectic between forces driving people to come together and to move apart" (p. 23).</p><p>They also argue that relationships possess elements of both stability and change <ref type="bibr" target="#b3">(Altman et al., 1981;</ref><ref type="bibr" target="#b6">Baxter, 1988)</ref>. People need a degree of predictability <ref type="bibr" target="#b19">(Chappie, 1970)</ref>, and regularity in relationships gives a measure of stability to one's life. However, relational scholars have long held that too much regularity or predictability is "stagnating" <ref type="bibr" target="#b35">(Knapp, 1984)</ref> and leads to relational rigidity <ref type="bibr" target="#b28">(Gottman, 1979;</ref><ref type="bibr" target="#b45">Rogers &amp; Bagarozzi, 1983)</ref>. Flexibility is necessary for adaptation to changing events both inside and outside of the relationship. Change is essential if a relationship is to grow, become closer, or more intimate <ref type="bibr" target="#b2">(Altman &amp; Taylor, 1973;</ref><ref type="bibr" target="#b35">Knapp, 1984)</ref>. It was this progressive change toward greater intimacy that social penetration theory was designed to model. <ref type="bibr" target="#b3">Altman et al. (1981)</ref> go on to argue that four aspects of the cycles of openness-closedness are affected by the dialectic of stability-change: (1) regularity, (2) relative duration, (3) frequency, and (4) amplitude. Obviously, frequency and duration are inversely related. Despite the nonlinear cyclical nature of their model, they maintain that relationship formation is progressive and cumulative. The nature of the cycles (e.g., frequency, amplitude, and duration) can progressively change over time, permitting growth. Stability, in this model, refers to the regularity or rhythm of the frequency, amplitude, and duration of the cycles over time. In keeping with social penetration's finding that change is fastest early in the relationship, <ref type="bibr">Altman et al.</ref> argue that the frequency of cycling should be highest early in the relationship, but the duration of the cycles should increase (and the frequency decrease) as the relationship progresses. Consistent with both social penetration's finding that openness generally increases over time, and the dialectic view that even well-developed relationships have periods of relative closedness, they suggested that the amplitudes of the cycles would be smallest early in the relationship, but that the height of the cycles would increase over time. The small cycles early in the relationship reflect the limited range of appropriate openness, whereas the larger cycles in more developed relationships reflect an expanded upper range of openness behaviors. <ref type="bibr" target="#b3">Altman et al. (1981)</ref> also discuss the "matching and timing" of individual cycles to coincide with the cycles of the relational partner. <ref type="bibr" target="#b58">Werner and Haggard (1985)</ref> refer to this as synchrony or "entrainment." Viable relationships should be characterized by matching of amplitudes and timing of the frequency and duration of openness-closedness cycles <ref type="bibr" target="#b3">(Altman et al., 1981;</ref><ref type="bibr" target="#b19">Chappie, 1970;</ref><ref type="bibr" target="#b58">Werner &amp; Haggard, 1985)</ref>. In the Altman et al. model, matching and timing of cycles is the translation of social penetration's hypothesis about reciprocity of openness to the cyclical model. Traditional views of reciprocity treat it either as the correlation of the partners' levels of openness <ref type="bibr" target="#b43">(Pearce, Wright, Sharp, &amp; Slama, 1974)</ref> or the sequentially contingent matching of openness behaviors <ref type="bibr" target="#b23">(Dindia, 1982;</ref><ref type="bibr" target="#b52">VanLear, 1987)</ref>. While the tendency of partners to produce sequentially contingent matching of openness behaviors may be responsible for this phenomenon, the notion of matching and timing suggests that it is the overall developmental trajectory that is coordinated or synchronized between relational partners. <ref type="bibr">Baxter and Wilmot (1983)</ref> tested several hypotheses from the Altman et al. dialectic theory. First, they predicted cycles of openness and closedness as defined by perceived personalness. Second, they predicted that the frequency of those cycles would be greater and the amplitude smaller early in the relationships than later in their histories. Their results supported the presence of cycling and the frequency hypotheses but showed larger amplitudes early in the relationship than later. They also found cycling behavior was moderately related to the stability of the relational definition (subjects' perceptions of changes in closeness). In accordance with their hypothesis, cycling frequency was more strongly related to definitional instability for more developed relationships, and cycling amplitude was more strongly related to definitional instability among less developed relationships. <ref type="bibr">Baxter and Wilmot's (1983)</ref> study is an important contribution, but it had several limitations. First, it was based exclusively upon self-reported openness. While there is nothing wrong with assessing cycling of self-reported openness (see Study 2), it is important to determine if subjective impressions of cycling manifest themselves in identifiable behavioral variations. Second, the criterion for what constituted a "cycle" was somewhat liberal. It did not necessarily exclude chance fluctuations-no cyclical function was tested for fit to the time series. Likewise, they did not require evidence of recurrent periodicity to identify the existence of a cycle-any single reversal of trend was considered a cycle including a U or inverted U shaped trend. Though such a trend is technically a cycle, Altman et al. are proposing a model of recurrent periodic cycling. Finally, it tapped the perceived behavior of only one party to the relationship, so hypotheses about matching and timing could not be tested. <ref type="bibr">Baxter and Wilmot (1983)</ref> called for future research to explore the synchrony of cyclical behavior.</p><p>In a longitudinal behavioral study, <ref type="bibr" target="#b51">VanLear (1985</ref><ref type="bibr" target="#b52">VanLear ( , 1987) )</ref> found evidence that individual private-personal behaviors followed an inverted U trend but that reciprocal "interacts" (matching behaviors in sequence) tended to follow a cyclical pattern of development. The evidence of sequential reciprocity may indicate matching and timing of cycles but is not a direct test ofthat hypothesis. Further, because of the nature of the analysis of individual acts, frequent cycling would have been difficult to detect because there were only twelve time periods. Also dyads "out of phase" with other dyads may have only contributed to the error term because they were "pooled together." In addition, the small sample size of the study (seven dyads) requires replication to be generalizable. Finally, a number of important hypotheses relevant to the cyclical model simply were not tested in VanLear's study.</p><p>This article reports the results of two longitudinal studies designed to test hypotheses about the cyclical model of openness in relationship development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STUDY 1: A BEHAVIORAL ANALYSIS OF CYCLING IN</head><p>RELATIONSHIP FORMATION The behavioral analysis of openness is advantageous <ref type="bibr" target="#b23">(Dindia, 1982;</ref><ref type="bibr" target="#b52">VanLear, 1987)</ref>. A behavioral analysis allows us to look at the observable manifestations of communication and relationship processes including dialectic cycles. It also permits a more microscopic examination of openness behaviors within conversations than self-reports of global impressions of openness. Study 1 has the further advantage of tracking relationships from their beginning over an extended period of time. The following hypotheses are tested.</p><p>H1 : People display significant evidence of recurrent periodic cycles of openness of verbal selfpresentation during the course of relationship formation.</p><p>The dialectic theory suggests that a cyclical model will provide the best description for openness trajectories during relationship development. Of course even the most ardent advocate of a linear model would not suggest that once a behavior or episode is enacted it will never recur again. If we observe a person long enough, we are bound to witness the repeated occurrence of similar behaviors, episodes, or variable values by chance alone. However, if a periodic function offers a better fit to temporal data within a relationship than a linear function, then a cyclical model may be called for. For a cyclical model to be a useful alternative we must be able to explain and predict these recurrences. Hypothesis 1 does not deny the possibility of a linear trend when averaging across the zeniths and nadirs of the cycles. However, it requires (a) that the cyclical pattern explain a significant increment in variance beyond that explained by the linear model, and (b) that the cyclical pattern be recurrent over time and not a simple nonlinear trend.</p><p>The regularity of interpersonal cycles is controversial. To have any predictive power there must be a degree of uniformity or rhythm to cyclical variation that distinguishes it from random variation. This, of course, does not give any reason to expect regularity. <ref type="bibr" target="#b58">Werner and Haggard (1985)</ref> contend that cycling in interpersonal relationships is too variable to be represented by a single, smooth, uniform sine wave. However, <ref type="bibr" target="#b55">Warner (1991)</ref> cites evidence that cycling is to some extent periodic, nonrandom and systematic.</p><p>There are three reasons to expect a degree of regularity amidst the complexity. First, people like a degree of predictability and stability in their social lives and the pacing of communication cycles may provide them with that continuity. Second, people have natural physiological rhythms which may manifest in regular behavioral cycles <ref type="bibr" target="#b19">(Chappie, 1970;</ref><ref type="bibr" target="#b55">Warner, 1991)</ref>. Finally, our social lives are structured around regular periodic social activities. We often go to work, school, church, bowling, lunch, coffee, or meetings at regular times. In the course of these activities we often see the same people and engage in a regular sequence of interaction. These regularities may provide the contexts and constraints that entrain communication behaviors into predictable cycles.</p><p>The requirement that the cycles be periodic and predictable does not imply that they are simple or that their frequency, amplitude, and duration are rigidly uniform over time. 2 Rather it is hypothesized that relationship cycling is complex yet nonrandom.</p><p>H2: The cycles of verbal openness evident in relationship formation are complex rather than simple uniform periodic waves.</p><p>The dialectic of stability/change manifests itself as "organized complexity" <ref type="bibr" target="#b27">(Fisher, Glover, &amp; Ellis, 1977)</ref> in which periodic cycling is predictable yet complex. Two forms of cyclical complexity are represented in Figure <ref type="figure">1</ref>. <ref type="bibr" target="#b35">Knapp (1984)</ref> hypothesizes that the micro structure of conversational development is mirrored in the larger structure of relationship development. This is conceptually similar to a seasonal cycle. Therefore, one variation of hypothesis 2 is addressed by the first research question.</p><p>RQ1: Do these cycles repeat within conversations, between conversations, or both within and between conversations'?</p><p>Figure la graphs this form of cyclical complexity. Relationships develop both by the sequential coordination of behaviors within conversations and by the progression of those conversations over time <ref type="bibr" target="#b18">(Cappella, 1984;</ref><ref type="bibr" target="#b42">Pearce, 1976)</ref>. Each conversation has a beginning, middle, and ending which have identifiable functions and behavioral sequences <ref type="bibr" target="#b35">(Knapp, 1984)</ref>. Because the functions are enacted anew with each new conversation, one may expect to see a pattern of recurrent cyclical fluctuations across conversations. Yet, embedded within these larger cyclical fluctuations may be smaller cycles representing the ebb and flow of personalness, openness, disclosure, or information exchange <ref type="bibr" target="#b10">(Berger &amp; Kellermann, 1983)</ref>. The nesting of smaller cyclical processes within a larger cyclical progression forms a larger complex pattern. If people engage in relatively simple cycles between levels of openness, and if relationships generally increase in openness as they grow, then one might predict a model like that presented in figure lb <ref type="bibr" target="#b3">(Altman et al., 1981)</ref>. Yet, cycling is probably not so simple. Another form of cyclical complexity is graphed in figure lc and represented in the next set of hypotheses derived directly from the <ref type="bibr" target="#b3">Altman et al. (1981)</ref> model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H3a:</head><p>The frequency and length of the cycles of openness change systematically over time such that there are more frequent cycles of shorter duration early in the relationships and less frequent cycles of longer duration later in the relationships.</p><p>Predictions about the frequency and duration (period) of cyclical behavior are presented together because the frequency is a mathematical translation of duration. By definition, the more frequent the cycling the shorter the duration of each cycle.</p><p>H3b: The amplitude of the cycles of openness increase over time for developing relationships. <ref type="bibr" target="#b3">Altman et al. (1981)</ref> suggest that cyclical amplitude increases as relationships develop, even though <ref type="bibr">Baxter and Wilmot (1983)</ref> did not find this in their data. More developed relationships have a wider range of appropriate behavioral options for openness creating larger cyclical amplitudes. <ref type="bibr" target="#b58">Werner and Haggard (1985)</ref> as well as <ref type="bibr" target="#b3">Altman et al. (1981)</ref>  partners to a relationship synchronize or entrain their cyclical behavior to coordinate with each other.</p><p>H4a: Communicators time the frequency and duration of their cycles of verbal openness to coincide with the cycles of their conversational partner.</p><p>Warner (1991) argues that "the process through which speakers achieve coordination involves modulations of each speaker's cycle length" (p. 91). Timing is, therefore, the central issue of synchrony.</p><p>H4b: Communicators match the amplitude of their cycles of verbal openness to correspond to the amplitude of the cycles of their conversational partner.</p><p>Speakers not only time their cycles, but they also match the extent of openness. <ref type="bibr">Baxter and Wilmot (1983)</ref> did not test the matching and timing of cycles.</p><p>VanLear's (1987) test of sequential reciprocity was not a direct translation of the <ref type="bibr" target="#b3">Altman et al. (1981)</ref> hypothesis which suggests the matching of the overall developmental trajectory.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHOD</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Participants were undergraduate student volunteers from a large western university. The design was similar to VanLear's (1987) study. Subjects were randomly paired with another volunteer of the same sex and asked to talk to each other for one half-hour a week for a five-week period. Participants were unacquainted prior to the study and no other task or topics was provided. Conversations were audio taped. Of the subjects who participated in week one, 25 dyads continued for the full five weeks (attrition = 38%). Scheduling was the most apparent reason for attrition. 3 Because of defects in the recordings and record keeping, only 15 dyads (7 male and 8 female) yielded usable behavioral data for all conversations.</p><p>Only the first four weeks (two hours) of interaction were used because of the possibility that the final week would evidence "depenetration," which has been hypothesized to be the reverse of the formation process <ref type="bibr" target="#b2">(Altman &amp;, Taylor, 1973)</ref>. Verbal self-presentation was operationalized using <ref type="bibr" target="#b51">VanLear's (1985</ref><ref type="bibr" target="#b52">VanLear's ( , 1987) )</ref> category system, which is based upon Altman and Taylor's description of disclosure depth and a system developed by <ref type="bibr" target="#b39">Morton (1976)</ref>. Like Morton's, this system does not rely exclusively on the topic in assessing depth, nor does it require explicit self-reference for a statement to be coded as self-presentation. A complete coding manual is available upon request. There are four levels:</p><p>1. Nonsubstantive Utterances. Utterances that do not reveal anything about the speaker either directly or indirectly. 2. Public Accessible Utterances. Utterances that reveal only superficial public information about the speaker (e.g., small talk and demographic disclosures). 3. Semiprivate Disclosures. Statements that reveal information about the speaker that is neither superficial nor intimate (e.g., opinions and attitudes). 4. Private-Personal Disclosures. Statements that reveal information about the speaker that is private and personal in nature (i.e., intimate).</p><p>The 30 participants (15 dyads) generated 17,276 acts (turns at talk) over the 60 conversations, for an average of 288 acts per half-hour interaction. Coders (N = 15) were checked for reliability before and during coding. Each transcribed conversation was coded independently by three coders and their majority decision constituted the final code for each act. When there was no majority decision (less than 1% of the acts), the act was not included in the final data analysis. The majority decisions of each set of three coders were spot checked against the majority decisions of another set of three coders for reliability using <ref type="bibr" target="#b15">Brenan and Prediger's (1981)</ref> revision of <ref type="bibr" target="#b20">Cohen's (1960)</ref> kappa. A minimum of .75 was required. Both individual coders and the majority decisions were also checked for systematic category-by-category unreliability <ref type="bibr" target="#b33">(Hewes, 1985)</ref>. Though there were a few cases where individual coders had to be retrained and data recoded, the final reliabilities were adequate for all data (aver, kappa = .79).</p><p>Each conversation was divided into ten equal units and the ratings of depth averaged within each of those segments (T*N = 1200 total units). This procedure both standardizes the temporal metric and helps to smooth the data. It was not considered in the true spirit of the cyclical model to include short momentto-moment fluctuations across only a few utterances. However, ten time units per conversation and forty units per individual allows this study to detect cycles both within and across conversations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fourier Analysis</head><p>The principle method of analysis was Fourier Analysis, in which the periodic sinusoid functions are fit to the data using a least squares approach much like a linear regression line is fit to data in a trend analysis <ref type="bibr" target="#b13">(Bloomfield, 1976;</ref><ref type="bibr" target="#b56">Watt, 1979)</ref>. Obviously a detailed treatment of this method is beyond the scope of this report, yet, given its nontraditional nature, a brief description is in order. In a time series with x = [x,pc 2 , . . . x n ], any periodic component in the data can be modeled as:</p><formula xml:id="formula_0">x t = M + H cos(wt + P) + e t</formula><p>(1) Where x t is any data point in time; M is the series mean; H is the maximum amplitude; w is the frequency in radians; t is time units; P is the phase angle in radians; e t is the residual or error.</p><p>To facilitate least squares estimation this can be reduced to:</p><formula xml:id="formula_1">x t = M + A cos(wt) + B sm(wt) + e t ;</formula><p>(2) Where.4 = H cos(P) andB = -H sin(P) <ref type="bibr" target="#b13">(Bloomfield, 1976;</ref><ref type="bibr" target="#b56">Watt, 1979)</ref>.</p><p>In any series the highest frequency detectable has a period of 2t. Any time series, even a random one, can be represented by a series of sinusoid functions if enough components are included. Harmonic analysis decomposes a time series into a set of orthogonal Fourier components which can be summed to reproduce the original series <ref type="bibr" target="#b56">(Watt, 1979)</ref>. The more complex the signal, the greater the number of components necessary to adequately model the series. The goal is to accurately model the data with the most parsimonious model possible. Given the least squares estimate, any model can be evaluated by how much variance it explains.</p><p>In this study, different dyads may have different frequencies and periods. Averaging across these "out of phase" cycles could produce a nearly straight line rather than detect any true periodicity. Therefore, the Fourier Analyses were conducted separately for each of the 30 subjects' time series using a program created by James Watt. This program allows stepwise extraction of the strongest Fourier components based upon a least squares fit. A meta-analysis <ref type="bibr" target="#b0">(Allen &amp; Preiss, 1989;</ref><ref type="bibr" target="#b47">Rosenthal, 1984)</ref> was then conducted across the thirty sets of Fourier analyses to provide general tests of the hypotheses. The meta-analyses were used to aggregate the effect size estimates and test for homogeneity <ref type="bibr" target="#b0">(Allen &amp; Preiss, 1989)</ref>. Three methods <ref type="bibr" target="#b47">(Rosenthal, 1984)</ref> were used to test the aggregated effects: (a) Winer's method of adding is; (b) the Stouffer method of adding zs; and (c) a modified Stouffer method for testing the average z*</p><p>A sinusoid with a period as long or longer than the length of the data series may be the Fourier representation of a linear or quadratic trend rather than a clearly recurrent periodic cycle as predicted by hypothesis 1. What is necessary is to have criteria that establish that the functions retained represent significant recurrent cyclical patterns in a parsimonious model which explains a meaningful percentage (&gt; 10%) of the variance.</p><p>First, for a sinusoid function to be considered clear evidence of a recurrent periodic cycle it must go through two complete cycles. Second, this analysis is restricted primarily to a three-component Fourier model for several reasons: (a) It can be shown that a three-component model can adequately represent the <ref type="bibr" target="#b3">Altman et al. (1981)</ref> model; (b) A two-component model can detect cycles between and within conversations; 5 (c) If the first function (the "fundamental frequency") is not clearly periodic (at least two complete cycles), there is still the possibility that there are smaller, yet significant and meaningful periodic components; and, (d) A scree test suggested a three-component model offers an efficient yet adequate model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The meta-analyses for Study 1 are summarized in Table <ref type="table" target="#tab_1">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 1</head><p>To accept hypothesis 1, that there are recurrent periodic cycles of openness, a clearly periodic (two complete cycles) sinusoid function must significantly fit the data and explain a meaningful percentage of the variance beyond that explained by the linear trend. All thirty subjects had significant sinusoid functions that met the criteria for a recurrent periodic cycle. The average r for these functions was .47, indicating that 22% of the variance of the data, beyond that accounted for by a linear model, was explained by a simple cyclical model (p&lt;.01). This is even more important given that the average r for the linear trend was .18, explaining only 3% of the variance of openness over time. A meta-analytic test of homogeneity <ref type="bibr" target="#b0">(Allen &amp; Preiss, 1989</ref>) indicated that the observed variance in the thiry r values was smaller than that expected by sampling error. Hypothesis 1 was clearly supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 2 &amp; RQ1</head><p>Hypothesis 2 predicts cyclical complexity and was, therefore, tested by whether the addition of a second (or third) orthogonal component (harmonic) added significantly and meaningfully to the explained variance over that explained by the fundamental frequency (a single component model) and the linear trend (much like a step wise regression test). By comparing the periods of the shortest and longest of the Fourier functions, it was possible to determine whether cycling occurred within conversations, between conversations, or both within and between conversations.</p><p>The addition of a second sinusoid function accounted for an average of 15% more of the variance beyond the single component model (partial r = .39) indicating that openness cycling is a complex phenomenon. The two components together explained 40% of the variance. The addition of a third Fourier component explained 12% more of the variance of openness over time, further emphasizing the complexity of cyclical development. The mean period for the shortest of the periodic functions was 4.43 (13.3 minutes) and the mean period for the longest function was 14.9 (44.7 minutes). Virtually all the series showed significant recurrent cycling within conversations. Twenty-one of the series showed significant recurrent cycles across conversations. This suggests that shorter cycles take place within conversations and may often be superimposed over longer cycles that recur across conversations.</p><p>Hypotheses 3a £s? 3b</p><p>Hypotheses 3a and 3b, regarding changes in frequency and amplitude, were tested by dividing the time series for each subject in half and conducting separate Fourier analyses for the first half (the first two weeks or 20 time periods) and the second half (the second two weeks) of the dyads' relationships. Repeated measures tests of difFerence were then used to test the difference between the period (duration) and amplitude of the strongest Fourier component across the first and second halves of the relationships.</p><p>Neither hypothesis 3a nor 3b were supported by the data. The test for the difference between the periods of the cycles in the first half compared to the second half of the relationships showed no significant difFerence, F (I, 14) = 2.465, p &gt; .05, and the means were not even in the predicted direction. Likewise, the test of difference between the amplitudes of cycles in the first half compared to the amplitudes in the second half of the relationships showed no significant difFerence, F (I, 14) = 1.588,/? &gt; .05, though the means were in the direction predicted by <ref type="bibr" target="#b3">Altman et al. (1981)</ref>. These data Fail to support the hypothesized progressive change toward lower frequency and greater amplitude of openness cycles over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypotheses 4a &amp; 4b</head><p>Hypothesis 4a, that the timing of people's cycles coincide with their partner's cycles, was tested by fitting the period corresponding to the fundamental frequency (the strongest Fourier component) for speaker A's series (as determined by least squares fit) to his/her partner's series (speaker B) and testing whether that cycle explained a significant amount of the variance of speaker B's series. Next, a cycle for the fundamental frequency for speaker B's series was fit to speaker A's series and tested for significance. If speakers are timing their cycles of openness to correspond to their partners, then the strongest cycle for each person should be mirrored in a cycle of the same duration and frequency in their partner's series. 6  These tests supported hypothesis 4a. Exactly half of the comparisons showed significant matching of periods (p &lt; .05). The average effect size for this comparison was r = .31. The speakers' Fourier coefficients were also positively correlated (r = .43), indicating that the cycles were oscillating in the same direction.</p><p>Hypothesis 4b was tested by correlating the amplitude of the strongest periodic Fourier component for speaker A with the amplitude of the strongest periodic Fourier component for speaker B. This correlation was r = .69, offering strong support for hypothesis 4b. In general, it appears that people match and time their cycles with the cyclical behavior of their partners.</p><p>Figure <ref type="figure">2</ref> graphs the raw data and an overlay of the first two Fourier components for both speakers in a typical dyad from actual series in study 1. Comparing 2a to 2c it is apparent that the members of this dyad synchronized the timing of their cycles to match their partner's (r = .74). Both of the speakers' cycling in this example displayed cycling between conversations (the first component r 2 = .27 speaker A, r 2 = .55 speaker B) and within conversations (the second component r 2 = .15 speaker A, r 2 = .12 speaker B).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary of Study 1</head><p>The data from Study 1 clearly support a cyclical model of verbal openness during relationship formation. This model is complex, being composed of at least two or three periodic components. In addition to shorter cycles of openness within conversations (average duration =13 minutes), there are often longer cycles of openness across conversations (duration = 45 minutes). <ref type="bibr" target="#b35">Knapp (1984)</ref> contends that the structure of relationship development across conversations is mirrored in the structure within conversations. This is analogous to a seasonal cycle. It also appears that people match and time their cycles to fit the cyclical behavior of their relational partners.</p><p>Study 1 is limited. It only looked at cycling among acquainting dyads who were formed solely for the purposes of this research. It may tell us little about the behavior of intact naturally occurring relationships. Four weeks is a much shorter life span than many relationships enjoy. Even longer cycles may emerge in a longer study. While there are definite advantages to behavioral analyses, we do not know whether the participants experienced these cycles. This cycling may be unnoticed as participants cognitively average across zeniths and nadirs to form a mental picture of their communication as a smooth trend or flat line. Likewise, Study 1 gave no indication about whether participants are aware of their partner's cycling in matching and timing their cyclical behavior. Therefore, an examination of self-reported openness/closedness appears warranted. Also, while examination of overt behavior may allow assessment of cycling between varying degrees of openness, because we do not know what is withheld, it is difficult to assess closedness behaviorally. Finally, Study 1 was primarily descriptive and (other than time) did not look at either the causes or the consequences of variations in openness cycling.</p><p>STUDY 2: PERCEPTIONS OF OPENNESS CYCLING IN INTACT RELATIONSHIPS It can be argued that the definition of a relationship is, in part, the social and cognitive construction of the individuals involved. Most dialectic theories as-sume that people cognitively experience the dialectic tension between openness and closedness <ref type="bibr" target="#b3">(Altman et al., 1981;</ref><ref type="bibr" target="#b6">Baxter, 1988</ref><ref type="bibr" target="#b7">Baxter, , 1990;;</ref><ref type="bibr" target="#b44">Rawlins, 1983)</ref>. The issue of whether participants experience the communication in their relationships as cyclical is important <ref type="bibr" target="#b58">(Werner &amp; Haggard, 1985)</ref>.</p><p>Study 2 further explores the cyclical dialectic model by longitudinally examining perceptions of openness in intact ongoing relationships. Following are the hypotheses tested in Study 2: H1 : There are cycles of perceived openness/closedness of self and other reported over time in intact social and personal relationships. H2: The cycles ofopenness /closedness perceived in ongoing intact relationships are complex.</p><p>Hypothesis one is the simple translation of the basic hypothesis which forms the requisite context for all of the studies of cyclical processes. <ref type="bibr" target="#b3">Altman et al. (1981)</ref> imply that intact stable relationships (as opposed to newly formed developing ones) are characterized by more uniform and regular cyclical patterns. However, regular cycles are not necessarily simple. Cyclical complexity is hypothesized because of the evidence of complexity in study one and the variety of factors affecting cyclical behavior.</p><p>H3: The cycles of perceived openness/closedness of self coincide with the cycles of perceived openness/ closedness of the other.</p><p>This hypothesis holds that people perceive their own cycles of openness/ closedness as timed to the cycles that they perceive to be displayed by their relational partner <ref type="bibr" target="#b3">(Altman et al., 1981;</ref><ref type="bibr" target="#b58">Werner &amp; Haggard, 1985)</ref>. This is different from a strict definition of reciprocity <ref type="bibr" target="#b16">(Burgoon, Dillman, &amp; Stern, 1991)</ref> and also from hypothesis 4 in Study 1 in that actual matching is not assessed. However, if this hypothesis is supported, it will complement the previous findings.</p><p>H4: Long-term relationships display less frequent cycling, longer duration, and higher amplitudes than relationships with shorter histories.</p><p>This is simply a translation and retest of the principles behind hypotheses 3a and 3b from Study 1. Despite inconclusive results, the predictions are still based upon the <ref type="bibr" target="#b3">Altman et al. ( 1981 )</ref> model.</p><p>The relationship between the affective dimensions of relationships and openness is well known (e.g., <ref type="bibr" target="#b21">Cozby, 1973;</ref><ref type="bibr" target="#b59">Wheeless, 1978)</ref>. However, these findings have been based on cross-sectional correlations between generalized global assessments of openness and affective states across relationships. Far less research has observed changes in openness (much less cyclical changes) as correlated with changes in affective states over time. <ref type="bibr">Baxter and Wilmot (1983)</ref> hypothesized and found a relationship between cyclical behavior and the stability of relational definitions. Study 2 permits examination of the relationship between cyclical behavior and relational growth, deterioration, and stability with regard to relationship satisfaction. Frequent cycling and high amplitudes are predicted to be associated with relational change.</p><p>H5: Cyclical frequency is greater, the duration shorter, and the amplitude higher in growing and deteriorating relationships than in relationships that are more stable regarding relationship satisfaction.</p><p>There is a relationship between general assessments of openness and communication satisfaction. Cross-sectional data suggest perceived openness of self correlates .57 and perceived openness of other correlates .61 with communication satisfaction <ref type="bibr" target="#b53">(VanLear, 1988)</ref>. It is unclear, however, whether the day-to-day cyclical fluctuation of openness/closedness is mirrored in a corresponding fluctuation of communication satisfaction. If a cyclical model is supported, the results of this test will have some important implications about the affective quality of those cycles. Do our affective judgments about communication rise and fall with the ebb and flow of conversational openness/closedness, or are these cyclical fluctuations "artifacts" of the natural variation in topics and situations bearing little relation to our feelings and judgments? H6a: The overall amount of perceived openness of self and other is positively related to the overall amount of communication satisfaction. H 6b: The cyclical fluctuation of openness/closedness for self and other will be related to the fluctuations in communication satisfaction over time.</p><p>Finally, one might expect that different kinds of relationships (friendships, romantic relationships, marriages) might be characterized by different kinds of cyclical patterns. However, we do not have a clear basis for predicting what those differences will be. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Subjects were asked to pick a voluntary relationship which was either a marriage (n = 5), a friendship (n = 22), or a romantic relationship (n = 32) in which they conversed on a regular and frequent basis. The participants were asked to "monitor" every conversation in that relationship which lasted at least fifteen minutes, up to a minimum of 30 conversations and a minimum of ten weeks. To standardize the temporal metric, thirty conversations from each subject were used such that 1800 conversations were included in this data base. At the end of each conversation the subjects completed a "conversation monitoring form" which included questions measuring communication satisfaction, perceived openness/closedness of self, and of other. At the beginning and at the end of the study they also filled out a questionnaire which measured relationship satisfaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-Report Instruments</head><p>Perceived openness/closedness of self was measured by six items (a = .80) and perceived openness/closedness of other was measured by five items (a = .75).</p><p>These items were taken from past studies of openness and disclosure <ref type="bibr" target="#b36">(Knapp et al., 1980;</ref><ref type="bibr" target="#b59">Wheeless, 1978)</ref>. Communication satisfaction (a = .93) was measured by eight items from <ref type="bibr" target="#b31">Hecht's (1978)</ref> instrument. Relationship satisfaction was measured by ten items (a = .94) modified from a marital satisfaction measure <ref type="bibr" target="#b41">(Norton, 1983)</ref> and <ref type="bibr">Wheeless' interpersonal solidarity measure (1978)</ref>. 8 All questions used a seven-point Likert-type scale. Subjects also indicated how long they had been in the relationship (in months).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>The strategy for data analysis is similar to that in Study 1. Aseries of stepwise Fourier analyses were first fit to the data measuring perceived openness/ closedness of self and then to the series measuring perceived openness/ closedness of other for each of the 60 subjects and the strongest three sinusoid functions were extracted for each series based upon least square estimation. A meta-analysis was then conducted across the 60 sets of time series to aggregate the effects and test for the homogeneity of results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Table <ref type="table" target="#tab_3">2</ref> presents the results of the meta-analyses for Study 2.</p><p>Hypothesis 1 &amp;f 2 Hypothesis 1 requires a significant recurrent periodic sinusoid function (two complete cycles) in the series measuring perceived openness/closedness of self and other. Hypothesis 1 received strong support. All of the subjects reported series of self openness/closedness that meet the criteria for recurrent periodic cycling. The average effect size of this periodic component was r = .47, p &lt; .01, identical to the estimate from Study 1 (p &lt; .01). Whereas this component accounts for 22% of the variance, the linear trend (positive or negative) accounts for an average of 2% of the variance. The meta-analysis also shows that the observed variance in these r values for the cyclical model is less than that expected by sampling error-they are homogeneous. However, the observed variance for the linear model is greater than that expected by sampling error, indicating heterogeneity.</p><p>Hypothesis 2 was tested by determining whether a second Fourier component adds significantly to the explained variance of each subject's series for openness/ closedness of self and other. There is again clear evidence that the cyclical model is complex, involving at least two components, with the second component accounting for an average of 18% of the variance beyond that of the first component (p &lt; .01). The strongest recurrent periodic component has an average period of 7.6 conversations (frequency = 1.63 radians) and an average amplitude of .68 radians. The second component's period averaged 6.2 conversations with an average amplitude of .68. As in Study 1, the third Fourier component explains 12% of the variance of openness change over time.</p><p>The average effect size for the first periodic component for the perception of other's openness/closedness cycling was r = .52, indicating that a cyclical model of openness/closedness explains 27% of the variance (p &lt; .01). This component had an average period of 7.34 conversations (frequency =1.5 radians) and an average amplitude of .91 radians. The meta-analysis also showed this model was homogeneous. The second Fourier component also explained 18% of the variance beyond the first, indicating that cycling of other's perceived openness/ closedness is also complex.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 3</head><p>This hypothesis was tested by fitting the parameters of the strongest Fourier component for each person's perceived openness of self series to the time series representing the perceived openness of his/her relational partner. 9 The Fourier coefficients, periods, frequencies, and amplitudes of the strongest Fourier components for self were also correlated with the coefficients, periods, frequencies and amplitudes of the strongest components for openness of other.</p><p>Hypothesis 3 was supported. The average effect size for this fit was r = .38, p &lt; .01, indicating that 14% of the variance of one's openness cycling is accounted for by timing one's cycling to the perceived cycling of one's partner. Thirty-five of these comparisons were statistically significant and twenty-five were nonsignificant. The observed variance in the r values associated with these comparisons was less than that expected from sampling error. The Fourier coefficients were positively correlated, r = .25,/? &lt; .05, indicating that they were not cycling in opposite directions. However, there was no significant correlation between the amplitudes of the cycles for openness of self and openness of other in Study 2 (r = .03, p &gt; .05). The average level of self openness over time was also correlated with the average level of perceived openness of other (r = .68).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 4</head><p>The periods and amplitudes for the strongest Fourier components for each subject's series regarding perceived openness of self and other were entered into a regression analysis with relationship length to test hypothesis 4. The only effect for relationship length was a significant positive correlation with the amplitude of cycles for openness of self, r = .34, ¿(57) = 2.73,/? &lt; .01, with no nonlinear effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 5 à? RQ1</head><p>The difference between subjects' scores on relationship satisfaction at the end of the study and relationship satisfaction at the beginning of the study were computed to create a score for relationship change (M = +2.0, s.d. = 8.2; Median = 1; range = -36 to 23). Subjects were divided into three groups: (a) deteriorating relationships (diff. &lt; -1; n = 10), (b) stable relationships (diff. &gt; -1 &lt; +3; n = 28), and (c) growing relationships (diff. &gt; +3; n = 20). These represent two natural breaks in the distribution at equal distances from the median. The periods and amplitudes for openness of self and other were treated as the dependent variables in a MANO VA analysis in which relationship type and change in relationship satisfaction were the independent variables used to test hypothesis 5 and research question 1.</p><p>Hypothesis 5 is partially supported by the data. Change in relationship satisfaction had a significant multivariate main effect, F(8, 92) = 2.50, ^=.01, and a significant univariate main effect on cyclical amplitude, F(2,50) = 5.130, p = .009, for openness of self but not on period, frequency, or any aspect of the cycles of other (p &gt; .05). This effect is primarily accounted for by the tendency of deteriorating relationships (M = 1.20) to enact cycles with larger amplitudes than stable relationships (M = .59; growth M = .72).</p><p>Research question 1 was answered negatively. There was no evidence of a significant difference in cycling activity across the different types of relationships (p &gt; .05).</p><p>Figure <ref type="figure">3</ref> graphs representative examples of openness of self and their fundamental frequency from the time series of a growing, stable, and deteriorating relationship.</p><p>Figure <ref type="figure">3a</ref> displays the single component model (fundamental frequency) of a growing relationship of 2.5 years duration. The model of the fundamental frequency for the 3.5 year relationship presented in Figure <ref type="figure">3b</ref> displays the shallow smooth cycle suggested as characteristic of a stable relationship. Figure <ref type="figure">3c</ref> is based on a declining 2-year-old relationship and the graph shows the high amplitude cycling found to be characteristic of relationship deterioration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 6</head><p>Hypothesis 6a was tested by correlating the average level of perceived openness of self and other with the average level of communication satisfaction. Hypothesis 6b was tested by fitting the period and frequency parameters for the strongest Fourier components for openness of self and openness of other to that subject's series of communication satisfaction scores.</p><p>The correlations between the average levels of openness of self and communication satisfaction, r = .42, and between the average levels of openness of other and communication satisfaction, r = .52, support hypothesis 6a, p &lt; .01. More importantly, however, the tests which fit the frequency and periods of each subject's cycles for openness of self and openness of other to the series of that participant's communication satisfaction scores indicates a tendency of cycles of self openness/closedness, average r = .37, and cycles of perceived openness of other, average r = .37, to co-occur with cycles of communication satisfaction. The fit between the cycles of openness of self and communication satisfaction was significant for 37 of the 60 subjects. The fit between the cycles of other and communication satisfaction was significant for 35 of the 60 subjects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Meta-Analysis Comparing Study 1 and Study 2</head><p>The single component cyclical model explained an identical amount of variance in both studies. A meta-analysis showed there was no significant difference between the two studies in the amount of variance accounted for by the two-component model, Z = .154, p &gt; .05. A meta-analytic test of difference between the r values associated with timing of cycles in study 1 and those r values in study 2 also showed no significant difference, Z = .338, p &gt; .05, despite the differences in the temporal and openness measurements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>These two studies together provide some fairly consistent information about a cyclical model of openness in relationship development. Though Study 1 was a behavioral analysis of newly formed acquaintances and Study 2 was a study of self-reported openness in intact friendships and romantic relationships, the results were remarkably the same. Both studies show clear evidence of recurrent, periodic cycling between openness and closedness, revelation and restraint. The dominant cyclical pattern in both studies explained an identical portion of the variance of openness over time.</p><p>Both studies show that cyclical behavior is complex, involving at least two or three components. Apparently cycling occurs both within and across conversations. These data suggest that these shorter, more frequent cycles are superimposed upon longer cycles. Likewise, these cycles do not appear to be meaningless behavioral fluctuations but are registered perceptually as periodic variations in the openness of self and others. The complexity of cycles in Study 2 suggests that there may be a variety of regular factors, activities, and constraints that entrain people's periodic openness behavior.</p><p>Study 1 indicated that people match the amplitude of their cycles to fit those of their partners. Study 1 showed that partners actually synchronize the timing of their cycles and Study 2 suggested that they perceive their own and other's openness cycles to be timed. Without the results of Study 1, it would be tempting to attribute the association between the perceived cycles of self and other to projection. However, when the results of both studies are taken together they provide complementary information. It is important to note, however, that this did not happen in each and every case. The issues of when matching and timing occur and the implications of the failure to coordinate cycling behavior are issues for future research. It may be as <ref type="bibr" target="#b52">VanLear (1987)</ref> suggests that the dialectic tension between openness and closedness, revelation and restraint, is relational. As such, the dialectic tension may be as much between reciprocity and compensation as between openness and closedness. Reciprocity, and hence matching and timing, are often appropriate to maintain "equity of exchange" <ref type="bibr" target="#b46">(Roloff &amp; Campion, 1985)</ref> or equivalency of "information power" <ref type="bibr" target="#b9">(Berger &amp; Calabrese, 1975)</ref>, or just to index mutual levels of involvement. However, there may be times when the most appropriate response to a person's candid revela-tion is to listen and "keep a low profile." There may be times when one person's attempts to escalate the relationship through intimate dialogue are met with distancing behaviors designed to compensate for the excessive openness of the other. Synchronizing cycles is the rule, but the rule is not inviolate.</p><p>Finally, while these studies do not support all of the Altman et al. (1981) model, particularly with regard to simple, progressive, and systematic increases in frequency over time, Study 2 does support an increase in amplitude from newly formed to more long-term relationships (and the trend in Study 1 is in the same direction). It stands to reason that well developed relationships will experience a wider range of variance in openness/closedness states than newly formed relationships. The threshold for the upper boundary of openness may increase in well established relationships <ref type="bibr" target="#b3">(Altman et al., 1981)</ref>, thus allowing for greater cyclical amplitude.</p><p>Study 2 suggests an important association between cycle amplitudes and relational deterioration. It appears that as relationships deteriorate, they begin to exhibit greater amplitudes in their periodic cycles. It seems reasonable that people experiencing a decline in satisfaction will fluctuate between more extreme levels of openness. After all, even though dissatisfaction may bring more restraint and guarded behavior to one's self-presentations, the act of expressing one's dissatisfactions or confronting a deteriorating relationship often calls for candor and openness of the highest magnitude <ref type="bibr" target="#b5">(Baxter, 1985)</ref>. One would expect systems in the process of uncoupling to go through extreme erratic oscillations.</p><p>This study also shows that the relationship between communicative openness and communication satisfaction is not only present in the correlation between overall levels of openness and overall levels of communication satisfaction, but that the day-to-day fluctuations in openness/closedness are often concurrent with the day-to-day fluctuations in communication satisfaction. The fluctuations in communication satisfaction may be both cause and consequence of openness variation, but the association indicates that the ebb and flow of openness is not a neutral affect-free oscillation, but is often connected to feelings and judgments. However, not all relationships showed a clear association between the cyclical oscillations of openness and satisfaction suggesting that, perhaps, not all cyclical activity is based in affective reactions.</p><p>A dialectical model implies much more than recurrent cycles of openness and closedness <ref type="bibr" target="#b6">(Baxter, 1988</ref>). Yet many of the nuances of and responses to dynamic dialectic tensions (e.g., contingency, "topical segmentation," etc.), eventually translate into cyclical alteration. Whether the function is to hold in check the excesses of the polar extremes in a negative feedback loop, or to make appropriate contingent selections based on situational strategies, cyclical alteration over time is the result. Future research might explore what other behaviors display cyclical development and whether some variables, like social judgments of the other, may display linear development. Both the causes and implications of these recurrent cycles are important subjects for future research. ENDNOTES and a highly irregular cycle will be complex with regard to its mathematical model. However, certain somewhat complex cyclical models (e.g., smaller cycles embedded in larger cycles) may be quite regular.</p><p>3 Given the voluntary nature of participation, some subjects probably dropped out because they did not like their partner. Of course, real acquaintance relationships are also usually voluntary. 4 Whereas there are 1200 units, each time point is not independently selected, only people (N = 30) and dyads (n = 15) are independently selected. However, in this design people are nested within dyads and are not statistically independent. Tests are reported for both N = 30 and n = 15. In addition to statistical significance, it is important to evaluate the amount of variance accounted for. 5 In fact, Figures lb and lc were generated by the first and third Fourier transforms of data created to conform to the <ref type="bibr">Altman et al. model. Figure la</ref> was also generated by two orthogonal Fourier components (harmonics), the first component representing cycles across conversations and the second cycles within conversations.</p><p>6 This approach was used instead of ARIMA or bivariate spectral analysis because it is somewhat stricter and more consistent with the Altman et al. hypothesis about matching and timing cycles. The other two methods would correlate the entire spectra of each person's time series, which would be appropriate for testing traditional issues of reciprocity. However, the method employed here extracts the fundamental frequency (the strongest Fourier model) of each person's recurrent cyclical behavior and then tests whether that model can be fit to a partner's time series much like one might fit a predicted regression slope obtained from prior data to another sample. Therefore, this model requires, not just that the level of a person's openness be related to the level of their partner's openness in the same temporal window, but that the best estimate of their partner's periodic cyclical behavior be reflected in a significant cyclical pattern of the same frequency and duration in their own time series. This does not, of course, indicate whether or not this is an intentional or even conscious process.</p><p>7 Thirteen students provided some data but did not complete the ten weeks or 30 conversations. One subject did not provide demographic or relationship satisfaction data, reducing the sample size to 59 for most analyses. There was an alternative method for getting extra credit and there was an alternative method for completing the assignment. Social security numbers were used for all data identification and for grading to insure anonymity and confidentiality.</p><p>8 The Measuring Instruments were as follows:</p><p>Perceived Openness/Closedness of Self  Item selection is based upon factor and reliability analyses conducted on cross-sectional and longitudinal data <ref type="bibr" target="#b53">(VanLear, 1988)</ref>. Given the length of the study, it was important to minimize the work required of participants. 9 Unfortunately only data from one member of the relationship was available in Study 2. Given the results of Study I, Study 2 provides different yet complementary information. The problems of correlating perceptual data from the same subject are less pronounced in longitudinal than crosssectional research. Ina cross-sectional design correlations between variables reported by the same person are often spuriously high as the result of the tendency of the base level of both measures to be influenced by a common response set. In a longitudinal design one can correlate the change in a person's score on one variable with the change in their score on another. This allows us to look at correlations between variables measured from the same person's perspective. Of course pressures toward consistency may still apply and, as previously indicated, this does not by itself measure actual reciprocity. The method used also insures that only the relationship between cycling of openness and communication satisfaction is correlated.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>RQ1:</head><label></label><figDesc>Are the periods and amplitudes of cycles of openness/closedness for self and other different for different types of relationships? METHOD Participants Participants (N = 60) were students from a large midwestern urban university who completed the full ten-week study. Approximately half of the participants were students who completed the study as part of a major assignment to analyze the communication in one of their relationships. The other half of the data was collected by offering students enrolled in an introductory organizational communication course extra credit. 7</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Downloaded by [University of Dayton] at 01:18 11 January 2015 29. I feel like we have an equitable relationship. 30. I do NOT really feel like a part of the team with this person.* *Item scores reversed.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>suggest that la Hypothetical Cycles Within and Between Conversations Time lb A Simple Cyclical Model: A Single Sine wave with Increased Openness</head><label></label><figDesc></figDesc><table><row><cell cols="2">Legend</cell><cell>la</cell></row><row><cell cols="3">Between Conversations</cell></row><row><cell cols="3">Within &amp; Between Conversations</cell></row><row><cell>lc</cell><cell cols="2">Cycles with Decreasing Frequency</cell></row><row><cell></cell><cell></cell><cell>and Increasing Amplitude</cell></row><row><cell>Ë. O</cell><cell></cell></row><row><cell>Time</cell><cell></cell><cell>Time</cell></row><row><cell>FIGURE 1</cell><cell></cell></row><row><cell cols="2">HYPOTHETICAL CYCLICAL MODELS.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1 STUDY</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="3">1 META-ANALYSIS</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Modified</cell></row><row><cell>Model</cell><cell></cell><cell>Change r 2</cell><cell cols="2">Average</cell><cell>Winer</cell><cell>StoufFer</cell><cell>Stouffer t</cell><cell>N</cell></row><row><cell>Linear</cell><cell>.18</cell><cell>.03</cell><cell>1.13</cell><cell></cell><cell>6.02**</cell><cell>3.98**</cell><cell>3.00**</cell><cell>30</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>4.38**</cell><cell>2.81**</cell><cell>2.12</cell><cell>15</cell></row><row><cell>Fourier</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Component 1</cell><cell>.47</cell><cell>.22</cell><cell>3.28</cell><cell></cell><cell>18.35**</cell><cell>14.13**</cell><cell>34.40**</cell><cell>30</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>12.98**</cell><cell>9.99**</cell><cell>24.23**</cell><cell>15</cell></row><row><cell>Component 2</cell><cell>.39</cell><cell>.15</cell><cell>3.17</cell><cell></cell><cell>16.90**</cell><cell>13.41**</cell><cell>45.76**</cell><cell>30</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>11.96**</cell><cell>9.48**</cell><cell>32.21**</cell><cell>15</cell></row><row><cell>Timing</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Comparisons</cell><cell>.31</cell><cell>.10</cell><cell>2.05</cell><cell></cell><cell>10.94** 7.73**</cell><cell>10.74** 7.60**</cell><cell>11.62** 8.22**</cell><cell>30 15</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">Homogeneity Tests</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Variance</cell><cell></cell><cell></cell><cell>Variance</cell><cell></cell><cell></cell></row><row><cell>Model</cell><cell></cell><cell>Expected</cell><cell></cell><cell></cell><cell>Observed</cell><cell></cell><cell cols="2">Ratio</cell></row><row><cell>Linear</cell><cell></cell><cell>.024</cell><cell cols="2">1</cell><cell>.024</cell><cell></cell><cell>1.0</cell></row><row><cell>Fourier</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Component 1</cell><cell></cell><cell>.016</cell><cell>/</cell><cell>'</cell><cell>.006</cell><cell></cell><cell>2.6</cell></row><row><cell>Component 2</cell><cell></cell><cell>.019</cell><cell>/</cell><cell>'</cell><cell>.002</cell><cell></cell><cell>9.5</cell></row><row><cell>Timing</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Comparisons</cell><cell></cell><cell>.021</cell><cell>/</cell><cell></cell><cell>.021</cell><cell></cell><cell>1.0</cell></row></table><note><p><p>Note:</p>The first line in each pair comes from all 30 participants; the second line is based on dyads as the sampling unit. *p &lt; .O5**/7 &lt; .01</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 2 STUDY</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="3">2 META-ANALYSIS</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Modified</cell></row><row><cell>Model</cell><cell>r</cell><cell>Change r 2</cell><cell cols="2">Average t</cell><cell>Winer z</cell><cell>Stouffer z</cell><cell>Stouffer t</cell><cell>N</cell></row><row><cell>Self Openness</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>.13</cell><cell>.02</cell><cell cols="2">1.23</cell><cell>9.12**</cell><cell>5.34**</cell><cell>4.18**</cell><cell>59</cell></row><row><cell>Fourier</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Compartment 1</cell><cell>.47</cell><cell>.22</cell><cell cols="2">3.32</cell><cell>24.54**</cell><cell>27.63**</cell><cell>26.67**</cell><cell>59</cell></row><row><cell>Component 2</cell><cell>.43</cell><cell>.18</cell><cell cols="2">3.12</cell><cell>22.96**</cell><cell>25.14**</cell><cell>57.37**</cell><cell>59</cell></row><row><cell>Other Openness</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>.22</cell><cell>.05</cell><cell cols="2">1.25</cell><cell>9.26**</cell><cell>9.33**</cell><cell>11.00**</cell><cell>59</cell></row><row><cell>Fourier</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Component 1</cell><cell>.52</cell><cell>.27</cell><cell cols="2">3.39</cell><cell>25.09**</cell><cell>29.98**</cell><cell>42.39**</cell><cell>59</cell></row><row><cell>Comparisons</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Self vs Other</cell><cell>.38</cell><cell>.14</cell><cell cols="2">2.30</cell><cell>17.04**</cell><cell>22.59**</cell><cell>20.28**</cell><cell>59</cell></row><row><cell>Self vs Comm.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Satisfaction</cell><cell>.37</cell><cell>.14</cell><cell cols="2">2.21</cell><cell>16.31**</cell><cell>21.80**</cell><cell>18.21**</cell><cell>59</cell></row><row><cell>Other vs Comm.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Satisfaction</cell><cell>.37</cell><cell>.14</cell><cell cols="2">2.20</cell><cell>16.31**</cell><cell>21.78**</cell><cell>18.32**</cell><cell>59</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Homogeneity</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Variance</cell><cell></cell><cell></cell><cell>Variance</cell><cell></cell><cell></cell></row><row><cell>Model</cell><cell></cell><cell>Expected</cell><cell cols="2">/</cell><cell>Observed</cell><cell>=</cell><cell>Ratio</cell></row><row><cell>Self Openness</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear Fourier</cell><cell></cell><cell>.033</cell><cell>/</cell><cell>'</cell><cell>.051</cell><cell></cell><cell>.65</cell></row><row><cell>Component 1</cell><cell></cell><cell>.021</cell><cell>/</cell><cell></cell><cell>.018</cell><cell></cell><cell>1.19</cell></row><row><cell>Component 2</cell><cell></cell><cell>.023</cell><cell>/</cell><cell>'</cell><cell>.003</cell><cell></cell><cell>8.29</cell></row><row><cell>Other Openness</cell><cell></cell><cell>.031</cell><cell>/</cell><cell></cell><cell>.022</cell><cell></cell><cell>1.41</cell></row><row><cell>Linear Fourier</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Component 1</cell><cell></cell><cell>.019</cell><cell>/</cell><cell>'</cell><cell>.008</cell><cell></cell><cell>2.28</cell></row><row><cell>*p &lt; .01</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>1. I talked about important feelings I have in this conversation. 2. I told the other person private or personal things about myself in this conversation. 3. I was very open with this person during the conversation. 4. I freely disclosed my opinions during the conversation. 5. I kept my feelings to myself during our conversation.* 6. I was NOT always honest with her/him in our conversation.* Perceived Openness of Other 7. I think the other person talked about important feelings she/he has during this conversation. 8. I think the other person told me private or personal things about her/himself during this conversation. 9. I think the other person was very open with me during this conversation. 10. I think the other person kept her/his feelings to her/himself during this conversation.* 11. I do NOT think the other person was always honest with me during our conversation.* Communication Satisfaction 12. I enjoyed our conversation. 13. We each got to say what we wanted. 14. I feel the other person valued what I had to say. 15. We were attentive to each other's comments. 16.1 felt accepted and respected during the conversation. 17. The other person showed me she/he understood what I said. 19. Our conversation flowed smoothly. 20. The other person expressed a lot of interest in what I had to say. Relationship Satisfaction 21. We have a very satisfying relationship. 22. We are very close to each other. 23. Our relationship is NOT very stable.* 24. Our relationship makes me happy. 25. Our relationship is strong. 26. Our relationship is very special and important to me. 27. I trust this person completely. 28. We have a good relationship.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded by [University of Dayton] at 01:18 11 January 2015</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>Though it is conceivable that negative feedback will not necessarily lead to cycling, the most common examples presented are of the cyclical variety.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p>The issues of complexity and regularity are related such that a very simple cycle will also be regular Downloaded by [University of Dayton] at 01:18 11 January 2015</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>The author would like to thank <rs type="person">Nick Trujillo</rs> and <rs type="person">Kathy Adams</rs> for help in data collection during Study 1, <rs type="person">James Watt</rs> for help with Fourier Analysis, <rs type="person">Geraldine VanLear</rs> for research assistance, and <rs type="person">Irwin Altman</rs> for reading an earlier copy of this study. The author accepts responsibility for any errors. The author would like to thank the <rs type="institution">Department of Communication at the University of Utah</rs> for supporting data collection for Study 1 and the <rs type="institution">Department of Communication at the University of Wisconsin-Milwaukee</rs> for supporting data collection for Study 2.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Basic meta-analysis: Theory and strategies for synthesizing empirical research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Preiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A research series short course conducted at the annual meeting of Speech Communication Association</title>
+		<meeting><address><addrLine>San Francisco, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989-11">1989, November</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The environment and social behavior: Privacy, personal space, territory and crowding</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Altman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Brooks/Cole</publisher>
+			<pubPlace>Monterey, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Social penetration: The development of interpersonal relationships</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Holt</publisher>
+			<pubPlace>New York; Rinehart, &amp; Winston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Dialectic conceptions in social psychology: An application to social penetration and privacy regulation</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vinsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Advances in experimental social psychology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Berkowitz</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="76" to="100" />
+			<date type="published" when="1981">1981</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Studying change over time: Criteria for sampling from continuous variables</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Arundale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="227" to="263" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Accomplishing relationship disengagement</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baxter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding personal relationships</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Perlman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="243" to="266" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A dialectical perspective on communication strategies in relationships development</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baxter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of personal relationships</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Hay</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Hobfoll</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Ickes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Montgomery</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="257" to="273" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Dialectical contradictions in relationship development</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baxter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="69" to="88" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">An investigation of openness-closedness cycling in ongoing relationship interaction</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wimot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paper presented at the annual meeting of the Western Speech Communication Association</title>
+		<meeting><address><addrLine>Albuquerque</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1983-02">1983, February</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Some explorations in initial interaction and beyond: Toward a developmental theory of interpersonal communication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Calabrese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="99" to="100" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">To ask or not to ask: Is that a question?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kellermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Bostrom</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="342" to="369" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The process of communication</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Berlo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Holt</publisher>
+			<pubPlace>New York; Rinehart, &amp; Winston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Communication as process: Review and commentary</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Berlo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Ruben</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Brunswick, N.J.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Transaction Books</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="11" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Fourier analysis of time series: An introduction</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bloomfield</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">On taking ourselves seriously: An analysis of some persistent problems and promising directions in interpersonal research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bochner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="179" to="191" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Coefficient kappa: Some uses, misuses, and alternatives</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Brenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Prediger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational and Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="687" to="699" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Reciprocity and compensation patterns in dyadic interaction: I. Definitions, operationalizations, and statistical analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Burgoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dillman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stern</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991-05">1991. May</date>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Paper presented to the International Communication Association convention</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Maintaining and restoring privacy through communication in different types of relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burgoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Parrott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Le Poire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Walther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="131" to="158" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The relevance of the microstructure of interaction to relationship change</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cappella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="239" to="264" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Culture and biological man</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Chappie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>Holt</publisher>
+			<pubPlace>New York; Rinehart, &amp; Winston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A coefficient of agreement for nominal scales</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational and Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Self-disclosure: A literature review</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Cozby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="73" to="91" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Self-disclosure with friends across the life cycles</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dickson-Markman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="259" to="264" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Reciprocity of self-disclosure: A sequential analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dindia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Burgoon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="506" to="528" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The study of acquaintance</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Duck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>Saxon House</publisher>
+			<pubPlace>Westmead, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Perspectives on human communication</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Fisher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>MacMillan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A cyclical model of developing relationships: A study of relational control interaction</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Drecksel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="66" to="78" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The nature of complex communication systems</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Glover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Ellis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="231" to="240" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Marital interaction: Experimental investigations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gottman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Time-series analysis: A comprehensive introduction for social scientists</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gottman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Cambri Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The development and maintenance of friendship</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hays</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="75" to="98" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The conceptualization and measurement of interpersonal communication satisfaction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="253" to="264" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The sequential analysis of social interaction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hewes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Journal of Speech</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="56" to="73" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Systematic bias in coding social interaction data</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hewes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="554" to="574" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The study of the family</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Family Process</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Interpersonal communication and human relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Knapp</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Allyn &amp; Bacon</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Perceptions of communication behavior associated with relationship terms</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Knapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="262" to="278" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Applied time series analysis for the social sciences</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mccleary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hay</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Beverly Hills, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The current status of theory and research in interpersonal communication</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="164" to="178" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Two-dimensional intimacy scoring system: Training manual</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Morton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Utah</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished manuscript</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Similarity and attraction: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neimeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="131" to="148" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Measuring marital quality: A critical look at the dependent variable</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Norton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="141" to="151" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The coordinated management of meaning: A rules-based theory of interpersonal communication</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Pearce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Explorations in interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="17" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Affection and reciprocity in self-disclosing communication</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Slama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Openness as problematic in ongoing friendships: Two conversational dilemmas</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Rawlins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">An overview of relational communication and implications for therapy</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bagarozzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marital and family therapy: New perspectives in theory, research and practice</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bagarozzi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Jurich</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Jackson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Human Sciences Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="48" to="78" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Conversational profit-seeking: Interaction as social exchange</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Roloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Campion</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sequence and pattern in communication behavior</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Street</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cappella</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Baltimore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Arnold</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="161" to="189" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Meta-analytic procedures for social research</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Beverly Hills</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Communicating personally</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rossiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Pearce</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Bobbs-Merrill</publisher>
+			<pubPlace>Indianapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Some aspects of the development of interpersonal relationships: Social penetration processes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="79" to="90" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Analysis of interaction data</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vanlear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication yearbook</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Bostrom</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="282" to="303" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">The formation of social relationships: A longitudinal comparison of linear and nonlin models</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vanlear</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Utah</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The formation of social relationships: A longitudinal study of social penetration</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vanlear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="299" to="322" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Perceived openness of self and other across relationships with differential grow trajectories: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vanlear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fourth International Conference on Personal Relationships</title>
+		<meeting><address><addrLine>Vancouver, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988-07">1988, July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">On becoming acquainted: A longitudinal study of social judgement processes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Vanlear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Trujillo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="375" to="392" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Incorporating time</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Warner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studying interpersonal interaction</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Montgomery</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Duck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="82" to="102" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Periodic components in communication data: Models and hypothesis testing</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Watt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979-05">1979. May</date>
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Paper presented at the annual meeting of the International Communication Association</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">The pragmatics of human communication</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Watzlawick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beavin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Jackson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>W.W. Norton</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Temporal qualities of interpersonal relationships</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Haggard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Knapp</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="59" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">A follow-up study of the relationships among trust, disclosure, and interpersonal solidarity</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Wheeless</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="143" to="157" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

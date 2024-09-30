@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A longitudinal investigation of information and support seeking processes that alter the uncertainty experiences of mental illness</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2022-01-09">2022-01-09</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kai</forename><surname>Kuang</surname></persName>
+							<email>kaikuang17@gmail.com</email>
+							<idno type="ORCID">0000-0002-9653-9574</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Journalism and Communication</orgName>
+								<orgName type="institution">Tsinghua University</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ningxin</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Management and Organization</orgName>
+								<orgName type="institution">National University of Singapore</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A longitudinal investigation of information and support seeking processes that alter the uncertainty experiences of mental illness</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Communication Monographs</title>
+						<title level="j" type="abbrev">Communication Monographs</title>
+						<idno type="ISSN">0363-7751</idno>
+						<idno type="eISSN">1479-5787</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">89</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="470" to="492"/>
+							<date type="published" when="2022-01-09" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">6D60A7D1ADDC155EB32C29EB49ED6D55</idno>
+					<idno type="DOI">10.1080/03637751.2021.2022736</idno>
+					<note type="submission">Received 18 January 2021 Accepted 16 December 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Mental illness</term>
+					<term>uncertainty discrepancy</term>
+					<term>information seeking</term>
+					<term>social support seeking</term>
+					<term>time-lagged effect</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Individuals living with mental illness commonly experience higheror lower-than-desired uncertainty (i.e., uncertainty discrepancy) related to their medical conditions, personal identities, and social relationships. An uncertainty discrepancy can trigger negative emotions and motivate communication behaviors such as information seeking and social support seeking, which, in turn, may alter the initially perceived uncertainty discrepancy. Threewave longitudinal data collected from 223 adults with clinically diagnosed mental illness suggested uncertainty discrepancy was associated with direct support seeking from family and best friends via mechanisms proposed by the theory of motivated information management. Indirect support seeking led to an increase in uncertainty discrepancy over time. Theoretical and practical implications regarding support seeking as an emotiondriven communicative response to uncertainty discrepancy are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>One in five U.S. adultsapproximately 51.5 million Americans aged 18 or olderlive with at least one mental illness condition <ref type="bibr">(National Institute of Mental Health, 2019)</ref>. Individuals with mental illness may experience uncertainty related to their medical conditions, personal identities, and social relationships (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004;</ref><ref type="bibr" target="#b27">Hippman et al., 2013)</ref>. When one's perceived uncertainty does not match their desired uncertainty, individuals become aware of an uncertainty discrepancy <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004</ref>). To cope with uncertainty discrepancies (i.e., higher-or lower-than-desired uncertainty) and related emotions, individuals with mental illness may engage in information seeking, avoidance, or reappraisal of the uncertain situation <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>; in some cases, they may seek social support from close others (e.g., <ref type="bibr" target="#b9">Brashers et al., 2002</ref><ref type="bibr" target="#b10">Brashers et al., , 2004;;</ref><ref type="bibr" target="#b37">Mishel, 1988)</ref>. For those living with mental illness, support from networks such as family and friends is especially important in facilitating effective management of uncertain experiences and negative emotions throughout the illness trajectory (e.g., <ref type="bibr" target="#b12">Choi et al., 2012</ref>), yet many do not seek support directly or effectively, which may result in dissatisfying support outcomes (e.g., <ref type="bibr" target="#b17">Don et al., 2019)</ref>.</p><p>Drawing on the theory of motivated information management (TMIM; <ref type="bibr" target="#b1">Afifi &amp; Morse, 2009;</ref><ref type="bibr" target="#b2">Afifi &amp; Weiner, 2004)</ref>, the objectives of this study are threefold. First, we sought to examine direct and indirect support seeking (e.g., <ref type="bibr" target="#b6">Barbee et al., 1990;</ref><ref type="bibr" target="#b21">Goldsmith, 2004)</ref> as additional forms of coping with uncertainty discrepancy related, negative emotions. Second, we adopted a longitudinal design to track changes in uncertainty discrepancy over time and tested the time-lagged effects of different communicative strategies, including information seeking and support seeking, on uncertainty discrepancy. Last, we situated the proposed tests within the informational context of clinically diagnosed mental illness and the relational contexts of familial and platonic relationships, as both information and social support are critical to coping with uncertainty discrepancy in mental illness. Although the TMIM does not directly consider support seeking within the information management process, given this study's focus on negative emotions related to how people make sense of their mental illness with friends and family, direct and indirect support seeking may constitute additional forms of communicative responses to uncertainty discrepancy-invoked emotions. Examining how information and support seeking strategies influence uncertainty discrepancy over time can enhance theoretical understandings about effective communicative actions that attenuate uncertainty discrepancy (versus those that amplify the discrepancy). Practically, examining determinants and outcomes of direct and indirect support seeking behaviors contributes to better understandings of strategies that can motivate individuals with mental illness to seek support effectively, which has pragmatic value for not only people living with mental illness but also those in their support networks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Uncertainty in mental illness and motivated information management</head><p>Uncertainty, in general, is defined as one's inability to determine the probability and outcome of an event due to insufficient or inconsistent information (e.g., <ref type="bibr" target="#b9">Brashers et al., 2002;</ref><ref type="bibr" target="#b37">Mishel, 1988)</ref>. Uncertainty is commonly experienced in illness, especially in chronic and stigmatized contexts such as mental illness. For example, prior to clinical diagnoses, uncertainty may arise from ambiguity concerning the current state of mental illness (e.g., inconclusive diagnosis, sudden change in symptoms, fluctuations in functioning). With confirmed diagnoses, those living with mental illness may experience uncertainties related to complexity in treatment options and systems of care (e.g., medications, psychotherapy, complementary and alternative therapies), unpredictability in terms of the cause, prognosis, and severity of one's mental illness condition(s), and a lack of controllability over the condition (e.g., no therapeutic or preventative measures; <ref type="bibr" target="#b27">Hippman et al., 2013;</ref><ref type="bibr" target="#b37">Mishel, 1988)</ref>. In addition to medical uncertainty, people may experience personal and social forms of uncertainty (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004)</ref>. For instance, stigma perceptions, including negative stereotypes and prejudices, can result in uncertainty about how one's mental illness may impact their personal identities, interactions with others, and relationships (e.g., <ref type="bibr" target="#b14">Corrigan et al., 2014)</ref>.</p><p>The experience of uncertainty in mental illness is neutral (neither a desired nor avoided experience) until the uncertainty is appraised <ref type="bibr" target="#b37">(Mishel, 1988)</ref>. Individuals may appraise uncertainty as an opportunity or a threat and may desire either higher or lower levels of uncertainty than what they currently experience <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>. For example, people may want to know more about treatment options or public beliefs about and attitudes towards people with mental illness, but wish they were less certain about how others avoid interacting with them after learning about their mental illness (e.g., <ref type="bibr" target="#b3">Angermeyer &amp; Dietrich, 2006)</ref>. When individuals perceive an uncertainty discrepancy, emotional responses such as anxiety are triggered, activating subsequent evaluations and decision making about whether to engage in communicative behaviors such as information management.</p><p>The theory of motivated information management (TMIM)</p><p>The TMIM <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref> proposes a process of information management in interpersonal relationships. The theory highlights that it is not uncertainty itself, but uncertainty discrepancy (UD) that drives one's motivation to reduce such discrepancy through information management <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>. Information management refers to the "communicative and cognitive activities such as seeking, avoiding, providing, appraising, and interpreting those environmental stimuli" <ref type="bibr">(Brashers et al., 2002, p. 259)</ref>. These activities can influence how uncertainty discrepancies are (re)constructed, managed, and resolved over time.</p><p>Specifically, the TMIM suggests that the information management process is represented by three stages: interpretation, evaluation, and decision. First, individuals become aware of the higher-or lower-than-desired uncertainty about an important issue and experience a range of UD-related emotions <ref type="bibr" target="#b1">(Afifi &amp; Morse, 2009)</ref>. Although the appraisal of uncertainty (e.g., as an opportunity or a threat) can influence the valence of emotions (e.g., anxiety vs. hope), in illness contexts, uncertainty experiences are typically associated with elevated levels of negative emotions (e.g., <ref type="bibr" target="#b39">Mishel, 2008)</ref>. Therefore, we focused on negative emotions given this study's focus on mental illness.</p><p>Next, during the evaluation stage, uncertainty discrepancy and experienced emotions motivate individuals to evaluate the expected outcomes of communicating about mental illness-related issues <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>. For example, some individuals may see the act of initiating a conversation about mental illness as threatening, whereas others may expect positive responses from others in these conversations (e.g., <ref type="bibr" target="#b9">Brashers et al., 2002)</ref>. In addition, people evaluate their efficacy before deciding how to manage UD-related emotions. The extent to which individuals see themselves as capable of communicating about mental illness-related issues (communication efficacy), can cope with the (possibly negative) responses they likely will receive (coping efficacy), and whether the target source such as a family member or a friend is able to provide honest and complete information on the issue (target efficacy) influence the information management decision. According to the TMIM, UD-related negative emotions are associated with more negative outcome expectancy and efficacy assessments. Outcome expectancy is positively associated with efficacy.</p><p>Last, at the decision stage, different information management strategies may be adopted, including seeking relevant information, avoidance, and cognitive reappraisal of the situation. This decision is directly influenced by efficacy assessments. Those with high efficacy levels likely will seek information from interpersonal networks (e.g., family and friends; <ref type="bibr" target="#b18">Fowler &amp; Afifi, 2011)</ref> and online sources (e.g., <ref type="bibr" target="#b48">Tokunaga &amp; Gustafson, 2014)</ref>. In mental illness, people who feel efficacious may seek information and advice from close others who know them (e.g., personality, preferences, relationships) and their problems (e.g., past experiences with mental illness) well to facilitate coping with UD-related negative emotions <ref type="bibr" target="#b11">(Buck &amp; Smith, 2015)</ref>. Individuals who expect negative outcomes from talk with others about their mental illness and have low efficacy may choose avoidance or cognitive reappraisal (e.g., <ref type="bibr" target="#b19">Fowler et al., 2018)</ref>.</p><p>In sum, the TMIM has specified how uncertainty discrepancies may impact individuals' subsequent information seeking, avoidance, and cognitive reappraisal through UDrelated emotions, outcome expectancy, and efficacy assessments. Therefore, we proposed the following (see Figure <ref type="figure" target="#fig_0">1</ref> for a graphical representation):</p><p>H 1 : Discrepancy between the desired and actual levels of uncertainty related to mental illness will be positively associated with negative emotions.</p><p>H 2 : Negative emotions related to uncertainty discrepancy will be negatively associated with (a) outcome expectancy and (b) efficacy assessments.</p><p>H 3 : Outcome expectancy will be positively associated with efficacy assessments.</p><p>H 4 : Efficacy assessments will be (a) positively associated with information seeking and negatively associated with (b) avoidance and (c) cognitive reappraisal two weeks later.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emotion-driven responses to uncertainty discrepancy</head><p>The TMIM has focused on insufficiencies in one's cognitive and knowledge structures (and associated sense-making process), highlighting that managing (and possibly resolving) uncertainty discrepancy requires utilization of cognitive resources <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>. The TMIM does recognize the close association between uncertainty discrepancy and emotions in the interpretation phase of the information management process, although it treats emotions as a mediating factor in the information management process. In other words, the TMIM and applications of the theory have largely approached individuals' responses to an uncertainty discrepancy as an issue about managing information. However, there is always an emotion management issue at stake, especially so within contexts such as mental illness where individuals, when experiencing negative and sometimes intense emotions triggered by uncertainty discrepancies, may consider reaching out to close networks for resources to cope with such emotions. When deciding how to approach others for support, individuals with mental illness may go through a cognitive appraisal process described by the TMIM. In this study, we examined social support seeking behaviors that directly address how individuals cope with the negative emotions invoked by uncertainty discrepancies.</p><p>Two lines of research have highlighted issues related to emotion management in uncertain situations. On one hand, the entropy model of uncertainty <ref type="bibr" target="#b28">(Hirsh et al., 2012)</ref> suggests that an uncertainty discrepancy is not only a cognitive state that exists due to a lack of knowledge or information but also "an intensely affective experience" (p. 310). Research focusing on the neurophysiological processes of uncertainty detection and resolution has indicated that experiences such as uncertainty discrepancy are closely related to anxiety-associated brain activities (e.g., <ref type="bibr" target="#b29">Jessup et al., 2010)</ref>. Therefore, individuals are motivated to manage UD-related negative emotions because they pose a fundamental adaptive challenge.</p><p>On the other hand, researchers in the stress and coping literature have examined how individuals cope with negative emotions in uncertain situations. Although not necessarily evaluated negatively all the time, illness-related uncertainty discrepancies are typically appraised as a threat that may result in harm or challenge to oneself and are oftentimes considered stressful (e.g., <ref type="bibr" target="#b39">Mishel, 2008)</ref>. To manage UD-related negative emotions in mental illness, coping strategies such as seeking social support from close others may be activated (e.g., <ref type="bibr" target="#b44">Scott et al., 2011)</ref>. Social support is a multidimensional concept that includes ways through which individual well-being and coping are enhanced by validation and acceptance, positive reinforcement about feelings of self-worth, and tangible assistance offered by members in one's social networks (e.g., <ref type="bibr" target="#b36">MacGeorge et al., 2011)</ref>. Support seeking takes place when those in need of help directly or indirectly express their desire for support through communication (e.g., <ref type="bibr" target="#b26">High &amp; Scharp, 2015)</ref>.</p><p>Several theoretical frameworks support the proposition that individuals draw on social support from their networks to cope with negative emotions in uncertain situations. For example, <ref type="bibr" target="#b38">Mishel (1990)</ref> has suggested experiences related to uncertainty in illness can produce varying degrees of disorder and disorganization in individuals' biological and social systems, which threatens one's sense of coherence for life (i.e., stressor). Through supportive communication, people can transform the disruption and create a new sense of order. Social support in close relationships serves as an important stress-buffering strategy (e.g., <ref type="bibr" target="#b45">Thoits, 2011)</ref> and a critical source of coping (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004;</ref><ref type="bibr" target="#b44">Scott et al., 2011)</ref>.</p><p>Individuals with mental illness not only need to decide whether to seek social support from close others, such as family and friends, to manage UD-related negative emotions but also how to seek the support needed. The communicative strategies used to activate support can predict the form and quality of support received <ref type="bibr" target="#b5">(Barbee &amp; Cunningham, 1995)</ref>. One important dimension on which support seeking behaviors may vary is the directness of support seeking. Direct support seeking refers to explicit expressions of the need for help through a direct request or displaying clear signs of distress. In contrast, indirect support seeking involves more subtle, implicit, and passive forms of support seeking. Based on coding of participants' actual support seeking behaviors, <ref type="bibr" target="#b5">Barbee and Cunningham (1995)</ref> operationalized direct support seeking as explicitly communicating details of the stressful situation, requesting help, and asking for support, whereas indirect support seeking was operationalized as making vague, global complaints and denial of the seriousness of the problem in front of others.</p><p>As a theory focusing on the intentional use of cognitive resources but also taking an appraisal approach to the emotional consequence of uncertainty discrepancy, the TMIM is useful in explaining motivated support seeking. Drawing from appraisal theories of emotion (e.g., <ref type="bibr" target="#b20">Frijda et al., 2000)</ref>, the revised TMIM <ref type="bibr" target="#b1">(Afifi &amp; Morse, 2009)</ref> has theorized how UD-related emotion affects cognitive assessments, including outcome expectancies and efficacy, and proposed possible direct influences of emotion on information management. Individuals with mental illness may view social support as potential resources that can be used to facilitate coping with negative emotions triggered by uncertainty discrepancies. Specifically, one's evaluation of whether the potential support providers can offer the support needed, whether support seekers themselves are capable of communicatively seeking support from the target person, and whether they have the resources (e.g., emotional, instrumental) to cope with the (possibly negative) outcomes they expect from seeking support from the helper will influence whether and how they will seek support. Indeed, previous research on support seeking has suggested that the support seekers' ability and competence to seek support (i.e., efficacy) is a precursor to direct support seeking <ref type="bibr" target="#b26">(High &amp; Scharp, 2015)</ref>. When individuals perceive a lack of communication competence or evaluate the support seeking situation as potentially threatening (e.g., unable to cope with possible negative outcomes stemmed from the seeking behavior), they may choose indirect means of support seeking. Therefore, UD-related emotions may be associated with support seeking through assessments of efficacy. Because support seeking occurs primarily in close relationships, we focused on how individuals with mental illness seek support from family members and best friends and proposed the following (see Figure <ref type="figure" target="#fig_0">1</ref>): Finally, we proposed that adaptive strategies such as direct support seeking and information seeking should reduce the discrepancy between desired and actual levels of uncertainty in mental illness. Research on uncertainty management in illness has suggested that both support and information seeking from interpersonal and mediated channels (e.g., online support groups) can facilitate effective management of uncertainty (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004;</ref><ref type="bibr" target="#b45">Thoits, 2011)</ref>. On one hand, direct support and information seeking about issues that have initially led to the uncertainty discrepancy in mental illness can potentially reduce the amount of difference between desired and actual levels of uncertainty. For example, <ref type="bibr">Choi and colleagues (2012)</ref> found social support served as resources for symptom interpretations and was negatively associated with women's uncertainty about pregnancy-related events. This suggests that support seeking can lower actual uncertainty tied to one's mental illness and reduce uncertainty discrepancy for those who experience higher-than-desired uncertainty. On the other hand, social support from close others can provide reassurance and strengthen perceptions of relational security (e.g., <ref type="bibr" target="#b44">Scott et al., 2011)</ref> and reduce uncertainty discrepancy related to personal and social issues. In cases where higher levels of uncertainty are desired, the information and support that people seek explicitly likely will help them to achieve the goals of increasing actual uncertainty and/or reducing desired uncertainty, thereby reducing uncertainty discrepancy. Last, when individuals make psychological adjustments and cognitively reappraise the situation, the mechanism that activated the original need for uncertainty management likely will be changed and the uncertainty discrepancy may be reduced over time <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>.</p><p>In contrast, avoidance and indirect support seeking are subtle and passive in nature and may amplify the uncertainty discrepancy. Directness of support seeking is associated with the quality of support received (e.g., <ref type="bibr" target="#b15">Derlega et al., 2003)</ref> indirect and ambiguous support seeking tends to elicit negative support from support providers <ref type="bibr" target="#b13">(Collins &amp; Feeney, 2000;</ref><ref type="bibr" target="#b17">Don et al., 2019)</ref>, and thus, fails to reduce uncertainty discrepancy, if not increase it. The TMIM <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref> has suggested that individuals engage in motivated information management to address uncertainty discrepancy and associated emotional responses, yet no empirical research has examined the timelagged effects of different strategies on perceived uncertainty discrepancy. Therefore, in this study, we examined whether seeking information and support from close others can in turn influence uncertainty discrepancy over time (see Figure <ref type="figure" target="#fig_0">1</ref>):</p><p>H 6 : Information seeking (H 6a ), direct support seeking (H 6b ), and cognitive reappraisal (H 6c ) will reduce uncertainty discrepancy two weeks later, whereas avoidance (H 6d ) and indirect support seeking (H 6e ) will increase uncertainty discrepancy two weeks later.</p><p>Overall, in this study, we examined changes in uncertainty discrepancy over time and investigated the roles of TMIM constructs in a mental illness context. As shown in Figure <ref type="figure" target="#fig_0">1</ref>, the hypothesized framework depicted two sets of serial mediation effects. First, the time-lagged effects of uncertainty discrepancy on different communicative strategies may be serially mediated by negative emotions, outcome expectancy, and efficacy assessments. Prior TMIM research has provided empirical evidence for the indirect effects implied by the model. For example, <ref type="bibr">Tian and colleagues (2016)</ref> found that uncertainty discrepancy's negative association with posttraumatic growth was serially mediated by the TMIM constructs in their investigation of emerging adults' uncertainty management in response to adverse life events. A second serial mediation effect implied by the hypothesized model in Figure <ref type="figure" target="#fig_0">1</ref> involves the mediating roles of the TMIM constructs in the process through which uncertainty discrepancy about mental illness changes over time. Therefore, we proposed the following hypotheses:</p><p>H 7 : The time-lagged effects of uncertainty discrepancy on information management (i.e., information seeking, avoidance, and cognitive reappraisal), as well as direct and indirect support seeking behaviors, will be serially mediated by negative emotions, outcome expectancies, and efficacy assessments.</p><p>H 8 : Changes in uncertainty discrepancy over time will be serially mediated by negative emotions, outcome expectancies, efficacy, and information management (i.e., information seeking, avoidance, and cognitive reappraisal), as well as direct and indirect support seeking behaviors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Five hundred and forty-eight participants completed the survey through Cloud Research (formally known as Amazon Turk Prime; <ref type="bibr" target="#b35">Litman et al., 2017)</ref> at Wave 1 (W1) and were invited to participate in follow-up surveys two weeks (W2; n = 399; 72.8% retention rate) and four weeks later (W3; n = 253; 46.2% of the original sample). Participants were eligible if they (a) were 18 or older, (b) lived in the United States, (c) had one or more clinically diagnosed mental health conditions (e.g., depression, anxiety, eating disorder), and (d) had an approval rate of over 75%. 1 Two steps were taken to ensure data quality: (a) participants who completed the entire survey too quickly (i.e., less than 240 seconds) were excluded; (b) straightlining responses were checked using a measure of non-differentiation of scores (i.e., mean root of pairs; <ref type="bibr" target="#b30">Kim et al., 2019)</ref>. A total of 223 participants completed all three waves of survey, passed data quality checks, and were retained in the final sample for analyses (40.7% of W1 sample).</p><p>Participants were on average 37.4 years old (SD = 10.7, range 19-70) and self-identified as White/Caucasian (82.5%, n = 184), followed by African American/Black (4.9%, n = 11), Hispanic/Latino (4.5%, n = 10), Multiracial (3.6%, n = 8), Asian (3.6%, n = 8), and Native American/Alaskan Native (0.9%, n = 2). More females (67.7%, n = 151) than males (30.9%, n = 69) participated in the study, and three reported sex as "other" (e.g., non-binary). Most participants reported having anxiety (n = 188) and depression (n = 171), followed by posttraumatic stress disorder (n = 50), obsessive-compulsive disorder (n = 40), attention deficit hyperactivity disorder (n = 34), bipolar disorder (n = 27), eating disorder (n = 20), autism (n = 6), and Schizophrenia (n = 2). Participants reported having one (20.6%, n = 46), two (37.2%, n = 83), three (26.9%, n = 60), or more than three mental illness conditions (15.3%, n = 34).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Participants were recruited on Cloud Research's Prime Panels. Prime Panels is an online crowdsourcing platform that helps researchers recruit diverse and hard-to-reach demographics. We posted the first survey to Prime Panels and made it available to participants who qualified for the study (e.g., 18 or older, had one or more existing, clinically diagnosed mental illness). Only those eligible were able to view the survey and participate. At W1, participants first responded to questions about their mental illness and demographic information, followed by an open-ended question that asked when and about what they felt most uncertain in their mental illness experience. 2 They were instructed to keep their major source(s) of mental illness-related uncertainty in mind and answer questions about uncertainty discrepancy (UD), UD-related negative emotions, outcome expectancy, efficacy, and issue importance. 3  At the end of the survey, participants were asked if they would like to be contacted for follow-up surveys two weeks and four weeks later. Those interested left their worker IDs (not associated with any personally identifiable information). Participants received $3 as compensation for their time upon completion of the first survey. W1 participants who indicated interest in the follow-up surveys (n = 539) were contacted through Cloud Research two weeks after their initial participation. 4 Of those 539 participants, 399 (74%) completed the W2 survey and responded to questions about information seeking, avoidance, cognitive reappraisal, and direct and indirect support seeking in the past two weeks. Two weeks later, 253 participants took the W3 survey that asked about mental illness-related uncertainty discrepancy. Participants received $1 for completing each of the two follow-up surveys.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>All TMIM variables were adapted from previous TMIM research. Direct and indirect support seeking measures were adapted from <ref type="bibr" target="#b15">Derlega et al. (2003)</ref> and <ref type="bibr" target="#b26">High and Scharp (2015;</ref><ref type="bibr"></ref> see Online Supplemental Table <ref type="table" target="#tab_0">S1</ref> for all items used in this study). Unless otherwise noted, higher scores indicated higher values for the construct (e.g., greater issue importance) on 7point Likert scales (1 = strongly disagree to 7 = strongly agree). McDonald's omega and confidence intervals 5 <ref type="bibr" target="#b24">(Hayes &amp; Coutts, 2020)</ref>, M, and SD were calculated and reported for all scales.</p><p>Issue importance (W1) Six items adapted from <ref type="bibr" target="#b16">Dillow and Labelle (2014)</ref> were used to assess perceived issue importance (e.g., "It is important that I know how to manage my mental health;" ω = .91, CI 95 = .88, .94). Issue importance is a scope condition of the TMIM. The average level of issue importance was 6.26 (SD = .74), suggesting that the scope condition was met.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Uncertainty discrepancy (UD; W1 and W3)</head><p>In both W1 and W3 surveys, UD was measured with two items and calculated as an index. Specifically, responses to "How certain are you about your mental health?" were subtracted from participants' responses to "How certain do you want to be about your mental health?". 6 The UD index ranged from -3 to 6 at W1 (M = 1.47, SD = 1.51) and -5 to 6 at W3 (M = 1.77, SD = 1.68). Consistent with previous TMIM research (e.g., <ref type="bibr" target="#b19">Fowler et al., 2018)</ref>, absolute values were used in all analyses. 7   Negative emotions (W1) The Positive and Negative Affect Schedule (PANAS; <ref type="bibr" target="#b50">Watson et al., 1988)</ref> was used to measure UD-related negative emotions. Participants were asked to indicate the extent to which they experienced different feelings and emotions by responding to ten negative emotion items (e.g., distressed, scared) when thinking about the gap between their actual and desired levels of uncertainty regarding the mental illness-related issues they wrote about (1 = very slightly or not at all to 5 = extremely; M = 2.78, SD = 1.02, ω = .93, CI 95 = .92, .95). 8   Outcome expectancy (W1) Outcome expectancy about communication with both close family and best friends were measured at W1 (M family = 4.56, SD family = 2.03, ω family = .97, CI 95 = .96, .98; M friends = 4.65, SD friends = 1.81, ω friends = .98, CI 95 = .97, .99). Specifically, participants were asked to keep those who they considered as their close family members in mind as they responded to five items (e.g., "Approaching my close family members to get support about my mental health condition would produce ___") that measured outcome expectancy from family. Another set of five items measured outcome expectancy from best friends (e.g., "Asking my best friends to help me with my mental health condition would produce ___"). Participants responded to all items on a 7-point scale (1 = a lot more negative than positive to 7 = a lot more positive than negative).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy (W1)</head><p>Items for efficacy assessments were adapted from <ref type="bibr" target="#b1">Afifi and Morse (2009)</ref>. For both close family and best friends, three sets of items were used to measure communication efficacy (M family = 4.50, SD family = 2.09, ω family = .96, CI 95 = .94, .97; M friends = 4.65, SD friends = 1.87, ω friends = .98, CI 95 = .97, .99; e.g., "I am able to approach my close friends to talk about issues related to my mental health"), target efficacy (M family = 4.21, SD family = 1.99, ω family = .96, CI 95 = .94, .97; M friends = 4.37, SD friends = 1.74, ω friends = .95, CI 95 = .93, .96; e.g., "My close family members would be able to help me with my mental health condition"), and coping efficacy (M family = 4.52, SD family = 1.73, ω family = .90, CI 95 = .84, .94; M friends = 4.62, SD friends = 1.54, ω friends = .88, CI 95 = .79, .93; e.g., "I feel confident that I could cope with whatever my close family would say about my mental health condition").</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Information seeking (W2)</head><p>Two items adapted from <ref type="bibr" target="#b16">Dillow and Labelle (2014)</ref> were used to measure information seeking behaviors (e.g., "In the past two weeks, I sought information/advice from my best friends about how to manage my mental health condition") from family and best friends at W2 (i.e., two weeks after W1 survey; M family = 3.14, SD family = 1.79; M friends = 2.88, SD friends = 1.80).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Support seeking (W2)</head><p>Items developed based on <ref type="bibr" target="#b5">Barbee and Cunningham's (1995)</ref> model of interactive support seeking, and used in previous support seeking research (e.g., <ref type="bibr" target="#b15">Derlega et al., 2003;</ref><ref type="bibr" target="#b26">High &amp; Scharp, 2015)</ref>, were adapted to measure direct and indirect support seeking behaviors at W2. Participants responded to items that asked about the extent to which they approached their family members and best friends regarding their mental illness in the past two weeks on a 5-point scale (1 = never to 5 = always). Specifically, four items were used to assess direct, verbal support seeking behaviors from family and best friends (e.g., "In the past 2 weeks, I asked my close family for help with issues related to my mental health condition;" M family = 2.10, SD family = 1.05, ω family = .93, CI 95 = .91, .95; M friends = 1.90, SD friends = 1.04, ω friends = .95, CI 95 = .93, .96) and three items were used to measure indirect, verbal support seeking (e.g., "In the past two weeks, I denied the seriousness of my mental health problem in front of my close family;" M family = 2.21, SD family = 1.07, ω family = .80, CI 95 = .74, .85; M friends = 2.25, SD friends = 1.16, ω friends = .81, CI 95 = .75, .86). 9</p><p>Avoidance (W2) Four items adapted from <ref type="bibr" target="#b15">Derlega et al. (2003)</ref> were used to assess avoidance (e.g., "In the past two weeks, I tried not to engage in conversations related to my mental health condition with my close family"), M family = 4.11, SD family = 1.83, ω family = .94, CI 95 = .91, .96; M friends = 4.29, SD friends = 1.92, ω friends = .96, CI 95 = .94, .97.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cognitive reappraisal (W2)</head><p>Three items adapted from <ref type="bibr" target="#b23">Gross and John (2003)</ref> and <ref type="bibr" target="#b19">Fowler et al. (2018)</ref> were used to measure individuals' cognitive reappraisal in the past two weeks (e.g., "In the past 2 weeks, I tried to change the way I think about issues related to my mental health in order to control my emotions"), M = 4.44, SD = 1.39, ω = .81, CI 95 = .74, .85.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preliminary analyses</head><p>First, bivariate correlations among the study variables were examined (see Table <ref type="table" target="#tab_0">1</ref>). In line with our bivariate predictions (H 1 -H 5 ), mental illness-related UD was positively associated with negative emotions, which showed negative correlations with outcome expectancy and efficacy assessments for both family and best friends. Efficacy assessments (i.e., communication, target, coping) were positively associated with information seeking and direct support seeking from both family and best friends and negatively associated with avoidance and indirect support seeking. Cognitive reappraisal, however, was not significantly correlated with any of the efficacy assessments for either family or best friends. Therefore, there was general support for the first five predictions on a bivariate level for both family and best friends, except for those involving cognitive reappraisal.</p><p>Next, following Becker et al.'s. ( <ref type="formula">2016</ref>) recommendations regarding statistical controls, we examined correlations between study variables and potential covariates, including age, biological sex, and issue importance. Results indicated that age and sex had small, but negligible associations with the TMIM variables (r &lt; .20). In addition, although issue importance is a theoretically meaningful covariate based on the TMIM, participants in this sample, on average, reported high levels of issue importance with little variance (M = 6.26 on a 7-point scale, SD = .74). Based on the results of these preliminary analyses, control variables were dropped in the final model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Substantive analyses</head><p>All hypotheses were tested simultaneously using structural equation models (SEMs) in lavaan in R. Models for family and best friends were examined separately. Measurement models with all latent factors (i.e., negative emotions, outcome expectancy, efficacy, information seeking, avoidance, cognitive reappraisal, and direct/indirect support seeking) were tested for fit. 10 The full information maximum likelihood estimator was used to handle missing data <ref type="bibr" target="#b22">(Graham, 2009)</ref>. Confirmatory factor analyses (CFAs) were conducted with all latent factors and corresponding observed indicators; the three latent efficacy factors (i.e., communication, coping, and target) were loaded onto one higher-order latent factor of overall efficacy. All latent factors were free to covary in the measurement models. Indicators of acceptable model fit include (e.g., <ref type="bibr" target="#b8">Bentler &amp; Bonett, 1980;</ref><ref type="bibr" target="#b51">West et al., 2012)</ref>: (a) CFIs &gt; .90, (b) RMSEAs and SRMRs &lt; .08, and (c) relative χ 2 /df ≤ 3. The measurement models obtained acceptable fit for both family, χ 2 (497) = 1220.51, χ 2 /df = 2.46, RMSEA = .08 [90% CI = .075, .087] , SRMR = .06, CFI = .92, and best friends, χ 2 (497) = 1156.77, χ 2 /df = 2.33, RMSEA = .08 [90% CI = .071, .083] , SRMR = .06, CFI = .92.</p><p>After establishing the measurement models, full structural models were examined (see Figure <ref type="figure" target="#fig_0">1</ref> for the hypothesized model). The structural model indicated acceptable fit for both reports on family, χ 2 (569) = 1302.84, χ 2 /df = 2.29, RMSEA = .076 [90% CI = .071, .081] , SRMR = .07, CFI = .92, and best friends, χ 2 (569) = 1267.71, χ 2 /df = 2.23, RMSEA = .074 [90% CI = .069, .080] , SRMR = .07, CFI = .92 (see Figures <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_3">3</ref> for standardized path coefficients and variances accounted for in each endogenous construct). 11 H 1 predicted a positive association between UD related to mental illness and negative emotions. Consistent with H 1 , UD was positively associated with negative emotions in both the family model and best friends model.</p><p>H 2 proposed that negative emotions would be inversely associated with (a) outcome expectancy and (b) efficacy assessments. Results suggested that negative emotions are significantly and inversely associated with efficacy but not with outcome expectancy in the family model. In the model with best friends, results showed an inverse association between negative emotions and outcome expectancy, but not between negative emotions and efficacy. H 2 was partially supported.</p><p>H 3 hypothesized a positive association between outcome expectancy and efficacy assessments. In both models, outcome expectancy was positively associated with efficacy (see Figures <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_3">3</ref>). Therefore, H 3 was supported.</p><p>H 4 proposed that higher levels of efficacy assessments at W1 would predict (a) more information seeking but (b) less avoidance and (c) cognitive reappraisal at W2. As shown in Figures <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_3">3</ref>, consistent with H 4 , efficacy was positively associated with information seeking behaviors from family and best friends. Efficacy was also negatively associated with avoidance in models for both family and best friends. However, results showed a nonsignificant association between efficacy and cognitive reappraisal for family and best friends. H 4a and H 4b were supported, whereas H 4c was not.</p><p>H 5 proposed that efficacy at W1 would be (a) positively associated with direct support seeking at W2 (i.e., two weeks later) and (b) negatively associated with indirect support seeking at W2. Results indicated positive associations between efficacy assessments and direct support seeking behaviors from both family and best friends, as well as negative associations between efficacy and indirect support seeking from family and best friends (see Figures <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_3">3</ref>). H 5 was supported. suggested that after accounting for the baseline UD's (W1) association with UD measured at W3, indirect support seeking from family members reported at W2 was positively associated with UD at W3, indicating indirect support seeking from family was indeed linked to an increased UD over time. However, in the family model, information seeking, direct support seeking, avoidance, and cognitive reappraisal were not associated with changes in UD (see Figure <ref type="figure" target="#fig_2">2</ref>). In the best friends model, none of the information management or support seeking strategies were significantly associated with UD at W3 after accounting for baseline UD (see Figure <ref type="figure" target="#fig_3">3</ref>). H 6e was supported, but H 6a-6d were not.</p><p>Serial mediation H 7 and H 8 proposed that the effects of uncertainty discrepancy measured at W1 on communication behaviors at W2 and on uncertainty discrepancy measured at W3 would be serially mediated by the TMIM constructs. To test H 7 and H 8 , serial mediation analyses were conducted in R by computing bias-corrected bootstrapped confidence intervals with 10,000 random samples.</p><p>Results indicated that for reports on family members, the effects of W1 uncertainty discrepancy on W2 information seeking (b = -.02, SE = .01, CI 95 : -.04, -.01), direct support seeking (b = -.01, SE = .01, CI 95 : -.03, -.004), indirect support seeking from close family (b = .01, SE = .004, CI 95 : .001, .02) and avoidance (b = .02, SE = .01, CI 95 : .01, .05) were serially mediated by the negative emotions to efficacy assessments sequence (see Figure <ref type="figure" target="#fig_2">2</ref>). For reports on best friends, the effects of W1 uncertainty discrepancy on W2 information seeking (b = -.05, SE = .02, CI 95 : -.10, -.02), direct support seeking from best friends (b = -.03, SE = .01, CI 95 : -.05, -.01), and avoidance (b = .04, SE = .02, CI 95 : .01, .09) were serially mediated by the negative emotions to outcome expectancy to efficacy sequence (see Figure <ref type="figure" target="#fig_3">3</ref>). H 7 was partially supported.</p><p>Regarding H 8 , after accounting for uncertainty discrepancy at W1, the association between uncertainty discrepancy at W1 and W3 was not serially mediated by the paths proposed in our hypothesized models for close family or best friends. H 8 was not supported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Using a three-wave longitudinal design, we sought to track changes in uncertainty discrepancy over time and investigate the role of different information management and support seeking strategies that may amplify or reduce the discrepancy between actual and desired levels of uncertainty experienced by individuals living with mental illness. Results revealed that TMIM constructs, including negative emotions, outcome expectancy, and efficacy, served as serial mediators of uncertainty discrepancy's associations with direct support seeking, information seeking, and avoidance. Within the time frame of this study (i.e., four weeks), indirect support seeking from family members heightened uncertainty discrepancy. We discuss theoretical and practical implications below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical contributions</head><p>First, findings suggest that social support seeking serves as a critical communicative response to the uncertainty discrepancies experienced by those with mental illness. This is consistent with previous research that has highlighted the importance of social support in facilitating uncertainty management (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004;</ref><ref type="bibr" target="#b34">Lien et al., 2009)</ref> and how supportive communication may contribute to coping with not only negative emotions but also uncertainties in illness contexts (e.g., <ref type="bibr" target="#b44">Scott et al., 2011)</ref>. Becoming aware of an uncertainty discrepancy related to one's mental illness gives rise to negative emotions; subsequently, individuals are motivated to manage the emotional consequence of uncertainty discrepancy, "rather than the cognitive uncertainty-discrepancy state that precedes it" <ref type="bibr">(Afifi &amp; Weiner, 2004, p. 174)</ref>. In other words, an emotion management issue is inherent to the TMIM mechanism upon the activation of uncertainty discrepancy. Our findings suggest that individuals engage in support seeking behaviors to cope with the negative emotions that uncertainty discrepancies invoke in contexts such as mental illness. As a theory of information management, the TMIM recognizes the critical role of emotions in affecting cognitive assessments <ref type="bibr" target="#b1">(Afifi &amp; Morse, 2009)</ref>. Similar to information management strategies (i.e., information seeking, avoidance, cognitive reappraisal), direct and indirect support seeking are also motivated, strategic responses to UDrelated emotions. The decision of whether and how to seek support is dependent upon cognitive evaluations of outcome expectancies and efficacy assessments. Future research may continue to examine other forms of coping that individuals adopt to manage the emotional consequences of uncertainty discrepancy in illness.</p><p>Second, our findings suggest that indirect support seeking from family members can heighten uncertainty discrepancy over time, likely as a result of the passive and subtle nature of indirect support seeking behaviors and the support seeker not being able to receive the desired support. This is consistent with previous research that showed the negative consequences of indirect support seeking and how it can elicit blame, rejection, and withdrawal from close others in intimate relationships (e.g., <ref type="bibr" target="#b13">Collins &amp; Feeney, 2000;</ref><ref type="bibr" target="#b17">Don et al., 2019)</ref>. By comparison, information seeking and direct support seeking behaviors were not associated with changes in uncertainty discrepancy over time. This may be due to the fact that uncertainty discrepancies experienced in mental illness are deeply rooted in medical, personal, and social issues surrounding a chronic and stigmatized condition (e.g., <ref type="bibr" target="#b10">Brashers et al., 2004)</ref> that cannot be easily resolved by the information or social support sought within the time frame of the study. This is only speculative, since very few TMIM studies have examined the outcomes of information management. As one exception, <ref type="bibr" target="#b47">Tian et al. (2016)</ref> found that emerging adults' willingness to seek information from their parents regarding an adverse event they went through was positively associated with posttraumatic growth. Future research should continue to investigate the (mal)adaptive functions of direct/indirect support seeking and information seeking strategies (e.g., active, passive, and interactive as discussed in the original TMIM; <ref type="bibr" target="#b2">Afifi &amp; Weiner, 2004)</ref> and examine how communicative behaviors can result in changes in uncertainty discrepancy, as well as other psychosocial outcomes over time.</p><p>In this study, information seeking and direct support seeking emerged as two related but distinct responses to uncertainty discrepancy-related negative emotions in mental illness. On one hand, information seeking and support seeking serve distinct purposes in the management of uncertainty discrepancy and associated emotions. Information seeking may be adopted when individuals perceive that the uncertainty discrepancy results from some form(s) of information insufficiency (e.g., having insufficient, inconsistent, or too much information; <ref type="bibr" target="#b53">Yang et al., 2014)</ref>, and seeking information may lead to positive outcomes and potentially reduce the uncertainty discrepancy. By comparison, support seeking may be used when people experience negative and possibly intense emotions invoked by uncertainty discrepancy as a stressor and need to cope with the stressor (e.g., <ref type="bibr" target="#b21">Goldsmith, 2004)</ref>. In this sense, support seeking should be distinguished from information seeking since they represent different but complementary ways of coping with emotions invoked by uncertainty discrepancies.</p><p>On the other hand, information seeking and support seeking are two goal-driven communicative responses to uncertainty discrepancy and UD-related emotions that, conceptually, should be correlated, as the extent to which people seek information and social support may both be associated with factors such as social skills, interpersonal communication competence, and trust in others (e.g., <ref type="bibr" target="#b40">Mortenson, 2009)</ref>. The extent to which information and support seeking are related may be influenced by factors such as the channel of communication and the specific relational context. For example, in close relationships such as family and best friends, information seeking and direct support seeking may be highly correlated because those who feel efficacious about communicating with close others will likely seek both information and social support. Indeed, in our sample, information seeking and direct support seeking about mental illness-related issues were correlated at .76 for family and .81 for best friends. In contrast, those who engage in online information seeking may not necessarily seek social support in online communities (e.g., <ref type="bibr" target="#b41">Nambisan, 2011)</ref>. Future research can continue to examine conditions under which individuals engage in both information and support seeking, as well as situations in which one communication strategy is preferred and possibly more effective than the other.</p><p>In addition, the operationalization of direct and indirect support seeking deserves further discussion. The original theorizing of <ref type="bibr" target="#b5">Barbee and Cunningham's (1995)</ref> model of interactive support seeking conceptualizes support seeking based on two distinct dimensions: direct versus indirect, and verbal versus nonverbal communication strategies. Accordingly, the scale measures verbal and nonverbal communication separately for direct and indirect support seeking. Although previous researchers have used composite scores of direct and indirect support seeking encompassing both verbal and nonverbal forms of seeking assistance <ref type="bibr" target="#b26">(High &amp; Scharp, 2015)</ref>, our findings suggest that verbal and nonverbal items do not tap a common factor for either direct or indirect support seeking behaviors and, therefore, likely represent distinct dimensions that should be conceptualized and operationalized separately in mental illness contexts. The conceptual separation of verbal and nonverbal dimensions of support seeking needs further examinationindividuals may use both verbal and nonverbal strategies simultaneously when seeking support in some situations but not in others. More work is warranted to examine the validity and factor structure of the scale. Future research also should draw on observation data across different contexts (e.g., <ref type="bibr" target="#b49">Verhofstadt et al., 2013)</ref> to refine the operationalization so as to better capture communicative behaviors involved in seeking support directly and indirectly.</p><p>Third, the differential effects of negative emotions on outcome expectancy and efficacy for reports on family versus best friends are worth noting. When deciding to seek information and support from family members, uncertainty discrepancy-related emotions negatively impacted efficacy assessments but not outcome expectancies. In contrast, negative emotions were inversely associated with expected outcomes but not efficacy when the source of information and support was best friends (i.e., outcome expectancy mediated the association between negative emotions and efficacy in the best friends model). This suggests that although the TMIM is an interpersonal theory as per its scope conditions <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref>, the magnitude of TMIM paths may differ depending on the relational context within which expected outcomes and efficacy levels are evaluated. For example, people may feel efficacious to talk with their best friends on a wide range of topics, including mental illness-related issues, and thus emotions only influence outcome expectancy but not efficacy assessments. A recent meta-analysis of the TMIM literature <ref type="bibr" target="#b33">(Kuang &amp; Wilson, 2021)</ref> found that the associations between anxiety and outcome expectancy, as well as efficacy are heterogeneous, suggesting the existence of potential moderators. Future research can examine whether and how specific relational contexts (e.g., familial, platonic, work) and communicative orientations of the relationship (e.g., family communication patterns; <ref type="bibr" target="#b31">Koerner &amp; Fitzpatrick, 2002)</ref> may moderate TMIM paths.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Practical implications</head><p>Practically, our findings suggest that both information seeking and support seeking may be used to facilitate the management of uncertainty discrepancy in mental illness. To discourage indirect support seeking that can result in maladaptive outcomes and further amplify uncertainty discrepancy, it is important for family and friends in the support networks of individuals living with mental illness to provide support to those who desire a different level of uncertainty than what they experience (e.g., <ref type="bibr" target="#b46">Thompson et al., 2020)</ref> and encourage them to directly seek the support needed. Seeking social support from close others oftentimes involves disclosure about the problems people are facing, which tend to raise concerns of impression management, dependence on others, diminished feelings of control, disappointment when not offered desired support, and the relationship itself (e.g., <ref type="bibr" target="#b36">MacGeorge et al., 2011)</ref>. These issues are especially salient in stigmatized contexts such as mental illness (e.g., <ref type="bibr" target="#b25">Henderson et al., 2013)</ref> and in cases where uncertainty discrepancies arise from issues related to personal identities and social relationships. Therefore, family and friends in the support networks should aim at providing quality feedback to support seekers to enhance outcome expectancies and efficacy levels.</p><p>Participants in this study wrote about a wide range of topics that they found most salient in their mental illness-related uncertainties (e.g., prognosis, insurance policies, interactions with others). From a coping perspective, helping individuals manage their uncertainty discrepancy in mental illness may involve assisting them to clarify the source(s) of uncertainty (e.g., forms and foci of uncertainty, meanings of uncertainty; <ref type="bibr" target="#b4">Babrow, 2007)</ref> and adjust support seeker expectations (e.g., <ref type="bibr" target="#b43">Rains et al., 2020)</ref>. In addition, efficacy serves as a key determinant of whether individuals engage in adaptive communicative responses (e.g., direct support seeking and information seeking) or responses that do not help reduce or even increase uncertainty discrepancy (e.g., indirect support seeking, avoidance). Therefore, efforts to enhance efficacy such as training on how to talk about mental illness-related topicsviewed by some as "taboo" topics due to stigmas and misunderstandings surrounding the illnessmay benefit those with mental illness as well as people in their support networks. When individuals feel efficacious to seek information and support related to their mental illness, and when close others can offer useful information and desired support, supportive communication is likely to be effective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Several limitations of the study are worth noting. First, data in this study only represented the information/support seeker perspective. The TMIM <ref type="bibr" target="#b2">(Afifi &amp; Weiner, 2004)</ref> has emphasized the interactive nature of information management processes in interpersonal relationships since the initial articulation of the theory. Support seeking and provision are also inherently dyadic, which <ref type="bibr" target="#b5">Barbee and Cunningham (1995)</ref> labeled as the microdynamics of supportive interactions. Therefore, it is critical to evaluate the provider perspective, such as information/support provision efficacy, the quality of providers' feedback, and information/support provision processes and outcomes (e.g., <ref type="bibr" target="#b46">Thompson et al., 2020)</ref>. Future researchers should use dyadic samples to unpack the interactive processes of information/support seeking and provision in individuals' management of uncertainty discrepancy across different contexts (e.g., <ref type="bibr" target="#b32">Kuang &amp; Gettings, 2020)</ref>. Second, our data were collected from the U.S. with over 80% of the participants self-identifying as White. Limited implications can be drawn regarding how individuals with different racial, ethnic, and cultural backgrounds may engage in direct and indirect support seeking behaviors in response to uncertainty discrepancy and negative emotions in mental illness. Future research may consider cultural factors that would influence the motivated information and support seeking behaviors within mental illness context. Third, we adopted a three-wave, longitudinal design to test time-lagged effects in this study. A full cross-lagged panel design <ref type="bibr" target="#b42">(Orth et al., 2021)</ref>, where all variables are measured multiple times, may better test whether changes in the predictors are associated with changes in the outcomes over time. Last, this study relied on selfreport data which, as noted above, can be associated with measurement issues of reliability and validity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Despite these limitations, this study offers theoretical and practical insights into how individuals living with mental illness manage their uncertainty discrepancy and negative emotions using both information seeking and support seeking from family and best friends, and how these communicative behaviors, in turn, result in changes in uncertainty discrepancy over time. For those living with clinically diagnosed mental illness, the effectiveness of support seeking behaviors, compared to information seeking, may play a more important role in influencing the uncertainty discrepancies over time and coping with uncertainty discrepancy-related negative emotions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. The platform provides access to a pool of diverse participants from across the world. To minimize the influence of cultural differences (e.g., stigma toward mental health illness) on hypothesis testing, we limited the scope of the study to the U.S. 2. For example, participants wrote about uncertainties related to treatment (e.g., "I feel uncertain about becoming dependent on medications"), insurance policies (e.g., "We don't have reliable insurance and that causes uncertainty"), the impact of mental illness on their everyday lives (e.g., "I'm not sure if I can function at a day-to-day level"), social implications (e.g., "I feel uncertain about my mental health a lot of the time, but it mostly happens when I have aggressive interactions with people"), mental illness as an "invisible" illness (e.g., "I feel uncertain mostly in the validity of my mental illness"), and prognosis of their conditions (e.g., "I feel most uncertain about the future for me because I believe my mental health may worsen"). 3. We randomized the order in which items for each measure were presented. 4. A worker qualification criterion was created so that participants who indicated an interest and left their worker IDs were contacted to participate in follow-up surveys (i.e., those who did not participate in W1 survey could not view or participate in W2 or W3 survey). 5. McDonald's omega was used as estimates of internal reliability based on recent recommendations by <ref type="bibr" target="#b24">Hayes and Coutts (2020)</ref>. 6. We instructed participants to keep their major source(s) of uncertainty in mind when answering all questions and used the term "mental health" to encompass a wide range of medical, personal, and social uncertainties that participants experienced and wrote about related to their mental illness. TMIM researchers have measured uncertainty discrepancy in different ways. For example, <ref type="bibr" target="#b16">Dillow and Labelle (2014)</ref> measured actual and desired levels of information; Wong (2014) measured the discrepancy between actual and desired knowledge directly (e.g., "I know less than I'd like to know about … "). Given our focus on emotion-driven responses to uncertainty discrepancy (not just information insufficiency), we adopted a third operationalization that measured actual and desired levels of uncertainty (e.g., <ref type="bibr" target="#b18">Fowler &amp; Afifi, 2011)</ref>. 7. Very few UD scores (4.5% at W1, 5.8% at W3) were negative, indicating most participants desired higher levels of certainty than what they experienced. We tested the proposed models with and without the cases with negative UD scores (i.e., those who reported lower-than-desired uncertainty; n = 13) and found consistent results. Therefore, absolute values were used in the final analyses. 8. Given that uncertain experiences in illness are oftentimes appraised negatively and seen as a threat rather than an opportunity, we focused on negative emotions. Two items were dropped from the PANAS: pensive was dropped due to low correlations with other negative emotions in the scale; anxious was dropped because anxiety was a mental illness condition reported by 88% of the sample. To avoid the issue of an empirical tautology (i.e., "how anxious are you about being anxious?"), the anxiety item was also removed. It is worth noting that we adapted a measure of affect as our measure of "emotion" in this study.</p><p>Although previous TMIM research (e.g., <ref type="bibr" target="#b19">Fowler et al., 2018)</ref> has used the format of PANAS to measure UD-related emotions, further evidence bearing on the construct validity of the PANAS as a measure of emotion is needed. 9. In <ref type="bibr" target="#b5">Barbee and Cunningham's (1995)</ref> original theorizing, verbal and nonverbal strategies are conceptualized as distinct forms of support seeking, resulting in four types of support seeking behaviors: direct/verbal, direct/nonverbal, indirect/verbal, and indirect/nonverbal. We had initially included four items that tapped direct, nonverbal support seeking behaviors (e.g., "In the past two weeks, I pouted to let my best friends know how I am upset about my mental health conditions)" and four items for indirect, nonverbal support seeking (e.g., "In the past two weeks, I fidgeted a lot in front of my best friends when I had issues with my mental health problem"). However, CFA results of factor models indicated the nonverbal items did not load on the same factor with the verbal items for either direct or indirect support seeking and thus were dropped from the scale. The results of model testing with different ways to model the support seeking factor structure are available upon request from the authors. 10. Negative emotions were treated as a latent composite: the mean score of the ten PANAS items was used as a parcel for the latent factor. The error variance of the parcel was fixed to (1-reliability)*variance of the parcel. We chose the latent composite approach because there were ten indicators hence a great number of parameters to be estimated if it was included in the model as a full latent factor, which may render the model unstable given our moderate sample size. 11. We also conducted a multi-group analysis to examine whether any path differed significantly between the models with family versus best friends. Results revealed that one path (from negative emotions to efficacy) differed significantly between the two models, Δχ 2 (1) = 7.46, p = .006.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Hypothesized model.</figDesc><graphic coords="4,76.99,446.34,336.02,180.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>H 5 :</head><label>5</label><figDesc>Efficacy assessments will be (a) positively associated with direct support seeking and (b) negatively associated with one's indirect support seeking behaviors two weeks later.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Structural model results with standardized coefficients: report on family members. Note: *p &lt; .05, **p &lt; .01, ***p &lt; .001. Significant paths are bolded. ComEff = communication efficacy; TarEff = target efficacy; CopEff = coping efficacy.</figDesc><graphic coords="13,71.32,390.84,347.98,213.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Structural model results with standardized coefficients: report on best friends. Note: *p &lt; .05, **p &lt; .01, ***p &lt; .001. Significant paths are bolded. ComEff = communication efficacy; TarEff = target efficacy; CopEff = coping efficacy.</figDesc><graphic coords="14,71.32,53.29,347.98,214.19" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Bivariate correlations between study variables.</figDesc><table><row><cell>Variables</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell><cell>8</cell><cell>9</cell><cell>1 0</cell><cell>1 1</cell><cell>1 2</cell><cell>1 3</cell><cell>1 4</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to thank <rs type="person">Dr. Paul Schrodt</rs> and three anonymous reviewers for their guidance and insightful suggestions throughout the review process.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Correlations for family are displayed below diagonal and correlations for friends are displayed above diagonal. UD = uncertainty discrepancy; NegEmo = negative emotion; OE = outcome expectancy, ComEff = communication efficacy, TarEff = target efficacy, CopEff = coping efficacy; Info = information seeking; Support = direct support seeking; IndSupport = indirect support seeking</title>
+		<author>
+			<persName><surname>Note</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Impt = issue importance. *p &lt; .05. **p &lt; .01. ***p &lt; .001</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Expanding the role of emotion in the theory of motivated information management</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>References Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Uncertainty, information management, and disclosure decisions: Theories and applications</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Afifi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">W</forename><surname>Afifi</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="87" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Toward a theory of motivated information management</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Weiner</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2004.tb00310.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.2004.tb00310.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="190" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Public beliefs about and attitudes towards people with mental illness: A review of population studies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Angermeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dietrich</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1600-0447.2005.00699.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1600-0447.2005.00699.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Acta Psychiatrica Scandinavica</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="163" to="179" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Problematic integration theory</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Babrow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Explaining communication: Contemporary theories and exemplars</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Whaley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">W</forename><surname>Samter</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="181" to="200" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">An experimental approach to social support communications: Interactive coping in close relationships</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Barbee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Cunningham</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23808985.1995.11678921</idno>
+		<ptr target="https://doi.org/10.1080/23808985.1995.11678921" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the International Communication Association</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="381" to="413" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Support seeking in personal relationships</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Barbee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Gulley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Cunningham</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407590074009</idno>
+		<ptr target="https://doi.org/10.1177/0265407590074009" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="531" to="540" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Statistical control in correlational studies: 10 essential recommendations for organizational researchers</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Atinc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Breaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Spector</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/job.2053</idno>
+		<ptr target="https://doi.org/10.1002/job.2053" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational Behavior</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="167" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Significance test and goodness of fit in the analysis of covariance structures</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Bonett</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.88.3.588</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.88.3.588" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="588" to="606" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Information seeking and avoiding in health contexts</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Brashers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Goldsmith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hsieh</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.2002.tb00807.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.2002.tb00807.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="258" to="271" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Social support and the management of uncertainty for people living with HIV or AIDS</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Brashers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Neidig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Goldsmith</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S15327027HC1603_3</idno>
+		<ptr target="https://doi.org/10.1207/S15327027HC1603_3" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="331" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The importance of family and friends in advice-seeking for rights problems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1474746414000141</idno>
+		<ptr target="https://doi.org/10.1017/S1474746414000141" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy and Society</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="188" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The relationships of social support, uncertainty, self-efficacy, and commitment to prenatal psychosocial adaptation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2648.2012.05962.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1365-2648.2012.05962.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advanced Nursing</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2633" to="2645" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A safe haven: An attachment theory perspective on supportseeking and caregiving in adult romantic relationships</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Feeney</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.78.6.1053</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.78.6.1053" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1053" to="1073" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The impact of mental illness stigma on seeking and participating in mental health care</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Corrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Druss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Perlick</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1529100614531398</idno>
+		<ptr target="https://doi.org/10.1177/1529100614531398" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science in the Public Interest</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="37" to="70" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Close relationships and social support in coping with HIV: A test of sensitive interaction systems theory</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Derlega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Winstead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Oldfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Barbee</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1023990107075</idno>
+		<ptr target="https://doi.org/10.1023/A:1023990107075" />
+	</analytic>
+	<monogr>
+		<title level="j">AIDS and Behavior</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="129" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Discussions of sexual health testing: Applying the theory of motivated information management</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Dillow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Labelle</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/pere.12057</idno>
+		<ptr target="https://doi.org/10.1111/pere.12057" />
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="676" to="691" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Low self-esteem predicts indirect support seeking and its relationship consequences in intimate relationships</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Don</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">U</forename><surname>Girme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hammond</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0146167218802837</idno>
+		<ptr target="https://doi.org/10.1177/0146167218802837" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1028" to="1041" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Applying the theory of motivated information management to adult children&apos;s discussions of caregiving with aging parents</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407510384896</idno>
+		<ptr target="https://doi.org/10.1177/0265407510384896" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="507" to="535" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Complex considerations in couples&apos; financial information management: Extending the theory of motivated information management</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gasiorek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650216644024</idno>
+		<ptr target="https://doi.org/10.1177/0093650216644024" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="365" to="393" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Emotions and belief: How feelings influence thoughts</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Frijda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Manstead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Communicating social support</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Goldsmith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Missing data analysis: Making it work in the real world</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Graham</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.psych.58.110405.085530</idno>
+		<ptr target="https://doi.org/10.1146/annurev.psych.58.110405.085530" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="549" to="576" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>John</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.85.2.348</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.85.2.348" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="348" to="362" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Use omega rather than Cronbach&apos;s alpha for estimating reliability</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Coutts</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19312458.2020.1718629</idno>
+		<ptr target="https://doi.org/10.1080/19312458.2020.1718629" />
+	</analytic>
+	<monogr>
+		<title level="j">But … . Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Mental illness stigma, help seeking, and public health programs</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Evans-Lacko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thornicroft</surname></persName>
+		</author>
+		<idno type="DOI">10.2105/AJPH.2012.301056</idno>
+		<ptr target="https://doi.org/10.2105/AJPH.2012.301056" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="777" to="780" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Examining family communication patterns and seeking social support direct and indirect effects through ability and motivation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>High</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Scharp</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/hcre.12061</idno>
+		<ptr target="https://doi.org/10.1111/hcre.12061" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="459" to="479" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Nothing is absolute in life&quot;: Understanding uncertainty in the context of psychiatric genetic counseling from the perspective of those with serious mental illness</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hippman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ringrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Inglis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cheek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Austin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10897-013-9594-2</idno>
+		<ptr target="https://doi.org/10.1007/s10897-013-9594-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Genetic Counseling</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="625" to="632" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Psychological entropy: A framework for understanding uncertainty-related anxiety</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hirsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Peterson</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0026767</idno>
+		<ptr target="https://doi.org/10.1037/a0026767" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="304" to="320" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Error effects in anterior cingulate cortex reverse when error likelihood is high</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Jessup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Busemeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1523/JNEUROSCI.4130-09.2010</idno>
+		<ptr target="https://doi.org/10.1523/JNEUROSCI.4130-09.2010" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3467" to="3472" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Straightlining: Overview of measurement, comparison of indicators, and effects in mail-web mixed-mode surveys</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dykema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Moberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439317752406</idno>
+		<ptr target="https://doi.org/10.1177/0894439317752406" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="214" to="233" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Understanding family communication patterns and family functioning: The roles of conversation orientation and conformity orientation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Koerner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23808985.2002.11679010</idno>
+		<ptr target="https://doi.org/10.1080/23808985.2002.11679010" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the International Communication Association</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="65" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Applying the theory of motivated information management to family health history</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Gettings</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/pere.12340</idno>
+		<ptr target="https://doi.org/10.1111/pere.12340" />
+	</analytic>
+	<monogr>
+		<title level="j">Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="846" to="879" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Theory of motivated information management: A meta-analytic review</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ct/qtz025</idno>
+		<ptr target="https://doi.org/10.1093/ct/qtz025" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="463" to="490" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Perceived uncertainty, social support and psychological adjustment in older patients with cancer being treated with surgery</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Lien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Linv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">T</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2702.2008.02549.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1365-2702.2008.02549.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Nursing</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="2311" to="2319" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Turkprime.com: A versatile crowdsourcing data acquisition platform for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Litman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abberbock</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13428-016-0727-z</idno>
+		<ptr target="https://doi.org/10.3758/s13428-016-0727-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="433" to="442" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Supportive communication</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Macgeorge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Burleson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of interpersonal communication</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Knapp</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Daly</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="317" to="354" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Uncertainty in illness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Mishel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1547-5069.1988.tb00082.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1547-5069.1988.tb00082.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Image: The Journal of Nursing Scholarship</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="225" to="232" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Reconceptualization of the uncertainty in illness theory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Mishel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1547-5069.1990.tb00225.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1547-5069.1990.tb00225.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Image: The Journal of Nursing Scholarship</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="256" to="262" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Theories of uncertainty in illness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Mishel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Middle range theory for nursing</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Liehr</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="53" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Interpersonal trust and social skill in seeking social support among Chinese and Americans</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Mortenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650208326460</idno>
+		<ptr target="https://doi.org/10.1177/0093650208326460" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="32" to="53" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Information seeking and social support in online health communities: Impact on patients&apos; perceived empathy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nambisan</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/amiajnl-2010-000058</idno>
+		<ptr target="https://www.nimh.nih.gov/health/statistics/mental-illness.shtml" />
+	</analytic>
+	<monogr>
+		<title level="m">Mental illness</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2019</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="298" to="304" />
+		</imprint>
+		<respStmt>
+			<orgName>National Institute of Mental Health</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Testing prospective effects in longitudinal research: Comparing seven competing cross-lagged models</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Orth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Donnellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Robins</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/pspp0000358</idno>
+		<ptr target="http://doi.org/10.1037/pspp0000358" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1013" to="1034" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The role of support seeker expectations in supportive communication</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Rains</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Akers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Pavlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tsetsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ashtaputre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Lutovsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637751.2020.1737326</idno>
+		<ptr target="https://doi.org/10.1080/03637751.2020.1737326" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="445" to="463" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Managing multiple goals in supportive interactions: Using a normative theoretical approach to explain social support as uncertainty management for organ transplant patients</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Brashers</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2011.552479</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2011.552479" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Mechanisms linking social ties and support to physical and mental health</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Thoits</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0022146510395592</idno>
+		<ptr target="https://doi.org/10.1177/0022146510395592" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="161" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Why is it difficult for social network members to support people living with mental illnesses?: Linking mental illness uncertainty to support provision</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Pulido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Caban</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2020.1831166</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2020.1831166" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication, online first</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The theory of motivated information management and posttraumatic growth: Emerging adults&apos; uncertainty management in response to an adverse life experience</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schrodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Carr</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10510974.2016.1164207</idno>
+		<ptr target="https://doi.org/10.1080/10510974.2016.1164207" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="280" to="301" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Seeking interpersonal information over the internet: An application of the theory of motivated information management to internet use</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tokunaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gustafson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407513516890</idno>
+		<ptr target="https://doi.org/10.1177/0265407513516890" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1019" to="1039" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Support-seeking, support-provision and support-perception in distressed married couples: A multi-method analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Verhofstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Lemmens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buysse</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-6427.12001</idno>
+		<ptr target="https://doi.org/10.1111/1467-6427.12001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Family Therapy</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="320" to="339" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Development and validation of brief measures of positive and negative affect: The PANAS scales</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.54.6.1063</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.54.6.1063" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Model fit and model selection in structural equation modeling</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of structural equation modeling</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hoyle</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="209" to="231" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Predictors of information seeking about the HPV vaccine from parents and doctors among young college women</title>
+		<author>
+			<persName><surname>Guilford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Wong</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01463373.2013.860905</idno>
+		<ptr target="https://doi.org/10.1080/01463373.2013.860905" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="75" to="96" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Risk information seeking and processing model: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Aloe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Feeley</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcom.1207</idno>
+		<ptr target="https://doi.org/10.1111/jcom.1207" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="41" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

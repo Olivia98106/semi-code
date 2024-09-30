@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The moderation of empathy in the longitudinal association between witnessing cyberbullying, depression, and anxiety</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Masaryk University Press</publisher>
+				<availability status="unknown"><p>Copyright Masaryk University Press</p>
+				</availability>
+				<date type="published" when="2018-12-29">2018-12-29</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Michelle</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Pennsylvania State University</orgName>
+								<address>
+									<settlement>University Park</settlement>
+									<region>PA</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Masaryk University</orgName>
+								<address>
+									<settlement>Brno</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Dr. phil</roleName><forename type="first">Sebastian</forename><surname>Wachs</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Potsdam</orgName>
+								<address>
+									<settlement>Postdam</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Bridgette</forename><forename type="middle">D</forename><surname>Harper</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Auburn University Montgomery</orgName>
+								<address>
+									<settlement>Montgomery</settlement>
+									<region>AL</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Faculty of Social Studies</orgName>
+								<orgName type="institution">Masaryk University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Masaryk University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Potsdam</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Auburn University Montgomery</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The moderation of empathy in the longitudinal association between witnessing cyberbullying, depression, and anxiety</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+						<title level="j" type="abbrev">CP</title>
+						<idno type="ISSN">1802-7962</idno>
+						<imprint>
+							<publisher>Masaryk University Press</publisher>
+							<biblScope unit="volume">12</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2018-12-29" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">721BE2A7288925CA7C2E1FB4AF6264E3</idno>
+					<idno type="DOI">10.5817/cp2018-4-6</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Bystander</term>
+					<term>cyberbullying</term>
+					<term>empathy</term>
+					<term>depression</term>
+					<term>anxiety</term>
+					<term>longitudinal</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>While the role of and consequences of being a bystander to face-to-face bullying has received some attention in the literature, to date, little is known about the effects of being a bystander to cyberbullying. It is also unknown how empathy might impact the negative consequences associated with being a bystander of cyberbullying. The present study focused on examining the longitudinal association between bystander of cyberbullying, depression, and anxiety, and the moderating role of empathy in the relationship between bystander of cyberbullying and subsequent depression and anxiety. There were 1,090 adolescents (Mage = 12.19; 50% female) from the United States included at Time 1, and they completed questionnaires on empathy, cyberbullying roles (bystander,  perpetrator, victim), depression, and anxiety. One year later, at Time 2, 1,067 adolescents (Mage = 13.76; 51% female) completed questionnaires on depression and anxiety. Results revealed a positive association between bystander of cyberbullying and depression and anxiety. Further, empathy moderated the positive relationship between bystander of cyberbullying and depression, but not for anxiety. Implications for intervention and prevention programs are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Cyberbullying is defined as the willful and repeated infliction of harm through electronic media, and it can involve the perception of an imbalance of power <ref type="bibr" target="#b26">(Patchin &amp; Hinduja, 2006)</ref>. There are multiple roles (e.g., perpetrator, victim, bystander) that adolescents might have in cyberbullying situations, although cyberbullying is often conceptualized as a dyadic phenomenon between perpetrator and victim. Increasing research attention is being given to bystanders of cyberbullying, especially considering that witnessing cyberbullying can be considered toxic stress <ref type="bibr" target="#b28">(Rivers, Poteat, Noret, &amp; Ashurst, 2009)</ref>. Theoretically, this stress might be triggered by adolescents' feeling powerless to stop the bullying and their worry that they could be the next victim, leading to mental health issues. To decrease the negative effects of cyberbullying, many researchers argue about the need to teach children to be empathetic to the plight of cyberbullying victims <ref type="bibr" target="#b29">(Schultze-Krumbholz &amp; Scheithauer, 2013;</ref><ref type="bibr">Steffgen, König, Pfetsch, &amp; Melzer, 2011</ref>), yet it is unknown how being more empathetic might impact the negative consequences associated with witnessing cyberbullying. While empathy reduces the risk of perpetrating cyberbullying and increases the likelihood of helping cyberbullying victims <ref type="bibr" target="#b3">(Bastiaensens, Vandebosch, Poels, Van Cleemput, DeSmet, &amp; De Bourdeaudhuij, 2014;</ref><ref type="bibr" target="#b19">Leukfeldt &amp; Yar, 2016;</ref><ref type="bibr" target="#b42">Willard, 2007)</ref>, empathy also is positively associated with depression and anxiety among adolescents and adult samples <ref type="bibr" target="#b14">(Hoffman et al., 2016;</ref><ref type="bibr" target="#b23">Mujahidah &amp; Listiyandini, 2017;</ref><ref type="bibr" target="#b25">O'Connor, Lewis, Mulherin, &amp; Crisostomo, 2007;</ref><ref type="bibr" target="#b31">Shu, Hassell, Weber, Ochsner, &amp; Mobbs, 2017;</ref><ref type="bibr" target="#b32">Smith, 2015;</ref><ref type="bibr" target="#b37">Tully, Ames, Garcia, &amp; Donohue, 2016)</ref>. However, it is unknown whether bystanders of cyberbullying experience depression and anxiety, or how empathy might play a role in these associations. To this end, the purposes of this longitudinal study were two-fold: a) examine the association between being bystanders of cyberbullying and depression and anxiety, as measured over one year, and b) investigate the moderating effect of empathy in the one-year longitudinal relationship between bystanders of cyberbullying, depression, and anxiety. The results might help to deepen our knowledge concerning the consequences of witnessing cyberbullying and provide information for prevention and intervention efforts to tackle cyberbullying among adolescents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bystanders of Cyberbullying</head><p>There are different roles that adolescents can have in cyberbullying, including perpetrators, victims, assistants, reinforcers, defenders, and bystanders <ref type="bibr" target="#b40">(Wachs, 2012)</ref>. The most common way to experience cyberbullying is by witnessing these behaviors as a bystander. Being a bystander of cyberbullying, also called cyberbystanding, is defined as adolescents who see the behavior occurring between the cyberbully(ies) and cybervictim(s) but do not get involved in the situation. It is important to understand more about cyberbystanders as they are less likely to report bullying to adults than those who are bystanders of offline bullying <ref type="bibr" target="#b33">(Smith et al., 2008)</ref>. When compared to the offline world and offline bullying, there is an increased likelihood that less adults are present in the online world of adolescents, which can impact reporting, that cyberbystanders may or may not know the cyberbully(ies) or cybervictim(s), and that cyberbullying could involve almost an infinite number of bystanders.</p><p>Around 30-60% of adolescents in different samples report that they have witnessed cyberbullying <ref type="bibr" target="#b15">(Huang &amp; Chou, 2010;</ref><ref type="bibr" target="#b38">Van Cleemput, Vandebosch, &amp; Pabian, 2014;</ref><ref type="bibr" target="#b39">Vandebosch &amp; Van Cleemput, 2009)</ref>. It is important to understand more about bystanders of cyberbullying as often bullying attacks are designed to diminish victims' social status among their peer group to exert dominance and gain status in their peer group <ref type="bibr" target="#b44">(Wright, 2015)</ref>. In addition, many forms of cyberbullying are not only designed to target the victim directly but to also include bystanders, further highlighting the importance of bystanders in the dynamics and consequences of cyberbullying behavior <ref type="bibr" target="#b3">(Bastiaensens et al., 2014;</ref><ref type="bibr" target="#b19">Leukfeldt &amp; Yar, 2016;</ref><ref type="bibr" target="#b42">Willard, 2007)</ref>. Adolescents do not always intervene when they observe others being victimized because they might not feel responsible for the bullying behavior, fear unfavorable judgment by peers when helping the victim, not realize that the situation is perceived as uncomfortable, and they could lack the skills to intervene in bullying behaviors <ref type="bibr" target="#b41">(Wachs, Hess, Scheithauer, &amp; Schubarth, 2016)</ref>. The tendency for some bystanders to remain passive provides indirect and silent support for bullying, which can then bolster more bullying behavior. Bystanders' responses and reasons for not intervening in bullying can impact the psychological health on victims; however, little attention has been given to the impact of bullying on bystanders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyberbullying, Depression, and Anxiety</head><p>Researchers have found that cyberbullying perpetration and victimization are both positively related to depression and anxiety <ref type="bibr" target="#b5">(Bauman, Toomey, &amp; Walker, 2013;</ref><ref type="bibr" target="#b6">Bonanno &amp; Hymel, 2013;</ref><ref type="bibr" target="#b22">Mitchell, Ybarra, &amp; Finkelhor, 2007;</ref><ref type="bibr" target="#b43">Wright, 2014;</ref><ref type="bibr" target="#b46">Ybarra, Diener-West, &amp; Leaf, 2007;</ref><ref type="bibr" target="#b47">Yousef &amp; Bellamy, 2015)</ref>. Depression negatively influences how someone feels, thinks, and acts (American Psychiatric Association, 2017a). Anxiety involves the anticipation of a future event or concern that is associated with muscle tension and avoidance behavior (American Psychiatric Association, 2017b). Both depression and anxiety are important to study because these disorders can negatively impact the short-term and long-term functioning of adolescents.</p><p>To our knowledge, no research has focused on the association between being bystanders of cyberbullying and depression and anxiety. It is important to investigate the psychological functioning of bystanders because witnessing cyberbullying could have negative short-term and long-term implications for these adolescents. Research on offline bullying provides a foundation for understanding the negative consequences of witnessing cyberbullying. In the research on offline bullying, <ref type="bibr" target="#b11">Evans, Smokowski, Rose, Mercado, and Marshall (2018)</ref> found that negative bystander behavior (e.g., not intervening in bullying incidences) was associated positively with anxiety, depression, and academic difficulties among adolescents. Similar results were found by <ref type="bibr">Rivers and colleagues (2009)</ref>, regardless of whether adolescents were also directly involved in offline bullying behavior or victimization.</p><p>Witnessing cyberbullying could trigger stress and mental health issues. Bystanders may feel anxious that they could also be cyberbullied and they may feel powerless. According to the Learned Helplessness Theory <ref type="bibr" target="#b30">(Seligman, 1975)</ref>, depression and anxiety may result from an absence of control over the outcome of a situation. Some adolescents may experience a degree of cognitive dissonance as a consequence of the discrepancy between their lack of actions and their wish to intervene. Indeed, there is some evidence that the extended experience of cognitive dissonance can, if no rationalization or effective emotion regulation can be made, result in mental health disorders, such as depression and anxiety <ref type="bibr" target="#b12">(Harmon-Jones &amp; Mills, 1999;</ref><ref type="bibr" target="#b16">Hull, 2002)</ref>. Some bystanders might experience indirect co-victimization through their empathic understanding of the sorrow of the victim they observe. Research has revealed that co-victimization has a negative impact on the mental health of the covictimized individual <ref type="bibr" target="#b18">(Kuther, 1999)</ref>. Based on these studies and that witnessing cyberbullying could trigger stress and mental health issues, it might be possible that bystanders of cyberbullying could experience depression and anxiety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Role of Empathy</head><p>In the present study, we examine empathy as a trait. Defined as sharing another person's emotions, empathy encompasses the ability to experience vicarious emotions and understand the emotions when another person is distressed <ref type="bibr" target="#b4">(Batson, 2009;</ref><ref type="bibr" target="#b10">Eisenberg &amp; Strayer, 1987)</ref>. There are two types of empathetic responses, personal distress and sympathy <ref type="bibr" target="#b9">(Eisenberg, Miller, &amp; Mathy, 1989)</ref>. Personal distress responses are associated with actions aimed at alleviating personal discomfort, such as walking away from the arousing event and minimizing discomfort <ref type="bibr" target="#b9">(Eisenberg et al., 1989)</ref>. Personal distress reactions are linked to higher indices of stress (e.g., heart rate, cortisol), whereas sympathetic reactions are linked to lower heart rate, cortisol levels, and to actual action to help in the situation. Empathy involves the emotional reactions produced by and aligned or congruent with another person's emotions <ref type="bibr" target="#b10">(Eisenberg &amp; Strayer, 1987)</ref>. Sympathy is defined as the perception, reaction, and understanding of the distress experienced by another individual <ref type="bibr" target="#b36">(Tear &amp; Michalska, 2010)</ref>. Sympathy is based on the apprehension or comprehension of another person's emotional state or condition and it involves an affective state that is different than that of the other person <ref type="bibr" target="#b8">(Eisenberg et al., 2002)</ref>. Empathy is a feeling that fits someone's emotional condition, but it does not necessarily involve the observer having the same emotion or emotions of the other person <ref type="bibr" target="#b13">(Hoffman, 2001)</ref>. For example, someone might feel angry and disappointed, and an empathic person is able to recognize these emotions and understand the reasons associated with these emotions. However, this does not mean that the empathic person also feels angry and disappointed. Empathy is positively associated with prosocial behavior and defending behavior in offline bullying <ref type="bibr" target="#b7">(Caravita, Di Blasio, &amp; Salmivalli, 2009;</ref><ref type="bibr" target="#b24">Nickerson, Mele, &amp; Princiotta, 2008)</ref>.</p><p>There are mixed findings regarding the associations between empathy and cyberbullying. For instance, <ref type="bibr" target="#b0">Almeida, Correia, Marinho and Garcia (2008)</ref> found that cyberbullies' empathy did not differ from victims, bully-victims, and non-involved adolescents. However, <ref type="bibr">Steffgen et al.'s (2011)</ref> study revealed that cyberbullies had less empathic responsiveness than non-bullies. In a longitudinal study, Schultze-Krumbholz and Scheithauer (2013) found that low affective empathy predicted cyberbullying perpetration five months later among adolescent. Given these associations between cyberbullying perpetration and low empathetic concern, researchers argue for the importance of developing empathy training programs to help combat cyberbullying.</p><p>Researchers are also concerned with the role of bystanders in aggressive behaviors, and some of this research attention has focused on bystanders' empathy. <ref type="bibr">Barlińska, Szuster, and Winiewski (2015)</ref> found that the ability to take the perspective and experience the emotions of a cyberbullying victim reduced the likelihood that adolescents who were bystanders of cyberbullying reinforced cyberbullying. When observing a bullying incident, adolescents who were bystanders of cyberbullying and high in empathy were more likely to intervene in favor of a victim and they were less likely to perpetrate cyberbullying <ref type="bibr" target="#b38">(Van Cleemput et al., 2014)</ref>. Furthermore, adolescents who were bystanders of cyberbullying were more likely to support cyberbullying victims when they provided empathetic responses to cyberbullying incidents <ref type="bibr" target="#b20">(Macháčková, Dedkova, Sevcikova, &amp; Cerna, 2013)</ref>. Macháčková and colleagues (2013) also found that adolescents' immediate empathetic responses to cyberbullying incidents increased the odds of bystanders of cyberbullying helping the victim, after accounting for individual characteristics.</p><p>Research attention on whether empathy moderates associations between being bystanders of cyberbullying and depression and anxiety is scarce. It is important to examine the moderation of empathy in these associations because being more empathetic might heightened bystanders' feelings toward the victim, which could impact their psychological health. In the literature, adults who are depressed or anxious often have normal or elevated levels of empathy <ref type="bibr" target="#b14">(Hoffman et al., 2016;</ref><ref type="bibr" target="#b25">O'Connor et al., 2007;</ref><ref type="bibr" target="#b31">Shu et al., 2017;</ref><ref type="bibr" target="#b37">Tully et al., 2016)</ref>. Less attention has focused on the association between depression, anxiety, and empathy among adolescents. Empathy predicted depression among Indonesian adolescents <ref type="bibr" target="#b23">(Mujahidah &amp; Listiyandini, 2017)</ref>. In another study on this topic, <ref type="bibr" target="#b32">Smith (2015)</ref> found that adolescents who experienced greater empathetic distress following a conversation with a friend about a problem also reported poorer emotional well-being. It is unclear whether empathy relates to anxiety among adolescents; although few studies have been published on this topic, studies with adults reveal positive relationships between experiencing anxiety and empathy <ref type="bibr" target="#b31">(Shu et al., 2017)</ref>.</p><p>To explain the relationship between empathy and depression, O'Connor and colleagues <ref type="bibr">(2007)</ref> proposed that empathy, as a socially organizing neural system, enables us to share others' feelings, and mimic without awareness, leading us to experience distress in others that in turn can be experienced by ourselves. Based on the literature linking empathy to depression and anxiety, it might be reasonable to propose that high levels of empathy among bystanders of cyberbullying could increase their experience of depression and anxiety. Empathy might moderate these associations because an empathetic understanding of the victims' suffering might increase psychological distress among bystanders of cyberbullying, especially when they do not intervene (D' <ref type="bibr">Augelli, Pilkington, &amp; Herschberger, 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Present Study</head><p>Although more attention is being directed to understanding bystanders of cyberbullying, little attention has focused on long-term negative consequences of this experience, such as depression and anxiety. Furthermore, empathy might also have a role in the relationships between bystanders of cyberbullying and depression and anxiety <ref type="bibr" target="#b23">(Mujahidah &amp; Listiyandini, 2017;</ref><ref type="bibr" target="#b32">Smith, 2015)</ref>. To this end, the present longitudinal study focused on examining the association between bystanders of cyberbullying and depression and anxiety, measured one year later, as well as investigating the moderating effect of empathy on the association between bystanders of cyberbullying and depression and anxiety, as measured one year later, among adolescents. Cyberbullying perpetration and cyberbullying victimization were controlled for in the analysis, given their correlations with empathy, depression, and anxiety <ref type="bibr" target="#b22">(Mitchell et al., 2007;</ref><ref type="bibr" target="#b26">Patchin &amp; Hinduja, 2006;</ref><ref type="bibr" target="#b43">Wright, 2014;</ref><ref type="bibr" target="#b46">Ybarra et al., 2007)</ref>. To guide this purpose, the present study included the following research questions and hypotheses:</p><p>Research question 1. What is the relationship between being a bystander of cyberbullying and depression and anxiety (measured one year later)?</p><p>Hypothesis 1. Being a bystander of cyberbullying will relate positively to adolescents' self-report of depression and anxiety, measured one year later.</p><p>Research question 2. What role does empathy have in the interaction between being a bystander of cyberbullying and depression and anxiety (measured one year later)? Hypothesis 2. Higher levels of empathy will increase the association between being a bystander of cyberbullying and depression and anxiety, measured one year later.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were 1,067 7 th and 8 th graders between 12 and 15 years old (Mage = 13.76; 51% female) from six middle schools in the Midwestern United States from predominantly middle-class neighborhoods. Adolescents selfidentified as Caucasian (55.6%), followed by Latino/a (27.8%), Asian (7.2%), Black/African American (8.8%), and Native Hawaiian (0.6%). For the six schools, 31% to 53% of the students qualify for free or reduced cost lunch. Family income and educational background for parents/guardians were not collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Ethics approval for the study was granted by the first author's university. Recruitment began by sending an email to a list of ten middle schools in the Midwestern United States to school principals. The ten middle schools were randomly selected from a list of 165 middle schools in the area. Two school principals never replied to the recruitment email, two responded that they had existing commitments that prevented them from participating, and six provided agreement to have their school participate. The principal investigator met with school principals and teachers to introduce them to the study, explain how adolescents could participate, the time commitment of the study, and what adolescents would be expected to do if they were to participate. After the meeting, classroom announcements were made to 6 th and 7 th grade classrooms to inform adolescents about how they could participate, what they would be expected to do if they were to participate, and their rights as participants, including explanation of the confidentiality of their results and the ability to withdraw from the study at any time without penalty. There were 1,293 parental permission slips passed out to the 6 th and 7 th grade students. Of these, 1,111 parents/guardians agreed to allow their child to participate, 79 declined participation, and the remaining 103 were never returned. Data collection occurred over two days at each of the six schools. Thirteen students were absent on the first day of data collection, with 10 of those students participating on the second day of data collection and the remaining three never participating. Assent was obtained by adolescents prior to data collection. Eleven adolescents declined to participate. The data collection total for the fall of 6 th or 7 th grade (Time 1; T1 during 2015) was 1,090 adolescents. They completed questionnaires on bystander of cyberbullying, cyberbullying perpetration, cyberbullying victimization, depression, anxiety, and empathy.</p><p>One year later, during the fall of 7 th or 8 th grade (Time 2; T2 during 2016), a letter was sent home to participating adolescents' parents/guardians. The purpose of the letter was to remind adolescents and their parents/guardians about the study the year prior and to inform them that their child was being asked to fill out two additional questionnaires. If parents/guardians did not want to participate, they were asked to write adolescents' first and last name on the letter and then return it to their teacher. Two letters were returned to the school. Of the 1,090 adolescents from T1, 15 had moved away and eight declined to participate, making the final total of participating adolescents at T2, 1,067 participants. Adolescents completed questionnaires on depression and anxiety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Bystander of cyberbullying. This questionnaire was modified from <ref type="bibr" target="#b45">Wright and Li's (2013)</ref> questionnaire on cyberbullying perpetration and victimization, with items updated to clarify that the adolescents witnessed the described behavior within the last six months. Adolescents rated six items on a scale of 1 (never) to 5 (all the time). Sample items included: witnessed someone being insulted online and witnessed someone being called mean names online. The items were averaged to form one score for bystander of cyberbullying. The questionnaire was administered at T1 only, with a Cronbach's alpha of .82.</p><p>Cyberbullying perpetration. Using a scale of 1 (never) to 5 (all the time), adolescents were asked to rate how often they perpetrated cyberbullying within the last six months <ref type="bibr" target="#b45">(Wright &amp; Li, 2013)</ref>. This questionnaire included six items, such as how often they insulted someone online, called someone mean names online, and gossiped about someone online. These items were averaged to form one score of self-reported cyberbullying perpetration. This questionnaire was administered at T1. Cronbach's alpha was .88.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyberbullying victimization.</head><p>Adolescents were asked to indicate how often they experienced cyberbullying victimization within the last six months (e.g., was insulted online by someone, called mean names online, were the target of gossip online, had a rumor spread about themselves online) on a scale of 1 (never) to 5 (all the time) using six items <ref type="bibr" target="#b45">(Wright &amp; Li, 2013)</ref>. All items were averaged to form one score for self-reported cyberbullying victimization. This questionnaire was administered at T1 only and had a Cronbach's alpha of .89.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Depression.</head><p>For this questionnaire (i.e., The Center for Epidemiological Studies Depression Scale; <ref type="bibr" target="#b27">Radloff, 1977)</ref>, adolescents rated twenty items on a scale of 0 (rarely or none of the time) to 3 (most or all of the time) according to how they have felt in the last two weeks. Some items included: I was bothered by things that usually don't bother me and I did not feel like eating, my appetite was poor. This questionnaire was administered at T1 and T2. Cronbach's alphas were .88 for T1 and T2.</p><p>Anxiety. The Multidimensional Anxiety Scale for Children was used to examine adolescents' self-reported anxiety symptoms <ref type="bibr" target="#b21">(March, Parker, Sullivan, Stallings, &amp; Conners, 1997)</ref>. A sample item includes: I worry about getting called on in class. Adolescents rated 39 items on a scale of 0 (never true about me) to 3 (often true about me). The items were averaged to report a final score of anxiety at T1 and T2. Cronbach's alphas were .83 for T1 and .85 for T2.</p><p>Empathy. The Toronto Empathy Questionnaire was used to assess adolescents' empathy as a trait <ref type="bibr">(Spreng, Margaret, Raymond, &amp; Levine, 2009)</ref>. This measures the emotional component of empathy. The 16 items (e.g., I can tell when others are sad even when they do not say anything, It upsets me to see someone being treated disrespectfully) were rated on a scale of 0 (never) to 4 (always; <ref type="bibr" target="#b34">Spreng et al., 2009)</ref>. All scores were averaged to form a final score of empathy, with higher scores indicating higher empathy. This questionnaire was administered at T1 and Cronbach's alpha was .88.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Proposed Analysis</head><p>The measurement model was examined using Confirmatory Factor Analysis in Mplus 6.12. The model fit was adequate, χ 2 = 863.51, df = 700, p &lt; .05, CFI = .98, TLI = .96, RMSEA = .04, SRMR = .05; all standardized factor loadings (range of .48 to .82) were significant, p &lt; .001. These items served as indicators for the latent variables in the structural regression model. A structural regression model was conducted to investigate the study's research questions. Paths were specified from bystanders of T1 cyberbullying to empathy and T2 depression and T2 anxiety, as well as specified from T1 empathy to T2 depression and T2 anxiety. To control for T1 depression and T1 anxiety, T1 depression was specified to predict T2 depression, and T1 anxiety was specified to predict T2 anxiety. T1 cyberbullying perpetration and T1 cyberbullying victimization were controlled by having these variables predict bystanders of T1 cyberbullying, T2 depression, and T2 anxiety. To control for gender, gender was allowed to predict T2 depression and anxiety. Two-way interactions were also included between bystanders of T1 cyberbullying and T2 depression and T2 anxiety. To probe significant interactions, the Interaction program was used. This program provides the significance of the unstandardized sample regression slopes and displays graphical illustration of the simple slopes at +1 SD, the mean, and -1 SD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Means, standard deviations, and correlations were calculated among all the variables in the study (see Table <ref type="table" target="#tab_0">1</ref>). Bystanders of T1 cyberbullying was related positively to T1 cyberbullying victimization, T1 and T2 depression, and T1 and T2 anxiety. T1 cyberbullying perpetration was related positively to T1 cyberbullying victimization and T1 and T2 depression and anxiety, although it was negatively associated with T1 empathy. T1 cyberbullying victimization was related positively to T1 and T2 depression and anxiety. All T1 and T2 depression and anxiety were related to each other. Note: T1 = Time 1 (Fall of 6 th or 7 th grade); T2 = Time 2 (Fall of 7 th or 8 th grade). * p &lt; .05 **p &lt; .01 ***p &lt; .001.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moderation of Empathy in the Association between Bystanders of T1 Cyberbullying and T2 Depression and T2 Anxiety</head><p>Figure <ref type="figure">1</ref>. Structural regression model for the associations among bystanders of T1 cyberbullying, T1 empathy, T2 depression, and T2 anxiety. T1 = Time 1 (Fall of 6 th or 7 th grade); T2 = Time 2 (Fall of 7 th or 8 th grade). To facilitate reading, T1 cyberbullying perpetration and T1 cyberbullying victimization were included as covariates by allowing them to predict bystanders of T1 cyberbullying as well as T2 depression and T2 anxiety, but they were not included in the graphical representation. T1 depression was allowed to predict T2 depression and T1 anxiety was also allowed to predict T2 anxiety to account for previous levels of depression and anxiety, and these relationships were not showed in the graphical representation. Gender was also allowed to predict T2 depression and anxiety, along with bystanders of T1 cyberbullying, and is not displayed in the graphical representation.</p><p>The results revealed that the structural model fit the data adequately, χ 2 = 911.86, df = 713, p &lt; .001, CFI = .98, TLI = .97, RMSEA = .05, SRMR = .05 (see Figure <ref type="figure">1</ref>). Gender did not have a significant relationship to bystanders of T1 cyberbullying (β = .09, p = n.s.), T2 depression (β = .04, p &gt; .05), or T2 anxiety (β = .01, p &gt; .05). Increases in being bystanders of T1 cyberbullying was related positively to T2 depression (β = .26, p &lt; .01) and T2 anxiety (β = .21, p &lt; .05). T1 empathy was unrelated to T2 depression (β = .13, p = n.s) and T2 anxiety (β = .03, p = n.s.). T1 cyberbullying perpetration (β = .18, p &lt; .05) and T1 cyberbullying victimization (β = .27, p &lt; .01) each were associated positively with being bystanders of T1 cyberbullying, as well as related positively to T2 depression (β = .18, p &lt; .05) and T2 anxiety (β = .16, p &lt; .05). T1 depression was associated positively with T2 depression (β = .30, p &lt; .001), and T1 anxiety was related positively to T2 anxiety (β = .29, p &lt; .001).</p><p>Significant interactions were found between bystanders of T1 cyberbullying and empathy when predicting T2 depression (β = .16, p &lt; .05). Probing the interaction further revealed that bystanders of T1 cyberbullying reported more T2 depression when they reported higher levels of empathy (B = 0.31, SE = .09, p &lt; .001 at + 1 SD). The simple slopes for low and average levels of T1 empathy were not significant (B = 0.03, SE = 0.01, p = n.s. at the mean, B = 0.02, SE = 0.02, p = n.s. at -1 SD). The interaction for T2 anxiety was not significant (β = .06, p = n.s.). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The present 1-year longitudinal study aimed to investigate the consequences of witnessing cyberbullying, specifically anxiety and depression. In addition, another purpose was to add to the empirical evidence on the moderating effects of empathy on the longitudinal links among being a bystander of cyberbullying, anxiety, and depression.</p><p>As hypothesized, being a bystander of cyberbullying was related positively to adolescents' self-report of depression and anxiety, measured one year later (Hypothesis 1). This result is consistent with previous research on bystanders of offline bullying <ref type="bibr" target="#b11">(Evans et al., 2018;</ref><ref type="bibr" target="#b28">Rivers et al., 2009)</ref> and more broadly, with research on cyberbullying perpetration and victimization <ref type="bibr" target="#b5">(Bauman et al., 2013;</ref><ref type="bibr" target="#b6">Bonanno et al., 2013;</ref><ref type="bibr" target="#b22">Mitchell et al., 2007;</ref><ref type="bibr" target="#b43">Wright, 2014;</ref><ref type="bibr" target="#b46">Ybarra et al., 2007;</ref><ref type="bibr" target="#b47">Yousef &amp; Bellamy, 2015)</ref>. This finding extends the current literature on the consequences of witnessing cyberbullying for bystanders. Bystanders of cyberbullying might experience stress because they feel defenseless and concerned that cyberbullying could happen to them. Utilizing Learned Helplessness Theory <ref type="bibr" target="#b30">(Seligman, 1975)</ref>, depression and anxiety may result from feeling a lack of control during a cyberbullying situation. Furthermore, some bystanders of cyberbullying might also experience cognitive dissonance if they stay passive and do not intervene in cyberbullying, potentially resulting in feelings of depression and anxiety. Their empathetic concern for the plight of the cybervictim could further exacerbate the negative consequences of witnessing cyberbullying</p><p>Investigating the moderating effect of empathy on the longitudinal links between being a bystander of cyberbullying, depression, and anxiety revealed mixed results. We found only partial support for the hypothesis that higher levels of empathy would increase the association between being a bystander of cyberbullying and depression and anxiety (Hypothesis 2) because higher levels of empathy increased the association between being a bystander of cyberbullying and depression but not anxiety. The reason for this unexpected result is still not entirely clear and the lack of previous research makes it difficult to compare the results with other studies. In this study, we focused on an emotion-based version of empathy; it might be likely that this form of empathy has a stronger impact on depression, considering that depression often influences how someone feels, thinks, and acts. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Although the present study contributes valuable insight into the longitudinal relationship between witnessing cyberbullying and adverse effects, such as depression and anxiety, and the role of empathy in these relationships, there are several limitations requiring discussion. Despite the large sample size, the sample size cannot be considered representative, and a relatively small number of schools were recruited. Therefore, studies with representative samples are needed to replicate the results obtained in the present study to increase the generalizability of this research. These studies should be carried out with diverse samples. Another limitation of this study was that in the present study adolescents' depression and anxiety were assessed twice over a one year period, while involvement in cyberbullying in any role, including bystanding, perpetration, and victimization were measured once. Because of this limitation, we are not able to measure adolescents' experience of cyberbullying, whether bystanders, perpetrators, or victims, at the same time depression and anxiety were measured one year later. Multiple assessments during this one year of investigation would benefit future research. Such a design will make it possible to also understand the temporal ordering of the associations found in this study. The relationships found in this study might be inflated due to common method variance because only self-reports were used. Follow-up research should apply a multi-informant approach, including peer and/or parents' reports.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications for Practice and Future Research</head><p>The findings of the present study have important implications for practice and future research. The finding that being a bystander of cyberbullying predicted depression and anxiety, one year later, might indicate that there could be potential problems with our current prevention and intervention programs. Most programs focus on empathy training for children and adolescents, yet research suggests that empathy without the ability to act (personal distress responses) leads to maladaptive psychosocial adjustments. An alternative for prevention and intervention programs might involve teaching children to effectively cope with witnessing bullying, which could empower them with strategies they might actually use to help the victim. Therefore, more research should be conducted to better understand how to change adolescents' personal distress responses to actual sympathetic responses. One possibility would be to educate bystanders about how to cope with unpleasant emotional states in order to help them overcome the negative impacts associated with witnessing cyberbullying. Another possibility for future research is to empower bystanders to intervene which might reduce their feelings of helplessness, guilt, self-blame, and empathic distress. The development of such intervention skills could be taught, using role play or virtual learning environments. Teachers and parents/guardians should be aware of the adverse effects witnessing cyberbullying can have on adolescents' mental health. They should also be educated on how they can support adolescents who report experiencing cyberbullying.</p><p>Empathy involves both emotional and cognitive components <ref type="bibr">(Cohen &amp; Strayer, 1996)</ref>. Thus, empathy can also be conceptualized as not only sharing another person's emotional state but also being able to understand this person's emotional state. Following this conceptualization, empathy is a multidimensional construct including both cognitive and emotional components <ref type="bibr">(Davis, 1994;</ref><ref type="bibr" target="#b13">Hoffman, 2001;</ref><ref type="bibr" target="#b17">Jolliffe &amp; Farrington, 2004)</ref>. Thus, future studies should consider different components of empathy, such as cognitive and affective, while investigating the associations between being a bystander of cyberbullying, depression and anxiety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This study was one of the first to examine the longitudinal relationship among being a bystander of cyberbullying and the psychological consequences, such as depression and anxiety. It was also one of the first to investigate the moderating effect of empathy in these relationships. Findings of this study indicate that increases in being bystanders of T1 cyberbullying predicted higher levels of T2 depression and T2 anxiety, while controlling for T1 cyberbullying perpetration and cyberbullying victimization. Moreover, significant interactions were found between bystanders of cyberbullying and T1 empathy when predicting T2 depression but not when predicting T2 anxiety. These findings indicate a need for parents, educators, and teachers to be aware of the possible impact that witnessing cyberbullying can have on the mental health of adolescents. In addition, greater attention should be given to bystanders' mental health in research and prevention programs.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Interaction of empathy in the association between bystanders of T1 cyberbullying and T2 depression. T1 = Time 1 (Fall of 6 th or 7 th grade); T2 = Time 2 (Fall of 7 th or 8 th grade).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Correlations among bystanders of cyberbullying, cyberbullying perpetration, cyberbullying victimization, empathy, depression, and anxiety.</figDesc><table><row><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell><cell>8</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Virtual but not less real: A study of cyber bullying and its relations with moral disengagement and empathy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Correia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cyberbullying in the global playground: Research from international perspectives</title>
+		<editor>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Cross</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="243" to="244" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">What is depression?</title>
+		<ptr target="https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders" />
+		<imprint>
+			<date type="published" when="2017-01">2017a, January. 2017b, January</date>
+			<publisher>American Psychiatric Association</publisher>
+		</imprint>
+	</monogr>
+	<note>Retrieved from. What is anxiety? Retrieved from</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cyberbullying among adolescent bystanders: Role of the communication medium, form of violence, and empathy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barlińska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winiewski</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/casp.2137</idno>
+		<ptr target="https://doi.org/10.1002/casp.2137" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community &amp; Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Cyberbullying on social network sites. An experimental study into bystanders&apos; behavioural intentions to help the victim or reinforce the bully</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bastiaensens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Poels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Cleemput</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Desmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>De Bourdeaudhuij</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.10.036</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2013.10.036" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="259" to="271" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Two forms of perspective taking: Imagining how another feels and imagining how you would feel</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Batson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of imagination and mental simulation</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Markman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">M P</forename><surname>Klein</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Suhr</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Psychology Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="267" to="279" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Associations among bullying, cyberbullying, and suicide in high school students</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Toomey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adoelscence.2012.12.001</idno>
+		<ptr target="https://doi.org/10.1016/j.adoelscence.2012.12.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="341" to="350" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Cyber bullying and internalizing difficulties: Above and beyond the impact of traditional forms of bullying</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bonanno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hymel</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-013-9937-1</idno>
+		<ptr target="https://doi.org/10.1007/s10964-013-9937-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth &amp; Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="685" to="697" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Incidence and mental health impact of sexual orientation victimization of lesbian, gay, and bisexual youths in high school</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C S</forename><surname>Caravita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Di Blasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Salmivalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>D'augelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Pilkington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Hershberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/scpq.17.2.148.20854</idno>
+		<ptr target="https://doi.org/10.1521/scpq.17.2.148.20854" />
+	</analytic>
+	<monogr>
+		<title level="j">School Psychology Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="148" to="167" />
+			<date type="published" when="2002">2009. 2002</date>
+		</imprint>
+	</monogr>
+	<note>Social Development</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prosocial development in early adulthood: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">K</forename><surname>Guthrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cumberland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Shepard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carlo</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.82.6.993</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.82.6.993" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="993" to="1006" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Relation to sympathy and personal distress to prosocial behavior: A multimethod study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mathy</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-351457.1.55</idno>
+		<ptr target="https://doi.org/10.1037/0022-351457.1.55" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="55" to="66" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Empathy and its development</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Strayer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cumulative bullying experiences, adolescent behavior and mental health, and academic achievement: An integrative model of perpetration, victimization, and bystander behavior</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B R</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Smokowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Mercado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Marshall</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10826-018-1078-4</idno>
+		<ptr target="https://doi.org/10.1007/s10826-018-1078-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Child and Family Studies. Advanced online publication</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Cognitive dissonance: Progress on a pivotal theory in social psychology</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Harmon-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mills</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>American Psychological Association</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toward a comprehensive empathy-based theory of prosocial moral development</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hoffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Constructive and destructive behavior: Implications for family, school and society</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Bohart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Stipek</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Empathy in depression: Egocentric and altercentric biases and the role of alexithymia</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Banzhaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kanske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bermpohl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Singer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2016.03.007</idno>
+		<ptr target="https://doi.org/10.1016/j.jad.2016.03.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Affective Disorders</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="23" to="29" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">An analysis of multiple factors of cyberbullying among junior high school students in Taiwan</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chou</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2010.06.005</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2010.06.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1581" to="1590" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Neuroimaging findings in post-traumatic stress disorder: Systematic review</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hull</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S000712500016180X</idno>
+		<ptr target="https://doi.org/10.1017/S000712500016180X" />
+	</analytic>
+	<monogr>
+		<title level="j">The British Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="102" to="110" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Empathy and offending: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jolliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Farrington</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.avb.2003.03.001</idno>
+		<ptr target="https://doi.org/10.1016/j.avb.2003.03.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Aggression and Violent Behavior</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="441" to="476" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A developmental-contextual perspective on youth covictimization by community violence</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kuther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="699" to="714" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Applying Routine Activity Theory to cybercrime: A theoretical and empirical analysis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Leukfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01639625.2015.1012409</idno>
+		<ptr target="https://doi.org/10.1080/01639625.2015.1012409" />
+	</analytic>
+	<monogr>
+		<title level="j">Deviant Behavior</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="263" to="280" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Bystanders&apos; support of cyberbullied schoolmates</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Macháčková</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dedkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sevcikova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cerna</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/casp.2135</idno>
+		<ptr target="https://doi.org/10.1002/casp.2135" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community &amp; Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="25" to="36" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The multi-dimensional anxiety scale for children (MASC): Factor structure, reliability, and validity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>March</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stallings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Conners</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/00004583-199704000-00019</idno>
+		<ptr target="https://doi.org/10.1097/00004583-199704000-00019" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Academy of Child &amp; Adolescent Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="554" to="565" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The relative importance of online victimization in understanding depression, delinquency, and substance use</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Finkelhor</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1077559507305996</idno>
+		<ptr target="https://doi.org/10.1177/1077559507305996" />
+	</analytic>
+	<monogr>
+		<title level="j">Child Maltreatment</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="314" to="324" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Psychological resilience and empathy as predictor of depression among Indonesian adolescents</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mujahidah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Listiyandini</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/publication/318316531_Psychological_Resilience_and_Empathy_as_Predictor_of_Depression_among_Indonesian_Adolescents" />
+	</analytic>
+	<monogr>
+		<title level="m">Asia International Multidisciplinary Conference (AIMC)</title>
+		<imprint>
+			<date type="published" when="2017-05">2017. May. 2017</date>
+		</imprint>
+	</monogr>
+	<note>Powerpoint presentation available at</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Attachment and empathy as predictors of roles as defenders or outsiders in bullying interactions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Nickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Princiotta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsp.2008.06.002</idno>
+		<ptr target="https://doi.org/10.1016/j.jsp.2008.06.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="687" to="703" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Empathy and depression: The moral system on overdrive</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mulherin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Crisostomo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Empathy in mental illness</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Farrow</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Woodruff</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY, US</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="49" to="75" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Bullies move beyond the schoolyard: A preliminary look at cyberbullying. Youth Violence and Juvenile Justice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Patchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hinduja</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1541204006286288</idno>
+		<ptr target="https://doi.org/10.1177/1541204006286288" />
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="148" to="169" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The CES-D Scale: A self-report depression scale for research in the general population</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Radloff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/014662167700100306</idno>
+		<ptr target="https://doi.org/10.1177/014662167700100306" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Observing bullying at school: The mental health implications of witness status</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rivers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Poteat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Noret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ashurst</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0018164</idno>
+		<ptr target="https://doi.org/10.1037/a0018164" />
+	</analytic>
+	<monogr>
+		<title level="j">School Psychology Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="211" to="223" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Is cyberbullying relate to lack of empathy and social-emotional problems?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schultze-Krumbholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<idno type="DOI">10.3233/DEV-130124</idno>
+		<ptr target="https://doi.org/10.3233/DEV-130124" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="161" to="166" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Helplessness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E P</forename><surname>Seligman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>W. H. Freeman</publisher>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The role of empathy in experiencing vicarious anxiety</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hassell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Ochsner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mobbs</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000335</idno>
+		<ptr target="https://doi.org/10.1037/xge0000335" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="1164" to="1188" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Adolescents&apos; emotional engagement in friends&apos; problems and joys: Associations of empathetic distress and empathetic joy with friendship quality, depression, and anxiety</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/adolescence.%202015.08.020</idno>
+		<ptr target="https://doi.org/10.1016/adolescence.2015.08.020" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="103" to="111" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Cyberbullying: Its nature and impact in secondary school pupils</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mahdavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tippett</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1469-7610.2007.01846.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-7610.2007.01846.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Child Psychology and Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="376" to="385" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Toronto Empathy Questionnaire: Scale development and initial validation of a factor-analytic solution to multiple empathy measures</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Spreng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mckinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00223890802484381</idno>
+		<ptr target="https://doi.org/10.1080/00223890802484381" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality Assessment</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="62" to="71" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Are cyberbullies less empathic? Adolescents&apos; cyberbullying behavior and empathic responsiveness</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Steffgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Konig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pfretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Melzer</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2010.0445</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2010.0445" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="643" to="648" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Neurodevelopmental changes in the circuits underlying empathy and sympathy from childhood to adulthood</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Michalska</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-7687.2009.00940.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-7687.2009.00940.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="886" to="899" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Quadratic associations between empathy and depression and the moderating influence of dysregulation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Donohue</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00223980.2014.992382</idno>
+		<ptr target="https://doi.org/10.1080/00223980.2014.992382" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="15" to="35" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Personal characteristics and contextual factors that determine &quot;Helping</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Cleemput</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pabian</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ab.21534</idno>
+		<ptr target="https://doi.org/10.1002/ab.21534" />
+	</analytic>
+	<monogr>
+		<title level="m">Joining In,&quot; and &quot;Doing Nothing&quot; when witnessing cyberbullying. Aggressive Behavior</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="383" to="396" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Cyberbullying among youngsters: Profiles of bullies and victims</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vandebosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Cleemput</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444809341263</idno>
+		<ptr target="https://doi.org/10.1177/1461444809341263" />
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1349" to="1371" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Moral disengagement and emotional and social difficulties in bullying and cyberbullying: Differences by participant role. Emotional and Behavioural Difficulties</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wachs</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13632752.2012.704318</idno>
+		<ptr target="https://doi.org/10.1080/13632752.2012.704318" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="347" to="360" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schubarth</surname></persName>
+		</author>
+		<title level="m">Mobbing an Schulen: Erkennen, Handeln, Vorbeugen [School Bullying: Recognize, Act, Prevent</title>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kohlhammer</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Cyberbullying and cyberthreats: Responding to the challenge of online social aggression, threats, and Distress</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Willard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Research Press</publisher>
+			<pubPlace>Champaign, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Cyber victimization and perceived stress: Linkages to late adolescents&apos; cyber aggression and psychological functioning</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0044118X14537088</idno>
+		<ptr target="https://doi.org/10.1177/0044118X14537088" />
+	</analytic>
+	<monogr>
+		<title level="j">Youth &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="789" to="810" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The role of the media and the cyber context in adolescents&apos; popularity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+		</author>
+		<ptr target="https://irtis.muni.cz/media/3077954/living_in_the_digital_age_2015.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Living in the Digital Age: Self-Presentation, Networking, Playing, and Participation in Politics</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Lorentz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Smahel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Metykova</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Brno</addrLine></address></meeting>
+		<imprint>
+			<publisher>Muni Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="49" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The association between cyber victimization and subsequent cyber aggression: The moderating effect of peer rejection</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10964-012-9903-3</idno>
+		<ptr target="https://doi.org/10.1007/s10964-012-9903-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Youth &amp; Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="662" to="674" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Examining the overlap in internet harassment and school bullying: Implications for school intervention</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Diener-West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leaf</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2007.09.004</idno>
+		<ptr target="https://doi.org/10.1016/j.jadohealth.2007.09.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="42" to="50" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The impact of cyberbullying on the self-esteem and academic functioning of Arab American middle and high school students</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S M</forename><surname>Yousef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bellamy</surname></persName>
+		</author>
+		<idno type="DOI">10.14204/ejrep.37.15011</idno>
+		<ptr target="https://doi.org/10.14204/ejrep.37.15011" />
+	</analytic>
+	<monogr>
+		<title level="j">Electronic Journal of Research in Educational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="463" to="482" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

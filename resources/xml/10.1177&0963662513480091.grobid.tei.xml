@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">An attack on science? Media use, trust in scientists, and perceptions of global warming</title>
+				<funder ref="#_A3NuMt7">
+					<orgName type="full">Pacific Foundation, V. Kann Rasmussen Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Grantham Foundation for the Protection of the Environment, Surdna Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2013-04-03">2013-04-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jay</forename><forename type="middle">D</forename><surname>Hmielowski</surname></persName>
+							<email>jay.hmielowski@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Arizona</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Communication</orgName>
+								<orgName type="institution">University of Arizona</orgName>
+								<address>
+									<addrLine>1103 E. University Blvd</addrLine>
+									<postBox>PO Box 210025</postBox>
+									<postCode>85721</postCode>
+									<settlement>Tucson</settlement>
+									<region>AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lauren</forename><surname>Feldman</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">American University</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Teresa</forename><forename type="middle">A</forename><surname>Myers</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">George Mason University</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><surname>Leiserowitz</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Yale University</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><surname>Maibach</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">George Mason University</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">An attack on science? Media use, trust in scientists, and perceptions of global warming</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Public Understanding of Science</title>
+						<title level="j" type="abbrev">Public Underst Sci</title>
+						<idno type="ISSN">0963-6625</idno>
+						<idno type="eISSN">1361-6609</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">23</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="866" to="883"/>
+							<date type="published" when="2013-04-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">319AEE39283960A1A5E18EF7412920B0</idno>
+					<idno type="DOI">10.1177/0963662513480091</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>cable news</term>
+					<term>media effects</term>
+					<term>quantitative</term>
+					<term>survey</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There is a growing divide in how conservatives and liberals in the USA understand the issue of global warming. Prior research suggests that the American public's reliance on partisan media contributes to this gap. However, researchers have yet to identify intervening variables to explain the relationship between media use and public opinion about global warming. Several studies have shown that trust in scientists is an important heuristic many people use when reporting their opinions on science-related topics. Using within-subject panel data from a nationally representative sample of Americans, this study finds that trust in scientists mediates the effect of news media use on perceptions of global warming. Results demonstrate that conservative media use decreases trust in scientists which, in turn, decreases certainty that global warming is happening. By contrast, use of non-conservative media increases trust in scientists, which, in turn, increases certainty that global warming is happening.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Consensus continues to grow within the scientific community that global warming poses serious risks to human societies and natural ecosystems <ref type="bibr" target="#b26">(IPCC, 2007)</ref>. A variety of impacts are already occurring in the United States <ref type="bibr">(US Global Change Research Program, 2009)</ref>. Many Americans, however, perceive climate change as a distant problem that will primarily affect future generations of people in other countries <ref type="bibr">(Leiserowitz et al., 2011)</ref>. In turn, global warming is consistently ranked as a relatively low public priority, compared to a range of other national issues (Pew Research Center for the People and the Press, 2012). Moreover, global warming, and the environment more generally, have become politically divisive issues <ref type="bibr" target="#b19">(Dunlap and McCright, 2008;</ref><ref type="bibr">McCright and Dunlap, 2011a)</ref>. For example, whereas Democrats tend to accept the evidence for global warming and believe that it is human-caused, significantly fewer Republicans hold these beliefs <ref type="bibr" target="#b19">(Dunlap and McCright, 2008)</ref>.</p><p>This political polarization is partly the product of a coordinated denial movement <ref type="bibr" target="#b21">(Dunlap and McCright, 2011</ref>) that uses conservative media as a conduit for casting doubt on the science of climate change among ideologically receptive audiences <ref type="bibr" target="#b25">(Hamilton, 2011)</ref>. Part of this strategy includes undermining scientists and their research <ref type="bibr" target="#b21">(Dunlap and McCright, 2011)</ref>. Trust in scientists has been in decline for several decades among US conservatives <ref type="bibr" target="#b24">(Gauchat, 2012)</ref>, and trust in scientists as a source of information on global warming dropped sharply between 2008 and 2010, particularly among conservative Republicans <ref type="bibr">(Leiserowitz et al., 2010)</ref>. By contrast, Democrats and liberals have higher and more stable levels of trust in scientists <ref type="bibr" target="#b12">(Brewer and Ley, 2012;</ref><ref type="bibr">Leiserowitz et al., 2010)</ref>.</p><p>Previous research has found that people rely heavily on cognitive heuristics when reporting attitudes and opinions on prominent issues <ref type="bibr" target="#b22">(Fiske and Taylor, 1991)</ref>. The relative lack of public knowledge about global warming <ref type="bibr" target="#b30">(Leiserowitz, Smith, and Marlon, 2010)</ref> suggests that many individuals use simple heuristics, such as trust, to make sense of conflicting information and form their opinions about climate change. Yet, given the conservative media's mobilization against climate science in the USA <ref type="bibr" target="#b21">(Dunlap and McCright, 2011)</ref>, Americans' levels of public trust in scientists and, in turn, beliefs about global warming, are likely to depend on the media sources they use.</p><p>This study explores the relationships between media use, trust in scientists and perceptions of global warming. Specifically, we utilize within-subject panel data from a nationally representative sample of Americans to test whether trust in scientists mediates the relationship between particular media use and beliefs about global warming. Prior research on the role of sociocultural factors in predicting attitudes toward controversial science and technology issues has treated media use and trust as independent factors (e.g. <ref type="bibr" target="#b11">Brewer and Ley, 2011;</ref><ref type="bibr" target="#b29">Lee et al., 2005)</ref>, rather than considering the interplay between these variables. Examining how these two variables uniquely influence attitudes may provide a more comprehensive understanding of why people hold particular beliefs about climate change. Moreover, the use of within-subject panel data allows us to examine whether there is an over-time influence of media use on global warming beliefs. We are thus able to make stronger claims about the direction of the relationship between US partisan media use and beliefs about global warming than have been possible in prior cross-sectional studies (e.g. <ref type="bibr" target="#b23">Feldman et al., 2012;</ref><ref type="bibr" target="#b28">Krosnick and MacInnis, 2010)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Origins and strategy of the climate change skeptics movement</head><p>As the scientific research on global warming advanced, the nations of the world created the Intergovernmental Panel on Climate Change (IPCC). In its most recent assessment report, the IPCC (2007) demonstrated that human activities, primarily the burning of fossil fuels in industrialized societies, are causing global warming. In addition to the IPCC, the international community negotiated and ratified the United Nations Framework Convention on Climate Change (UNFCCC) to assess and respond to this new threat to the global commons. In the USA, conservatives saw these organizations, and the environmental movement more generally, as a threat to free market capitalism. To counter these environmental organizations, conservatives embraced scholars who touted 'human ingenuity' as the 'ultimate resource,' which helped them 'deny the possibility of limits to economic growth' <ref type="bibr">(Dunlap and McCright, 2010: 243)</ref>. To effectively spread this message, conservatives developed a network of organizations focused on 'environmental skepticism', which Jacques defines as 'a position that rejects the authenticity of … ecological problems <ref type="bibr">' (2009: 18)</ref>.</p><p>Two types of organizations are primarily responsible for spreading and legitimizing environmental skepticism in the USA: conservative think tanks (CTTs) and conservative media. Conservative think tanks produce research reports that purport to demonstrate the benefits of deregulation and challenge existing empirical evidence highlighting the risks of global warming <ref type="bibr" target="#b20">(Dunlap and McCright, 2010;</ref><ref type="bibr" target="#b27">Jacques, 2009)</ref>. An analysis examining the origins of research studies questioning mainstream climate science found the studies were almost exclusively funded by CTTs <ref type="bibr" target="#b18">(Dunlap and</ref><ref type="bibr">McCright, 2010, 2011)</ref>. Once released, US conservative media then distribute the findings to the public <ref type="bibr" target="#b18">(Dunlap and</ref><ref type="bibr">McCright, 2010, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Impact of media coverage on the public's belief that global warming is happening</head><p>In recent years, cable and talk radio outlets in the USA have begun to differentiate themselves by offering more opinionated and partisan content. For example, several content analyses have revealed that Fox News and conservative radio programs (e.g. The Rush Limbaugh Show) cover issues and events -from the Iraq War to the campaign for the US presidency -in a way that is more supportive of conservative and Republican interests than CNN, MSNBC, and the national network news programs <ref type="bibr" target="#b4">(Aday et al., 2005</ref><ref type="bibr">, Project for Excellence in Journalism, 2008)</ref>. Consistent with this broader coverage, content analyses have shown that conservative media consistently claim a lack of scientific consensus on the reality of anthropogenic climate change <ref type="bibr" target="#b20">(Dunlap and McCright, 2010)</ref>. Studies have also found that Fox News airs significantly more stories that question the existence of human-caused climate change than stories that accept these scientific claims <ref type="bibr" target="#b23">(Feldman et al., 2012)</ref>.</p><p>In turn, survey and experimental research have found relationships between exposure to these information outlets and beliefs about global warming. For example, watching Fox News <ref type="bibr" target="#b23">(Feldman et al., 2012;</ref><ref type="bibr" target="#b28">Krosnick and MacInnis, 2010)</ref>, consuming news stories that present evidence questioning the certainty of climate change <ref type="bibr" target="#b16">(Corbett and Durfee, 2004)</ref>, and watching stories that include an interview with a skeptical scientist commenting on global warming <ref type="bibr">(Malka et al., 2009)</ref> all decrease beliefs that global warming is happening and human caused. Thus, we propose that: H1: Conservative media use will be negatively related to certainty that global warming is happening.</p><p>Although early content analyses found that US media outlets across the political spectrum overemphasized the 'debate' surrounding the existence of global warming <ref type="bibr" target="#b62">(Zehr, 2000)</ref>, recent studies suggest mainstream news sources (e.g. CNN) are now less likely to give equal time to global warming skeptics <ref type="bibr" target="#b8">(Boykoff, 2007)</ref>. An examination of CNN's broadcasts found more interview guests are concerned about global warming than dismissive, and that its stories are more likely to emphasize that global warming is happening and caused by human activity than Fox News broadcasts <ref type="bibr" target="#b23">(Feldman et al., 2012)</ref>. In addition, liberal-leaning outlets such as MSNBC tend to convey similar coverage of global warming as mainstream media <ref type="bibr" target="#b23">(Feldman et al., 2012)</ref>.</p><p>This difference in coverage between conservative and non-conservative media outlets results in different patterns of media effects. Previous research has shown that providing context for climate skeptics' claims questioning global warming or including a mainstream scientist who challenges these claims reduces the effect of the skeptic on people's views of global warming <ref type="bibr" target="#b16">(Corbett and Durfee, 2004)</ref>. In addition, studies have found positive associations between viewing CNN and MSNBC and other non-Fox television news programming and acceptance of the problem of global warming <ref type="bibr" target="#b23">(Feldman et al., 2012;</ref><ref type="bibr" target="#b28">Krosnick and MacInnis, 2010)</ref>. Based on this evidence, we posit that: H2: Non-conservative media use will be positively related to certainty that global warming is happening.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The mediating role of public trust in scientists</head><p>Public trust in scientists is an important variable to consider when attempting to understand the underlying process by which media use leads people to dismiss (or accept) the existence of global warming. Critchley characterizes trust as 'an expectation that a trustee is both able and motivated to behave in a way that is valued by a trustor <ref type="bibr">' (2008: 311)</ref>. Trust in scientists is a form of social or institutional trust, which denotes impersonal trust attributed to people working in institutions -as opposed to personalized trust in a known individual <ref type="bibr" target="#b14">(Chryssochoidis et al., 2009)</ref>. According to <ref type="bibr" target="#b14">Chryssochoidis et al. (2009)</ref>, institutional trust is malleable, shaped by sociocultural factors and value systems.</p><p>Several studies have identified the antecedents of trust in scientists (e.g. <ref type="bibr" target="#b6">Anderson et al., 2011;</ref><ref type="bibr" target="#b12">Brewer and Ley, 2012)</ref>. Of relevance to the present study, researchers focused on the US have documented ideological divisions in trust in scientists, with liberals generally more trusting than conservatives <ref type="bibr">(Brewer and</ref><ref type="bibr">Ley, 2012, Gauchat, 2012)</ref>. However, these studies have not specified how this ideological divide arises. We propose that, in the USA, the media sources preferred by liberals and conservatives play a role in shaping their respective levels of trust toward scientists. This argument is consistent with the finding that well-educated American conservatives have become more distrusting of scientists <ref type="bibr" target="#b24">(Gauchat, 2012)</ref>, likely due to their heightened attention to in-group messaging. Our explanation for this potential media effect on trust derives from the premise that institutional trust is built upon shared values <ref type="bibr">(Siegrist et al., 2000)</ref>. Further, because people's knowledge of most scientific issues, including climate change, is relatively limited <ref type="bibr">(Leiserowitz et al., 2010)</ref>, the salient values used to judge trustworthiness are likely to be general rather than specific (i.e. based on agreement and sympathy rather than on carefully reasoned arguments or direct knowledge). In this context, different media outlets help to cue audiences as to whether a particular institution or set of institutional actors, such as scientists, share a person's values and are thus trustworthy. They do this directly by reporting on scientific developments and controversies, but also by framing scientists and scientific issues in a way that makes certain values salient.</p><p>For example, by amplifying coverage of climate contrarians' claims regarding the reality and seriousness of anthropogenic climate change, Fox News and other American conservative media have served to marginalize scientists in general and climate scientists in particular <ref type="bibr" target="#b21">(Dunlap and McCright, 2011;</ref><ref type="bibr" target="#b23">Feldman et al., 2012)</ref>. According to Dunlap and McCright, 'conservative media consistently present contrarian scientists and CTT representatives as 'objective' experts, in stark contrast to their portrayal of scientists working with the IPCC as self-interested and biased <ref type="bibr">' (2011: 152)</ref>. This coverage often includes specific critiques of mainstream scientists such as 'the denigration of peer-reviewed, scholarly journals and scientific institutions by contrarian scientists' <ref type="bibr">(Dunlap and McCright, 2010: 254)</ref> or equating the content of scientific journals with the editorial page of The New York Times, a perceived enemy of conservatives <ref type="bibr" target="#b20">(Dunlap and McCright, 2010)</ref>. Conservatives in the USA also argue that scientists manipulate their data to fund their research projects <ref type="bibr" target="#b59">(Washington and Cook, 2011)</ref> and question the competency of scientists and their findings by setting unrealistic and unobtainable expectations for scientific research. McKnight further argues that News Corporation, the parent company of Fox News, characterizes science as a form of 'orthodoxy' and climate skeptics as 'brave dissidents against an oppressive set of beliefs <ref type="bibr">' (2010: 704)</ref>. In this way, conservative media are signaling to viewers who they should or shouldn't trust as sources of information on climate change on the basis of shared values.</p><p>Non-conservative American news sources, on the other hand, generally communicate the message that climate science and scientists should be trusted. The mainstream press (e.g. New York Times, Washington Post and CNN.com) now cover climate change in a way that is aligned with the prevailing scientific consensus on the issue <ref type="bibr" target="#b8">(Boykoff, 2007)</ref> and largely ignore climate skeptics <ref type="bibr" target="#b23">(Feldman et al., 2012;</ref><ref type="bibr" target="#b43">Nisbet, 2011)</ref>.</p><p>Prior evidence for media effects on trust in scientists, while relatively limited, is nonetheless suggestive. <ref type="bibr" target="#b6">Anderson et al. (2011)</ref> found that science media use and public affairs media use were positively associated with trust in scientists as sources of information on nanotechnology. In the context of climate change, <ref type="bibr">Leiserowitz et al. (2010)</ref> found that of those Americans who had heard of 'Climategate' and followed the story, over half said the stories caused them to have less trust in scientists. This was especially true among conservatives. Further, <ref type="bibr" target="#b45">Nisbet et al. (2002)</ref> demonstrated that media effects on perceptions of science, in general, are not monolithic and that when media sources portray negative images of scientists, they have the potential to dampen support for science and scientists. Thus, in light of how conservative and non-conservative media construct images of scientists, these discrepant sources are likely to have unique effects on public trust in scientists. Consistent with this expectation, <ref type="bibr" target="#b28">Krosnick and MacInnis (2010)</ref> found that exposure to Fox News was associated with lower levels of trust in what scientists say about the environment, while exposure to news sources other than Fox was associated with higher levels of trust. Following from this prior research and theory, we posit that: H3: Conservative media use will be negatively related to trust in scientists. H4: Non-conservative media use will be positively related to trust in scientists.</p><p>Trust, in turn, is important to the formation of beliefs about global warming. This, in part, is because people are 'cognitive misers' <ref type="bibr" target="#b22">(Fiske and Taylor, 1991)</ref>, meaning that they rely on heuristics, or information shortcuts, when making judgments about complex issues, rather than carefully evaluating the full range of information at their disposal. Trust is one such heuristic to which people turn when forming opinions about science and risk issues <ref type="bibr">(Brewer and</ref><ref type="bibr">Ley, 2011, 2012;</ref><ref type="bibr" target="#b29">Lee et al., 2005;</ref><ref type="bibr" target="#b34">Liu and Priest, 2009)</ref>. Because most scientific phenomena are not experienced directly by ordinary individuals, the public's understanding of science often depends on its 'translation' by experts <ref type="bibr" target="#b33">(Lidskog, 1996)</ref>. However, the debate between climate scientists and contrarians creates uncertainty among the public. Lacking detailed knowledge about the issue at hand, people use trust to decide which experts' claims to accept or reject <ref type="bibr">(Siegrist and Cvetkovich, 2000)</ref>, ultimately accepting the claims of experts who share their values <ref type="bibr">(Siegrist et al., 2000)</ref>.</p><p>Several prior studies have found that institutional trust -and trust in scientists, in particular -is associated with attitudes toward controversial science and technology issues (e.g. <ref type="bibr" target="#b11">Brewer and Ley, 2011;</ref><ref type="bibr" target="#b17">Critchley, 2008;</ref><ref type="bibr" target="#b29">Lee et al., 2005;</ref><ref type="bibr" target="#b34">Liu and Priest, 2009;</ref><ref type="bibr">Priest, 2001;</ref><ref type="bibr" target="#b52">Siegrist, 2000)</ref>. Scholars have likewise argued that trust is an important factor in determining public perceptions of climate change and support for mitigation efforts <ref type="bibr" target="#b44">(Nisbet and Myers, 2007)</ref>. Indeed, opinions and perceptions of climate change are especially apt to be influenced by trust -given the issue's complexity, its politicization and connection to ideological values, its remoteness from everyday experience, and the public's lack of knowledge about the topic. Moreover, the way that the news media cover climate change emphasizes the competition between climate scientists and contrarians, thereby privileging the role of these individuals and their claims in shaping understanding of the issue <ref type="bibr" target="#b10">(Boykoff and Boykoff, 2007)</ref>. Because of this 'personalization bias', the credibility of the individual players in the climate change debate becomes a salient heuristic. Although there is limited empirical research that tests the relationship between trust in scientists and perceptions of climate change, one study found that trust in scientists regulates acceptance of global warming messages <ref type="bibr">(Malka et al., 2009)</ref>. Thus, we propose: H5: Trust in scientists will be positively related to certainty that global warming is happening.</p><p>Ultimately, the hypotheses outlined in this article suggest an indirect effect of media use on beliefs about global warming through an individual's level of trust in scientists. In fact, <ref type="bibr">Priest (2001)</ref> argues that the media's influence on public attitudes about science is most likely to occur indirectly, by shaping perceptions about 'the nature of science, of scientists, and of organizations and agencies that sponsor and make use of scientific results <ref type="bibr">' (2001: 105)</ref>. Thus, we propose the following hypotheses: H6: There will be a negative indirect effect of conservative media use on certainty that global warming is happening through trust in scientists; that is, the negative association between conservative media use and certainty that global warming is happening will be explained, in part, by the negative influence of conservative media use on trust in scientists, which subsequently dampens belief certainty about global warming. H7: There will be a positive indirect effect of non-conservative media use on certainty that global warming is happening through trust in scientists; that is, the positive association between non-conservative media use and certainty that global warming is happening will be explained, in part, by the positive influence of non-conservative media use on trust in scientists, which subsequently increases belief certainty about global warming.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>Data for this study are drawn from a multi-wave survey that measured respondents' climate change beliefs, risk perceptions, policy preferences and related behaviors. Participants were members of a nationally representative, online panel of Americans maintained by Knowledge Networks. Knowledge Networks recruits its 50,000-member panel using random digit dialing and addressbased sampling. The use of this dual sampling strategy covers both listed and unlisted phone numbers, telephone, non-telephone and cell-phone-only households. Panelists complete an average of two 5 to 20 minute surveys per month for which they receive small incentives, in the range of $4 to $6. Those without a home computer receive a free netbook and internet service to ensure that segments of the population without computers are represented in the panel. Study participants were randomly drawn from this larger Knowledge Networks' panel. A total of 2497 respondents participated in the first wave of data collection in the fall of 2008 (completion rate 62.5%, cumulative response rate 7.6%); of these respondents, 1036 participated in a second survey wave in the spring of 2011 (completion rate 83.7%, cumulative response rate 7.7% 1 ). Sample characteristics are presented in Table <ref type="table" target="#tab_0">1</ref>, along with comparative statistics from the 2008 Current Population Survey. In general, our sample compares favorably to US census data, although we have somewhat underrepresented non-whites, those with minimal formal education, and 18-29 year-olds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survey context</head><p>To contextualize the time periods in which our data were collected, Figure <ref type="figure" target="#fig_0">1</ref> plots the results of a Lexis Nexis search for stories from news outlets in the US mentioning 'global warming' or 'climate change' in the headline or lead from 1 January 2008 to 31 December 2011. The TV/ radio line depicts the number of stories appearing each month totaled across ABC, CBS, NBC, MSNBC, CNN, NPR and Fox News, all of which were included in our survey measures of nonconservative and conservative 2 media use. The newspaper line includes stories from The New York Times and The Washington Post, widely considered to be the newspapers of record in the USA. Finally, the total line depicts the number of stories across all nine outlets. Consistent with previous research (see <ref type="bibr" target="#b9">Boykoff, 2012;</ref><ref type="bibr" target="#b43">Nisbet, 2011)</ref>, our results show that global warming continues to receive a moderate amount of media coverage, with spikes occurring around important events (e.g. the December 2009 United Nations Climate Change Conference in Copenhagen, Denmark). Specific to our study, results show that during October and November 2008, which correspond to wave 1 data collection, approximately 35 stories per month appeared </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Independent variables</head><p>Conservative media use. Two items that asked respondents how often they watched Fox News and listened to The Rush Limbaugh Show (0 = never, 3 = often) were averaged to create an index of conservative media use (M T1 = .83, SD T1 = .83, r T1 = .35 p &lt; .05; M T2 = .72, SD T2 = .83, r T2 = .44 p &lt; .05).</p><p>Non-conservative media use. Individuals' use of four news sources known to align more closely with mainstream scientists' views of climate change were used as indicators of non-conservative media use: CNN, MSNBC, National Public Radio, and network news. Respondents were asked how often they used each outlet (0 = never, 3 = often), and these four items were averaged together (M T1 = 1.17, SD T1 = .74, α T1 = .67; M T2 = 1.03, SD T2 = .72, α T2 = .63)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mediating variable</head><p>Trust in scientists. Trust in scientists was measured with one item that asked respondents how much they trust or distrust scientists as a source of information about global warming (0 = strongly distrust, 3 = strongly trust) (M T1 = 2.08, SD T1 = .73; M T2 = 1.93, SD T2 = .78).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent variable</head><p>Global warming belief certainty. To measure global warming belief certainty, respondents were first asked whether they thought global warming was happening, with options being yes, no, or I don't know. Individuals who answered yes or no responded to a follow-up question asking how sure they were about their position (0 = not at all sure, 3 =extremely sure). Responses to these items were combined to create a final belief certainty measure, ranging from 0 (extremely sure global warming is not happening) to 8 (extremely sure global warming is happening) (M T1 = 5.81, SD T1 = 2.19; M T2 = 5.09, SD T2 = 2.43).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control variables</head><p>We have included several control variables in our regression models to reduce the chances that the relationships between our endogenous variables are spurious. Previous research has shown religiosity <ref type="bibr" target="#b51">(Sherkat and Ellison, 2007)</ref>, political ideology (McCright and Dunlap, 2011a) and gender <ref type="bibr">(McCright and Dunlap, 2011b)</ref> to be significant predictors of people's attitudes toward issues concerning the environment. Therefore, we included these variables along with other traditional demographic controls in our analyses. We also controlled for forms of news media use that were not captured in our conservative and non-conservative media use measures. All control variables were measured in the first wave of data collection.</p><p>Other media use. 3 . Local TV news use was measured by asking respondents how often they watch local broadcast news (0 = never, 3 = often) (M = 2.14, SD = .99). Online news use (M = 3.36, SD = 2.73) and print newspaper use (M = 3.15, SD = 2.87) were each measured with one item that asked respondents how often they read the newspaper in each format (0 to 7 days a week).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Religiosity.</head><p>Respondents were asked how often they attend church (0 = never, 5 = more than once a week) (M = 2.27, SD = 1.72).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political ideology.</head><p>Respondents were asked if they see themselves as a liberal or conservative (0 = very liberal, 4 = very conservative) (M = 2.17, SD = 1.00).</p><p>Demographics. Gender, race, age, education, and income were included as demographic controls.</p><p>Annual household income was measured using a 19-point scale that ranged from less than $5000 a year to more than $175,000 dollars a year (M = 11.90, SD = 4.04 [$50,000 to $59,999]). Descriptive statistics for the other demographic variables are reported in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Missing data</head><p>As is typical in survey data, some people did not respond to one or more questions used in the analyses. To reduce the amount of missing data, we used a hotdeck imputation procedure <ref type="bibr" target="#b42">(Myers, 2011)</ref>. To impute non-responses, the rows (i.e. respondents) of the survey data file were randomly permuted within sex and education. Any respondent missing on a given variable was assigned the value of the respondent with the same sex and education level nearest to him or her in this randomly permuted data file. Most respondents (90.8%) did not require any imputation, and no variables required imputation on more than 2.5% of cases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>We utilized structural equation modeling (SEM) to estimate fixed effects models and lagged models. Fixed effects modeling is ideal for longitudinal panel data and strengthens the analysis of processes using non-experimental data (see <ref type="bibr">Allison, 2009: Ch. 1;</ref><ref type="bibr" target="#b7">Bollen and Brand, 2008)</ref>. Fixed effects modeling simultaneously models proposed relationships between independent and dependent variables at each time point, fixing the effects between these variables to be equal at both times. This method produces estimates that 'represent the effects of each variable in a given year on the value of the dependent variable in the same year' <ref type="bibr">(Allison, 2009: Kindle location 401)</ref>.</p><p>Utilizing the individual as his or her own control allows these estimates to be free of the effect of any and all time-stable characteristics of the individual -even those not measured or included in the analysis (see <ref type="bibr">Allison, 2009: Ch. 1)</ref>. This increases the confidence that any observed effect is not a result of a spurious association (although unmeasured time-varying variables might still compete as explanations for spuriousness).</p><p>In addition, we estimated two lagged models to test the proposed causal relationships (see Figure <ref type="figure" target="#fig_1">2</ref>). Model 'A' tested whether media use at time 1 was associated with time 2 measures of trust in scientists and global warming belief certainty, controlling for the time 1 levels of these latter two variables. Model 'B' tested whether media use and trust at time 1 were associated with global warming belief certainty at time 2, after controlling for time 1 levels of belief certainty. Lagged analysis allows us to model variation in the outcome variables, over and above what is predicted by their earlier reported levels at time 1. Thus, we can assess whether media use at time 1 is associated with a change in trust or belief about global warming at time 2, strengthening the evidence of a causal influence of the predictors (for a description of lagged dependent variable analysis, see <ref type="bibr" target="#b15">Cohen et al., 2003)</ref>.</p><p>To address potential concerns about multicollinearity, we first examined the zero order correlations among our time 1 independent variables. As shown in Table <ref type="table">2</ref>, correlations between variables were small to moderate. We also examined the estimated correlation matrices for the latent variables from our structural equation models; the absolute correlations ranged from .003 to .403, indicating a minimal multicollinearity threat.</p><p>We examined univariate and multivariate skewness using <ref type="bibr" target="#b38">Mardia's (1970)</ref> test of multivariate skeweness and kurtosis. Mardia's coefficient of skewness (M 3 = 2.638, p &lt; .001) and kurtosis (M 4 = 28.182, p &lt; .001) indicated the assumption of multivariate normality was violated. To address this issue of non-normality, we estimated our models using the robust maximum likelihood estimator in Mplus (MLR). MLR fits Huber/White sandwich estimates of the standard errors, correcting for violations of normality and heteroskedasticity <ref type="bibr" target="#b58">(Wang and Wang, 2012;</ref><ref type="bibr" target="#b61">White, 1980)</ref>. Note: Statistical controls were modeled, but not shown for the sake of space; controls included: political ideology, education, race (white vs. non-white), age, gender, income, church attendance, newspaper use (print and online), and local TV news use. These controls were also correlated with conservative and non-conservative media use. Lagged model 'A' tested whether media use at time 1 was associated with time 2 measures of trust in scientists and global warming belief certainty, controlling for the time 1 levels of the mediating and dependent variables. Lagged model 'B' tested whether media use and trust at time 1 was associated with the outcome variable at time 2.</p><p>Table <ref type="table">2</ref>. Zero order correlations for all time 1 variables.</p><p>( </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Using fixed effects, we estimated the proposed relationships between media use, trust in scientists and global warming belief certainty; model fit was adequate (RMSEA = .046, CFI = .952). As hypothesized, greater use of conservative outlets was associated with lower levels of certainty that global warming is happening (β = -.559, p &lt; .001), while greater use of non-conservative news was associated with greater certainty that global warming is happening (β = .481, p &lt; .001). In addition, greater use of conservative news outlets was associated with lower levels of trust in scientists (β = -.094, p &lt; .001), while greater use of non-conservative news was associated with higher levels of trust in scientists (β = .180, p &lt; .001). 4 More trust in scientists, subsequently, was associated with an increase in global warming belief certainty (β = .424, p &lt; .001), after controlling for included covariates and all other time-invariant personal characteristics (see Table <ref type="table" target="#tab_1">3</ref>). Thus, news media use was associated with trust in scientists, which, in turn, was associated with increased certainty that global warming is happening. Tests of the indirect effects of media use demonstrated significant paths consistent with our hypothesized model. Results show a negative indirect effect, via trust, of conservative news use on global warming belief certainty (indirect effect = -.040, p &lt; .01) and a positive indirect effect, via trust, of non-conservative news use (indirect effect = .076, p &lt; .001).</p><p>Results from lagged model 'A', which examined the influence of media use at time 1 on outcomes at time 2, and lagged model 'B', which examined the influence of media use and trust at time 1 on global warming belief certainty at time 2, showed a similar pattern (model fit for lagged model 'A' was sufficient, RMSEA = .050, CFI = .998, although model fit for lagged model 'B' was sub-optimal, RMSEA = .291, CFI = .903, likely due to more over-time links). Frequent use of conservative media was negatively associated with certainty that global warming is happening in both models (β Lagged 'A' = -.346 p &lt; .001; β Lagged 'B' = -.382, p &lt; .001), while use of non-conservative media increased people's certainty that global warming is happening (β Lagged 'A' = .412, p &lt; .001; β Lagged 'B' = .452, p &lt; .001) (see Table <ref type="table" target="#tab_1">3</ref>).</p><p>News media use was also associated with trust in both lagged models, with conservative media decreasing (β Lagged 'A' = -.077 p &lt; .01; β Lagged 'B' = -.105, p &lt; .001) and non-conservative media increasing trust in scientists (β Lagged 'A' = .079; p &lt; .01; β Lagged 'B' = .191, p &lt; .001). In addition, these results once again showed that trust was associated with an increase in certainty that global warming is happening ( β Lagged 'A' = .556 p &lt; .001; β Lagged 'B' = .406, p &lt; .001).</p><p>These analyses also examined whether there is an indirect effect of media use on global warming belief certainty. The indirect effect of conservative media use via trust was significant in both models (indirect effect Lagged 'A' = -.043, p &lt; .01; indirect effect Lagged 'B' = -.043, p &lt; .01), as was the indirect effect of non-conservative media use via trust (indirect effect Lagged 'A' = .044, p &lt; .05; indirect effect Lagged 'B' = .078, p &lt; .001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results of this study expand on previous research examining the relationship between media use and beliefs about global warming. Consistent with previous research <ref type="bibr" target="#b23">(Feldman et al., 2012;</ref><ref type="bibr" target="#b28">Krosnick and MacInnis, 2010)</ref>, this study finds that the more Americans use conservative media, the less certain they are that global warming is happening. Conversely, the more Americans use non-conservative media, the more certain they are that global warming is happening. Moreover, we found an over-time influence of media use on global warming beliefs. Our longitudinal research design extends this previous research by demonstrating that, over time, people's media use influences their beliefs about global warming. The present study also goes beyond previous efforts by considering trust in scientists as a mediating variable between media use and perceptions of global warming. The results demonstrate that the negative effect of conservative media use on global warming belief certainty is due, at least in part, to the negative effect of conservative media use on trust in scientists. The positive effect of non-conservative media use on belief certainty is likewise explained by the positive effect of non-conservative media use on trust. Furthermore, the use of within-subject panel data and longitudinal analysis shows that media affects people's level of trust in scientists.</p><p>Adding trust in scientists as a mediating variable provides a more comprehensive understanding of the relationship between media use and perceptions of global warming. In this article, we propose that people use trust as a cognitive heuristic to make judgments about the issue of global warming <ref type="bibr" target="#b29">(Lee et al., 2005;</ref><ref type="bibr">Priest, 2001)</ref>. As we explain, the public's low level of knowledge <ref type="bibr">(Leiserowitz et al., 2010)</ref> and the media's conflicting, often value-laden messages about global warming lead people to use heuristics to make sense of this complex issue <ref type="bibr" target="#b14">(Chryssochoidis et al., 2009;</ref><ref type="bibr" target="#b17">Critchley, 2008;</ref><ref type="bibr">Siegrist and Cvetkovich, 2000)</ref>.</p><p>As with any study, there are several limitations that should be kept in mind. The most notable being the time lag of two and a half years between the first and second rounds of data collection. As we are unable to account for what else may have occurred during this stretch of time, it is possible that uncontrolled outside influences produced a spurious association between media use at time 1 and trust in scientists and beliefs about global warming at time 2, or between trust at time 1 and beliefs at time 2. However, the implementation of fixed effects modeling strengthens our results by controlling for the effects of unobserved, stable trait variables, thus increasing the confidence that these relationships were not the result of a spurious association. In addition, because of the convergent evidence of significant relationships in both lagged models, together with statistically controlling for previous levels of the lagged dependent variables (thus modeling only the change in trust and beliefs), we believe there is strong evidence of a relationship between media use, trust and beliefs about global warming. Still, it is important to recognize that we have not fully corrected for self-selection bias. Moreover, this study did not account for the dynamic nature of the communication process -namely, the potential for media use to reinforce beliefs, which, in turn, affect future media use (e.g. <ref type="bibr" target="#b55">Slater, 2007)</ref> -which remains an important avenue for future research. Furthermore, as the context for our study was the USA, it is unclear how generalizable our results are across other contexts; however, to the extent that media outlets in other contexts demonstrate similar patterns of coverage, we would anticipate effects in line with what we demonstrate here.</p><p>Evidence of an indirect effect of media use on global warming belief certainty through trust in scientists should motivate scholars to look for additional mediating variables to explain this process. Scholars could also extend this work by looking at trust in other prominent institutions such as government or commercial industry. It is also likely that trust in scientists is a multidimensional concept, encompassing trust in climate scientists, trust in medical scientists, trust in physicists, etc. Thus, future research may want to account for these different dimensions and their potential relationships with media use and global warming beliefs. Additional research should also expand on the theoretical model presented in this article by including moderating variables to explain which individuals are using these heuristic cues. For example, future studies could examine whether those with low levels of global warming knowledge are more reliant on heuristic cues such as trust in scientists when reporting their opinion about global warming.</p><p>Despite some limitations, these results have a number of important implications. First, it appears that climate change contrarians have successfully raised questions about scientists in the public mind. Polling data from 2008 showed that 83 percent of the US population at least somewhat trusted scientists as a source of information about global warming <ref type="bibr" target="#b35">(Maibach et al., 2009)</ref>; however, trust declined in 2010 to 74 percent <ref type="bibr">(Leiserowitz et al., 2011)</ref>. By contrast, these results demonstrate that use of non-conservative media outlets increases trust in scientists, suggesting that mainstream and liberal-leaning media coverage plays an important role in limiting (and countering) the effects of the climate skeptic movement. Therefore, continued use of mainstream news media outlets by the public <ref type="bibr" target="#b60">(Webster, 2007)</ref> should help sustain the credibility of scientists as a source of information about global warming. Thus, mainstream news media should be cognizant of this role and continue to highlight scientists as a trustworthy source of information on climate change.</p><p>This raises the question of how scientists can defend their credibility from attacks by environmental skeptics via American conservative media sources, while capitalizing on high levels of public trust to increase certainty about the reality of global warming. Scientists could remain on the sidelines and exclusively produce research for peer-reviewed journals and reports. Although this strategy may help keep scientists above the fray, this does not mean that they will remain neutral actors in the eyes of the public. Indeed, climate contrarians and conservative media outlets are already attacking the credibility of climate science and individual scientists <ref type="bibr" target="#b21">(Dunlap and McCright, 2011)</ref>. Remaining uninvolved gives climate contrarians and conservative media free rein to redefine how the public thinks about climate scientists and their research. Alternatively, scientists could use their trusted position in society to engage the public by providing them with understandable analysis and information about the causes, risks and potential solutions to climate change. However, this proactive stance may lead some members of the public to view scientists as increasingly politicized. In both scenarios, some members of the public may lose trust in scientists, which may be difficult to regain (see <ref type="bibr" target="#b56">Slovic, 1993)</ref>. Importantly, however, the sidelines strategy will likely lead to a greater total loss of public trust than the public engagement strategy -especially among the Cautious, Disengaged, and Doubtful audiences identified in prior research <ref type="bibr" target="#b35">(Maibach et al., 2009)</ref>, if climate contrarians are allowed to shape public discourse uncontested. Regardless, scientists will play an important role in how different publics perceive the issue of global warming. The question is whether it is on their terms or the terms of climate contrarians and their allies.</p><p>Finally, this research highlights the consequences of the contemporary American media landscape. The increasing fragmentation of audiences across diverse media outlets likely inhibits consensus-building and compromise on important issues, as exemplified by our findings regarding the global warming beliefs of conservative and non-conservative media audiences in the USA. Moreover, the gravitation of conservatives and Republicans to conservative media outlets and liberals and Democrats to non-conservative outlets (e.g. <ref type="bibr" target="#b57">Stroud, 2011)</ref> could help explain the widening partisan divisions in public opinion about global warming and trust in scientists. This political polarization is contributing to national climate change policy paralysis in the USA, and it is becoming clear that the news media itself plays an important role in this process.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. News coverage of global warming from 2008 to 2011. Note: Number of articles or transcripts with 'climate change' or 'global warming' appearing in headline or lead. Newspaper sources include the New York Times and Washington Post. TV/radio sources include ABC, NBC, CBS, CNN, MSNBC, Fox News, and NPR.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Path model predicting global warming belief certainty.</figDesc><graphic coords="10,94.02,62.85,299.52,79.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Demographic statistics.</figDesc><table><row><cell></cell><cell>Knowledge Networks study sample</cell><cell>Benchmarks from the March 2008</cell></row><row><cell></cell><cell>(N = 1,036)</cell><cell>Current Population Survey</cell></row><row><cell></cell><cell>%</cell><cell>%</cell></row><row><cell>Sex</cell><cell></cell><cell></cell></row><row><cell>Female</cell><cell>48.2</cell><cell>47.8</cell></row><row><cell>Age</cell><cell></cell><cell></cell></row><row><cell>18-29</cell><cell>12.3</cell><cell>21.3</cell></row><row><cell>30-39</cell><cell>14.3</cell><cell>16.5</cell></row><row><cell>40-49</cell><cell>20.1</cell><cell>19.5</cell></row><row><cell>50-59</cell><cell>23.0</cell><cell>18.3</cell></row><row><cell>60-69</cell><cell>20.7</cell><cell>12.1</cell></row><row><cell>70 and older</cell><cell>9.5</cell><cell>12.2</cell></row><row><cell>Race/ethnicity</cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>83.7</cell><cell>73.9</cell></row><row><cell>Education</cell><cell></cell><cell></cell></row><row><cell>Less than high school</cell><cell>5.9</cell><cell>11.9</cell></row><row><cell>High school diploma</cell><cell>26.5</cell><cell>31.4</cell></row><row><cell>Some college</cell><cell>28.2</cell><cell>29.2</cell></row><row><cell>Bachelor's degree or higher</cell><cell>39.4</cell><cell>27.6</cell></row></table><note><p>in the TV and radio outlets. Approximately 15 stories per month appeared in these outlets during wave 2 of data collection, which occurred in April, May and June 2011. These numbers are consistent with the general level of media coverage, as represented by the two newspapers included in our graph.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc>Results of fixed effects and lagged regression.</figDesc><table><row><cell></cell><cell cols="2">Fixed effects model</cell><cell cols="2">Lagged model 'A'</cell><cell cols="2">Lagged model 'B'</cell></row><row><cell></cell><cell>Tr Sci</cell><cell cols="3">GW Bel Cert Tr Sci (T2) GW Bel</cell><cell cols="2">Tr Sci (T1) GW Bel</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Cert (T2)</cell><cell></cell><cell>Cert (T2)</cell></row><row><cell>Global warming belief</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>certainty</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>T1</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>.501 ***</cell><cell>-</cell><cell>.513 ***</cell></row><row><cell>Trust in scientists</cell><cell>-</cell><cell>.407 ***</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>T2</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>.550 ***</cell><cell>-</cell><cell>-</cell></row><row><cell>T1</cell><cell>-</cell><cell>-</cell><cell>.481 ***</cell><cell>.156 +</cell><cell>-</cell><cell>.410 ***</cell></row><row><cell>Conservative media</cell><cell cols="2">-.097 *** -.589 ***</cell><cell>-.075 **</cell><cell>-.347 ***</cell><cell>-.107 ***</cell><cell>-.381 ***</cell></row><row><cell>Non-conservative media</cell><cell>.171 ***</cell><cell>.505 ***</cell><cell>.086 **</cell><cell>.409 ***</cell><cell>.191 ***</cell><cell>.452 ***</cell></row><row><cell cols="3">Ideology (conservative high) -.155 *** -.558 ***</cell><cell>-.117 ***</cell><cell>-.288 ***</cell><cell>-.121 ***</cell><cell>-.346 ***</cell></row><row><cell>Education</cell><cell>.054 **</cell><cell>.107 +</cell><cell>.039 +</cell><cell>.023</cell><cell>.046 +</cell><cell>.043</cell></row><row><cell>White</cell><cell>-.054</cell><cell>-.385 **</cell><cell>.006</cell><cell>-.313 *</cell><cell>-.076</cell><cell>-.306 +</cell></row><row><cell>Age</cell><cell>.000</cell><cell>.002</cell><cell>.001</cell><cell>-.003</cell><cell>.000</cell><cell>-.002</cell></row><row><cell>Gender</cell><cell>.081 *</cell><cell>.131</cell><cell>.021</cell><cell>-.031</cell><cell>.089 +</cell><cell>-.021</cell></row><row><cell>Income</cell><cell>-.004</cell><cell>-.018</cell><cell>-.014 **</cell><cell>-.026 *</cell><cell>.004</cell><cell>-.034 *</cell></row><row><cell>Religiosity</cell><cell>-.028 *</cell><cell>-.100 **</cell><cell>-.009</cell><cell>-.031</cell><cell>-.031 *</cell><cell>-.034</cell></row><row><cell>Newspaper (print)</cell><cell>.017 *</cell><cell>.029</cell><cell>.004</cell><cell>.013</cell><cell>.019 *</cell><cell>.015</cell></row><row><cell>Newspaper (online)</cell><cell>.007</cell><cell>-.017</cell><cell>.004</cell><cell>-.023</cell><cell>.003</cell><cell>-.020</cell></row><row><cell>Local TV</cell><cell>-.049 *</cell><cell>-.011</cell><cell>-.034</cell><cell>-.081</cell><cell>-.050 *</cell><cell>-.100 +</cell></row><row><cell>Ind. effect of conservative</cell><cell>-</cell><cell>-.039 **</cell><cell>-</cell><cell>-.041 **</cell><cell>-</cell><cell>-.044 **</cell></row><row><cell>media</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ind. effect of non-</cell><cell>-</cell><cell>.070 ***</cell><cell>-</cell><cell>.047 *</cell><cell>-</cell><cell>.078 ***</cell></row><row><cell>conservativ media</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fit Indices</cell><cell cols="2">RMSEA = .046, CFI =</cell><cell cols="2">RMSEA = .050, CFI =</cell><cell cols="2">RMSEA = .291, CFI =</cell></row><row><cell></cell><cell>.952</cell><cell></cell><cell>.998</cell><cell></cell><cell>.903</cell><cell></cell></row><row><cell cols="3">Note: Entries are unstandardized regression coefficients.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">Note: Intercorrelations between conservative media use, non-conservative media use, and all controls were modeled, but</cell></row><row><cell cols="2">not shown here to preserve space.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>***p &lt; .001, ** p &lt; .01,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>* p &lt; .05, + p &lt; .10</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>at Library -Periodicals Dept on October 6, 2014 pus.sagepub.com Downloaded from</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research was funded by grants from the following organizations: 11th <rs type="projectName">Hour Project</rs>, <rs type="funder">Pacific Foundation, V. Kann Rasmussen Foundation</rs>, <rs type="funder">Grantham Foundation for the Protection of the Environment, Surdna Foundation</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_A3NuMt7">
+					<orgName type="project" subtype="full">Hour Project</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author biographies</head><p>Jay D. Hmielowski is an Assistant Professor in the Department of Communication at the University of Arizona.</p><p>Lauren Feldman is an Assistant Professor in the School of Communication at American University. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">For more information about how Knowledge Networks calculates these different response rates for online panels see Callegaro and DiSogra</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Lexis Nexis does not include transcripts of The Rush Limbaugh Show</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">These items were not included in the non-conservative media use variable for specific reasons. First, there is little research examining local news coverage of global warming. Second, with the available measures of online news and print newspaper use, there was no way to know whether the content of the website or newspaper came from mainstream</title>
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times or Politico.com)</title>
+		<imprint/>
+	</monogr>
+	<note>or conservative outlets (e.g. The Washington Times or redstate.com</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">We also tested whether political ideology moderated the relationship between media use and scientific trust, exploring, for instance, whether liberals attending to liberal news outlets displayed an increased effect of that attention on perceptions of scientific trust compared to those individuals who are more politically conservative. Thus, we included interaction terms multiplying political ideology and news use in lagged model &apos;A&apos;. Results demonstrated that the influence of media use on scientific trust was not moderated by political ideology; that is, the effect of attending to these news outlets did not depend on an individual&apos;s political leaning</title>
+		<imprint/>
+	</monogr>
+	<note>β Conservative News by Ideology = -.004, p = .867; β Non-Conservative News by Ideology = .013, p = .628</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Embedding the truth: A cross-cultural analysis of objectivity and television coverage of the Iraq War</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Press/Politics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="3" to="21" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Fixed Effects Regression Models</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Allison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The role of media and deference to scientific authority in cultivating trust in sources of information about emerging technologies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brossard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Corley</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ijpor/edr032</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<date type="published" when="2011-08">2011. August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Fixed and random effects in panel data using structural equation models</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Brand</surname></persName>
+		</author>
+		<idno>ucla.edu/papers/PWP-CCPR-2008-003/PWP-CCPR-2008-003.pdf</idno>
+	</analytic>
+	<monogr>
+		<title level="m">California Center for Population Research: On-Line Working Paper Series</title>
+		<imprint>
+			<date type="published" when="2008-02-17">2008. 17 February 2012</date>
+		</imprint>
+	</monogr>
+	<note>Available at: papers.ccpr</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">From convergence to contention: United States mass media representation of anthropogenic climate change science</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Boykoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the British Institute of Geographers</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="447" to="489" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">2000-2012 US Newspaper Coverage of Climate Change or Global Warming</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Boykoff</surname></persName>
+		</author>
+		<ptr target="sciencepolicy.colorado.edu/media_coverage/us/graph.jpg" />
+		<imprint>
+			<date type="published" when="2012-05">2012. May 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Climate change and journalistic norms: A case-study of US mass media coverage</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Boykoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Boykoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1190" to="1204" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Multiple exposures: Scientific controversy, the media, and public responses to Bisphenol A</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Ley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Communication</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="76" to="97" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Whose science do you believe? Predicting trust in sources of scientific information about the environment</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Ley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Communication</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="115" to="137" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Computing response metrics for online panels</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Callegaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Disogra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1008" to="1032" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Public trust in institutions and information sources regarding risk management and communication: Towards integrating extant knowledge</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chryssochoidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Strada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krystallis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Risk Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="185" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Aiken</surname></persName>
+		</author>
+		<title level="m">Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences</title>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Earlbaum</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Testing public (un)certainty of science: Media representations of global warming</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Durfee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Communication</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="151" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Public opinion and trust in scientists: The role of the research context, and the perceived motivation of stem cell researchers</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Critchley</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0963662506070162</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Understanding of Science</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="309" to="327" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Show us the data? An examination of the death of environmentalism&apos;s ambiguous empirical foundations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization &amp; Environment</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A widening gap: Republican and Democratic views on climate change</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mccright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="26" to="35" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Climate change denial: Sources, actors and strategies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mccright</surname></persName>
+		</author>
+		<editor>Lever-Tracy C</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="240" to="259" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Routledge Handbook of Climate Change and Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Organized climate change denial</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mccright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of Climate Change and Society</title>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="144" to="160" />
+		</imprint>
+		<respStmt>
+			<orgName>Oxford University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Fiske</forename><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taylor</forename><surname>Se</surname></persName>
+		</author>
+		<title level="m">Social cognition</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Climate on cable: The nature and impact of global warming coverage on Fox News, CNN, and MSNBC</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roser-Renouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Press/ Politics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="31" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Politicization of science in the public sphere: A study of public trust in the United States</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gauchat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="187" />
+			<date type="published" when="1974">2012. 1974 to 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Education, politics and opinions about climate change evidence for interaction effects</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Hamilton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="231" to="242" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<title level="m">Intergovernmental panel on climate change, fourth assessment report. Available at: www.ipcc. ch</title>
+		<imprint>
+			<date type="published" when="2007-10-30">2007. 30 October 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Jacques</surname></persName>
+		</author>
+		<title level="m">Environmental Skepticism: Ecology, Power and Public Life</title>
+		<meeting><address><addrLine>Abingdon, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Frequent viewers of Fox News are less likely to accept scientists&apos; views of global warming</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Macinnis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Stanford, CA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Technical Paper, Stanford University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Public attitudes toward emerging technologies</title>
+		<author>
+			<persName><forename type="first">C-J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scheufele</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lewenstein</forename><surname>Bv</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1075547005281474</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Communication</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="240" to="267" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Yale Project on Climate Change Communication</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marlon</forename><surname>Jr</surname></persName>
+		</author>
+		<ptr target="environment.yale.edu/climate/files/ClimateChangeKnowledge2010.pdf" />
+		<imprint>
+			<date type="published" when="2010-10">2010. October 2011</date>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Americans&apos; Knowledge of Climate Change</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Climate Change in the American Mind: Americans&apos; Global Warming Beliefs and Attitudes in May 2011</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roser-Renouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="environment.yale.edu/climate/files/ClimateBeliefsMay2011.pdf" />
+		<imprint>
+			<date type="published" when="2011-10-10">2011. 10 October 2011</date>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Yale Project on Climate Change Communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Climategate, public opinion, and the loss of trust</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roser-Renouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smith</forename><forename type="middle">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dawson</forename><forename type="middle">E</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010-07">2010. July</date>
+			<pubPlace>Yale University, CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">In science we trust? On the relation between scientific knowledge, risk consciousness and public trust</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lidskog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Sociologica</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="56" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Understanding public support for stem cell research: Media communication, interpersonal communication and trust in key actors</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Priest</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0963662508097625</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Public Understanding of Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="704" to="718" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Global warming&apos;s six Americans: An audience segmentation analysis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roser-Renouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leiserowitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Americas</title>
+		<imprint>
+			<biblScope unit="page">25</biblScope>
+			<date type="published" when="2009-10">2009. 2009. October 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The association of knowledge with concern about global warming: Trusted information sources shape public thinking</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Langer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="633" to="647" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Featuring Skeptics in News Media Stories about global warming reduces public beliefs in the seriousness of global warming</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krosnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Debell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pasek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schneider</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Stanford, CA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Technical Paper, Stanford University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Measures of multivariate skewness and kurtosis with applications</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Mardia</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biomet/57.3.519</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="519" to="530" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The politicization of climate change and polarization in the American public&apos;s view of global warming</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mccright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Sociological Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="155" to="194" />
+			<date type="published" when="2001">2011. 2001-2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Cool dudes: The denial of climate change among conservative white males in the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mccright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Dunlap</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenv-cha.2011.06.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1163" to="1172" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A change in the climate? The journalism of opinion at News Corporation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcknight</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1464884910379704</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="693" to="706" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Goodbye listwise deletion: Presenting hotdeck imputation as an easy and effective tool for handling missing data</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Myers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods and Measures</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="297" to="310" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Available at: climateshiftproject.org/report/climate-shift-clear-vision-for-the-next-decade-of-public-debate/#climate-shiftclear-vision-for-the-next-decade-of-public-debate</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Nisbet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-10-30">2011. 30 October 2011</date>
+		</imprint>
+	</monogr>
+	<note>Climate shift: Clear vision for the next decade of public debate</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Nisbet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Myers</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfm031</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The polls-Trends: Twenty years of public opinion about global warming</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="444" to="470" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Knowledge, reservations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Nisbet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Scheufele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shanahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brossard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Lewenstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/009365002236196</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="584" to="608" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">More say there is solid evidence of global warming</title>
+		<ptr target="press.org/files/legacy-pdf/10-15-12%20Global%20Warming%20Release.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Press release, 15 October. Available at: www.people</title>
+		<imprint>
+			<publisher>Pew Research Center for the People &amp; the Press</publisher>
+			<date type="published" when="2012-01">2012. January 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Misplaced faith: Communication variables as predictors of encouragement for biotechnology development</title>
+		<idno type="DOI">10.1177/1075547001023002002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Communication</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="97" to="110" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Priest SH</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Peril or promise: News media framing of the biotechnology</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Priest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Eyck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biotechnology: Between commerce and civic society</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Stehr</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Brunswick, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Transaction</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="175" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The &apos;Trust Gap&apos; hypothesis: Predicting support for biotechnology across national cultures as a function of trust in actors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Priest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bonfadelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rusanen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1539-6924.00353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="751" to="766" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">The Color of News: How Different Media Have Covered the General Election</title>
+		<ptr target="www.journalism.org/node/13436" />
+		<imprint>
+			<date type="published" when="2008-07">2008. July 2012</date>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+	<note>Project for Excellence in Journalism</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Structuring the religion-environment connection: Identifying religious influences on environmental concern and activism</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Sherkat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Ellison</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-5906.2007.00341.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal for the Scientific Study of Religion</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="85" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The influence of trust and perceptions of risks and benefits on the acceptance of gene technology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siegrist</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/0272-4332.202020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="195" to="204" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Perception of hazards: The role of social trust and knowledge</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siegrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cvetkovich</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/0272-4332.205064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="713" to="720" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Salient value similarity, social trust, and risk/benefit perception</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siegrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cvetkovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roth</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/0272-4332.203034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="353" to="362" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Reinforcing spirals: The mutual influence of media selectivity and media effects and their impact on individual behavior and social identity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Slater</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="281" to="303" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Perceived risk, trust, and democracy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Slovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1539-6924.1993.tb01329.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Analysis</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="675" to="682" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Global Climate Change Impacts in the US</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Stroud</surname></persName>
+		</author>
+		<ptr target="www.globalchange.gov/usimpacts" />
+	</analytic>
+	<monogr>
+		<title level="m">Niche News: The Politics of News Choice</title>
+		<meeting><address><addrLine>Oxford; New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2009-09">2011. 2009. September 2011</date>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+	<note>US Global Change Research Program</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><forename type="middle">X</forename></persName>
+		</author>
+		<title level="m">Structural Equation Modeling: Applications using Mplus: Methods and Applications</title>
+		<meeting><address><addrLine>West Sussex, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Higher Education Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Climate Change Denial: Heads in the Sand</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Washington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cook</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Diversity of exposure</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Webster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Diversity and Localism: Meaning and Metrics</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Napoli</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="309" to="326" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">A heteroscedasticity-consistent covariance matrix estimator and a direct test for heteroscedasticity</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="733" to="750" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Public presentations of scientific uncertainty about global climate change</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Zehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Understanding of Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="103" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

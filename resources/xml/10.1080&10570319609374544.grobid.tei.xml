@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Influence of traditional and non‐traditional news media in the 1992 election campaign</title>
+				<funder ref="#_6ykZ26k">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2015-02-06">06 February 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">Michael</forename><surname>Pfau</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">School of Journalism and Mass Communication</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+								<address>
+									<addrLine>5016 Vilas Hall</addrLine>
+									<postCode>53706</postCode>
+									<settlement>Madison</settlement>
+									<region>WI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">P</forename><surname>Eveland</surname><genName>Jr</genName></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Doctoral student</orgName>
+								<orgName type="department" key="dep2">School of Journalism and Mass Communication</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Calgary</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<address>
+									<postCode>W1T 3JH</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Arizona</orgName>
+								<address>
+									<postCode>1987</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">University of Wisconsin</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Delaware</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">School of Journalism and Mass Communication</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+								<address>
+									<addrLine>5016 Vilas Hall</addrLine>
+									<postCode>53706</postCode>
+									<settlement>Madison</settlement>
+									<region>WI</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Influence of traditional and non‐traditional news media in the 1992 election campaign</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Western Journal of Communication</title>
+						<title level="j" type="abbrev">Western Journal of Communication</title>
+						<idno type="ISSN">1057-0314</idno>
+						<idno type="eISSN">1745-1027</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">60</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="214" to="232"/>
+							<date type="published" when="2015-02-06">06 February 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CC8CF76FDE3E45769BD210828CCFA8E8</idno>
+					<idno type="DOI">10.1080/10570319609374544</idno>
+					<note type="submission">On: 06 February 2015, At: 09:47 Publisher: Routledge Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street,</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>for research</term>
+					<term>teaching</term>
+					<term>and private study purposes. Any substantial or systematic reproduction</term>
+					<term>redistribution</term>
+					<term>reselling</term>
+					<term>loan</term>
+					<term>sub-licensing</term>
+					<term>systematic supply</term>
+					<term>or distribution in any</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Taylor &amp; Francis makes every effort to ensure the accuracy of all the information (the "Content") contained in the publications on our platform. However, Taylor &amp; Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor &amp; Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>a less known major party nominee or a relatively strong independent candidate) as well as the phase of the campaign "are important in understanding the uses voters make of campaign media" (p. 527).</p><p>When voters' attitudes are more fluid, the potential exists for information gleaned from campaign communication to influence attitudes and voting dispositions. During the initial phase of the general election campaign, fluidity is at its peak. This phase follows on the heels of party nominating conventions as active campaigning commences, yet it occurs prior to the final arrangements for candidate debates and before the appearance of the bulk of candidate advertising (O' <ref type="bibr">Keefe &amp; Atwood, 1981)</ref>. In addition, at the outset of the general election campaign most citizens have just begun to pay close attention <ref type="bibr" target="#b4">(Buchanan, 1991)</ref>.</p><p>These conditions of fluidity were met in the initial phase of the 1992 general election campaign, the context in which we chose to study the influence of traditional and non-traditional media on prospective voters' perceptions of, attitudes toward, and vote intentions regarding the three major candidates. Ross Perot, an apparently viable independent candidate, had dropped out of the campaign in mid-summer but then reentered early in the fall. Furthermore, most prospective voters were still uncertain where the democratic nominee, Bill Clinton, stood on key issues <ref type="bibr" target="#b39">(Patterson, 1993)</ref>. <ref type="bibr">Stokes and Dilulio (1993)</ref> characterized this phase of the 1992 election campaign in terms of the "fluidity of public attitudes" (p. 2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LITERATURE REVIEW AND HYPOTHESES</head><p>The debate over the mass media's contributions to voters' attitudes and voting dispositions in presidential campaigns has yet to be settled (e.g., <ref type="bibr" target="#b32">McGuire, 1986;</ref><ref type="bibr">Zaller, in press</ref>). The issue is even less certain when it comes to assessing media impact at different times in the campaign. Little research has been done to assess how different communication sources compare with each other over the course of the campaign. It is apparent, however, that voters' impressions and attitudes vary across the various phases of the campaign <ref type="bibr" target="#b2">(Becker &amp; Kraus, 1978;</ref><ref type="bibr" target="#b8">Chaffee &amp; Choe, 1980;</ref><ref type="bibr" target="#b11">Cozzens &amp; Manross, 1990;</ref><ref type="bibr" target="#b48">Whitney &amp; Goldman, 1985)</ref>, and therefore dictate the potential impact of mass media. Therefore, it is likely that during the initial phase of the general election campaign, when prospective voters are beginning to pay more attention to the candidates, but while attitudes are still fluid, news media communication will exert considerable influence.</p><p>Any research on the 1992 election would be remiss without reference to the influence of non-traditional news media. The present study is unique in examining the role of non-traditional news media during the initial phase of the campaign. Given the context, if non-traditional news media exert any influence on perceptions, attitudes, or voting intentions, Influence of News Media these effects would be most likely during the initial phase of the campaign.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traditional News Media</head><p>Several sources maybe considered "traditional" forms of news media, including newspapers, television news, and news magazines. Each of these forms of communication is traditional in the sense that they have been a major source of campaign news for decades-the most recent addition being television news. Although there have been changes in these media over the years (e.g., television news has seen the shrinking of the sound bite, and many newspapers have adopted the USA Today format), these news sources have remained relatively constant, and changes have taken place gradually over time.</p><p>Much of the research on the influence of the news media in election campaigns during the past several decades has focused on information and knowledge effects, in part because of the initial conclusions that there were few attitudinal or behavioral effects of media (e.g., <ref type="bibr">Klapper, 1960)</ref>. Recent research, however, has revealed that newspapers, news magazines, and television news may influence voters' impressions of and attitudes toward political candidates. Variations in influence of the news media across different periods of the campaign, however, are unclear.</p><p>Research indicates that traditional news media influences prospective voters' attitudes and preferences. For example, <ref type="bibr" target="#b29">McCombs and Shaw (McCombs &amp; Shaw, 1972;</ref><ref type="bibr" target="#b45">Shaw &amp; McCombs, 1977)</ref> indicate that the news media play the role of agenda setter, increasing respondents' perceptions of the importance of issues that are extensively covered in the news. Iyengar <ref type="bibr" target="#b22">(Iyengar &amp; Kinder, 1987;</ref><ref type="bibr" target="#b23">Iyengar &amp; Simon, 1993)</ref> extends the agenda setting research by maintaining that news media coverage serves to prime peoples' evaluations of political actors based on those stories most frequently covered in the news. Further, the way news media frame political issues in part determines whether people blame individual actors or society for problems and who they feel is best suited to fix the problem <ref type="bibr" target="#b21">(Iyengar, 1991)</ref>. Using analyses of time-series data about newspaper content and public opinion polls, <ref type="bibr" target="#b16">Fan and Tims (1989)</ref> connected news media content directly with the ebbs and flows of public opinion about presidential candidates.</p><p>Others have examined the impact of media representations of opinions of the public or elites on candidate evaluations. For instance, <ref type="bibr" target="#b3">Brody (1991)</ref> found that coverage of elite opinion and debate about policy outcomes in the news media may influence evaluations of the president. Similarly, <ref type="bibr" target="#b36">Noelle-Neumann (1993)</ref> argues that media depictions of the climate of public opinion as favoring one side of an issue or one candidate over another may engender a fear of isolation in members of the supposed minority. This fear of isolation forces most people to avoid speaking up in favor of their position, contributing to the erosion of public support.</p><p>Over the past 15 years, other scholars have documented the influence of news media on political attitudes (e.g., <ref type="bibr" target="#b14">Drew &amp; Weaver, 1990;</ref><ref type="bibr" target="#b25">Just &amp; Crigler, 1989;</ref><ref type="bibr">McLeod &amp; McDonald, 1985;</ref><ref type="bibr" target="#b38">Patterson, 1980;</ref><ref type="bibr" target="#b44">Roberts, 1979;</ref><ref type="bibr">Zaller, in press)</ref>. Taken together, research suggests that news media have the potential to influence attitudes toward political candidates. The influence of the news media should be most pronounced during the initial phase of the campaign because public attitudes are more fluid at this stage. This study posits that: HI: In the initial phaseofthe general election campaign, traditional news media exert a significant impact on the perceptions of and attitudes toward candidates measured during this phase.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-Traditional News Media</head><p>The use of talk and interview shows as conduits of political information was not unique to the presidential campaign of 1992, but it became, for the first time, a major component of the campaign strategy of the major candidates. In addition, for the first time the candidates used this type of format in an attempt to circumvent the traditional news media and take their case directly to the voters. In this sense, talk and interview shows served as a non-traditional form of news media in 1992. Instead of the relatively high level of mediation in traditional news media <ref type="bibr" target="#b19">(Hallin, 1992;</ref><ref type="bibr" target="#b39">Patterson, 1993)</ref>, the non-traditional media of talk and interview shows offered candidates a relatively direct path of communication to the public <ref type="bibr" target="#b35">(Munson, 1993)</ref>.</p><p>The major candidates took advantage of this opportunity and made appearances on traditional television interview shows such as This Week with David Brinkley and Meet the Press, on talk shows like Arsenio Hall, Donahue, and Larry King Live, and even on MTV. These appearances began during the primary phase of the 1992 campaign <ref type="bibr" target="#b46">(Smillie, 1992)</ref> and then escalated in the general election campaign. <ref type="bibr" target="#b13">Diamond, McKay, and Silverman (1993)</ref> report that from September 1 to October 19, the three major candidates combined to make 39 appearances on syndicated talk shows and morning news programs.</p><p>Although pundit opinion is abundant, there are few empirical studies about the influence of information gleaned from candidate appearances on non-traditional news media by prospective voters. The research that has been presented to date is inconclusive and somewhat contradictory. For example, <ref type="bibr" target="#b15">Elliott and Wickert (1993)</ref> found that non-traditional news media use was positively related to favorable images of both Clinton and Perot, although it resulted in reduced likelihood of voting for Clinton. There were no effects of non-traditional media use on either attitudes or voting for Bush. <ref type="bibr" target="#b34">McLeod et al. (1993)</ref>, however, indicated that talk show use enhanced voters' affect only toward Perot, who made the greatest use of talk-shows. They found no impact on vote intentions for any candidate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of News Media</head><p>Due to the limited and inconsistent findings of research on the influence of non-traditional media during the 1992 campaign, it is impossible to specify firm hypotheses about their impact on voters' perceptions, attitudes, or vote intentions. Therefore, this study posits the following research question: RQ1: Does non-traditional media in the initial phase of the general election campaign exert a significant impact on perceptions of and attitudes toward candidates during this phase?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Persistence of News Media Effects</head><p>The influence of both traditional and non-traditional news media during the initial phase of the campaign would be uninteresting if it did not carry over and exert some influence on people's voting behavior at the end of the campaign. However, it seems unlikely that news media coverage during early September would exert a direct effect on voting intentions two months later in the beginning of November. How, then, might media influence in the initial phase exert an impact in the final phase of the campaign?</p><p>Research in psychology and political science has examined at least two ways in which people generate attitudes about political candidates: memory-based and on-line processing <ref type="bibr" target="#b28">(Lodge &amp; Stroh, 1993)</ref>. The traditional model, memory-based processing, suggests that people store bits of information about candidates in memory. When required to provide an overall appraisal of a candidate, they search their memory for all the positive and negative bits of specific information they have about the candidate, then arrive at a composite judgment based on their assessment of the information they can recall. More recently, theories of on-line processing (or "impression-driven" evaluations) posit that people maintain a running tally of their attitudes, and that each new piece of specific information encountered is used to update this tally. However, once the attitude is modified, the individual bits of information are usually discarded <ref type="bibr" target="#b20">(Hastie &amp; Park, 1986;</ref><ref type="bibr" target="#b31">McGraw &amp; Pinney, 1990)</ref>.</p><p>The memory-based model would require that people recall the evaluative information they had learned in September in order for it to have any influence on attitudes in November. However, the on-line processing model would predict that information gleaned from both traditional and non-traditional news media during the initial phase of the election campaign would retain much of its influence on perceptions and attitudes throughout the campaign, although people would not necessarily be able to acknowledge its impact retrospectively.</p><p>If traditional or non-traditional news media in the initial phase of the general election campaign influence perceptions or attitudes during this phase, do these effects persist until the election? If so, are these effects direct or indirect? Hard evidence on the persistence of media effects across phases of election campaigns is unavailable. Hence, this study suggests the following research question: RQ2: Does the influence of traditional or non-traditional news media on perceptions and attitudes during the initial phase of the general election campaign persist, affecting the likelihood of voting for candidates at election time?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head><p>Participants (N = 151) were registered voters of a county in a Midwestern state randomly sampled from the county's voting lists. Participants were reasonably representative of the county's population of adults 18 years and older. (Details are available from the authors.) The participants were: 50% female; 93% high school graduates and 37% college graduates; and 30% less than 36 years of age and 18% more than 54 years of age. They were 42% Republican, 42% Democrat, and 16% non-affiliated. The 151 respondents completed two waves of surveys in the general election campaign, administered during the period of September 8 through November 2.</p><p>Nine senior undergraduate students served as interviewers for the study. Prior to the study, they received four hours of training, consisting of formal instruction followed by supervised practice sessions. Interviewers contacted respondents who had participated since February in an ongoing panel study. All together, 151 of the 188 respondents who had participated in the February and March phases of the study (i.e., 80% response rate) completed the two fall measures, the first administered from September 8 to 15, and the second from October 29 to November 2.</p><p>The variables in this investigation included participants': political party affiliation, (i.e., registered as Democrat, Republican, or nonaffiliated); strength of political party identification (i.e., assessed using a 7-point continuum ranging from very weak to very strong); gender; and education, (i.e., some high school, high school graduate, some college, college graduate, some advanced schooling, and advanced degree). Other variables included: two dimensions of perceptions of candidate persona (i.e., perceptions of relational communication and competence); global attitudes toward candidates; and likelihood of voting for a particular candidate. Traditional and non-traditional news media use were the primary independent variables in this research. Descriptive statistics for all indices are included in Table <ref type="table" target="#tab_0">1</ref>.</p><p>The literature on media effects indicates that the wording of media use questions (e.g., "exposure," "attention," and/or "reliance") can affect their relative impact on all dependent measures. Most methodological examinations of this topic argue that simple exposure measures are inadequate to tap the relative influence of communication sources (e.g., <ref type="bibr" target="#b9">Chaffee &amp; Schleuder, 1986;</ref><ref type="bibr" target="#b12">Culbertson &amp; Stempel, 1986;</ref><ref type="bibr">McLeod &amp; McDonald, 1985)</ref>, suggesting instead the use of some alternative form of self-report measure. This investigation employed the self-report measure of information utility of sources in order to ensure equivalency across media sources. Each source (i.e., newspapers, television news, news magazines, and talk/interview shows) was evaluated at Phase 1 using three seven-point Likert-type scales, which assessed participants' perceptions of the: 1) amount; 2) value; and 3) overall importance of the information provided. These three items together captured the information utility of each of the sources. The items measuring the information utility of the three traditional news media were combined to form an additive index of traditional news media, and the three items assessing information utility of talk/interview shows were combined to form an index of non-traditional news media.</p><p>Perceptions of candidates' relational communication were evaluated during both phases of the campaign using seven-point semantic differential scales which were developed in previous factor analytic research by Burgoon and colleagues <ref type="bibr" target="#b5">(Burgoon, Buller, Hale, &amp; deTurck, 1984;</ref><ref type="bibr" target="#b6">Burgoon &amp; Hale, 1987)</ref>. Relational communication captures how one perceives another in the context of a relationship and communicated through both verbal and nonverbal channels. Relational communication is discerned from general attitude measures because relationals refer to soft traits, and form what might be called an "intimacy composite" <ref type="bibr" target="#b7">(Burgoon &amp; Newton, 1991)</ref>. Strength of relational communication has been found to vary across communication sources <ref type="bibr" target="#b40">(Pfau, 1990)</ref> and is therefore relevant to our present analysis. A principal components factor analysis employing Varimax rotation revealed a single superordinate relational communication dimension which consisted of 13 items. Items included: personable/unpersonable, involved/uninvolved, honest/dishonest, friendly/unfriendly, warm/cold, enthusiastic/unenthusiastic, similar/dissimilar, interested/disinterested, sincere/insincere, hopeful/despairing, receptive/unreceptive, caring/uncaring, and happy/unhappy. The 13 items are theoretically similar, and have loaded similarly in past research <ref type="bibr" target="#b7">(Burgoon &amp; Newton, 1991;</ref><ref type="bibr" target="#b43">Pfau &amp; Kang, 1991;</ref><ref type="bibr" target="#b42">Pfau, Diedrich, Larson, &amp; Van Winkle, 1993)</ref>.</p><p>Perceptions of candidate competence was measured at both phases, employing three seven-point semantic differential scales developed in previous factor analytic research by <ref type="bibr" target="#b30">McCroskey, Holdridge, and Toomb (1974)</ref>. The three items used to measure perceptions of candidate competence were: qualified/unqualified, competent/incompetent, and intelligent/unintelligent.</p><p>Attitudes toward the candidates' positions on the issues in general was also assessed during both phases, using six seven-interval semantic differential scales employed previously by <ref type="bibr" target="#b41">Pfau and Burgoon (1988)</ref>. The items included: favorable/unfavorable, good/bad, positive/negative, valuable/worthless, wise/foolish, and pleasant/unpleasant. Finally, attitudes toward candidates was evaluated during both phases using six seven-interval semantic differential scales, based on an instrument employed previously by <ref type="bibr" target="#b26">Kaid and Sanders (1978)</ref> and <ref type="bibr" target="#b17">Garramone (1983</ref><ref type="bibr" target="#b18">Garramone ( , 1985))</ref>. Scale items were: persuasive/unpersuasive, informed/uninformed, experienced/inexperienced, rational/irrational, smart/stupid, and believable/unbelievable.</p><p>Subsequent correlations computed between the competence and attitude measures revealed unacceptable multicollinearity. Thus, a principal components factor analysis with Varimax rotation was computed. The results indicated a factor structure in which the 15 items combined to form two general dimensions. The first dimension involved voters' perceptions of candidate competence, and comprised seven items: competent/incompetent, smart/stupid, qualified/unqualified, informed/ uninformed, rational/irrational, intelligent/unintelligent, and experienced/inexperienced. The second dimension constituted a global measure of voter attitudes toward candidates, and featured eight items: positive/negative, persuasive/unpersuasive, valuable/worthless, pleasant/unpleasant, believable/unbelievable, favorable/unfavorable, wise/ Influence of News Media foolish, and good/bad. There is a clear distinction between these dimensions: competence is based on specific evaluations of a candidate's potential for leadership, whereas the attitude factor is more global, comprising an overall evaluation of a candidate.</p><p>Finally, a single zero to 100-point continuum was employed to measure the likelihood of voting for a particular candidate. This variable was measured only at Phase 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>The hypothesis and research questions of this study were tested using regression path analysis <ref type="bibr" target="#b0">(Asher, 1983;</ref><ref type="bibr" target="#b10">Cohen &amp; Cohen, 1983)</ref>. This analytical technique uses a hypothesized causal model to test the impact of all independent variables on a particular dependent variable using simultaneous multiple regression. The coefficients in a path model represent the unique impact of an independent variable controlling for the influence of all other independent variables. The coefficients employed in the model are standardized regression coefficients (betas), interpreted in much the same way as partial correlation coefficients. Typically, non-significant paths are not shown in the final model in order to reduce complexity.</p><p>One strength of this technique is that it allows for the test of indirect effects-that is, the effect of an independent variable on a dependent variable through one or more mediating variables (for a discussion of the importance of mediating variables, see <ref type="bibr" target="#b1">Baron &amp; Kenney, 1986)</ref>. For example, Research Question 2 of the study posits an indirect effect of traditional and non-traditional news media on perceptions, attitudes, and voting intention at the final phase of the campaign through perceptions and attitudes at the initial phase. The indirect effects are computed as products of the coefficient from each path leading from an independent variable through a mediating variable to a dependent variable. Summing these products across all possible paths between an independent variable to a dependent variable, including the direct path, provides the total effect <ref type="bibr" target="#b0">(Asher, 1983)</ref>. Any indirect effect that is the product of statistically significant paths may be considered significant, as there are no direct tests of significance for indirect effects <ref type="bibr" target="#b10">(Cohen &amp; Cohen, 1983)</ref>. When evaluating indirect effects, a researcher need only consider their practical significance.</p><p>A separate path analysis was run for each candidate. This was done for two reasons. First, all items were measured for each candidate separately. Scaling the perception, attitude, and vote intention measures of different candidates together would be inappropriate, since the model would be too complex if separate measures for each candidate were included in one large model. Second, because of the different coverage of and use of traditional and non-traditional media by the three candidates, we can learn more by creating a separate model for each candidate. In this respect, we follow the work of <ref type="bibr" target="#b15">Elliott and Wickert (1993)</ref>.</p><p>All of the path analyses in the study included education, gender, and strength of party affiliation as exogenous variables. In order to limit the complexity of the graphical representations of the path models, reports of effects of the exogenous variables on the endogenous variables in the model are not included in the tables or discussed in the text.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 1</head><p>Hypothesis 1 posited that traditional news media influences respondents' perceptions of and attitudes toward the candidates in the initial phase of the campaign. An examination of the three path models (one for each candidate, Figures <ref type="figure">1</ref><ref type="figure">2</ref><ref type="figure">3</ref>) provides partial support for this hypothesis. There are significant paths between traditional news and Phase 1 perceptions of competence and relationals for Clinton and of competence for Bush. However, there are no effects on Phase 1 perceptions for Perot.</p><p>The paths between traditional news media and attitudes are less pronounced. Traditional news media exert no significant impact, either direct or indirect, on respondents' attitudes toward Perot at Phase 1. However, the influence of traditional news media on attitudes toward Clinton is clear and strong. The results reveal a significant direct impact on attitudes toward Clinton at Phase 1, and an even larger indirect impact on respondents' attitudes through perceptions of competence and relationals (.24). The influence of traditional news media on attitudes toward Bush is smaller (.04) and is entirely indirect (i.e., through perceptions of competence). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Question 1</head><p>Research Question 1 probed the influence of non-traditional news media on perceptions of and attitudes toward the candidates in the initial phase of the campaign. As with Hypothesis 1, the research question was tested using the path models in Figures <ref type="figure">1 through 3</ref>. The models reveal strong effects of non-traditional news media on respondents' perceptions of the candidates' competence and relationals, averaging .36 for the two significant paths to competence and .34 for the three significant paths to relationals.</p><p>The influence of non-traditional media on attitudes toward candidates in the initial phase of the campaign is more modest. Nontraditional media exert considerable influence, although it is entirely indirect, working through perceptions of competence and relationals. Figure <ref type="figure">1</ref> (i.e., Perot) reveals strong paths between non-traditional news media and perceptions of competence and relationals at Phase 1, which then lead to Phase 1 attitudes. The total effect of non-traditional news on attitudes toward Perot at Phase 1 is .34 (Table <ref type="table" target="#tab_1">2</ref>). A nearly identical pattern is found for Clinton. Here, the indirect paths are the same as for Perot, producing a total effect of .32 on attitudes toward Clinton at Phase 1. The indirect effects for Bush are smaller due to a nonsignificant relationship between non-traditional media and perceptions of competence. However, the single indirect path through relationals to Phase 1 attitudes is still relatively strong at .15.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Question 2</head><p>Research Question 2 asked whether the impact of traditional and non-traditional news media during the initial phase of the campaign would persist (i.e., through the stability of perceptions and attitudes) to influence vote intentions in the final phase of the campaign. The data indicate that, for the most part, news media effects in the initial phase do persist throughout the campaign.</p><p>Traditional news media. Somewhat surprisingly, traditional news media exerted a direct negative influence on competence and relationals at Phase 2 for Perot. However, all other effects on Phase 2 perceptions NOTES: 1. These coefficients are a combination of direct and indirect effects controlling for gender, education, and strength of party affiliation. Indirect effects are computed as the product of all paths between an independent and dependent variable through mediating variables. Because any indirect effect through significant paths is also significant <ref type="bibr" target="#b10">(Cohen &amp; Cohen, 1983)</ref>, and because only significant paths are included in the model, all coefficients in the table are significantly greater than zero.</p><p>for Perot are entirely indirect. The effects of traditional news media on attitudes toward Perot at Phase 2 are indirect through perceptions of competence and relationals (both at Phase 2). Due to the negative influence of traditional news media on these mediating variables, the indirect effect of traditional news on attitudes at Phase 2 is strong and negative (-.31).</p><p>The effects on attitudes at Phase 2 for Clinton follow a different pattern. First, the effects on attitudes at Phase 1 carry over to Phase 2 both through attitudes at Phase 1 (.20) and through the relative stability of perceptions of competence (.53) and relationals (.64). These mediating variables measured at the second phase maintain some of the original impact of traditional news media and pass it on to attitudes at Phase 2.</p><p>Traditional news media produce a small but direct negative impact on attitudes at Phase 2 for Bush. This negative impact, however, is partially offset by a positive indirect effect (.04) through Phase 1 competence and attitudes and through competence at Phase 2.</p><p>Did the traditional news media have any impact on the voting intentions of respondents? Although there are no direct effects of traditional news media, there are varying levels of indirect effects. Besides an effect of party identification for Clinton, the only significant direct effects on the likelihood of voting revealed by the three path models is Phase 2 attitudes; all other effects are indirect. The indirect effects of traditional news media use are strongest for Perot (-.12) and Clinton <ref type="bibr">(.11</ref>). Due to one negative indirect path and two smaller positive indirect paths, the sum of indirect effects of traditional news media on the likelihood of voting for Bush are quite small (-.03).</p><p>Non-traditional news. The path models reveal that the effects of non-traditional news media on attitudes in the initial phase of the campaign generally persist until the final phase, but they lose much of their strength. With the exception of Perot, the perceptions of competence, relationals, and attitudes are all relatively stable between the two phases, as evidenced by the strong paths between Phase 1 and Phase 2 measures. It is this stability which carries the impact of the nontraditional news media through to attitudes in the final phase of the campaign. The indirect effects of non-traditional news media on attitudes in the final phase of the campaign are as follows: 1) for Perot, .05 (due to the lack of stability in perceptions of relationals and attitudes toward Perot); 2) for Clinton, .23; and 3) for Bush, .04 (due to the absence of a significant link between relationals at Phase 2 and attitudes at Phase 2).</p><p>To fully answer Research Question 2, it is necessary to determine whether or not non-traditional news media influence the likelihood of voting for the candidates. As previously stated, essentially all effects on vote intentions are through attitudes at Phase 2. Therefore, it is necessary to again examine the indirect effects of the non-traditional news media. Computing the sum of indirect effects of non-traditional news media for each candidate, there is evidence of relatively small effects for candidates Perot (.02) and Bush (.02). The sum of indirect effects for Clinton is much larger (.11) due to the stability of perceptions and attitudes from Phase 1 to Phase 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In the initial phase of the presidential campaign in 1992, the news media, both traditional and non-traditional, played an important role in shaping perceptions of and attitudes toward the three leading candidates. By the end of the campaign, however, there were only relatively modest residues of this initial influence remaining to impact the likelihood of voting for the candidates. Nonetheless, these effects were measurable, even with the small sample size in the present study. Two points should be stressed about the modest effects reported in this study. First, what is surprising is not that traditional and non-traditional news in the initial phase of the general election campaign exert a modest impact on voting decisions at election time, but rather that much of the influence of traditional and non-traditional news in early September persists for as long as it does-throughout the two months of the general election campaign, in the midst of a communication-intense environment. Second, even small changes in the proportion of people willing to vote for a particular candidate at election time can easily alter the outcome of a close race. As <ref type="bibr" target="#b24">Jeffres (1986)</ref> notes, "even slight changes may be significant in close elections" (p. 259).</p><p>The results of this study suggest that both traditional and nontraditional news media do not typically influence attitudes directly, even in the initial phase of the campaign. Instead, their impact manifests itself through perceptions of competence and relationals. One plausible explanation for this finding is that people engage in on-line processing of political content, using the bits of information they glean from traditional and non-traditional news media to adjust their overall evaluations of candidates, and then discarding the information <ref type="bibr" target="#b20">(Hastie &amp; Park, 1986;</ref><ref type="bibr" target="#b31">McGraw &amp; Pinney, 1990)</ref>.</p><p>Overall, the results reveal that non-traditional news media exert more influence than traditional news media on prospective voters' perceptions of candidate competence and relationals, with five of six paths (averaging .35) significant for non-traditional media, but only three of six paths significant for traditional news (averaging .28). The greater impact of non-traditional news on perceptions may be due to its more personal nature <ref type="bibr" target="#b15">(Elliott &amp; Wickert, 1993;</ref><ref type="bibr" target="#b35">Munson, 1993)</ref>, which enables the non-traditional presentations to generate greater impact on personal evaluations like relational perceptions of candidates.</p><p>The path models show that perceptions of candidate competence and relationals exert considerable impact on general attitudes toward the Influence of News Media candidates. With 12 possible paths connecting these perceptions and attitudes (i.e., either at Phase 1 or Phase 2), 11 were significant, and they regularly exceeded .50. It was primarily through these indirect paths that traditional and non-traditional news media exerted their impact on attitudes at both phases of the campaign.</p><p>The results also provide clues about the status of public opinion during the campaign. As might be expected from what is known of the campaign, attitudes and perceptions of Perot were quite unstable, as evident by the small path between competence at Phase 1 and Phase 2 and the lack of significant relationships between measures of attitudes and relationals at the two data collection points. This instability is likely due to the change in Perot's status in August and September, when he dropped out of the race and then re-entered it. Perot's return to the campaign may have significantly changed on-line evaluations between Phase 1 and Phase 2, and is probably responsible for the negative tone of traditional news media coverage during the initial phase of the campaign and its subsequent negative impact on perceptions of Perot at Phase 2.</p><p>The story is different for Clinton and Bush, where perceptions and attitudes were demonstrated to be quite stable from Phase 1 to Phase 2. In both cases, it is interesting to note that attitudes were much less stable than perceptions of competence and relationals. This is important since, as noted previously, the impact of traditional news, and especially of non-traditional media, work through these perceptions.</p><p>The effects of both traditional and non-traditional news on attitudes at Phase 2 were strongest for Clinton. Both sources exerted sizable impact on perceptions at Phase 1, and due to the stability of perceptions and attitudes about Clinton from Phase 1 to Phase 2, the influence of traditional and non-traditional news in the initial phase persisted. The effects of traditional news were strong for Perot via Phase 2 perceptions, but the relatively strong influence of non-traditional news on Phase 1 perceptions of Perot failed to influence Phase 2 attitudes due to the lack of relationship between Phase 1 and Phase 2 measures of perceptions and attitudes. For Bush, there were limited effects compared to the other candidates. In addition, a positive indirect effect of traditional news on Phase 2 attitudes through Phase 1 competence was overwhelmed by the direct negative impact of traditional news on Phase 2 attitudes. The small effect of non-traditional media (which Bush did not capitalize on to the same degree as the other candidates) manifested itself through a single indirect path to Phase 2 attitudes.</p><p>The path models demonstrate that, of the variables measured here, attitudes are clearly the driving force in the likelihood of voting for a candidate. For all three candidates, attitudes at Phase 2 predicted voting intentions quite well, while there were no direct effects for competence or relationals. Effects for competence and relationals were entirely indirect (though large) through attitudes. As a result, effects of tradi-tional and non-traditional news media were indirect, through Phase 2 attitudes. The results indicate the largest indirect effects on the likelihood of voting for candidate Clinton (i.e., .11 for both traditional and non-traditional), the smallest effects on the likelihood for voting for Bush (i.e., -.03 and .02, for traditional and non-traditional, respectively), and quite varied effects for likelihood of voting for Perot (i.e., -.12 for traditional news, but only .02 for non-traditional news).</p><p>The pattern of results of this investigation suggest that the influence of non-traditional news media in the 1992 general election campaign may have been greater than previous studies have shown (e.g., <ref type="bibr" target="#b15">Elliott &amp; Wickert, 1993;</ref><ref type="bibr" target="#b34">McLeod et al., 1993)</ref>. The findings demonstrate substantial influence on perceptions of relationals and competence, and strong indirect impacts on attitudes. Unlike past research, the results also reveal some influence (albeit indirect) of non-traditional media on voting intentions. Research on the role of non-traditional media should be expanded in future elections, and should go beyond television to examine radio talk shows and other non-traditional news media forms.</p><p>The election of 1992 may have been unique in many respects. The presence of Ross Perot, first unofficially in the race, then out, then officially in, was certainly unusual. However, the presence of viable, independent, third party candidates seems to be becoming the norm rather than the exception in presidential elections. In the past four elections, two have seen relatively strong independent candidates, and 1996 may be heading toward the three (or more) candidate direction as well.</p><p>Two caveats about the results of this study should be noted. First, the findings are based on a sample of citizens from a single county in a single state. Subjects are also survivors of a panel study that lasted from the primary phase of the campaign until the final days before the general election. This limits generalizability of the findings. Second, the sample was quite small. This can underpower studies, increasing the risk of Type II error. However, the degree of control in the path models and the quality of measures, as revealed by reliability coefficients, contribute to the power to detect relationships. In addition, the small sample size enhances confidence in those significant results that were detected.</p><p>There are two primary implications of the present findings that should be more thoroughly addressed in future research. The first is that news media, both traditional and non-traditional, may have more of an indirect than a direct impact on attitudes toward candidates. The present results indicate that most of the impact on attitudes was indirect through voters' perceptions of competence and relational communication. Second, media messages early in the general election campaign can have effects which persist until voting day. Therefore, it would not be reasonable to expect attitudes to match the "current" media climate without reference to "past" media climate. The role of intermediate variables and the timing of campaign communication deserve the close attention of researchers in the campaign of 1996 and beyond.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .Figure 3 .</head><label>13</label><figDesc>Figure 1. Trimmed Path Model (Perot).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 Descriptive</head><label>1</label><figDesc></figDesc><table><row><cell>Statistics of Indices</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2</head><label>2</label><figDesc></figDesc><table><row><cell cols="4">Combined Direct and Indirect Effects of News Media on</cell></row><row><cell></cell><cell cols="2">Attitudes and Voting</cell><cell></cell></row><row><cell></cell><cell>Phase 1</cell><cell>Phase 2</cell><cell>Likelihood</cell></row><row><cell>Independent Variable</cell><cell>Attitudes</cell><cell>Attitudes</cell><cell>of Voting for</cell></row><row><cell>Perot</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Traditional News</cell><cell>-</cell><cell>-.31</cell><cell>-.12</cell></row><row><cell>Non-Traditional News</cell><cell>.34</cell><cell>.05</cell><cell>.02</cell></row><row><cell>Clinton</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Traditional News</cell><cell>.37</cell><cell>.21</cell><cell>.11</cell></row><row><cell>Non-Traditional News</cell><cell>.32</cell><cell>.23</cell><cell>.11</cell></row><row><cell>Bush</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Traditional News</cell><cell>.04</cell><cell>-.06</cell><cell>-.03</cell></row><row><cell>Non-Traditional News</cell><cell>.15</cell><cell>.04</cell><cell>.02</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded by [University of Calgary] at 09:47 06 February 2015</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Indices</head><p>News <rs type="person">Media Bush</rs> (<rs type="institution">Traditional) Bush (Non-traditional) Clinton (Traditional) Clinton (Non-traditional) Perot (Traditional) Perot (Non-traditional) Competence Bush (Phase 1) Bush (Phase 2) Clinton (Phase 1) Clinton (Phase 2) Perot (Phase 1) Perot (Phase 2) Relationals Bush (Phase 1) Bush (Phase 2) Clinton (Phase 1) Clinton (Phase 2) Perot (Phase 1) Perot (Phase 2) Attitudes Bush (Phase 1) Bush (Phase 2) Clinton (Phase 1) Clinton</rs> (<rs type="grantNumber">Phase 2</rs>)</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_6ykZ26k">
+					<idno type="grant-number">Phase 2</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Causal modeling</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Asher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Beverly Hills</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1173" to="1182" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The study of campaign &apos;76: An overview</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="265" to="267" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Assessing the president: The media, elite opinion, and public support</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Brody</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Stanford, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Electing a president: The Markle Commission research on campaign &apos;88</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Buchanan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>University of Texas Press</publisher>
+			<pubPlace>Austin, TX</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Relational messages associated with nonverbal behaviors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Burgoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Buller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="351" to="378" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Validation and measurement of the fundamental themes of relational communication</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Burgoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="19" to="41" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Applying a social meaning model to relational message interpretations of conversational involvement: Comparing observer and participant observations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Burgoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Newton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Southern Communication Journal</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="96" to="113" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Time of decision and media use during the Ford-Carter campaign</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Choe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="53" to="69" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Measurement and effects of attention to news media</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chaffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schleuder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="266" to="288" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Applied multiple regression/correlation analysis for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Lawrence Erlbaum</publisher>
+			<pubPlace>Hillsdale, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>nd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The reciprocal and contextual nature of media use and effects in political campaigns</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Cozzens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Manross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paper presented at the annual meeting of the International Communication Association</title>
+		<meeting><address><addrLine>Dublin, Ireland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990-06">1990. June</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">How media use and reliance affect knowledge level</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Culbertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Stempel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="579" to="602" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Pop goes politics: New media, interactive formats, and the 1992 presidential campaign</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mckay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Silverman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="257" to="261" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Media attention, media exposure, and media effects</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Drew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weaver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="740" to="748" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Campaign media use, candidate image, and voting probabilities: Three models of influence</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Wickert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993-11">1993, November</date>
+			<publisher>Midwest Association for Public Opinion Research</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The impact of the news media on public opinion: American presidential election 1987-1988</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Tims</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Public Opinion Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="151" to="163" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Issue versus image orientation and effects of political advertising</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Garramone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="59" to="76" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effects of negative political advertising: The roles of sponsor and rebuttal</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Garramone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="147" to="159" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sound bite news: Television coverage of elections, 1968-1988</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hallin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="5" to="24" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The relationship between memory and judgment depends whether the task is memory-based or on-line</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="258" to="268" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<title level="m">Is anyone responsible? How television frames political issues</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">News that matters: Television and American opinion</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Kinder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">News coverage of the Gulf crisis and public opinion</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="365" to="383" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Jeffres</surname></persName>
+		</author>
+		<title level="m">Mass media: Processes and effects</title>
+		<meeting><address><addrLine>Prospect Heights, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Waveland</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Just</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crigler</surname></persName>
+		</author>
+		<title level="m">Learning from the news: Experiments in media, modality, and reporting about Star Wars. Political Communication and Persuasion</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="109" to="127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Political television commercials: An experimental study of type and length</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Kaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Sanders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="57" to="70" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The effects of mass communication</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mapper</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Free Press</publisher>
+			<pubPlace>Glencoe, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Inside the mental voting booth: An impression-driven process model of candidate evaluation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stroh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Explorations in political psychology</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Mcguire</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="225" to="263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The agenda-setting function of the mass media</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Mccombs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opinion Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="176" to="187" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">An instrument for measuring the source credibility of basic communication instructors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mccroskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Holdridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Toomb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="26" to="33" />
+		</imprint>
+	</monogr>
+	<note>Speech Teacher</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The effects of general and domain-specific expertise on political memory and judgment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcgraw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pinney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Cognition</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="9" to="30" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mcguire</surname></persName>
+		</author>
+		<title level="m">The myth of massive media impact: Savagings and salvagings. Public Communication and Behavior</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="173" to="257" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Issues and images: The influence of media reliance in voting decisions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Glynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="37" to="58" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The impact of traditional and non-traditional forms of political communication in the 1992 U.S. presidential election</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Daily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paper presented at the annual meeting of the Midwest Association for Public Opinion Research</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcleod</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mcdonald</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1985">1993, November. 1985</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3" to="33" />
+		</imprint>
+	</monogr>
+	<note>Beyond simple exposure: Media orientations and their impact on political processes</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">All talk: The talkshow in media culture</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Munson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Temple University Press</publisher>
+			<pubPlace>Philadelphia, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">The spiral of silence: Our social skin</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Noelle-Neumann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Communication and election campaigns</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>O'keefe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Atwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of political communication</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Nimmo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Sanders</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="329" to="357" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The mass media election: How Americans choose their president</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Praeger</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Out of order</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Alfred A. Knopf</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A channel approach to television influence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pfau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="195" to="215" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Inoculation in political campaign communication</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burgoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="91" to="111" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Relational and competence perceptions of presidential candidates during primary election campaigns</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Diedrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Van Winkle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="275" to="292" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The impact of relational messages on candidate influence in televised political debates</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Studies</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="114" to="128" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Media use and difficulty of decision in the 1976 presidential campaign</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journalism Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="794" to="802" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">The emergence of American political issues: The agenda-setting function of the press</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Mccombs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>West Publishing</publisher>
+			<pubPlace>St. Paul, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Talking to America: The rise of talk shows in the &apos;92 campaign</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smillie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Freedom Forum Media Studies Center</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Dennis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Adler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Fitzsimon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Pavlik</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Smillie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Stebenne</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Thalhimer</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="17" to="27" />
+		</imprint>
+	</monogr>
+	<note>An uncertain season: Reporting in the postprimary period</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The setting: Valence politics in modern elections</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Stokes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Diiulio</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The elections of</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Nelson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Congressional Quarterly Press</publisher>
+			<date type="published" when="1992">1993. 1992</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Media use and time of vote decision: A study of the 1980 presidential election</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Whitney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Goldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="511" to="529" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The nature and origins of mass opinion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Zaller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">The myth of massive media impact revived: New support for a discredited idea</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Zaller</surname></persName>
+		</author>
+		<editor>D. C. Mutz, P. M. Sniderman, &amp; R. A. Brody</editor>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Political persuasion and attitude change</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Focused Activities and the Development of Social Capital in a Distributed Learning &quot;Community&quot;</title>
+				<funder ref="#_ybZncQe">
+					<orgName type="full">NASA</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Y</forename><forename type="middle">Connie</forename><surname>Yuan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Communication and Information Science</orgName>
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<settlement>Ithaca</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Departments of Com-munication and Information Science</orgName>
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<addrLine>308 Kennedy Hall</addrLine>
+									<postCode>14850</postCode>
+									<settlement>Ithaca</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Geri</forename><surname>Gay</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Communication and Information Science</orgName>
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<settlement>Ithaca</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Helene</forename><surname>Hembrooke</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Communication and Information Science</orgName>
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<settlement>Ithaca</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Focused Activities and the Development of Social Capital in a Distributed Learning &quot;Community&quot;</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0197-2243 print / 1087-6537</idno>
+					</monogr>
+					<idno type="MD5">898328C849713F8BCEAB0030E6991A30</idno>
+					<idno type="DOI">10.1080/01972240500388347</idno>
+					<note type="submission">Received 4 November 2004; accepted 10 August 2005.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study examined the development of individual social capital in a distributed learning community. Feld's theory of focused choice predicts that the formation of network ties is constrained by contextual factors that function as foci of activities. In our research, we examined how group assignment and location could function as such foci to influence the development of individual social capital in a distributed learning community. Given that networks with different content flows may possess different properties, we examined two different types of networks-task-related instrumental networks and non-task-related expressive networks. A longitudinal research design was used to evaluate the evolution of networks over time. Hypotheses were tested using a sample of 32 students enrolled in a distributed learning class. The results show strong support for Feld's theory. While serving as foci of activities to organize social interactions, both group assignment and geographic separation can also function to fragment a learning community. Keywords distributed learning, expressive networks, focused choice, instrumental networks, social capital</p><p>In recent studies on learning, the focus has moved away from individual knowledge acquisition toward collaborative learning in communities (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>lationships, similar work roles, and a shared social context, form what is called a community of practice <ref type="bibr" target="#b40">(Lesser &amp; Prusak, 2000)</ref>. In such a community, learning through participation instead of acquisition is the primary mode through which learners master the skills and knowledge needed to become competent members of a learning community <ref type="bibr" target="#b13">(Cho et al., 2002;</ref><ref type="bibr" target="#b38">Lave &amp; Wenger, 1991;</ref><ref type="bibr" target="#b60">Sfard, 1998)</ref>.</p><p>With the rapid development of information and communication technologies, the boundaries for such learning communities have greatly expanded. Geographic distance no longer prevents people from joining a learning community from a distant location <ref type="bibr" target="#b69">(Wellman, 1999)</ref>. However, fostering collaborative learning in a distributed learning community requires more than just technological competency <ref type="bibr" target="#b5">(Barab et al., 2004)</ref>. Cooperation and collaboration among colearners does not occur automatically merely because the necessary technology is made available. The key issue is the development of social capital among participants <ref type="bibr" target="#b21">(Graves, 1992;</ref><ref type="bibr" target="#b34">Kling &amp; Courtright, 2004)</ref>. Social capital is generally defined as resources embedded in network relationships that people can mobilize to facilitate purposeful actions <ref type="bibr" target="#b8">(Bourdieu, 1985)</ref>. Social capital is important for collaborative learning and community building because social interactions generate, among other things, trust, social support and control, participation, and resource exchange <ref type="bibr" target="#b27">(Haythornthwaite et al., 2000;</ref><ref type="bibr" target="#b41">Lin, 1995;</ref><ref type="bibr" target="#b51">Portes, 1998;</ref><ref type="bibr" target="#b56">Putnam, 2000;</ref><ref type="bibr" target="#b57">Rovai, 2001;</ref><ref type="bibr" target="#b59">Schuller et al., 2000)</ref>.</p><p>In her seminal study on patterns of social interactions among distributed learners, <ref type="bibr" target="#b26">Haythornthwaite (2001)</ref> found that the structures of social networks for advice seeking, collaborative work, and socializing relate directly to the assigned group structures. One major limitation of Haythornthwaite's research is that she only studied the impact of group assignment on network ties, and it was not clear to what extent geographic separation, a distinguishing feature of distributed learning communities, influenced this process. Past research (e.g., <ref type="bibr" target="#b26">Haythornthwaite, 2001;</ref><ref type="bibr" target="#b57">Rovai, 2001)</ref> on distance learning classes usually studied completely distributed communities, in which none of the students were in close physical proximity to each other. When comparative research was conducted, the focus was on the differences between completely distributed versus completely colocated communities <ref type="bibr" target="#b58">(Rovai &amp; Lucking, 2003)</ref>. However, the level of geographic distribution of a learning community is not a binary of either distributed or colocated; it varies by degrees. Partially distributed communities, in which some of the community members are colocated while the rest are distributed, also exist.</p><p>As one extension of Haythonthwaite's work, we explored the dynamics of social interactions in a partially distributed learning community. In this learning community half of the students were from University A and the other half from University B. Building on Feld's theory of focused choice <ref type="bibr">(1981,</ref><ref type="bibr">1982,</ref><ref type="bibr">1997)</ref>, we developed and tested specific hypotheses on the impact of location on the formation of both task-and non-task-related network ties. Group assignment remained a key research focus for us because groups are still a dominant form of organization in contemporary society <ref type="bibr" target="#b4">(Arrow et al., 2000;</ref><ref type="bibr" target="#b19">Gay &amp; Hembrooke, 2004)</ref>.</p><p>As a second extension of Haythornthwaite's work, we examined the impact of social capital on performance. This issue is important because initiatives for fostering the development of social capital in learning communities is inspired by the potential of an enriched learning experience to boost performance, in addition to providing emotional support and generating a sense of belonging <ref type="bibr" target="#b27">(Haythornthwaite et al., 2000;</ref><ref type="bibr" target="#b26">Haythornthwaite, 2001)</ref>.</p><p>The article is organized as follows. First, we define the concept of social capital. Defining the term up front is necessary because the concept has been studied in so many different disciplines that its implications and meanings have changed from context to context (see <ref type="bibr" target="#b0">Adler &amp; Kwon, 2002;</ref><ref type="bibr" target="#b51">Portes, 1998</ref>, for a more detailed review). Second, we discuss Feld's theory of focused choice and propose hypotheses to test the impact of group assignment and location on the development of social capital. These hypotheses were tested using a sample of 32 students from two universities enrolled in a collaborative learning class. Finally, we discuss the implications of our results and possible future extensions of our research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DEFINING SOCIAL CAPITAL</head><p>Although Pierre Bourdieu was not the first to use the term social capital, he is generally considered to be the first scholar who provided a systematic analysis of the term <ref type="bibr" target="#b51">(Portes, 1998)</ref>. He has also been credited for sparking the contemporary interest in the concept <ref type="bibr" target="#b51">(Portes, 1998;</ref><ref type="bibr" target="#b59">Schuller et al., 2000)</ref>. In his study of social space and the legitimization of class relationships through cultural mechanisms, <ref type="bibr" target="#b8">Bourdieu (1985)</ref> argued that there are multiple forms of capital-economic, cultural, and social-that people use to achieve their ends. Economic capital refers to the monetary resources available to an individual. Cultural capital can take three forms. Embodied cultural capital is obtained through learning or acquiring social norms of a particular group, or social class. Objectified cultural capital is obtained through exposure to such "cultural goods" (p. 247) as media, paintings, and writings. Institutionalized cultural capital is acquired through obtaining an academic degree. Social capital, on the other hand, is the resources that people can obtain from a network of relationships. <ref type="bibr" target="#b8">Bourdieu (1985)</ref> claims that social capital is the aggregate of the actual or potential resources which are linked to possession of a durable network of more or less institutionalized relationships of mutual acquaintance and recognition-or in other words, to memberships in a group-which provides each of its members with backing of the collectivity-owned capital, a "credential" which entitles them to credit, in the various senses of the word. <ref type="bibr">(pp. 248-249)</ref> In this short passage, three major themes of contemporary studies of social capital emerge. First, social capital is a type of resource that is embedded in a network of relationships. Different from both economic capital and cultural capital, "The volume of social capital possessed by a given agent . . . depends on the size of the network of connections he can effectively mobilize and on the volume of social (economic, cultural or symbolic) resources possessed in his own right by each of those to whom he is connected" <ref type="bibr">(Bourdieu, 1985, p. 249)</ref>. Second, social capital by its nature is a form of public good. As it is "collectivity-owned capital" (p. 249), all members of the public can enjoy it, a point that is further elaborated on in <ref type="bibr">Coleman's analysis (1988)</ref>. Third, group membership is important for the formation and realization of social capital. As social capital represents resources derived from a network of relationships, participation in group and community activities that facilitate networking among group members can have a great impact on the development of social capital, and thereby can help the group to achieve greater effectiveness.</p><p>Bourdieu's definition of social capital has set the basic tone of contemporary social capital research. Subsequent social capital research, however, has witnessed some conceptual differences. For instance, Putnam defines social capital as "features of social organization, such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefits" <ref type="bibr">(Putnam, 1995, p. 67)</ref>. The change in focus from resources available in social networks, as originally proposed by Bourdieu, to features of "social organization" <ref type="bibr" target="#b53">(Putnam, 1993</ref><ref type="bibr" target="#b54">(Putnam, , 1995) )</ref> or "social life" <ref type="bibr" target="#b55">(Putnam, 1996)</ref> has greatly expanded the research scope of the concept. Following in the footsteps of Putnam, other scholars have added "shared vision," "institutional structure," and other such factors as additional dimensions of social capital (see <ref type="bibr" target="#b20">Gittell &amp; Vidal, 1998</ref>, for a more detailed review). Such expansions, however, may be contributing to making the concept too broad and "muddled" to have its own distinct conceptual entity <ref type="bibr" target="#b47">(Mondak, 1998)</ref>. <ref type="bibr" target="#b51">Portes (1998)</ref> and <ref type="bibr" target="#b59">Schuller et al. (2000)</ref> warn against this tendency to turn the concept of social capital into an umbrella term that houses too many different concepts. Following their suggestion, we adopt Bourdieu's original definition of the concept and study social capital as the properties of a network structure that members of the network can access and activate in order to achieve their goals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instrumental Versus Expressive Networks</head><p>Research following Bourdieu's conceptualization of social capital has mainly focused on identifying and evaluating structural properties of networks as indicators of the level of resources that people can mobilize from network relationships <ref type="bibr" target="#b25">(Hansen et al., 2001)</ref>. Frequently studied structural indicators of social capital include network size (e.g., <ref type="bibr" target="#b14">Coleman, 1988;</ref><ref type="bibr" target="#b32">Ibarra &amp; Andrews, 1993)</ref>, tie strength (e.g., <ref type="bibr" target="#b23">Granovetter, 1982;</ref><ref type="bibr" target="#b36">Krackhardt, 1992)</ref>, nodal centrality <ref type="bibr" target="#b32">(Ibarra &amp; Andrews, 1993;</ref><ref type="bibr" target="#b62">Tsai &amp; Ghoshal, 1998)</ref>, and network density/sparseness (e.g., <ref type="bibr" target="#b10">Burt, 1992)</ref>. Multiple middle-ranged theories have been developed to study social capital: for instance, <ref type="bibr" target="#b10">Burt's (1992)</ref> structural hole theory, <ref type="bibr">Granovettor's (1973)</ref> strength of weak ties theory, <ref type="bibr" target="#b36">Krackhardt's (1992)</ref> strength of strong ties theory, <ref type="bibr" target="#b41">Lin's (1995</ref><ref type="bibr" target="#b42">Lin's ( , 2001) )</ref> social resources theory, and Coleman's network closure theory <ref type="bibr">(1988)</ref>.</p><p>In social capital research, the importance of network content tends to be downplayed in many studies for both theoretical and empirical reasons <ref type="bibr">(Adler &amp; Kwon, 2002, p. 23)</ref>. Theoretically, formalist sociology assumes that the structure of social interactions can generate its own content <ref type="bibr">(Wellman, 1988, p. 23)</ref>. Empirically, while some scholars find that one type of network relationship can accommodate certain purposes and not others <ref type="bibr" target="#b15">(DiMaggio, 1992)</ref>, different results indicate that there are limits to how much networks of different content can overlap (e.g., <ref type="bibr" target="#b50">Podolny &amp; Baron, 1997)</ref>. In the current research, instead of assuming that networks of different content can coalesce with each other naturally, we adopted <ref type="bibr" target="#b30">Ibarra's (1992</ref><ref type="bibr" target="#b31">Ibarra's ( , 1995) )</ref> conceptual framework for network tie classifications. A distinction is made between two types of networks. Instrumental networks are networks made up of ties for information, advice, and resource exchange that are needed to accomplish tasks. Expressive networks are networks formed of affective ties carrying either posi-tive or negative emotions that are not necessarily task related. Empirical research has found that both instrumental and expressive networks can influence employees' workrelated perceptions, although via different mechanisms <ref type="bibr" target="#b32">(Ibarra &amp; Andrews, 1993;</ref><ref type="bibr" target="#b63">Umphress et al., 2003)</ref>. For example, power-based social influence is stronger when it is connected to people occupying central positions in instrumental networks. Friendship-based social influence is stronger when it is connected to people who are close to the focal person in the expressive network <ref type="bibr" target="#b32">(Ibarra &amp; Andrews, 1993)</ref>.</p><p>While the two types of networks may possess very different properties, this does not mean that they are completely separate from each other. Multiplexity, or the overlap of network ties, grows when friendship ties develop among people who work on common tasks. Most existing social capital research that investigates multiplexity of ties mainly relies on one-time data. A major limitation of this approach is that besides finding correlations among different types of networks ties, it cannot investigate how multiplexity of ties evolves over time. In our current research we predict that such an overlap in network ties is more likely to happen when interactions become long-term and frequent.</p><p>Multiplexity of ties promises more benefits from a given relationship. For example, research has shown that people in close social relationships are much less likely to withhold information <ref type="bibr" target="#b24">(Gulati, 1995;</ref><ref type="bibr" target="#b48">Nahapiet &amp; Ghoshal, 1998;</ref><ref type="bibr" target="#b64">Uzzi, 1996;</ref><ref type="bibr" target="#b73">Zaheer et al., 1998)</ref>. Information gained from these channels is therefore more likely to be accurate and in-depth <ref type="bibr" target="#b28">(Haythornthwaite &amp; Wellman, 1998;</ref><ref type="bibr" target="#b65">Uzzi, 1997)</ref>. Based on these findings, it is hypothesized that: H1: The overlap of instrumental and expressive networks ties (multiplexity of network ties) will increase over time. H2: Multiplexity of ties is positively associated with performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THEORY OF FOCUSED CHOICE</head><p>The development of social capital depends on the growth of network ties. While entrepreneurial individuals have the agency to form relationships based on their individual preferences <ref type="bibr" target="#b10">(Burt, 1992</ref><ref type="bibr" target="#b12">(Burt, , 2001))</ref>, the theory of focused choice states that such choices are frequently constrained by social contexts, i.e. foci of activities <ref type="bibr" target="#b16">(Feld, 1981</ref><ref type="bibr" target="#b17">(Feld, , 1982</ref><ref type="bibr" target="#b18">(Feld, , 1997))</ref>. <ref type="bibr" target="#b16">Feld (1981)</ref>  Through joint activities, they put people into contact with one another, and make differences in personal characteristics less important in network tie selection. While people in general are more likely to interact with each other if they are connected to the same foci, the likelihood of interaction among people connected to different foci decreases. This is why people's choices of network contacts are focused and constrained, and not driven completely by free will.</p><p>In our current research, we concentrated on two foci of activities, group assignment and location, and examined how they influenced the formation of both instrumental and expressive network ties in a distributed learning community.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Impact of Group Boundary</head><p>While in networked societies group boundaries have become more permeable than they used to be <ref type="bibr" target="#b35">(Koku &amp; Wellman, 2004)</ref>, this does not mean that the group-centric model of organization is no longer valid. On the contrary, many scholars observe that the group remains a fundamental unit of organizing in contemporary organizations <ref type="bibr" target="#b2">(Argote, 1999;</ref><ref type="bibr" target="#b45">McGrath &amp; Argote, 2001</ref>). The reason is that "performing virtually any task in a work environment is fundamentally social and involves cooperation and communication with others" <ref type="bibr">(Gay &amp; Hembrooke, 2004, p. xviii)</ref>.</p><p>The theory of focused choice predicts that group membership breeds network connections because group boundaries create an organizing focus around which people organize their activities <ref type="bibr" target="#b16">(Feld, 1981</ref><ref type="bibr" target="#b17">(Feld, , 1982))</ref>. As group members have to interact with each other frequently in order to finish the assigned tasks, the likelihood of developing withingroup ties is much larger than that of across-group ties. The impact of comembership on building network ties can be so strong that differences in age, race, religion, and other individual characteristics become less important <ref type="bibr" target="#b44">(Marsden, 1990;</ref><ref type="bibr" target="#b46">McPherson et al., 2001)</ref>. <ref type="bibr" target="#b26">Haythornthwaite (2001)</ref> found in her study on distance learning that the social network structure of the distance learning class converged on group assignment. Communication for collaborative work, seeking and providing advice, and socializing were much more frequent among people of the same group than among people of different groups. Based on these findings, we propose that: H3a: People tend to become more connected with members from the same group (within-group connectedness) than with those from different groups in instrumental networks (across-group connectedness). H3b: People tend to become more connected with members from the same group (within-group connected-ness) than with those from different groups in expressive networks (across-group connectedness).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Impact of Location</head><p>One major challenge for building a distributed learning community is that the members of the learning community are not all located in the same place. As discussed earlier, a learning community is completely distributed when no two members come from the same location; it is partially distributed when some of its members are colocated. In either case, geographic separation can significantly undermine the development of a learning community because distance erodes shared context, familiarity, and friendship among group members <ref type="bibr" target="#b3">(Armstrong &amp; Cole, 2002;</ref><ref type="bibr" target="#b29">Hinds &amp; Bailey, 2003)</ref>. Deprived of a common work context, shared work norms and culture are more difficult to develop. Familiarity and friendship are also more difficult to grow because group members are deprived of casual, informal encounters. Past social network research has found that as physical distance increases, the probability of face-toface communication decreases significantly <ref type="bibr" target="#b74">(Zahn, 1991)</ref>. <ref type="bibr" target="#b1">Allen (1977)</ref> claimed that if you were further than 30 meters apart from someone, you might as well be several miles apart. <ref type="bibr" target="#b58">Rovai and Lucking (2003)</ref> found that the sense of belonging to a community was stronger among students in a completely colocated learning environment than among students in a completely distributed learning environment.</p><p>Although communication technologies can "shorten" the physical distance between people, no evidence has been found that they can shorten the social distance between people. Most research seems to indicate that the primary use of communication technologies is to sustain and maintain contacts that already existed in face-to-face conditions <ref type="bibr" target="#b68">(Wellman, 1996)</ref>. Based on these findings, it is hypothesized that:</p><p>H4a: People tend to become more connected with members from the same location (within-location connectedness) than with those from different locations in instrumental networks (across-location connectedness) in partially distributed communities. H4b: People tend to become more connected with members from the same location (within-location connectedness) than with those from different locations in expressive networks (across-location connectedness) in partially distributed communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Interaction Effect Between Group Membership and Location</head><p>In addition to the already mentioned main effects, we propose that an interaction effect between group assignment and location also exists so that both instrumental and expressive network ties are more likely to form among people who not only belong to the same group, but also come from the same location. Homophily theory predicts that people sharing common traits are more likely to communicate with each other <ref type="bibr" target="#b46">(McPherson et al., 2001)</ref>, and that the likelihood of social interaction grows when people share more similarities. Based on these arguments from homophily theory, it is hypothesized that:</p><p>H5a: People are more likely to form instrumental ties with those who are in both the same location and the same group. H5b: People are more likely to form expressive ties with those who are in both the same location and the same group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in Network Ties Over Time</head><p>Although group boundaries and locations are the two primary foci around which network ties are formed, this does not mean that learners will not develop ties across group boundaries and across different locations. Effective learning in a learning community requires that learners develop both within-group and across-group social capital 1 with people in both same and different locations. Though not stated in the original theory, the foci of activities should be perceived as having multiple levels, ranging from colocated groups at a lower level to distributed communities at a higher level. To obtain more resources and opportunities, learners need to reach beyond the local group foci and connect to the larger learning community. However, having ties with people not from the immediate foci of activities requires more time and energy <ref type="bibr" target="#b17">(Feld, 1982)</ref>. Therefore we assume that forming ties with people from other groups and other locations may not take place right away. However, if a learning community has been used as a focus to organize joint activities, more across-groupboundary, across-location network ties will be observed. Accordingly, it is proposed that:</p><p>H6a: Over time, people will become more connected with people from different groups (across-group connectedness) in instrumental networks. H6b: Over time, people will become more connected with people from different locations (across-location connectedness) in instrumental networks. H7a: Over time, people will become more connected with people from different groups (across-group connectedness) in expressive networks. H7b: Over time, people will become more connected with people from different locations (across-location connectedness) in expressive networks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design and Sample</head><p>Our data were collected from 32 students (21% female and 79% male) enrolled in a senior-level engineering class for two consecutive semesters. Students came from two universities (exactly 50% from each university) located in two different cities located 70 miles apart. Students attended lectures cotaught by professors from both universities via a coded audio/video system. Professors from both universities took turns leading the lectures, and each project group was assigned a faculty member as its leading mentor. Students were given high-end laptop computers with access to the campus wireless network for the entire academic year. Students were randomly assigned to one of five project teams to design thermal protection systems for a next generation reusable launch vehicle (space shuttle). Each team had around six to seven students, half from University A and half from University B. A special distributed-learning support system was deployed to facilitate communications among students from both universities. The system supported e-mails, instant messaging, group discussion, document sharing, and other functions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Instrumental and Expressive Relationships. Students were given a complete roster of all students enrolled in the distance learning class from both universities. The instrumental network relationships were measured by asking students to report their frequency of task-related communication with other students in the class during a typical week. Students were also asked to indicate their expressive network relationships by the frequency of non-task-related communication. Students were surveyed twice during the academic year about each type of network relationships. The first round of data collection took place midway through the fall semester. The second round of data collection took place at mid-semester in the spring of the same academic year. Based on the data collected from the two types of networks, measures of within-and across-group connectedness were derived by summing up a person's total frequency of communication with people either within or across groups.</p><p>Previous research has used proportions to evaluate network connectedness <ref type="bibr" target="#b30">(Ibarra, 1992)</ref>. We prefer to use valued network data because dichotomizing networks ties into a binary representation of presence versus absence of ties does not make full use of the richness of data. 2 A person who communicates with his or her team members 60 times per week is more connected to the team than a person who communicates only 2 times per week. Given our sample size and that students had opportunities to interact with each other for a whole year, network size could not be used as an indicator of social capital, out of the concern that the measure would not be sensitive enough to capture the variances among subjects. In addition, empirically using network size is equivalent to using proportions, which, as discussed earlier, cannot make a full use of the richness of our data. Nodal centrality was also not used as an indicator of social capital, because nodal centralities are calculated based on the whole network <ref type="bibr" target="#b66">(Wasserman &amp; Faust, 1994)</ref>, and our research interests focused more on subnetworks that were subdivided by (a) locations and (b) groups.</p><p>To deal with possible biases in the self-reported data regarding how often students communicated with each other, the matrices were symmetrized using the average option in UCINET prior to summation. The procedure created a symmetric matrix of the frequency of communication between two actors by averaging the responses from both parties involved. For instance, if person A reported communicating with person B 4 times a week, and person B reported communicating with person A 8 times a week, the average frequency of communication between A and B would be 6. This number was saved in the final communication matrix that was used for hypothesis testing.</p><p>The technical procedures for obtaining these measures from UCINET 6.0 <ref type="bibr" target="#b7">(Borgatti et al., 2002)</ref> are presented in the Appendix. Within-and across-group connectedness scores were calculated for (a) both the fall and the spring semesters of the 2003-2004 academic year, and (b) for both the instrumental and expressive networks. Following a similar strategy, we measured the level of within-and across-location connectedness by summing up a person's frequency of communication with people of the same and different universities for both semesters and for both types of networks.</p><p>Multiplexity of Network Ties. Multiplexity of network ties was measured by calculating the level of correlation between instrumental and expressive network ties at a given point in time. The study yielded two multiplexity measures, one for the fall semester of 2003 and one for the spring semester of 2004. Large correlation scores implied a high level of overlap in network ties.</p><p>Performance Performance was measured using the students' fall and spring semester final grades. The mean final score for the 2003 fall semester was 86.71 (SD = 6.32), and the average final score for the 2004 spring semester was 89.27 (SD = 7.25).</p><p>Descriptive statistics and correlations of all the research variables for the 2003 fall semester are reported in Table <ref type="table" target="#tab_1">1</ref>, and those for the 2004 spring semester are reported in Table <ref type="table" target="#tab_2">2</ref>.</p><p>Visual presentations of both instrumental and expressive networks for both semesters are presented in Figures <ref type="figure">1</ref> and<ref type="figure">2</ref>. In particular, Figure <ref type="figure">1a</ref>   and Figure <ref type="figure">2b</ref> the expressive network, for the 2004 spring semester. For all these figures, subjects were grouped by project teams and by locations. Those from University A were aligned on the upper portion of these figures, and those from University B were aligned on the lower portion of the figures. Members of the same group were represented using the same shapes; for example, members of Group 1 were represented by squares, Group 2 by up triangles, Group 3 by circles, Group 4 by down triangles, and Group 5 by diamonds. The lines among the nodes represent paths of communication. For both the 2003 fall semester and the 2004 spring semester, instrumental and expressive networks demonstrated clear differences in network tie patterns. In the instrumental networks, networks ties were clustered by location, as well as by group assignments. In the expressive networks, however, the ties were clustered by location only. Further tests were conducted to examine whether the differences observed in the visual maps were statistically significant or not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Hypothesis 1 predicted that multiplexity of network ties would increase over time. To test this hypothesis, pairedsamples t-tests were run to examine whether the change in the overlap of network ties was significant over time because the data were repeated measures of the same subjects from two different time points <ref type="bibr" target="#b49">(Norusis, 2004)</ref>. The mean observed network overlap for the 2003 fall semester was .40 (SD = .30), and for the 2004 spring semester it was .43 (SD = .32). Results of paired-samples t-test showed that although multiplexity of ties actually increased overtime t(31) = .44, p = .66 (one-tailed), the increase was not statistically significant. Hypothesis 1 was therefore not supported. The results of paired-samples t-tests for Hypothesis 1, as well as others, are summarized in Table <ref type="table" target="#tab_3">3</ref>. Hypothesis 2 predicted that multiplexity of network ties would have a positive impact on performance. To test this hypothesis, we regressed fall and spring semester final grades on network multiplexity. Results showed that the impact was not significant for either the 2003 fall semester (β = .25, t = 1.42, p = .16), or the 2004 spring semester (β = .06, t = 1.42, p = .16). Therefore, hypothesis 2 was not supported.</p><p>Hypotheses 3(a) through 5(b) examined both the main effects and the interaction effects of group membership and location on the formation of within-and across-group ties in both (a) instrumental and (b) expressive networks. These hypotheses were tested simultaneously using the multiple regression QAP (MRQAP) analysis in UCINET <ref type="bibr" target="#b7">(Borgatti et al., 2002)</ref>. First of all, using UCINET 6.0, a proximity matrix was created for each of the two attribute variables of an actor, that is, group affiliation and location. The procedure created two binary matrices, in which a value of 1 represents that the two nodes were either (a) in the same group (group matrix) or (b) at the same location (location matrix), and a value of 0 denotes the opposite. Multiplying the two binary matrices, a third matrix was created to capture the interaction effect between group assignment and location. The instrumental and expressive communication networks were then regressed on the three predictor matrices to evaluate both the main effects and the interaction effects of group assignment and location on the formation of ties. This MRQAP analysis was carried out on both the fall and the spring semester network data. The results are summarized in Table <ref type="table" target="#tab_4">4</ref>. Hypothesis 3(a) predicted higher within-group connectedness in comparison to across-group connectedness in instrumental networks. The standardized regression coefficient for the impact of group assignment was .50 ( p &lt; .05) for the fall semester, and .47 ( p &lt; .05) for the spring semester. Therefore, hypothesis 3(a) was supported. Hypothesis 3(b) predicted higher within-group connectedness in comparison to across-group connectedness in expressive networks as well. The standardized regression coefficient for the impact of group assignment on expressive communication was .06 ( p &gt; .05) for the fall semester, and .04 ( p &gt; .05) for the spring semester. Therefore, hypothesis 3(b) was not supported.</p><p>Hypothesis 4(a) predicted higher within-location connectedness in comparison to across-location connectedness in instrumental network relationships. The standardized regression coefficient for the impact of location on instrumental relations was .19 ( p &lt; .05) for the fall semester, and .11 ( p &lt; .05) for the spring semester. Therefore, hypothesis 4(a) was supported. Hypothesis 4(b) predicted higher within-location connectedness in comparison to across-location connectedness in expressive networks as well. The standardized regression coefficient for the impact of location on expressive communication was .22 ( p &lt; .05) for both the fall and the spring semesters. Therefore, hypothesis 4(b) was also supported.</p><p>Hypothesis 5(a) and 5(b) predicted an interaction effect between group assignment and location on the formation of instrumental and expressive relations respectively. The MRQAP analysis showed no significant interaction effects for either type of network relation, or for either semester. Therefore, hypothesis 5(a) and 5(b) were rejected. When all three predictor matrices were included in the regression analysis, R 2 (the proportion of the variance explained by the predictor variables) was .27 for instrumental networks for both the fall and the spring semesters, and .05 for expressive relations for both semesters. 3  Hypothesis 6(a) predicted that across-group connectedness would increase over time in instrumental networks. However, counter to our prediction, the mean across-group connectedness dropped from the fall semester (M = 12.59, SD = 10.22) to the spring semester (M = 10.48, SD = 7.00). Paired sample t-test showed that the decrease was not statistically significant, t (31) = -.99, p = .33 (onetailed). Thus, hypothesis 6(a) was not supported. Hypothesis 6(b) predicted that across-location connectedness in instrumental relationships would increase over time. Descriptive statistic showed that across-location connectedness increased from the fall semester (M = 10.53, SD = 3.60) to the spring semester (M = 13.08, SD = 6.94). Paired-samples t-test showed that the increase was significant, t(31) = 1.74, p &lt; .05 (one-tailed). Thus, hypothesis 6(b) was supported.</p><p>Hypothesis 7(a) predicted that across-group connectedness would increase over time in expressive networks. As predicted, the mean across-group connectedness increased from the fall semester (M = 22.88, SD = 22.74) to the spring semester (M = 24.02, SD = 23.71). However, paired-samples t-test showed that the increase was not statistically significant, t(31) = .44, p = .66 (one-tailed). Therefore hypothesis 7(a) was not supported. Hypothesis 7(b) predicted that across-location connectedness in expressive relationships would increase over time. Counter to our prediction, the mean across-location connectedness in expressive relationships actually decreased from the fall semester (M = 2.13, SD = 2.58) to the spring semester (M = 2.02, SD = 2.89), although the decrease was not statistically significant, t (31) = -.17, p = .87 (one-tailed). Thus, hypothesis 7(b) was not supported either. The results of paired-samples t-tests for hypotheses 6(a)-7(b), along with hypotheses 1, are summarized in Table <ref type="table" target="#tab_3">3</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This study examined the development of social capital in a distributed learning community. The issue is important because learning is essentially a social activity <ref type="bibr" target="#b19">(Gay &amp; Hembrooke, 2004;</ref><ref type="bibr" target="#b38">Lave &amp; Wenger, 1991;</ref><ref type="bibr" target="#b71">Wenger, 2000)</ref>. Wherever it happens-be it in classrooms or business organizations-it is shaped by social interactions among members belonging to a learning community. Haythornthwaite's ( <ref type="formula">2001</ref>) case study of patterns of social interactions in a distance learning class remains one of the most comprehensive studies on the topic. Her analysis was limited, however, in the sense that it focused mainly on the impact of group assignments on the development of social capital. She studied a completely distributed learning community, although students had opportunities to meet face-to-face occasionally during the semester. In the absence of a completely colocated community as a comparison, the impact of location on the formation of network ties was left unexplored since everyone in such a community faced the same geographic constraints. Statistically, studying a completely distributed or colocated community solely is equivalent to transforming distributedness from a variable to a constant. As a result, the impact of location becomes minimized or hidden. Such a research design may ignore the impact of location completely, even when the research is dealing with partially distributed communities. As shown in our research, location exerted an even stronger impact than group membership did on the formation of network ties in partially distributed groups, although we failed to observe an increase in across-location instrumental and expressive network ties over time. The specific findings will be discussed in greater detail later. Suffice it to say here, we believe that the impact of location or geographic separation is very important for the formation of network ties in distributed learning communities because it is the location or geographic separation that makes a "distributed" learning community distributed. Feld's theory of focused choice <ref type="bibr" target="#b16">(Feld, 1981</ref><ref type="bibr" target="#b17">(Feld, , 1982</ref><ref type="bibr" target="#b18">(Feld, , 1997</ref>) provides us with a sound theoretical framework to explain why geographical location and group assignment can influence the development of social capital in distributed learning communities. The theory states that although people have the agency to choose their social contacts, such choices are constrained by the foci of activities. Geographic location can serve as a focus of activity because it provides a common place for people to meet regularly. Group assignment can fill a similar function because it provides interactive opportunities for members working on a common task.</p><p>To test Feld's theory, we proposed to use multiple networks with data from two different points in time. The use of multiple networks is important because networks of different contents may possess very different properties <ref type="bibr" target="#b11">(Burt, 1997;</ref><ref type="bibr" target="#b50">Podolny &amp; Baron, 1997)</ref>. Following <ref type="bibr" target="#b30">Ibarra's (1992)</ref> classification framework, we made a distinction between two types of networks, task-related instrumental ties and non-tasked-related expressive ties. We then examined the impact of group assignment and location on the development of social capital in these two types of networks both separately and jointly. While different types of networks are fundamentally different on some levels, one would assume that they do share commonalities on other levels. Multiplexity of ties can occur especially when interactions are frequent and long-term. For this reason, we collected longitudinal data to examine the development of social capital and the evolution of network multiplexity over time.</p><p>Our sample consisted of 32 students from two universities enrolled in a senior engineering design class. In spite of the use of a student sample, the results of our research can be generalized not only to other partially distributed distance learning classes, but also possibly to partially distributed teams in real organizations. As long as the student sample and the research setting share sufficient similarities with the targeted population and the phenomena under investigation, the generalizability of research results is not an issue <ref type="bibr" target="#b61">(Shapiro, 2002)</ref>. Different from many other experimental studies using college students, students participating in the current study had to work on a very complicated task-designing a thermal protection system for a next generation reusable space shuttle-over two semesters. We believe that the task was sufficiently challenging to create an interactive dynamic that resembled tasks performed in real organizations. However, we recognize that without comparable control conditions of either a co located or completely distributed group, results relevant to the impact of location on the formation of network ties may not be conclusive.</p><p>Despite the small sample size, the results showed strong support for the theory of focused choice. Group assignment had a significant impact on the development of social capital in instrumental relationships. To be more specific, we found that people in general were more connected with people of the same group than with those of other groups in instrumental relations, and the results were consistent for both data collection points. However, counter to our prediction, group assignment did not have a significant impact on the development of social capital in expressive networks. Instead, the results indicated that across-group connectedness in expressive networks was actually higher than within-group connectedness for both semesters. The results were related to the impact of geographic location, and supported the theory of focused choice; people were more connected with others from the same location than from a different location in both instrumental and expressive relationships. In this instance, the results were significant for both time periods.</p><p>As mentioned before, building learning communities to facilitate collective learning has become a topic of considerable research interest in recent educational (e.g., <ref type="bibr" target="#b5">Barab et al., 2004</ref>) and organizational research (e.g., <ref type="bibr" target="#b9">Brown &amp; Duguid, 2000;</ref><ref type="bibr" target="#b37">Lant, 1999)</ref>. However, to what extent an actualized learning community can be formed is still an open question. <ref type="bibr" target="#b69">Wellman (1999)</ref> maintains that a community in general can become separated from geography when it is activity-driven, and viewed as what people do together; the community is the activity itself, not where or how the activity is done. Following this logic, we predicted that an actualized learning community should reach beyond group and geographic separations, and that we would not witness significant differences between within-group and across-group ties, or differences between within-location and across-location ties. Furthermore, we proposed that over time, more across-group, across-location ties would emerge. However, counter to our expectations, only acrosslocation connectedness in instrumental networks showed significant growth over time. The increase in across-group connectedness in expressive network relations was not significant. Decreases were observed in both across-group connectedness in instrumental relations and acrosslocation connectedness in expressive relations. Combining the results together, we suggest that while group assignment and geographic separation can function to organize and foster group cohesiveness, they can also work to fragment a learning community, creating boundaries that resist the development of an actualized community. Shortly we will discuss the dual nature of these foci as an extension of Feld's theory of focused choice.</p><p>The inhibited development of actualized learning communities can also be seen in our failure to find significant support for an effect of network multiplexity on performance. Furthermore, the lack of overlap between expressive and instrumental ties did not change over time. Our original hypothesis did not make a distinction between multiplexity of ties with people of the same group versus multiplexity of ties with people of different groups, or a distinction between multiplexity of ties with people of the same location versus that of different location. Post hoc analysis showed that multiplexity of network ties with people of the same group did have a significant impact on performance (β = .39, t = 2.35, p = .03). This finding suggests that the quality of across-group relationships did not matter for performance, and reaching out to the larger community was of less importance. A caveat to this observation, however, is that the importance of reaching beyond the boundaries of one's own group and/or location may be dependent upon the nature of the group activities or tasks. Collaboration on a group project may have reduced the incentive to reach beyond one's own boundaries because the tasks were not interdependent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Foci as Constraints and Agents of Change</head><p>One interesting finding that emerged was the dual nature of the foci of activities on the development of individual social capital and a sense of belonging to a learning community. We found that in the initial stage group membership and location functioned as an organizing force for the development of individual social capital in this partially distributed learning community. We were hopeful that over time people could develop ties that reach beyond their groups and their physical locations. Yet over the term of 1 year, students were still primarily connected with those from the same location and same group in both expressive and instrumental relations. The interesting question then becomes, under what conditions will the foci of activities facilitate development of ties to help build a learning community, and under what conditions will they curb the development of ties and fragment a learning community?</p><p>It seems to us that part of the explanation for this is directly related to the number of foci of activities engaged in by learning community. Using location as an example, in a completely colocated learning community, the single location will definitely serve as a central factor in organizing the formation of ties and a learning community. In partially colocated/distributed learning communities, the addition of even just one more location (as in our case) will create the duality phenomena. That is, the foci of activities will first facilitate the development of individual social capital and a collective sense of belonging to the learning community, but in the long run, the diverse locations can also function as competing foci, fragmenting the ties and the learning community. However, as the number of additional locations increases to the point where location ceases to become a focus of activities, the fragmenting influence of location will decrease. In completely distributed learning communities where no person is in the same location, people will cease to refer to physical proximity as one of the major causes for the development of ties. The same logic can be applied to the number of groups as a focus of activity. It seems to us that there may be a "tipping point" whereby increasing the number of groups serves to blur the boundaries between membership and nonmembership. As these boundaries become less well defined, choices in network ties may become less constrained. As choices become less constrained by foci, the diversity of ties and "cross-pollination" among groups should increase, making community development possible. The transition from organization to fragmentation and the development of a new structure from the interaction among the parts might be explained as a process of moving from stability or order, in the sense that the foci of activities serve to facilitate group cohesion and performance, to entropy or disorder, which in the present case results in the extension of the groups to exclude the larger community. Similar to other dynamic and nonlinear systems, the evolution of social networks may be highly sensitive to changes in the initial conditions such that even slight changes will result in significant consequences for or changes to the social structure <ref type="bibr" target="#b43">(Lorenz, 1963)</ref>. We believe that this is an important issue that is worthy of more research attention and caution when multiple foci of activities are available in a learning community, including multiple locations, multiple groups, multiple events, multiple leaders, etc. A systems' theory approach for studying the resulting variability in social networks over time is an exciting future direction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>There are two major limitations of the current research. First, the sample size of the current study is small. Some of our research findings might have been significant had the sample size been larger. Second, the current research examines the impact of location and group membership on the formation of network ties only in partially distributed learning communities. It was difficult to find either colocated or completely distributed groups that worked on comparable projects to serve as the control conditions for the current research. Without including either type of learning community in the research, the results obtained here regarding the impact of location on the formation of network ties may not be conclusive.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Directions for Future Research</head><p>There are several issues that we want to explore further in future research. First, social capital is in essence a multilevel concept (Putnam, 1998 4 ; Wellman, 1998 5 ; Yuan,  2004), varying from individual social capital to collective social capital. Individual social capital refers to network resources that will benefit a particular person. Collective social capital focuses on network resources that will benefit a whole group or a community. In our research, due to the limitation of sample size (32 people in five groups), we were not able to investigate how collective social capital at either the group level or the learning community level influences learning over time. The main research focus was on how the development of individual social capital facilitates learning in a distributed learning environment. Future research should also look into how collective social capital influences distributed learning upon availability of larger sample sizes, particularly at the group level.</p><p>In addition, <ref type="bibr" target="#b42">Lin (2001)</ref> proposes that the level of resources embedded in social capital is influenced not only by the strength of ties, but also by the level of resources that a node's contacts have. In this research, we mainly focused on the number and the strength of network ties when evaluating the level of development of individual social capital. Future research should consider weighting the number and strength of ties with the level of resources that the contacts have. A person enjoys more social capital when that person is connected with the resource-rich rather than with the resource-poor.</p><p>Finally, in our research, we studied the development of social capital in a distributed learning community supported by information technologies. Our research shows that the development of social ties is largely constrained by the two exogenous factors we studied, location and group assignment,and that these two factors can either facilitate or curb the development of an actualized learning community. However, as group assignment and locations are oftentimes determined by other external constraints such as design requirements, deadlines, and expertise, to manipulate the development of social capital by changing or altering group assignment and geographic locations is sometimes not feasible. To improve work collaboration and collective learning, future research should explore the design and implementation of intervention programs or group decision support systems in order to encourage group members to reach beyond group and location boundaries, and to foster social capital in both instrumental and expressive networks. <ref type="bibr" target="#b52">Preece (2000)</ref>, and <ref type="bibr" target="#b5">Barab, Kling, and Gray (2004)</ref> observed that many existing group decision support systems focus too much on issues related to the usability rather than the sociability of the technology. As a result, these systems have become mere platforms for information exchange, and do not necessarily support the development of social interactions, common values, and trust that are instrumental for community building <ref type="bibr" target="#b52">(Preece, 2000)</ref>. Designing sociable information systems in support of community building is an issue that warrants more research attention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>During the past several decades, we have witnessed a dramatic increase in the use of distributed work groups, both in organizations and educational contexts. However, attenuated by geographic distribution, work coordination and collaboration in distributed teams can be problematic <ref type="bibr" target="#b13">(Cho et al., 2002;</ref><ref type="bibr" target="#b39">Lee et al., 2003)</ref> In our research, we studied the development of social capital in a distributed learning community supported by information technologies. Our research shows that the development of social ties was largely constrained by two exogenous factors, location and group assignment. Geographic location had a significant impact on the formation of both instrumental and expressive relationships, while group assignment only influenced the development of instrumental ties. There is no doubt that in many instances, for certain design teams, the kind of work or product that needs to be delivered might benefit from strong camaraderie or team cohesiveness. Under these circumstances, the instrumental network might be more productive, creative, or efficient if the expressive network within the group is similarly cohesive. Greater work productivity would be expected when instrumental and expressive network relationships overlap with each other, and when group boundaries and geographic distance cease to fragment the large community into small cliques. Future research should examine these variables and their interactions more systematically to determine their relative contribution to both the development of social capital and productivity within and across design groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NOTES</head><p>1. Some scholars of social capital tend to use "bonding" social capital to refer to ties within group and "bridging" social capital to refer to ties across groups. According to <ref type="bibr" target="#b20">Gittell and Vidal (1998)</ref>, who coined the terms, such use of terminology is confusing because bonding social capital is "the type that brings closer together people who already know each other" (p. 15), and bridging social capital is "the type that brings together people or groups who previously did not know each other" (p. 15). Thus intragroup ties can be both bonding and bridging. This also is the case with inter group ties. Therefore we choose not to use bonding and bridging social capital, to avoid unnecessary confusions. The impact of bonding and bridging social capital on distributed learning is reported in a separate paper.</p><p>2. For the same reason, we did not use MultiNet p * model to analyze our data because p * requires a binary dependent variable (presence vs. absence of ties).</p><p>3. The R 2 for network MRQAP analysis is usually very small. 4. See Putnam's posts on the origins of the term "social capital" in a 1998 SOCNET discussion edited by Stephen <ref type="bibr" target="#b6">Borgatti (1998)</ref>.</p><p>5. See Wellman's posts on the origin of the term "social capital" in a 1998 SOCNET discussion edited by Stephen <ref type="bibr" target="#b6">Borgatti (1998)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>depicts the instrumental network, and Figure 1b the expressive network, for the 2003 fall semester; Figure 2a depicts the instrumental network</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>FIG. 1. !, Group 1; %, Group 2; #, Group 3; &amp;, Group 4; ∀, Group 5. The vertical locations correspond to physical locations, with those students from University A at the top of the figures, and those from University B at the bottom. The nodes in the network denote individuals and the shape of the nodes indicate group membership. The lines denote a path of communication between two nodes.</figDesc><graphic coords="9,52.13,249.56,248.53,148.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>FIG. 2. Symbols and layout as forFigure 1.</figDesc><graphic coords="9,312.52,247.58,251.04,150.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1</head><label>1</label><figDesc>Descriptive statistics and correlations for the semester of fall 2003</figDesc><table><row><cell></cell><cell>1.</cell><cell>2.</cell><cell>3.</cell><cell>4.</cell><cell>5.</cell><cell>6.</cell><cell>7.</cell><cell>8.</cell><cell>9.</cell><cell>10.</cell></row><row><cell></cell><cell>Network</cell><cell>Fall03</cell><cell>Within-</cell><cell>Within-</cell><cell>Within-</cell><cell>Within-</cell><cell>Across-</cell><cell>Across-</cell><cell>Across-</cell><cell>Across-</cell></row><row><cell></cell><cell>multiplexity</cell><cell>final</cell><cell>group</cell><cell>group</cell><cell>location</cell><cell>location</cell><cell>group (Ins)</cell><cell>group (Exp)</cell><cell>location (Ins)</cell><cell>location (Exp)</cell></row><row><cell>Variables</cell><cell></cell><cell>grade</cell><cell>(Ins)</cell><cell>(Exp)</cell><cell>(Ins)</cell><cell>(Exp)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1.</cell><cell>-</cell><cell>.25</cell><cell>.12</cell><cell>.21</cell><cell>.29</cell><cell>-.18</cell><cell>.25</cell><cell>-.24</cell><cell>.08</cell><cell>.09</cell></row><row><cell>2.</cell><cell></cell><cell>-</cell><cell>.37</cell><cell>.31</cell><cell>.12</cell><cell>-.09</cell><cell>-.04</cell><cell>-.18</cell><cell>.15</cell><cell>.08</cell></row><row><cell>3.</cell><cell></cell><cell></cell><cell>-</cell><cell>.44</cell><cell>.43</cell><cell>.04</cell><cell>.04</cell><cell>-.05</cell><cell>.51</cell><cell>.38</cell></row><row><cell>4.</cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.32</cell><cell>.26</cell><cell>.02</cell><cell>-.02</cell><cell>-.14</cell><cell>.23</cell></row><row><cell>5.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.33</cell><cell>.88</cell><cell>.26</cell><cell>.33</cell><cell>.24</cell></row><row><cell>6.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.35</cell><cell>.95</cell><cell>.13</cell><cell>.13</cell></row><row><cell>7.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.37</cell><cell>.40</cell><cell>.14</cell></row><row><cell>8.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.22</cell><cell>.18</cell></row><row><cell>9.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.35</cell></row><row><cell>10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell></row><row><cell>Mean</cell><cell>0.40</cell><cell cols="2">86.71 17.97</cell><cell cols="2">8.13 20.03</cell><cell>28.88</cell><cell>12.59</cell><cell>22.88</cell><cell>10.53</cell><cell>2.13</cell></row><row><cell>Std. Deviation</cell><cell>0.30</cell><cell>6.32</cell><cell>5.83</cell><cell cols="2">7.06 10.28</cell><cell>23.20</cell><cell>10.22</cell><cell>22.74</cell><cell>3.60</cell><cell>2.58</cell></row></table><note><p>Note. Ins, instrumental; Exp, expressive.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2</head><label>2</label><figDesc>Descriptive statistics and correlations for the semester of spring 2004</figDesc><table><row><cell></cell><cell>1.</cell><cell>2.</cell><cell>3.</cell><cell>4.</cell><cell>5.</cell><cell>6.</cell><cell>7.</cell><cell>8.</cell><cell>9.</cell><cell>10.</cell></row><row><cell></cell><cell>Network</cell><cell>Spring</cell><cell>Within-</cell><cell>Within-</cell><cell>Within-</cell><cell>Within-</cell><cell>Across-</cell><cell>Across-</cell><cell>Across-</cell><cell>Across-</cell></row><row><cell></cell><cell>multiplexity</cell><cell>04 final</cell><cell>group</cell><cell>group</cell><cell>location</cell><cell>location</cell><cell>group</cell><cell>group</cell><cell>location</cell><cell>location</cell></row><row><cell>Variables</cell><cell></cell><cell>grade</cell><cell>(Ins)</cell><cell>(Exp)</cell><cell>(Ins)</cell><cell>(Exp)</cell><cell>(Ins)</cell><cell>(Exp)</cell><cell>(Ins)</cell><cell>(Exp)</cell></row><row><cell>1.</cell><cell>-</cell><cell>.06</cell><cell>-.13</cell><cell>.18</cell><cell>.19</cell><cell>.04</cell><cell>.30</cell><cell>.00</cell><cell>-.33</cell><cell>-.04</cell></row><row><cell>2.</cell><cell></cell><cell>-</cell><cell>-.02</cell><cell>.18</cell><cell>.22</cell><cell>-.05</cell><cell>.25</cell><cell>-.14</cell><cell>-.17</cell><cell>-.10</cell></row><row><cell>3.</cell><cell></cell><cell></cell><cell>-</cell><cell>.47</cell><cell>.80</cell><cell>.77</cell><cell>.51</cell><cell>.73</cell><cell>.81</cell><cell>.25</cell></row><row><cell>4.</cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.67</cell><cell>.58</cell><cell>.29</cell><cell>.34</cell><cell>.02</cell><cell>.61</cell></row><row><cell>5.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.85</cell><cell>.81</cell><cell>.75</cell><cell>.44</cell><cell>.34</cell></row><row><cell>6.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.65</cell><cell>.96</cell><cell>.54</cell><cell>.50</cell></row><row><cell>7.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.65</cell><cell>.40</cell><cell>.09</cell></row><row><cell>8.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.62</cell><cell>.42</cell></row><row><cell>9.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.10</cell></row><row><cell>10.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell></row><row><cell>Mean</cell><cell>.43</cell><cell>89.27</cell><cell cols="2">23.83 8.31</cell><cell>21.55</cell><cell cols="2">30.72 10.48</cell><cell>24.02</cell><cell>13.08</cell><cell>2.02</cell></row><row><cell>Std. Deviation</cell><cell>.32</cell><cell>7.25</cell><cell cols="2">11.88 8.64</cell><cell>12.66</cell><cell>26.92</cell><cell>7.00</cell><cell>23.71</cell><cell>6.94</cell><cell>2.89</cell></row></table><note><p>Note. Ins, instrumental; Exp, expressive.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 3</head><label>3</label><figDesc>Summary of results from paired-samples t-tests</figDesc><table><row><cell cols="2">Paired differences</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Significance</cell></row><row><cell>Mean Mean</cell><cell>SD</cell><cell>t</cell><cell>df</cell><cell>(1-tailed)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 4</head><label>4</label><figDesc>Summary of UCINET QAP analysis</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Fall 2003</cell><cell></cell><cell></cell><cell cols="2">Spring 2004</cell><cell></cell></row><row><cell></cell><cell cols="2">Instrumental network</cell><cell cols="2">Expressive network</cell><cell cols="2">Instrumental network</cell><cell cols="2">Expressive network</cell></row><row><cell></cell><cell>Standardized β</cell><cell>p</cell><cell>Standardized β</cell><cell>p</cell><cell>Standardized β</cell><cell>p</cell><cell>Standardized β</cell><cell>p</cell></row><row><cell>Group assignment</cell><cell>.50</cell><cell>&lt;.05</cell><cell>.06</cell><cell>&gt;.05</cell><cell>.47</cell><cell>&lt;.05</cell><cell>.04</cell><cell>&gt;.05</cell></row><row><cell>Location</cell><cell>.19</cell><cell>&lt;.05</cell><cell>.22</cell><cell>&lt;.05</cell><cell>.11</cell><cell>&lt;.05</cell><cell>.22</cell><cell>&lt;.05</cell></row><row><cell>Interaction effect</cell><cell>.002</cell><cell>&gt;.05</cell><cell>.02</cell><cell>&gt;.05</cell><cell>.06</cell><cell>&gt;.05</cell><cell>.03</cell><cell>&gt;.05</cell></row><row><cell>R 2</cell><cell>.27</cell><cell></cell><cell>.05</cell><cell></cell><cell>.27</cell><cell></cell><cell>.05</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>This research was supported by a <rs type="funder">NASA</rs> research grant (<rs type="grantNumber">NASA/NYS 3533168</rs>). The authors thank <rs type="person">Barry Davidson</rs> and <rs type="person">Tony Ingraffea</rs> for their work on the design and data collection in this project.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ybZncQe">
+					<idno type="grant-number">NASA/NYS 3533168</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX</head><p>To Obtain Measures of Connectedness With People of the Same Group (Location)</p><p>Step 1. Using UCINET 6.0, a proximity matrix was created for each of the two attribute variables of an actor, that is, group affiliation and location. In the group proximity matrix, a number of 1 in row 3 and column 5 means that Actor 3 and Actor 5 were in the same group. In the location proximity matrix, a number of 1 in row 3 and column 5 means that Actor 3 and Actor 5 were at the same university (location).</p><p>Step 2. Multiply the specific proximity matrix with respective instrumental and expressive network matrices. The diagonal of the resulting matrix represents within-group (location) connectedness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>To Obtain Measures of Connectedness With People of the Different Group (Location)</head><p>Step 1. Same as already given.</p><p>Step 2. Reverse-code the cogroup (location) matrix and then multiply the reverse-coded matrix with instrumental and expressive network matrices. The diagonal of the resulting matrix represents across-group (location) connectedness.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social capital: Prospects for a new concept</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="40" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Managing the flow of technology</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Allen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Organizational learning: Creating, retaining, and transferring knowledge</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Argote</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Kluwer Academic</publisher>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Managing distances and differences in geographically distributed work groups</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Distributed work</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hinds</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kiesler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="167" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Small groups as complex systems: Formation, coordination, development and adaptation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Berdahl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Introduction: Designing for virtual communities in the service of learning</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Barab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Designing for virtual communities in the service of learning</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Barab</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Kling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Gray</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="3" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A SOCNET discussion on the origins of the term &quot;social capital</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Borgatti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Connections</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Borgatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Everett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Freeman</surname></persName>
+		</author>
+		<idno>UCINET 6.0</idno>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Analytic Technologies</publisher>
+			<pubPlace>Natick, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The forms of capital</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdieu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of theory and research for the sociology of education</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Greenwood</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="241" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Organizational learning and communities-of-practice: Toward a unified view of working, learning and innovation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Duguid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Strategic learning in a knowledge economy: Individual, collective, and organizational learning process</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cross</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Israelit</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Woburn, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Butterworth-Heinemann</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="143" to="165" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Structural holes: The social structure of competition</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A note on social capital and network content</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="page" from="355" to="373" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Structural holes versus network closure as social capital</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social capital: Theory and research</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Aldine de Gruyter</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="31" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stefanone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gay</surname></persName>
+		</author>
+		<title level="m">Social information sharing in a CSCL community. Paper presented at the Computer Support for Collaborative Learning CSCL 2002 Conference</title>
+		<meeting><address><addrLine>Palo Alto, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Social capital in the creation of human capital</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Coleman</surname></persName>
+		</author>
+		<idno>S95-S120</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Nadel&apos;s paradox revisited: Relational and cultural aspects of organizational culture</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dimaggio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networks and organizations: Structure, form and action</title>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard Business School Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="118" to="142" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The focused organization of organizational ties</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1015" to="1035" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Structural determinants of similarity among associates</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="797" to="801" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Structural embeddedness and stability of interpersonal relations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="91" to="95" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Activity-centered design: An ecological approach to designing smart tools and usable systems</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hembrooke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Community organizing: Building social capital as a development strategy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gittell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vidal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cooperative learning communities: Context for a new vision of education and society</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Graves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Education</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="57" to="79" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Granovetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="1360" to="1380" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The strength of weak ties: A network theory revisited</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Granovetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social structure and network analysis</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Marsden</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Beverly Hills, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="106" to="130" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Does familiarity breed trust? The implications of repeated ties for contractual choice in alliances</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gulati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="112" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">So many ties, so little time: A task contingency perspective on corporate social capital</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Podolny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pfeffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in the Sociology of Organizations</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="21" to="57" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Exploring multiplexity: Social network structures in a computer-supported distance learning class</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Information Society</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="211" to="226" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Community development among distance learners: Temporal and technological dimensions</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kazmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shoemaker</surname></persName>
+		</author>
+		<ptr target="http://jcmc.indiana.edu/vol6/issue1/haythornthwaite.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2000-04-05">2000. April 5, 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Work, friendship and media use for information exchange in a networked organization</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haythornthwaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of American Society for Information Science</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1101" to="1104" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Out of sight, out of sync: Understanding conflict in distributed teams</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hinds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="615" to="632" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Homophily and differential returns: Sex differences in network structure and access in an advertising firm</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ibarra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="422" to="447" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Race, opportunity, and diversity of social circles in managerial networks</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ibarra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="673" to="703" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Power, social influence, and sense making: Effects of network centrality and proximity on employee perceptions</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ibarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="277" to="303" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Editors&apos; introduction to situated cognition: Social, semiotic, and psychological perspectives</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kirshner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Whitson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Situated cognition: Social, semiotic, and psychological perspectives</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Kirshner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Whitson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Group behavior and learning in electronic forums. In Designing for virtual communities in the service of learning</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Courtright</surname></persName>
+		</author>
+		<editor>S. A. Barab, R. Kling, and J. H. Gray</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="91" to="119" />
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Scholarly networks as learning communities: The case of technet. In Designing for virtual communities in the service of learning</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Koku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<editor>S. A. Barab, R. Kling, and J. H. Gray</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="299" to="337" />
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The strength of strong ties: The importance of philos in organizations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Krackhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networks and organizations: Structure, form and action</title>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard Business School Express</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="216" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A situated learning perspective on the emergence of knowledge and identity in cognitive communities</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Lant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Management Cognition and Organizational Information Processing</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="171" to="194" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Situated learning: Legitimate peripheral participation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wenger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Technology acceptance and social networking in distance learning</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ingraffea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Technology &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="50" to="61" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Communities of practice, social capital and organizational knowledge</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Prusak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Knowledge and communities</title>
+		<editor>
+			<persName><forename type="first">.</forename><forename type="middle">E</forename><surname>Lesser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fontaine</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slusher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Butterworth-Heinemann</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="123" to="131" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Social resources: A theory of social capital</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revue Francaise de Sociologie</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="685" to="704" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Building a network theory of social capital</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social capital: Theory and research</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Aldine de Gruyter</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="3" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Deterministic nonperiodic flows</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Lorenz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Atmospheric Science</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="130" to="141" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Network diversity, substructure and opportunity for contact</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Marsden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Structures of power and constraint: Papers in honor of Peter Blau</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="397" to="410" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Group processes in organizational context</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Argote</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Blackwell handbook of social psychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hogg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tindale</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="603" to="627" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Birds of a feather: Homophily in social networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcpherson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smith-Lovin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">415</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Psychological approaches to social capital-Introduction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mondak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psycholog</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="433" to="439" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Social capital, intellectual capital, and the organizational advantage</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nahapiet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghoshal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="242" to="266" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Norusis</surname></persName>
+		</author>
+		<title level="m">SPSS 12.0 guide to data analysis</title>
+		<meeting><address><addrLine>Upper Saddle River, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prentice Hall</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Resources and relationships: Social networks and mobility in the workplace</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Podolny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Baron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="673" to="693" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Social Capital: Its origins and applications in modern sociology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Portes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Online communities: Designing usability, supporting sociability</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Preece</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<pubPlace>Chichester, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Making democracy work: Civic traditions in modern Italy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Bowling alone: America&apos;s declining social capital</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Democracy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="65" to="78" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<title level="m">Who killed civic America? Prospect March</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="66" to="72" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Bowling alone: The collapse and revival of American community</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Simon Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Building classroom community at a distance: A case study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rovai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Technology, Research and Development</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="33" to="48" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Sense of community in a higher education television-based distance education program</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rovai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lucking</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Technology, Research and Development</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="5" to="16" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Social capital: A review and critique</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Field</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social capital: Critical perspectives</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Baron</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Field</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Schuller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="1" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">On two metaphors for learning and the dangers of choosing just one</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sfard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="4" to="13" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Generalizability in communication research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shapiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="491" to="500" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Social capital and value creation: The role of intrafirm networks</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghoshal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="464" to="476" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">The role of instrumental and expressive social ties in employees&apos; perceptions of organizational justice</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Umphress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Labianca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Brass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Kass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Scholten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="738" to="753" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The sources and consequences of embeddedness for the economic performance of organizations: The network effect</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uzzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="674" to="698" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Social structure and competition in interfirm networks: The paradox of embeddedness</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uzzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="67" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Social network analysis: Methods and applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faust</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Structural analysis: From method and metaphor to theory and substance</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social structures: A network approach</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Berkowitz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="19" to="61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Are personal communities local? A Dumptarian reconsideration</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="347" to="354" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The network community: An introduction to networks in the global village</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networks in global village</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boulder, CO</addrLine></address></meeting>
+		<imprint>
+			<publisher>Westview Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="1" to="48" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Communities of practice: Learning, meaning and identity</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wenger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Communities of practice: The key to knowledge strategy</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wenger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Knowledge and communities</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Lesser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fontaine</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slusher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Butterworth-Heinemann</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="3" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">The impact of social capital on the development of transactive memory systems</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Yuan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Southern California, CA</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Does trust matter? Exploring the effects of interorganizational and interpersonal trust on performance</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zaheer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcevily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Perrone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="159" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Face-to-face communication in an office setting: The effects of position, proximity, and exposure</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Zahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="737" to="754" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Longitudinal Study on the Effects of Parasocial Relationships and Breakups With Characters of a Health-Related TV Show on Self-Efficacy and Exercise Behavior: The Case of The Biggest Loser</title>
+				<funder>
+					<orgName type="full">Swiss National Science</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2021-09-20">2021-09-20</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Perina</forename><surname>Siegenthaler</surname></persName>
+							<email>perina.siegenthaler@unifr.ch</email>
+							<idno type="ORCID">0000-0002-9740-8461</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tanja</forename><surname>Aegerter</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andreas</forename><surname>Fahr</surname></persName>
+							<idno type="ORCID">0000-0002-8455-3045</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication and Media Research</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<addrLine>Boulevard de Pérolles 90</addrLine>
+									<postCode>1700</postCode>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Longitudinal Study on the Effects of Parasocial Relationships and Breakups With Characters of a Health-Related TV Show on Self-Efficacy and Exercise Behavior: The Case of The Biggest Loser</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Communication &amp; Sport</title>
+						<title level="j" type="abbrev">Communication &amp; Sport</title>
+						<idno type="ISSN">2167-4795</idno>
+						<idno type="eISSN">2167-4809</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="744" to="769"/>
+							<date type="published" when="2021-09-20" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">9EAE181B6DA501905EAE30B694B1B333</idno>
+					<idno type="DOI">10.1177/21674795211045039</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>parasocial relationship</term>
+					<term>parasocial breakup</term>
+					<term>self-efficacy</term>
+					<term>exercise behavior</term>
+					<term>entertainment-education</term>
+					<term>longitudinal study</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Overweight is one of the major health-related challenges in industrialized countries and mostly preventable through a healthy diet and regular engagement in physical activity. Health communication practitioners and researchers, therefore, started using the media's persuasive potential by creating entertainment-education (E-E) programs that promote healthy nutrition and exercise. By observing the characters in E-E programs, audience members can learn vicariously and eventually develop personal bonds with them. The current study investigates the effects of parasocial relationships (PSRs) with characters of a health-related E-E show, as well as the impact of parasocial breakups (PSBUs) on health-relevant outcomes. Using the setting of the show The Biggest Loser (TBL), we conducted a quasi-experimental longitudinal field study. Participants (N = 149) watched shortened episodes of the show once a week for 5 weeks. Results showed that PSRs with the reality TV characters did not increase over time and after repeated exposure. Findings furthermore suggest that PSR did not influence self-efficacy</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Fighting overweight and obesity is one of the major health-related challenges faced by societies in industrialized countries. Increased weight negatively influences the perceived quality of life <ref type="bibr" target="#b49">(Kroes et al., 2016)</ref> and increases health problems <ref type="bibr">(World Health Organization, 2020)</ref>. In light of these developments and their severe impacts, overweight and obesity are important topics to address in health communication, especially as they are mostly preventable through a healthy diet and regular engagement in physical activity <ref type="bibr">(World Health Organization, 2020)</ref>. Although people are aware of the relevance of constant exercise, they lack the motivation to perform physical activity on a regular basis <ref type="bibr" target="#b60">(Orji, 2014;</ref><ref type="bibr" target="#b61">Oyibo et al., 2018)</ref>. Therefore, health communication practitioners and researchers started using the persuasive potential of the media and, in particular, television, by creating entertainment-education (E-E) programs <ref type="bibr" target="#b57">(Moyer-Gusé, 2008;</ref><ref type="bibr" target="#b81">Singhal &amp; Rogers, 1999</ref>) that promote healthy nutrition and exercise <ref type="bibr" target="#b59">(Nabi &amp; Thomas, 2013;</ref><ref type="bibr" target="#b89">Y. Tian &amp; Yoo, 2015)</ref>.</p><p>One assumption underlying the positive effects of E-E programs is that people learn vicariously by observing models <ref type="bibr" target="#b2">(Bandura, 1986</ref><ref type="bibr" target="#b3">(Bandura, , 2001) )</ref> such as media characters. Over time and after repeated exposure, viewers might develop so-called parasocial relationships (PSRs) with those characters (R. B. <ref type="bibr" target="#b72">Rubin &amp; McHugh, 1987)</ref>. These onesided imaginary bonds are supposed to enhance attention to the information provided in the E-E message <ref type="bibr" target="#b46">(Klimmt et al., 2006)</ref>. Eventually, the desired persuasive effects of the message are increased (e.g., <ref type="bibr" target="#b40">Hoffner &amp; Cohen, 2012)</ref>. Due to the typical course of E-E TV programming, shows go off the air, and media characters are exchanged. Parasocial relationships with the media characters can, thus, come to an end which is termed as parasocial breakup (PSBU). If PSRs are meaningful and have effects on health-relevant outcomes, it can be argued that also the ending of such relationships has some impact on health-relevant outcomes. For example, previous research showed that PSBUs can lead to emotional distress (J. <ref type="bibr" target="#b12">Cohen, 2004;</ref><ref type="bibr" target="#b21">Eyal &amp; Cohen, 2006)</ref>; however, little is known about the effects of these PSBUs on health-relevant behaviors in particular. Therefore, the objective of the present study was to investigate how PSRs, as well as breakups with media characters, affect health-relevant outcomes. Studies assessing PSRs as the underlying mechanism explaining post-exposure effects have relied heavily on data obtained from cross-sectional surveys. In order to close this research gap, a longitudinal design was executed using the health-related reality TV show The Biggest Loser <ref type="bibr">(TBL)</ref> as a setting to analyze the development and effects of PSRs and breakups on efficacy perceptions and exercise behavior. We chose TBL because this reality TV show addresses the issues of overweight and obesity by promoting weight loss through physical exercise and a restrictive diet in an entertaining media format displaying ordinary people with whom the audience members can develop personal bonds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physical Exercise and Health Communication</head><p>According to the World Health Organization (WHO), overweight and obesity rates of women and men over 18 years old rise constantly. Causes for this development are lifestyles lacking exercise and physical activity, as well as unhealthy diets <ref type="bibr">(World Health Organization, 2020)</ref>. Increased weight has severe consequences on personal health. For example, obesity raises the risk of metabolic diseases like Diabetes Type II or cardiovascular disorders <ref type="bibr">(World Health Organization, 2020)</ref>. Furthermore, on an aggregated level, obesity negatively affects the economic performance of a country and substantially increases social costs <ref type="bibr" target="#b18">(Dobbs et al., 2014;</ref><ref type="bibr" target="#b51">Lehnert et al., 2013)</ref>.</p><p>Physical activity is proven to be a fundamental means to avoid or reduce overweight and obesity as well as its negative consequences. Regular exercise increases total energy expenditure, and a negative energy balance is promoted when caloric intake remains lower than energy expenditure <ref type="bibr" target="#b86">(Swift et al., 2018)</ref>. Thus, physical activity can reduce overweight and obesity levels. However, surveys show that one in four adults worldwide does not even meet the global recommendations for physical activity of 150 minutes of moderate-intensity activity per week <ref type="bibr">(World Health Organization, 2019)</ref>. Moreover, previous research found that most individuals recognize the relevance and benefits of exercising regularly. However, they lack the motivation to put these behaviors into practice <ref type="bibr" target="#b60">(Orji, 2014;</ref><ref type="bibr" target="#b61">Oyibo et al., 2018;</ref><ref type="bibr"></ref> for an overview, see, <ref type="bibr" target="#b66">Rhodes &amp; de Bruijn, 2013)</ref> and maintain regular exercise regimens <ref type="bibr" target="#b100">(Zhou &amp; Krishnan, 2019)</ref>. Therefore, the challenge of how to increase individuals' willpower to start or maintain regular physical activity is of significant interest in the area of persuasive health communication and has received attention since the 1970s <ref type="bibr" target="#b5">(Bauman et al., 2006)</ref>. Such persuasive messages may motivate recipients to reject the advice given in a health-related message because they feel as if their autonomy is threatened. In order to reduce the risk of adverse effects, health communication can be designed in a way that health and educational information is embedded in story plots, with implicit intent to persuade (L. <ref type="bibr" target="#b79">Shen et al., 2017)</ref>. Media producers and researchers, thus, develop E-E messages that promote healthy behaviors <ref type="bibr" target="#b92">(Tukachinsky &amp; Tokunaga, 2013)</ref> in order to influence and reinforce various health outcomes <ref type="bibr" target="#b57">(Moyer-Gusé, 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entertainment-Education and Parasocial Relationships</head><p>Entertainment-education programs aim at generating socially desirable effects among the audience <ref type="bibr" target="#b62">(Papa et al., 2000)</ref> by placing educational content in entertainment messages <ref type="bibr" target="#b82">(Singhal &amp; Rogers, 2002)</ref>. In health communication contexts, these formats embed health issues into programs to influence audiences' knowledge, beliefs, attitudes, or behaviors with respect to the specific health-related topic <ref type="bibr" target="#b59">(Nabi &amp; Thomas, 2013)</ref>. The persuasive intent is inherent in these programs <ref type="bibr" target="#b6">(Behm-Morawitz et al., 2017)</ref>, but storylines are added for their "dramatic appeal" <ref type="bibr">(Moyer-Gusé, 2008, p. 409)</ref> in order to become attractive to the target audience. In this way, E-E programs can reach a broad audience, particularly people who do not actively seek health information themselves <ref type="bibr" target="#b25">(Fromm et al., 2011)</ref>.</p><p>One assumption underlying the positive effects of E-E is that the audience learns information about healthy practices through the media characters, which should eventually lead to improved behavior <ref type="bibr" target="#b59">(Nabi &amp; Thomas, 2013)</ref>. This reasoning is rooted in Social Cognitive Theory (SCT), which assumes that individuals are more likely to perform a behavior they have seen demonstrated than one that was only recommended. Thus, by observing a model, individuals adopt new attitudes, beliefs, or behaviors <ref type="bibr" target="#b2">(Bandura, 1986;</ref><ref type="bibr" target="#b3">2001;</ref><ref type="bibr" target="#b45">Keller et al., 1999)</ref>. For instance, research showed that the influence of models is a crucial factor in starting and keeping up physical activities (e.g., G. L. <ref type="bibr" target="#b85">Smith et al., 2017;</ref><ref type="bibr" target="#b94">Unger &amp; Johnson, 1995;</ref><ref type="bibr" target="#b99">Zhang et al., 2015)</ref>. Thus, health behavior change can be initiated by vicarious experience, that is to say, by observing a person who successfully performs the respective behavior <ref type="bibr" target="#b53">(Luszczynska &amp; Schwarzer, 2005)</ref>.</p><p>Studies on modeling identified several characteristics that can influence the audience member's motivation, for example, perceived similarity to the model <ref type="bibr" target="#b4">(Bandura &amp; Walters, 1963;</ref><ref type="bibr" target="#b69">Rosekrans, 1967;</ref><ref type="bibr" target="#b76">Schunk &amp; Di Benedetto, 2020)</ref>. Therefore, successful E-E relies on media characters with whom the audience members can develop personal emotional and cognitive bonds <ref type="bibr" target="#b57">(Moyer-Gusé, 2008)</ref>, so-called PSRs <ref type="bibr" target="#b42">(Horton &amp; Wohl, 1956)</ref>. Parasocial relationships are experienced subjectively by the viewer and, thus, remain one-sided and imagined <ref type="bibr" target="#b75">(Schramm &amp; Hartmann, 2008;</ref><ref type="bibr" target="#b83">Slater et al., 2017)</ref>. Nevertheless, PSRs show similarities to real relationships with regard to sociability, sympathy, and intimacy <ref type="bibr" target="#b30">(Gleich, 1997)</ref>. It has been shown that PSRs can be more important than acquaintances but less important than good friends <ref type="bibr" target="#b47">(Koenig &amp; Lessan, 1985)</ref>. The authors conclude that "quasi-friend" is an appropriate term to describe the relationship between audience members and a parasocial partner. Research also found that relationships with media characters have the same relationship qualities as a relationship with a good neighbor <ref type="bibr" target="#b29">(Gleich, 1996)</ref>.</p><p>In particular, reality TV shows allow viewers to form such connections because they cast individuals who appear to be ordinary people to whom audience members can easily relate <ref type="bibr" target="#b58">(Nabi et al., 2003)</ref>. Furthermore, as reality programs are less scripted, audience members have the feeling of watching real people presenting themselves and showing their true character <ref type="bibr" target="#b35">(Hall, 2009)</ref>. In addition, the displayed characters often express (presumed) spontaneously and unscripted emotions directly to the camera, which further fosters the connection between the media character and the viewer <ref type="bibr" target="#b20">(Ebersole &amp; Woods, 2007)</ref>. Looking at the audience members directly, in turn, fosters parasocial interactions (PSIs) <ref type="bibr" target="#b37">(Hartmann &amp; Goldhoorn, 2011)</ref>, which may initiate a loose parasocial relationship. This relationship may motivate the recipients to seek repeated contact with the character <ref type="bibr" target="#b36">(Hartmann, 2017)</ref>. During repeated exposure, PSRs with reality TV show characters should increase and the characters should become incorporated into the social networks of the audience members <ref type="bibr" target="#b28">(Giles, 2002)</ref>. As such, we hypothesize that PSRs with the media characters will grow over time (H1).</p><p>To date, many studies in health communication have focused on the influence of PSI on health-related outcomes such as behavioral intention <ref type="bibr" target="#b44">(Jeong &amp; Park, 2015)</ref> or behavior <ref type="bibr" target="#b9">(Brown &amp; de Matviuk, 2010)</ref>. Parasocial interaction describes an imaginary interaction between the audience member and the media character that is characterized by feelings of reciprocity and takes place during media exposure <ref type="bibr" target="#b75">(Schramm &amp; Hartmann, 2008)</ref>. Parasocial relationships, in contrast, also occur beyond the exposure situation. This means the audience member feels a connection with the media character, even when they are not consuming media displaying the respective character <ref type="bibr" target="#b90">(Tukachinsky &amp; Sangalang, 2016)</ref>. In contrast to PSI (e.g., <ref type="bibr" target="#b48">Kosenko et al., 2016;</ref><ref type="bibr" target="#b89">Y. Tian &amp; Yoo, 2015)</ref>, there is much less information about the effects of PSRs in health communication. To our knowledge, there are no studies analyzing the development of PSRs with media characters from health-related media formats over time and testing the effects of these connections outside the exposure situation. Hence, in the present study, we are especially interested in the effects outside the context of a particular media exposure instance and the evolution of PSRs over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects of Parasocial Relationships on Self-Efficacy and Behavior</head><p>Seeing others successfully perform a behavior can increase beliefs in one's own ability to successfully perform that behavior (i.e., self-efficacy; <ref type="bibr" target="#b53">Luszczynska &amp; Schwarzer, 2005;</ref><ref type="bibr" target="#b65">Resnick et al., 2002)</ref>. In turn, the stronger the self-efficacy perceptions are, the more likely individuals will initiate and maintain a given practice <ref type="bibr" target="#b15">(de Graaf &amp; van Leeuwen, 2017)</ref>. Indeed, perceived self-efficacy has been found to be an important factor in forming the intention to exercise and persisting with physical activity <ref type="bibr" target="#b55">(McAuley, 1993;</ref><ref type="bibr" target="#b68">Rodgers et al., 2002;</ref><ref type="bibr" target="#b70">Rovniak et al., 2002)</ref>.</p><p>Currently, there are no data on the effects of PSRs on self-efficacy. However, studies in the area of PSI show a positive relationship with self-efficacy. For example, (Y. <ref type="bibr" target="#b89">Tian &amp; Yoo, 2015)</ref> found that PSI is positively associated with exercise self-efficacy. The authors assume that recipients with more PSI observe the media characters from a thirdperson perspective and see them as "friends" who are trying to lose weight. The audience members would tend to explain the media characters' behaviors as a function of the actors' true dispositions. In turn, they reflect their own characters and are more likely to feel able to perform physical activities, as their quasi-friends can.</p><p>Transferred to PSRs, when the media character is perceived as a friend, audience members learn from observing this role model. This form of vicarious learning results in increased perceived self-efficacy. Specifically, audience members who connect strongly with the character are expected to be highly motivated to engage in exercise behavior and increase their own ability to perform that behavior successfully. Therefore, we assume that individuals who develop stronger PSRs with reality TV show characters will report more increase in self-efficacy perceptions over time than individuals who develop weaker PSRs (H2a).</p><p>Health behavior change might be triggered by vicarious experience if a (media) character models a desirable health behavior <ref type="bibr" target="#b53">(Luszczynska &amp; Schwarzer, 2005)</ref> and is rewarded for that. The show TBL offers audience members possibilities to observe the positive consequences of exercising, such as losing weight, feeling good, and gaining recognition from physical activity. Therefore, recipients learn that this behavior is likely to generate desired outcomes and are motivated to perform this behavior as well. Mediated observation of exercise behavior can thus influence behavior as if it was a real-life observation <ref type="bibr" target="#b15">(de Graaf &amp; van Leeuwen, 2017)</ref>.</p><p>As with self-efficacy and PSR, research to date has not yet systematically determined the effects of PSR on exercise behavior. Regarding the effects of other health behaviors, <ref type="bibr" target="#b40">Hoffner and Cohen (2012)</ref> found that stronger PSRs with a media character with mental illness enhanced willingness to seek treatment for people with obsessivecompulsive disorders. Previous research in the area of PSI found that PSIs with media characters increased athletic and healthy behavior (e.g., <ref type="bibr" target="#b73">Sakib et al., 2020;</ref><ref type="bibr" target="#b89">Y. Tian &amp; Yoo, 2015)</ref>. Additionally, a recent meta-analysis showed positive correlations between PSR and behavior <ref type="bibr" target="#b93">(Tukachinsky et al., 2020)</ref>, although not in the area of health communication.</p><p>Based on these findings and given that reality TV characters can be perceived as similar to real-life friends, we propose that individuals who develop stronger PSRs with reality TV show characters will report more increase in exercise behavior over time than individuals who develop weaker PSRs (H2b).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parasocial Breakup and its Effects on Self-Efficacy and Behavior</head><p>Although research showed positive effects resulting from PSRs with media characters, problems might arise when the relationships end or dissolve. Those PSBUs describe a situation in which a media character with whom a viewer has formed a relationship goes off the air for whatever reason; for example, a character leaves the show, the show is stopped, or a viewer decides to stop watching (J. <ref type="bibr" target="#b11">Cohen, 2003)</ref>. Parasocial breakups, therefore, occur frequently in the everyday lives of viewers of E-E programs. As PSRs can positively impact health-relevant outcomes (F. <ref type="bibr" target="#b78">Shen &amp; Han, 2014)</ref>, the ending of such relationships can have negative consequences. Particularly in the health sector, parasocial experiences with media personalities can be of special importance. If audience members orient themselves to media characters and build a relationship with them, this relationship is likely to give them hope and contribute to perseverance. If, however, these media characters drop out of the show, this breakup might lead to discontinuing the newly acquired behavior.</p><p>Empirical research on PSBU is limited so far. A systematic inventory of 60 years of research on parasocial phenomena showed that only 1.1% (N = 261) of empirical publications focused on PSBU <ref type="bibr" target="#b52">(Liebers &amp; Schramm, 2019)</ref>. Of those, most studies addressed how PSBU affect audience members emotionally and whether this was similar to social breakups (J. <ref type="bibr" target="#b12">Cohen, 2004;</ref><ref type="bibr" target="#b21">Eyal &amp; Cohen, 2006</ref>; for exceptions, see E. L. <ref type="bibr" target="#b10">Cohen &amp; Hoffner, 2016;</ref><ref type="bibr" target="#b50">Lather &amp; Moyer-Gusé, 2011)</ref>. Furthermore, most studies focused on fictional PSBUs (J. <ref type="bibr" target="#b11">Cohen, 2003</ref><ref type="bibr" target="#b12">Cohen, , 2004) )</ref> or did not investigate the effects of a sudden breakup or a breakup without warning. For the latter, participants were prepared because the show's ending was previously discussed widely in the media <ref type="bibr" target="#b21">(Eyal &amp; Cohen, 2006)</ref>. Findings showed that the experience of a PSBU in those cases is not as stressful as real social breakups. However, a PSBU can still be psychologically trying for the audience members and may lead to emotional distress (J. <ref type="bibr" target="#b11">Cohen, 2003)</ref>. This is especially true for audience members with high PSRs <ref type="bibr" target="#b21">(Eyal &amp; Cohen, 2006)</ref>.</p><p>In sum, it has been shown that PSBUs have an effect on the emotional experience of the audience. Hence, it could be hypothesized that also other areas of their personal life become affected. Given that PSBUs and personal breakups show similar features, it seems legitimate to consult literature on social breakups in order to establish assumptions about the effects of PSBUs on determinants of exercise behavior. Research on romantic breakups, for example, found that individuals who experienced intense loss show increased depression (-like) symptoms (T. <ref type="bibr" target="#b24">Field, 2011)</ref>. Sadness, in turn, is associated with less motivation to be active, and healthy behaviors are replaced with unhealthy ones such as unhealthy food consumption <ref type="bibr" target="#b27">(Garg &amp; Lerner, 2013)</ref>. If audience members lose their role model, as it goes off the air, they might be disappointed and even discouraged. In turn, pronounced PSBU distress might exhibit more selfregulatory failure in exercise practices compared to people with less PSBU distress. We can therefore assume that individuals experiencing PSBU distress more intensively report lower self-efficacy perceptions after the breakup than individuals experiencing less intense PSBU distress (H3a). Furthermore, we hypothesize that individuals experiencing more intense PSBU distress report less exercise behavior after the breakup than individuals experiencing less intense PSBU distress (H3b).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research design and procedure</head><p>Using the setting of the show TBL, we conducted a quasi-experimental longitudinal field study. PSRs are supposed to be stronger with media characters that are relevant to the audience members' own situation, are similar to them (Q. <ref type="bibr" target="#b88">Tian &amp; Hoffner, 2010;</ref><ref type="bibr" target="#b91">Tukachinsky &amp; Stever, 2018)</ref>, and with whom they can identify <ref type="bibr" target="#b22">(Eyal &amp; Dailey, 2012)</ref>. In addition, it might be that bonding with the portrayed characters is facilitated if overweight people relate easier to the topics the characters talk about than people with less weight <ref type="bibr" target="#b77">(Sender &amp; Sullivan, 2008)</ref>. Therefore, we focused on overweight people in our sample. Participants were asked in a first questionnaire to indicate their height and weight. This information was used to calculate their BMI score by taking their weight in kilograms and dividing it by the square of their height in meters. One week after the first questionnaire, participants were asked to watch a first episode of TBL. Afterward, they filled out a second questionnaire. In the following 4 weeks, participants watched one episode of TBL per week and completed an online questionnaire before and after exposure. One week after the last episode, participants filled out a post-questionnaire where they were told about the study goal and the show's final outcome. The episodes and questionnaires were available online, and the participants received reminders via email.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stimulus material</head><p>Participants watched five modified and shortened episodes of TBL (length approx. 30 minutes). In this health-related reality TV show, contestants compete to lose weight and win money <ref type="bibr" target="#b19">(Domoff et al., 2012)</ref>. For our study, we edited the episodes so that a female and a male character were put in focus to allow participants to form a PSR with either of them. In the first four episodes, they saw the characters struggling with the challenges in the show, supporting each other, and fighting against their overweight. In order to present the characters as ordinary people with whom the audience members can develop personal bonds, some private scenes showed the couple at home before participating in the show, conversations about relationship problems due to their overweight, or the couple reading emotional letters from their children. However, the main focus has been on the characters engaging in physical exercise. Since PSR is associated with the amount of exposure to the media character <ref type="bibr" target="#b93">(Tukachinsky et al., 2020)</ref>, both of the characters together cover 52% of the screen time in the first four episodes. At the end of the fourth episode, both characters had to leave the show because they lost less weight than their competitors (PSBU). The last episode depicted the show's remaining participants without focus on a specific character. In doing so, we were able to keep the overarching narrative of TBL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were recruited through a market research institute and received an equivalent of USD 14 for participating in all seven waves, which corresponds approximately with the average compensation for participation in university research projects. In order to be eligible for our study, participants had to be between 20 and 55 years old and living in Germany and have a BMI greater than 25. Within the first wave, the sample structure was representative of age and gender but only consisted of participants with a BMI larger than 25. At t 0 , more than 600 individuals finished the questionnaire. During the following 7 weeks, however, two-thirds decided to end their participation (t 0 : 603, t 1 : 357, t 2 : 298, t 3 : 263, t 4 : 248, t 5 : 218). This high dropout rate was expected as each wave was very time-consuming for the participants. A total of 198 participants were exposed to all five episodes and completed all seven questionnaires. After data cleansing, 149 participants remained in the sample (M BMI = 30.42, SD BMI = 6.04; 35.6% female, 63.8% male, 0.7% divers; M age = 37.49; SD age = 8.56, n = 148).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Unless otherwise mentioned, all items presented below were measured using a fivepoint Likert-type scale from one (e.g., "not at all applicable to me" or "do not agree at all") to five (e.g., "totally applicable to me" or "fully agree"). Descriptive statistics and internal consistencies are displayed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parasocial Relationship</head><p>After exposure to the first episode, participants were asked to indicate to which of the two characters mainly displayed in the episode they felt a closer connection. The selected media character represented their parasocial partner for the next few weeks, and her or his name was inserted in all questions related to character involvement. Data showed that 38.9% of the participants chose the female character, and 61.1% chose the male character. The majority of men (81.1%) chose the male character and, to a smaller extent, but still, the majority of the women (73.6%) chose the female character. The only person who identified as gender-diverse chose the female character.</p><p>Twelve items assessed parasocial relationship in questionnaires 2-5 (t 1 -t 4 ) based on the scales developed by <ref type="bibr" target="#b38">Hartmann et al. (2008)</ref> and by A. M. <ref type="bibr" target="#b71">Rubin et al. (1985)</ref>. Sample items include "I have the feeling that I know [the character] really well" or, "I think about [the character] even when I'm not watching the show." Responses to these 12 items were averaged to create a composite measure of PSR, with higher values indicating higher PSRs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parasocial Breakup Distress</head><p>Parasocial breakup distress was measured in questionnaires 6 and 7 (t 5 and t 6 ) using 13 items taken from J. <ref type="bibr" target="#b11">Cohen, 2003;</ref><ref type="bibr" target="#b21">Eyal &amp; Cohen, 2006.</ref> In line with the original scale, the items represent both an emotional (e.g., "Now that [the character] is off the air, I feel sad") as well as a behavioral dimension (e.g., "Now that [the character] is off the air, I tend to think of [him/her] more often"). A reliability analysis was carried out on the PSBU distress scale comprising all 13 items. Cronbach's alpha showed acceptable reliability, and most items appeared to be worthy for retention. However, two exceptions to this were items 8 ("Now that [the character] is off the air, I don't miss [him/ her] as much as I thought I would") and 10 ("Now that [the character] is off the air, I found a different character to like"). Their deletion notably increased alpha. These items were negatively formulated, and probably participants overread the reversed phrasing. Hence, these two items were removed, and the remaining 11 items were averaged to form a composite measure, with higher values indicating more parasocial distress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exercise Behavior</head><p>In questionnaires 3-7 (t 2 -t 6 ), participants were asked to indicate how many times they performed three different kinds of exercise (i.e., strenuous, moderate, and mild/light) for more than 15 minutes during their free time within the last 7 days. A leisure activity score was built to assess our participants' exercise behavior <ref type="bibr" target="#b14">(Courneya et al., 2006;</ref><ref type="bibr" target="#b32">Godin et al., 1985</ref><ref type="bibr" target="#b33">Godin et al., , 1986</ref>; see <ref type="bibr" target="#b31">Godin (2011)</ref>, for the questions, classification of exercise intensity, and calculation of the weekly leisure activity score). Higher values indicate more intense physical activity. Values larger than 200 are almost impossible to reach during 1 week and were therefore identified as outliers and excluded from the analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perceived self-efficacy</head><p>Self-efficacy was measured in all questionnaires (t 0 -t 6 ) using two items assessing participants' perceptions of self-efficacy with respect to measures and recommendations on exercise behavior and overweight (e.g., "I am able to exercise regularly; " <ref type="bibr" target="#b95">Witte, 1996)</ref>. Responses to these items were averaged to create an index of self-efficacy, with higher values indicating stronger self-efficacy perceptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Repeated-measures analysis of variance (ANOVA) was used to examine the increase in PSR over time. Mauchly's test indicated that the assumption of sphericity had been violated (X 2 (5) = 48.14, p &lt; .001), therefore degrees of freedom were corrected using Huynh-Feldt estimates of sphericity (ε = .81). Results showed that there was no increase in parasocial relationship over time, F(2.46, 361.95) = 0.13, p = 0.915, partial η 2 = .001; n = 148 (H1 rejected).</p><p>As there was no significant change over time for PSR across all participants, dividing the sample into participants with high and low PSR would be reasonable. To validate this and, perhaps, to account for different types of development of PSR over time, we decided to build clusters of PSR (two-step cluster analysis as between-subjects variable) and use these clusters for the following analyses. For this, we considered the four measurement time points for PSR. A two-cluster solution resulted in being meaningful. The mean for the silhouette measure for cohesion and separation was at 0.6 (considered as "good"; <ref type="bibr" target="#b1">Bacher et al., 2004)</ref>. The first group (N = 70) indicated a high PSR already at the first measurement point and raised slowly over time (M T1 = 3.72; M T2 = 3.78; M T3 = 3.82; M T4 = 3.90). The second group (N = 78) showed a low PSR from the beginning which only slightly descended over time (M T1 = 2.69; M T2 = 2.61; M T3 = 2.60; M T4 = 2.57). Using those clusters for PSR (high with small ascent vs. low with small descent) for the following analyses and not a time-varying measure of the development of PSRs has important consequences for testing H2a and H2b. We hypothesized that participants who develop stronger PSRs would report a significant increase in self-efficacy perceptions (H2a) and in exercise behavior (H2b) than participants who develop weaker PSRs. However, with the clusters, these predictions cannot be tested, and the hypotheses need to be adjusted accordingly.</p><p>Thus, the modified H2a now predicts that participants with higher PSRs would report a significant increase in self-efficacy perceptions compared to the low PSR group. A mixed ANOVA was conducted with self-efficacy as the repeated measure and the clustered groups (low+descending vs. high+ascending PSR) as the betweensubjects factor. Mauchly's test indicated that the assumption of sphericity had been violated (X 2 (5) = 51.41, p &lt; .001). Therefore, degrees of freedom were corrected using Huynh-Feldt estimates of sphericity (ε = 0.79). The interaction between time and PSR was not significant, F(2.44, 348.33) = 0.30, p = .781, partial η 2 = .002; n = 145, suggesting that developments in self-efficacy over time did not vary by PSR (H2a rejected).</p><p>Additionally, we estimated an unconditional linear growth curve model with the four measurements of self-efficacy to indicate how self-efficacy itself develops throughout exposure to TBL without taking any explanatory variables-but time-into account. The model fits the data well (see Table <ref type="table" target="#tab_1">2</ref>). The mean intercept and slope are statistically significant; the latter indicates that the mean trajectory of self-efficacy increased over time. The significant variance in the intercept reveals that some individuals have higher initial levels of self-efficacy while others have lower levels. However, the non-significant variance in the slope suggests the participants do not (significantly) differ with regard to the development of self-efficacy (rate of change) over time. There was also no significant covariance between slope and intercept, suggesting that the rate of self-efficacy change does not depend on their initial levels. Hence, the participants do show a small but significant increase in self-efficacy over the course of watching TBL.</p><p>H2b predicted that participants who developed stronger PSRs with the reality TV characters would show a greater increase in exercise behavior compared to those who developed weaker PSRs. As with H2a, this hypothesis cannot be tested exactly that way with the two clusters. Therefore, the modified H2b predicts that participants with higher PSR would show a greater increase in exercise behavior than the low PSR group. A mixed ANOVA was conducted with exercise behavior as the repeated measure and the clustered groups as the between-subjects factor. As the assumption of sphericity had been violated, X 2 (2) = 14.05, p = .001, degrees of freedom were corrected using Huynh-Feldt estimates of sphericity (ε = 0.91). The interaction between time and PSR was not significant, F(1.86, 264.45) = 0.32, p = .712, partial η 2 = .002, n = 144, suggesting that differences in exercise behavior over time did not vary by PSR (H2b rejected).</p><p>H3a predicted that individuals experiencing more intense PSBU distress would report lower self-efficacy perceptions after the breakup than individuals experiencing less intense PSBU distress. A linear regression analysis was performed with breakup distress as the independent variable and self-efficacy as the dependent variable. Because the assumption about the normal distribution of the residuals was not met, we used bootstrapping based on 1000 samples to compute robust estimates of bs and their confidence intervals <ref type="bibr" target="#b23">(A. Field, 2013)</ref>. In addition, we calculated robust standard errors (i.e., heteroskedasticity-consistent standard errors; HC4) because the assumption of homoscedasticity was violated <ref type="bibr" target="#b39">(Hayes &amp; Cai, 2007)</ref>. Results showed that PSBU distress did not affect self-efficacy perceptions, F(1, 146) = 0.13, p = .715, R 2 = .00; B = À0.03, HC4 = 0.07; 95% CI [À.16, .10]; n = 148, (H3a rejected). H3b predicted that individuals experiencing more intense PSBU distress would report lower exercise behavior after the breakup than those who experienced weaker PSBU distress. The assumption about the normal distribution of the residuals was not met, and we, therefore, used bootstrapping based on 1000 samples to compute robust estimates of bs and their confidence intervals. Results revealed no effect of PSBU distress on exercise behavior, F(1, 146) = 1.13, p = .289, R 2 = .01; B = 3.04, SE B = 2.79; 95% <ref type="bibr">CI [À2.34,</ref><ref type="bibr">8.68]</ref>; n = 148 (H3b rejected).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study set out to analyze the effects of PSRs with characters in a health-related reality TV show on health-relevant outcomes. Additionally, we were interested in how an audience member's behavior would be affected when their favorite media character leaves the show. This study is among the rare longitudinal studies to measure the development and impact of PSRs with media characters over time <ref type="bibr" target="#b52">(Liebers &amp; Schramm, 2019</ref>; for an exception, see, <ref type="bibr" target="#b7">Bond, 2020)</ref> and the first study to examine the effects of PSBUs on health-relevant behavior. Exploring these perspectives should help extend scholarship in PSR and breakup and bring forward the investigation of the E-E function of health communication.</p><p>Following theoretical assumptions as well as empirical findings, we expected PSRs with reality TV characters to increase over time and after repeated exposure. However, this hypothesis was not supported. There are several possible explanations for this result. First, due to the experimental setting, participants could not freely choose the TV show. Furthermore, they had to choose between two proposed characters as parasocial partners. Consequently, the participants were somewhat forced into the relationship with these specific characters, which might have hindered a natural development of a PSR. However, while participants were forced to choose a parasocial partner out of two media characters, they were not forced to actually develop a parasocial relationship with one of them. This means that participants could indicate in the questionnaire at any wave that they did not bond with the media character (PSR scale). As data shows, some participants indeed did not develop a PSR while others showed high levels of PSR from the beginning. This would indicate that it is possible for some people to enter into a PSR in a short time and without choosing completely freely the character. In addition, we tried to facilitate the development of PSRs as much as possible and important predictors discussed in the literature on PSRs were considered. For instance, participants watched the show and the characters repeatedly as the development of PSRs is based on repeated encounters <ref type="bibr" target="#b42">(Horton &amp; Wohl, 1956)</ref>. The mere-exposure effect could have led to a more pronounced PSR. Additionally, the main characters had as much screen time as possible in order to allow the audience members to bond with them by vicariously engaging in the depicted activities. Indeed, a recent meta-analysis found that PSR was moderately associated with the amount of exposure to the media character <ref type="bibr" target="#b93">(Tukachinsky et al., 2020)</ref>. Furthermore, the participants were able to choose between a male and a female character because it has been found that men rather develop PSRs with same-sex characters and that women are generally more open to cross-sex PSRs <ref type="bibr" target="#b21">(Eyal &amp; Cohen, 2006)</ref>. Lastly, perceived homophily is a strong predictor for PSR <ref type="bibr" target="#b93">(Tukachinsky et al., 2020)</ref>. Transferred to the context of the present study, we assumed that the relevance of the personal (health-related) situation is an important factor, and we, thus, only included overweight participants in our sample. This assumption is reinforced by <ref type="bibr" target="#b98">Yoo (2013)</ref>, who found that individuals who are more concerned with their weight watch more episodes of TBL. In our study, participants' involvement with body weight was, on average, medium to high (M = 3.46, SD = 0.99; 1 = low involvement, 5 = high involvement). Furthermore, participants indicated they feel rather too heavy (M = 4.17, SD = .62; 1 = too thin, 5 = too heavy). Nevertheless, our results did not confirm the development of PSRs over time.</p><p>Second, we assumed TBL to be an appropriate TV show to allow the recipients to form PSRs because of the presumed authenticity of the media characters in reality TV shows. However, TBL has recently been criticized as being somewhat unrealistic, inaccurately portraying weight loss (B. J. <ref type="bibr" target="#b84">Smith &amp; Bonfiglioli, 2019)</ref> and because audience members realized the program's manipulation <ref type="bibr" target="#b41">(Holland et al., 2014)</ref>. This might have impeded the development of PSRs.</p><p>Third, production features may also influence PSR development <ref type="bibr" target="#b7">(Bond, 2020)</ref>. For instance, research suggests that "breaking the fourth wall" and directly addressing the audience members can create the illusion of social interaction and increase PSR development <ref type="bibr" target="#b91">(Tukachinsky &amp; Stever, 2018)</ref>. This is because directly addressing the audience increases PSI <ref type="bibr" target="#b0">(Auter, 1992)</ref>, and PSI and PSR are supposed to reinforce each other <ref type="bibr" target="#b43">(Hu, 2016)</ref>. In our study, the media characters never addressed the audience directly, which might have impeded the development of PSRs.</p><p>Fourth, the rather high dropout rate indicates that there may have been individuals who would perhaps have lower PSR at the beginning of the study, then may have developed an increasingly pronounced PSR over time and after repeated exposure. However, these individuals probably left the study early. Furthermore, since we based our analysis on individuals who participated in all waves, we might be missing those who had rather moderate PSR at the beginning of the show.</p><p>Based on the SCT, we argued that persuasive effects of E-E formats are largely driven by the audience members' positive feelings toward and the involvement with the depicted media characters (i.e., PSR), as people learn from peers around them and adapt their behavior. Thus, such emotional bonds are supposed to increase attention to the behavior of the media characters, which, in turn, should facilitate observational learning <ref type="bibr" target="#b57">(Moyer-Gusé, 2008;</ref><ref type="bibr" target="#b92">Tukachinsky &amp; Tokunaga, 2013)</ref>. We assumed that individuals who develop stronger PSRs would report a stronger increase in self-efficacy perceptions and in exercise behavior compared to individuals who develop weaker PSRs. As there was no increase in PSR over time and after repeated exposure, we decided to use clusters for the PSR variable (high+ascending vs. low+descending PSR) and not a dynamic measure of the development of PSRs. Consequently, the assumptions had to be rephrased. The modified hypotheses predicted that participants with higher PSRs would report more increase in self-efficacy perceptions and show a larger increase in exercise behavior compared to the low PSR group. Our results showed that PSRs with characters in the reality weight-loss competition had no influence on health-relevant outcomes such as exercise behavior and self-efficacy perceptions. This might indicate that PSRs are not as impactful as expected in this specific context. Although previous research showed that viewers generally appreciate the underlying concept of the show (i.e., weight loss through healthy eating and physical exercise; <ref type="bibr" target="#b87">Thomas et al., 2007)</ref>, a recent qualitative study using in-depth interviews found that that audience members perceived the portrayal of excessive exercise in the show to be unrealistic and that they were unsure whether the displayed physical activities would guide and inspire themselves (B. J. <ref type="bibr" target="#b84">Smith &amp; Bonfiglioli, 2019)</ref>. It seems possible that our results are due to the fact that viewers were rather intimidated and demotivated by the activities displayed in the show. Thus, by showing contestants engaging in unrealistic exercise behavior, desired health outcomes were not promoted. Nevertheless, data showed a general increase of self-efficacy over time. This indicates that self-efficacy perceptions do increase over the course of watching TBL. Hence, there is some positive impact of watching the show. But this positive impact is not dependent on PSR but occurred due to other characteristics of the show or the mere exposure.</p><p>Although TBL markets itself as a show promoting a healthy lifestyle by encouraging audience members to lose weight, health professionals and researchers in the fields of public health and health communication raise concern about the message of the reality TV show. For instance, there is criticism that TBL promotes the stigma that being overweight or obese is an individual's fault, that individuals should take personal responsibility for losing weight <ref type="bibr" target="#b87">(Thomas et al., 2007)</ref>, and that failure has to be taken as personally <ref type="bibr" target="#b56">(Mocarski &amp; Bissell, 2016)</ref>. Furthermore, <ref type="bibr">Silk and colleagues (2011)</ref> criticize that overweight and obese people are portrayed as immoral and irresponsible citizens and as a "problem" that needs to be solved. Research indeed found that after exposure to TBL, participants reported greater dislike of overweight and obese individuals <ref type="bibr" target="#b19">(Domoff et al., 2012)</ref>. Furthermore, some viewers felt that TBL gives the impression that people are not accepted in society if they do not lose weight. Some audience members even expressed discomfort while watching the show as contestants were exposed to public ridicule <ref type="bibr" target="#b41">(Holland et al., 2014)</ref>. Unfortunately, participants in the present study were not asked how they perceived the portrayals of overweight and obese people in TBL, and the question of whether the message that TBL transmits was perceived as rather discouraging than motivating cannot be answered with our data. However, after exposure to every episode, participants could indicate how they liked the episode in general. Data showed that the general liking of the episodes varied between so-so and good.</p><p>Another explanation why PSRs with characters of TBL had no influence on healthrelevant outcomes is that some kind of reactance was triggered either due to our study design or due to exposure to TBL. Such defensive responses occur when individuals feel that their freedom is threatened, which might reduce the effectiveness of persuasive health-related messages <ref type="bibr" target="#b8">(Brehm &amp; Brehm, 1981;</ref><ref type="bibr" target="#b17">Dillard &amp; Shen, 2005)</ref>. However, models on E-E assume that audience members respond less with reactance to E-E because the persuasive intent is more concealed than in traditional persuasive messages (e.g., <ref type="bibr" target="#b57">Moyer-Gusé, 2008;</ref><ref type="bibr">see, also, Ratcliff &amp; Sun, 2020)</ref>. If it was not reactance that was triggered, another negative effect might have contributed to our non-significant results. For instance, a meta-analysis on body satisfaction showed that the body image for women was significantly more negative after viewing thin media images than after viewing images of either average and plus-size models or objects such as cars and houses <ref type="bibr" target="#b34">(Groesz et al., 2002)</ref>. Transferred to TBL, this would indicate that when audience members are exposed to perceived unrealistic physical activity coupled with rapid weight loss, they compare themselves with a fanciful ideal, resulting in poor selfperception and body dissatisfaction or even feelings of guilt or shame. This can be problematic if there is an association between negative affect and overweight/obesity. Because the standard presumably established by TBL might make viewers feel bad about their weight and their exercise behavior, an undesired behavior could be promoted eventually.</p><p>A recently developed model proposes that people who self-identify as having overweight are more likely to experience psychological distress leading to behaviors that impair against health than those who do not <ref type="bibr" target="#b67">(Robinson et al., 2020)</ref>. In this model, positive or negative self-perception or body dissatisfaction are not playing a major role. However, the authors highlight that "the widespread and socially acceptable stigmatization of heavier body weight has negative consequences for people who identify as being overweight" <ref type="bibr">(Robinson et al., 2020, p. 553)</ref> because those people would be aware that they have a characteristic that is stigmatized. This recognition may be associated with negative physical and mental health outcomes. The impact of selfidentification of overweight on health outcomes is thus supposed to be mediated by internalization of stigma and social rejection concerns. Fear of social rejection and internalization of stigma, in turn, may increase psychological distress. As mentioned above, frequently experiencing psychological distress may negatively impact healthpromoting behaviors <ref type="bibr" target="#b67">(Robinson et al., 2020)</ref>. This would indicate that merely being aware of having overweight or being reminded of it, for example, through a healthrelated reality TV show, can actually backfire and promote unhealthy behavior instead of physical exercise.</p><p>Regarding the effects of PSBU distress, we found that distress intensity had no impact on self-efficacy perceptions or exercise behavior. One possible explanation is that overall PSBU distress was relatively low in our sample (see Table <ref type="table" target="#tab_0">1</ref>), which indicates that the PSRs were not strong enough to be associated with the intensity of PSBU distress. However, additional correlation analyses showed a positive relationship between PSR and PSBU distress. Another explanation is that audience members knew that there are other candidates or that there will be another season with new candidates to form an attachment with <ref type="bibr" target="#b74">(Schiappa et al., 2006)</ref>, and this knowledge reduced the effects of PSBU distress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and Future Research</head><p>Despite the strength of a longitudinal research design, this study faced several limitations. First, the choice of TBL as a motivator of physical exercise can be criticized because the show has been described as "exploitative, embarrassing, and cruel" <ref type="bibr">(Sender &amp; Sullivan, 2008, p. 575)</ref>. Furthermore, there has been criticism that the show is more interested in the entertainment value than in the educational intention <ref type="bibr" target="#b56">(Mocarski &amp; Bissell, 2016)</ref>. For instance, practical tips on how to exercise at home are rare. The physical activities displayed in the show are extreme and cannot be carried out at home or in a gym. Hence, TBL might not provide audience members with a clear and concrete advice that they could perform exercises themselves.</p><p>Second, when assessing the parasocial partner, we asked participants to which of the two proposed characters they felt a closer connection. However, PSRs are more complex and can even be characterized by feelings of antipathy, disgust, or hatred <ref type="bibr" target="#b38">(Hartmann et al., 2008)</ref>. Thus, merely asking about a "closer connection" might not be an adequate indicator for a parasocial partner. Therefore, further research might assess a potential parasocial partner with a more sophisticated measure or explore the effects of naturally evolving PSRs without limiting the choice of the parasocial partner.</p><p>Although we found no increase in PSRs over time, our results showed that almost half of the participants showed strong PSRs from the beginning and maintained this relationship. It can be assumed that especially participants who could not relate to the characters at all did not continue with our study, and only those remained who had established some kind of parasocial relationship early. However, using the remaining individuals for the analysis makes the results all the more valid because the dropouts would not have watched further episodes of TBL, even in real-life situations. Nevertheless, results might differ when estimating models keeping not only the loyal or conscientious participants in the analysis who felt obliged to continue the study because of the incentives or because they felt to need to stand to their commitment.</p><p>Furthermore, it could be argued that exposure to TBL for 5 weeks might not be a sufficient time for audience members to develop a PSR, particularly if they did not choose such a relationship voluntarily. The literature on PSR does not specify how much time is needed for an audience member to develop a PSR. The amount of time probably depends on various factors, including personal and situational factors of the audience members, and there might be individual tendencies of viewers to develop PSRs with media characters <ref type="bibr" target="#b91">(Tukachinsky &amp; Stever, 2018)</ref>. Regarding personal factors, research on narrative transportation suggests that the so-called transportability (i.e., the "chronic motivation and ability to become transported into a narrative, regardless of the content of the narrative"; <ref type="bibr">Mazzocco et al., 2010, p. 362</ref>) plays an important role in becoming transported into stories and that individuals with higher transportability might be more persuaded (see, for example, <ref type="bibr" target="#b54">Mazzocco et al., 2010)</ref>. Thus, as there are individual differences in the likelihood of becoming transported into a narrative, there might as well be differences in the likelihood of developing PSRs with media characters due to favorable or unfavorable personality characteristics. For example, it has been shown that individuals who strive for intimacy show higher levels of PSRs than individuals with avoidant attachment styles (e.g., <ref type="bibr" target="#b13">Cole &amp; Leets, 1999</ref>; for a discussion on the role of various audience characteristics at different stages of the development of PSRs, see, <ref type="bibr" target="#b91">Tukachinsky &amp; Stever, 2018)</ref>. Furthermore, if higher transportability would correlate with increased persuasion, a higher tendency to develop PSRs might also correlate with more increase in exercise behavior. Future studies could assess which factors increase the motivation and ability to develop PSRs in order to better understand the development of PSRs.</p><p>Additionally, one can imagine rather early decisions to bond with a character, and the PSR simply becomes more solid over time which might not be indicated by the classic PSR scales. For example, one can declare somebody as a true friend, but the reliability of the answer and the resistance to change might become more solid over time but not the evaluation of the friendship. Only a rare number of studies in communication research measure attitudes twofold-evaluation and potency or importance. Unfortunately, we were not able to apply both kinds of measurement due to restrictions of time and possible commitment issues. However, it could be assumed that, in particular, the potency or the importance of PSR develops over time-but not the mere evaluation, which is usually measured with the PSR scales. This perspective could be addressed in a future study. Nevertheless, our data showed that, for individuals with generally higher levels of PSRs, the intensity of PSR increases slightly over time. For individuals with generally lower levels of PSRs, PSR intensity slightly decreases.</p><p>Lastly, applying a screening process to participation in the study with the Transtheoretical Model (TTM; <ref type="bibr" target="#b63">Prochaska &amp; Velicer, 1997)</ref> could help future studies with both the high dropout rate and the lack of effects on self-efficacy perceptions and exercise behavior. The TTM is a dynamic and situational health behavior theory that stresses the fact that behavioral change takes place in several stages. Individuals may find themselves in different phases; therefore, a health-related message is most effective if tailored to the situational stage at which an individual is. Thus, individuals should already want a behavior change before participating in such a study. The stages of change model also suggest that self-efficacy is an important predictor of people's motivation to engage in health-related behaviors <ref type="bibr" target="#b16">(DiClemente &amp; Prochaska, 1998)</ref>. Results of our study showed that self-efficacy perceptions increased over time. This would indicate that participants did not lack the confidence that they can successfully perform physical exercises. Theoretically, these individuals possess the ideal basis for adopting a healthy lifestyle in the near future.</p><p>In spite of its limitations, the present study is among the rare experimental longitudinal studies on the development and impact of PSRs with media characters <ref type="bibr" target="#b52">(Liebers &amp; Schramm, 2019)</ref>. Therefore, a study similar to this one should be carried out to address the above-mentioned limitations.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Means, Standard Deviations, and Cronbach's α of Study Variables.</figDesc><table><row><cell></cell><cell></cell><cell>N</cell><cell>M</cell><cell>S D</cell><cell>Cronbach's α</cell></row><row><cell cols="3">Parasocial relationship</cell><cell></cell><cell></cell><cell></cell></row><row><cell>t 1</cell><cell>a</cell><cell>149</cell><cell>3.18</cell><cell>0.85</cell><cell>0.92</cell></row><row><cell>t 2</cell><cell></cell><cell>148</cell><cell>3.16</cell><cell>0.80</cell><cell>0.92</cell></row><row><cell>t 3</cell><cell></cell><cell>149</cell><cell>3.18</cell><cell>0.86</cell><cell>0.94</cell></row><row><cell>t 4</cell><cell>b</cell><cell>149</cell><cell>3.19</cell><cell>0.90</cell><cell>0.93</cell></row><row><cell cols="3">Parasocial breakup distress</cell><cell></cell><cell></cell><cell></cell></row><row><cell>t 5</cell><cell></cell><cell>148</cell><cell>2.00</cell><cell>0.95</cell><cell>0.94</cell></row><row><cell cols="3">Exercise behavior</cell><cell></cell><cell></cell><cell></cell></row><row><cell>t 2</cell><cell></cell><cell>148</cell><cell>41.52</cell><cell>31.93</cell><cell>-</cell></row><row><cell>t 3</cell><cell></cell><cell>149</cell><cell>39.44</cell><cell>32.47</cell><cell>-</cell></row><row><cell>t 4</cell><cell></cell><cell>146</cell><cell>39.92</cell><cell>32.28</cell><cell>-</cell></row><row><cell>t 6</cell><cell></cell><cell>148</cell><cell>43.29</cell><cell>32.94</cell><cell>-</cell></row><row><cell cols="3">Perceived self-efficacy</cell><cell></cell><cell></cell><cell>Spearman-Brown coefficient c</cell></row><row><cell>t 1</cell><cell></cell><cell>149</cell><cell>3.77</cell><cell>1.01</cell><cell>0.82</cell></row><row><cell>t 2</cell><cell></cell><cell>147</cell><cell>3.93</cell><cell>0.89</cell><cell>0.79</cell></row><row><cell>t 3</cell><cell></cell><cell>147</cell><cell>3.96</cell><cell>0.83</cell><cell>0.69</cell></row><row><cell>t 4</cell><cell></cell><cell>149</cell><cell>4.00</cell><cell>0.84</cell><cell>0.81</cell></row><row><cell>t 6</cell><cell></cell><cell>148</cell><cell>4.01</cell><cell>0.81</cell><cell>0.71</cell></row><row><cell cols="4">Note. t 1 refers to the second wave of the study.</cell><cell></cell><cell></cell></row></table><note><p>a Item "I am thinking about [media character] even when I'm not watching an episode" not included. b Item "I am looking forward to seeing [media character] again in the next episode" not included. c Because perceived self-efficacy was measured with two items, the Spearman-Brown coefficient (split-half reliability) is reported instead of Cronbach's α.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Development of Self-Efficacy Over Time. Unconditional Linear Growth Curve Model; Unstandardized Coefficients.</figDesc><table><row><cell>Model Results</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Estimate</cell><cell>S.E.</cell><cell>Est./S.E.</cell><cell>Two-Tailed P-Value</cell></row><row><cell>S</cell><cell>With</cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>À0.013</cell><cell>0.021</cell><cell>À0.615</cell><cell>0.538</cell></row><row><cell>Means</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>3.836</cell><cell>0.074</cell><cell>52.040</cell><cell>0.000</cell></row><row><cell>S</cell><cell>0.058</cell><cell>0.019</cell><cell>3.094</cell><cell>0.002</cell></row><row><cell>Variances</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>0.592</cell><cell>0.097</cell><cell>6.124</cell><cell>0.000</cell></row><row><cell>S</cell><cell>0.008</cell><cell>0.009</cell><cell>0.908</cell><cell>0.364</cell></row><row><cell>Residual Variances</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Self-Efficacy t 0</cell><cell>0.473</cell><cell>0.072</cell><cell>6.579</cell><cell>0.000</cell></row><row><cell>Self-Efficacy t 1</cell><cell>0.178</cell><cell>0.030</cell><cell>5.970</cell><cell>0.000</cell></row><row><cell>Self-Efficacy t 3</cell><cell>0.145</cell><cell>0.025</cell><cell>5.791</cell><cell>0.000</cell></row><row><cell>Self-Efficacy t 4</cell><cell>0.115</cell><cell>0.033</cell><cell>3.538</cell><cell>0.000</cell></row></table><note><p>Note. I = Intercept/Levels of Self-efficacy; S = Slope/Development of Self-efficacy (Index, see text) over time. AIC = 1147.651; BIC = 1174.687; Chi-square = 4.399, df = 5 p = .04934; CFI = 1.000; TLI = 1.000; RMSEA = 0.000; SRMR = 0.043.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Communication &amp; Sport 0(0)   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the <rs type="funder">Swiss National Science</rs></p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Psychometric:TV that talks back: An experimental validation of a parasocial interaction scale</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Auter</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08838159209364165</idno>
+		<ptr target="https://doi.org/10.1080/08838159209364165" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="181" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">SPSS TwoStep cluster: A first evaluation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wenzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vogler</surname></persName>
+		</author>
+		<ptr target="https://nbn-resolving.org/urn:nbn:de" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Open Access Repository</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="327153" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Social foundations of thought and action: A social cognitive theory</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Prentice Hall</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Social cognitive theory of mass communication</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s1532785xmep0303_03</idno>
+		<ptr target="https://doi.org/10.1207/s1532785xmep0303_03" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="299" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Social learning and personality development. Holt Rinehart and Winston</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Walters</surname></persName>
+		</author>
+		<ptr target="https://psycnet.apa.org/record/1963-35030-000" />
+		<imprint>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Evaluation of mass media campaigns for physical activity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reger-Nash</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.evalprogplan.2005.12.004</idno>
+		<ptr target="https://doi.org/10.1016/j.evalprogplan.2005.12.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Evaluation and Program Planning</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="312" to="322" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Examining the effects of MTV&apos;s 16 and pregnant on adolescent girls&apos; sexual health: The implications of character affinity, pregnancy risk factors, and health literacy on message effectiveness</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Behm-Morawitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Aubrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pennell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2017.1399506</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2017.1399506" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="180" to="190" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The development and influence of parasocial relationships with television characters: A longitudinal experimental test of prejudice reduction through parasocial contact</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bond</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650219900632</idno>
+		<ptr target="https://doi.org/10.1177/009365021" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="573" to="593" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Psychological reactance: A theory of freedom and control</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Brehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Brehm</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Academic Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sports celebrities and public health: Diego Maradona&apos;s influence on drug use prevention</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A C</forename><surname>De Matviuk</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10810730903460575</idno>
+		<ptr target="https://doi.org/10.1080/10810730903460575" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="358" to="373" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Finding meaning in a celebrity&apos;s death: The relationship between parasocial attachment, grief, and sharing educational health information related to Robin Williams on social network sites</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hoffner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.06.042</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2016.06.042" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="643" to="650" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Parasocial breakups: Measuring individual differences in responses to the dissolution of Parasocial relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327825mcs0602_5</idno>
+		<ptr target="https://doi.org/10.1207/s15327825mcs0602_5" />
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="191" to="202" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Parasocial break-Up from favorite television characters: The role of attachment styles and relationship intensity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407504041374</idno>
+		<ptr target="https://doi.org/10.1177/0265407504041374" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="187" to="202" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Attachment styles and intimate television viewing: Insecurely forming relationships in a parasocial way</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leets</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407599164005</idno>
+		<ptr target="https://doi.org/10.1177/0265407599164005" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="495" to="511" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effects of different measurement scales on the variability and predictive validity of the &quot;two-component&quot; model of the theory of planned behavior in the exercise domain</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Courneya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Rhodes</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14768320500422857</idno>
+		<ptr target="https://doi.org/10.1080/14768320500422857" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="557" to="570" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Chapter 13. The role of absorption processes in narrative health communication</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Graaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Leeuwen</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/lal.27.14deg</idno>
+		<ptr target="https://doi.org/10.1075/lal.27.14deg" />
+	</analytic>
+	<monogr>
+		<title level="m">Narrative absorption</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Hakemulder</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kuijpers</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Tan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Bálint</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Doicaru</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>John Benjamins Publishing</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="271" to="292" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Toward a comprehensive, transtheoretical model of change</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Diclemente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Prochaska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Treating addictive behaviors</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">N</forename><surname>Heather</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Plenum Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="3" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">On the nature of reactance and its role in persuasive health communication</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03637750500111815</idno>
+		<ptr target="https://doi.org/10.1080/03637750500111815" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Monographs</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="144" to="168" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Overcoming obesity: An initial economic analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dobbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sawers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Manyika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woetzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Child</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spatharou</surname></persName>
+		</author>
+		<ptr target="https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-the-world-could-better-fight-obesity" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The effects of reality television on weight bias: An examination of the biggest loser</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Domoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Hinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Koball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Storfer-Isser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Carhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Baik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carels</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/oby.2011.378</idno>
+		<ptr target="https://doi.org/10.1038/oby.2011.378" />
+	</analytic>
+	<monogr>
+		<title level="j">Obesity</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="993" to="998" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Motivations for viewing reality television: A uses and gratifications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ebersole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Woods</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Southwestern Mass Communication Journal</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="42" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">When good friends say goodbye: A parasocial breakup study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15506878jobem5003_9</idno>
+		<ptr target="https://doi.org/10.1207/s15506878jobem5003_9" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="502" to="523" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Examining relational maintenance in parasocial relationships</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Dailey</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205436.2011.616276</idno>
+		<ptr target="https://doi.org/10.1080/15205436.2011.616276" />
+	</analytic>
+	<monogr>
+		<title level="j">Mass Communication and Society</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="758" to="781" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Field</surname></persName>
+		</author>
+		<title level="m">Discovering statistics using IBM SPSS statistics</title>
+		<imprint>
+			<publisher>SAGE Publications</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Romantic breakups, heartbreak and bereavement: Romantic breakups</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Field</surname></persName>
+		</author>
+		<idno type="DOI">10.4236/psych.2011.24060</idno>
+		<ptr target="https://doi.org/10.4236/psych.2011.24060" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="382" to="387" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Konzepte -Methoden -Praxis [Health communication and media. A textbook: Media Psychology. Concepts -Methods -Practice]</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fromm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Baumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<ptr target="https://pub.uni-bielefeld.de/record/2609711" />
+	</analytic>
+	<monogr>
+		<title level="j">Kohlhammer. Gesundheitskommunikation und Medien. Ein Lehrbuch: Medienpsychologie</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sadness and consumption</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lerner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jcps.2012.05.009</idno>
+		<ptr target="https://doi.org/10.1016/j.jcps.2012.05.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="106" to="113" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Parasocial interaction: A review of the literature and a model for future research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Giles</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s1532785xmep0403_04</idno>
+		<ptr target="https://doi.org/10.1207/s1532785xmep0403_04" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="279" to="305" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sind Fernsehpersonen die &quot;Freunde&quot; des Zuschauers? Ein Vergleich zwischen parasozialen und realen sozialen Beziehungen</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gleich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fernsehen als &quot;Beziehingskiste&quot;: Parasoziale beziehungen und interaktionen mit TV-personen</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Vorderer</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Westdeutscher Verlag</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="113" to="144" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Parasocial interaction with people on the screen</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gleich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New horizons in media psychology: Research co-operation and projects in Europe</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Winterhoff-Spurk</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Van Der Oort</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Westdeutscher Verlag</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="35" to="55" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Godin-Shephard leisure-time physical activity questionnaire</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Godin</surname></persName>
+		</author>
+		<idno type="DOI">10.14288/hfjc.v4i1.82</idno>
+		<ptr target="https://doi.org/10.14288/hfjc.v4i1.82" />
+	</analytic>
+	<monogr>
+		<title level="j">Health &amp; Fitness Journal of Canada</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="22" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Assessment of leisure time exercise behavior by selfreport</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Godin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bouillon</surname></persName>
+		</author>
+		<idno type="DOI">10.1249/00005768-198504000-00462</idno>
+		<idno>1249/ 00005768-198504000-00462</idno>
+		<ptr target="https://doi.org/10" />
+	</analytic>
+	<monogr>
+		<title level="j">Medicine &amp; Science in Sports &amp; Exercise</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">285</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Assessment of leisure time exercise behavior by selfreport: A concurrent validity study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Godin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jobin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bouillon</surname></persName>
+		</author>
+		<ptr target="https://www.jstor.org/stable/41989267" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian journal of public health = Revue canadienne de sante publique</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="359" to="362" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The effect of experimental presentation of thin media images on body satisfaction: A meta-analytic review</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Groesz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Murnen</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/eat.10005</idno>
+		<ptr target="https://doi.org/10.1002/eat.10005" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Eating Disorders</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Perceptions of the authenticity of reality programs and their relationships to audience involvement, enjoyment, and perceived learning</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08838150903310468</idno>
+		<ptr target="https://doi.org/10.1080/08838150903310468" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="515" to="531" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Parasoziale Interaktion und beziehungen</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<idno type="DOI">10.5771/9783845260358_1</idno>
+		<ptr target="https://doi.org/10.5771/9783845260358_1" />
+	</analytic>
+	<monogr>
+		<title level="m">Nomos</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>parasocial interaction and relationships. nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Horton and Wohl revisited: Exploring viewers&apos; experience of parasocial interaction</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goldhoorn</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2011.01595.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1460-2466.2011.01595.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1104" to="1121" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Positive parasocial relationships with drivers affect suspense in racing sport spectators</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Daschmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/1864-1105.20.1.24</idno>
+		<ptr target="https://doi.org/10.1027/1864-1105.20.1.24" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="34" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Using heteroskedasticity-consistent standard error estimators in OLS regression: An introduction and software implementation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/bf03192961</idno>
+		<ptr target="https://doi.org/10.3758/bf03192961" />
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="709" to="722" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Responses to obsessive compulsive disorder onmonkamong series fans: Parasocial relations, presumed media influence, and behavioral outcomes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hoffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08838151.2012.732136</idno>
+		<ptr target="https://doi.org/10.1080/08838151.2012.732136" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="650" to="668" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Viewingthe biggest loser: Modes of reception and reflexivity among obese people</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Warwick Blood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomas</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10350330.2014.955980</idno>
+		<ptr target="https://doi.org/10.1080/10350330.2014.955980" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Semiotics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="32" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Mass communication and para-social interaction</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wohl</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00332747.1956.11023049</idno>
+		<ptr target="https://doi.org/10.1080/00332747.1956.11023049" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="215" to="229" />
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The influence of a scandal on parasocial relationship, parasocial interaction, and parasocial breakup</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/ppm0000068</idno>
+		<ptr target="https://doi.org/10.1037/ppm0000068" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="217" to="231" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The effect of parasocial interaction on intention to register as organ donors through entertainment-education programs in Korea</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1010539512472359</idno>
+		<ptr target="https://doi.org/10.1177/1010539512472359" />
+	</analytic>
+	<monogr>
+		<title level="j">Asia Pacific Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2040" to="P2048" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Predictive ability of social cognitive theory in exercise research: An integrated literature review</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fleury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gregor-Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1524-475x.1999.00019.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1524-475x.1999.00019.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Online Journal of Knowledge Synthesis for Nursing, E</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="31" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Worldviews on Evidence-based Nursing presents the archives of</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Parasocial interactions and relationships</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Klimmt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schramm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychology of entertainment</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Bryant</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Vorderer</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="291" to="313" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Viewers&apos; relationship to television personalities</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koenig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lessan</surname></persName>
+		</author>
+		<idno type="DOI">10.2466/pr0.1985.57.1.263</idno>
+		<ptr target="https://doi.org/10.2466/pr0.1985.57.1.263" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Reports</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="263" to="266" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Celebrity influence and identification: A test of the Angelina effect</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Kosenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Binder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hurley</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10810730.2015.1064498</idno>
+		<ptr target="https://doi.org/10.1080/10810730.2015.1064498" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="318" to="326" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Impact of weight change on quality of life in adults with overweight/obesity in the United States: A systematic review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kroes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Osei-Assibey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker-Searle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1185/03007995.2015.1128403</idno>
+		<ptr target="https://doi.org/10.1185/03007995.2015.1128403" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Medical Research and Opinion</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="485" to="508" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">How do we react when our favorite characters are taken away? An examination of a temporary parasocial breakup</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moyer-Gusé</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205431003668603</idno>
+		<ptr target="https://doi.org/10.1080/15205431003668603" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="196" to="215" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Economic costs of overweight and obesity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lehnert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sonntag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Konnopka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Riedel-Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-H</forename><surname>König</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.beem.2013.01.002</idno>
+		<ptr target="https://doi.org/10.1016/j.beem.2013.01.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Best Practice &amp; Research Clinical Endocrinology &amp; Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="105" to="115" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Parasocial interactions and relationships with media characters: An inventory of 60 years of research</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Liebers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schramm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research Trends</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="4" to="31" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Social cognitive theory</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Luszczynska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwarzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Predicting health behaviour: Research and practice with social cognition models</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Connor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">P</forename><surname>Norman</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Open University Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="127" to="169" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">This story is not for everyone: Transportability and narrative persuasion</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mazzocco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sasota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1948550610376600</idno>
+		<ptr target="https://doi.org/10.1177/1948550610376600" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychological and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="361" to="368" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Self-efficacy and the maintenance of exercise participation in older adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mcauley</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF00844757</idno>
+		<ptr target="https://doi.org/10.1007/BF00844757" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of behavioral medicine</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="113" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Edutainment&apos;s impact on health promotion. Health Promotion Practice</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mocarski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bissell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1524839915613026</idno>
+		<ptr target="https://doi.org/10.1177/1524839915613026" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="107" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moyer-Gusé</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2008.00328.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.2008.00328.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="407" to="425" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Reality-based television programming and the psychology of its appeal</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Biely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Stitt</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s1532785xmep0504_01</idno>
+		<ptr target="https://doi.org/10.1207/s1532785xmep0504_01" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="303" to="330" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The effects of reality-based television programming on diet and exercise motivation and self-efficacy in young adults</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thomas</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2012.711510</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2012.711510" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="699" to="708" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Design for behaviour change: A model-driven approach for tailoring persuasive technologies</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Orji</surname></persName>
+		</author>
+		<ptr target="http://hdl.handle.net/10388/ETD-2014-06-1555" />
+	</analytic>
+	<monogr>
+		<title level="m">Graduate Theses and Dissertations</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Doctoral dissertation, University of Saskatchewan</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Social cognitive determinants of exercise behavior in the context of behavior modeling: A mixed method approach</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oyibo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Adaji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vassileva</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2055207618811555</idno>
+		<ptr target="https://doi.org/10.1177/2055207618811555" />
+	</analytic>
+	<monogr>
+		<title level="j">Digital Health</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2018">2018. 2055207618811555</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Entertainment-education and social change: An analysis of parasocial interaction, social learning, collective efficacy, and paradoxical communication</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Papa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Law</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Shefner-Rogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-2466.2000.tb02862.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1460-2466.2000.tb02862.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="31" to="55" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">The transtheoretical model of health behavior change</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Prochaska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Velicer</surname></persName>
+		</author>
+		<idno type="DOI">10.4278/0890-1171-12.1.38</idno>
+		<ptr target="https://doi.org/10.4278/0890-1171-12.1.38" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Health Promotion</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="48" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Overcoming resistance through narratives: Findings from a meta-analytic review</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Ratcliff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/hcr/hqz017</idno>
+		<ptr target="https://doi.org/10.1093/hcr/hqz017" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="412" to="443" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">The effect of social support on exercise behavior in older adults</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Resnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Orwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Magaziner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wynne</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/105477380201100105</idno>
+		<ptr target="https://doi.org/10.1177/105477380201100105" />
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Nursing Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="52" to="70" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">How big is the physical activity intention-behaviour gap? A meta-analysis using the action control framework</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G.-J</forename><surname>De Bruijn</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bjhp.12032</idno>
+		<ptr target="https://doi.org/10.1111/bjhp.12032" />
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="296" to="309" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Self-perception of overweight and obesity: A review of mental and physical health outcomes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Haynes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sutin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daly</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/osp4.424</idno>
+		<ptr target="https://doi.org/10.1002/osp4.424" />
+	</analytic>
+	<monogr>
+		<title level="j">Obesity Science &amp; Practice</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="552" to="561" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Task and scheduling self-efficacy as predictors of exercise behavior</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Blanchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mcauley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Munroe</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0887044022000004902</idno>
+		<ptr target="https://doi.org/10.1080/0887044022000004902" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="405" to="416" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Imitation in children as a function of perceived similarity to a social model and vicarious reinforcement</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rosekrans</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/h0025072</idno>
+		<ptr target="https://doi.org/10.1037/h0025072" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="307" to="315" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Social cognitive determinants of physical activity in young adults: A prospective structural equation analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Rovniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Winett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Stephens</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15324796abm2402_12</idno>
+		<ptr target="https://doi.org/10.1207/s15324796abm2402_12" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Behavioral Medicine</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="156" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Loneliness, parasocial interaction, and local television news viewing</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Perse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Powell</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2958.1985.tb00071.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2958.1985.tb00071.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Communication Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="155" to="180" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Development of parasocial interaction relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Mchugh</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08838158709386664</idno>
+		<ptr target="https://doi.org/10.1080/08838158709386664" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Broadcasting &amp; Electronic Media</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="279" to="292" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Does parasocial interaction with weight loss vloggers affect compliance? The role of vlogger characteristics, consumer readiness, and health consciousness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Sakib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zolfagharian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yazdanparast</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jretconser.2019.01.002</idno>
+		<ptr target="https://doi.org/10.1016/j.jretconser.2019.01.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Retailing and Consumer Services</title>
+		<imprint>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Parasocial relationships and television: A metaanalysis of the effects</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schiappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mass media effects research: Advances through meta-analysis</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Preiss</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Gayle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Burrell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Allen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">J</forename><surname>Bryant</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="301" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">The PSI-process scales. A new measure to assess the intensity and breadth of parasocial processes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schramm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/comm.2008.025</idno>
+		<ptr target="https://doi.org/10.1515/comm.2008.025" />
+	</analytic>
+	<monogr>
+		<title level="j">Communications</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Motivation and social cognitive theory</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Schunk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Di Benedetto</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cedpsych.2019.101832</idno>
+		<ptr target="https://doi.org/10.1016/j.cedpsych.2019.101832" />
+	</analytic>
+	<monogr>
+		<title level="m">Contemporary Educational Psychology</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">101832</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Epidemics of will, failures of self-esteem: Responding to fat bodies in the biggest loser and what not to wear</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10304310802190046</idno>
+		<ptr target="https://doi.org/10.1080/10304310802190046" />
+	</analytic>
+	<monogr>
+		<title level="j">Continuum</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="573" to="584" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Effectiveness of entertainment education in communicating health information: a systematic review</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01292986.2014.927895</idno>
+		<ptr target="https://doi.org/10.1080/01292986.2014.927895" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="605" to="616" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">The psychological mechanisms of persuasive impact from narrative communication</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcneal</surname></persName>
+		</author>
+		<idno type="DOI">10.24434/j.scoms.2017.02.003</idno>
+		<ptr target="https://doi.org/10.24434/j.scoms.2017.02.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Studies in Communication Sciences</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="165" to="181" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">The biggest Loser: The discursive constitution of fatness</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Silk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francombe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bachelor</surname></persName>
+		</author>
+		<idno type="DOI">10.1386/iscc.1.3.369_1</idno>
+		<ptr target="https://doi.org/10.1386/iscc.1.3.369_1" />
+	</analytic>
+	<monogr>
+		<title level="j">Interactions: Studies in Communication &amp; Culture</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="369" to="389" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Entertainment-education: A communication strategy for social change</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Sage</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">A theoretical agenda for entertainment? education</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2885.2002.tb00262.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2885.2002.tb00262.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="135" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Extending conceptualization and measurement of narrative engagement after-the-fact: Parasocial relationship and retrospective imaginative involvement</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Ewoldsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Woods</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2017.1328313</idno>
+		<ptr target="https://doi.org/10.1080/15213269.2017.1328313" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Audience responses to physical activity in the biggest loser Australia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bonfiglioli</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10810730.2018.1558314</idno>
+		<ptr target="https://doi.org/10.1080/10810730.2018.1558314" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The association between social support and physical activity in older adults: A systematic review</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Banting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eime</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>O'sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G Z</forename><surname>Van Uffelen</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12966-017-0509-8</idno>
+		<ptr target="https://doi.org/10.1186/s12966-017-0509-8" />
+	</analytic>
+	<monogr>
+		<title level="j">The international journal of behavioral nutrition and physical activity</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">The effects of exercise and physical activity on weight loss and maintenance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Swift</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mcgee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Earnest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carlisle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nygard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Johannsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pcad.2018.07.014</idno>
+		<ptr target="https://doi.org/10.1016/j.pcad.2018.07.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Cardiovascular Diseases</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="206" to="213" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Obese people&apos;s attitudes towards the biggest loser</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Komesaroff</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/obe.2007.0065</idno>
+		<ptr target="https://doi.org/10.1089/obe.2007.0065" />
+	</analytic>
+	<monogr>
+		<title level="j">Obesity Management</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="210" to="215" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Cheapening the struggle</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">Parasocial interaction with liked, neutral, and disliked characters on a popular TV series</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hoffner</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15205430903296051</idno>
+		<ptr target="https://doi.org/10.1080/15205430903296051" />
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Mass Communication and Society</publisher>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="250" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Connecting withthe biggest loser: An extended model of parasocial interaction and identification in health-related reality TV shows</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Yoo</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2013.836733</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2013.836733" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">The effect of relational and interactive aspects of parasocial experiences on attitudes and message resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tukachinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sangalang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08934215.2016.1148750</idno>
+		<ptr target="https://doi.org/10.1080/08934215.2016.1148750" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Reports</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="175" to="188" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Theorizing development of parasocial engagement</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tukachinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stever</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ct/qty032</idno>
+		<ptr target="https://doi.org/10.1093/ct/qty032" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Theory</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="230" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">10 the effects of engagement with entertainment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tukachinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tokunaga</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23808985.2013.11679153</idno>
+		<ptr target="https://doi.org/10.1080/23808985.2013.11679153" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the International Communication Association</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="287" to="322" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Antecedents and effects of parasocial relationships: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tukachinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Saucier</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/joc/jqaa034</idno>
+		<ptr target="https://doi.org/10.1093/joc/jqaa034" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="868" to="894" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Social relationships and physical activity in health club members</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.4278/0890-1171-9.5.340</idno>
+		<ptr target="https://doi.org/10.4278/0890-1171-9.5" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Health Promotion</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">340</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Predicting risk behaviors: Development and validation of a diagnostic scale</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Witte</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/108107396127988</idno>
+		<ptr target="https://doi.org/10.1080/108107396127988" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="317" to="342" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<ptr target="https://apps.who.int/iris/bitstream/handle/10665/272722/9789241514187-eng.pdf?sequence=1&amp;isAllowed=y" />
+		<title level="m">Global action plan on physical activity 2018-2030: More active people for a healthier world</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<ptr target="https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight" />
+		<title level="m">Obesity and overweight</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">No clear winner: Effects of the biggest loseron the stigmatization of obese persons</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Yoo</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2012.684143</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2012.684143" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="294" to="303" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Efficacy and causal mechanism of an online social media intervention to increase physical activity: Results of a randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brackbill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Centola</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pmedr.2015.08.005</idno>
+		<ptr target="https://doi.org/10.1016/j.pmedr.2015.08.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Preventive Medicine Reports</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="651" to="657" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">What predicts exercise maintenance and well-being? Examining the influence of health-related psychographic factors and social media communication</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishnan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10410236.2018.1428851</idno>
+		<ptr target="https://doi.org/10.1080/10410236.2018.1428851" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="589" to="597" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

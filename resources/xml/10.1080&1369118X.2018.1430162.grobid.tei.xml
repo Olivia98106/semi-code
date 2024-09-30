@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Two tests of social displacement through social media use</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability status="unknown"><p>Copyright Informa UK Limited</p>
+				</availability>
+				<date type="published" when="2018-02">2018-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jeffrey</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+							<email>hallj@ku.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">W</forename><surname>Kearney</surname></persName>
+							<idno type="ORCID">0000-0002-0730-4694</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Chong</forename><surname>Xing</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Communication Studies</orgName>
+								<orgName type="institution">University of Kansas</orgName>
+								<address>
+									<settlement>Lawrence</settlement>
+									<region>KS</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Communication Studies</orgName>
+								<orgName type="institution">University of Kansas</orgName>
+								<address>
+									<addrLine>Bailey Hall, 1440 Jayhawk Blvd., Rm 102</addrLine>
+									<postCode>66045-7574</postCode>
+									<settlement>Lawrence</settlement>
+									<region>KS</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Two tests of social displacement through social media use</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Information, Communication &amp; Society</title>
+						<title level="j" type="abbrev">Information, Communication &amp; Society</title>
+						<idno type="ISSN">1369-118X</idno>
+						<idno type="eISSN">1468-4462</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">22</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page" from="1396" to="1413"/>
+							<date type="published" when="2018-02" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">EE5CF6809A87A47C4956F5C014F1FF6A</idno>
+					<idno type="DOI">10.1080/1369118x.2018.1430162</idno>
+					<note type="submission">Received 15 May 2017 Accepted 9 January 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-30T08:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Experience sampling methodology</term>
+					<term>longitudinal methods</term>
+					<term>LSAY</term>
+					<term>social displacement</term>
+					<term>social media use</term>
+					<term>well-being</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The present manuscript presents two tests of the hypothesis that social media use decreases social interaction, leading to decreased well-being. Study 1 used the Longitudinal Study of American Youth (N = 2774), which is a national probability sample of Generation X, to test displacement over a three-year time period. Latent change scores were used to test associations among social media adoption in 2009, social media use in 2011, direct contact frequency across years, in relation to change in well-being. Although social media adoption in 2009 predicted less social contact in 2011, increased social media use between 2009 and 2011 positively predicted well-being. Study 2 used experience sampling with a combined community and undergraduate sample (N = 116). Participants reported on their social interactions and passive social media use (i.e., excluding chat via social media) five times a day over five days. Results indicate that social media use at prior times of day was not associated with future social interaction with close others or with future face-to-face interaction. Passive social media use at prior times predicted lower future well-being only when alone at prior times. Neither study supported the social displacement hypothesis. Several interpretations of results, including a need-based account of social media use, are examined. The challenges of identifying an appropriate time scale to study social displacement are identified as critical question for future research.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>From the telegram to the smart phone, the adoption of new technologies has inspired fears of moral decline and widespread social harm <ref type="bibr" target="#b1">(Baym, 2015;</ref><ref type="bibr" target="#b4">boyd, 2014)</ref>. Two decades ago, rapid adoption of internet technologies was accompanied by concerns about declines in the quality of personal relationships and communication within those relationships <ref type="bibr" target="#b17">(Kraut et al., 1998;</ref><ref type="bibr" target="#b25">Nie, 2001)</ref>. Called the internet paradox by <ref type="bibr" target="#b17">Kraut et al. (1998)</ref>, greater internet connectivity was seen as 'inevitably' displacing face-to-face contact with close friends and family <ref type="bibr" target="#b25">(Nie, 2001)</ref>. The widespread adoption of social media in the last decade has been met with similar concerns about its deleterious effect on well-being (e.g., <ref type="bibr" target="#b8">Dunbar, 2016;</ref><ref type="bibr" target="#b33">Sigman, 2009;</ref><ref type="bibr" target="#b38">Turkle, 2011)</ref>, prompting a rigorous, but not wholly unfamiliar, debate about the degree to which that concern is warranted. Evidence toward resolving this so-called paradox is practically important. Over 200 million Americans use Facebook alone, 70% of which are daily users <ref type="bibr">(The Economist, 2016)</ref>. The average active Facebook user spends 50 minutes a day on the site <ref type="bibr">(The New York Times, 2016)</ref>, or approximately two full working days a month <ref type="bibr">(The Economist, 2016)</ref>. This amounts to more time using Facebook each day than the combined activities of reading and exercising (US Department of <ref type="bibr">Labor, 2015)</ref>.</p><p>To contribute to this important national conversation, the present project presents two tests of the social displacement via social media hypothesis, employing two distinct longitudinal data sets. This project tests the hypothesis that increasing use of social media is associated with future decreases in face-to-face or direct communication with close relationship partners, which leads to diminished well-being. Using both a longitudinal, nationally representative data set that tracked social media adoption, social interaction, and well-being between 2009 and 2011 (study 1) and experience sampling study using a combined undergraduate and community sample (study 2), the present investigation explores whether social displacement effects are detectable in adult social media users. In doing so, this investigation answers calls for the use of longitudinal methods, sampling beyond undergraduate participants, and careful consideration of the influence of online behavior on offline sociability <ref type="bibr" target="#b8">(Dunbar, 2016;</ref><ref type="bibr" target="#b15">Huang, 2010;</ref><ref type="bibr" target="#b20">Manago &amp; Vaughn, 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The social displacement hypothesis</head><p>The social displacement hypothesis, as originally proposed, stated that when individuals spend more time on the internet they spent less time having face-to-face interactions with close friends and family. This argument claimed that despite increased communication opportunities, internet use reduced social involvement and psychological wellbeing <ref type="bibr" target="#b17">(Kraut et al., 1998;</ref><ref type="bibr" target="#b25">Nie, 2001)</ref>. Subsequent empirical investigations caveated these claims (e.g., <ref type="bibr" target="#b16">Kraut et al., 2002;</ref><ref type="bibr" target="#b26">Nie &amp; Hillygus, 2002)</ref>, and a meta-analysis found only weak evidence (r = -.04) of the cross-sectional association between internet use and well-being <ref type="bibr" target="#b15">(Huang, 2010)</ref>. Since its original formulation, the displacement hypothesis has found new life in the study of online discussion groups <ref type="bibr" target="#b6">(Cummings, Butler, &amp; Kraut, 2002)</ref> and then-emergent social network sites (SNSs) <ref type="bibr" target="#b27">(Parks, 2011)</ref>.</p><p>Although there is no single agreed-upon definition <ref type="bibr" target="#b10">(Ellison &amp; Vitak, 2015)</ref>, social media are typically identified by a set of affordances, particularly platforms that allow peer-topeer communication that is searchable and scalable. SNSs, particularly Facebook, are the most ubiquitous and identifiable form of social media <ref type="bibr" target="#b10">(Ellison &amp; Vitak, 2015)</ref>. Consequently, Facebook has received a large amount of research attention on social media <ref type="bibr" target="#b40">(Wilson, Gosling, &amp; Graham, 2012)</ref>.</p><p>When applied to social media use, there are four types of indirect evidence of social displacement. First, a recent meta-analysis, including nine thousand Facebook users, reported a weak positive association between use and loneliness (r = -.13) but questioned the causal direction of that association <ref type="bibr" target="#b34">(Song et al., 2014)</ref>. This establishes a link between social media use and loneliness as asserted by the displacement hypothesis. Second, the association between the number of face-to-face relationships and positive psychosocial outcomes is stronger than the association between online-only relationships and psychosocial outcomes <ref type="bibr" target="#b0">(Ahn &amp; Shin, 2013;</ref><ref type="bibr" target="#b13">Helliwell &amp; Huang, 2013;</ref><ref type="bibr" target="#b28">Pollet, Roberts, &amp; Dunbar, 2011;</ref><ref type="bibr" target="#b31">Shakya &amp; Christakis, 2017)</ref>. Face-to-face relationships and social interactions are more beneficial to well-being than online-only relationships and interactions. Third, about 40% of Facebook friends are actual friends, and close friends and family constitute approximately only 20% of one's online social network <ref type="bibr" target="#b8">(Dunbar, 2016;</ref><ref type="bibr" target="#b10">Ellison &amp; Vitak, 2015)</ref>. A recent meta-analysis confirms that social media use is associated with more engagement with less close relationship partners <ref type="bibr" target="#b19">(Liu &amp; Yang, 2016)</ref>. Finally, a negative association between social media use and the number of interactions with close friends and family has been found in cross-sectional research <ref type="bibr" target="#b0">(Ahn &amp; Shin, 2013;</ref><ref type="bibr" target="#b8">Dunbar, 2016;</ref><ref type="bibr" target="#b13">Helliwell &amp; Huang, 2013)</ref>, which suggests that social media use is associated with social displacement. All four bodies of evidence are consistent with the social displacement hypothesis, but none of which is sufficient to show that social media use leads to a decrease in direct contact with close others, which, in turn, decreases well-being.</p><p>Short-term longitudinal methods (e.g., <ref type="bibr" target="#b32">Sheldon, Abad, &amp; Hinsch, 2011;</ref><ref type="bibr" target="#b14">Hinsch &amp; Sheldon, 2013)</ref> and experience sampling methods (ESMs) <ref type="bibr" target="#b18">(Kross et al., 2013;</ref><ref type="bibr" target="#b39">Verduyn et al., 2015)</ref> have been utilized to explore the association between social media use and wellbeing. Abstaining from Facebook for several days increases feelings of disconnection <ref type="bibr" target="#b32">(Sheldon et al., 2011)</ref> and also increases life satisfaction <ref type="bibr" target="#b14">(Hinsch &amp; Sheldon, 2013;</ref><ref type="bibr" target="#b37">Tromholt, 2016)</ref>. Retrospective Facebook use is associated with greater loneliness and diminished well-being in the moment <ref type="bibr" target="#b18">(Kross et al., 2013)</ref>. These studies do not provide clear evidence of social displacement as none measure the communication medium or emotional closeness of interaction partners, which are the central mechanisms of the displacement hypothesis.</p><p>A recent three-year longitudinal study <ref type="bibr" target="#b31">(Shakya &amp; Christakis, 2017)</ref> of the association between Facebook use and well-being found that the number of clicked links and 'likes' predicted lower physical and mental health one year later. Although <ref type="bibr" target="#b31">Shakya and Christakis (2017)</ref> explored the positive association with number and quality of close relationships, they did not explore whether social media use predicted change in interactions with close others. The ESM study most pertinent to the present investigation (i.e., <ref type="bibr" target="#b18">Kross et al., 2013)</ref> did not test the influence of past social media use on future face-to-face or phone contact, which is the key mechanism of the social displacement hypothesis. Therefore, while it may be accurate to claim that social media use is associated with negative psychosocial outcomes in general, there is insufficient evidence that this association is due to fewer direct interactions with close others.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research overview</head><p>To provide a robust test of the social displacement via social media hypothesis, the present manuscript reports the results of two longitudinal studies. Longitudinal data collected in early studies on internet use (e.g., <ref type="bibr" target="#b25">Nie, 2001)</ref> suggest that social displacement is a yearover-year phenomenon. To create a test of displacement that was analogous with early investigations, longitudinal data over the span of years were needed. Study 1 uses data from the Longitudinal Study of American Youth (LSAY) <ref type="bibr" target="#b21">(Miller, 2014)</ref> to examine whether change in social media use between 2009 and 2011 explains change in the number of direct conversations with close others, and, in turn, whether this change predicts change in well-being. Formally stated: H1: Social media use is associated with less direct social contact in the future; H2: Increased social media use over time is associated with decreased direct social contact over time; and H3: Increased social media use is associated with decreased well-being via its influence on direct social contact.</p><p>Self-reported measures often fail to provide reliable accounts of everyday behaviors. ESM administered through mobile phones is a recommended solution to this problem <ref type="bibr" target="#b2">(Bolger &amp; Laurenceau, 2015)</ref>. ESM is an intensive longitudinal study design, wherein participants are sent short surveys several times a day for several days consecutively. This provides time-sensitive and ordered data, which accounts for within-person variation in study variables (i.e., social media use, interaction medium, and type of interaction partner). ESM allows researchers to conduct cross-lagged analysis, using the individual as his or her own control, which offers a weak test of causality <ref type="bibr" target="#b2">(Bolger &amp; Laurenceau, 2015)</ref>. Study 2 tested three components of the displacement hypothesis: H4: Social media use is associated with more future social interactions with less emotionally close interaction partners within a day; H5: Social media use is associated with fewer future face-to-face interactions within a day; and H6: Social media use and interactions with less close interaction partners interact to predict lower future well-being within a day.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 1</head><p>Method study 1</p><p>The LSAY was initiated in 1985 to study attitudes toward achievement and career plans in science and mathematics during middle school, high school, and the first four years posthigh school in two cohorts of American public school students <ref type="bibr" target="#b21">(Miller, 2014)</ref>. Two nationally representative samples of 7th-and 10th-grade students were recruited in 1987. Twenty years later, the original LSAY participants were surveyed each year between 2007 and 2011. Information from the original data collection and the 2007 and 2008 updates were used for control variables, including marital status, employment status, number of children, age, sex, and years of education. Demographic information was not updated by participants in the 2009-2011 surveys. All items used in the analyses to test study hypotheses were from the 2009-2011 surveys.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants (N = 2773) who completed 2009, 2010, and 2011 waves were included, and 72% completed all three surveys. Most missing participants did not complete the 2010 wave. All participants were between the ages of 31 and 35 in 2007 (M age = 32.3). For marital and employment status and number of children, 2008 responses were primarily used. When 2008 data were missing, 2007 responses were used. The descriptive information presented here is only for the sample of participants used in this study, not for the entire LSAY. The sample was more likely to be female (55.8%), married in 2008 (68.9%), and employed either full time or part time in 2008 (83.3%). Among participants who had children (69.7%), most had one (62.8%) or two children (32.1%) in 2008, while the remaining had 3 or more (5.1%). The highest level of education completed in 2007 was measured using separate items: 1.7% had not completed high school, 9% were high school graduates, 23.9% had completed some college or vocational training, 16% had completed an associates' degree, 24.7% were college graduates, 7.1% had a masters' degree, and 4.5% had a PhD or professional degree.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instrumentation</head><p>As in the case of many longitudinal studies, the survey questions changed between years. Some questions were repeated each year and some were asked in alternating years. The item scaling also changed between years for some items, but not others. For example, social media were measured in 2009 and 2011 using different scales. In 2009, social media adoption was measured on a yes/no scale in response to the question, 'Do you currently have/do any of the following: Face Book page, Twitter, My Space, YouTube, message board, LinkedIn, Blog, and Skype.' In 2011, the phrasing had changed to: 'In a typical month, how often do you do each of the following activities? If you have done it a large number of times, please make your best estimate of the number and enter it into the response box.' Social media use items from 2011 were: use Facebook, use Twitter, use Skype, and look at YouTube.</p><p>Direct social interaction was measured in the same way all three years. The item stem was, 'In a typical week, how many times do you do each of the following activities? If you do not do an activity, please enter zero in the response box.' The three items used for the present investigation were measured using response box: 'Visit a friend or relative who does not live with you normally,' 'Talk on the phone with a friend or relative who does not live with you?' and 'Attend a group or organization meeting other than religious.'</p><p>Affective well-being was measured using a single item in 2008 and 2010, 'Thinking about all of the aspects of your life, how happy are you?' (0 = very unhappy, 10 = very happy). For all study 1 means, standard deviations, and a correlation matrix see Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results study 1</head><p>Of the three variables used to test hypotheses, only one was measured every year and in the same way between 2009 and 2011 (i.e., direct social contact), which limited data analysis options. The present investigation constructed two structural equation panel models: one exploring the associations among social media adoption in 2009 and social media use in 2011 and direct social contact across years (Figure <ref type="figure" target="#fig_1">1</ref>); the other exploring the associations among increase in social media adoption/use, increase in direct contact, and affective wellbeing in 2010, accounting for 2008 affective well-being (Figure <ref type="figure" target="#fig_2">2</ref>).  A mixture modeling <ref type="bibr" target="#b22">(Muthén, 2001)</ref> with formative indicators <ref type="bibr" target="#b3">(Bollen, 1989)</ref> approach was used for model specification and estimation. This measurement and analysis strategy was adopted for three reasons: (1) the hypothesized models contained both categorical (social media adoption in 2009) and continuous latent variables (social media use in 2011); (2) the latent social media variables were a product of the adoption/use of social media and not vice versa; and (3) the latent social contact variables were a product of the specific forms of social interactions measured using a continuous variable. Thus, the typical reflective indicator modelwhich would include the paradoxical assumption that adopting social media is a product of using social mediais inappropriate for testing the current hypotheses that involve exposure to social media and social interaction <ref type="bibr">(Bollen &amp; Bauldry, 2011)</ref>. The formative approach forms a factor by a weighted sum of the indicators where the weights are estimated, but measurement error is not parsed out <ref type="bibr">(Muthén &amp; Muthén, 1998</ref><ref type="bibr" target="#b40">-2012)</ref>. Unlike traditional aggregating methods, estimates from this formative approach are optimized because the weight associated with each observed variable is allowed to vary <ref type="bibr">(Bollen &amp; Bauldry, 2011)</ref>. One approach to formative constructs is to choose one measured item as the anchor indicator of the underlying construct. To measure direct social interaction across all three years, the formative measured item was number of visits per week to friends and relatives. To measure social media use in 2011, the number of times using Facebook was chosen as the anchor item.</p><p>To test H1 thru H3 in the first structural equation panel model, paths among social media adoption in 2009 and direct social interaction across all years and future social media use were freely estimated, controlling for demographic characteristics (Figure <ref type="figure" target="#fig_1">1</ref>). Model fit indices for the hybrid model (i.e., both measurement and path models) indicated an acceptable fit to the data (RMSEA = .081, CFI = .928, SRMR = .027). Results indicated that social media adoption in 2009 predicted social media use in 2011. Direct social interaction in 2010 was not associated with direct social interaction in 2009, although that relationship was approaching significance. Direct social interaction in 2010 was not predicted by social media adoption in 2009. Direct social interaction in 2011 was predicted by direct social interaction in 2010 and negatively predicted by social media adoption in 2009, but not social media use in 2011. Results offer only partial support for H1. Using bootstrapped estimates, two indirect effects were estimated, but neither were significant: from social media adoption in 2009 to direct contact in 2011 via social media use in 2011 (B = .64, SE = .51, p = .21), and social media adoption through 2010 direct contact (B = -.21, SE = .21, p = .32). The lack of significant indirect effects offered no support for H3.</p><p>The second structural equation panel model (Figure <ref type="figure" target="#fig_2">2</ref>) created two latent change scores representing change in social media use and change in direct social contact between 2009 and 2011. This models the increase or decrease in the variable at the latent level (i.e., a latent composite of the measured items). To study change in social media use, three of the four items repeated in both years were used: Facebook, Twitter, and YouTube. All three are social media <ref type="bibr" target="#b10">(Ellison &amp; Vitak, 2015)</ref>, two of the three were popular and nascent SNSs, and all three were viable media platforms in both years (unlike MySpace). To make direct comparisons across years, frequency of social media use in 2011 was converted into dichotomous responses (1 = use, 0 = no use): 74% using Facebook, 12% using Twitter, and 71% using YouTube. To test displacement, the path between change in social media use and change in direct social interaction was freely estimated, as were paths between both changes scores and well-being in 2010, controlling for 2008 well-being. Model fit indices for the hybrid model indicated an acceptable fit to the data (RMSEA = .067, CFI = .928, SRMR = .030). Change in direct social interaction was unrelated to well-being in 2010, controlling for 2008 well-being. Change in social media use was positively associated with well-being in 2010, controlling for 2008 well-being. The path between change in social media use and change in direct social contact was not significant (B = -.02, SE = .01, p = .085), which offers no support for H2. However, this path estimate was consistent with the first SEM in direction and size. Bootstrapped estimates were used to test a single indirect effect: between change in social media use to well-being in 2010 via change in direct social contact. This path was not significant (B = .002, SE = .002, p = .36), which offers no support for H3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion study one</head><p>Using longitudinal data from a nationally representative sample of Generation X, study 1 found little support for the hypothesis that social media use displaces direct social contact. Individuals who had adopted a variety of social media in 2009 reported having fewer direct social contacts in 2011, but not in 2010. Furthermore, the frequency of social media use in 2011 was unassociated with number of direct social contacts in the same year. Change in social media use was unassociated with changes in direct social contact, which does not support the displacement hypothesis. Furthermore, results indicated that change in social media use from 2009 to 2011 was positively associated with well-being in 2010, which directly contradicts the social displacement hypothesis.</p><p>Although participants can self-report their social media use more accurately than general internet use <ref type="bibr" target="#b30">(Scharkow, 2016)</ref>, respondent recall bias may have influenced study 1 results. In addition, recent investigations suggest that the way social media is used affects its outcomes. Attending to the affordances of Facebook use, <ref type="bibr" target="#b39">Verduyn et al. (2015)</ref> found that passive Facebook use (e.g., browsing) was associated with decreased well-being while direct communication (e.g., exchanging private messages) showed no effect. These two common uses are not equivalent in terms of effect on relationships: direct, but not passive Facebook use, is associated with greater tie strength over time <ref type="bibr" target="#b5">(Burke &amp; Kraut, 2014)</ref>. Oneclick acknowledgement, such as a 'like,' does not strengthen relationship ties <ref type="bibr" target="#b5">(Burke &amp; Kraut, 2014;</ref><ref type="bibr" target="#b12">Hall, 2018)</ref>, and has been found to be cumulatively associated with decreased physical and mental health and life satisfaction in future years <ref type="bibr" target="#b31">(Shakya &amp; Christakis, 2017)</ref>. No prior study has explored social media affordances in relation to social displacement. Study 2 attempts to re-test displacement hypotheses and differentiate the effect of passive social media use compared to direct communication through social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 2</head><p>Method study 2</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were recruited and data were gathered in the summer of 2015. Adult participants (N = 62) were recruited through a snowball sample. Inclusion criteria were: participants had to be over the age of 28, have a mobile phone with short message service (SMS) (i.e., text messaging) capabilities, and able to answer survey questions at work if employed. Participants were offered a financial incentive for study completion. Adult participants were 64% female, and were an average of 38 years old (SD = 11.24, Range = 28-77). Participants described their race/ethnicity as White (95%), with 3% African-American, and 2% Latino. Undergraduate participants (N = 54) were offered research credit in an introductory course and a financial incentive in exchange for study completion. Participants were 50% female and an average of 19.1 years old (SD = 1.23, range = 18-22). Participants described their race/ethnicity as White (67%), 16% Asian, 9% African-American, 7% Latino, and 1% Native American.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>After recruitment, participants provided oral consent. The study design and procedure were discussed either in person or on the telephone and the definitions of all variables used in the ESM portion of the study were carefully explained. Subsequently, participants completed an online survey collecting demographic measures and other measures not reported here. One or two days later, participants began the ESM portion of the study by receiving SMS surveys on their mobile phone. Participants were sent SMS surveys at five random intervals of time for five consecutive days. The times of the SMS surveys were created through stratified sampling: one SMS survey was sent at a randomly selected minute every 2.5 hours. The number of surveys within-day (i.e., 5) and the number of consecutive days participating (i.e., 5) both exceeded recommended guidelines for examining within-person effects within a day and between days <ref type="bibr" target="#b36">(Stone &amp; Shiffman, 2002)</ref>. The final data set consisted of 116 (participants) × 5 days × 5 experience samples = 2722 (95% completion rate).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>The first ESM question asked participants, 'Have you had a social interaction with anyone in the last 10 minutes?' (Y/N). If participants responded affirmatively, they were asked, 'How were you interacting?' with four choices (i.e., face-to-face, telephone, text or chat, and social media) measuring interaction medium. Participants were instructed before beginning the study that chat through social media (e.g., Facebook chat) would be considered chat, not social media use. Mobile media apps, such as SnapChat and WhatsApp, were also considered chat programs. The fourth option (i.e., social interaction through social media) was selected very infrequently (∼2% of interactions). Excepting direct chat, the forms of social media use most often considered social interaction include commenting and tagging photos <ref type="bibr" target="#b12">(Hall, 2018)</ref>. Given the low frequency of this response option, it was excluded from further analyses.</p><p>The third question, interaction partner, was, 'Who were you interacting with?' with four choices: close friends or family, other friends or family, acquaintances, and strangers. Close friends and family were defined as those with whom you discuss important things, can call on for help, and have regular intimate contact. Friends and family were people who participants would call friends or family but were not as emotionally close as to. After responding to this question, all participants were asked, 'Have you used social media in the last 10 minutes?' (Y/N). Social media use was defined as any use of social networking programs (e.g., Facebook, Instagram, Google+) or microblogs, (Twitter), including browsing, viewing pictures, checking in, checking alerts or notifications, or 'liking.' All participants, regardless of whether they had socially interacted or used social media, finally responded to a question measuring affective well-being: 'How do you feel right now?' on a 100-pt scale (1 = very bad, unhappy, very negative, 100 = very good, happy, very positive) <ref type="bibr" target="#b18">(Kross et al., 2013)</ref>. See Table <ref type="table" target="#tab_1">2</ref> for all study variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results study 2</head><p>The data were analyzed using multilevel modeling in R (R Core Team, 2016) to model the within-person trajectories and between-person differences. There were up to 25 waves of experience samples (level-1) nested within 116 participants (level-2). <ref type="bibr" target="#b2">Bolger and Laurenceau (2015)</ref> recommend that the independent variable (i.e., social media use) be both grand mean and person centered at level-2. Including the person-centered dependent variable at the earlier time point (i.e., past social media use) is necessary to test H4 and H5. The between days observations (i.e., responses from the night before carried over to the next morning) were removed because social interaction is regulated within, not between, days <ref type="bibr" target="#b11">(Hall, 2017)</ref>. Time between experience samples was modeled by minutes lapsed since last completed SMS survey <ref type="bibr" target="#b2">(Bolger &amp; Laurenceau, 2015)</ref>.</p><p>Table <ref type="table" target="#tab_2">3</ref> reports the results of the influence of past social media use (i.e., level-1: SM use) on future relationship partner at the next time within the same day (H4). The identity of the past relationship partner measured categorically and was controlled for, so that the lagged analysis could predict the change in relationship partner due to the influence of past social media use. The acquaintance and stranger responses were combined to simplify interpretation. Results of social media use at level-1 demonstrate that past social media use was unrelated to the emotional closeness of future interaction partner. Results for social media at level-2 (i.e., between-subjects) demonstrate that participants who use social media more in general are less likely to be alone and more likely to interact with close relationship partners.</p><p>Table <ref type="table" target="#tab_3">4</ref> reports the results of the influence of past social media use on future interaction medium at the next time within the day (H5). Again, past interaction medium was controlled for in order to test for change in medium over time. Results of social media use at level-1 demonstrate that social media use was unrelated to interaction medium choice in the future. The results for between-subjects social media use demonstrate that participants who use social media more in general are less likely to be alone and more likely to interact FtF.</p><p>A cross-lagged model was created to test whether the interaction of partner (i.e., close friends/family) and medium (i.e., face-to-face) moderates the effect of social media use on future affective well-being, controlling for past well-being ( <ref type="formula">H6</ref>). An interaction variable was constructed: 1 = face-to-face social interaction with close friends/ family, 0 = all other social interactions, and -1 = no social interaction. Past wellbeing (B = .03, SE = .02, p &lt; .01) and the interaction term both predicted future wellbeing (B = -2.12, SE = .09, p &lt; .001). Although the moderation was significant, the decomposition of this effect demonstrated that using social media use earlier in the day was associated with decreased well-being for participants but only for those who  Response categories are none (model 1), text (model 2), phone (model 3), and face-to-face (model 4). Response categories are also used to interpret the intercept fixed effect. To aid in clarity, the referent group for each model was specified to be the same as the response category of interest.</p><p>were alone earlier in the day, but not for participants who had had any type of other social contact earlier in that same day (Figure <ref type="figure" target="#fig_3">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion study 2</head><p>The results of study 2 suggest that passive use of social media does not predict future interaction channel (i.e., face-to-face vs. telephone vs. text) and it does not predict future the emotional closeness of interaction partners. The interaction effect between the two concepts (i.e., face-to-face interactions with close friends/family vs. interaction in some other way and with some other person vs. alone) was significant, but decomposition of the effect suggests that past social media use predicts lower affective well-being but only when individuals were alone earlier in the day (Figure <ref type="figure" target="#fig_3">3</ref>). This does not support the social displacement hypothesis, although it may contribute to understanding why social media may be associated with greater loneliness <ref type="bibr" target="#b32">(Sheldon et al., 2011)</ref>. Using a weak test of causality <ref type="bibr" target="#b2">(Bolger &amp; Laurenceau, 2015)</ref>, study 2 suggests that passive social media use earlier in the day does not influence future interaction partner or future interaction medium.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General discussion</head><p>The present multi-study investigation sought to test the social displacement via social media hypothesis, which claims that increased use of social media decreases interactions with close friends and family, which, in turn, causes a decrease in well-being. Neither study 1 nor study 2 supported the social displacement hypothesis, and both studies offered evidence contradicting the displacement hypothesis. The results of both studies and the implications for future research on social media are discussed below. Study 1 used a nationally representative longitudinal sample to explore social displacement via social media over years 2009-2011. This period of time was particularly important in the history of social media in terms of adoption and use. The number of Facebook users trebled and growth was particularly high for Generation X <ref type="bibr" target="#b40">(Wilson et al., 2012)</ref>, which happens to be squarely in the age range of participants in the LSAY data set. Growth in Twitter adoption and use was also particularly dramatic during that period of time. Considering study 1 in light of the social displacement hypothesis, there was evidence that individuals who adopted more types of social media in 2009 were likely to have fewer direct social contacts two years later. However, social media adoption in 2009 was unrelated to direct social contact in 2010, and social media use in 2011 was unassociated with frequency of direct social contact in 2011. A conservative interpretation of this finding, especially given the large sample size and small effect size, is that this finding is spurious. A cautious interpretation might conclude that social media use projects future declines in direct social contact but is not associated with direct social contact within the same year. This could be interpreted as offering limited evidence of one component of social displacementa negative association between early adoption of new technology and direct social contact <ref type="bibr" target="#b16">(Kraut et al., 2002;</ref><ref type="bibr">Nie &amp; Hillygus, 2001</ref>). Yet, it is certainly possible that individuals who adopted social media in 2009 were more likely to experience decreased frequency of direct interactions in 2011 for reasons unrelated to social media adoption. As <ref type="bibr" target="#b25">Nie (2001)</ref> recognized, ongoing trends toward social isolation and increased adoption of media technologies could result in a similar association without causation. As Kraut et al.'s follow up article in 2002 revealed, the initial negative associations of internet use on family communication disappeared in their original sample and even revealed a positive association in their second sample. LSAY data may simply be detecting a similar trend during a similar time of rapid media adoption and use <ref type="bibr">(i.e., internet 1998-2001; social media 2008-2011)</ref>.</p><p>This speculation becomes increasingly irrelevant in terms of the displacement hypothesis when considering that change in social media adoption from 2009 to 2011 was associated with increased affective well-being in 2010. Because affective well-being in 2008 was included in the model, evidence does not suggest that those who adopt social media experience higher well-being in general. Rather, results suggest that change in social media use is associated with a positive change in well-being. This finding is quite similar to the positive association between internet use and positive affect found in <ref type="bibr" target="#b16">Kraut et al. (2002)</ref>.</p><p>The negative indirect effect between social media and well-being via decreased direct contact, which is the critical explanatory factor of the displacement hypothesis <ref type="bibr" target="#b17">(Kraut et al., 1998;</ref><ref type="bibr" target="#b25">Nie, 2001)</ref>, was not significant in either model. A similar effect has failed to appear in a study on internet use using longitudinal methods <ref type="bibr" target="#b35">(Stepanikova, Nie, &amp; He, 2010)</ref>. Considered as a whole, the results of study 1 suggest that change between years in social interaction frequency is not associated with change in affective well-being, and change in social media use is associated with increased well-being. Therefore, the causal mechanism of the displacement hypothesis (i.e., decreased direct contact) had no support in study 1.</p><p>Study 2 used experience sampling over five days in 2015 to determine whether individuals who passively use social media experience a decreased likelihood of face-to-face social interactions with close friends and family at future times within the same day. There was no evidence of social displacement via social media use in study 2either in displacing face-to-face interactions compared to other communication channels or in displacing interactions with close others compared to less close interaction partners. One conclusion that could be drawn from study 2 is that in-the-moment passive social media use provides little to no information about who people talk to and how they talk to them in the future. The only effect detected in study 2 was that individuals who used social media in the past were more likely to experience lower future affective well-being if they were alone in the past while using social media (as compared to being in any sort of social interaction in the past). The design and findings of study 2 are most akin to <ref type="bibr" target="#b18">Kross et al. (2013)</ref> who found that retrospective Facebook use within the day is associated with diminished affective wellbeing. Both that study and the results of study 2 are consistent with a need-motivation explanation of social media use. Social media use can be seen as a behavior used to alleviate an unmet need to belong <ref type="bibr" target="#b32">(Sheldon et al., 2011)</ref>. Participants using social media alone by themselves are likely experiencing unmet relatedness needs. As Sheldon and colleagues contend (2011), social media are not a particularly effective means of satisfying relatedness needs. Interpreted from a need-based perspective, social media use decreases well-being in the future, but only when social media users do not get their relatedness needs met through more direct forms of social interaction <ref type="bibr" target="#b12">(Hall, 2018)</ref>. It is important to point out that a relatedness need-based explanation does not support the central causal mechanism of the displacement hypothesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>One of the limitations of the present investigation is an inconsistent and incomplete measure of social media use in the LSAY sample. As in many publically available data sets, the measurement method changed between years. Two of the three items used in the second-panel model were SNSs, which suggest the findings of study 1 are most applicable to SNS-specific research. Study 2 attempted to resolve this limitation by evaluating private, chat programs offered through social media (e.g., Facebook chat) separately from passive social media use, which included checking in, browsing, reading, or using social media in some other way. Similar to past studies (e.g., <ref type="bibr" target="#b5">Burke &amp; Kraut, 2014;</ref><ref type="bibr" target="#b12">Hall, 2018)</ref>, passive social media use in study 2 had no influence on outcomes, specifically future social interactions.</p><p>The location of the social interaction (i.e., at home, outside of home) is an important factor in early displacement work <ref type="bibr" target="#b17">(Kraut et al., 1998;</ref><ref type="bibr">Nie &amp; Hillygus, 2001)</ref>. Although LSAY items only focused on social interactions with those outside of the home, study 2 included both social interactions within and outside of the home and found no support for social displacement. Study 1's participants were nationally representative of the American population 30 years ago, which is not representative of the American population now. Nevertheless, communication research has often been criticized for using non-representative and cross-sectional data. The value of the diversity of the sample and longitudinal nature of the LSAY addresses that criticism. Furthermore, study 2 used a sample of adults, not only undergraduate students, which is an important advance in the study of social media <ref type="bibr" target="#b15">(Huang, 2010)</ref>. Testing the same hypotheses with two different types of measurement, two different types of samples, and two different time scales, yet arriving at similar conclusions makes the present investigation valuable and unique.</p><p>Finally, many unobserved factors likely play an important role in changing well-being, such as childbearing and rearing, and factors such as these certainly play a role in changing modes of interaction. Having children likely influences both the ability to get outside the house for social gatherings and groups and how individuals use social media. How these factors influenced change in well-being for LSAY participants could not be estimated as demographic characteristics, including the number of children, were reported in either 2007 or 2008, but not again during the time that social media use and adoption were measured.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>At the center of the displacement debate is time. Both the original (e.g., <ref type="bibr" target="#b25">Nie, 2001)</ref> and contemporary proponents (e.g., <ref type="bibr" target="#b0">Ahn &amp; Shin, 2013;</ref><ref type="bibr" target="#b8">Dunbar, 2016)</ref> of the displacement hypothesis agree that the time spent on social media cannot be spent in other ways. Although there is recent evidence of increasing use of social media in terms of number of minutes <ref type="bibr">(The Economist, 2016)</ref>, there is no clear evidence about from where that time is coming. Although social media users, particularly Facebook users, point to relationship maintenance as a primary motivator for using it <ref type="bibr" target="#b1">(Baym, 2015;</ref><ref type="bibr" target="#b10">Ellison &amp; Vitak, 2015)</ref>, it does not follow that time spent using social media in general, or Facebook specifically, borrows from other social engagements. Rather, media use in general and internet use specifically are likely places from where that time is borrowed. Although this investigation contributes to research on social displacement by exploring two distinct time scales (i.e., three years and five days), it is a major empirical challenge in longitudinal research to identify the appropriate time scale to studying daily events <ref type="bibr" target="#b7">(Deboeck, 2013)</ref>. If changing media habits are indeed causally associated with changes in social interaction habits, what would be an appropriate time scale to test for that association? This critical and yet unanswered question must be answered to advance the ongoing study of the integration of new media into daily life.</p><p>These findings have the potential to inform the public debate on social displacement, but evidence against displacement runs up against public perceptions. In fact, <ref type="bibr" target="#b25">Nie's (2001)</ref> original arguments in support of displacement were developed partly from public opinions on the topic. It is likely still true that contemporary perceptions of the harms of social media, not research, bolster popular and academic claims of displacement. Some researchers (e.g., <ref type="bibr" target="#b8">Dunbar, 2016;</ref><ref type="bibr" target="#b33">Sigman, 2009)</ref> have even provided a biological interpretation of the potential harms of social media displacement, which further supports the public perception of its inevitable dangers. Technological deterministic perspectives have had a long life in public discourse on media and are firmly rooted in the emergence of the promise and perils of both the internet and Web 2.0 <ref type="bibr" target="#b1">(Baym, 2015)</ref>. Without carefully controlled experimental tests of displacement, using appropriate time scales and integrating and measuring both mediated and non-mediated social behavior, the displacement hypothesis cannot be fully discounted. Yet, the present study suggests future research should use much more caution before turning to the social displacement hypothesis to contextualize or understand the role of social media use in daily life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>Study 2 was supported by University of Kansas intramural funding <ref type="bibr">[Grant Number GRF#2301064]</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Michael W. Kearney http://orcid.org/0000-0002-0730-4694</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>001. a 2010, N = 2141. Correlation matrix legend: 1 = SM adoption '09, 2 = SM use '11 3 = Direct '09, 4 = Direct '10, 5 = Direct '11, 6 = Well-Being '10.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Structural equation panel model social media predicting direct contact. Note: *p &lt; .05.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Structural equation panel model predicting change in well-being. Note: *p &lt; .05, ***p &lt; .001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Decomposition of the interaction effect in study 2.</figDesc><graphic coords="12,125.18,53.29,239.98,209.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Jeffrey A. Hall (PhD University of Southern California) (Corresponding author) is an Associate Professor in the Department of Communication Studies at the University of Kansas. His research focuses on the intersection between the adoption and use of mobile and social media and everyday life and relationship maintenance. He also studies dating, flirting, and humor in romantic relationships [email: hallj@ku.edu]. Michael W. Kearney (PhD University of Kansas) is an Assistant Professor in the School of Journalism with a joint appointment in the Informatics Institute at the University of Missouri. His research uses data science to examine political partisanship and data journalism in new media [email: mkearney@ku.edu]. Chong Xing (MS, Fort Hays State University) is a doctoral candidate in the Department of Communication Studies and researcher at the Center for Research Methods and Data Analysis at the University of Kansas. He studies intergroup and interpersonal communication and emphasizes in advanced quantitative methodology [email: cxing@ku.edu].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Study 1 LSAY participants means, standard deviations, and correlation matrix (N = 2724).</figDesc><table><row><cell>Item</cell><cell>N</cell><cell>2009</cell><cell>2010 a</cell><cell>2011</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell></row><row><cell>Social media adoption/use</cell><cell></cell><cell></cell><cell></cell><cell cols="3">1 .54** .03</cell><cell>-.02</cell><cell>.02</cell><cell>-.04*</cell></row><row><cell>Facebook</cell><cell>2773</cell><cell>66.5%</cell><cell></cell><cell>24.96 (38.00) 2</cell><cell></cell><cell>.07**</cell><cell>.01</cell><cell>.03</cell><cell>.01</cell></row><row><cell>Twitter</cell><cell>2773</cell><cell>12.4%</cell><cell></cell><cell>1.68 (7.13) 3</cell><cell></cell><cell></cell><cell cols="2">.38** .41**</cell><cell>.03</cell></row><row><cell>Skype</cell><cell>2773</cell><cell>18.3%</cell><cell></cell><cell>1.02 (3.50) 4</cell><cell></cell><cell></cell><cell></cell><cell>.50**</cell><cell>.01</cell></row><row><cell>YouTube</cell><cell>2773</cell><cell>8.5%</cell><cell></cell><cell>6.34 (10.08) 5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.01</cell></row><row><cell>MySpace</cell><cell>2773</cell><cell>22.6%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>LinkedIn</cell><cell>2773</cell><cell>20.7%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Blog</cell><cell>2773</cell><cell>6.0%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Message board</cell><cell>2773</cell><cell>18.3%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Direct social interaction</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Visit friends each week</cell><cell cols="4">2676 2.50 (2.96) 2.07 (2.38) 2.02 (2.02)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">Talk on phone each week 2676 4.86 (6.15) 5.75 (6.34) 6.11 (6.73)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Attend meeting each week 2676 .38 (.90)</cell><cell>.41 (.96)</cell><cell>.42 (.84)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Well-being</cell><cell>2683</cell><cell></cell><cell>7.52 (1.79)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>Notes: SM adoption measured on Y/N scales; SM use and direct contact measured on ratio scale, SM use # of times/month; well-being was measured on a 11-pt scale; * p &lt; .01, ** p &lt; .</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Percentages, means, and standard deviations for all study 2 variables (N observations = 2722).</figDesc><table><row><cell></cell><cell>n</cell><cell>%M</cell><cell>SD</cell></row><row><cell>Had a social interaction?</cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>1925</cell><cell>71%</cell></row><row><cell>With whom?</cell><cell></cell><cell></cell></row><row><cell>Close friend or family</cell><cell>1005</cell><cell>53%</cell></row><row><cell>Other friend or family</cell><cell>476</cell><cell>25%</cell></row><row><cell>Acquaintance</cell><cell>320</cell><cell>17%</cell></row><row><cell>Stranger</cell><cell>111</cell><cell>5%</cell></row><row><cell>How?</cell><cell></cell><cell></cell></row><row><cell>Face-to-face</cell><cell>1394</cell><cell>73%</cell></row><row><cell>Phone</cell><cell>165</cell><cell>9%</cell></row><row><cell>Text or chat program</cell><cell>302</cell><cell>16%</cell></row><row><cell>Social media</cell><cell>48</cell><cell>2%</cell></row><row><cell>Used social media?</cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>727</cell><cell>27%</cell></row><row><cell>Affective well-being</cell><cell></cell><cell>70.23</cell><cell>17.99</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Estimates for logistic multilevel models predicting interaction partner. &lt; .01, **p &lt; .001. Unstandardized estimates for logistic multilevel models predicting response each category. Response categories are no interaction (model 1), acquaintance/stranger (model 2), other friend/family (model 3), and close friend/family (model 4). Response categories are also used to interpret the intercept fixed effect. To aid in clarity, the referent group for each model was specified to be the same as the response category of interest.</figDesc><table><row><cell></cell><cell></cell><cell>Acquaintance or</cell><cell>Other friend/</cell><cell>Close friend/</cell></row><row><cell></cell><cell>None</cell><cell>Stranger</cell><cell>Family</cell><cell>Family</cell></row><row><cell>Fixed effects</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intercept (t-1)</cell><cell>-1.00**(.12)</cell><cell>-1.18**(.14)</cell><cell>-1.27**(.17)</cell><cell>-.08 (.12)</cell></row><row><cell>None (t-1)</cell><cell></cell><cell>-.69**(.18)</cell><cell>-.54*(.18)</cell><cell>-45**(.13)</cell></row><row><cell>Acquaintance or stranger (t-1)</cell><cell>-.23 (.15)</cell><cell></cell><cell>-.35 (.19)</cell><cell>-.79**(.16)</cell></row><row><cell>Other friend/family (t-1)</cell><cell>-.12 (.17)</cell><cell>-.70**(.20)</cell><cell></cell><cell>-17 (.20)</cell></row><row><cell>Close friend/family (t-1)</cell><cell>-.17 (.14)</cell><cell>-1.09**(.18)</cell><cell>-.98**(.19)</cell><cell></cell></row><row><cell>Lapsed mins/100</cell><cell>-.21**(.07)</cell><cell>-.22 (.08)</cell><cell>.07 (.08)</cell><cell>-.01(.07)</cell></row><row><cell>Level 2: SM use (t-1)</cell><cell>-2.65**(.57)</cell><cell>-.33 (.52)</cell><cell>.52 (.76)</cell><cell>2.25*(.62)</cell></row><row><cell>Level 1: SM use (t-1)</cell><cell>-.05 (.13)</cell><cell>-.06 (.15)</cell><cell>-.10 (.15)</cell><cell>.16 (.12)</cell></row><row><cell>Random effects</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intercept</cell><cell>.44 (.67)</cell><cell>.19 (.44)</cell><cell>.87 (.93)</cell><cell>.65 (.80)</cell></row><row><cell>AIC</cell><cell>2313.3</cell><cell>1722.2</cell><cell>1821.4</cell><cell>2566.8</cell></row><row><cell>BIC</cell><cell>2357.5</cell><cell>1767.4</cell><cell>1866.7</cell><cell>2612</cell></row><row><cell>Log-likelihood</cell><cell>-1148.9</cell><cell>-853.1</cell><cell>-902.7</cell><cell>-1275.4</cell></row><row><cell>Deviance</cell><cell>2297.7</cell><cell>1706.2</cell><cell>1805.4</cell><cell>2550.8</cell></row><row><cell>Df</cell><cell>2095</cell><cell>2095</cell><cell>2095</cell><cell>2095</cell></row><row><cell>Notes: * p</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Estimates for logistic multilevel models predicting interaction medium.</figDesc><table><row><cell></cell><cell>None</cell><cell>Text</cell><cell>Phone</cell><cell>Face-to-face</cell></row><row><cell>Fixed effects</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intercept (t-1)</cell><cell>-.97**(.12)</cell><cell>-1.61**(.20)</cell><cell>-1.27**(.17)</cell><cell>.35**(.09)</cell></row><row><cell>None (t-1)</cell><cell></cell><cell>-.58*(.20)</cell><cell>-.54*(.18)</cell><cell>-.28 (.12)</cell></row><row><cell>Text (t-1)</cell><cell>-.05 (.18)</cell><cell></cell><cell>-.35 (.19)</cell><cell>-.79**(.16)</cell></row><row><cell>Phone (t-1)</cell><cell>-.39 (.25)</cell><cell>-.14 (.20)</cell><cell></cell><cell>-.17 (.20)</cell></row><row><cell>Face-to-face (t-1)</cell><cell>-.25*(.13)</cell><cell>-.73** (.20)</cell><cell>-.98**(.19)</cell><cell></cell></row><row><cell>Lapsed mins/100</cell><cell>-.21**(.07)</cell><cell>.00 (.09)</cell><cell>.07 (.08)</cell><cell>.18*(.06)</cell></row><row><cell>Level 2: SM use (t-1)</cell><cell>-2.74**(.57)</cell><cell>2.06 (.71)</cell><cell>.52 (.76)</cell><cell>1.43*(.53)</cell></row><row><cell>Level 1: SM use (t-1)</cell><cell>-.09 (.13)</cell><cell>.17 (.15)</cell><cell>-.10 (.15)</cell><cell>-.07 (.11)</cell></row><row><cell>Random effects</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intercept</cell><cell>.43 (.65)</cell><cell>.59 (.77)</cell><cell>.87 (.93)</cell><cell>.43 (.66)</cell></row><row><cell>AIC</cell><cell>2313.7</cell><cell>1472.5</cell><cell>1821.4</cell><cell>2754.7</cell></row><row><cell>BIC</cell><cell>2358</cell><cell>1617.7</cell><cell>1866.7</cell><cell>2799.9</cell></row><row><cell>Log-likelihood</cell><cell>-1148.9</cell><cell>-778.3</cell><cell>-902.7</cell><cell>-1369.3</cell></row><row><cell>Deviance</cell><cell>2297.7</cell><cell>1556.5</cell><cell>1805.4</cell><cell>2738.7</cell></row><row><cell>Df</cell><cell>2095</cell><cell>2095</cell><cell>2095</cell><cell>2095</cell></row></table><note><p>Notes: *p &lt; .01, **p &lt; .001. Unstandardized estimates for logistic multilevel models predicting response each category.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. A. HALL ET AL.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Thanks to <rs type="person">Hailey Drescher</rs> for her assistance during data collection. A previous version of this manuscript was presented at the <rs type="institution">International Communication Association conference in San Diego, CA in May 2107</rs>.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Is the social use of media for seeking connectedness or for avoiding social isolation? Mechanisms underlying media use and subjective well-being</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-H</forename><surname>Shin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.12.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2453" to="2462" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Baym</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115580477</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Social media and the struggle for society</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Intensive longitudinal methods: An introduction to diary and experience sampling research</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bolger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Laurenceau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Three Cs in measurement models: Causal indicators, composite indicators, and covariates</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0024448</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<editor>
+			<persName><surname>Wiley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bollen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Bauldry</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="265" to="284" />
+			<date type="published" when="1989">1989. 2011</date>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Structural equations with latent variables</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">It&apos;s complicated: The social lives of networked teens</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Growing closer on Facebook: Changes in tie strength through social network site use</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 32nd annual ACM conference on human factors in computing systems</title>
+		<meeting>the 32nd annual ACM conference on human factors in computing systems</meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="4187" to="4196" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The quality of online social relationships</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/514236.514242</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communications of the ACM</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="103" to="108" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Modeling nonlinear dynamics in intraindividual variability</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Deboeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of research methods for studying daily life</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mehl</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Connor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="440" to="458" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Do online social media cut through the constraints that limit the size of offline social networks?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rsos.150292</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society Open Science</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">150292</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Censors and sensibility</title>
+		<idno>05/21/16</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Economist</title>
+		<imprint>
+			<biblScope unit="page" from="23" to="24" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Social network site affordances and their relationship to social capital processes</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vitak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The handbook of the psychology of communication technology</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Sundar</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="205" to="227" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The regulation of social interaction in everyday life: A replication and extension of O&apos;Connor and Rosenblood (1996)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407516654580</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="699" to="716" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">When is social media use social interaction? Defining mediated social interaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1461444816660782</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Media &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="162" to="179" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Comparing happiness effects of real and on-line friends</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0072754</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">72754</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The impact of frequent social internet consumption: Increased procrastination and lower life satisfaction</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hinsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheldon</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cb.1453</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="496" to="505" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Internet use and psychological well-being: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2009.0217</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="241" to="249" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Internet paradox revisited</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiesler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boneva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Helgeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crawford</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1540-4560/00248</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="49" to="74" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Internet paradox: A social technology that reduces social involvement and psychological wellbeing?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lundmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiesler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mukopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scherlis</surname></persName>
+		</author>
+		<idno>doi:10/1037/0003-066x.53.9.1017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1017" to="1031" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ybarra</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0069841</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Media niche of electronic communication channels in friendship: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4/12175</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="451" to="466" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Social media, friendship, and happiness in the millennial generation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Manago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vaughn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Friendship and happiness</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Demir</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="187" to="206" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Longitudinal study of American Youth</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<ptr target="http://www.lsay.org/about.html" />
+		<imprint>
+			<date type="published" when="1987">2014. 1987-1994, 2007-2011</date>
+			<publisher>User guide. Inter-University Consortium for Political and Social Research</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Latent variable mixture modeling</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthén</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New development and techniques in structural equation modeling</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Marcoulides</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Schumaker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mahwah, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="1" to="33" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Muthen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Muthen</surname></persName>
+		</author>
+		<title level="m">Mplus user&apos;s guide</title>
+		<meeting><address><addrLine>Los Angeles, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Muthen &amp; Muthen</publisher>
+			<date type="published" when="1998">1998-2012</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Facebook bends the rules of audience engagements to its advantage</title>
+		<ptr target="http://www.nytimes.com/2016/05/06/business/facebook-bends-the-rules-of-audience-engagement-to-its-advantage.html?_r=0" />
+	</analytic>
+	<monogr>
+		<title level="j">New York Times</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Sociability, interpersonal relations, and the internet: Reconciling conflicting findings</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nie</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/00027640121957277</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavior Scientist</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="420" to="435" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Hillygus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The impact of internet use on sociability: Time-diary findings</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Boundary conditions for the application of three theories of computermediated communication to MySpace</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="557" to="574" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Use of social network sites and instant messaging does not lead to increased offline social network size, or to emotionally closer relationships with offline network members</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Pollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G B</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2010.0161</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">R: A language and environment for statistical computing</title>
+		<author>
+			<persName><forename type="first">Team</forename><surname>Core</surname></persName>
+		</author>
+		<ptr target="http://www.R-project.org/" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Computer software manual</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The accuracy of self-reported internet use: A validation study using client log data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scharkow</surname></persName>
+		</author>
+		<idno>doi:10.1080.19312458.2015.1118446</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication Methods &amp; Measures</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Association of Facebook use with compromised wellbeing: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Shakya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Christakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kww189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="203" to="211" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A two-process view of Facebook use and relatedness need-satisfaction: Disconnection drives use, and connection rewards it</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Abad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hinsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="766" to="776" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sigman</surname></persName>
+		</author>
+		<title level="m">Well connected? Biologist</title>
+		<meeting><address><addrLine>columbus, Ohio</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Does Facebook make you lonely? A meta-analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zmyslinski-Seelig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Drent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Victor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Omori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.04.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="446" to="452" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Time on the internet at home, loneliness, and life satisfaction: Evidence from panel time-diary data</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Stepanikova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>He</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2009.11.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="329" to="338" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Capturing momentary, self-report data: A proposal for reporting guidelines</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shiffman</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/S1532479ABM2403_09</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Behavioral Medicine</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="236" to="243" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Facebook experiment: Quitting Facebook leads to higher levels of wellbeing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tromholt</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="661" to="666" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">American Time Use Survey</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Turkle</surname></persName>
+		</author>
+		<ptr target="http://www.bls.gov/tus/" />
+		<imprint>
+			<date type="published" when="2011">2011. 2015</date>
+			<publisher>Basic Books. United States Department of Labor</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Alone together</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shablack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orvell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000057</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A review of Facebook research in the social sciences</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gosling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Graham</surname></persName>
+		</author>
+		<idno>doi:1177/1745691612442904</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="203" to="220" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
