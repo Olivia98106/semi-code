@@ -356,8 +356,9 @@ if doc_id_selection:
         with (st.spinner('Reading file, calling Grobid...')):
             with open(pdf_path, 'rb') as f:
                 binary = f.read()
-                tmp_file = NamedTemporaryFile()
+                tmp_file = NamedTemporaryFile(delete=False)
                 tmp_file.write(bytearray(binary))
+                tmp_file.close()
                 st.session_state['binary'] = binary
                 annotations, pages = init_grobid().process_structure(tmp_file.name)
 
@@ -425,7 +426,9 @@ if doc_id_selection:
             )
             summary_area(summary, height)
         with col2:
-            init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
+            xml_filename = f'{filename[:-4]}.grobid.tei.xml'
+            if not os.path.exists(os.path.join('resources/xml', xml_filename)):
+                init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
             export_pdf_body()
             export_pdf_selected_content()
             export_pdf_selected_content_as_txt()
