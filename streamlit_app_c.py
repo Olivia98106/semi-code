@@ -147,6 +147,19 @@ def show_phrase():
     notes = st.text_area(f"Notes about {input_query}:", notes, height=500)
     st.download_button("Download Notes as TXT", notes)
 
+def get_cached_response(input_query, filename):
+    phrase = conn.query(f"select response from phrase where query = '{input_query}' and filename = '{filename}'", ttl=0)
+    if len(phrase) > 0:
+        return phrase['response'][0]
+    query = f"{input_query}. Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
+    response = openai_service.chat_with_pdf(os.path.join('resources/pdf', filename), query)
+    with conn.session as s:
+        sql = sqlalchemy.sql.text(
+            'insert or replace into phrase(query, filename, response) values (:query, :filename, :response)')
+        s.execute(sql, params=dict(query=input_query, filename=filename, response=response))
+        s.commit()
+    return response
+
 
 with col1:
     input_query = st.text_input("Please input your query (e.g. elaborate the within-subject experiment designs, find time-relevant phrases)", key = 'input_query')
@@ -154,10 +167,10 @@ with col1:
     if keyword_button and len(input_query) > 0:
         for doc_id in pdf_dict.keys():
             filename = pdf_dict[doc_id]
-            query = f"{input_query}. Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
             if not os.path.exists(os.path.join('resources/pdf', filename)):
                 continue
-            response = openai_service.chat_with_pdf(os.path.join('resources/pdf', filename), query)
+            # What are the time phrases in the article?
+            response = get_cached_response(input_query, filename)
             logging.info(response)
             response = response[response.find("["): response.rfind("]") + 1]
 
