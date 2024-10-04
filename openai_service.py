@@ -42,7 +42,7 @@ def pdf_to_text(pdf_file_path, binsize=1, abstract=1, start_ratio=0.3, end_ratio
 
 
 def get_answer(knowledge_base, query, model):
-    client = openai.Client()
+    client = openai.Client(base_url = "https://api.moonshot.cn/v1")
     completion = client.chat.completions.create(
         model=model,
         messages=[
@@ -57,7 +57,7 @@ def chat_with_pdf(pdf_file_path, query):
     if pdf_file_path:
         knowledge_base = pdf_to_text(pdf_file_path)
         if query:
-            response = get_answer(knowledge_base, query, model=gpt4o_model)
+            response = get_answer(knowledge_base, query, model="moonshot-v1-32k")
             return response
 
 
