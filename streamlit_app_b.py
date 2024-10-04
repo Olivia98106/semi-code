@@ -149,33 +149,42 @@ def export_pdf_body():
 def export_pdf_selected_content():
     # init_grobid().process_pdf_to_xml("resources/pdf", "resources/xml")
     filename = pdf_dict[st.session_state['doc_id_selection']]
-    filename = filename[:-4]
-    logging.info(f"export pdf select content {filename}")
-    with open(f"resources/xml/{filename}.grobid.tei.xml", "rb") as file:
+    logging.info(f"export pdf select content {filename[:-4]}")
+    with open(f"resources/xml/{filename[:-4]}.grobid.tei.xml", "rb") as file:
         soup = BeautifulSoup(file, features="xml")
+        title = soup.title.text
+        logging.info(title)
+        person_names = []
+        for persName in soup.find_all('persName'):
+            pn = ''
+            for name in persName.children:
+                # ignore role name
+                if str(name.text).find('Ph.D') >= 0:
+                    continue
+                pn = pn + name.text + " "
+            person_names.append(pn[:-1])
+        logging.info(person_names)
         selected_content = {}
         if highlight_title:
-            selected_content['title'] = [soup.title.text]
+            selected_content['title'] = title
         if highlight_person_names:
-            selected_content['person_names'] = []
-            for persName in soup.find_all('persName'):
-                pn = ''
-                for name in persName.children:
-                    pn = pn + name.text + " "
-                selected_content['person_names'].append(pn)
+            selected_content['person_names'] = person_names
         if highlight_figures:
             selected_content['figures'] = []
             for figure in soup.find_all('figure'):
                 if figure.head:
                     selected_content['figures'].append(figure.head.text)
         if highlight_sentences or highlight_paragraphs:
-            selected_content['paragraphs'] = []
-            for paragraph in soup.find_all('p'):
-                selected_content['paragraphs'].append(paragraph.text)
+            all_content = util.read_all_pdf_content(f"resources/pdf/{filename}")
+            all_content = all_content.replace('\n', ' ')
+            all_content = util.replace_ignore_case(all_content, title, '')
+            for pn in person_names:
+                all_content = util.replace_ignore_case(all_content, pn, ' ')
+            selected_content['paragraphs'] = all_content
         st.download_button(
             label="Download Selected Content as JSON",
             data=json.dumps(selected_content),
-            file_name=f"{filename}.json",
+            file_name=f"{filename[:-4]}.json",
             mime="application/json",
         )
 
