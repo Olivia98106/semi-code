@@ -62,8 +62,19 @@ def chat_with_pdf(pdf_file_path, query):
 
 
 if __name__ == "__main__":
-    q = "What are the time phrases in the article? Give me original reference as well. Save the result in a json array, the json array contains json objects, the keys are result and reference."
+    q = '''
+Analyze the following academic article and check if the authors use time-relevant phrases to 1) describe data collection procedure; 2) descriptive findings; 3) imply core concepts about time; 4) introduce time-relevant model specification. If no time-relevant phrase is found, return an empty string. Otherwise, extract the exact text where the authors give statements about time.
+Make sure to:
+Extract as comprehensively as possible.
+Quote only the original text—do not fabricate any content. After the extraction, summarize the authors' motivation to use time-relevant phrases in a few words according to the four types provided. Do not add any additional commentary or text.
+After the extraction, summarize the authors' motivation in a few words. Return the result in a json array, the json array contains json objects like:
+{
+"result": "extracted time-relevant phrases or empty string",
+"summary": “motivation to use time-relevant phrase”
+}
+Do not add any additional commentary or text. Only return the output in the specified format.
+    '''
     result = chat_with_pdf(
-        'resources/pdf/10.1177&107769908105800204.pdf',
+        'resources/pdf/10.1177&0093650219872394.pdf',
         q)
     print(result)
